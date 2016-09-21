@@ -5,35 +5,27 @@ import math
 import functions
 
 po = polib.pofile('/Users/thaothai/Desktop/Terminology_Creation/customizableWidgets.properties.po')
-Source= []
 BigramSource = []
-Target= []
 BigramTarget = []
 NumberOfSentences= len(po.translated_entries())
-PossblPairs = []
-
+PossiblePairs = []
+Source = {}
+Target = {}
 #Create a list for english and translated terms 
 for entry in po.translated_entries():
       SplitSource = entry.msgid.upper().split()
       SplitTarget = entry.msgstr.upper().split()
-      for word in SplitSource:
-            Source.append(word)
-      for word in SplitTarget:
-            Target.append(word)
-            
-#Create a list and assign the value returned from functions
-CountSource = functions.count_word(Source)
-CountBSource = functions.count_bigram(Source)
-CountTarget= functions.count_word(Target)
-CountBTarget = functions.count_bigram(Target)
+      functions.count_word(SplitSource, Source)
+      functions.count_word(SplitTarget, Target)
+      
+#Calculate the probability of each word in the sentences
+functions.probability_one_language(Source,NumberOfSentences)
+functions.probability_one_language(Target, NumberOfSentences)
+print Source
+print Target 
 
-#Calculate the probability
-ProbabilitySource = {x:float(CountSource[x])/NumberOfSentences for x in CountSource}
-ProbabilityTarget = {x:float(CountTarget[x])/NumberOfSentences  for x in CountTarget}
-
-
-PossiblePMIPairs = functions.prob_language(ProbabilitySource, ProbabilityTarget, PossblPairs, NumberOfSentences)
-
+PossiblePMIPairs = functions.probability_languages(Source, Target, PossiblePairs, NumberOfSentences)
+print PossiblePMIPairs
             
 ##      for y in translation:
 ##            z =  x*y / sents
@@ -45,8 +37,6 @@ PossiblePMIPairs = functions.prob_language(ProbabilitySource, ProbabilityTarget,
 ##print prob_engwrd
 ##print prob_transwrd
 
-for x in PossiblePMIPairs:
-      print x 
 
 
 
