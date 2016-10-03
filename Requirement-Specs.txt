@@ -29,9 +29,18 @@ Pointwise Mutual Information – theory that measure the relationship and probab
 2. Product Description
 
 2.1 User characteristics
-2.2 Assumptions
+The potential users of our system are software developers and administrators.
+Software developers can use the website to find translations of technical terminology to aid in the creation of software for a multitude of countries. They will also be able to change an incorrect translations and add back translations.
+The administrators will manage the system to ensure the validity of the translations.
+
+2.2 Assumptions and Dependencies
+It is assumed the user will have access to an Internet connection and a web browser. 
+It is also assumed that those with accounts will contribute accurate information.
+
 2.3 Constraints
-2.4 Dependencies 
+The user has a constraint in that only users with an account will be allowed to change the translations or add to them. 
+The accuracy of the algorithm is also a constraint. The accuracy of the translations is directly tied to the accuracy of the algorithm because the project depends on the algorithm to correctly create translations.
+
 
 3. Requirements
 
@@ -51,12 +60,19 @@ The back end of the user interface will generate a hash function for user’s pa
 There will also be a public database that the users can insert their own back-translation of the undocumented terminologies. 
 
 3.3 Usability
+In order to use the web interface, users must have a basic knowledge of internet browser usage. Users should also be fluent in English, particularly if they are correcting translations.
 
-3.5 Manageability
+3.4 Security
+Login information should be encrypted. 
+Accounts are password protected, so the user can verify his or her identity upon login.
 
-The terminology 
-3.6 Security
-3.8 Data Management
+3.5 Data
+The project requires an open source library of .PO files.
 
 4. User Scenarios
-
+Scenario: Looking up a translation
+  A user will type in the English word and select the language to which they want the term translated. If the translation exists in the database, the user will be able to see the translated term
+Scenario: Editing translations
+  Given the user is logged in, the user can edit an existing translation or add a new one to the database.
+Scenario: Creating a new account
+  The user will provide a valid email address and password in order to create a new account.
