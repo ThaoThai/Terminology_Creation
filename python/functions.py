@@ -6,8 +6,15 @@ from Translate_Object import Translate
 import random
 import string 
 
+
+#strip away the punctuation
+def translate_non_alphanumerics(to_translate, translate_to=u''):
+    not_letters = u'!"#%\'()*+,-./:;<=>?&@[\]^_`{|}~[0-9]'
+    translate_table = dict((ord(char), translate_to) for char in not_letters)
+    return to_translate.translate(translate_table)
+
 #ID Generator
-def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
+def id_generator(size=8, chars=string.ascii_uppercase + string.digits):
       return ''.join(random.choice(chars) for _ in range(size))
 
 #A function that adds counts to the each word found in the entries
@@ -26,20 +33,21 @@ def count_word(WordList, Index_Language, RandomMsgID):
 #Filter out any key that has appear in less than 3 sentences
 def filter_pairs(Index_Language):
       for key in Index_Language.keys():
-            if len(Index_Language[key]) < 3:
+            if len(Index_Language[key]) < 5 or set('&%$@-\'\"+.<=>#:').intersection(key.encode('utf-8')):
                   try:
                         del Index_Language[key]
                   except KeyError:
                         pass
-#Filter out key with the same list of message ID
-def filter_keys_list( Index_Source, Index_Target):
-      for key in Index_Source:
-            if Index_Source[key] not in Index_Target.values():
-                  try:
-                        del Index_Source[key]
-                        del Index_Target[key]
-                  except KeyError:
-                        pass
+                  
+###Filter out key with the same list of message ID
+##def filter_keys_list( Index_Source, Index_Target):
+##      for key in Index_Source:
+##            if Index_Source[key] not in Index_Target.values():
+##                  try:
+##                        del Index_Source[key]
+##                        del Index_Target[key]
+##                  except KeyError:
+##                        pass
 
 #Calculate the P(Lword1,Lword2)                
 def probability_languages(SourceLanguage,  TargetLanguage, PossiblePairsList, NumberOfSentences):
