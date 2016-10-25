@@ -1,6 +1,6 @@
 <?php
 // Credentials
-$dbhost = "localhost";
+$dbhost = "db1.mcs.slu.edu";
 $dbname = "terminology_creation";
 $dbuser = "pokhrelb";
 $dbpass = "database";
