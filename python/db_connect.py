@@ -2,8 +2,8 @@ import mysql.connector
 from datetime import date, datetime, timedelta
 
 
-con = mysql.connector.connect(user='hopper.slu.edu', password='database',
-                              host='localhost',
+con = mysql.connector.connect(user='pokhrelb', password='database',
+                              host='db1.mcs.slu.edu',
                               database='terminology_creation')
 with open('viTranslation.txt', 'r') as f:
     for line in f:

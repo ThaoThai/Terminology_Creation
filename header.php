@@ -4,7 +4,7 @@
 <html lang="en">
 	<head>
 		<title>Terminology Header</title>
-		<link href="public.css" media="all" rel="stylesheet" type="text/css" />
+		<link href="assets/css/public.css" media="all" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
     <div id="header">
