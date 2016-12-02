@@ -31,10 +31,8 @@ if (strlen($search_string) >= 1 && $search_string !== ' ') {
 		// Replace the items into above HTML
 		$o = str_replace('nameString', $d_name, $html);
 		$o = str_replace('compString', $d_comp, $o);
-		//$o = str_replace('zipString', $d_zip, $o);
-		//$o = str_replace('cityString', $d_city, $o);
 		// Output it
-		echo($o);
+		echo iconv("ISO-8859-1", "UTF-8", $o);//($o,PHP_EOL);
 			}
 		}else{
 		// Replace for no results
