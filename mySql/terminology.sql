@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS terminology(
+REATE TABLE IF NOT EXISTS terminology(
  `id` int(11) NOT NULL AUTO_INCREMENT,
  `date_created` datetime NOT NULL,
  `eng` varchar(255),
@@ -20,5 +20,5 @@ CREATE TABLE IF NOT EXISTS terminology(
  `bho` varchar(255),
  `bm` varchar(255),
  `bn_BD` varchar(255),
- PRIMARY KEY (`id`)
+ PRIMARY KEY (`id`) PRIMARY KEY (`id`)
  )ENGINE=InnoDB DEFAULT CHARSET=latin1;
