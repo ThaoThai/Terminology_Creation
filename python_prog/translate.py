@@ -1,28 +1,25 @@
 import polib
 import string
-import functions
 import re
+import collections
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
-dict = ["ach.txt","an.txt", "bo.txt", "brx.txt", "bs.txt", "cak.txt", "cly.txt", "kok.txt", "lij.txt", "lo.txt", "mai.txt", "meh.txt", "mxp.txt", "nd.txt", "neb.txt", "trc.txt", "tt.txt", "trs.txt", "wo.txt", "zar.txt", "zty.txt"]
-for text in dict:
-    with open('/Users/thaothai/Desktop/Terminology_Creation/python/languages/%s' % (text)) as f:
-        pofiles = f.read().splitlines()
-    file1 = open('/Users/thaothai/Desktop/Terminology_Creation/python/directTrans/%s'%(text), 'w')
+pofiles = ["/Users/thaothai/Desktop/terminology/ga/essential.po"]
+for po_file in pofiles:
+    file1 = open('/Users/thaothai/Desktop/Terminology_Creation/results/ga/ga-pootle', 'w')
     for po_file in pofiles:
         po = polib.pofile(po_file)
-        NumberOfSentences = len(po.translated_entries())
+        NumberOfSentences= len(po.translated_entries())
         if NumberOfSentences == 0:
-            exit()
-        # Create a list for english and translated terms
+            continue
+            #Create a list for english and translated terms
         for entry in po.translated_entries():
-            SplitSource = entry.msgid.upper().split()
-            if len(SplitSource) == 1:
-                word = re.sub("[0-9]|[%$&;:#!\]\[@?<>*\'\=+,-\.\)\(]|[...]|[--]", "", entry.msgid.upper().encode('utf-8'))
-                if word in open('/Users/thaothai/Desktop/Terminology_Creation/python/directTrans/%s'%(text)).read():
-                    pass
-                else:
-                    word2 = re.sub("[0-9]|[%$&;:#!\]\[@?<>*\'\=+,-\.\)\(]|[...]|[--]", "",
-                                   entry.msgstr.upper().encode('utf-8'))
-                    file1.write(word + "; " + word2 + '\n')
-    file1.close()
-
+            word = re.sub("[0-9]|[%$&;:#!\]\[@?<>*\\=+,-\.\)\(]|[...]|[--]|{}","", entry.msgid.encode('utf-8'))
+            word2 = re.sub("[0-9]|[%$&;:#!\]\[@?<>*\\=+,-\.\)\(]|[...]|[--]|{}","", entry.msgstr.encode('utf-8'))
+            Source = word
+            Target = word2
+            if len(Source) > 1 or len(Target) > 1:
+                file1.write(Source + ";" + Target + "\n")
+file1.close()
