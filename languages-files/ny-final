@@ -1,0 +1,412 @@
+Account;yawe
+Activate;Konzedwa
+Activated;Konzedwa
+Addons;Ophatikizira
+Alert;Khala tcheru
+All;byoona
+Anchors;Zolimbitsa
+Animation;Chosangalatsa
+Animations;Chosangalatsa
+Applying;Kufunsira
+Back;enyuuma
+Bookmarks;Chidziwitso
+Buttons;Mabatani
+CanvasGradient;CanvasPattern
+CanvasPattern;inanyozeledwa
+Checking;Kuwona
+Close;Tsekani
+Collapse;Gwetsedwa
+Continue;Pitiliza
+Default;Chikhalire
+Don &apos;t ask me again
+Don;Osaonjezera
+Down;kandi ahansi
+Downloading;Kulowetsa
+Downloads;Zotsitsidwa
+Empty;kanthu
+EndUser;KumalizaUfulu
+Entries;Zolowa
+Exception;zabwino
+Failed;zalepheleka
+Firefox;Firefox
+For;Pofuna
+Form;Pangani
+Foundation;aDziwani
+From;zipangizo
+Graphics;Zithunzi
+Headings;Mitu
+Health;chidziwitso
+Highlight;londa
+History;Mbiri
+Humans;mwalandilidwa
+Image;Zithunzi
+Images;Zithunzi
+Import your;Itanitsani
+JSONparse;JSONparse
+JSONstringify;JSONstringfy
+Landmarks;Zinthu zodziwitsa nsanga
+Last;chomaliza
+Links;Zolumikizira
+Lists;Mndandanda
+Loading;Kupakira
+Loading…;Kupakira…
+Low;Chikumbutso
+Make;Pelekani
+Manage;Kwanitsani
+Mode;enuugi
+More;zambiri
+Mozilla;Mozilla
+NULL;sizingatseke
+Navigation;Mayendedwe
+Optimizing;Optimizing
+Options;Zochita kusankha
+Page;Tsamba
+Pages;Pages
+Please;Chondw
+Policy;za chinsinsi
+Preferences;Makonda
+Preferences…;Makonda…
+Radio;Mabatani
+Reconnect;mwalandilidwa
+Report;thanzi
+Restart;Kuyambanso
+Restore;Bwezeretsani
+Rights;ogwiritsa
+Robots;Nyali
+Row;Nzere
+S;pacetegi
+S_files;pasentagi ya fayilo
+Safe;modi
+Screen;Screen
+Scripts;zolembedwa
+Search;Fufuzani
+Search…;Fufuzani…
+Selection;Masankhidwe
+Separator;Osiyanitsa
+Separators;Osiyanitsira
+Session;msonkhano
+Show;yeleka
+Sign;Lowani
+Starting;Kuyambiranso
+Stay;Khalani
+Success;Chipambano
+Sync;Sync
+Tables;Magome
+Tabs;onse
+Thanks for;Zikomo
+The;wapafupi
+Thumbnail;ekinkumu
+Type;Lembani
+URL;URL
+Unresponsive;Zolemba
+Update;watsopano
+Use of attributes &apos;
+Use;Gwiritsa
+Username;ezina
+Verify;reeba
+Warning;Chenjezo
+Well;Chabwino
+Your;akawuti
+a URL;URL
+a donation;chithandizo
+a file;failo
+a number;nambala
+a value;kufunikira
+a;posagwira
+aChoose;aSankhani
+aKnow;ufulu
+about;zokhudza
+accessible;aliyense
+activated;konzedwa
+add;Onjezani
+addons;yophatikizira
+address;email
+alert;khala tcheru
+alert;tcheru
+an email;keyala
+an entirely;mwatsopano
+an item;chinthu
+an;mwachitsanzo
+and;yotsegula
+animation;chosangalatsa
+are you sure;Mukutsimikiza
+area;olembedwa
+at;ka
+attempt;kulumikiza
+attribute;attribute
+attributes &apos;
+bEven;cholakwikachi
+banner;mbendera
+bar;mtanda
+be unstable;sikungakhazikike
+be;zikhoza
+being;lolani
+box;bokosi
+boxes;ofufuzira
+brandFullName;brandFullName
+brandShortName;brandShortName
+brandShorterName;brandShorterName
+btn;btn
+busy;kukhala
+button;batani
+cSrS;cSrS
+canvas;nsalu yokhukhuthala
+caption;kufotokozera
+caused;Izi
+causing;ikupangitsa
+cc;cc
+cell;chipinda
+characters;machitidwe
+check;yang
+checked;fufuzidwa
+choosing;posankha
+clicked;tabwanyidwa
+close;omwe
+closed;tsekedwa
+code;code
+collapsed;gwetsedwa
+column;nsanamira
+columns;nsanamira
+combo;combo
+community;lonse
+complementary;mothandiza
+content;zilipo
+continue;zipitilire
+customize;Ndizosavuta
+cycled;zungulilidwa
+d;d
+data;data
+date;tsiku
+debugger;debugger
+default;chikhalire
+definition;tanthauzo
+denied;kunakanidwa
+developermozillaorg;developermozillaorg
+diagram;chojambula
+dialog;polembedwa
+dialog;posindikizira
+displaying;landandalika
+do;musasindikize
+document;chikalata
+documentcreateAttribute;documentcreateAttribute
+documentwrite;documentwrite
+doesn;chizindikiro
+editing;kusindikiza
+elements;zofunikira
+elementsetAttribute;mbali
+email;email
+en;en
+enablePrivilege;enablePrivilege
+enter;lowetsani
+entered;mwalowa
+entry;kulowa
+equation;kufanana
+exactly;ndendende
+expanded;kulitsidwa
+extension;kuonjezera
+failed;alepheleka
+features;tsopano
+field;dera
+fig;nkhuyu
+figure;maonekedwe
+fill;yinjamu
+fillStyle;fillStyle
+find;mupeze
+flat;kufanana
+footer;woyenda
+form;ndondomeko
+format;mwapemphedwa
+free;ulere
+from;kuchokera
+fullscreen;Kupempha
+get Involved;Lowererani
+get involved;lowererani
+get;Ndichotseni
+getAttribute;getAttribute
+getAttributeNS;getAttributeNS
+getAttributeNode;getAttributeNode
+getAttributeNodeNS;getAttributeNodeNS
+getElementById;getElementById
+global;madera
+good;choyenera
+graphic;chithunzi
+graphic;zithunzi
+grip;gwiritsitsa
+harm;kuononga
+has;chikhoza
+have;nseu
+header;wosenza
+heading;lowera
+here;apa
+hidden;bisidwa
+home;lofulumira
+host;zatchingidwa
+https;https
+human;adze
+ignored;kunanyozeredwa
+image;chifaniziro
+imgmap;imgmap
+instead;mwake
+is deprecated;yakaniza
+is designed;inapangidwa
+is embarrassing;ndizamanyazi
+is experimental;ndikuyesa
+is having;ilindi
+is ready;ndiyokonzeka
+item;chinthu
+items;zinthu
+jumped;lumphidwa
+know;pokhapokha
+label;pepala lodziwitsa pa chinthu
+label;pepala lodziwitsira chinthu
+learn;yeega
+least;sikanali
+leave;Siya
+less;pang
+level;kodidiriza
+link;kulumikiza
+list;mndandanda
+lnk;inki
+loaded;pakiridwa
+loading;kupakira
+location;omwanya
+logos;zopangira
+low;kutsika
+main;chofunikira
+manager;bwana
+map;mapu
+match;fananizani
+may;sizingaononge
+memory;chotsika
+metal;chowala
+navigating;mayendedwe
+navigation;mayendedwe
+nearest;zapafupi
+neither;CanvasGradient
+no less;sikukutsikira
+nodeValue;nodeValue
+not be saved;sisungidwa
+not checked;sinafufuzidwa
+not;mazenera
+note;kakalata
+note;kalata
+now;pompano
+nsIDOMWindow;nsIDOMWindow
+nsIDOMWindowInternal;nsIDOMWindowInternal
+nsIJSONdecode;nsIJSONdecode
+nsIJSONencode;nsIJSONencode
+of Sync;yakale
+of;nchito
+on;pa
+open;kutsegula
+opened;tsekulidwa
+option;chita kusankha
+or;zotanganidwa
+out;mu
+outline;dongosolo
+ownerElement;ownerElement
+page;tsamba
+pane;galasi
+paragraph;ndime
+passed;chinadutsa
+passwdtxt;passwdtxt
+password;ndime
+pop;kutuluka
+popup;zotuluka
+pressed;sindikizidwa
+progress;chipambano
+radio;wailesi
+reader;reader
+readonly;werenga kokha
+reason;chomwe
+recently;zimachitika
+reloading;kupakiranso
+removeAttribute;removeAttribute
+removeAttributeNode;removeAttributeNode
+removed;kyarungaho
+reparsed;kusathamanga
+required;funidwa
+responding;kuyankha
+results;ebaara
+row;mzere
+rowand;nzerendi
+rows;mizere
+rr;r
+script;zosadalilika
+scroll;kufutukula
+search;fufuza
+section;gawo
+seen;zaona
+select;sankhani
+selected;sankhidwa
+separator;nsiyanitsa
+separator;osiyanitsa
+set strokeStyle;strokeStyle
+setAttribute;setAttribute
+setAttributeNS;setAttributeNS
+setAttributeNode;setAttributeNode
+setAttributeNodeNS;setAttributeNodeNS
+shiny;chitsuro
+shorten;fupikitsani
+site &apos;s identification
+site;mukudalira
+slider;wotsetsereka
+software;posapeza
+someone;akuseweretsa
+source;software
+space;oyera
+spans;zokwaniritsa
+spin;lozungulira
+started;yayamba
+status;zochitika
+stop;siyani
+stopped;yayima
+switched;sinthidwa
+syncBrandshortNamelabel;syncBrandshortNamelabel
+tab;tab
+table;gome
+tabs;matabu
+telephone;lamya
+tell;zikuchitika
+term;gawo
+text area;malo olembedwa
+text;mau
+textContent;textContent
+than;kuposa
+that is no;sikukupitilira
+that;mukuganiza
+the requested;kapangidwe
+the;azidziwitso
+there &apos;s
+these;zosankha
+they;zili
+think;amene
+this;ili
+to help;kuthandiza
+to;ku
+together;pakusunga
+toggle;toggle
+toolbar;mndandadnda wa zipangizo
+toolbar;mndandanda wa zipangizo
+tree;gome
+trouble;kubwezeretsa
+unavailable;sikupezeka
+unbalanced;wosalingana
+unchecked;osafufuzidwa
+unselected;osasankhidwa
+up;kunja
+use;gwiritsani
+using;mukugwiritsa
+value;value
+vendorShortName;vendorShortName
+version;Sync
+visited;yenderedwa
+want;mukufuna
+was;fulscreen
+white;mpata
+why;chikupangitsa
+windows;sanatsegulidwa
+wish;mufuna
+working;kugwirila
+written using;pogwiritsa
+your rights …;wanu
