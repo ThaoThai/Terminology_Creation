@@ -1,9 +1,9 @@
 <?php
 // Credentials
-$dbhost = "db1.mcs.slu.edu";
+$dbhost = "localhost";
 $dbname = "terminology_creation";
-$dbuser = "pokhrelb";
-$dbpass = "database";
+$dbuser = "root";
+$dbpass = "poker";
 
 //	Connection
 global $test_db;
