@@ -1,14 +1,14 @@
 <?php
-require_once('header.php');
+//require_once('header.php');
 
 if (isset($_POST['cancel'])){
   header('Location: ../index.php');
      exit;}
-                
+
 $errors = [];
 if (isset($_POST['register'])) {
     require_once ("db_connect.php");
-    $expected = ['username', 'pwd', 'confirm'];
+    $expected = ['username', 'pwd', 'confirm','DateOfBirth','fluent','email'];
     // Assign $_POST variables to simple variables and check all fields have values
     foreach ($_POST as $key => $value) {
         if (in_array($key, $expected)) {
@@ -37,14 +37,17 @@ if (isset($_POST['register'])) {
                 try {
                     // Generate a random 8-character user key and insert values into the database
                     $user_key = hash('crc32', microtime(true) . mt_rand() . $username);
-                   
-                    $sql = 'INSERT INTO users (user_key, username, pwd)
-                            VALUES (:key, :username, :pwd)';
+
+                    $sql = 'INSERT INTO users (user_key, username, pwd,DateOfBirth,fluent,email)
+                            VALUES (:key, :username, :pwd,:DateOfBirth,:fluent,:email)';
                     $stmt = $db->prepare($sql);
                     $stmt->bindParam(':key', $user_key);
                     $stmt->bindParam(':username', $username);
                     // Store an encrypted version of the password
                     $stmt->bindValue(':pwd', password_hash($pwd, PASSWORD_DEFAULT));
+                    $stmt->bindParam(':DateOfBirth', $DateOfBirth);
+                    $stmt->bindParam(':fluent', $fluent);
+                    $stmt->bindParam(':email', $email);
                     $stmt->execute();
                 } catch (\PDOException $e) {
                     if (0 === strpos($e->getCode(), '23')) {
@@ -72,7 +75,26 @@ if (isset($_POST['register'])) {
 <meta charset="utf-8">
 <title>Create Account</title>
    <style>
-   
+   html { height: 100%; width: 100%; }
+   body {
+     width: 100%; height: 100%;
+     margin: 12; padding: 15; border: 15;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 13px; line-height: 15px;
+     background: #C3C3C3;
+    padding-bottom: 20%;
+   }
+
+   #header {
+   	padding-bottom:12%;
+   	margin: 10; padding: 10;
+		text-align: center;
+    background: url(http://i.imgur.com/is6KRqa.jpg);
+    background-size: cover;
+
+   }
+   #header h1 { padding: 1em; margin: 0; }
+
 
 form {
     margin: 0 auto;
@@ -94,8 +116,8 @@ input[type=password] {
     margin: 10px;
     margin-top: 12px;
     margin-left: 18px;
-    width: 290px;
-    height: 35px;
+    width: 200px;
+    height: 25px;
     border: 1px solid #c7d0d2;
     border-radius: 2px;
     box-shadow: inset 0 1.5px 3px rgba(190, 190, 190, .4), 0 0 0 5px #f5f7f8;
@@ -174,6 +196,10 @@ label[for=color] {
     margin-left: 6.5em;
 }
  </style>
+ <div id="header">
+   <h1>Terminology Creation</h1>
+ </div>
+
 
 
 </head>
@@ -182,7 +208,7 @@ label[for=color] {
 <h1>Create Account</h1>
 <form action="<?= $_SERVER['PHP_SELF']; ?>" method="post">
     <p>
-        <label for="username">Username:</label>       
+        <label for="username">Username:</label>
 
         <input type="text" name="username" id="username"
         <?php
@@ -220,6 +246,42 @@ label[for=color] {
         }
         ?>
     </p>
+
+    <p>
+        <label for="DateOfBirth">Date Of Birth:</label>
+        <input type="text" name="DateOfBirth" id="DateOfBirth">
+        <?php
+        if (isset($errors['DateOfBirth'])) {
+            echo $errors['DateOfBirth'];
+        } elseif (isset($errors['nomatch'])) {
+            echo $errors['nomatch'];
+        }
+        ?>
+    </p>
+    <p>
+        <label for="fluent">Fluent Language:</label>
+        <input type="text" name="fluent" id="fluent">
+        <?php
+        if (isset($errors['fluent'])) {
+            echo $errors['fluent'];
+        } elseif (isset($errors['nomatch'])) {
+            echo $errors['nomatch'];
+        }
+        ?>
+    </p>
+    <p>
+        <label for="email">Email:</label>
+        <input type="text" name="email" id="email">
+        <?php
+        if (isset($errors['email'])) {
+            echo $errors['email'];
+        } elseif (isset($errors['nomatch'])) {
+            echo $errors['nomatch'];
+        }
+        ?>
+    </p>
+
+
     <p>
         <input type="submit" name="register" id="register" value="Create Account">
         <input type="submit" name="cancel" id="cancel" value="Cancel">

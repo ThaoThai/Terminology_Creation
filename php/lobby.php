@@ -1,17 +1,36 @@
-<?php include("header1.php"); 
+<?php //include("header1.php");
 require_once 'db.php';
 ?>
 <?php require_once ("authenticate.php"); ?>
 
- <?php include "logout_button.php"; ?>   
+ <?php include "logout_button.php"; ?>
  <!DOCTYPE html>
 <html lang="en">
 <head>
-	
 
-	
+
+
     <style>
-   
+    html { height: 100%; width: 100%; }
+    body {
+      width: 100%; height: 100%;
+      margin: 12; padding: 15; border: 15;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 13px; line-height: 15px;
+      background: #C3C3C3;
+     padding-bottom: 20%;
+    }
+
+    #header {
+     padding-bottom:12%;
+     margin: 10; padding: 10;
+     text-align: center;
+     background: url(http://i.imgur.com/is6KRqa.jpg);
+     background-size: cover;
+
+    }
+    #header h1 { padding: 1em; margin: 0; }
+
 
 form {
     margin: 0 auto;
@@ -117,13 +136,13 @@ label[for=color] {
 <link href="../assets/css/bootstrap.css" rel="stylesheet">
 
 <body>
-    <FORM METHOD="LINK" ACTION="editPassword.php">         
+    <FORM METHOD="LINK" ACTION="editPassword.php">
     <INPUT TYPE="submit" VALUE="Edit Pass">
     </Form>
-    <FORM METHOD="LINK" ACTION="edit.php">         
+    <FORM METHOD="LINK" ACTION="edit.php">
     <INPUT TYPE="submit" VALUE="Update">
     </Form><br><br>
-  
+
   <div id="page">
        <p>Welcome to the Terminology Creation,<?= htmlentities($_SESSION['username']); ?>!</p>
     </div>
@@ -158,7 +177,7 @@ label[for=color] {
                                     <table id="resultTable" class="table table-bordered table-hover table-condensed">
                                         <thead>
                                             <tr>
-                                    
+
                                                 <th class="small">eng</th>
                                                 <th class="small">ach</th>
                                                 <th class="small">adh</th>
@@ -179,14 +198,14 @@ label[for=color] {
                                                 <th class="small">bm</th>
                                                 <th class="small">bn_BD</th>
                                                 <th class="small">bn_IN</th>
-                                                
 
 
 
-                                    
+
+
                                             </tr>
                                         </thead>
-                                    
+
                                         <tbody></tbody>
                                     </table>
                                 </section>
@@ -194,7 +213,7 @@ label[for=color] {
                             </div><!-- /content-panel -->
                         </div><!-- /col-lg-4 -->
                     </div><!-- /row -->
-                    
+
 
                     <!--<div class="row mt">
                         <div class="col-lg-12">
@@ -206,15 +225,15 @@ label[for=color] {
                                     <table id="resultTable-topsearch" class="table table-bordered table-hover table-condensed">
                                         <thead>
                                             <tr>
-                                    
+
                                                 <th class="small">Name</th>
                                                 <th class="small">Company</th>
                                                 <th class="small">Zip</th>
                                                 <th class="small">City</th>
-                                    
+
                                             </tr>
                                         </thead>
-                                    
+
                                         <tbody><?php //include 'php/top_search.php' ?></tbody>
                                     </table>
                                 </section>
@@ -223,8 +242,8 @@ label[for=color] {
                         <!--</div>--><!-- /col-lg-4 -->
                     <!--</div>--><!-- /row -->
 
-                    
-            
+
+
                     <!--<p>
                         Check out the full tutorial at <a href="http://lekkerlogic.com/blog/‎?p=16">LekkerLogic.com - PHP MySQL Ajax Live Data Table Tutorial</a>
                     </p>-->
@@ -248,9 +267,3 @@ label[for=color] {
 
     </body>
 </html>
- 
-
-
-
-  
-

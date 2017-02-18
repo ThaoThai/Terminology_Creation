@@ -1,6 +1,6 @@
 <?php
 require_once ("init.php");
-require_once("header.php");
+//require_once("header.php");
 
 require_once("AutoLogin.php");
 if (isset($_POST['cancel'])){
@@ -24,10 +24,10 @@ if (isset($_POST['login'])) {
             $autologin = new AutoLogin($db);
             $autologin->persistentLogin();
         }
-        
+
         header('Location: lobby.php');
         exit;
-      
+
     } else {
         $error = 'Login failed. Check username and password.';
     }
@@ -39,8 +39,7 @@ if (isset($_POST['login'])) {
 <meta charset="utf-8">
 <title>Auto Login</title>
     <style>
-         <style>
-   
+
 
 form {
     margin: 0 auto;
@@ -62,8 +61,8 @@ input[type=password] {
     margin: 10px;
     margin-top: 12px;
     margin-left: 18px;
-    width: 290px;
-    height: 35px;
+    width: 200px;
+    height: 25px;
     border: 1px solid #c7d0d2;
     border-radius: 2px;
     box-shadow: inset 0 1.5px 3px rgba(190, 190, 190, .4), 0 0 0 5px #f5f7f8;
@@ -141,10 +140,31 @@ label[for=color] {
 #revalidate {
     margin-left: 6.5em;
 }
+html { height: 100%; width: 100%; }
+body {
+  width: 100%; height: 100%;
+  margin: 12; padding: 15; border: 15;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 13px; line-height: 15px;
+  background: #C3C3C3;
+ padding-bottom: 20%;
+}
+
+#header {
+ padding-bottom:12%;
+ margin: 10; padding: 10;
+ text-align: center;
+ background: url(http://i.imgur.com/is6KRqa.jpg);
+ background-size: cover;
+
+}
+#header h1 { padding: 1em; margin: 0; }
+
  </style>
+    <div id="header">
+  		<h1>Terminology Creation</h1>
+  	</div>
 
-
-    </style>
 </head>
 
 <body>
