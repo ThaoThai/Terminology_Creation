@@ -1,0 +1,381 @@
+	html, body
+	{
+		height: 100%;
+	}
+	
+	body
+	{
+		margin: 0px;
+		padding: 0px;
+		background: #41413D;
+		font-family: 'Questrial', sans-serif;
+		font-size: 12pt;
+		color: rgba(0,0,0,.6);
+	}
+	
+	
+	h1, h2
+	{
+		margin: 0;
+		padding: 0;
+		color: #404040;
+        text-align: center;
+	}
+h3 {
+    color: #404040;
+        font-size: 24px;
+}
+	
+	p, , ul
+	{
+		margin-top: 0;
+	}
+h4
+{
+    font-size: 15px;
+    padding-right: 100px;
+}
+	
+	ul
+	{
+		padding: 0;
+		list-style: none;
+	}	
+	strong
+	{
+	}
+
+	#logo h1 .logo_colour
+        { color: #FFEC2B;;}
+
+    #logo a:hover .logo_colour
+        { color: #fff;}
+
+/*********************************************************************************/
+/* List Styles                                                                   */
+/*********************************************************************************/
+
+	ul.style1
+	{
+	}
+
+
+/*********************************************************************************/
+/* Button Style                                                                  */
+/*********************************************************************************/
+
+	.button
+	{
+		display: inline-block;
+		margin-top: 2em;
+		padding: 0.8em 2em;
+		background: #64ABD1;
+		line-height: 1.8em;
+		letter-spacing: 1px;
+		text-decoration: none;
+		font-size: 1em;
+		color: #FFF;
+	}
+	
+	.button:before
+	{
+		display: inline-block;
+		background: #8DCB89;
+		margin-right: 1em;
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+		border-radius: 20px;
+		text-align: center;
+		color: #272925;
+	}
+	
+	.button-small
+	{
+	}
+		
+/*********************************************************************************/
+/* Heading Titles                                                                */
+/*********************************************************************************/
+
+	.title
+	{
+		margin-bottom: 3em;
+	}
+	
+	.title h2
+	{
+		font-size: 2.8em;
+	}
+	
+	.title .byline
+	{
+		font-size: 1.1em;
+		color: #6F6F6F;
+	}
+
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+
+	#header-wrapper
+	{
+		background: #42413D url(images/overlay.png) repeat;
+	}
+
+	#header
+	{
+		text-align: center;
+        height: 60px;
+    
+	}
+
+/*********************************************************************************/
+/* Logo                                                                          */
+/*********************************************************************************/
+	
+	#logo h1
+	{
+		display: inline-block;
+		margin-bottom: 0.20em;
+		padding: 0.10em 0.7em;
+		font-size: 2.5em;
+	}
+	#logo h4 
+    {
+        float:right;
+        padding: 0px;
+    }
+    
+    
+	#logo h4 .logo_colour
+        { color: #FFEC2B;;}
+
+    #logo a:hover .logo_colour
+        { color: #fff;}
+
+	#logo a
+	{
+		text-decoration: none;
+		color: #FFF;
+	}
+	
+	#logo span
+	{
+		padding-right: 0.5em;
+		text-transform: uppercase;
+		font-size: 0.90em;
+		color: rgba(255,255,255,1);
+	}
+
+	#logo span a
+	{
+		color: rgba(255,255,255,0.8);
+	}
+	
+	
+
+/*********************************************************************************/
+/* Menu                                                                          */
+/*********************************************************************************/
+
+	#menu
+	{
+		display: inline-block;
+		padding: 1em 2em;
+		text-align: top;
+	}
+	
+	#menu li
+	{
+		display: inline-block;
+	}
+	
+	#menu li a, #menu li span
+	{
+		display: inline-block;
+		padding: 0em 1.1em;
+		text-decoration: none;
+		font-size: 0.80em;
+		text-transform: uppercase;
+		line-height: 30px;
+		outline: 0;
+		color: #000;
+	}
+	
+	#menu li:hover a, #menu li.active a, #menu li.active span
+	{
+		background: #FFEC2B;
+		color: #FFF;
+	}
+	
+	#menu .current_page_item a
+	{
+	}
+	
+
+/*********************************************************************************/
+/* Login Page                                                                      */
+/*********************************************************************************/
+
+
+
+/*********************************************************************************/
+/* Wrapper                                                                       */
+/*********************************************************************************/
+
+
+	.wrapper
+	{
+		overflow: hidden;
+		padding: 90px 0em 5em 0em;
+		background: #FFF;
+        height:550px;
+	}
+
+	.wrapper1
+	{
+        overflow: hidden;
+        padding: 90px 10em 5em 10em;
+		background: #FFF;
+        height:550px;
+        
+	}
+
+	.wrapper2
+	{
+		overflow: hidden;
+		background: #F3F3F3;
+		padding: 5em 0em;
+		text-align: center;
+	}
+
+	.wrapper3
+	{
+        overflow: hidden;
+        padding: 90px 10em 5em 10em;
+		background: #FFF;
+        height:550px;
+        text-align: center;
+	}
+	.wrapper4
+	{
+        overflow: hidden;
+        padding:  90px 10em 5em 10em;
+        padding-top: 0px;
+		background: #FFF;
+        height:550px;
+        text-align: center;
+	}
+
+/*********************************************************************************/
+/* Translate                                                                      */
+/*********************************************************************************/
+
+	#translate
+	{
+		width: 1300px;
+		padding: 0px 0px 0em 100px;
+		text-align: center;
+        position: center;
+        display: inline;
+	}
+	
+	#translate .content
+	{
+		padding: 0em 7em;
+	}
+	
+	#translate .title h2
+	{
+        text-align: center;
+        font-size: 14px;
+        position:center;
+	}
+	
+
+/*********************************************************************************/
+/* Page                                                                          */
+/*********************************************************************************/
+
+	#page-wrapper
+	{
+		overflow: hidden;
+		background: #2F1E28;
+		padding: 3em 0em 6em 0em;
+		text-align: center;
+	}
+
+/*********************************************************************************/
+/* Content                                                                       */
+/*********************************************************************************/
+
+	#content
+	{
+		float: left;
+		width: 700px;
+		padding-right: 100px;
+		border-right: 1px solid rgba(0,0,0,.1);
+	}
+/*********************************************************************************/
+/* Input Textbox                                                                     */
+/*********************************************************************************/
+
+input[type="text"] 
+{
+    height: 50px;
+    width: 300px;
+    align-content: center
+}
+input[type="account"]
+{
+    height:20px;
+}
+input[type="name"]
+{
+    height:20px;
+}
+input[type="question"]
+{
+    height: 100px;
+    width: 400px;
+    
+}
+
+/*********************************************************************************/
+/* Footer                                                                   */
+/*********************************************************************************/
+#footer {
+    background: #41413D;
+    color:#959492;
+}
+
+
+/*********************************************************************************/
+/* Account Body                                                              */
+/*********************************************************************************/
+
+#info {
+    text-align: left;
+    padding-left: 260px;
+    padding-top: 70px;
+    float:left;
+    font-size: 15px;
+}
+#password {
+    text-align:left;
+    width: 30%;
+    padding-top: 70px;
+    padding-right:180px;
+    float:right;
+    font-size: 15px;
+}
+
+
+/*********************************************************************************/
+/* Translate words                                                     */
+/*********************************************************************************/
+input[type=translate] {
+    height: 50px;
+    width: 400px; 
+}
