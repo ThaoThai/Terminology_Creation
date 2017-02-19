@@ -1,0 +1,8203 @@
+ rights …
+/Galapagos
+A ServiceWorker
+A
+AB _
+AB
+ACL
+ADB
+கூடுதல் இணைப்புகள்
+AEC Logging
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+மேனிய
+ASN encoder
+ASN
+ATT Mail
+ATT
+AUS
+AVA
+அஆ
+அக
+Aaiun
+Ababa
+Abandon unsaved changes
+Abbreviate
+Abbreviation
+அப்ஹாசியான்
+Abort
+Aborted
+About Your
+பற்றி
+அறிமுகம்
+Above
+Accelerated
+Accent Lowercase
+Accent Uppercase
+Accent
+Accept
+Acceptance
+Accepted
+Access
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+AccessControlAllowMethods
+AccessControlAllowOrigin
+அணுகுதிறன்
+அணுகுத்திறன்
+அணுகக்கூடியது
+Account &quot
+Account Settings &#124
+கணக்கு
+Accountquot
+Accounts
+Accountspecific
+Account…
+Acronym
+செயல்
+Actions
+செயல்படுத்து
+செயற்படுத்துக
+செயல்படுத்தப்படுகிறது
+Activations Directory
+செயலில் உள்ளது
+செயலிலுள்ளது
+Actively block
+உடனடியாக
+செயல்பாடு
+Actual Size
+Adak
+Adapter
+Adapters
+Adb
+சேர்
+சேர்க்க
+சேர்க்கப்பட்டது
+Addis Ababa
+Additional Tools
+Additional
+Addon
+Addons Installed
+கூடுதல் இணைப்பு
+கூடுதல் வசதிகள்
+கூடுதல் இணைப்புகள்
+நீட்சிகள்
+செருகல்கள்
+கூடுதல்வசதிகள்
+Addr
+Address Book
+Address Books
+முகவரி
+AddressBook
+Addressbook
+முகவரிகள்
+Addressing
+Adds
+Add…
+Adjust
+Administer
+Administrative Assistant
+Administrative limit
+Administrative
+Administrator
+Adobe Flash
+Adobe
+Advance
+Advanced Property Editor
+Advanced info
+உயர்நிலை
+மேம்பட்டது
+மேலதிக
+உயர்நிலை
+தொலைதூரம்
+Affects multiple
+Affects
+Affiliation Changed
+Affiliation
+ஆப்கானிஸ்தான்
+Africa/Abidjan
+Africa/Accra
+Africa/Algiers
+Africa/Asmara
+Africa/Bamako
+Africa/Bangui
+Africa/Banjul
+Africa/Bissau
+Africa/Blantyre
+Africa/Brazzaville
+Africa/Bujumbura
+Africa/Cairo
+Africa/Casablanca
+Africa/Ceuta
+Africa/Conakry
+Africa/Dakar
+Africa/Djibouti
+Africa/Douala
+Africa/Freetown
+Africa/Gaborone
+Africa/Harare
+Africa/Johannesburg
+Africa/Juba
+Africa/Kampala
+Africa/Khartoum
+Africa/Kigali
+Africa/Kinshasa
+Africa/Lagos
+Africa/Libreville
+Africa/Lome
+Africa/Luanda
+Africa/Lubumbashi
+Africa/Lusaka
+Africa/Malabo
+Africa/Maputo
+Africa/Maseru
+Africa/Mbabane
+Africa/Mogadishu
+Africa/Monrovia
+Africa/Nairobi
+Africa/Ndjamena
+Africa/Niamey
+Africa/Nouakchott
+Africa/Ouagadougou
+Africa/PortoNovo
+Africa/Tripoli
+Africa/Tunis
+Africa/Windhoek
+Africa
+African Republic
+African
+ஆப்ரிகான்
+After
+Again &quot
+Again
+வயது
+ஏஜென
+Aggregate
+Ago
+Agree
+பந
+Aires
+அகான்
+Akrotiri
+Alarm
+அல்பானியா
+அல்பேனியன்
+Alert dialog
+Alert record
+விழிப்பூட்டல்
+அல்கேரியா
+Algorithm Parameters
+Algorithm
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+புனை
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Align
+Alignment
+எல்லாம்
+அனைத்தும்
+Allman
+Allocated
+Allocation Trigger
+Allocation
+Allocations
+Allow First
+Allow autoplay
+அனுமதி
+Allowed
+Allowing
+Allows
+அனுமதி
+Almost done
+ஏறக
+Alpha
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Although
+எப்போதும்
+America/Adak
+America/Anchorage
+America/Anguilla
+America/Antigua
+America/Araguaina
+America/Argentina/Catamarca
+America/Argentina/Cordoba
+America/Argentina/Jujuy
+America/Argentina/Mendoza
+America/Argentina/Salta
+America/Argentina/Tucuman
+America/Argentina/Ushuaia
+America/Aruba
+America/Asuncion
+America/Atikokan
+America/Bahia
+America/Barbados
+America/Belem
+America/Belize
+America/BlancSablon
+America/Bogota
+America/Boise
+America/Cancun
+America/Caracas
+America/Cayenne
+America/Cayman
+America/Chicago
+America/Chihuahua
+America/Creston
+America/Cuiaba
+America/Curacao
+America/Danmarkshavn
+America/Dawson
+America/Denver
+America/Detroit
+America/Dominica
+America/Edmonton
+America/Eirunepe
+America/Fortaleza
+America/Godthab
+America/Grenada
+America/Guadeloupe
+America/Guatemala
+America/Guayaquil
+America/Guyana
+America/Halifax
+America/Havana
+America/Hermosillo
+America/Indiana/Indianapolis
+America/Indiana/Knox
+America/Indiana/Marengo
+America/Indiana/Petersburg
+America/Indiana/Vevay
+America/Indiana/Vincennes
+America/Indiana/Winamac
+America/Inuvik
+America/Iqaluit
+America/Jamaica
+America/Juneau
+America/Kentucky/Louisville
+America/Kentucky/Monticello
+America/Kralendijk
+America/Lima
+America/Maceio
+America/Managua
+America/Manaus
+America/Marigot
+America/Martinique
+America/Matamoros
+America/Mazatlan
+America/Menominee
+America/Merida
+America/Metlakatla
+America/Miquelon
+America/Moncton
+America/Monterrey
+America/Montevideo
+America/Montreal
+America/Montserrat
+America/Nassau
+America/Nipigon
+America/Nome
+America/Noronha
+America/Ojinaga
+America/Panama
+America/Pangnirtung
+America/Paramaribo
+America/Phoenix
+America/PortauPrince
+America/Recife
+America/Regina
+America/Resolute
+America/Santarem
+America/Santiago
+America/Scoresbysund
+America/Shiprock
+America/Sitka
+America/Tegucigalpa
+America/Thule
+America/Tijuana
+America/Toronto
+America/Tortola
+America/Vancouver
+America/Whitehorse
+America/Winnipeg
+America/Yakutat
+America/Yellowknife
+America
+American Samoa
+American
+அம்ஹாரிக்
+An
+Analysis …
+Analysis
+Analyze
+Anchor
+Anchorage
+ஆங்கர்கள்
+தியின
+அன்டோரா
+Android tablets
+Android&apos
+Android
+Android™
+Angeles
+அன்கோலா
+ஆங்குய்லா
+Animate app
+Animate
+அசைவூட்டம்
+அசைவூட்டங்கள்
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+Annotation
+Announces
+Annoyances
+Another
+Answer
+Answers
+Antarctic Lands
+Antarctic
+Antarctica/Casey
+Antarctica/Davis
+Antarctica/DumontDUrville
+Antarctica/Macquarie
+Antarctica/Mawson
+Antarctica/McMurdo
+Antarctica/Palmer
+Antarctica/Rothera
+Antarctica/Syowa
+Antarctica/Troll
+Antarctica/Vostok
+அன்டார்டிகா
+AntiVirus
+Antigua and Barbuda
+வா
+Antilles
+Antivirus
+Any
+AnyText
+Anywhere
+App can &apos
+பயன்பாடு
+AppCache
+AppCacheUtils
+AppMenu
+AppName Uninstall
+AppName
+Appcache
+Appcache
+தோற்றம்
+Appendices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+Application
+பயன்பாடுகள்
+Apply
+Applying update
+Applying
+Appointments
+ApprovedBy
+பயன்பாடுகள்
+ஏப்
+ஏப்ரல்
+Arab
+அரேபியா
+Arabic MacArabic
+Arabic Windows
+அரபு
+அரபிக்
+அராபிக்
+அர்கோனிஸ்
+Archive
+Archived
+Archives
+Archiving
+Arctic/Longyearbyen
+Are
+Area
+அர்ஜெண்டா
+Arial
+ஆர்மேனியா
+அமெரிக்கன்
+அர்மேனியன்
+Arrow
+கட்டுரைகள்
+Artist
+அரூபா
+As Laid Out
+As Quotation
+படிச
+Ascending
+Ascension and
+Ascension
+Ashmore
+Asia/Aden
+Asia/Almaty
+Asia/Amman
+Asia/Anadyr
+Asia/Aqtau
+Asia/Aqtobe
+Asia/Ashgabat
+Asia/Baghdad
+Asia/Bahrain
+Asia/Baku
+Asia/Bangkok
+Asia/Barnaul
+Asia/Beirut
+Asia/Bishkek
+Asia/Brunei
+Asia/Chita
+Asia/Choibalsan
+Asia/Chongqing
+Asia/Colombo
+Asia/Damascus
+Asia/Dhaka
+Asia/Dili
+Asia/Dubai
+Asia/Dushanbe
+Asia/Gaza
+Asia/Harbin
+Asia/Hebron
+Asia/Hovd
+Asia/Irkutsk
+Asia/Istanbul
+Asia/Jakarta
+Asia/Jayapura
+Asia/Jerusalem
+Asia/Kabul
+Asia/Kamchatka
+Asia/Karachi
+Asia/Kashgar
+Asia/Kathmandu
+Asia/Khandyga
+Asia/Kolkata
+Asia/Krasnoyarsk
+Asia/Kuching
+Asia/Kuwait
+Asia/Macau
+Asia/Magadan
+Asia/Makassar
+Asia/Manila
+Asia/Muscat
+Asia/Nicosia
+Asia/Novokuznetsk
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Oral
+Asia/Pontianak
+Asia/Pyongyang
+Asia/Qatar
+Asia/Qyzylorda
+Asia/Rangoon
+Asia/Riyadh
+Asia/Sakhalin
+Asia/Samarkand
+Asia/Seoul
+Asia/Shanghai
+Asia/Singapore
+Asia/Srednekolymsk
+Asia/Taipei
+Asia/Tashkent
+Asia/Tbilisi
+Asia/Tehran
+Asia/Thimphu
+Asia/Tokyo
+Asia/Ulaanbaatar
+Asia/Urumqi
+Asia/UstNera
+Asia/Vientiane
+Asia/Vladivostok
+Asia/Yakutsk
+Asia/Yekaterinburg
+Asia/Yerevan
+Asia
+ஆசியா
+Ask
+Asks how
+Asks
+அஸ்ஸாமி
+Assembling mail
+Assembling messageDone
+Assembling
+Assistant
+Associated
+Assurance
+ஆஸ்திரியன்
+Async
+Asynchronous Pan
+Asynchronous
+Atlantic/Azores
+Atlantic/Bermuda
+Atlantic/Canary
+Atlantic/Faroe
+Atlantic/Madeira
+Atlantic/Reykjavik
+Atlantic/Stanley
+Atlantic
+Atoll
+Atom
+அணு
+Attach
+Attached
+Attachment
+AttachmentRemove
+இணைப்புகள்
+Attack Site
+Attack
+Attempt to
+Attempt
+Attempts
+Attendance
+Attendee
+Attendees
+Attention
+Attribute
+பண்புக்கூறுகள்
+Attribution
+Auckland
+ஒலி
+ஆடியோ
+கேட்பொலி
+AudioBufferSourceNode
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+AudioNode
+AudioParam does
+AudioParam
+AudioParams
+ஆக
+ஆகஸ்ட்
+Auroraவை
+Australia/Adelaide
+Australia/Brisbane
+Australia/Currie
+Australia/Darwin
+Australia/Eucla
+Australia/Hobart
+Australia/Lindeman
+Australia/Melbourne
+Australia/Perth
+Australia/Sydney
+ஆஸ்திரேலியா
+ஆஸ்ட்ரியா
+Authenticated
+Authenticating
+Authentication method &apos
+Authentication
+எழுதியவர்
+Authored
+அதிகாரம் உள்ளவர்கள்
+Authority unnamed
+ஆணையம
+Authorize
+Authors
+Auto Increment
+Auto Update
+தானே
+தானாக
+AutoA
+AutoConfig Alert
+AutoConfig
+தானாக கண்டறி
+தானாகக் கண்டறி
+தானாககண்டறி
+தானியங்குகண்டுபிடிப்பு
+AutoJoined Channels
+AutoJoined
+தானாக முடியும்
+தானாக கண்டறி
+தானியங்குகண்டுபிடிப்பு
+தானே உள்தள்
+இருக்கிறார்
+அவரிக்
+அவெஸ்டான்
+வெளியில்
+அய்மாரா
+அசர்பைஜான்
+அஜர்பெய்ஜானி
+B
+BG
+BLOCKED
+பின்
+பின்னே
+முந்தைய
+பின்னால்
+பின்னோக்கு
+பின்னணி
+Backgroundbmp
+பின்னகர்வு
+மறுபிரதியும
+காப்பு
+மறுபிரதி…
+தீய
+பெஹரைன்
+பால்டிக்
+பம்பாரா
+வங்காளதேசம்
+பார்பதாஸ்
+புடா
+பாஷ்கிர்
+படை
+பாஸ்க்யூ
+மின்கலன்
+பெலாரஸ்
+பெலாருஷ்யன்
+பெல்ஜியம்
+பிலீஸ்
+பெங்காலி
+பினின்
+பர்முடா
+பூடான்
+BigHKSCS
+பிஹாரி
+Bing
+பிங்
+பிஸ்மாலா
+சிறிதாகும
+தடு
+தடுக்க
+தடுக்கப்பட்டது
+தடுக்கப்பட்டுள்ளது
+பாம
+பொலிவியா
+புத்தகக்குறி
+குறியிடப
+புத்தககுறிகள்
+புத்தகக்குறிகள்
+பூலியன்
+எல்லை
+எல்லையில்
+சிகோனியா
+போஸ்னியன்
+போட்ஸ்வானா
+கீழே
+Boxing
+brandFullName
+BrandFullNameDA
+BrandShortName
+பிரேசில்
+ப்ரென்டோ
+பிரிட
+உலாவி
+உலாவு
+உலாவு r
+உலாவுக
+உலாவுதல்
+குமிழ்தல்
+பல்கேரியா
+பல்கேரியன்
+Bulk data
+Bulk
+குண்டு
+பொட்டு
+பர்மீஸ்
+ப்ரூண்தீ
+பொத்தான்கள்
+CA
+CACHE
+CAs
+CD
+CDSA
+CKR
+CLICK
+CMS
+CN
+COLNAME
+யம
+CRL
+CRLகளை
+CSP
+CSS
+CYPHER
+இடையகம்
+தேக்ககம்
+காய
+கலிடோனியா
+அழை
+கம்போடியா
+கேம்ரூன்
+கனடா
+விடு
+ரத்து
+ரத்து C
+ரத்து செய்
+இரத்து
+தவிர்க்க
+ரத்துசெய்
+இரத்துசெய்
+ரத்து செய்யப்பட்டது
+இரத்து செய்யப்பட்டது
+இரத்துசெய்யப்பட்டது
+CanvasGradient
+கைப்பற்று
+பன
+கறை
+காரட
+c
+கேடலான்
+கேமேன
+மையம்
+நடுவில்
+மத
+சான்றிதழ்
+சான்றிதழ்கள்
+சான்றளித்தது
+சாட்
+செமாரோ
+மாற்று
+Charis
+சென்சென்
+சோதி
+சிசேவா
+சிலி
+சீனா
+சீனம்
+தெரிவுகள
+தெரிக
+தேர்வு செய்
+தேர்ந்தெடு
+தேர்ந்தெடு…
+கிரிஸ
+கொறோம்
+குரோம்கேஸ்ட்
+ஷுவான்
+Cipher
+நகரம
+Clear
+அழி
+துடை
+அகற்று
+தூய்மையாக்கு
+அழிக்கிறது
+அழிக்கப்படுகின்றன
+க்ளிக்
+சொடுக்கு
+Client
+ஒட்டுப்பலகை
+வலஞ
+Close
+மூடு
+மூடு C
+மூடுC
+மூடுக
+மூடவும்
+கோகோஸ
+குறியீடு
+ஒன்று சேர்
+வீழ்ச்சி
+கொலம்பியா
+நிறம்
+நிறங்கள்
+நிறங்கள்
+நெடுவரிசை
+வணிக
+கோமோரோஸ்
+Compact
+முழுமையாக்கு
+முழுமையடைந்தது
+முடிந்தது
+கட்டுரையாக்கம்
+துபோதல
+முடிவுரை
+பேரிலான
+உறுதி செய்
+உறுதிசெய்
+உறுதிப்படுத்து
+இணை
+இணைக்கப்பட்டது
+இணைக்கிறது
+இணைக்கிறது
+இணைக்கிறது…
+இணைக்கப்படுகிறது 
+இணைப்பு
+பணிமுனை
+தொடர்புகள்
+கலன
+கலன்கள்
+உள்ளடக்கம்
+உள்ளடக்கங்கள்
+தொடர்
+ரத்து
+தொடரவும்
+உதவுங்கள்
+உதவியவர்கள்
+Control
+பாடுகளைக
+குக்கீஸ்
+குக்கீகள்
+நினைவிகள்
+நகல்கள்
+Copy
+நகல்
+நகலெடு
+படியெடு
+கோர்னிஷ்
+க்ரோஷியன்
+பணம
+எண்ணிக்கை
+இடஞ
+கவரேஜை
+உருவாக்கு
+படைத
+உருவாக்குபவர்
+புகழ்கள்
+க்ரீ
+அவசியம்
+குரேஷியா
+க்ரோயேஷன்
+டோகிராபிக
+Ctrl
+க்யூபா
+இடஞ்சுட்டி
+நிலைக்காட்டி
+தனிபயன்
+தனிபயன் C
+தனிப்பயன்
+DataContainerEventவைப
+Customization
+தனிபயனாக்கு
+தனிபயனாக்கு…
+தனிப்பயனாக்குக
+தனிபயன்…
+தனிப்பயன்
+Cut
+வெட்டு
+சுழற்சி
+சைப்ரஸ்
+சைரிலிக்
+சிரில்லிக்
+செக்
+D
+DC
+DECDSA
+DER
+DERencoded
+DEVICE
+DISPLAYNAME
+DN
+DNS
+DOCTYPE
+DOM
+DOMException
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+DRM
+DSA
+டானிஷ்
+கருமை
+தரவு
+மாறாக
+தேதி/நேரம்
+நாளும
+DayCrash Reports
+DayCrash
+நாள்கள்
+Debug Mode
+வழு நீக்கு
+வழுநீக்கு
+DebugALIGNCENTERerver
+Debugger
+Debugging
+டிச
+டிசம்பர்
+Decide
+Declaration
+Decline
+Declined
+Decoder
+Decoding error
+Decoding
+குறை
+Decrypted
+Decryption
+Deer
+பொது இருப்பு
+முன்னிருப்பு
+Defaults
+Defer Account
+Defer
+Define
+Defined
+Definition
+Definitions
+Del
+Delay
+Delete Message
+Delete
+அழி
+நீக்கு
+Deleted
+அழி
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Deletion
+Delimited
+Delivery Format
+Delivery Status Notification
+Delivery
+டென்மார்க்
+Denver
+மறு
+மறுத்தல்
+மறுக்கவும்
+Department
+Descending
+Describe Problem
+Describe
+விவரம்
+விளக்கம்
+விளக்கங்கள்
+Deserialize
+Design Mode
+Design View
+Design
+Desktop Backgroundbmp
+ Options
+பணிமேடை
+Destination Folder
+சேருமிட
+Destroy
+Detach
+Detach…
+Detail
+Details of
+விபரங்கள்
+விவரங்கள்
+விளக்கங்கள்
+விவரங்கள்…
+Detect indentation
+Detect
+Determining which
+நிலவரத
+DevTools
+தேவநாகரி
+Developed
+Developer Edition
+Developer Tools
+உருவாக்குனர்
+உருவாக்குபவர்
+வல்லுநர்கள்
+Development
+Device &quot
+கருவி
+சாதனம்
+DeviceShare
+சாதனங்கள்
+Devicex
+Dhekelia
+Diagnostics
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+அகராதிகள்
+அகராதியில
+Did
+Diego
+Different
+DiffieHellman key
+DiffieHellman
+Digest function
+Digest was
+Digestஉடன
+Digg Reader
+Digg
+Digital
+அளவுகள்
+பரிமாணங்கள்
+Direct
+DirectD
+DirectWrite
+திசை
+ஆதரிப
+Directories
+Directory &apos
+Directory Servers
+Directory
+Disability access
+Disability
+செயல்நீக்கு
+முடக்கம்
+செயல்நீக்கு
+முடக்கப்பட்டது
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Discarded
+Disconnect from
+துண்டி
+தொடர்பறுellipsis
+துண்டிக்கிறது…
+Disconnectme strict
+Disconnectme
+துண்டி
+Discontinue Link
+Discontinue
+ஆதரவுள
+Discussions
+Disk
+நிராகரி
+Display a
+திரை
+காட்டு
+Displays the
+Displays
+Distinguished
+Distribution Points
+Distribution
+Distrust
+தேவகி
+டிஜிபோடி
+Do
+தொங
+Docs
+Document Outline
+குமன
+Documents
+Doe
+Doing
+Domain GUID
+களம்
+ஆள்களம்
+செயற்களம்
+Domains
+Domestic
+Dominator
+Dominators
+Domingo
+டோம்னிகா
+னிகான
+Don &apos
+Don
+சரி
+முடிந்தது
+Double click
+Double
+Doublecheck
+Doubleclick
+கீழ்
+Download Link
+பதிவிறக்கு
+பதிவிறக்கம்
+DownloadRestart
+பதிவிறக்கப்பட்டது
+பதிவிறக்கம் செய்கிறது
+பதிவிறக்குகிறது
+பதிவிறக்குகிறது…
+பதிவிறக்கங்கள்
+Draft Message
+Draft
+Drafts
+Drag
+Draw draws
+Draw repainted
+Draw
+Driver Verification
+Driver
+Drivers
+Drives
+Drop a
+Drop
+Dropping a
+Dropping
+DuckDuckGo
+Due
+Dump
+Duplicate name
+Duplicate
+Duraterver
+கால அளவு
+டச்
+பூட்டானி
+ECDSA Signature
+ECDSA
+EDI Party Name
+EDI Party
+EDI
+EHLO
+EMail Certificates
+EMail
+ERROR
+பிழைகள்
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+EXTRACTION_FAILED
+Each
+Eager
+Earlier
+East Asian
+East European
+கிழக
+Eastern
+ஈகுவேடார்
+Edge
+Edit Conditional
+Edit
+தொகு
+திருத்து
+செவ்வையாக்கு
+Editing
+Edition
+தொகுப்பி
+Editors
+Edit…
+எகிப்து
+Either
+El Aaiun
+El Salvador
+El
+Elapsed
+Element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Elements
+Email Address
+மின்னஞ்சல்
+Embarrassed
+உட்பொதி
+உட்பொதியப்பட்டது
+Embedded
+Emirates
+Emphasis
+Emptied Trash
+Emptied
+வெற்று
+Emulate
+செயல்படுத்து
+செயலில்
+செயல்படுத்தப்பட்டது
+Enables
+Encipherment
+Encoder
+Encoding While
+குறிமுறை
+குறிமுறைகள
+Encrypt
+Encrypted password&apos
+குறிமுறையாக்கப்பட்டது
+Encrypting File
+Encrypting
+Encryption
+End
+முடிவு
+EndUser Rights
+EndUser
+முடிவடைந்தது
+Endian
+Endpoint
+Enforce
+பொறியைச
+Engineering
+பொறிகள
+English US
+English USASCII
+English language
+ஆங்கிலம்
+Enhanced
+தொடுகையில
+Enter &apos
+Enter Full
+Enter that
+Enter
+Entered
+Entering
+உள்ளீடுகள்
+Entry
+Enumerable Properties
+Enumerable
+சூழல்
+Epiphany
+Equatorial Guinea
+Equatorial
+எரித்திரியா
+பிழை
+பிழைகள்
+Esc
+எஸ்பரான்டோ
+இஸ்டோனியா
+எஸ்தோனியன்
+எத்தியோப்பியா
+எத்தியோபிக்
+Eudora Nicknames
+Eudora Settings
+Eudora mail
+Eudora
+Europa Island
+Europa
+Europe/Amsterdam
+Europe/Andorra
+Europe/Astrakhan
+Europe/Athens
+Europe/Belgrade
+Europe/Berlin
+Europe/Bratislava
+Europe/Brussels
+Europe/Bucharest
+Europe/Budapest
+Europe/Busingen
+Europe/Chisinau
+Europe/Copenhagen
+Europe/Dublin
+Europe/Gibraltar
+Europe/Guernsey
+Europe/Helsinki
+Europe/Istanbul
+Europe/Jersey
+Europe/Kaliningrad
+Europe/Kiev
+Europe/Lisbon
+Europe/Ljubljana
+Europe/London
+Europe/Luxembourg
+Europe/Madrid
+Europe/Malta
+Europe/Mariehamn
+Europe/Minsk
+Europe/Monaco
+Europe/Moscow
+Europe/Nicosia
+Europe/Oslo
+Europe/Paris
+Europe/Podgorica
+Europe/Prague
+Europe/Riga
+Europe/Rome
+Europe/Samara
+Europe/Sarajevo
+Europe/Simferopol
+Europe/Skopje
+Europe/Sofia
+Europe/Stockholm
+Europe/Tallinn
+Europe/Tirane
+Europe/Ulyanovsk
+Europe/Uzhgorod
+Europe/Vaduz
+Europe/Vatican
+Europe/Vienna
+Europe/Vilnius
+Europe/Volgograd
+Europe/Warsaw
+Europe/Zagreb
+Europe/Zaporozhye
+Europe/Zurich
+Europe
+ஐரோப
+Eustatius and
+Eustatius
+Eval
+மதிப்பளி
+Evaluated JavaScript
+Evaluated
+பிடுகிறது
+Evangelism
+Even
+Event
+நிகழ்வுகள்
+Event…
+Every Time
+Every
+எல்லாம்
+Eviction
+ஏவ்
+Example
+அற
+Except
+Exception …
+Exception
+விதிவிலக்குகள்
+விதிவிலக்குகள்
+விதிவிலக்குகள்…
+Exchange
+ExecShell &quot
+ExecShell
+Executable
+Execute Menu
+செயல்படுத்து x
+Executing s
+Executing
+Execution stopped
+Execution
+Executive
+Existing
+Exists
+Exit
+வெளியேறு
+Exited
+Exiting
+Expand/Collapse
+விரி
+Expanded
+Expected
+சோதனைகள்
+Expired
+Expires On
+Expires Seconds
+காலாவதி
+காலாவதியாவது
+காலாவதியாகிறது
+காலாவதியாகிவிட்டது
+ரோசாப
+Exponent
+Export
+ஏற்றுமதி
+Exposing chrome
+Exposing
+Express
+கோவையைச
+Expressions
+Expunge &quot
+Expunge
+Extended Telemetry
+Extended
+Extending
+நீட்சி
+கூடுதல் இணைப்புகள்
+விரிவாக்கம்
+நீட்டிப்புகள்
+External
+Extra Components
+Extra
+Extract
+Extracting s
+Extracting
+Extracting…
+Eyedropper
+F GB
+F turns
+F/Escape
+F
+FAILED
+FALLBACK section
+FALLBACK
+அடிக்கடி வினவப்படும் கேள்விபதில்கள்
+FAQs feedback
+அடிக்கடி கேட்கப்படும் கேள்விகளும் பதில்களும்
+FCC
+FHR data
+FHR
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTP Proxy
+FTP
+FUNCTION
+FW Version
+FW
+FYR
+Facebook Chat
+Facebook
+Faeroese
+தோல்வியுற்றது
+செயலிழக்கப்பட்டது
+Failure
+Failures
+Falkland Islands Islas Malvinas
+Falkland Islands
+Falkland
+Fallback Character
+Fallback
+Falling back
+Falling
+False
+குடும்பம்
+Fantasy
+Faroe Islands
+ஃபாரோ
+ஃபரோசே
+Farsi
+ஃபாசோ
+Fast
+Fatal
+Favorite Folder
+Favorite Folders
+Favorite
+Favorites
+Fax Number
+Fax
+Feature
+வசதிகளும
+பிப்
+பிப்ரவரி
+Federated States of
+Federated States
+Federated
+Federation
+Feed Location
+காணுதல
+Feedback Agent
+Feedback …
+பினனூட்டம்
+Feedly
+பீட்ஸ்
+ஊட்டுகள்
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+Fetching…
+Fewer
+Field
+Fields
+Fifth
+ஃபிஜி
+ஃபிஜியன்
+File System
+File
+கோப்பு
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Filename
+Files
+Files…
+File…
+Filing Cabinet
+பூர்த்திச்செய்ய
+Filter Box
+Filter Execution
+வடிகட்டி
+வடிகட்டு
+Filtering
+Filters
+Finalizing
+Find
+தேடு
+கண்டறி
+கண்டுபிடி
+தேடுவதில
+Findings
+தேடு…
+கண்டறி…
+கைரேகை
+கைரேகை
+Finish Customizing
+முடி
+முடிவு
+முடிந்தது
+பின்லாந்து
+பீனிஷ்
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+பயர்பாக்ஸ்
+பயர்பாக்ஸ்x
+First
+பொருத்து
+Five
+Fix Table
+Fix
+Fixed
+Flag
+Flagged
+Flame Chart
+Flame
+Flash embed
+Flash
+Flatten
+Flexible Space
+Flexible
+Focus
+அடைவு
+Folders
+Folder…
+பின்தொடர்
+Followers
+Following
+Followup
+FollowupTo
+Fond
+Font
+எழுத்துருக்கள்
+Footer
+Footers
+FootinMouth
+For
+Force
+Forever
+Forge
+Forgery
+மற
+Form History
+டவை
+முறை
+வடிவமைப்பு
+Formatting
+Forms
+Fort
+Fortezza
+Forum
+Forums
+முன்னால்
+முன்னனுப்பு
+Forwarded
+Forwarding
+Found
+Foundation
+Four Hours
+Four
+Fourth
+வெ
+Frakkin &apos
+Frakkin
+Frame
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+பிரேம்கள்
+பிரான்ஸ்
+Free
+French Southern
+ப்ரெஞ்ச்
+Frequency
+அடிக்கடி
+வெள்ளி
+வெள்ளிக்கிழமை
+ஃப்ரிஷியன்
+ஃப்ரையுலியன்
+From History
+From List
+From
+Front facing
+Front
+Frown
+ஃபுல்லா
+முழுத
+Fullscreen
+Fun To
+Fun
+செயல்
+வாலிஸ
+Future
+GB
+ஜிபி
+GBK
+GC Event
+GC Slice
+ஜிசி
+GCLI is
+GCLI
+GDI Library
+GDI
+GData
+GENERAL
+GEOSTD
+GLSL code
+தொகுக
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+காபோன்
+Gaelic
+Gaia
+Galeon
+காலிஸியன்
+Gallegos
+Gambia The
+Gambia
+விளையாட்டு பலகை
+Gaming consoles
+Gaming
+கான்டா
+Gap from edge of paper to Margin
+Gap from
+Gap
+Garbage Collector Roots
+Garbage
+Garcia
+Gated Crypto
+Gated
+Gaza Strip
+Gaza
+கெக்கோ
+Geckoreg
+Geckotrade
+General Notification
+பொது
+பொதுவான
+Generate a
+Generate
+Generated
+Generating A Private
+Generating A
+Generating aggregate
+Generating
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+ஜார்ஜியா
+ஜார்ஜியன்
+ஜியார்ஜியன்
+ஜெர்மன்
+ஜெர்மனி
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+கானா
+கிப்ரால்டர்
+Gives
+Glace
+Global Revived
+ஒட்டுமொத்த
+Glorioso Islands
+Glorioso
+Glossary
+ஜிமெயில்
+ஜிமெய்ல்
+Go back
+Go forward
+டிவிட
+நன்று
+Google
+கூகுள்
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+Grab
+தரம
+Gradient is
+கிரேடியண
+Grand
+Grande
+Grant
+Graph Reduction
+Graph
+வரைகலை
+Gravatar
+GrayScale
+கருப்புவெள்ளை
+க்ரீஸ்
+Greek Windows
+கிரேக்கம்
+க்ரேக்கம்
+க்ரீன்லாந்து
+க்ரீன்லாண்டிக்
+கிரீநாடா
+Grenadines
+Grid
+Group List
+Group
+Grouped By
+Grouped
+Grouping
+Groups
+Grow
+கோடிலோப்
+கயும்
+க்வாரானி
+Guard
+கடேமேலா
+குர்ன்சே
+ளலை
+Guest browsing
+Guest
+குய
+க்னியா
+கைனேபிசோ
+குஜராத்தி
+Gurmukhi MacGurmukhi
+குர்முஹி
+க்யானா
+H Line
+H
+HAR
+HError
+HLine
+HPKP
+HREF
+HSLA
+HSTS
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HW Version
+HW
+HZ
+HZGB
+Hack the
+Hack
+ஹய்டி
+ஹைட்டியன்
+Halifax
+Handler
+Handling
+Handshake record
+Handshake
+Hang Report
+நூல
+Happy
+Hard
+Hardware Driver Verification
+Hardware Driver
+Hardware
+Has
+ஹௌஸா
+Have an
+Have
+ஹவாயியன்
+Header
+தலைப்புகள்
+Heading
+தலைப்புகள்
+Health Report
+Health
+Heard Island
+ஹியர
+Hebrew MacHebrew
+Hebrew Visual
+ஹிப்ரூ
+ஹீப்ரு
+எபிரேயம்
+Height
+Helena
+Hello World
+Hello
+Help Start
+உதவி
+Helper Application
+Helper Applications
+Helper Threads
+Helper
+Helps
+Helvetica
+Here
+ஹிரேரோ
+Herzegovina
+பதின்னறும
+Hidden
+Hide Statistics
+Hide Toolbars
+மறை
+Hierarchy
+High Contrast
+High
+Highest
+Highgrade
+Highlight
+Highlighting
+Highlights
+Hightail
+ஹிலிகெயநோன்
+Hill
+ஹிந்தி
+குறிப்பு
+Hiri Motu
+ஹிரி
+Histograms Collected
+செவ
+வரலாறு
+சொடுக்கங்கள்
+Hnewsgroup server
+Hnewsgroup
+Ho Chi Minh
+Ho
+Hold
+HolidayStatusSuppliersTravelVacation
+இல்லம்
+முகப்பு
+முதன்மை பக்கம்
+Homepage Get back
+முதன்மை பக்கம்
+முகப்புப்பக்கம்
+ஹான்டுரூஸ்
+Hong Kong
+ஹாங
+Honolulu
+Horizontal
+கணினி
+வழங்கி
+புரவலன்
+நிறுவப்பட்ட புரவலன்
+Hostname Entered
+வழங்கி பெயர்
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+மணி
+மணிகள
+Housekeeping
+How
+Howe
+However we
+However
+Howland Island
+Howland
+Http
+Huge
+களே
+ஹங்கேரியன்
+ஹங்கேரி
+I &apos
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+I don &apos
+I ii
+I submit information that &apos
+I think I &apos
+I understand
+I
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+ID
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAP Flag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+ஐபி
+IPC
+IPs
+IRC Nick
+IRC Operator
+IRC
+IS
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+ISP
+IV
+Iaposm
+ஐஸ்லாந்து
+ஐஸ்லாந்திக்
+சின்னம்
+சின்னங்கள்
+Id
+Identification
+Identifier
+Identities …
+Identities
+Identity
+செயலின்றி
+இடோ
+பமிருந
+இக்போ
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+தவிர்
+Ignoring
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+படம்
+படங்கள்
+Image…
+Import your
+இறக்கு
+Importance
+Important
+Importing
+இறக்குகிறது…
+இறக்கு
+இறக்குமதி செய்…
+In Days
+In EHLO reponse
+In Finder
+In Use
+பதிகை
+InAutoon
+InBrowserElement
+அதிகப்படுத்து
+அதிகரித
+அட்டவணைப்படுத்திய தரவுத்தளம்
+அகவரிசைகள்
+இந்தியா
+இந்தோனேஷியா
+இந்தோனேஷியன்
+விபரம
+உள்ளீடு
+Ins
+கண்காணிப்பு
+ஆய்வாளர்
+நிறுவு
+நிறுவு I
+நிறுவப்பட்டது
+நிறுவுகிறது
+நிறுவுகிறது…
+முழு எண்
+முழுஎண்
+ஊடாடுதல்
+இன்டர்லிங்குவா
+இன்டர்லிங்குவா
+ளோரர
+அறிமுகம்
+இனிக்குட்டு
+இன்டுபியாக்
+cd
+துவோம
+ஈரான்
+ஈராக்
+அயர்லாந்து
+ஐரிஷ்
+தீவு
+தீவுகள
+இஸ்ரேல்
+வழங்குபவர்
+மறுபெயரிடப
+இத்தாலியன்
+இத்தாலி
+JIS
+JIT
+JOHAB
+JS
+JSM
+JSON
+பேக
+JSONparse
+JSONstringify
+ஜமாய்கா
+ஜன
+ஐனவரி
+ஜப்பான்
+சப்பானிய
+ஜப்பானிய
+ஜப்பானிஸ்
+JavaScript
+ஜவானீஸ்
+ஜெர்சி
+ஜோர்தான்
+ஜூலை
+ஜூலை
+தாவு
+ஜூன்
+ஜூன்
+K
+KB
+கேபி
+KOIR
+KOIU
+KRL
+கன்னடா
+கன்னடம்
+கனூரி
+கஷ்மீரி
+கஷ்துபியன்
+கசக்
+கஸக்ஸ்தான்
+கீலிங
+வைத்திரு
+கென்யா
+விசை
+Kவிசைப்பிணைப்புகள்
+விசைப்பிணைப்புகள்
+விசைப்பலகை
+விசையாலான
+Keyframe
+Keyhtml
+Keys
+திறவுச் சொல்
+முக்கியச்சொல்
+முக்கிய வார்த்தைகள்
+கெமெர்
+கம்போடியன்
+கிகுயூ
+கின்யார்வான்டா
+கிர்கிஷ்
+கிரிபாத்தி
+கிருண்டி
+கிடிஸ
+ளாட
+க்ளிங்கான்
+கோமி
+சீனா
+காங்கோ
+கொங்கனி
+கொரிய
+கொரியன்
+க்வயாமா
+குர்தீஷ்
+குவைத்
+கைர்ஜிஸ்தான்
+LDAP
+லேபிள்
+டெஸ
+அடையாளங்கள்
+லேன்ட்ஸ் கேப்
+அகலவாக்கில்
+மொழி
+மொழி
+மொழிகள்
+மொழிகள்
+லவோதியன்
+லோஸ்
+பெரிய
+கடைசி
+இலத்தீன்
+லட்வியா
+லிதுவியன்
+வடிவம்
+போ
+லெபனான்
+இடது
+சட்டபூர்வ
+Legitimate
+லியோன
+லிஸோதோ
+குறைவாக
+லைபீரியா
+Libpkix
+தரவகம்
+லிபியா
+லைசிடென்ஸ்டீன்
+வாழ்நாள் முழுவதும்
+ஒளி
+லிம்பர்கன்
+வரி
+லினன
+பிங்கானா
+இணைப்பு
+இணைப்புகள்
+கவனிக
+பட்டியல்கள்
+லூதியானா
+லிதுவேனியல்
+லைவ
+ஏற்று
+ஏற்றுகிறது
+ஏற்றுகிறது
+ஏற்றுகிறது…
+உள்ளீடு மொழி
+இடம்
+இருப்பிடம்
+பிடமறிந
+பூட்டப்பட்டது
+பதிவுசெய்தல்
+உள்நுழைவுகள்
+புகுபதிகைகள்
+சின்னம் வகை
+சுழற்சி
+லூபாகட்டாங்கா
+லூசியா
+கேலியான
+லெக்ஸம்போர்க்
+லக்ஸம்பர்க்கிஸ்
+MANIFEST
+MB
+மெபை
+எம்பி
+MD
+MDN
+MIME
+MOZ
+Mac
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+தியம
+MacRoman
+MacRomanian
+MacTurkish
+ரேனியம
+மாசிடோனியன்
+மடகாஸ்கர்
+மகிழ
+மின்னஞ்சல்
+மலகாசி
+மலாவி
+மலாய்
+மலையாளம்
+மலேஷியா
+மால்தீவுகள்
+மாலி
+மால்டா
+மால்டீஸ்
+emஇரட
+நிர்வகி
+மேலாளரை
+தயாரிப்பாளர்
+மானாக்ஸ்
+மாவெோரி
+மார்
+மராத்தி
+மார்ச்
+முனையிலிருந
+ஓரங
+மரியான
+ஷல
+மார்ஷெல்லேசி
+மார்டினிக்யூ
+Master
+பொருந்தியது
+மௌரிடினியா
+மொரீஷியஸ்
+மே
+மயோடீ
+டோனால
+அளவீடுகள
+ஊடகம்
+நடுத்தரம்
+நினைவகம்
+பட்டி
+Message
+செய்திகள்
+நோக்கம்
+முறை
+ரோ
+மெக்ஸிகோ
+மிப்பிட்
+ரோசாப
+நடுஇரவு
+Minified
+குறைத்தல்
+சுருக்குக
+யுலான
+் டவணைக
+விடுப
+தி
+கைபேசி
+மாற்றப்பட்டது
+மாற்றுதல்
+தொகுதி
+Exponent
+மால்டோவா
+திங்கள்
+மோனாகோ
+திங்கட்கிழமை
+மங்கோலியா
+மங்கோலியன்
+கண்காணிப்பு
+ஓரிடைவெளி
+மோனோஸ்பேஸ்
+மாண்டிநகரோ
+மாண்ட்ஸ்ரட்
+மேலும்
+இன்னும்
+மேலும்ellipsis
+மோரோகோ
+மோடோ
+எலியான்
+நகர்த்தவும்…
+Twitter
+மோஸாம்பிக்
+Mozilla
+மொசில்லா
+Mozillaorg
+திடீர்மாற்றம்
+MutationObserver
+ஒலி நீக்கு
+ஒலி நிறுத்தம்
+னுடையதை
+N/A
+NET
+NIST
+NO
+NS
+NSS
+தொலைகருவியை
+பெயர்
+ணங
+நமீபியா
+நௌரு
+நயூரூ
+நவாஜோ
+திசையறிதல்
+நடெபில
+நடோங்கா
+அருகிலுள
+நேபால்
+நேபாளி
+Net
+நெதர்லாந்து
+Netscape
+பிணையம்
+வலையமைப்பு
+ஒரு போதும் இல்லை
+எப்போதுமில்லை
+நேவிஸ
+புதிய
+புதிது
+புதிய…
+அடுத்து
+அடுத்தது
+நைகராகுயா
+நைகர்
+நைஜீரியா
+நியூ
+இல்லை
+Nodetype
+இல்லை
+எதுவுமில்லை
+ஒன்றுமில்லை
+es
+மறுப்பு இல்லை
+நடுபகல்
+நோர
+இயல்பான
+சாதாரணம்
+நார்வே
+நார்வேஜியன்
+குறிப்பு
+அறிவிப்புகள்
+நவ
+நவம்பர்
+நைநாக
+OCSP
+OK
+ஆம்
+சரி
+ONLY
+OS
+OU
+OVERLAP
+பொருள்
+ஓசிடேன்
+பெருங
+அக்
+அக்டோபர்
+ஆஃப்
+நிறுத்து
+இணைப்பில்லை
+அய
+ஓஜிப்வா
+ஓமன்
+இயக்கு
+Online
+அடடா
+அச்சச்சோ
+திற
+திறக்க
+OpenH
+Operators
+Optimizing
+டாயமில
+தேர்வுகள்
+விருப்பங்கள்
+நிறுவனம
+ஒழுங்குப்படுத்து
+திசைஅமைப்பு
+மூலம்
+அசலை
+ஒரோமோ
+ஓசிடேனியன்
+பிற
+மற்ற
+மற்றவை
+மற்றவர்கள்
+மற்றவை
+வெளிவரை
+மேலெழுதவா
+உரிமையாளர்
+P/Galapagos
+P
+பிடிஎப
+PDFjs
+PEM
+PKCS
+PREFS
+PSM
+PUBLIC
+PacifDebug/Galapagos
+Pacific/Enderbury
+Pacific/Fakaofo
+Pacific/Fiji
+Pacific/Funafuti
+Pacific/Gambier
+Pacific/Guadalcanal
+Pacific/Guam
+Pacific/Honolulu
+Pacific/Johnston
+Pacific/Kiritimati
+Pacific/Kosrae
+Pacific/Kwajalein
+Pacific/Majuro
+Pacific/Marquesas
+Pacific/Midway
+Pacific/Nauru
+Pacific/Niue
+Pacific/Norfolk
+Pacific/Noumea
+Pacific/Palau
+Pacific/Pitcairn
+Pacific/Pohnpei
+Pacific/Ponape
+Pacific/Rarotonga
+Pacific/Saipan
+Pacific/Tahiti
+Pacific/Tarawa
+Pacific/Tongatapu
+Pacific/Truk
+Pacific/Wake
+Pacific/Wallis
+Pack
+Package s
+Package xpi
+Package
+பொதியாக்கப்பட்டது
+Packs
+Padding
+Page Direction
+Page Selection
+பக்கம்
+Pagequot
+Pager Number
+Pager
+பக்கங்கள்
+Pago
+பூச்சு
+Pair a Device &quot
+Pair a
+சோடியாக்கு
+பாகிஸ்தான்
+Pal Who &apos
+Pal
+பாலோ
+Palestinian Territory
+Palestinian
+Palette
+பாலி
+Palmyra Atoll
+Palmyra
+Pan
+பனாமா
+Pane
+Panel
+பலகைகள்
+Panes on Startup
+Panes
+PannerNode
+Papua New Guinea
+Papua New
+யா
+Paracel Islands
+Paracel
+Paragraph format
+Paragraph
+பராகுவே
+Parameters
+அளவுருக்கள்
+Parcel
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+Parental
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+PartS
+Partial
+Partially Encrypted
+Partially
+Participant
+Participants
+Parts
+Party Name
+Party
+பாஷ்டோ
+Password Change
+Password Manager
+கடவுச்சொல்
+PasswordIf
+கடவுச்சொற்கள்
+Paste Go
+Paste
+ஒட்டு
+Pastel Gradient
+Pastel
+Paste…
+Patch
+Patching s
+னணினைத
+பாதை
+Paths from
+Paths
+Paulo
+Pause on
+Pause/Resume/Retry
+இடை நிறுத்து
+இடைநிறுத்து
+இடைநிறுத்தம்
+இடைநிறுத்தப்பட்டது
+Pauses the
+Pauses
+Pay
+Payload
+கட்டணம்
+Paz
+Peer
+PeerConnection ID
+PeerConnection
+Pending
+Penh
+மக்கள்
+Percent
+Perform a
+Perform
+செயல்திறன்
+Perhaps the
+Perhaps you &apos
+Perhaps
+Period of Validity
+Period of
+Period
+Periodic
+நிரந்தரம்
+Permanently
+Permission
+அனுமதிகள்
+Permit
+பெர்ஷியன்
+Personal
+Personality
+பெரு
+Perwebsite
+நிலை
+பிலிபைன்ஸ்
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+கைப்பேசி
+Phones
+Phonetic Name
+Phonetic
+Photo
+Photograph
+Phrase
+Physical
+எடு
+Picture
+பைரே
+பைலட
+Pin
+Ping
+நிலைநிறுத்தப்பட்டது
+பிணைப
+Pipelining
+Pitcairn Islands
+Pitcairn
+Pixel
+Plain
+Planner
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Platform
+Play a
+இயக்கு
+Playing audio
+இயக்குகிறது
+Please advance
+Please authenticate
+Please consider
+Please enter
+Please shorten
+ISP
+Plug a
+Plug
+PlugIns
+செருகி
+சொருகிகள்
+செருகல்கள்
+செருகுநிரல்கள்
+Plus
+Pocket
+போட்காஸ்ட்
+PoiQA
+Pointer Lock API
+Points
+போலந்து
+Pole
+Policies
+Policy Constraints
+Policy Mappings
+Policy mapping
+Policy
+போலிஷ்
+பாலினேஷியா
+Popup Blocking
+Popup
+மேல் தோன்றும்
+பாப்அப்கள்
+துறை
+முனையம்
+Portable Document
+மேட
+Porto
+போர்ட்ரெட்
+நீளவாக்கில்
+போர்ச்சுகல்
+போர்ச்சுகீஸ்
+நிலைப்பாடு
+Posse
+Possible
+Post
+Postal Code
+Postal
+Posting
+Postpone
+Power
+Powered by
+Powered
+Powershare
+Practice Statement pointer
+Practice
+Pre
+Precondition
+Preferably
+Preference
+விருப்பங்கள்
+முன்னுரிமைகள்
+விருப்பத்தேர்வுகள்
+முன்னுரிமைகள்…
+விருப்பத்தேர்வுகள்
+Preferred
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Prefix
+Prefixed
+Preformat
+Premature
+Prepackage
+Prepackaging
+Preparing
+தயாராகிறது
+Present
+Presentation Mode
+Presentation
+Preserve
+Preserves
+Preset
+Presets
+அழுத்து
+Pressing F
+F
+Prettify
+Pretty Print
+அழகான
+Prevent
+முன்தோற்றம்
+Previewed
+Previewing
+Preview…
+Previous Session
+முந்தையது
+விலை
+Primary Email
+Primed cache
+Primed
+Primetime Content
+Primetime
+Princes
+Principal Name
+பிரின
+சிபி
+அச்சிடு
+அச்சிடுக
+Printed
+அச்சடிப்பி
+அச்சிடுகிறது
+அச்சிடுகிறது
+அச்சிடு…
+அச்சிடுக…
+Priority changed
+Priority
+Privacy Policy
+தனியுரிமை
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+தனிப்பட்ட
+முன்னுரிமையுள்ளது
+Privileges
+Privileges…
+Pro
+சாத
+Probably
+Probing
+Problem
+Proceed
+Proceeding will
+Proceeding
+Process
+Processing
+Processing…
+Prodigy
+Producer
+Product
+ProductName
+ProductNameInternal
+ProductShortName
+சுயவிவரம்
+Profiler
+Profiles
+Program Icons
+Program
+Programs Folder
+Programs
+Progress Window
+செயல்படுகிறது
+செயல்பட்டுக்கொண்டிருக்கிறது
+Project Lead
+திட்டம்
+Projects
+Promise Debugger
+Promise
+நினைவுபடுத்து
+தன்மைகள்
+பண்புகள்
+தன்மைகள்…
+Property Declaration
+Property Value
+பண்பு
+விகிதம்
+விகிதப்படி
+Propose a
+மொழியவும
+Protection
+Protocol Request
+Protocol
+ProtocolSpecific
+Protocols
+Proudlybr
+Provider
+Province
+Proxies
+Proxy
+Pseudoelements can
+Pseudoelements ‘
+போலி கூறுகள்
+Psst using
+Psst
+Public
+PublicKeyPins
+Publish
+Publishing Pages
+Publishing
+Publishing…
+Publish…
+Puerto Rico
+Puerto
+பஞ்சாபி
+Purchase for
+நோக்கங்கள்
+Push Endpoint
+Push
+QA UI
+QA
+QNameஉடன
+QQ
+QR Scan
+னொரு
+கத்தார்
+Qualified Subordination
+தகுதிபெற
+க்யூசுவா
+Query
+Question
+வரிசைப்படுத்துப்பட்டுள்ளது
+Quick Filter
+Quick Launch bar
+Quick Launch
+Quick
+Quickly
+Quirks mode
+Quirks
+Quirky doctype
+Quirky
+Quit
+வெளியேறு
+வெளியேறு Q
+QuitS
+Quitting
+Quota
+Quotation
+Quote
+Quotes
+RAM
+நெறிமுறையைப
+RDN
+பதிவுகள்
+REMOVE
+RETR command
+RETR
+RETURN
+RFC
+RGBA
+RSA Encryption
+RSA
+RSASSAPSS Signature
+RSASSAPSS
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+RTP
+Radio Button
+Radio buttons
+Radio
+Rainy
+Raise
+Range
+Rankin
+Rate
+மதிப்பெண்
+Ratio
+் ரா
+Re
+Reached
+Read
+ReadMark
+Reader &apos
+Reader
+Reading
+Ready to
+தயார்
+Really fast
+Really
+Rearrange
+காரணம்
+Reasons
+Rebuild Summary
+Rebuild
+மறுகணக
+Receipt denied
+Receipt
+Receipts
+Receive
+பெறப்பட்டது
+பெறுகிறது
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+சமீபத்திய
+டதை
+Recheck
+பெறுநர
+Recipients
+Recommended Components
+பரிந்துரைக்கப்பட்டது
+Reconfirm
+Reconnect
+Record
+Recording Performance
+Recording
+பதிவாகிறது
+Recover
+Recovery Keyhtml
+Recovery
+Recur
+Recurrence pattern
+Recurrence
+Recursion
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+Redirection
+Rediscover the
+Rediscover
+தானைக
+Redo
+மீளச் செய்
+மீளச் செய்க
+மீட்டல்
+மீண்டும் செய்
+Reducing the
+Reducing
+Reduction
+Reef
+Reenter
+Reference
+References
+Referrer
+Referring URL
+Referring
+மீளோடைகள்
+Reformat
+புதுப்பி
+Refused
+Register Locale
+Register Server
+Register
+Registered
+Registering
+Regular Attachment
+Regular
+Reject
+Rejoin
+Related
+Relation
+Relative positioning of
+Relative
+Relaunch
+Release Notes
+Release
+Releases
+மீளேற்று
+பக்கத்தை மீளேற்றவும்
+மீளேற்றுக
+Remaining
+நினைவூட்டு R
+நினைவில்கொள்
+Remind Me
+Remind
+Reminder
+Reminders
+Remote Debugging
+Remote debugging
+தொலைதூர
+Remove channel
+Remove
+அகற்று
+நீக்கு
+அகற்றுக
+நீக்குக
+Removed
+Removes
+நீக்குக…
+Removing
+Renaissance
+மறுபெயரிடு
+Rename…
+Renaming
+Render Mode
+Render
+கொடுப
+Rendering
+Renewal
+Reopen
+Repair
+Repeat
+Repeating
+திரும்பச்செய்
+Replace
+Replacement
+Replaces in
+கூறுகளிலான
+Replace…
+Replacing
+Replicating directory entry
+Replicating
+Replication failed
+Replication
+Replied
+Reply
+ReplyTo
+பதிலளி
+Replyto Address
+Replyto
+அறிக்கை
+ReportOnly
+கையாளர
+Reports
+குடியரசு
+Request the
+Request
+RequestMode
+Requested
+Requests
+Required
+Requires
+Reread mozcmd
+Reread
+மீண்டும் அனுப்புக
+Resending
+ResentCC
+ResentComments
+ResentDate
+ResentFrom
+ResentMessageID
+ResentSender
+ResentTo
+Reserved
+மீளமை
+மறுஅமை
+மீட்டமை
+திரும்ப அமை
+Resets
+Resolution/Quality
+Resolution
+Resolve
+Resource
+Resources
+Responder
+பதிலளிப்பு
+Responseclone
+பதிலளிப
+Responsive
+Rest
+மீள ஆரம்பிக்க
+மறுதுவக்கு
+மறுதுவக்கம்
+மீள்துவக்கு
+Restarting
+மறுதுவக்கம்…
+மீளமை
+மறுசேமி
+மீட்டமை
+மீட்டெடு
+மறுசேமிப்பு
+Restrict
+கட்டுப்படுத்தப்பட்ட
+Restyle Hint
+Restyle
+Results
+Resume &apos
+தொடரவும்
+Resumes
+Retained
+Retention Policy
+Retention
+Retest
+Retrieving quota
+Retrieving
+திரும்ப எடுக்கிறது…
+மறுமுயற்சி
+Retrying
+திரும்பு
+Retweet
+ரீயுனியன்
+Reverse
+Reversed
+மீட்டமை
+திரும்பப்பெறு…
+பணியக
+Revision
+Revived
+Revocation
+Revoked
+Rewind
+Rewrap
+Rewriting oldstyle
+Rewriting
+ரெய்டோரோமானிக்
+Rica
+Rich Text
+Rich
+ரிகோ
+Right Click
+வலது
+Rightclick
+Rights
+Righttoleft direction
+Righttoleft
+Ringing…
+Rio
+Rioja
+Risks
+River
+Roaming
+Robot
+Robots
+ரொக்கூ
+Role
+ரோமானியா
+Romanian ISO
+ரோமானியன்
+Room
+Root
+Roots Module
+Roots
+சுழற்று
+Row
+Rows
+Rule
+Rules
+Ruleset
+Run
+RunAppX
+Running
+இயக்க நேரம்
+Russia
+Russian Federation
+ரஷ்யன்
+இரசியன்
+ருவாண்டா
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+அகலத
+SASL bind
+SASL
+SD
+SDP
+SE
+SECG elliptic curve sectr
+SECG
+SECURITY
+SEE THIS STRING
+SEE THIS
+SEE
+SETTINGS
+SFailed to
+SFailed
+SHA Digest
+SHA Fingerprint
+SHA
+SHOULD
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+SKB
+SMB of
+SMB
+SMTP &apos
+SMTP&apos
+SMTP
+SMTPAUTH
+SOCKS Host
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+SPONSORED
+SQL Statements
+SQL
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+STRING
+STouch
+SUGGESTED
+SVG clipping
+SVG
+SW Asian
+SW
+மாற்றி
+SYSTEM
+S_கோப்புகள்
+சனி
+Saba
+Sad
+சபாரி
+Safe Mode
+Safe
+SafeBrowsing
+SafeMode
+சகாரா
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+ரீனடின
+Salaam
+Salem
+Salvador
+Same
+செமி
+ஸாமோ
+சாமொயான்
+Sampled
+மாதிரிகள்
+San Marino
+San
+ஸ்சேன்டுபாக்ஸ்
+Sandboxing
+Sandwich
+சாங்ரோ
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+ஸான
+சமஸ்க்ரிதம்
+ஸான்ஸ்ஷெரிஃப்
+Santa
+Santo
+Sao Tome and
+Sao Tome
+ரின
+சர்டினியான்
+Sass
+சனி
+சனிக்கிழமை
+Saudi Arabia
+சவூதி
+Save Permissions
+சேமி
+Saved
+சேமி…
+Saving
+சேமிக்கிறது
+Saw
+Scalars
+Scale …
+அளவு
+அளவு மாற்றம்
+Scaled
+Scaling
+Scam Warning Take
+Scam
+Scams
+வருடு
+Scanner app
+Scanner
+Scanning for
+வருடுகிறது
+Scheduling
+Scheme
+Scope
+Score Origin
+Score
+Scots
+Scottish Gaelic
+Scottish
+Scratchpad Enter some
+ஸ்க்ரேட்ச்பேட்
+Screen Orientation
+Screen reader
+திரையிலிருந
+Screenname
+திரைப்பிடிப்பு
+திரைப்பிடிப்புகள்
+Script
+Scripts
+Scroll
+ScrollLinkedEffects
+Scrolling
+Sd
+Sdays
+Sea
+SeaMonkey
+SeanMartell Available
+யின
+Search BarName
+Search Engine
+Search Engines
+தேடு
+தேடுக
+தேடுதல்
+Searches
+Searching &apos
+Searching
+தேடுகிறது…
+தேடு…
+Seccomp Thread Synchronization
+Seccomp Thread
+Seccomp
+SeccompBPF System
+SeccompBPF
+Second
+Secondary Email
+Secondary
+Seconds
+Sections
+Secure
+Securing connection
+Securing
+Security Exception
+பாதுகாப்பு
+பார்
+தேர்வு செய்
+Selected Frame
+Selected Tabs
+Selected
+SelectedRemove Selected
+SelectedRemove
+Selecting
+தேர்ந்தெடுத்தல்
+Selector
+Selectors
+Select…
+Self Cost
+Self Sampled
+Self Time
+Self
+Selfclosing syntax
+சுயமாக
+Selfposting
+Send Verification
+Send a
+அனுப்பு
+Sender
+அனுப்புகிறது
+Sends a
+Sends
+ஸ்நேகல்
+உணரி
+Sent &quot
+அனுப்பப்பட்டது
+செப்
+Separate _
+Separate tags
+Separate
+Separated
+பிரிப்பான்
+பிரிப்பான்கள்
+செபியா
+செப்டம்பர்
+செர்பியா
+செர்பியன்
+Serial Number
+Serial
+Serialize
+ஷெரிஃப்
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+Server settings&apos
+சேவையகம்
+சேவையகங்கள்
+Service
+ServiceWorker
+ServiceWorkerAllowed
+சேவைகள்
+அமர்வு
+Sessions
+Set Up Sync &quot
+Set this channel &apos
+அமை
+Setting
+Settings &#124
+அமைவுகள்
+அமைப்புகள்
+SettingsA
+அமைவுகள்…
+யாமல
+Seven
+Severy
+சைசிலஸ்
+Sh
+நிழல
+Shading
+Shallow
+பகிர்
+Shared
+Sharing Indicator
+Sharing
+Sheet
+Shift _ JIS
+Shift _
+Shift
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+ஸ்ஹெனா
+Shopping
+Short
+Shortcut
+பலகை
+Shot
+Should
+Show/Hide
+காட்டு
+காண்பி
+காட்டுக
+Showing
+Shrink To Fit
+Shrink
+Shutdown
+Shutting Down
+Shutting
+SiInEfate
+உடன்பிறப்புகள்
+Sichuan Yi
+சுவன
+பக்கப்பட்டை
+பக்கப்பட்டைகள்
+Sierra Leone
+சியாரா
+Sign
+Signature
+Signed
+பமிடுபவர
+கையொப்பமிடல்
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Simple
+Simplified
+Simplify
+Simply
+Simulate touch
+Simulate
+Simulation
+டரை
+பகர்ப்புகள்
+Since
+சிந்தி
+சிங்கப்பூர்
+சிங்களம்
+சிங்களம்
+சிஸ்வதிஸ்
+தளம்
+இணைய தளம்
+தளங்கள்
+அளவு
+ஸ்லோவாக்
+ஸ்லோவாகியா
+ஸ்லோவேனியா
+சால்வேனியன்
+Sm
+சிறிய
+Sms
+வெறுத
+சாக்கெட்டுகள்
+தகா
+சாலமோன
+emcontributorதங
+ஸோமாலி
+சோமாலியா
+டியலாகும
+சாங்ஹே
+சோர்பியன்
+வரிசைப்படுத்தியது
+ஸொதோ
+மூலங்கள் 
+தெற
+சதர
+Space
+காலி இடம்
+ஸ்பெயின்
+ஸ்பானிஷ்
+Spec
+Speculative
+கூட
+Spx
+Ss
+Sவி
+ஸ்டேக்
+இயல்பான S
+தொடங்கு
+துவங்குகிறது…
+துவக்கம்
+ஆரம்பிக்க
+நிலை
+கூற்று
+ளிவிவரம
+நிலை
+இரு
+நிறுத்து
+நிறுத்தப்பட்டது…
+கிடங்கு
+தமானமான
+அளவு மாற்றி
+சரம்
+பாணிகள்
+Stylesheet
+ஞா
+உபகட்டளைகள்
+பொருள்
+சமர்ப்பி
+சமர்பிக்கப்பட்டது
+methodGET
+பணிவு
+சந்தா
+சந்தாதாரராக
+சந்தாபடுத்து
+துணைக
+வெற்றி
+சூடான்
+முன்னொட்டுகள்
+யோசனைகள்
+சுருக்கம்
+ஞாயிறு
+சூடானீஷ்
+ஞாயிற்றுக்கிழமை
+மேற்பொருந்தப்பட்டது
+ஆதரவு
+சுரிநாமீ
+குடும்ப பெயர்
+ஸ்வாஹிலி
+சுவாஸ்லாந்து
+சுவீடன்
+ஸ்வீடிஷ்
+மாற்றி
+நிலைமாறு
+சுவட்சர்லாந்து
+Symmetric
+ஒத்திசை
+ஒத்திசைவு
+ஒத்திசைக்கிறது
+சுருக்கம்
+சைரியா
+TCP
+TCVN
+TIS
+TLS
+Tab
+அட்டவணைகள்
+கீற்றுகள்
+ஒட்டு
+டங்கலாங்
+குறிகள்
+ஒட்டுகள்
+கீற்றுகள்
+தஹிதால்
+தாய்வான்
+தஜ்க்
+தஜிகிஸ்தான்
+தமிழ்
+தான்சானியா
+இலக்கு
+கதார்
+தொலைத்தொடர்பு
+தெலுங்கு
+தற்காலிக
+பிரதேசம
+சோதனையை
+உரை
+வி
+Thai
+தாய்
+தாய்லாந்து
+நன்றி
+துமீறல
+தோற்றம்
+கருப்பொருள்கள்
+குறியைச
+வியாழன்
+சிறுபடம
+சிறுபடங்கள்
+தண்டர்பேர்ட்
+வியாழக்கிழமை
+திபெத்தியன்
+திபேத்தியன்
+Ticket
+டைக்ரே
+டிக்ரின்யா
+கட்டங்கள்
+முகவரியில
+நேரம்
+காலவரிசை
+நேரங்கள்
+தைமூர்லஸ்டே
+நுண்ணிய
+தலைப்பு
+களு
+ரீனிதத
+இன்று
+மாற்றி
+மாற்று
+நிலைமாற்று
+இடமாறுகிறது
+டோகோ
+டோகிலோ
+டோக்கன்
+டோங்கா
+டோன்கா
+கருவிப்பட்டைகள்
+கருவிகள்
+மேலே
+தொடுதல்
+தடையங்கள்
+தொடர்தல்
+கண்காணிப்பு
+பரிய
+மொழிபெயர்
+மொழிபெயர்ப்பாளர்கள்
+Transport
+டோபாகோ
+சிக்கல் தீர்த்தல்
+சிக்கல் தீர்க்கப்படுகிறது
+கோர
+டிசோங்கா
+டிஷ்வானா
+செ
+செவ்வாய்
+செவ்வாய்கிழமை
+துனீஸியா
+டர்கி
+துருக்கி
+துருக்கிய
+டர்க்மேன்
+துருக்மேனிஸ்தான்
+குவதால
+துவாலு
+ட்வி
+வகை
+UID
+மீளமை
+அறியாத
+UNSUPPORTED
+URI
+URL
+யூஎஸ
+USASCII
+USB
+கோடுUTF
+Little
+உகான்டா
+ஒஹ் ஓஹ்
+உய்ஹர்
+உக்ரெய்னி
+உக்ரேனிய
+உக்ரெனியன்
+உக்ரேனியம்
+இருப்பில் இல்லை
+தேர்வு நீக்கு
+Undo
+மறை
+செய்யாதே
+முன்செயல் நீக்கி
+முன்செயல் நீக்கு
+செயல்தவிர்
+செயல்நீக்கு
+அனெஸ
+பாராதவிதமாக
+ஒருங்குறி
+துவக்கப்படாதது
+நீக்கு
+நிறுவுல் நீக்கு
+நிறுவல் நீக்குகிறது
+உலகளாவிய
+தெரியாத
+தெரியாதது
+படாதவரை
+இணைப்பைநீக்கு
+இறக்கு
+பூட்டுநீக்குப்பட்டது
+ஒலிக்க செய்
+ஒலிக்கச் செய்
+விடுவி
+கையொப்பமிடாத
+வரிசைப்படுத்தப்படாதது
+பயன்படுத்தப்படாத
+சரிபார்க்காத
+மேல்
+புதுப்பி
+மேம்படுத்து
+மேம்படுத்தல்
+இற்றைப்படுத்துக
+புதுப்பிக்க 
+மேம்படுத்து U
+பதிவேற்றுகிறது…
+செர
+உருது
+உருகுவே
+இடமாறவும
+help
+பயனர் பெயர்
+பயனர்பெயர்
+உஸ்பெக்
+உஸ்பெகிஸ்தான்
+V
+செல்லும்
+VERSION
+VISCII
+VK_F
+VK_QUOTE
+VK_SEMICOLON
+VK_SLASH
+VPS
+சரியானது
+செல்லுபடி
+மதிப்பு
+மதிப்புகள்
+வேனோட்டு
+மாறிகள்
+வாடிகான
+வெண்டா
+வெனிசூலா
+Verify
+சரிபார்க்கிறது
+சரி பார்க்கிறது…
+சரிபார்க்கிறது…
+பதிப்பு
+உச
+வீடியோ
+நிகழ்படம்
+வியட்நாம்
+வியட்னாமிய
+பார்
+நோக்கு
+பார்வை
+சியாளர
+Viewport
+பார்வைகள்
+பார்
+பார்…
+விஷுவல
+வோலாம்
+ஒலியளவு
+எச்சரிக்கைகள்
+காத்திருக்கிறது
+காத்திருக்கிறது…
+ஃபூட
+வாலோன்
+எச்சரிக்கை
+எச்சரிக்கைகள்
+கவனி
+பு
+WeakMap
+Web
+WebGL
+WebIDE
+இணைய IDL
+வலை சாக்கெட்டுகள்
+இணையத்தளம்
+புதன்
+புதன்கிழமை
+நல்வரவு
+வெல்ஷ்
+மேற்கத்திய
+விளம
+இடைவெளிகள
+வைபை
+width
+Win
+சாளரம்
+Windowopen
+டோசு
+விசார
+வோலோஃப்
+புகிறிர
+மடக்கு
+சுற்றிக்கட்டு
+எழுதுதல
+எழுதல
+X
+XHR
+XHTML
+XML
+XMLHttpRequest
+XPConnect
+XPath
+XSLT
+XUL
+க்ஷ்ஹொசா
+Y
+Yahoo
+யாகூ
+ஏமன்
+ஆம்
+நேற்று
+Yi
+யைதீஷ்
+யொரூபா
+நீங்கள்
+தரவுகளுடன
+Z
+ஸாம்பியா
+ஷுவாங்
+ஜிம்பாப்வே
+அளவு
+அளவிடுதல்
+பெரிதாக்கு
+பெரியதாக்கு
+சுலு
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+a scam
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+a surprised
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+a week
+a windowed
+a wink
+a year
+a yelling
+பணிபுரியும
+aChoose
+aFrames
+aKnow
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abhorred
+abilities
+able
+யவா
+aborted
+about About
+about Networking
+about Us
+about brandShorterName
+about
+aboutconfig
+aboutcredits
+aboutrights
+aboutwebrtc
+above
+aboveAllow
+abruptly
+absence
+absolute positioning
+absolute
+accel
+accelalt
+acceleration on
+acceleration
+accelshift
+accented
+accept
+acceptable
+acceptcharsetutf
+accepted
+accepting site &apos
+accepting
+access Key
+access multimedia
+அனுமதியற
+accessed
+accessibility support
+accessibility tools
+accessibility
+லோராலும
+accessing
+accidental breakage
+accidental
+accompanying
+accomplished
+accordance
+according
+account &apos
+account Actions
+account connected
+account name
+account
+accountManagernewAccountlabel
+accounts
+accuracy
+பிழையில
+acknowledges
+அணுகுங
+act
+action
+actions
+இனைச
+செயல்படுத்தப்பட்டது
+active Logins
+active
+activity Indicator
+activity Stream
+activity
+actual Size
+actual
+actualDate &apos
+actualDate
+actuarial
+adaptive
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+டியலிட
+addEventListener method
+addEventListener
+கினைச
+adding
+கூடுதலான
+additivesymbols descriptor
+கூடுதலானகுறியீடுகள
+addon &apos
+நிரலைப
+addons gallery
+addons
+addonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+முகவரியுடன
+addressbook
+addressbr
+addresses
+addressing area
+addressing
+adjacent
+adjust
+admin
+வாகியைத
+adult supervision
+adult
+advance
+advanced JavaScript
+advanced
+advanced_pref_installation
+advancelabel
+advertise
+advertised
+advertises
+affect
+affected
+affecting
+after Sending
+after
+மறுபடியும
+age
+agent
+aggregate
+aggregates
+aggregating
+aggregator
+ago
+டவைகளை
+உரிமங
+airplane
+aka NIST
+aka
+பாலானவற
+alert description
+எச்சரிக்கை
+algorithb
+algorithm Parameters
+algorithm
+algorithmhash value
+algorithmhash
+algorithms
+alignment
+alined
+alive
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+அனைவருக
+allocate
+allocated
+allocation
+allocations Rate
+allocations
+allow dialogs
+allow immediate
+விளைவிக
+allowed
+allowfullscreen
+allowing
+allows
+allowsameorigin
+allowscripts
+almost
+along the Y
+along
+alphabetical
+already bookmarked
+already
+also gives
+also skip
+also
+altKeylabel
+றியமை
+alteration
+altered
+alternate
+alternatives
+always Ask
+always Block
+always prefer
+எப
+am &#124
+am
+டிகிரியில
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+புகிறதுஇத
+அலசலை
+analyze
+ancestor elements
+ancestor
+ancestors
+anchor &apos
+anchor
+anchors
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+and Herzegovina
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+t
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+குறிகளிலிருந
+angle
+animatable
+அசைவூட
+animation cycle
+அசைவூட்டம்
+animations
+annually
+anonymous box
+அநாமதேயர்
+another
+தானைப
+antivirus software
+antivirus
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+any
+anymore
+anyone
+anypolicy
+anything
+anyway
+anywhere
+apart
+app &apos
+app submission
+திவிடும
+appName
+appear
+appearance wrong
+appearance
+appears
+append
+applicable service
+applicable
+application Basics
+application Details
+t know how
+கிறதுபயன
+applications
+applied
+applies
+கிரமாக
+applying update
+applying
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+approved
+approx
+approximate line
+approximate
+approximation
+ permission
+பாடுகளின
+apr &#124
+apr
+april
+arbitrary
+archive
+archived folders
+archived
+archives
+archiving
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+பொருளைக
+area shape
+பகுதியை
+areas in
+areas
+aren &apos
+aren
+புருவை
+arguments for
+arguments
+arising out
+arising
+arjo
+armscii ISO ISO ISO
+armscii
+around
+arrive
+arrived
+arrives
+arrow
+arsa
+article summary
+article
+articles
+artwork
+as &apos
+as Authored
+as broken
+as cURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+கையாளுகிறோம
+ascending
+ascii
+ash
+asis &quot
+asis
+ask me
+ask
+asked questions tips
+asked
+கோறுகிறது
+asks that
+asks
+aspect ratio
+aspect
+aspects
+assets
+assist you
+assist
+assistance
+associated
+association
+assume
+assured
+asterisk
+async touch
+async
+asynchronous Pan
+asynchronous entity
+திசையா
+asynchronouslyloaded
+at S
+at least
+at span id &apos
+அவசியமில
+atchMore than
+atrule
+attach
+attached
+attaching
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+attachment
+attachmentDo
+attachments
+attack An
+attack pages
+attack
+attacker could
+attacker
+attackers
+attacks
+attempt
+attempted old
+attempted
+படவும
+attempts
+attend
+attendance
+attendee
+attendees
+attention
+attribute Type
+attribute
+attributes &apos
+கூறுகளுக
+audio Backend
+audio
+aug &#124
+aug
+august
+authenticate to
+authenticate
+authenticates
+authentication mechanism
+authentication
+தரவின
+author
+களி
+authority is
+பொல
+authorization
+authorized
+authors whom
+authors
+auto Increment
+auto Prettify
+auto Save
+auto discover
+auto
+autoAddOnsUpdateslabel
+autocomplete
+முடிவடைவதைச
+autodetection
+autofill
+automated updates
+automated
+automatic updates
+automatic
+automatically Black
+automatically detects
+automatically prefill
+automatically so it &apos
+automatically
+automation
+autoplay
+autoscrolling
+available &quot
+available Commands
+இணைப்பில்
+சராசரி
+avg
+avoid
+aware
+அருகிலில்லை
+சினூடே
+bக
+bEven
+bS
+back facing
+back
+backed up
+backed
+backfacevisibility hidden
+backfacevisibility
+background
+backlogged
+backslashes
+மறுபிரதி
+backups
+backwards
+bad parameter
+சரியில
+badge
+baggage object
+baggage
+ban
+banks stores
+banks
+banned
+பதாகை
+டையானது
+barada
+base
+னுரிமையைக
+baseline
+basic Page
+basic
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+முடியாமலிருப
+bear the
+bear
+beast
+beasts brought emfire
+beasts
+டிஃபயர
+அழகுபடுத
+became full
+became
+ளியில
+become
+becomes damaged
+becomes
+been deactivated
+been navigated
+been reestablished
+been replaced
+been revoked
+been transferred
+been translated
+திசைவிலிருந
+beep
+before
+emவேகமாக
+டலைத
+beginning
+begins with
+begins
+behalf
+behavior
+behaviour
+behavioural
+being incompletely transferred
+being redirected
+being reparsed
+னரே
+believe
+believed
+belongs to
+படுவதைக
+கீழேயுள
+benefit
+benefits
+beside
+best Match
+best accomplished
+best
+லதாக
+இடையில
+bfor Android
+bgt
+bidirectional
+பெரியது
+bigger
+billing
+பைனரி
+bind DN
+bind
+binding shadows
+binding
+bindings tag
+bindings
+bird
+birdcage …
+birdcage
+birth
+bit keys
+சாவிகள
+bitrate
+bits
+கடிக
+டெப
+வெற்று
+block Lists
+block padding
+தடமறிகளை
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+blocked
+blocking
+பாடைத
+blocks
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+முடிவுச
+book
+bookmark updated
+bookmark
+bookmarked
+புத்தகக்குறிகள்
+books
+பூலியன்
+bootloader
+border &apos
+border radius
+எல்லை
+borders
+bot
+both
+கீழிருந
+bound
+boundaries
+bounds
+box Model
+box model region
+box model
+box
+boxcom
+படல
+Boxes
+டியாக
+br
+brace
+braces
+brackets
+brand new
+brand profile
+brand
+brandFullName Credits
+brandFullName
+s
+brandShortName Preferences
+brandShortName logo
+brandShortName
+brandShorterName Tour
+brandShorterName
+brandShortname
+break
+breakage
+breaking
+பாயின
+breakpoints
+முறிவுகள
+brighter
+டுவரவும
+broad
+முறிந
+brought
+உலாவ
+browser &apos
+browser Hangs
+browser configurations
+கியமாகக
+browsercachediskenable to
+browsercachediskenable
+browsers
+உலாவுதலின
+brulliIf
+btn
+buddy list
+buddy
+budget
+buffer capacity
+buffer
+bug
+bugs visit
+bugs
+bugzillamozillaorg
+build Configuration
+build
+building summary
+built
+builtin Roots
+builtin tools
+ளமைக
+bulleted list
+bulleted
+business
+மும
+but we
+காகமுன
+button button
+பொத்தான்
+buttons
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+சினைகளால
+bynbspdesign
+byte
+பைட்கள்
+c
+cSrS
+நகலேடு
+cache management
+தேக
+cachecontrol set
+cachecontrol
+தாதது
+மைமையே
+caching of
+caching
+calendar Weeks
+calendar
+calendaring information
+calendaring
+calendars
+calendartimezonesxpi
+call Stack
+call calls
+call
+callUrl
+callback
+called &apos
+called
+callees
+caller
+calling detach
+calling
+பதியவும
+கருவி
+t
+can analyze
+can collect
+can often
+can ’
+காலதாமதமானது
+cancel
+canceled Occurrences
+canceled
+cancellation
+cancelled
+cancelledAddon
+candidate resources
+candidate
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+பேடால
+canvas Debugger
+canvas an
+பரப்பு
+capabilities
+capable
+capacity
+capitalization
+தலைப்பு
+capture
+captureEventsஐ
+captured log
+captured
+card
+cards copied
+cards etc
+cards
+care
+புரிகிறது
+carefully
+caret
+carriage return
+கேரியேஜ
+carrier
+case sensitivity
+துணர
+caseinsensitive
+cases
+cast
+வகைகளில
+categorize and
+categorize
+general
+categorySource
+cause
+caused
+causes
+causing stability
+causing
+caution
+caveats
+cc
+cd
+cell border
+cell was
+கலம்
+cells
+cellular location
+தோராயமான
+census
+center footer
+center header
+நடுவே
+centered
+அளவரு
+centimeters
+cert AIA
+cert Library
+cert validation
+cert
+certain
+certificSian
+certificate
+certificates
+வாகியில
+ch
+chain
+டுமானாலும
+பேடில
+புதன
+சேனலை
+idஇல
+துவகை
+சோதி
+தெரிவு செய்தது
+தெரிவுசெய்தது
+checkout
+பதிகைகள
+வேறுப
+தமைக
+chrome
+சைப
+ciphers
+circle
+வகுப
+சுத
+Clear Sans
+துடை
+னுரிமையை
+சொடுக்கியது
+client
+பலகைக
+மூடவும
+மூடியது
+இரைச
+குறியீட
+colgroup
+சரிந்துவிட்டன
+உடனடி
+ரியின
+திரட
+நிறம்
+நிறங
+நிரல்
+காம
+கடக
+தாமல
+படியிருக
+
+பொதுப
+communicate
+சமூகத
+compatible
+பைல
+பிரத்யேகமானது
+தயைும
+முடிவடையும
+பணியை
+compliance
+கலவை
+compressed
+compression
+ளதுநீங
+computation
+கணினியிலிருந
+conbv
+அமைவாக்கம் செய்யத்தக்க
+configured
+உறுதிபடுத
+அதனுடன
+தொலைவில
+கைகளால
+பணிமுனையத
+consoleinfo
+consolelog
+consolewarn
+constraint is
+constraint
+னையை
+டகம
+சிறுநிரல
+உள்ளடக்கம்
+டுடனும
+continue
+கொடையாக
+உதவியவர்கள் 
+பங்குபற்றியவர்கள்
+cookie
+நினைவிகள்
+நகலெடுக்கப்பட்டது
+நகலைப
+correct
+corresponding
+காரணமாயிருக
+corrupted
+ஒருவரால
+t
+Couldn
+counterstyle
+கவரேஜ
+cpnbv
+cpnbw
+சிதைவைப
+ஐயோ
+create
+நிறுவிநீக
+creating baggage
+வடிவங
+critical
+css
+ctnbr
+ctnbv
+நடப
+currently
+வட
+டையைத
+சுழற்றியது
+ஒளியையும
+தரவை
+தரவுதள
+datareporting
+தேதி
+குறைவே
+நாள்நாட்கள்
+நாட
+கிலுள
+ளதாக
+தரவைகுறிநீக
+decompress
+decompressed
+decrypt
+decryption
+இயல்பான
+defaultPrevented
+றுச
+வரையறை
+டிகிரி
+முழுவதையும
+delete
+denied
+கழிந
+விவரிப
+தவிற
+சேவையளிக
+developermozillaorg
+சாதனத
+கருவிகளுக
+வரைபடம்
+உரையாடல்
+ளிடவில
+தார
+கிடைய
+digest
+digitally
+கமுறையில
+நேரடியாக
+அடைவல
+முடக்கு
+செயல்நீக்கப்பட்டுள்ளது
+கதல
+disallowed
+றிகரமாகத
+displaying
+div
+துபவரை
+ஆவணங்கள்
+doctype
+ஆவணம்
+ஆவணமாக்கம்
+documentdomainS
+documentwrite
+தளமா
+t know how
+டொமைனுக
+domesticgrade
+t
+றலுடன
+donapost
+மூடுகிறது
+லையோ
+downloaded
+பதிவிறக்குகிறது
+பதிவிறக்கங்கள்
+வரைவுகள
+driver
+due
+பிரதி
+duplicates
+சோதனையின
+e
+each
+easily
+சுலபான
+கீழோயுள
+திருத்துதல்
+பியைக
+எகா
+eight
+eightbit
+eighteen
+eighteenth
+eighth
+either
+elapsed
+elea reime
+கூறு
+elementdataset instead
+elementdataset
+வியால
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+eleven
+eleventh
+eligible
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+நீள
+else contact
+else
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+மின்னஞ்சல்
+emailI &apos
+emailI
+emailed
+emailexamplecom
+emails
+emand
+embarrassed face
+embarrassed
+தொந
+embed
+embedded PDF
+embedded
+embeds
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributorஇளந
+emcontributorJoe Solon
+emcontributorR
+emcontributorஜெயா
+emநெருப
+emgreat
+emnew
+emother
+emoticons
+employer
+empty Trash
+empty slots
+காலியான
+emptying
+emreborn
+emrenewed
+emswiftly
+emthunder
+emபுதிய
+emulate a
+மாதிரியாவதற
+emulating a
+ஆவதை
+emulation
+en
+enUS en
+taIN
+taLK
+enable brandShortName &apos
+enable others
+enable worker
+செயல்படுத்து
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+செயலிலுள
+enables
+enbz
+enclosed
+encode
+encoded
+encoder
+encoding
+encodings
+encountered
+encrypt this
+encrypt
+encrypted you
+encrypted
+encryption
+enctype instead
+enctyp
+enctypeS
+enctypemultipart
+end user &apos
+டியலின
+ended
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+ends
+enforced
+engage
+பொறியைத
+திரங
+enhanced
+enjoy
+enlarging the
+enlarging
+enough
+ensure
+ensures that
+ensures
+கதில
+entered
+entering
+enters
+entire
+entirely
+entities
+entity in
+entity reference
+டிட
+ளீடுகளின
+உள்ளீடு
+எண்ணுறு
+enus
+environment Data
+environment
+environments
+ephemeral DiffieHellman
+ephemeral
+equals sign
+equals
+சமன்பாடு
+equestAnimationFrame
+era of
+erase
+error console
+error creating
+error refiling
+error
+errorCode
+errorfree
+பிழைகள்
+erver
+es Salaam
+es
+esES
+esc
+escape
+escaped
+ltmessagegt
+establish
+established
+estimates only
+estimates
+etc
+eval
+evaluate selected
+evaluate
+evaluating a
+evaluating an
+evaluating
+evaluation
+றாலும
+event Handler
+event
+eventThe
+events
+ever
+every dayevery
+every weekevery
+every
+everyone
+everything inbetween
+everything
+பலவற
+லியமான
+exactly
+examf
+examine your app &apos
+சோதிக
+example
+examplecom rather
+examplecom
+examplenet
+exceed five
+exceed the
+exceed
+exceeded
+exceeds
+except
+விதிவிலக
+exceptions Cookies
+exceptions
+exchange
+excluded
+excluding
+exclusion
+executable
+சாரளத
+executed to
+executed
+executes
+execution
+exemplary
+exist can &apos
+exist
+existing
+exists
+existsWould
+exit
+exited
+exits
+expand panes
+விரி
+expanded to
+விரிவாக்கியது
+expanding out
+இளம
+expands to
+expands
+expandstrict
+expect anonymous
+expect
+expectations
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+வருவது
+expecting
+அனுபவத
+experienced
+experiences
+experiencing
+experiment
+பரிசோதனையிலுள
+பதிவவானது
+expire
+முடிவுறுதல்
+expires Seconds
+டவற
+expiry
+explicit
+explicitly specify
+explicitly
+exploit
+explore a
+explore
+export regulations
+export
+exported
+expose
+exposedProps
+express
+யானால
+expressions
+பொதுவாக
+extended
+extending the
+extending
+extends system
+extends
+நீட்டிக்கூடியது
+extension extensions
+பூர
+extensions
+external Editors
+external storage
+external
+extra Large
+extra requirements
+extra
+extract error
+extract
+extraction error
+extraction
+extreme
+f
+face
+facing camera
+facing
+factory
+fail
+தோல
+fails treat
+fails
+தறிதலில
+fallback
+false
+தவறு
+familiar
+family addressbr
+குடும
+far
+வேகமான
+வேகமாக
+faves
+faxed
+feature
+வசதிகளைப
+feb &#124
+feb
+february
+feed &quot
+feed Subscriptions
+feed
+feedImported
+னூட
+பீட
+feel
+feels great
+feels
+fell
+fence
+fetch count
+fetch
+fetched from
+fetched
+fetching individuals
+fetching more
+fetching
+few
+fewer
+ff &quot
+ff
+field Value
+field
+fields
+fifteen
+fifteenth
+fifth
+fig
+படம்
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+methodPOST
+புபெயர
+வாளரிடம
+filesystem
+filing
+fill out
+fill
+fillStyle
+filled
+filling
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+வடிகட்டு
+filtered
+filtering
+filters
+final
+financial
+find In
+find exactly what you &apos
+find out what &apos
+டுபிடியுங
+findbar
+finding
+finetuned
+finish
+finished evaluating
+finished
+finishing
+fire
+firefox
+firefoxapps
+firewall
+firewalls
+first option
+first party
+First
+fit
+ஐந
+யாவிடில
+fixed Width
+fixed width font
+fixed
+fixvideoaudioproblemsfirefoxwindows
+flag
+flagged
+flame
+flash
+flashing
+flat equation
+சமன
+flexibility and security so you &apos
+flexibility
+flexiblebr
+floating &quot
+floating
+floor
+floppy
+flr
+focus Variables
+focus
+focused
+folder &apos
+folder &quot
+folder subscriptions
+புறையையும
+folders
+follow
+followed by
+followed
+followers
+following protocols S isn &apos
+பினவரும
+follows
+followup
+font Control
+font size
+துரு
+fontface rule
+fontface
+fontfeaturevalues
+fonts for
+துருக
+fontvariant property
+fontvariant
+footer text
+அடிக்குறிப்பு
+footinmouth face
+footinmouth
+for &apos
+for &quot
+for Clearing
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+for recipients &apos
+for signing
+for writing
+னரிமையின
+forbidden
+புடைமையை
+forced
+forcibly
+forcing all
+forcing
+foreign
+forgeries
+forgery
+துவிடு
+forgetting
+forgotten
+form Field
+form Post
+form fields
+form userhost
+படிவம்
+format
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+formatSNew
+formats
+formatted as
+formatted
+formatting
+formdata on
+formdata
+formed
+forms are
+forms
+forth and
+forth
+forums
+forward slashes
+forward
+forwarded
+forwardmsg
+forwards
+உறுதியளிக
+foundout of
+foundout
+founds
+four
+fourteen
+fourteenth
+fourth
+fox jumps over your expectations with
+fox jumps
+fox
+fps
+frFR
+frac
+fraction
+fragment Shader
+தேவையில
+frame &apos
+frame
+framed
+framerate
+frames
+frameset
+framesets
+தியாசமாகக
+வழிவகுக
+fraudulent
+free
+frequently
+அனுபவம
+friday &#124
+friday
+fridays
+friend
+friends
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+ஆரம்பம்
+இதிலிருந்து
+front facing
+பமானவை
+frown face
+frown
+உறைந்தது
+ftp
+ftpmyispcom
+வாணம
+fullfeatured
+fullpage
+fullscreen
+fully
+தொகுதி
+functional
+functionality
+functions
+further
+future scans by
+future
+fxp Available
+fxp
+gain
+gallery
+garbage Collection
+garbage collection
+garbage
+garbled text
+garbled
+gateway
+gathering
+gazed
+gb
+gdiplus
+gear icon
+gear
+general Notification
+general
+generally
+generate a
+சோடிகளை
+generated
+generation
+generator
+generic Photo
+generic
+geoenabled preference
+geoenabled
+geolocation
+geometric
+geometry visibility
+geometry
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+பெறுவதற
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+getAttributeNode
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+getting
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+give
+டுமுள
+gives you
+gives
+எஙங
+glitches
+டையுடன
+global Composing
+global community
+global
+globals
+go Back
+லைனுக
+goes
+going online
+going
+gone
+ஆகா
+good
+லெண
+gopher
+gorithm Identifier
+got it
+கிடைத
+governed by
+governed
+grace
+grant
+டுமல
+grants you
+grants
+வரைவியல்
+graphics
+great
+greater than
+greater
+greeting
+grew more
+காசு
+grid
+கட்டறை
+பிடிப்பு
+பெயரிடு
+grouped
+குழுக
+gt
+gtgt
+guarantee that
+நெறிமுறையான
+guaranteed
+guess
+guessed
+guessing
+guest is
+guest
+guide you
+guide
+guides
+h
+hTraduction
+ha
+hacking
+had its
+சிதைவடைந
+half an
+half past
+half
+hand tool
+hand
+handle S
+handle
+handled
+handler command
+handler
+handles
+handling
+hands
+handshake
+handshakes
+hang Report
+hang stacks
+hang
+hangs
+happened
+happens
+hard drive
+hard
+hardware H
+hardware acceleration
+பொருளோ
+harm
+படைய
+has Attachments
+has bookmarked
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+வகையிலான
+வலியுறுத
+hashes in
+hashes
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+ஸியில
+haven &apos
+haven
+haves
+having trouble
+having
+head
+தலைப்பு
+headers
+heading level
+தலைப்பு
+headings
+திறனைப
+heap
+பாவிட
+height
+held
+hello extension
+hello
+வரையலாம
+helper
+helpful
+helping make
+உதவியதற
+helps ma
+helps
+her
+இங்கே
+இங்கு செல்லவும்
+மறைந்துள்ள
+hide Statistics
+hide Toolbars
+மறை
+hiding
+high Grade
+high
+higher level
+higher
+highgrade
+highlight
+highlighted
+highlightedS nodes
+highlightedS
+ஹைலைட
+highlighters
+highly recommended
+highly
+hightailcom
+him
+hints press
+hints
+his or her
+his
+history window
+history&apos
+வரலாறும
+hold
+holds
+home City
+home Country
+home Phone
+home directory don &apos
+முகப
+களுன
+hop limit
+hop
+horizontal lines
+horizontal
+horror
+host
+ஹோஸ
+hosting service
+hosting
+hostname
+புரவலன்முனை எண்
+hostnames
+hostport
+புரவலனும
+hotspots
+hour
+மணிமணிகள்
+hours
+how
+பினும
+href
+hrink
+hrpd
+hstrike
+htm
+html &apos
+html
+htmlstrong
+htmlstrongநினைவிகளை
+htmlstrongவரலாறுகளை
+htmlstrongகீற
+htmlstrongWindows
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//wwwbloglinescom/loginr/sub/s
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http
+http//boxescom/external/widgetreferffurls
+https//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+https//composemailyahoocom/Tos
+https//developermozillaorg/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad
+https//mailgooglecom/mail/extsrcmailtourls
+https//wwwmibbitcom/urls
+https
+ஹியூ
+Marketplace
+icons
+id
+bநீங
+identifies
+identify
+if
+படிமத
+imgmap
+பாவணை
+படையாக
+import
+முக்கியமான
+இரக
+improperly
+செம
+in signing
+இல்
+முடியாததாக
+inadequate
+அங்குலங்கள்
+கியவை
+முகவரியைச
+included
+incompatible
+incorrect
+இடைவெளியைப
+துகளில
+சுட்டு
+அகரவரிசை
+indicating that
+indicating
+மறைமுகமாகவோ
+ined
+கனுவிற
+சனையை
+தகவலையும
+மறைத
+ராம
+initialize
+initialized
+initiate
+இன்லைன்
+input
+றதும
+inserted
+noscript
+வியைத
+நிறுவு
+நிறுவலையை
+installed
+நிறுவுகிறது
+prologக
+instructions
+இயல் எண்
+internal ONLY
+into
+லான
+பரிசோதனைத
+isindex
+t
+பிவிடவில
+தெறிவிக
+issued
+தெரியாதவர
+சனைகளுக
+நெறிமுறைகளுடன
+படிகள
+மறுசெய
+கோரப
+ஜாவாநிரல
+பணியைத
+முறையைச
+தாவி
+தாவியது
+kb
+keep
+key
+கீஃப
+விசைகளும
+எனில
+டுகளைக
+சிட்டை
+laid
+மொழிகளுக
+கடைசித
+தாமதமாகக
+பிந
+டுவிடு
+இடது
+lefttoprightbottom
+length
+less
+பதிலிக
+li
+liபதிலாளின
+liContact
+liIf
+liஇந
+liஆன
+liபெறப
+liThis problem
+liThis
+liமீண
+liஇணைய
+liYou
+library
+மிதமான
+களான
+liliவலைத
+limits
+வரி
+இணைப்பு
+பட்டியல்
+டுருக
+devtoolsdebuggerremoteenabled
+லிட
+பழுதாகிவிட
+lnk
+ஓவர
+load
+ஏற்றியது
+ஏற்றுகிறது
+டளைகளிலிருந
+மொழி
+மொழிகள
+localhost
+locally
+டியைப
+பூட்டப்பட்ட
+logged
+புகுபதிவுக
+புகுபதிகைகளை
+long
+longer
+திரம
+றுவிட
+lt
+ltcommandgt
+ltr
+பிரதான
+சரியா
+உற
+கணினிகளுக
+malformed
+கிழைக
+வகி
+மேலெழுது
+manager
+மேனிப
+manifestwebapp
+பதிவுசெய
+many
+மேப
+mapping
+
+ஓரம்
+mark the
+marked
+marking a
+marking
+URIஉடன
+marquee
+masking
+master
+தேடலுக
+matched by
+matched
+matcheleatchMore than
+தங
+matching
+matchutomatically
+material
+math table
+math
+matrix
+max
+maxage
+maximum Length
+maximum permissible
+maximum
+may discontinue
+may update
+திருடு
+maybe
+mb of
+mb
+mbox
+me out of here
+me
+mean slower message
+மாறாட
+means you &apos
+விநியோகிப
+measure a portion
+measure a
+measure
+measurements
+measuring
+mechanism
+mechanisms
+media Sharing
+காணொளிகளையும
+medium
+meet
+பினருக
+பினர
+membersonly
+memory map
+memory measurements
+memory
+mentioning
+menu Bar
+menu bar
+படியைத
+menuPath
+menus
+merchantable
+merge Warning
+merge all
+merge
+mesh
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+message
+messageDone
+messageIndexing
+messageS
+messagebr
+messagebrIn
+messageeml
+messagegt
+messageid
+messages Reopen
+messages
+messaging
+மெற
+metadata
+metal posteriors
+metal
+metaviewport tag
+டாகாட
+meter
+method &apos
+பெயரின
+methodGET
+methodPOST and
+methodPOST
+methodpost
+methods
+ஒலிவாங
+microsummary
+middle Eastern
+middle
+சூழலுருவாக
+migrate to
+migrate your
+migrate
+migrated
+மில்லிமீட்டர்கள்
+millisecondPing
+milliseconds
+mimetype of
+mimetype
+min
+mind
+minheight
+minimonth
+minimum
+துஎகா
+minor
+mins
+minute minutes
+minute
+minuteEvery
+நிமிடம்நிமிடங்கள்
+minutes ago
+minutes …
+minutes
+minwidth em
+minwidth
+misconfiguration
+misconfigured
+misencoded
+mismatch
+mismatched tag
+mismatched
+missed reminders
+தவறவிட
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+விடுபட
+misspelled word
+misspelled words
+misspelled
+mistake
+mistakes
+mistyped
+mix
+mixed
+mmultiscripts
+மொபைல
+mode and can &apos
+முறையையே
+modegt
+model
+modelview
+moderated
+moderator
+modern
+modes
+‌
+modifier
+modifiers
+modify
+module returned
+module
+modules
+moduli
+moment
+momentarily
+moments
+monday
+mondays
+moneymouth face
+moneymouth
+monitor
+மாதம
+monthS of
+monthS
+monthevery
+monthly
+months
+more bookmarks
+more powerful
+more savings
+அறி
+moreand
+அறியx
+more…
+most Visited
+most accurate
+most popular
+முலம
+mostrecently
+mouse Wheel
+கூறைத
+move Down
+move Up
+move away
+move emswiftly
+நகர
+moveable
+moved renamed or deleted
+moved renamed
+செருக
+movedS
+movemail
+moving
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+mozVisibilityState &apos
+mozVisibilityState
+mozcmd directory
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+Netscapecom
+mozillaorg
+mozinlinebox display
+mozinlinebox
+mprescripts
+மிவி
+msf
+msgFilterRulesdat file
+msgFilterRulesdat
+much
+multiline
+multimedia
+multiple links &quot
+multiple
+multiplied And
+multiplied by
+multiplied
+multiprocess
+multiweek
+இசையை
+must involve
+தியாக
+my &quot
+my Cert
+my Projects
+my Quick
+my Task
+my Yahoo
+my windows
+எனது
+mypagehtml &quot
+mypagehtml
+myusername&apos
+n
+nWhen your
+nWhen
+name &quot
+பெயருடன
+nameSource
+named anchor
+named either
+பெயரிடப
+names
+பெயரிடைவெளி
+namespaces
+narrowing
+native code
+சொந
+natively
+navigate
+navigated
+வழிசெலுத்தல்
+navigation Toolbar
+வழிசெலுத்தல்
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+near
+nearby
+nearest
+necessary
+need
+needed
+needing to
+needing
+needs
+negate
+negated
+negation
+negative
+negotiate an inadequate
+negotiate
+negotiating a
+negotiating
+negotiation
+neither
+nested Table
+nested
+விதிகளை
+netnz /
+netnz
+netscape
+netscapepublicmozillamailnews&apos
+network Monitor
+network Timeout
+network drive
+network பிரிவு
+அணுகலைப
+never Show
+பகிராத
+நியூ கலிடோனியா
+new Separator
+new Tab
+new Zealand
+new home
+new word
+புதிய
+newer
+news client
+news
+newsexamplenet
+newsgroup subscriptions
+newsgroup
+newsgroups
+newsrc File
+newsrc file
+newsrc
+next gt
+next
+டுரைகளை
+புனை
+லப
+nicknamegt Change
+nicknamegt
+nicknames
+nicks
+இரவும
+பரடா
+nine
+nineteen
+nineteenth
+ninth
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+இல்லை
+noMac
+noWin
+nocors&apos
+nocors
+கனுவை
+nodeShow all
+nodeShow
+nodeValue
+nodelock
+கணுக
+nominative
+non Participant
+non
+nonASCII
+nonFORTEZZA Certificate
+nonFORTEZZA
+nonGregoriancalendar
+nonResponse
+nonUTF encoding
+nonUTF
+nonascii character
+nonascii
+noncesource
+noncharacter
+none
+nonempty
+nonfunction pseudoclass
+தொகுதியல
+nongeneric
+nonincremental Cause
+nonincremental
+nonleaf
+nonmultiprocess
+nonnavigation
+குறியல
+nonparticipant
+nonprintable character
+nonprintable
+nonprofit Mozilla Foundation
+nonprofit
+nonspace in
+இடைவெளியல
+nonstandard
+nontext
+nonvoid
+noon
+nor
+normally
+noscript
+nosniff
+nostore
+not After
+not Before
+not Connected
+not Critical
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+not Installed
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+not checked
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+லைஉதாரணம
+notation be unescaped
+notation be
+குறிதவிர
+note Slow
+குறிப்பு
+notes
+nothing
+அறிவுப
+noticed
+notification Permissions
+notification _
+notification
+notifications
+notified
+notifier or
+notifier
+notify me
+notify
+noting
+nounclass
+nov &#124
+nov
+november
+now doesn &apos
+திசைவுச
+npmmailnews&apos
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+nsIWindowMediator
+nsIWritablePropertyBag
+num
+number
+numbered
+numbers negative
+numbers
+numerator
+numeric
+nursery Collection
+nursery Eviction
+nursery
+obj Properties
+obj
+object Stores
+object
+objects
+obscured
+observed
+observers
+obtain
+occur
+occured
+occurred
+occurrence of
+occurrence
+occurrences
+occurs
+oct &#124
+oct
+october
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+of Man
+of Office
+of Operation
+of Sync
+of Validity
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+உடைய
+ofbr
+off paint
+ஆஃப்
+offer
+offered
+offering
+offerings
+offers
+offerxA »
+இணைப்பு விலகி
+offline_apps
+offsets
+often
+ok
+old
+older than
+older version of Sync
+பழையவை
+oldstyle YouTube
+oldstyle
+omitted
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+மேல்
+ஒருமுறை
+one Level
+one moreand
+ளதை
+oneoff
+ones
+ஷாட
+oneubuntucom
+களைS
+ஆன
+only reloads
+only supports
+only transmitted
+பரிமாறப
+onlybr
+opacity in
+opacity
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opcode
+open Web
+open WebIDE
+திறமூல
+திறந்தது
+opening fence
+திறப
+opensource
+operating system
+விலகிய
+operation command
+operation failed
+operation
+operations error
+operations
+operator expected
+operator
+operators
+opportunity
+opposed
+optimization
+optimizations
+optimized away
+optimized
+optin No
+optin
+option Group
+தேர்வு
+optional defaultS
+விருப்பத்திற்குட்பட்டது
+optionally
+options
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+அல்லது
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+மொழிக
+organization
+organizations
+organizer
+origin
+originAttributes
+டுo
+originally
+originals
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+பவையும
+others
+otherwise it
+otherwise
+our geolocation
+our partners
+புவியிடம
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+நிறைந
+outage
+காலாவதியான
+outgoing
+உருவரை
+outlook
+outofdate
+output folder
+output
+outside
+over other apps &apos
+வழியாக
+overhead
+overlay
+மேலெழுதப்பட்டது
+override the viewer &apos
+மேலெழுதவும
+overriding
+overscript
+overview
+overwrite
+overwritten
+own
+owned
+owner of
+முறையின
+ownerElement
+வலைதள
+ownership
+p pIf
+p
+pA secure
+pA
+pAdditional information
+pAdditional
+pAttack pages
+pதாக
+pDeceptive sites
+pDeceptive
+pEntering any
+pEntering
+pIf
+pThe browser
+pThe page
+pThe requested
+பாரத
+pThese types
+pThese
+pThough
+pUnwanted
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pYou
+pYour
+package
+packaged
+packets
+நிரப்பல்
+page &apos
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+page translation
+page }
+தித
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+pages they &apos
+pages
+paint flashing
+paint
+painted area
+painted
+pair a
+pair
+பலகம்
+பலகத
+panes
+panning
+paper Size
+தாளின
+paragraph Marks
+பத்தி
+param
+parameter entity
+அளவுருவைப
+parameters
+paranoid
+parent Match
+parent Payload
+parent prefix
+parent
+parse XML
+parse failure
+parse
+parsed
+parser state
+parser
+parsing
+part of
+part
+partial Update
+partial character
+partial
+partially
+participant
+participants from
+participants
+participate
+particular purposes
+particular
+parties
+partner You
+குதாரர
+partners We
+partners work
+partners
+partnership
+Parts
+உரிமைகளும
+partyAre
+pass
+passed to
+passed
+passive ’
+passive
+passwdtxt
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+password&apos
+password
+passwordLeave
+passwordStored
+passwordprotected
+passwords
+past
+pasting
+patch apply
+patch
+பாதையை
+paths starting
+paths
+pattern &apos
+pattern
+pause
+paused —
+paused
+ஈடுசுமை
+டணம
+payment
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pசில
+peace
+peer &apos
+peerஇனால
+peers &apos
+peers
+pending dump
+நிலுவை
+people &apos
+people wouldn &apos
+people
+per
+percent
+percentage of
+சதவீதம
+percnt Completed
+percnt
+பேரெழுத
+perform querySelectorAll
+perform
+திறனை
+performed Trying
+performed
+performgt
+performing
+periodically
+permanent exception
+permanent
+permanently deleted
+நிரந
+permissible length
+permissible
+permission denied
+permission
+permissions
+permit
+permitted
+persistent logs
+persistent
+person &apos
+person who holds
+தரவுகளைஅதாவது
+personal Card
+ஆகாமல
+personalhttp//wwwmozillaok
+personalities
+personality
+றொடர
+வெறுமென
+விளையாடு
+AudioBufferSourceNode
+செலவழிக
+செருகளை
+png
+point
+poly
+தோன
+துறைமுக
+ணானது
+position
+vulnerablehandshake
+ppபிழைக
+ppசில
+pprint
+னுரிமையைச
+னுரிமைகளின
+preferonline
+னொட
+தயாராகிறது
+அழுத்தப்பட்டது
+பிரிவிலுள
+தைய
+விலைப
+primev
+principal
+பிண
+சியந
+தனியுரிமை
+private
+privilege
+problem
+சனைகளை
+பெடுக
+திgt
+தேந
+தயாரிப
+சுயவிவரக
+சுயவிவரமாக
+சுயவிவரங
+கலைத
+progress
+சரிவர
+வ
+மைகளை
+தகவவல
+protected
+protocol version
+நெறிமுறையின
+நெறிமுறிகளும
+provided
+குநரோ
+பதிலி
+போலிவகுப
+pseudoelement
+public
+pulli
+pulliகணினி
+pulliஇணைய
+purposes
+px
+முகவரியின
+qmozillaorg
+உரலி
+வெளியேறவிருப
+புபெயரகுல
+random
+கோடுகள
+அணுகப
+read
+படிக்க மட்டும்
+குறையை
+பாததற
+received
+recipient
+recipients
+recognize
+காணத
+record with
+record
+பதிகிறது
+rect
+சேவையகமானது
+refiling
+மீளோட
+refused
+regexp
+regulations
+rejected your
+rejected
+releaseEventsஐ
+புடையது
+மீளேற
+ஏற்றுகிறது
+மீதமுள
+நினைவில
+நினைவுபடுத
+தொலைநிலை
+விலத
+removeAttribute
+removeEventListener
+removed
+லாததலில
+renamed
+renegotiation
+reparsed
+மறுநிகழ
+தேடி
+பதிலிடல
+report
+reported
+s
+reporter
+reports
+request
+படையுடன
+அவசியம்
+requires
+கோருவது
+மறுஅமைக
+மறுஅளவிடு
+வளம
+வளங
+வினவு
+responding
+response
+responseType
+மறுதொடக
+மீளமை
+வையிடக
+retry
+returned
+வைகள
+revocation
+revoked in
+revoked or
+revoked
+«
+உரிமைகளைத
+risk
+இடமில
+மூலம்
+சுழற
+அளவுகளுக
+நிரை
+நிரைகளுடன
+rr
+ruby
+விதி
+விதிகளும
+நுழைவதால
+இருங
+தரவாதம
+same
+மாதிரிகள்
+sandbox
+sandboxing
+சாச்சுரேஷன்
+சேமி
+saved
+அடைவின
+ltசெய
+அளவிடப
+வருட
+கிறுக
+திரையைத
+பிடிப
+முயலலாம
+வரிநரல
+அடைக்கப்பட்டது
+தேடு
+தேடல்கள்
+வினாடி
+டாவது
+வினாடிகள
+வினாடிவினாடிகள்
+secpk
+secpr
+பிரிவு
+sectk
+sectr
+பானதா
+securely
+security library
+இதைக
+seeing doctype
+காணக
+seek
+தேடியடைகிறது
+seem
+seems
+seen but
+seen
+select &quot
+select camera
+எவருடைய
+selected line &apos
+தேர்ந்தெடுக்கப்பட்டது
+selecting
+selection
+selections above
+selections
+selectlabel
+தேர்வி
+selectors separated
+டவதற
+selects
+self
+semicolon
+send Feedback
+send For
+send
+sender &apos
+sender message
+sender
+sending
+sends
+வுடையது
+sensitivity
+sent Cookie
+sent
+sep &#124
+sep
+separate tags
+separate
+separated
+டமும
+separating
+separator character
+பிரிப்பி
+sept
+september
+sequentially as a waterfall
+sequentially
+serial Number
+serial number
+serial
+series
+serif
+server &apos
+server Quota
+server SMTP&apos
+server incorrectly
+server maintenance
+server that can &apos
+சேவகனிலிருந
+servers Maybe
+சேவையகங
+serves
+service providers
+service worker
+service
+services
+serving
+session ID
+session Id
+session Statistics
+session cache
+session
+sessions
+set Priority
+set browsercachediskenable
+set strokeStyle
+set
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+setTimeout
+setUserData
+setVelocity
+sets
+setting
+settings &#124
+settings&apos
+அமைவுகளைக
+setup options
+setup
+seven
+seventeen
+seventeenth
+seventh
+several ways
+several
+shader Editor
+shader compile status
+shader compile
+ஷேடர
+shadows variable
+shadows
+shall control
+shall
+shape &quot
+shape
+share
+shared Workers
+கேமராவும
+sharedLongDesc
+shares
+sharing
+ஷீட
+sheets
+ஷெல
+shield
+shiftKeylabel
+shiftclick
+பளபளப
+shiny
+shopping
+short
+குவழி
+குவழிகளுக
+shorten this
+shorten
+shorter file
+shorter
+shortly
+shortname
+should keep
+should make
+டுமுறையில
+shouldn &apos
+shouldn
+show Cookies
+show resultShow
+show through
+பானில
+showall &apos
+showall
+showing repairing
+showing
+shown
+shownReplies
+shows
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+shutdown
+shutting down
+shutting
+sibiling
+side
+sidebar
+sidebarName
+sidebars
+sign in
+sign
+signal
+signature algorithms
+signature
+signatureAlgorithm
+signatures
+signed
+signer &apos
+signer
+signers found
+signers
+significant
+signing certificate
+signing
+signup
+silence
+silently authenticates
+silently
+similar
+simple Measurements
+simple XLink
+simple
+simplified
+simply need
+திரக
+simulation
+simulator installed
+simulator
+since
+single
+singlesignon
+site &apos
+site doesn &apos
+முரமாகவோ
+sitename &apos
+sitename
+sitenat
+sites
+six
+sixteen &#124
+sixteen
+sixteenth
+sixth
+றளவு
+sizes
+skip Integration
+skip this
+skip
+skipped
+skips
+slash operators
+slash
+slashes ie
+slashes
+slice
+நகர்த்தி
+slot
+slots
+slow Motion
+slow SQL
+slow down
+slow ×
+மெது
+slowing
+slowly
+small
+smaller
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+smiley
+smooth scrolling
+smooth
+smtpexamplenet
+நிலைகுலையும
+படபிடிப
+snews
+so it &apos
+so it can &apos
+so you &apos
+ஆகிய
+soap
+socket
+software makers
+software
+solid Border
+solid circle
+solid
+solution
+solutions
+solve a
+solve
+some cool
+some printing
+some sample
+some unspecified
+some
+somebody &apos
+somebody
+someone isn &apos
+குறியது
+something
+sometimes
+somewhere earlier
+somewhere
+soon
+sorry BrandShortName can &apos
+sorry we &apos
+மன
+sort
+sound file
+sound
+sounds like
+sounds
+source software
+மூல
+மூலங
+space Fantasy
+space between
+இடைவெளி
+ளு
+spam
+span class &apos
+span
+spanThis
+spanbrandShortName
+spandisabled
+spanenabled
+பரவியிருக
+spanspan
+speak now
+speak
+speaking
+spec in
+spec
+special incidental
+special kinds
+special
+specific command
+specific
+specifically
+specification
+பிடப
+specifies
+specify preferred
+இணைகிறது
+specifying a
+specifying acceptcharsetutf
+specifying
+speed
+speedOfSound
+spell checking
+spell
+spellchecker
+spelling
+அணையுங
+spent
+spin button
+சுழல
+split
+sponsored
+spool
+பைவேரை
+sqrt
+square root
+square
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+stability
+நிலையானது
+stack trace
+stack
+stacks
+standalone
+standard time
+standard toBlob
+standard
+standards mode
+standards
+star rating
+ளேவில
+starred
+start Debug
+start Simulator
+தாமதமாகிறது
+started finding
+start
+starting with &apos
+starting
+startlabel
+startmozillaorg
+starts
+startup
+நிலையைப
+statement
+statements
+statistics about
+பயனீட
+stats
+status &apos
+status bar
+status
+stay
+steal
+step Over
+step
+stepped through
+stepped
+stepping
+steps out
+steps
+நிலையிலேயே
+stolen
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+stop
+stopped
+stopping
+stops
+storage quotas
+storage
+storages
+படுபவை
+stored
+stores information
+stores
+storing
+ஓடைப
+strength
+strict protection
+strict
+strike
+string literal
+சரம்
+strings or
+டுசரளங
+strokeStyle
+strong
+strongApps
+strongDevice
+strongThe Book of
+strongThe Book
+strongThe
+stronger Emphasis
+கடினமான
+strongexamplecom
+stronghttp
+strongly recommends
+strongly
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+structure
+structures
+துவதன
+study Findings
+study
+style Editor
+style Inspector
+style endexpand
+style sheet
+பாணியை
+பாணிகள
+தாளைப
+stylesheets
+stylesrc
+sub
+subdirectory
+subdocument
+subdomain
+subdomains
+subfolder
+subfolders
+subgrid
+subgroups
+subject Reminder
+subject
+submission to
+submission
+submit Query
+submit bugs
+submit information that &apos
+பழுதுதொடர
+றுவதற
+பியாயிற
+submitting your
+submitting
+subresource
+subscribe Calendars
+தாபெறுக
+subscribed
+subscribedImported
+subscribing
+subscript
+subscription
+subscriptions
+subsession data
+subsession
+substituting
+subthread
+subthreads
+subtree
+succeed
+succeeded
+successful
+successfully Transmitted
+successfully
+such
+suddenly
+sufficient
+suggest
+suggested Contribution
+suggested Tags
+suggested
+யோசனை
+suggestions
+suggests
+suit
+suitable
+suite
+suites are
+suites
+கூடுதல்
+summary file
+summary
+summoned
+sunday
+sundays
+sup
+superscript pair
+superscript
+superseded by
+superseded
+supervision
+supplied
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+support
+ஆதரவில
+supporting
+supportmozillaorg
+supports
+sure
+surface area
+surface
+surprised face
+surprised
+surrogate
+surrounding environment
+புற
+survey is
+survey
+susceptible
+suspected
+suspicious
+sutomatically
+svSE
+svg
+switch to
+மாறு
+மாறியது
+switching
+symbol
+symbols
+sync them
+sync
+syncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+தசைவு
+synchronization
+synchronize
+நாணில
+syncing
+synctitlepairlabel
+syntax Highlighting
+தொடரியல
+system Integration
+system beep
+கணினி
+systemDate &apos
+systemDate
+systems this
+systems
+t believe
+t delete
+t
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+கீற்று
+tabSharing
+tabdelimited tab
+tabdelimited
+table &apos
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+table rows
+அட்டவணை
+tablets
+tabs
+tabtxt
+குறிச
+tagged
+tagname
+tags
+take up
+விளைவை
+தாமதிக
+takes
+taking too
+taking
+talk
+சிலர
+tapping
+target
+targeted document
+targeted
+task
+taskThe
+taskbar
+tasks
+tastes
+tbl
+technical Details
+technical
+technique
+techniques
+technology
+தொலைபேசி
+tell websites
+யமுடியும
+tells
+template
+templates
+காலிகமாக
+temporary outage
+பெறுவதை
+ten
+tename &apos
+tentatively
+tenth
+tenured objects
+tenured
+ter Lock API
+term &quot
+தவணை
+தவனை
+terminate a
+terminate
+தியால
+terminated
+termination
+விதிமுறைகளைப
+test
+testics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+பலகையில
+textContent attribute
+textContent
+textonly
+texture source
+டெக
+th
+than minimum
+தைவிட
+thank
+thanks for
+thanks
+that &apos
+that can &apos
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+திருடும
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+the Grenadines
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+the emtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+the visualization
+the webapp manifest isn &apos
+the webapp
+the wildcard
+the windowconsole
+டரரிலிருந
+theft
+their defaults
+their
+உரிமையாளரை
+தீமை
+themed
+themes
+then touching
+டியோ
+there &apos
+there
+therefore
+these organizations
+these
+they &apos
+they expire
+they require query
+they
+things you
+things
+think I &apos
+think
+thinkers
+thinking
+thinks
+third Party
+third parties
+third
+thirdparty cookies
+thirdparty software
+thirdparty
+thirteen &#124
+thirteen
+thirteenth
+thirtieth
+thirty &#124
+thirty first
+thirty one
+thirty
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+முறையாக
+thisIf
+thisa
+those
+though
+thought
+thousands
+thread &quot
+thread Hangs
+thread killed
+thread watched
+thread
+threads
+three
+threw
+through inaction
+திரமனிதன
+thunderbird
+thursday &#124
+thursday
+thursdays
+ticket was
+ticket
+ties
+til &#124
+til
+tile replacing
+tile
+tiles
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+விநாடிகள
+timeOccurs
+timed Out
+timed
+timedout
+timeline
+timelines
+timeout
+timer Name
+timer started
+கடிகாரத
+timers in
+timers
+தடவைகள
+timesaving
+நேரமுத
+timestamps
+timezone &quot
+timezone
+timezonepersonalg
+timezoner message doesn &apos
+title
+to getElementById
+முடிவு
+தேனா
+கதாகவும
+நிலைமாற
+token
+too
+கருவிப்பட்டி
+கருவிப்பட்டை
+அதிலிருந
+வளவு
+பாணியில
+மொத
+டிரேஸ
+traces
+ரெயிலரில
+பலின
+transit
+யாதே
+pதரவுப
+transmitted
+அதிகாரமற
+கிளையமைப
+கூடிவிரைவில
+சரி
+நீளமாகவுள
+trusted
+s
+முயலாம
+யாரோ
+txtarea
+type
+வகைகள
+u
+ul
+பகிரமுடியவில
+unacceptable content
+unacceptable
+unauthorized
+இணைப்பிலில்லை
+கிடைக்கவில்லை
+கிடைக்கப்பெறாத
+unbalanced
+Uncheck
+தெரிவு செய்யாதது
+uncompressed
+பிடாத
+underlying
+unencrypted
+பாரதது
+நிறுவல் நீக்கு
+குதலை
+தெரியாதது
+காதவரை
+வரம்பில்லாதது
+பெயரிடாதது
+hidden
+கோளிடாத
+unrecognizable
+Unrecognized
+unrecoverable error
+unrecoverable
+தேர்ந்தெடுக்கப்படவில்லை
+unspecified
+நிலையற்றது
+unsupported
+until
+untrusted
+unused
+தேவையற
+unwrap
+கஒத
+வாகியினால
+தரமேற்று
+விசையானது
+றியதற
+urlprefix
+urlகளை
+எமக
+usage
+usages
+பொழுதும
+பமிட
+சனைக
+விவர
+பயனரை
+பழமையான
+துகிறீர
+வருமாறு
+utf
+utomatically
+v
+சரியானது
+validation
+value
+ண
+மாறிலி
+மாறிகளை
+பனையாளர
+vendorShortName
+verification
+verified
+பதிப்பு
+நெகிழ
+கணினியானது
+அதிர
+இணந
+viewing
+தனியுரிமையை
+மீறுகிறது
+சுநிரல
+visibilityState
+வையிலுள
+வையிடும
+பார்வையிட்டது
+வருகைகள
+குரல
+தியத
+வியாபாரம
+Warning
+எச்சரிக்கைகள்
+தடைபட
+விதம
+re sorry
+நாங
+weak
+இடுவது
+கமுமா
+தெரியபடுத
+வாரத
+கனத
+வரவு
+were
+s
+தேடவேண
+when
+வுடைய
+முடியாதபடியான
+புதுமைக
+வெளியிலமைந
+win
+window
+windowcontent
+இதைப
+டாலும
+windowshowModalDialog
+பாணியுடன
+முடிவடையாமலே
+றுformatS
+வருகிறோம
+உதவுவதன
+கவலை
+wrappers
+எழுதக்கூடியது
+write
+கோளாக
+wwwthamizhaorg
+xNN
+xhrspecwhatwgorg
+xwestern
+ஆம்
+முழுமையடையாமல
+டுபிடித
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+நிரம
+தனிதகவலுக
+yousenditcom
+பூச
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+zoom
+zooming

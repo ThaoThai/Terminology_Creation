@@ -1,0 +1,10795 @@
+ rights …
+/Galapagos
+A ServiceWorker
+MARCADOR
+AB _
+AB
+ACL
+ADB
+COMPLEMENTOS
+EXTRAS
+AEC Logging
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ATT Mail
+ATT
+AUS
+AVA
+Aa
+Aaiun
+Ababa
+Abandon unsaved changes
+Abandonar
+Abbreviate
+Abreviatura
+Abreviação
+Abkhazian
+Abkhaziano
+Interromper
+Abortada
+About Your
+Acerca
+Sobre
+Above
+aceleradas
+Accent Lowercase
+Accent Uppercase
+acentuadas
+Aceitar
+aceitação
+Accepted
+Access
+
+AccessControlAllowCredentials
+
+AccessControlAllowHeaders
+
+AccessControlAllowMethods
+AccessControlAllowOrigin
+Acessibilidade
+Account &quot
+Account Settings &#124
+Conta
+Accountquot
+Contas
+Accountspecific
+Conta
+Acrónimo
+Acrônimo
+Ação
+ações
+Ativar
+Ativa
+Ativado
+Activations Directory
+ativações
+Ativa
+Ativas
+Ativo
+Actively block
+Atividade
+Status
+Actual Size
+Adak
+adaptador
+adaptadores
+Adb
+Adicionar
+Nova…
+Novo
+Novo…
+Adicionado
+Addis Ababa
+Addis
+Additional Tools
+Encontra
+Addon
+Addons Installed
+Complementos
+Extras
+Addr
+Address Book
+Address Books
+Contactos
+Endereço
+Morada
+AddressBook
+Addressbook
+Endereços
+Endereçamento
+Endereçar
+Adds
+Adicionar
+Adicionar…
+Nova…
+Ajuste
+administração
+Administrative Assistant
+Administrative limit
+Administrative
+Administrator
+Adobe Flash
+Adobe
+Advance
+Advanced Property Editor
+Advanced info
+Avançadas
+Avançado
+Avançadas
+Avançadas…
+Avançado
+Avançado…
+Afar
+Affects multiple
+Afeta
+Affiliation Changed
+Afiliação
+Afeganistão
+África/Abidjan
+África/Accra
+África/Algiers
+África/Asmara
+África/Bamako
+África/Bangui
+África/Banjul
+África/Bissau
+África/Blantyre
+África/Brazzaville
+África/Bujumbura
+África/Cairo
+África/Casablanca
+África/Ceuta
+África/Conakry
+África/Dakar
+África/Djibouti
+África/Douala
+África/Freetown
+África/Gaborone
+África/Harare
+África/Johannesburg
+África/Juba
+África/Kampala
+África/Khartoum
+África/Kigali
+África/Kinshasa
+África/Lagos
+África/Libreville
+África/Lome
+África/Luanda
+África/Lubumbashi
+África/Lusaka
+África/Malabo
+África/Maputo
+África/Maseru
+África/Mbabane
+África/Mogadishu
+África/Monrovia
+África/Nairobi
+África/Ndjamena
+África/Niamey
+África/Nouakchott
+África/Ouagadougou
+África/PortoNovo
+África/Tripoli
+África/Tunis
+África/Windhoek
+África
+African Republic
+African
+Africano
+Africâner
+Depois
+Again &quot
+Again
+Idade
+Agent
+Agregar
+Ago
+Agree
+Acordo
+Aires
+Akan
+Akrotiri
+Alarm
+Albânia
+Albanês
+Alert dialog
+Alert record
+Alerta
+Argélia
+Algorithm Parameters
+Algorithm
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+Alcuha
+Alcunha
+Apelido
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Alinhamento
+Alinhar
+Alinhamento
+Todas
+Todos
+Tudo
+Allman
+Allocated
+Allocation Trigger
+Allocation
+Alocações
+Allow First
+Allow autoplay
+Aceitar
+Permitir
+Allowed
+permitindo
+Allows
+Permitir…
+Almost done
+Almost
+Alpha
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Apesar
+Sempre
+América/Adak
+América/Anchorage
+América/Anguilla
+América/Antigua
+América/Araguaina
+América/Argentina/Catamarca
+América/Argentina/Cordoba
+América/Argentina/Jujuy
+América/Argentina/Mendoza
+America/Argentina/Salta
+América/Argentina/Salta
+America/Argentina/Tucuman
+América/Argentina/Tucuman
+America/Argentina/Ushuaia
+América/Argentina/Ushuaia
+America/Aruba
+América/Aruba
+America/Asuncion
+América/Asuncion
+America/Atikokan
+América/Atikokan
+America/Bahia
+América/Bahia
+America/Barbados
+América/Barbados
+America/Belem
+América/Belem
+America/Belize
+América/Belize
+America/BlancSablon
+América/BlancSablon
+America/Bogota
+América/Bogota
+America/Boise
+América/Boise
+America/Cancun
+América/Cancun
+America/Caracas
+América/Caracas
+America/Cayenne
+América/Cayenne
+America/Cayman
+América/Cayman
+America/Chicago
+América/Chicago
+America/Chihuahua
+América/Chihuahua
+América/Creston
+America/Cuiaba
+América/Cuiaba
+America/Curacao
+América/Curacao
+America/Danmarkshavn
+América/Danmarkshavn
+America/Dawson
+América/Dawson
+America/Denver
+América/Denver
+America/Detroit
+América/Detroit
+America/Dominica
+América/Dominica
+America/Edmonton
+América/Edmonton
+America/Eirunepe
+América/Eirunepe
+America/Fortaleza
+América/Fortaleza
+America/Godthab
+América/Godthab
+America/Grenada
+América/Grenada
+America/Guadeloupe
+América/Guadeloupe
+America/Guatemala
+América/Guatemala
+America/Guayaquil
+América/Guayaquil
+America/Guyana
+América/Guyana
+America/Halifax
+América/Halifax
+America/Havana
+América/Havana
+America/Hermosillo
+América/Hermosillo
+America/Indiana/Indianapolis
+América/Indiana/Indianapolis
+America/Indiana/Knox
+América/Indiana/Knox
+America/Indiana/Marengo
+América/Indiana/Marengo
+America/Indiana/Petersburg
+América/Indiana/Petersburg
+America/Indiana/Vevay
+América/Indiana/Vevay
+America/Indiana/Vincennes
+América/Indiana/Vincennes
+America/Indiana/Winamac
+América/Indiana/Winamac
+America/Inuvik
+América/Inuvik
+America/Iqaluit
+América/Iqaluit
+America/Jamaica
+América/Jamaica
+America/Juneau
+América/Juneau
+America/Kentucky/Louisville
+América/Kentucky/Louisville
+America/Kentucky/Monticello
+América/Kentucky/Monticello
+América/Kralendijk
+America/Lima
+América/Lima
+America/Maceio
+América/Maceio
+America/Managua
+América/Managua
+America/Manaus
+América/Manaus
+America/Marigot
+América/Marigot
+America/Martinique
+América/Martinique
+America/Matamoros
+América/Matamoros
+America/Mazatlan
+América/Mazatlan
+America/Menominee
+América/Menominee
+America/Merida
+América/Merida
+América/Metlakatla
+America/Miquelon
+América/Miquelon
+America/Moncton
+América/Moncton
+America/Monterrey
+América/Monterrey
+America/Montevideo
+América/Montevideo
+America/Montreal
+América/Montreal
+America/Montserrat
+América/Montserrat
+America/Nassau
+América/Nassau
+America/Nipigon
+América/Nipigon
+America/Nome
+América/Nome
+America/Noronha
+América/Noronha
+America/Ojinaga
+América/Ojinaga
+America/Panama
+América/Panama
+America/Pangnirtung
+América/Pangnirtung
+America/Paramaribo
+América/Paramaribo
+America/Phoenix
+América/Phoenix
+America/PortauPrince
+América/PortauPrince
+America/Recife
+América/Recife
+America/Regina
+América/Regina
+America/Resolute
+América/Resolute
+America/Santarem
+América/Santarem
+America/Santiago
+América/Santiago
+America/Scoresbysund
+América/Scoresbysund
+America/Shiprock
+América/Shiprock
+América/Sitka
+America/Tegucigalpa
+América/Tegucigalpa
+America/Thule
+América/Thule
+America/Tijuana
+América/Tijuana
+America/Toronto
+América/Toronto
+America/Tortola
+América/Tortola
+America/Vancouver
+América/Vancouver
+America/Whitehorse
+América/Whitehorse
+America/Winnipeg
+América/Winnipeg
+America/Yakutat
+América/Yakutat
+America/Yellowknife
+América/Yellowknife
+America
+American Samoa
+Samoa
+Amharico
+Amárico
+Ocorreu
+Analysis …
+Analysis
+Analisar
+Âncora
+Manaus
+Âncoras
+E
+Andorra
+Android tablets
+
+Android
+Android™
+Angeles
+Angola
+Anguila
+Animate app
+Animate
+Animação
+Animações
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AniversárioNegóciosTelefonemasConcorrênciaClienteFavoritosConversasPresentesFeriadosIdeiasProblemasReuniãoMiscelâneaParticularProjetosFeriados
+Anotação
+Announces
+Irritações
+outro
+Answer
+Answers
+Antarctic Lands
+Antárticos
+Antarctica/Casey
+Antártida/Casey
+Antarctica/Davis
+Antártida/Davis
+Antarctica/DumontDUrville
+Antártida/DumontDUrville
+Antarctica/Macquarie
+Antártida/Macquarie
+Antarctica/Mawson
+Antártida/Mawson
+Antarctica/McMurdo
+Antártida/McMurdo
+Antarctica/Palmer
+Antártida/Palmer
+Antarctica/Rothera
+Antártida/Rothera
+Antarctica/Syowa
+Antártida/Syowa
+Antártica/Troll
+Antártida/Troll
+Antarctica/Vostok
+Antártida/Vostok
+Antártida
+Antivírus
+Antigua and Barbuda
+Antígua
+Holandesas
+Antivírus
+Any
+AnyText
+Anywhere
+App can &apos
+Aplicativo
+Aplicação
+AppCache
+AppCacheUtils
+AppMenu
+Menu
+Menu de aplicações
+AppName Uninstall
+AppName
+Appcache validated
+Appcache
+Aparência
+Anexos
+Apêndices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+Application
+Aplicativos
+Aplicações
+Aplicar
+Applying update
+Applying
+Compromissoss
+ApprovedBy
+Aprovado Por
+Aprovado por
+Aplicativos
+Aplicações
+Abr
+abr
+Abril
+abril
+Árabes
+Saudita
+Arabic MacArabic
+Arabic Windows
+Arábico
+Árabe
+Aragonês
+Arquivar
+Arquivo
+Archived
+Arquivo
+Arquivos
+Ao arquivar
+Arquivando
+Arquivo
+Arctic/Longyearbyen
+Ártico/Longyearbyen
+Tem
+Área
+Argentina
+Arial
+Arménia
+Armênia
+Arménio
+Armênio
+Acima
+Artigos
+Artist
+Aruba
+As Laid Out
+As Quotation
+como
+Ascendente
+Ordem crescente
+Ascension and
+Ascensão
+Ashmore
+Asia/Aden
+Ásia/Aden
+Asia/Almaty
+Ásia/Almaty
+Asia/Amman
+Ásia/Amman
+Asia/Anadyr
+Ásia/Anadyr
+Asia/Aqtau
+Ásia/Aqtau
+Asia/Aqtobe
+Ásia/Aqtobe
+Asia/Ashgabat
+Ásia/Ashgabat
+Asia/Baghdad
+Ásia/Baghdad
+Asia/Bahrain
+Ásia/Bahrain
+Asia/Baku
+Ásia/Baku
+Asia/Bangkok
+Ásia/Bangkok
+Ásia/Barnaul
+Asia/Beirut
+Ásia/Beirut
+Asia/Bishkek
+Ásia/Bishkek
+Asia/Brunei
+Ásia/Brunei
+Asia/Chita
+Ásia/Chita
+Asia/Choibalsan
+Ásia/Choibalsan
+Asia/Chongqing
+Ásia/Chongqing
+Asia/Colombo
+Ásia/Colombo
+Asia/Damascus
+Ásia/Damascus
+Asia/Dhaka
+Ásia/Dhaka
+Asia/Dili
+Ásia/Dili
+Asia/Dubai
+Ásia/Dubai
+Asia/Dushanbe
+Ásia/Dushanbe
+Asia/Gaza
+Ásia/Gaza
+Asia/Harbin
+Ásia/Harbin
+Ásia/Hebron
+Asia/Hovd
+Ásia/Hovd
+Asia/Irkutsk
+Ásia/Irkutsk
+Asia/Istanbul
+Ásia/Istanbul
+Asia/Jakarta
+Ásia/Jakarta
+Asia/Jayapura
+Ásia/Jayapura
+Asia/Jerusalem
+Ásia/Jerusalem
+Asia/Kabul
+Ásia/Kabul
+Asia/Kamchatka
+Ásia/Kamchatka
+Asia/Karachi
+Ásia/Karachi
+Asia/Kashgar
+Ásia/Kashgar
+Asia/Kathmandu
+Ásia/Kathmandu
+Ásia/Khandyga
+Asia/Kolkata
+Ásia/Kolkata
+Asia/Krasnoyarsk
+Ásia/Krasnoyarsk
+Asia/Kuching
+Ásia/Kuching
+Asia/Kuwait
+Ásia/Kuwait
+Asia/Macau
+Ásia/Macau
+Asia/Magadan
+Ásia/Magadan
+Asia/Makassar
+Ásia/Makassar
+Asia/Manila
+Ásia/Manila
+Asia/Muscat
+Ásia/Muscat
+Asia/Nicosia
+Ásia/Nicosia
+Asia/Novokuznetsk
+Ásia/Novokuznetsk
+Asia/Novosibirsk
+Ásia/Novosibirsk
+Asia/Omsk
+Ásia/Omsk
+Asia/Oral
+Ásia/Oral
+Asia/Pontianak
+Ásia/Pontianak
+Asia/Pyongyang
+Ásia/Pyongyang
+Asia/Qatar
+Ásia/Qatar
+Asia/Qyzylorda
+Ásia/Qyzylorda
+Asia/Rangoon
+Ásia/Rangoon
+Asia/Riyadh
+Ásia/Riyadh
+Asia/Sakhalin
+Ásia/Sakhalin
+Asia/Samarkand
+Ásia/Samarkand
+Asia/Seoul
+Ásia/Seoul
+Asia/Shanghai
+Ásia/Shanghai
+Asia/Singapore
+Ásia/Singapore
+Ásia/Srednekolymsk
+Asia/Taipei
+Ásia/Taipei
+Asia/Tashkent
+Ásia/Tashkent
+Asia/Tbilisi
+Ásia/Tbilisi
+Asia/Tehran
+Ásia/Tehran
+Asia/Thimphu
+Ásia/Thimphu
+Asia/Tokyo
+Ásia/Tokyo
+Asia/Ulaanbaatar
+Ásia/Ulaanbaatar
+Asia/Urumqi
+Ásia/Urumqi
+Ásia/UstNera
+Asia/Vientiane
+Ásia/Vientiane
+Asia/Vladivostok
+Ásia/Vladivostok
+Asia/Yakutsk
+Ásia/Yakutsk
+Asia/Yekaterinburg
+Ásia/Yekaterinburg
+Asia/Yerevan
+Ásia/Yerevan
+Asia
+Oriental
+Ask
+Asks how
+lag
+Assamês
+Assembling mail
+Assembling messageDone
+Montando
+Assistant
+Associated
+Assurance
+Asturiano
+Astúrio
+Async
+Asynchronous Pan
+Asynchronous
+Atlantic/Azores
+Atlântico/Açores
+Atlantic/Bermuda
+Atlântico/Bermuda
+Atlantic/Canary
+Atlântico/Canárias
+Atlantic/Faroe
+Atlântico/Faroe
+Atlantic/Madeira
+Atlântico/Madeira
+Atlantic/Reykjavik
+Atlântico/Reykjavik
+Atlantic/Stanley
+Atlântico/Stanley
+Atlântico
+Palmira
+Atom
+Formato Atom
+Anexar
+Attached
+Anexo
+Anexos
+anexoRemover
+Anexos
+Attack Site
+Attack
+Attempt to
+Tentativa
+Tentativas
+Assistência
+Comparecer
+Attendee
+Participantes
+Attention
+Atributo
+Atributos
+Attribution
+Auckland
+Áudio
+AudioBufferSourceNode
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+AudioNode
+AudioParam
+AudioParam
+AudioParams
+Ago
+ago
+Agosto
+agosto
+Aurora
+Australia/Adelaide
+Austrália/Adelaide
+Australia/Brisbane
+Austrália/Brisbane
+Australia/Currie
+Austrália/Currie
+Australia/Darwin
+Austrália/Darwin
+Australia/Eucla
+Austrália/Eucla
+Australia/Hobart
+Austrália/Hobart
+Australia/Lindeman
+Austrália/Lindeman
+Australia/Melbourne
+Austrália/Melbourne
+Australia/Perth
+Austrália/Perth
+Australia/Sydney
+Austrália/Sydney
+Austrália
+Áustria
+Authenticated
+A autenticar
+Autenticando
+
+Autenticação
+Autor
+autorizada
+Autoridades
+Authority unnamed
+Certificadora
+Autorizar
+Autores
+Auto Increment
+Auto Update
+Auto
+Automático
+AutoA
+AutoConfig Alert
+AutoConfig
+Detetar automaticamente
+Deteção automática
+Selecionar automaticamente
+AutoJoined Channels
+AutoJoined
+Autofechar
+Autocompletar
+Completar automaticamente
+Conclusão automática
+Autodetectar
+Deteção automática
+Indentar automaticamente
+Indentação automática
+Automático
+Automação
+Autoatualizar
+Disponível
+Avaric
+Avarico
+Avestano
+Avéstico
+framerate
+Ausente
+Aimara
+Aymara
+Azerbaijão
+Azerbeijão
+Azerbaijano
+Azerbeijanês
+Bbr
+B
+BACK
+BCC
+BCRIPTOGRAFADA
+BG
+BLOQUEADA
+BLOQUEADO
+BPTalvez
+BASSINADA
+Anterior
+Recuar
+Voltar
+Backend
+Fundo
+Plano de fundo
+trabalhobmp
+planos
+Backspace
+Backup…
+Cópia de segurança
+Cópia de segurança…
+Mau
+Ruim
+Bahamas
+Bahamas
+Bahia
+Bahrein
+Baker
+Báltico
+Bambara
+bane
+Banderas
+Bangladesh
+Ocidental
+Bancário
+Barbados
+Barbuda
+Barthelemy
+Base
+Linha base
+Bashkir
+básico
+básicas
+Basco
+Bassas
+Bateria
+Bay
+BCC
+Bcc
+Cco
+Be
+Becky
+Antes
+Belarus
+Bielorússia
+Bielorrusso
+Bielorusso
+Bélgica
+Belize
+Bengali
+Bengalês
+Benin
+Bermuda
+Bermudas
+Beulah
+Butão
+Big
+BigHKSCS
+Maior
+Biari
+Bihari
+Aniversário
+Data de nascimento
+Bislama
+Bislamá
+Bits
+A cada duas semanas
+Bissemanalmente
+Em branco
+Vazio
+Bloquear
+Bloqueado
+bloqueador
+Bloqueio
+Boa
+Corpo
+Texto da mensagem
+Bokmål
+Negrito
+Bolívia
+Bonaire
+Favorito
+Marcador
+marcadorRemover
+Favoritos
+Marcadores
+Boolean
+Boolean…
+Booliano
+Borda
+Contorno
+Margem
+border 
+BósniaHerzegovina
+Bósnio
+Bot
+Botsuana
+Botswana
+Fundo
+Inferior
+Bouvet
+Ramo
+Branco
+BrandFullName
+BrandFullNameDA
+BrandShortName
+Brasil
+Brazzaville
+Área de navegação
+Bretão
+resumido
+Britânicas
+Broken
+Explorar
+Navegar
+Pesquisar
+Procurar…
+Prévisualizar
+Visualizar
+Janela do aplicativo
+Navegador
+Navigator
+Escolher
+Explorar…
+Navegar
+Navegar…
+Pasta
+Procurar
+Procurar…
+Selecionar
+Selecionar arquivo…
+Navegação
+Brunei
+Brunei
+Bubbling
+Buenos
+Bugzilla
+Bulgária
+Búlgaro
+volume
+Marcador
+Marcas
+Com marcadores
+Marcas
+Marcadores
+Marcas
+Burquina
+Burma
+Birmanês
+Burmês
+Burundi
+Ocupado
+Botão
+botão
+Botões
+Bypass
+Bytes
+C
+certificadaCA
+CACHE
+intermédias
+CC
+CCBY
+CCBYSA
+CD
+CDATA
+CDSA
+CKL
+CKR
+CLICK
+CMS
+CN
+COLNAME
+SEPARADORES
+CORS
+CP
+CRL
+CSP
+CSS
+CTCP
+SC
+Sem
+Sems
+CYPHER
+Cache
+Caicos
+CalDAV
+calcular
+Caledônia
+
+Calendário
+Calendários
+Calendário…
+Califórnia
+Chamar
+Cambodja
+Camboja
+Cambridge
+Camarões
+República dos Camarões
+Campo
+Canadá
+Canadá
+Canary
+Cancelar/Remover
+Cancelar/remover
+Cancelar
+Cancelada
+Cancelado
+A cancelar
+Cancelando
+Cancelando…
+Candidato
+Canvas
+Tela
+CanvasGradient
+Cape
+Legenda
+Captura
+Capturar
+Carbon
+Cartier
+Lançar
+Catalão
+Categorias
+Categoria
+Causa
+Motivo
+Cayman
+CC
+Cc
+Célula
+Células
+Céltica
+Centralizado
+Centralizar
+Centrar
+Centro
+Europeu
+Certificado
+Certificados
+Certificado
+Chad
+Chade
+Cadeira
+Presidente
+Chamorro
+ChanServ
+Alterar
+Modificar
+Mudar
+Alterar…
+Modificar…
+Capítulos
+Caractere
+Carácter
+Charis
+chamas
+Batepapo
+Chat
+ChatZilla
+Checheno
+Tchetcheno
+Marcar
+Verificado
+marcado
+Chi
+Chichewa
+Chile
+China
+Chinês
+Mandarim
+TradicionalHong
+TradicionalTaiwan
+Arquivo
+Arquivo…
+Escolha…
+Escolher
+Escolher…
+Procurar…
+Selecionar
+Selecionar…
+Natal
+Chrome
+Chromecast
+Chromium
+Eslávico
+Chuvash
+Cisco
+Citação
+Cidade
+Class
+Classe
+Clássico
+classificação
+Limpar
+ClearType
+Limpando
+Limpeza
+Clicar
+Clique
+Cliente
+Área de transferência
+Clipperton
+Fechar
+Cmd
+CmdOrCtrl
+CmdOrCtrlF
+CmdOrCtrlPlus
+CmdOrCtrlR
+CmdOrCtrlShiftD
+CmdOrCtrlShiftO
+CmdOrCtrlShiftR
+CmdOrCtrlShiftU
+CmdOrCtrlW
+Código
+OpenH
+Coluna
+Fechar
+Ocultar subitens
+Recolher
+Colapsada
+Recolhida
+Recolhido
+Subitens ocultos
+Colômbia
+Colorido
+Cor
+Cores
+Cores…
+Coluna
+Colunas
+Vírgula
+Comentário
+Comentários
+Comores
+Compactar
+Condensar
+Comparação
+Completa
+Completado
+Concluído
+Terminado
+Completada
+Completada em
+Completado
+Concluído
+Terminada
+Terminado
+Componente
+Componentes
+ComponentsutilsforceGC
+Compor mensagem
+Criar
+Escrever
+Nova mensagem
+Composer
+Compositor
+Compondo
+Composição
+Composto
+Composição
+Composição
+Editar
+Edição
+Compromise
+Computado
+computar
+Foca
+Conclusão
+Confidencial
+Confidencialidade
+Configurar…
+Confirmar
+Confirmação
+Confirmado
+Congo
+Congo
+República Democrática do Congo
+Concluído
+Parabéns
+Conectar
+Ligar
+Conectado
+Ligado
+Conectando
+Ligação
+A estabelecer ligação…
+A ligar…
+Conectando…
+Conexão
+Ligação
+Conectar…
+Ligar
+Ligar…
+Consola
+Console
+Contrair
+Manter a proporção
+Contacto
+Contato
+Contatos
+Geral
+Contactos
+Contatos
+Contacto
+Contacto…
+Contato…
+Contentor
+Contentores
+respetiva
+Contém
+Conteúdo
+Valor
+ContentSecurityPolicy
+ContentSecurityPolicyReportOnly
+ContentType
+Conteúdo
+Conteúdos
+contexto
+Continuar
+Seguinte
+ContinuarAbrir
+Colaborar
+Fazer uma contribuição
+sugerida
+Colaboradores
+Colaboração
+Control
+Pais
+Conversas
+Convertendo
+Cook
+Cookies
+Legal
+Simpático
+Copiado
+Cópias
+Copiar
+Copyright
+Direitos autorais
+Córnico
+Correspondentes
+Córseco
+Córsico
+Custo
+Costa
+Contador
+Contagem
+Contar
+Quantidade
+antihorário
+País
+Courier
+Criar
+criado
+Criador
+Criação
+Créditos
+Cree
+Creek
+Crítico
+Obrigatória
+Croácia
+Croata
+Choro
+cript
+criptográfica
+Ctrl
+CtrlEnter
+CtrlL
+CtrlShiftL
+CtrlTab
+Ctrlclique
+Cuba
+CuforceGC
+Cunha
+Coração
+Atualmente
+Cursiva
+Cursor
+Personalizada
+Personalizar
+Personalizar…
+Customization
+Personalizar
+Personalizar
+Personalizar…
+Personalizada…
+Personalizado…
+Personalizar
+Personalizar…
+Cortar
+Recortar
+Ciclo
+Trocar
+Chipre
+Cirílico
+Checo
+Tcheco
+D
+DB
+DC
+Decodificador
+DECDSA
+DER
+DERa
+DEVICE
+DISPLAYNAME
+DLL
+DN
+DNS
+DOCTYPE
+DOM
+s code attribute
+DOMParser
+DOMWindow
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+DPI
+DRM
+DVemer
+Diariamente
+Dakota
+Dangling
+Dinamarquês
+Dar
+Escuro
+Dados
+URLDados
+bases
+Data/Hora
+Data
+Dawson
+Data
+Dia
+DayCrash Reports
+DayCrash
+Dias
+dias
+Debug Mode
+Depurar
+Depuração
+DebugALIGNCENTERerver
+Depurador
+Depurar
+DebuggerServer
+Debugging
+Dez
+dez
+Dezembro
+dezembro
+Decide
+Declaration
+Recusar
+Recusado
+Decodificador
+Descodificador
+Decoding error
+invalido
+Diminuir
+Decrypted
+Desencriptagem
+Deer
+Padrão
+Predefinida
+Predefinido
+Predefinição
+Prédefinido
+Tema Padrão
+Defaults
+Defer Account
+Defer
+Define
+Defined
+Definição
+Definições
+Definitions
+Del
+Atraso
+Delete Message
+Apagar
+Confirmação de eliminação
+Eliminar
+Excluir
+Excluir 
+Remover
+Excluídas
+Apagar…
+Excluir…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Deletion
+tabtxt
+Delivery Format
+Delivery Status Notification
+entrega
+Dinamarca
+Denver
+Bloquear
+Negar
+Recusar
+Departamento
+Setor
+Descendente
+Ordem decrescente
+Describe Problem
+Describe
+Descrição
+Descrição longa em
+Desserializar
+Design Mode
+Design View
+design
+Desktop Backgroundbmp
+Desktop Open &quot
+Ambiente de trabalho
+Área de trabalho
+Destination Folder
+Destination
+Destroy
+Detach
+Desanexar 
+Desanexar…
+Separar
+Separar 
+Separar…
+Detalhe
+Details of
+Detalhes
+Detalhes
+Detalhes…
+Detect indentation
+Detect
+Determining which
+Determinando
+DevTools
+Devanagari
+Devanágari
+Developed
+Developer Edition
+Developer Tools
+Desenvolvedor
+Programador
+Desenvolvimento
+Programadores
+Development
+Device &quot
+Dispositivo
+DeviceShare
+Dispositivos
+Devicex
+Dhekelia
+Diagnósticos
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+Dicionários
+dicionário
+Did
+Diego
+outro
+DiffieHellman key
+DiffieHellman
+Digest function
+Digest was
+Digest
+Digg Reader
+Digg
+Gestão
+Dimensões
+Direct
+DirectD
+DirectWrite
+Direção
+Diretiva
+diretórios
+Directory &apos
+Directory Servers
+Directory
+Disability access
+Disability
+Desativar
+Desabilitado
+Desativada
+Desativadas
+Desativado
+Desativados
+Inativo
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Pacotes
+Disconnect from
+Desconectar
+Desligar
+Desligarellipsis
+A desligar…
+Desconectando…
+Disconnectme strict
+Disconnectme
+Desconectar…
+Desligar…
+Discontinue Link
+Discontinue
+Discover
+Discussions
+Disk
+Descartar
+Desistir
+Dispensar
+Display a
+Aparência
+Apresentar como
+Ecrã
+Exibição
+Mostrar
+Visualizar
+Displays the
+Displays
+Distinguished
+Distribution Points
+Distribuição
+Distribution
+Distrust
+Divehi
+Djibuti
+Jibouti
+Do
+dock
+Docs
+Document Outline
+Documento
+Documentos
+Doe
+Doing
+Domain GUID
+Domínio
+Servidor
+Domains
+Domestic
+Dominador
+Dominadores
+Domingo
+Dominica
+Dominicana
+t set
+Don
+Aplicar
+Completada
+Concluir
+Concluído
+Fechar
+OK
+Pronto
+Terminada
+Terminado
+Terminar
+Double click
+dobro
+Doublecheck
+Doubleclick
+Abaixo
+Download Link
+Descarregar
+Download
+OK
+Receber
+Receber os
+Sim
+DownloadRestart
+Descarregada
+Recebido
+A descarregar
+Baixando
+Recebendo
+A descarregar…
+Baixando…
+Download em andamento…
+Descargas
+Downloads
+Draft Message
+Rascunho
+Rascunhos
+Arrastar
+Arrasto
+desenho desenhos
+Draw repainted
+Desenhar
+Driver Verification
+Driver
+Controladores
+Drives
+Drop a
+soltar
+Dropping a
+Dropping
+DuckDuckGo
+Devido
+Fim
+Limite
+Prazo
+Vencimento
+Dump
+Duplicate name
+Duplicate
+Duraterver
+Duração
+Holandês
+Butanês
+Dzonga
+ECDSA Signature
+ECDSA
+EDI Party Name
+EDI Party
+EDI
+EHLO
+EMail Certificates
+EMail
+Email
+ERROR
+ERROS
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+Validação
+EXTRACTION_FAILED
+Cada
+Eager
+Earlier
+East Asian
+East European
+Leste
+Eastern
+Equador
+Edge
+Edit Conditional
+Editar
+Editar…
+Editar
+Edição
+Edition
+Editor
+Editors
+Editar
+Editar…
+Egipto
+Egito
+Either
+El Aaiun
+El Salvador
+El
+decorrido
+Element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Elementos
+Email Address
+Email
+Mensagens
+Embaraço
+Envergonhado
+Embutido
+Incorporado
+Incorporar
+Integrado
+Incorporada
+Incorporar
+Emirates
+Ênfase
+Emptied Trash
+esvaziada
+Pasta vazia
+Vazia
+Vazio
+Emulate
+Ativar
+Aplicar
+Ativa
+Ativada
+Ativadas
+Ativado
+Ativados
+Ativo
+Ligado
+Enables
+Encipherment
+Codificado
+Codificador
+Encoding While
+Codificação
+Encodings
+Criptografar
+Encrypted password&apos
+Criptografada
+Encriptada
+Encrypting File
+Encrypting
+Criptografia
+Encriptação
+End
+Fim
+Término
+EndUser Rights
+EndUser
+Finalizado
+Terminada
+Endian
+Endpoint
+Impor
+Engine
+Engineering
+Engines
+English US
+English USASCII
+English language
+Inglês
+Português
+Português do Brasil
+Enhanced
+Enlarge
+Enter &apos
+Enter Full
+Enter that
+Enter
+Entered
+Entering
+Entradas
+Itens
+Entry
+Enumerable Properties
+enumeráveis
+Ambiente
+Epiphany
+Equatorial Guinea
+Guiné
+Eritreia
+Erro
+Erros
+Esc
+Esperanto
+Estónia
+Estônia
+Estoniano
+Estónio
+Etiópia
+Etíope
+Eudora Nicknames
+Eudora Settings
+Eudora mail
+Eudora
+Europa Island
+Europa
+Europa/Amsterdam
+Europe/Amsterdam
+Europa/Andorra
+Europe/Andorra
+Europa/Astracã
+Europa/Atenas
+Europe/Athens
+Europa/Belgrado
+Europe/Belgrade
+Europa/Berlim
+Europe/Berlin
+Europa/Bratislava
+Europe/Bratislava
+Europa/Brussels
+Europe/Brussels
+Europa/Bucharest
+Europe/Bucharest
+Europa/Budapest
+Europe/Budapest
+Europa/Busingen
+Europa/Chisinau
+Europe/Chisinau
+Europa/Copenhagen
+Europe/Copenhagen
+Europa/Dublin
+Europe/Dublin
+Europa/Gibraltar
+Europe/Gibraltar
+Europa/Guernsey
+Europe/Guernsey
+Europa/Helsinki
+Europe/Helsinki
+Europa/Istanbul
+Europe/Istanbul
+Europa/Jersey
+Europe/Jersey
+Europa/Kaliningrad
+Europe/Kaliningrad
+Europa/Kiev
+Europe/Kiev
+Europa/Lisboa
+Europe/Lisbon
+Europa/Ljubljana
+Europe/Ljubljana
+Europa/London
+Europe/London
+Europa/Luxemburgo
+Europe/Luxembourg
+Europa/Madrid
+Europe/Madrid
+Europa/Malta
+Europe/Malta
+Europa/Mariehamn
+Europe/Mariehamn
+Europa/Minsk
+Europe/Minsk
+Europa/Mónaco
+Europe/Monaco
+Europa/Moscovo
+Europe/Moscow
+Europa/Nicosia
+Europe/Nicosia
+Europa/Oslo
+Europe/Oslo
+Europa/Paris
+Europe/Paris
+Europa/Podgorica
+Europe/Podgorica
+Europa/Pragua
+Europe/Prague
+Europa/Riga
+Europe/Riga
+Europa/Roma
+Europe/Rome
+Europa/Samara
+Europe/Samara
+Europa/Sarajevo
+Europe/Sarajevo
+Europa/Simferopol
+Europe/Simferopol
+Europa/Skopje
+Europe/Skopje
+Europa/Sofia
+Europe/Sofia
+Europa/Stockholm
+Europe/Stockholm
+Europa/Tallinn
+Europe/Tallinn
+Europa/Tirane
+Europe/Tirane
+Europa/Ulianovsk
+Europa/Uzhgorod
+Europe/Uzhgorod
+Europa/Vaduz
+Europe/Vaduz
+Europa/Vaticano
+Europe/Vatican
+Europa/Viena
+Europe/Vienna
+Europa/Vilnius
+Europe/Vilnius
+Europa/Volgograd
+Europe/Volgograd
+Europa/Varsóvia
+Europe/Warsaw
+Europa/Zagreb
+Europe/Zagreb
+Europa/Zaporozhye
+Europe/Zaporozhye
+Europa/Zurique
+Europe/Zurich
+Europe
+ocidental
+Eustatius and
+Eustatius
+Eval
+Avaliar
+Executar
+Evaluated JavaScript
+avaliado
+Evaluating
+Evangelism
+Mesmo
+Evento
+Eventos
+Evento…
+Every Time
+A cada
+Tudo
+Desocupação
+Eve
+Ewe
+Exemplo
+Excellent
+Except
+Exception …
+Exceção
+Exceções
+Exceções
+Exceções…
+Itroca
+ExecShell &quot
+ExecShell
+executáveis
+Execute Menu
+Executar
+Execução
+Executing s
+Executing
+Execution stopped
+Execution
+Executive
+Existing
+Exists
+Sair
+Exited
+Exiting
+Expand/Collapse
+Exibir subitens
+Expandir
+Expandida
+Expandido
+Subitens abertos
+Esperado
+Experimentos
+Experiências
+Expirado
+Perdeu a validade
+Validade vencida
+Expires On
+Expires Seconds
+Expira
+Expira a
+Expira em
+Validade
+Válido até
+Explorer
+Expoente
+Exportar
+Exportar
+Exportar…
+Exposing chrome
+exposição
+Express
+Expression
+Expressions
+Expunge &quot
+Apagar
+Eliminar
+Marcar para exclusão
+Extended Telemetry
+Extended
+Extending
+Extensão
+Extensões
+External
+Extra Components
+Extra
+Extract
+Extracting s
+Extracting
+Extracting…
+Contagotas
+Eyedropper
+F GB
+F turns
+F/Esc
+F/Escape
+F
+FAILED
+FALLBACK section
+secundária
+FAQ
+Perguntas Frequentes
+FAQs feedback
+Dúvidas frequentes
+Perguntas frequentes
+FCC
+FHR data
+FHR
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTP Proxy
+FTP
+FUNCTION
+FW Version
+FW
+Antiga
+Facebook Chat
+Facebook
+Faeroese
+Falha
+Falhada
+Falhado
+Falhou
+Malsucedido
+Não publicada
+Failure
+Failures
+Falkland Islands Islas Malvinas
+Falkland Islands
+Falkland
+Fallback Character
+Fallback
+Falling back
+Falling
+False
+Família
+Fantasia
+Faroe Islands
+Faroé
+Faroês
+Feroês
+Persa
+Faso
+Fast
+Fatal
+Favorite Folder
+Favorite Folders
+Favoritas
+Favoritos
+Fax Number
+Fax
+Feature
+Funcionalidades
+Principais recursos
+Fev
+fev
+Fevereiro
+fevereiro
+Federated States of
+Federated States
+Federados
+Federation
+Feed Location
+Feed
+Feedback Agent
+Feedback …
+Feedback
+Feedly
+Fontes
+RSS
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+navegável
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+A obter…
+Menos
+Field
+Campos
+quintoa
+Fiji
+Ilhas Fiji
+Fijiano
+File System
+Arquivo
+Arquivo…
+Envio de arquivo
+Ficheiro
+Mover
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Anexo online
+Filelink
+Anexo online…
+Filelink
+Nome de ficheiro
+Nome do arquivo
+Nome do ficheiro
+Files
+Arquivos
+Arquivos…
+Ficheiros
+Arquivo
+Arquivo…
+Ficheiro
+Filing Cabinet
+Preencher
+Filter Box
+Filter Execution
+Filtrar
+Filtro
+Filtering
+Filtrar por
+Filtros
+Finalizing
+Localizar
+Localizar…
+Finder
+Findings
+Localizar…
+Fingerprint
+Assinaturas
+Impressões digitais
+Finish Customizing
+Concluir
+Finalizar
+Terminar
+Concluída
+Concluído
+Finlândia
+Finlandês
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+Primeiro
+Ajustar
+Five
+Fix Table
+Fix
+Fixed
+Com Marca
+Etiqueta
+Marca
+Sinalização
+Com estrela
+Etiquetada
+Sinalizada
+Flame Chart
+gráfico
+Flash embed
+Flash
+Flatten
+Flexible Space
+Flexible
+Focus
+Pasta
+Pastas
+Pasta
+Pasta…
+Follow
+Seguidores
+A seguir
+Seguindo
+Responder
+EncaminharPara
+FollowupTo
+Reencaminhar para
+ReencaminharPara
+Reenviar para
+Fond
+Fonte
+Tipo de letra
+Fontes
+Tipos de letra
+Footer
+rodapés
+Gafe
+Pé como boca
+Pé na boca
+passarão
+Force
+Eternamente
+Sempre
+Forge
+Forgery
+Esquecer
+Form History
+Formulário
+formulário
+Formatar
+Formatação
+Formato
+Formatação
+Formulários
+Forte
+Fortezza
+Fórum
+Forums
+Avançar
+Encaminhar
+Reencaminhar
+Seguinte
+Encaminhada
+Reencaminhada
+Reencaminhado
+Forwarding
+Encontrado
+Foundation
+Four Hours
+quatro
+quartoa
+S
+Se
+Sx
+se
+Frakkin &apos
+Malditas
+moldura
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+Frames
+França
+Disponível
+Gratuito
+Grátis
+Livre
+French Southern
+Francês
+Frequency
+Frequente
+Frequentes
+Sex
+sex
+Sexta
+Sextafeira
+Sextas
+sexta
+sextafeira
+Frisão
+Frísio
+Friulano
+From History
+From List
+De
+Remetente
+frontal
+Frente
+Triste
+Fula
+Fulah
+Full
+Fullscreen
+Fun To
+Fun
+Função
+Futuna
+Futuro
+GB
+GBK
+GC Event
+GC Slice
+GC
+GCLI is
+gcli
+GDI Library
+GDI
+GData
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+IDUG
+Gabão
+escocês
+Gaia
+Galeon
+Galego
+Gallegos
+Gâmbia
+Gâmbia
+Gamepad
+Gaming consoles
+jogos
+Ganda
+Luganda
+Gap from edge of paper to Margin
+Gap from
+Gap
+Garbage Collector Roots
+Garbage
+Garcia
+Gated Crypto
+Gated
+Gaza Strip
+Gaza
+Gecko
+Geckoreg
+Geckotrade
+General Notification
+Geral
+Generate a
+Generate
+Generated
+Generating A Private
+Generating A
+Generating aggregate
+Generating
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+Geérgia
+Geórgia
+Georgiano
+Alemão
+Alemanha
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+Gana
+Gibraltar
+Fornece
+Glace
+Global Revived
+Global
+Glorioso Islands
+Glorioso
+Glossário
+Gmail
+Go back
+Go forward
+Ir
+Bom
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+Grab
+Grade
+Gradient is
+Gradient
+Grand
+Grande
+Grant
+Graph Reduction
+Graph
+Gráficos
+Gravatar
+GrayScale
+Escala de cinza
+Tons de cinzento
+Grécia
+Greek Windows
+Grego
+Groenlândia
+Gronelândia
+Groenlandês
+Gronelandês
+Granada
+Grenadines
+Grid
+Group List
+Grupo
+Grouped By
+Grouped
+Grouping
+Groups
+Grow
+Guadalupe
+Guam
+Guão
+Guarani
+Guard
+Guatemala
+Guernsey
+Guess
+Guest browsing
+Convidado
+Francesa
+Guiné
+GuinéBissau
+Gujarati
+Guzerate
+Gurmukhi MacGurmukhi
+Gurmukhi
+Gurmuqui
+Guiana
+H Line
+H
+HAR
+HErro
+Linha H
+Linha horizontal
+pinning
+HREF
+HSLA
+HSTS
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+Texto formatado HTML
+HTMLMediaElement
+Códigofonte HTML…
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HW Version
+HW
+HZ
+HZGB
+Hack the
+Personaliza
+Haiti
+Haitiano
+Halifax
+Handler
+Handling
+Handshake record
+Handshake
+Hang Report
+Hangs
+Happy
+Intensa
+Rígida
+Hardware Driver Verification
+Hardware Driver
+Hardware
+Has
+Hausa
+Hauçá
+Have an
+Have
+Havaiano
+Cabeçalho
+Cabeçalhos
+Heading
+Títulos
+Health Report
+Relatório
+Heard Island
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+Hebraico
+Hebreu
+Altura
+Helena
+Hello World
+Hello
+Help Start
+Ajuda
+Helper Application
+Helper Applications
+Helper Threads
+auxiliar
+Helps
+Helvética
+Aqui
+Herero
+Herzegovina
+Hex
+Oculto
+Hide Statistics
+Hide Toolbars
+Ocultar
+Hierarquia
+High Contrast
+Alta
+Altíssima
+Muito alta
+Highgrade
+Highlight
+Highlighting
+Destaques
+Hightail
+Hiligaynon
+Hill
+Hindi
+Hindu
+Dica
+Hiri Motu
+Hiri
+Histograms Collected
+Histogramas
+Histórico
+Navegação
+Ocorrências
+Hnewsgroup server
+HResposta
+Ho Chi Minh
+Ho
+Suspensão
+HolidayStatusSuppliersTravelVacation
+Casa
+Endereço residencial
+Home
+Início
+Local
+Página Inicial
+Página inicial
+Residencial
+Homepage Get back
+Página inicial
+Página web
+Site
+Visitar o site
+Honduras
+Hong Kong
+Hong
+Honolulu
+Horizontal
+Servidor
+Sevidor
+Alojada
+Hospedado
+Hostname Entered
+Nome do servidor
+Servidor
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+Hour
+Hours
+Housekeeping
+How
+Howe
+However we
+Porém
+Howland Island
+Howland
+Http
+Enorme
+humanos
+Húngaro
+Hungria
+m
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+I don &apos
+I ii
+I submit information that &apos
+ll
+I understand
+i
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+ID
+IDLE
+II III
+III
+III
+IIRFilterNode
+IM
+Msg instantânea
+IMAP Flag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+IP
+IPC
+IPs
+IRC Nick
+IRC Operator
+IRC
+IS
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+ISP
+IV
+Iaposm
+Islândia
+Islandês
+Ícone
+Ícones
+ID
+Id
+Identification
+Identifier
+Identities …
+Identities
+Identidade
+Inativo
+Ido
+Se
+Ibo
+Igbo
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Ignorar
+Ignorando
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+Imagem
+Imagens
+Imagem…
+Import your
+Assistente de importação
+Importar
+importância
+Importante
+Importando
+Importar
+A Importar…
+A importar
+A importar…
+Importando
+Importando…
+Importar
+Importar…
+In Days
+In EHLO reponse
+In Finder
+In Use
+Regra
+InAutoon
+InBrowserElementS
+InBrowserElement
+Emrespostaa
+imprópria
+Caixa de entrada
+Entrada
+Inc
+A receber
+Receber
+Recebimento
+Receção
+Incorporated
+Aumentar
+Incremento
+Rotaciona
+Avançar
+Recuar texto
+Índice
+indexadas
+BD indexada
+IndexedDB
+indexação
+Indexado
+Índices
+Indexando
+Índia
+Indian/Antananarivo
+Índia/Antananarivo
+Indian/Chagos
+Índia/Chagos
+Indian/Christmas
+Índia/Christmas
+Indian/Cocos
+Índia/Cocos
+Indian/Comoro
+Índia/Comoro
+Indian/Kerguelen
+Índia/Kerguelen
+Indian/Mahe
+Índia/Mahe
+Indian/Maldives
+Índia/Maldives
+Indian/Mauritius
+Índia/Mauritius
+Indian/Mayotte
+Índia/Mayotte
+Indian/Reunion
+Índia/Reunion
+Britânico
+Indiana
+Indicador
+Individual
+Indonésia
+Indonésio
+Info
+Informação
+Informações
+Inlet
+Com o texto da mensagem
+Em linha
+Texto
+Texto da mensagem
+Texto na mensagem
+Interior
+Ingênuo
+Inocente
+Entrada
+Introdução
+Ins
+Inserir
+Inserir…
+Inspecionar
+s
+Inspecionar
+Inspetor
+Instalar
+Instalado
+A Instalar
+A instalar
+Instalando
+Instalando…
+insuficiente
+Inteiro
+Número inteiro
+Número inteiro…
+integração
+Integridade
+Interação
+Interface
+Interlíngua
+Interlingue
+internos
+Internet
+Interpretando
+Introdução
+Inuktitut
+Inupiak
+Inupiaque
+Inválido
+inverter
+inversão
+Investigar
+Invisível
+Convites
+envolvida
+Irã
+Irão
+Iraque
+Irlanda
+Irlandês
+Isabel
+Ilha
+Ilhas
+Isle
+Israel
+Emitido
+Expedido
+Emissor
+Expedidor
+Expedidores
+s
+Italiano
+Itálico
+Itália
+JIS
+JIT
+JS
+JSM
+JSON
+JSONP
+UM
+jabber
+Jamaica
+Jan
+jan
+Janeiro
+janeiro
+Japão
+Japonês
+Jarvis
+Java
+JavaScript
+Javanês
+Jaxivo
+Jersey
+Jérsia
+Jitter
+Jitterbuffer
+Marcos
+Johns
+Johnston
+Entrarnestechat
+Entrecomigonestebatepapo
+Ingressarmenestebatepapo
+Jordânia
+Juan
+Jul
+jul
+Julho
+julho
+Ir
+Pular
+Jun
+jun
+Junho
+junho
+Antispam
+Lixo
+Lixo eletrónico
+Marcado como spam
+Spam
+justificado
+Justificado
+Justificar
+K
+KB
+KOIR
+KOIU
+KRL
+Canarês
+Kannada
+Canúri
+Kanuri
+Kashmiri
+Cashubiano
+Kashubian
+Cazaque
+Cazaquistão
+Kazaquistão
+Cocos
+Manter
+Manter
+Quénia
+Quênia
+Kerberos
+Utilizaçõeschave
+Chave
+Associação de teclas
+Combinação de teclas
+Combinações de teclas
+Teclado
+nomeados
+keyframe
+Firefoxhtml
+Palavra chave
+Palavrachave
+Palavraschave
+Palavraschave…
+xhtml
+Cambodjano
+Cambojano
+Khmer
+Kikuyu
+Quicuio
+Unido
+Recife
+Kinshasa
+Kinyarwanda
+Kirghiz
+Quirguiz
+Kiribati
+Quiribati
+Kirundi
+Rundi
+Beijo
+Beijos
+Kitts
+Klaatu
+Klingon
+conheço
+Komi
+Kong
+Congolês
+Kongo
+Concani
+Konkani
+Coreia
+Coreano
+Kosovo
+Kuala
+Kuanyama
+Curdo
+Kuwait
+Kirziquistão
+Quirguistão
+LDAP
+LDIF
+LDIF ldildif
+La
+LaTeX
+Etiqueta
+Label
+Rótulo
+Texto
+label
+mostr
+Ponto de referência
+Pontos de referência
+Franceses
+Horizontal
+Paisagem
+Idioma
+Idioma
+Idiomas
+Lanka
+Laosiano
+Laoteano
+Laos
+Portáteis
+Grande
+Aumentar
+Aumentar fonte
+Maior
+Último
+Adiar
+Mais tarde
+Alfabeto romano
+Latim
+Latino
+Letónia
+Letônia
+Letão
+Letónio
+Gargalhada
+Rindo
+Riso
+Iniciação
+Camada
+Posicionamento absoluto
+Camadas
+Esquema
+Layout
+Refazer
+LdapDwim
+Saiba
+Sair
+Sair da página
+Líbano
+Esquerda
+Esquerdo
+Lado esq
+Lado esquerdo
+Legal
+Legenda
+LenientThis
+Leoa
+Lesoto
+Menos
+Vamos
+Carta
+Letra
+Libéria
+Libpkix
+Biblioteca
+Líbia
+Licença
+Liechtenstein
+Duração
+Validade
+Claro
+Lightning
+Limburgan
+Limburgano
+Linha
+Linen
+Linhas
+Lingala
+Ligação
+Link
+link
+Ligações
+Links
+Ligação…
+Link…
+Boca fechada
+Lábios selados
+Lista
+Em listas
+Listado
+A escutar
+Ouvindo
+Listas
+Lituânia
+Lituano
+dinâmicos
+Carregar
+A carregar
+Carregando
+Carregando…
+A carregar
+A carregar…
+Carregando
+Carregando…
+Local
+Idioma
+Localidade
+Endereço
+Local
+Localização
+Pasta
+Lock
+bloqueadas
+Log
+Registo
+Registo
+Registro
+Login
+Credenciais
+Logins
+Logotipo
+Logótipo
+préempacotamento
+Longo
+Consultar
+Procurar
+Repetir
+Lord
+Los
+Perdido
+Baixa
+Lower
+Baixíssima
+Muito baixa
+LubaKatanga
+Lubacatanga
+Lúcia
+burlesca
+Luis
+Lumpur
+Luxemburgo
+Luxemburguês
+MANIFEST
+MB
+MD
+MDN
+MIME
+MIMEVersion
+Versão MIME
+Versão do MIME
+MSN
+Maarten
+Mac
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomeno
+MacTurkish
+MacUkrainian
+Macau
+Macau
+Macedónia
+Macedónio
+Macedônio
+Madagascar
+Madagáscar
+Correio
+Email
+Mail
+Mensagens
+MailNews
+Manutenção
+Malagasy
+Malgaxe
+Malaui
+Malawi
+Malaio
+Malaiala
+Malaialo
+Malaio
+Malayalam
+Malásia
+Maldivas
+Mali
+Malta
+Maltês
+Malvinas
+Mammon
+Man
+Gerenciar
+Gerir
+Digitais
+gerenciador
+downloadsS
+manual
+Manual
+Manualmente
+Fabricante
+Manx
+Maori
+Mapa
+Mapeamentos
+Mar
+mar
+Marata
+Marathi
+Março
+março
+Marianas
+Marino
+Marcar
+Marketplace
+Marshall
+Marshallês
+Marshalês
+Martin
+Martinica
+mestras
+Coincidir
+Corresponde
+Coincide
+Corresponde
+Correspondente
+matemática
+MathML
+Matemática
+Matemáticas
+Math…
+Mauritânia
+Maurícias
+Maurício
+Maximizar
+Máximo
+Mai
+Maio
+mai
+maio
+Mayen
+Mayotte
+Eu
+Mim
+medições
+Multimédia
+Mídia
+MediaRecorder
+MediaStream
+MediaStreamTrack
+MediaStreamstop
+Média
+Médio
+MemoServ
+Memória
+Menu
+Mensagem
+IDMensagem
+Id de mensagem
+Identificador de mensagem
+MessageID
+MessagePort
+Mensagens
+Visualizar
+Mensagem…
+Meta
+Método
+México
+Micronésia
+Subordinação
+Centralizado
+Meio
+Meia noite
+Meianoite
+Midway
+Migrando
+MinSupportedCPU
+MinSupportedVer
+Minh
+minidia
+Minimês
+encurtadas
+Minimizar
+Minimizar
+Mínimo
+Distantes
+Miquelão
+espelho
+Em falta
+Não declarado
+S
+Se
+Sg
+se
+Celular
+Móvel
+No celular
+Telemóvel
+Modo
+Moderno
+Modificada em
+Modificado
+Modificado em
+Editar…
+Modificar
+Módulo
+módulo
+Moldávia
+Seg
+seg
+Mónaco
+Mônaco
+Segunda
+Segundafeira
+Segundas
+segunda
+segundafeira
+Dinheiro na boca
+Tudo por dinheiro
+Mongólia
+Mongol
+Monitor
+Monitorar
+Monitorizar
+Monoespaçada
+Monoespaço
+Montenegro
+Mês
+Mensalmente
+Meses
+Mês
+Mêses
+meses
+Montserrat
+Montserrate
+Mais
+Maisellipsis
+Moresby
+Marrocos
+motu
+Mouse
+Rato
+movimentação
+Movidas
+Movemail
+Mover
+Mover…
+Moçambique
+Mozilla
+EventosMozCalendar
+MozillaCalEvents
+Mozillaorg
+Multissemana
+Multissemanal
+Mudança
+Mutação
+Desativar som
+Emudecer
+Mudo
+Sem som
+Silenciar
+Minha
+FontesDoSSopml
+MeusRSSdoSSopml
+MeusSFeedsSopml
+MinhasFontesSSopml
+Mianmar
+N/A
+N/D
+NET
+YOU
+NIST
+NNTP
+NO
+NPN
+NSS
+NTLM
+visualizados
+Contas e pastas
+Nome
+ConclusãoDeNome
+ConclusãodeNome
+NameCompletion
+Namíbia
+nomenclatura
+Narrar
+Nauru
+Nauruano
+Navajo
+Navassa
+Navegação
+Ndebele
+Dongo
+Ndonga
+Nélson
+Nepal
+Nepalês
+Formulários
+Rede
+Holanda
+Países Baixos
+Netscape
+Netscapecfg
+Rede
+Rde
+Nunca
+Nunca repetir
+Névis
+Nova
+Nova preferência
+Novo
+Ping
+Newsgroup
+Notícias
+Grupo de notícias
+GrupodeNoticias
+Newsgroup
+Grupos de Discussão
+Grupos de notícias
+Newsgroups
+Novo
+Novo…
+Avançar
+Próxima
+Próximo
+Seguinte
+Nicarágua
+NickServ
+Alcunha
+Apelido
+Nickname
+Nicknames
+Níger
+Nigéria
+Niue
+Não
+não
+Nó
+NodeSet
+Nodetype
+Nomeado
+Não quebrar linha
+Sem quebra
+Nenhum
+Nenhuma
+Não agrupar
+Nones
+Não repudiado
+Não repúdio
+Meio dia
+Meiodia
+Nórdico
+Norfolk
+Mais usados
+Normal
+North
+setentrional
+Noruega
+Norueguês
+Notas
+Observações
+Notices
+Notificações
+Nov
+nov
+Novembro
+novembro
+Agora
+Numerada
+Números
+Nynorsk
+OAuth
+OCSP
+OE
+Delisgado
+OID
+OK
+OLE
+OMTC
+Ligado
+EXCLUSIVAMENTE
+OPML
+SO
+OU
+OVERLAP
+Objeto
+Occitano
+Occitânico
+Palestina
+Oceano
+Out
+out
+Outubro
+outubro
+Odia
+Odnoklassniki
+Desativada
+Desativado
+Desligada
+Desligado
+escritório
+
+Desconectado
+Modo desconectado
+Modo desligado
+Offline
+Configurar modo offline…
+Offline
+Ojibwa
+Correio antigo
+Mensagens antigas
+Omã
+Omão
+Ativada
+Ativado
+Em
+Ligado
+No
+Repetir uma vez
+Uma vez
+Online
+Somente
+Bolas
+Epa
+Oops
+Opaque
+Abrir
+OpenGL
+codec
+OperServ
+operador IRC
+Operadores
+otimizáveis
+JIT
+Optimizing
+Option
+Opção
+Opções
+Opções
+Empresa
+Organização
+Organizar
+Agenda
+Organizador
+Orientação
+Origem
+Oriya
+Oromo
+Ossetian
+Outra
+Outra pasta
+Outro
+Outros
+Outros
+fez
+Outro aplicativo…
+Outro…
+esgotado
+Caixa de saída
+Saída
+Avançar texto
+Recuar
+Posterior
+A enviar
+Enviar
+Envio
+Outlook
+Menores
+vencidas
+Dono 
+Proprietário
+P/Galapagos
+P
+PDF
+PDFjs
+PEM
+PKCS
+JUST
+PNG
+POP
+POST
+PREFS
+PUBLIC
+PacifDebug/Galapagos
+Pacific/Apia
+Pacífico/Apia
+Pacific/Auckland
+Pacífico/Auckland
+Pacífico/Bougainville
+Pacific/Chatham
+Pacífico/Chatham
+Pacifíco/Chuuk
+Pacífico/Chuuk
+Pacific/Easter
+Pacífico/Easter
+Pacific/Efate
+Pacífico/Efate
+Pacific/Enderbury
+Pacífico/Enderbury
+Pacific/Fakaofo
+Pacífico/Fakaofo
+Pacific/Fiji
+Pacífico/Fiji
+Pacific/Funafuti
+Pacífico/Funafuti
+Pacific/Galapagos
+Pacífico/Galapagos
+Pacific/Gambier
+Pacífico/Gambier
+Pacific/Guadalcanal
+Pacífico/Guadalcanal
+Pacific/Guam
+Pacífico/Guam
+Pacific/Honolulu
+Pacífico/Honolulu
+Pacific/Johnston
+Pacífico/Johnston
+Pacific/Kiritimati
+Pacífico/Kiritimati
+Pacific/Kosrae
+Pacífico/Kosrae
+Pacific/Kwajalein
+Pacífico/Kwajalein
+Pacific/Majuro
+Pacífico/Majuro
+Pacific/Marquesas
+Pacífico/Marquesas
+Pacific/Midway
+Pacífico/Midway
+Pacific/Nauru
+Pacífico/Nauru
+Pacific/Niue
+Pacífico/Niue
+Pacific/Norfolk
+Pacífico/Norfolk
+Pacific/Noumea
+Pacífico/Noumea
+Pacific/Palau
+Pacífico/Palau
+Pacific/Pitcairn
+Pacífico/Pitcairn
+Pacifíco/Pohnpei
+Pacífico/Pohnpei
+Pacific/Ponape
+Pacífico/Ponape
+Pacific/Rarotonga
+Pacífico/Rarotonga
+Pacific/Saipan
+Pacífico/Saipan
+Pacific/Tahiti
+Pacífico/Tahiti
+Pacific/Tarawa
+Pacífico/Tarawa
+Pacific/Tongatapu
+Pacífico/Tongatapu
+Pacific/Truk
+Pacífico/Truk
+Pacific/Wake
+Pacífico/Wake
+Pacific/Wallis
+Pacífico/Wallis
+Pacífico
+Pack
+Package s
+Package xpi
+Package
+Empacotada
+Empacotado
+Packs
+Padding
+cellpadding 
+Page Direction
+Page Selection
+Página
+Pagequot
+Pager Number
+Pager
+Páginas
+Pago
+Pintar
+Pair a Device &quot
+Pair a
+Emparelhar
+Paquistão
+Pal Who &apos
+Pal
+Palau
+Palestinian Territory
+Ocupado
+Paleta
+Palete
+Pali
+Páli
+Palmyra Atoll
+Palmyra
+Pan
+Panamá
+Pane
+Panel
+Painéis
+Panes on Startup
+Panes
+PannerNode
+Papua New Guinea
+Papua New
+Papua
+Paracel Islands
+Paracel
+Paragraph format
+Parágrafo
+Paraguai
+Parameters
+Parâmetros
+Parcel
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+parentais
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+DespedidaS
+Partial
+Partially Encrypted
+Partially
+Participant
+Participantes
+Parts
+Party Name
+Party
+Pashto
+Password Change
+Password Manager
+Palavrapasse
+Senha
+Senhas
+PasswordIf
+Palavraspasse
+Senhas
+Paste Go
+Colar
+Pastel Gradient
+Pastel
+Colar…
+Patch
+Patching s
+Patching
+Caminho
+Endereço
+Paths from
+Paths
+Paulo
+Pause on
+Pausar/Continuar/Tentar novamente
+Pausar/Retomar/Voltar a tentar
+Pausa
+Pausar
+Em pausa
+Pausa
+Pausado
+Pauses the
+Pauses
+Pagar
+payload
+Pagamento
+Paz
+Peer
+PeerConnection ID
+PeerConnection
+Pending
+Penh
+Pessoas
+Percentual
+Perform a
+Execute
+Desempenho
+Perhaps the
+Perhaps you &apos
+Talvez
+Period of Validity
+Period of
+Period
+Periodic
+Permanente
+Permanently
+Permission
+Permissões
+Permit
+Persa
+Particular
+Pessoal
+Personalidade
+Peru
+Perwebsite
+Fase
+Filipinas
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+Telefone
+Telefones
+Telefones
+Phonetic Name
+Fonético
+Foto
+Fotografia
+Photograph
+Phrase
+Física
+Físico
+Pick
+Picture
+Pierre
+Pilot
+Pin
+Ping
+Afixado
+Afixados
+Pinning
+Pipelining
+Pitcairn Islands
+Pitcairn
+Pixel
+Plain
+semanal
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Platform
+Play a
+Executar
+Play
+Reproduzir
+Testar
+Tocar
+Playing audio
+A reproduzir
+Executando
+Please advance
+Please authenticate
+Please consider
+Please enter
+Please shorten
+Favor
+Plug a
+Ligue
+PlugIns
+Extra
+Plugin
+Plugins
+Plus
+Pocket
+Podcast
+PoiQA
+Pointer Lock API
+CRLs
+Polónia
+Polônia
+Pole
+Políticas
+Policy Constraints
+Policy Mappings
+Policy mapping
+Política
+Polaco
+Polonês
+Francesa
+Popup Blocking
+Popup
+Janelas popup
+Popups
+Porta
+Portable Document
+Portable
+Porto
+Retrato
+Vertical
+Portugal
+Português
+Posição
+Posse
+Soluções
+Enviar
+Postar
+Publicar
+Postal Code
+Postal
+Posting
+Postpone
+Power
+Powered by
+Powered
+Powershare
+Practice Statement pointer
+para
+Pre
+précondição
+Preferencialmente
+Preference
+Preferências
+Opções
+Preferências
+Preferências…
+Preferred
+Prefers to
+Prefers
+Précarregar
+Prefetching
+Prefix
+Prefixed
+Préformatado
+Premature
+prépacote
+Prepackaging
+Preparing
+A preparar…
+Preparando…
+presente
+Presentation Mode
+Presentation
+Preserve
+Preserves
+préajuste
+Predefinições
+Préajustes
+Premir
+Pressionar
+Pressing F
+Pressing
+prettify
+Pretty Print
+Pretty
+Prevent
+Prévisualizar
+Visualizar
+Previewed
+Previewing
+Prévisualizar…
+Visualizar
+Previous Session
+Anterior
+Voltar
+Preço
+Primary Email
+Primed cache
+Primed
+Primetime Content
+decifração
+Princes
+Principal Name
+Principal
+Príncipe
+Imprimir
+Printed
+Impressora
+A imprimir
+Imprimindo
+A imprimir…
+Imprimir
+Imprimir…
+Priority changed
+Prioridade
+Privacy Policy
+Privacidade
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+Particular
+Pessoal
+Privado
+Privativas
+Privilegiado
+Privileges
+Direitos…
+Privilégios
+Pro
+atríbuto
+Possivelmente
+testando
+Problem
+Proceed
+Proceeding will
+Proceeding
+Process
+A processar
+Processando
+A processar…
+Prodigy
+Produtor
+Produto
+ProductName
+ProductNameInternal
+ProductShortName
+Perfil
+Profiler
+Perfis
+Program Icons
+Ícones
+Programs Folder
+Programas
+Progress Window
+Andamento
+Progresso
+Project Lead
+Projeto
+Projects
+Promise Debugger
+Promise
+Autorizar
+Confirmação
+Perguntar
+Prompt
+Propriedades
+Propriedades do objeto
+Propriedades
+Propriedades…
+Property Declaration
+Property Value
+Propriedade
+Proporcional
+Propose a
+Propose
+contramonitorização
+Protocol Request
+Protocol
+ProtocolSpecific
+Protocols
+Proudlybr
+Provider
+Province
+Proxies
+HTTP
+Proxy
+Pseudoelements can
+Pseudoelements ‘
+Pseudoelementos
+Psst using
+Psst
+Pública
+PublicKeyPins
+Publicar
+Publishing Pages
+Publicando
+Publicar
+A publicar…
+Publicando…
+Publicar…
+Puerto Rico
+Puerto
+Panjabi
+Punjabi
+Purchase for
+Finalidades
+Objetivos
+Push Endpoint
+Push
+QA UI
+QA
+QName
+QQ
+QR Scan
+QR
+Catar
+qualificada
+Qualified
+Quechua
+Quíchua
+Query
+Question
+Queued
+Quick Filter
+Quick Launch bar
+Quick Launch
+Rápida
+Quickly
+Quirks mode
+Quirks
+Quirky doctype
+Quirky
+Sair
+SaídaS
+Quitting
+Cota
+Quota
+citação
+Citar
+Quotes
+RAM
+RC
+RDN
+GRAVAÇÕES
+Gravações
+RECORDS
+REMOVE
+RETR command
+RETR
+RETURN
+RFC
+RGBA
+RSA Encryption
+RSA
+RSASSAPSS Signature
+RSASSAPSS
+RSS Support
+Formato RSS
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+Estatística
+Radio Button
+Radio buttons
+Radio
+Rainy
+Raise
+Range
+Rankin
+Rate
+Avaliação
+Classificação
+Pixel
+Raw
+Re
+Reached
+Ler
+Lida
+Lidas
+Lido
+lidoMarcar
+Reader &apos
+Reader
+Leitura
+Ready to
+Pronto
+Really fast
+Really
+Rearrange
+Motivo
+Reasons
+Recriar
+Rebuild
+Recalcular
+Receipt denied
+Receipt
+Receipts
+Receive
+Recebida
+Recebidas
+Recebido
+Recebimento
+Recebendo
+Receção
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+Mais novas
+Recente
+Recentes
+Recently
+Reverificar
+Destinatário
+Destinatários
+recomendados
+Recomendado
+Recomendados
+Nova confirmação
+Reconfirmar
+Reconnect
+Record
+Recording Performance
+Recording
+A gravar
+A gravar…
+Gravando…
+Recuperar
+Restaurar
+Recovery Keyhtml
+recuperação
+Recur
+Recurrence pattern
+recorrência
+Recursion
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+redirecionamentos
+Rediscover the
+Rediscover
+Redisplay
+Refazer
+Reducing the
+Reducing
+Reduction
+Kingman
+Reenter
+Reference
+Referencias
+Referências
+Referência
+Referring URL
+Referente
+Reflows
+Refluxos
+Reformat
+Atualizar
+Refused
+Register Locale
+Register Server
+Register
+Registado
+Registrado
+Registering
+Regular Attachment
+Normal
+Regular
+Reject
+Reconectar
+Related
+Relação
+Relative positioning of
+Relative
+Relaunch
+Release Notes
+Release
+Releases
+Recarregar
+Remaining
+Guardar
+Memorizar
+Remind Me
+Remind
+Lembrete
+Alarmes
+Lembretes
+Remote Debugging
+Remote debugging
+Remoto
+Remove channel
+Apagar
+Excluir
+Remove
+Remover
+Removed
+Removes
+Remover…
+Removing
+Renaissance
+Mudar nome
+Renomear
+Mudar nome
+Mudar nome…
+Renomear…
+Renomeando
+Render Mode
+Render
+Renderer
+Rendering
+Renewal
+Reopen
+Repair
+Repete
+Repetir
+Recorrente
+Repetição
+Repetições
+Substituir
+Replacement
+Replaces in
+Substituições
+Substituir…
+Replacing
+Replicating directory entry
+Replicando
+Replication failed
+replicação
+Respondida
+Respondido para
+Responder
+Resposta
+ReplyTo
+Responder a
+Responder para
+ResponderPara
+Replying
+Replyto Address
+ReplyTo
+Relatório
+Reportar
+ReportOnly
+relator
+Reports
+Republic
+Request the
+Request
+RequestMode
+Requested
+Pedidos
+Requisições
+Required
+Obrigatório
+Reread mozcmd
+Relê
+Reenviar
+Resending
+ReenviadoCC
+ReenviarCC
+ResentCC
+ReenviadoComentarios
+ReenviarComentários
+ResentComments
+ReenviadoData
+ReenviarData
+ResentDate
+ReenviadoDe
+ReenviarDe
+ResentFrom
+ReenviadoMessageID
+ReenviarID da Mensagem
+ReenviarIDMensagem
+ResentMessageID
+ReenviadoEmissor
+ReenviarRemetente
+ResentSender
+ReenviadoPara
+ReenviarPara
+ResentTo
+Reserved
+Normal
+Redefinir
+Repor
+Repor ampliação
+Restaurar o estado inicial
+Restaurar o padrão
+Restaurar valores
+Valores iniciais
+Resets
+Resolution/Quality
+Resolution
+Resolver
+Recurso
+Resources
+Responder
+Resposta
+Responseclone
+Responsive Design
+Responsive
+Rest
+Reiniciar
+Reiniciando
+A reiniciar…
+Restaurar
+Restrict
+Restringido
+Restrito
+Restyle Hint
+Restyle
+Resultados
+Resume &apos
+Continuar
+Retomar
+Retoma
+Retained
+Retention Policy
+Retenção
+Retestar
+Testar novamente
+Retrieving quota
+Recebendo
+A obter
+A obter…
+Carregando…
+Reiniciar
+Repetir
+Tentar de novo
+Tentar novamente
+Voltar a tentar
+Retrying
+Return
+Retweet
+Retweetar
+Reunião
+reverso
+Reversed
+Reverter
+Reverter…
+Review
+Revision
+Revived
+Revogados
+Revogado
+Rebobinar
+Encapsular novamente
+Reformatar quebras de linha
+Rewriting oldstyle
+Rewriting
+RhaetoRomânico
+Rhaetoromance
+Rica
+Rich Text
+Rich
+Rico
+Right Click
+Direita
+Direito
+Lado dir
+Lado direito
+Rightclick
+Direitos
+Righttoleft direction
+Righttoleft
+Chamando…
+Rio
+Rioja
+Risks
+River
+Roaming
+Robot
+robôs
+Roku
+Role
+Roménia
+Romênia
+Romanian ISO
+Romeno
+Quarto
+Sala
+Root
+Roots Module
+raízes
+Girar
+Rodar
+Linha
+Linhas
+Rule
+Regras
+Ruleset
+Executar
+RunAppX
+Running
+Ambiente de execução
+Rússia
+Rússia
+Russo
+Ruanda
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+di
+SASL bind
+SASL
+SD
+SDP
+SE
+SECG elliptic curve sectr
+SECG
+SECURITY
+SEE THIS STRING
+SEE THIS
+VER
+SETTINGS
+SFailed to
+SFalhou
+SHA Digest
+SHA Fingerprint
+SHA
+SHOULD
+MOSTRAR
+SIL Compact
+SIL
+SIM
+SIZE
+SK
+SMB of
+SMB
+SMTP &apos
+
+SMTP
+SMTPAUTH
+SOCKS Host
+SOCKS v
+SOCKS
+SOcorre
+SPDY
+PATROCINADO
+SQL Statements
+SQL
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+STRING
+SToque
+SUGERIDO
+SVG clipping
+SVG
+SW Asian
+SW
+ALTERNAR
+MUDAR
+SYSTEM
+S_arquivos
+S_ficheiros
+S
+Sá
+sa
+Saba
+Sad
+Safari
+Safe Mode
+Segura
+SafeBrowsing
+SafeMode
+Saara
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+Saint
+Salaam
+Salem
+Salvador
+Same
+Sami
+Samoa
+Samoano
+Sampled
+Amostras
+San Marino
+San
+Sandbox
+Sandboxing
+Sandwich
+Sango
+Sangro
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+Sans
+Sânscrito
+Sem serifa
+Santa
+Santo
+Sao Tome and
+Sao Tome
+São
+Sardenho
+Sardo
+Sass
+Sáb
+sáb
+Sábado
+Sábados
+sábado
+Saudi Arabia
+Arábia
+Save Permissions
+Guardar
+Memorizar
+Salvar
+Sim
+salvo
+Guardar…
+Salvar…
+Saving
+A guardar…
+Salvando…
+Saw
+Escalares
+Scale …
+Escala
+Scaled
+aumento
+Scam Warning Take
+fraudulento
+Scams
+Digitalizar
+Scanner app
+Scanner
+Scanning for
+Scanning
+Scheduling
+Scheme
+Escopo
+Âmbito
+Score Origin
+pontuação
+Scots
+Scottish Gaelic
+Gaélico
+Scratchpad Enter some
+Bloco de rascunho
+Scratchpad
+Screen Orientation
+Screen reader
+Ecrã
+Tela
+Screenname
+Captura de ecrã
+Captura de tela
+Imagem da página
+Capturas de ecrã
+Script
+Scripts
+Scroll
+ScrollLinkedEffects
+Deslocamento
+Navegação
+Sd
+Sdias
+Coral
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Localizar
+Pesquisa
+Pesquisar
+Pesquisas
+Searching &apos
+A pesquisar
+Pesquisando
+A pesquisar…
+Pesquisando
+Pesquisando…
+Localizar
+Localizar…
+Pesquisa
+Pesquisar…
+Pesquisa…
+Seccomp Thread Synchronization
+Seccomp Thread
+Seccomp
+SeccompBPF System
+SeccompBPF
+segundoa
+Secondary Email
+secundário
+Segundos
+Secções
+Seções
+Secure
+Securing connection
+Securing
+Security Exception
+Segurança
+Veja
+Ver
+Selecionar
+Seleção
+Selected Frame
+Selected Tabs
+Selecionado
+SelectedRemove Selected
+selecionadoRemover
+Selecting
+Seleção
+Selector
+Selectors
+Selecionar
+Selecionar…
+Selecione
+Self Cost
+Self Sampled
+Self Time
+Self
+Selfclosing syntax
+autofechamento
+Selfposting
+Send Verification
+Send a
+Enviar
+Enviar agora
+Emissor
+Remetente
+Enviando
+Envio
+Sends a
+Sends
+Senegal
+Sensor
+
+Enviadas
+Enviado
+Enviados
+Set
+set
+Separate _
+Separate tags
+Separate
+Separated
+Divisão
+Separador
+Separadores
+Sépia
+Setembro
+setembro
+Sérvia
+Sérvio
+Serial Number
+Serial
+Seriar
+Com serifa
+Serifa
+Serifada
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+
+Servidor
+Servidores
+Serviço
+ServiceWorker
+ServiceWorkerAllowed
+Serviços
+Sessão
+autenticadas
+Set Up Sync &quot
+Set this channel &apos
+Definir
+Setting
+Settings &#124
+Configurações
+Definições
+Geral
+Opções
+definiçõesA
+Configurar conexão…
+Configurar…
+Configurações…
+Definições
+Definições…
+instalador
+sete
+Scada
+Seicheles
+Seychelles
+Sh
+Shader
+Sombra
+superficial
+Compartilhar
+Partilha
+Partilhar
+Shared
+Sharing Indicator
+Compartilhamento
+Partilha
+Sheet
+Shift _ JIS
+Shift _
+Shift
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+Shona
+Compras
+Curto
+Shortcut
+atalhos
+Shot
+Should
+Barra de ferramentas
+Exibir/Ocultar
+Exibir/ocultar
+Mostrar/Ocultar
+Mostrar/ocultar
+Exibir
+Exibir como
+Mostrar
+Showing
+Shrink To Fit
+Encolher
+Desligar
+Shutting Down
+Shutting
+SiInEfate
+Irmãos
+Sibilantes
+Sichuan Yi
+Sichuan
+Barra lateral
+Painel
+Barras laterais
+Painéis
+Sierra Leone
+Serra
+Assinar
+Signature
+Signed
+Signer
+Assinatura
+Assinatura de
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Simples
+Simplificado
+Simplify
+Simply
+Simulate touch
+Simular
+Simulation
+Simulador
+Simuladores
+Since
+Sindhi
+Sindi
+Cingapura
+Singapora
+Cingalês
+Singalês
+Cingalês
+Sinhala
+Sint
+Siswati
+Swati
+Site
+Sites
+Dimensões
+Tam
+Tamanho
+Tamanho do texto
+regional
+Skype
+eclesiástico
+Eslovaco
+Eslováquia
+Eslovénia
+Eslovênia
+Esloveno
+Sm
+Pequena
+Pequeno
+Diminuir
+Diminuir fonte
+Menor
+Logon
+Alegre
+Sorriso
+Face
+Smiley
+Silva
+S ms
+Sms
+S ms
+soneca
+Por
+social
+Sockets
+Flexível
+Ligeira
+Software
+Salomão
+Solon
+Somali
+Somália
+Alguma
+Songhay
+Sorbian
+Sórbio
+Ordenar
+Ordenar por
+Ordenado
+Soto
+Sons
+Fonte
+Origem
+Códigosfonte
+Origens
+South
+Austrais
+Espaço
+Space
+Espaçamento
+cellspacing 
+Espanha
+Espanhol
+Cipher
+Velocidade
+Ortografia
+Escrita
+Ortografia
+Gira
+Spotlight
+Spratly
+Spx
+Sri
+Ss
+St
+Conjunto
+Pilha
+Carimbo
+Normal
+Padrão
+Estrela
+Com estrela
+Inicia
+Iniciar
+Início
+iniciadas
+A iniciar
+A iniciar…
+Iniciando…
+Arranque
+Iniciar
+Distrito/Região
+Estado
+Estado/Província
+Estado
+Status
+Instrução
+Estados
+estatísticas
+RTP
+Estado
+Posição
+Status
+Ficar na página
+Permanecer
+Parar
+Parar 
+Interrompido
+Parado
+Parado
+Parado…
+Armazenamento
+disperso
+Endereço
+Rua
+Esticar
+Toda a tela
+rigoroso
+StrictTransportSecurity
+Rasurado
+Tachado
+String
+String…
+Texto
+Estruturado
+Estilo
+Estilos
+Folha de estilo
+D
+Do
+do
+Subcomandos
+Subpasta
+Subpasta…
+Assunto
+Sujeito
+Envio de dados
+Submeter
+Enviado
+Envio
+Inscrever
+Se inscrever
+Subscrever
+Inscrever
+Inscrever…
+Subscrever
+Subscrever…
+Subscrito
+Inscrição
+Subscrição
+Subsecções
+Subseções
+Capturas
+subsistema
+Subdiretório
+Subárvore
+Bemsucedido
+Publicada
+Sucesso
+Sucesso
+Sudão
+Sufixos
+Sugestões
+Suite
+Resumo
+Sumário
+Dom
+dom
+Sudanês
+Sundanês
+Domingo
+Domingos
+domingo
+Sobrescrito
+Sobrepujada
+Substituído
+Supplement
+Suporte
+suportados
+Suriname
+Apelido
+Sobrenome
+Surpresa
+Surpreso
+Svalbard
+Suaíli
+Swahili
+Suazilândia
+Swazilândia
+Suécia
+Sueco
+Swift
+Mudar
+Switch
+Suiça
+Suíça
+Sx
+canadense
+símbolos
+simétrica
+Sincronizar
+Sincronização
+Sync
+Sincronizadas
+Sincronização
+Sincronizar
+sincronizar
+A sincronizar…
+Sincronizando…
+Resumo
+Sinopse
+Síria
+Systems
+S×
+S×S
+CONTROLOS
+TCP
+ESTA FRASE
+THIS
+TITLE
+TITLEAtive
+TLS
+TOP
+TV
+Televisões
+Aba
+Separador
+Tab
+contentorFechar
+Tabela
+tabela
+Tabelas
+Tablets
+Tabela…
+Abas
+Separadores
+contentoresSe
+Aplicar tag
+Etiqueta
+Rotular
+Rótulo
+Tag
+Tags
+Tagalog
+Etiqueta
+Etiquetas
+Rótulo
+Rótulos
+Tags
+Tahitiano
+Taitiano
+Formosa
+Taiwan
+Tadjique
+Tadjiquistão
+Talk
+Tamil
+Tâmil
+Tanzânia
+Toque
+Abre em
+Destino
+Tarefa
+Tarefas
+Tarefa…
+Tatar
+Tatárico
+Tech
+Telemetria
+Tell
+Telugu
+Modelo
+Modelos
+temporariamente
+Temporário
+Tentativa
+Termo
+Termos
+Índico
+Texto
+Q
+Qi
+Qu
+q
+Tailandês
+Tailândia
+Obrigado
+Resposta
+Tema
+Temas
+Depois
+E então
+Então
+Estes
+terceiroa
+Esta
+Thomas
+Tópico
+Agrupar por tópicos
+Agrupar tópicos
+Tópicos
+Qui
+qui
+Miniatura
+Miniaturas
+Thunder
+Thunderbird
+Quinta
+Quintafeira
+Quintas
+quinta
+quintafeira
+Tibetano
+Ticket
+elevada
+Tigre
+Tigré
+Tigrinya
+Tigrínia
+Emparelhar
+Lado a lado
+Mosaico
+Tilt
+Hora
+Tempo
+Cronologia
+Linha temporal
+expirada
+Times
+Marca temporal
+Fuso horário
+Temporização
+Temporizações
+Timor Leste
+Minúscula
+Minúsculo
+implica
+Cargo
+Descrição
+Titúlo
+Título
+A
+Até
+Para
+Tobago
+Hoje
+de hoje
+Alternar
+Inverter valor
+Togo
+Toquelau
+Token
+Amanhã
+Tonga
+Língua de fora
+Mostrando a língua
+Barras de ferramentas
+Ferramentas
+Descrição
+Dica
+descrições
+Início
+Superior
+Topo
+Total
+Toque
+Touch
+Tour
+Traces
+Tracing
+Track
+Antirrastreamento
+Monitorização
+Monitorização da navegação
+Rastreamento
+Traditional
+Transferir
+Transferido
+Transferindo
+Transição
+Traduzir
+Tradução
+Traduções
+Tradutores
+Tradução
+Transport
+Lixeira
+Lixo
+Tratado
+préalocação
+Trinidade
+Tristão
+Tromelin
+Deteção de erros
+Resolução de problemas
+Resolvendo problemas
+Solução de problemas
+Mensagem recebida parcialmente
+Truncado
+confiabilidade
+fidedigno
+Volte
+Tsonga
+Tswana
+T
+Te
+te
+Ter
+ter
+Terça
+Terçafeira
+Terças
+terça
+terçafeira
+Tunísia
+Turk
+Turquia
+Turco
+Turcomano
+Turkmeno
+Turcomenistão
+Turqueministão
+Turks
+tutoriais
+Tuvalu
+Tweet
+Tweets
+Twi
+Twitter
+Tipo
+Nome
+Tipo de fonte
+Tipos
+UA
+Emirados Árabes Unidos
+IU
+UID
+UIDL
+ANULAR
+DESFAZER
+DESCONHECIDO
+UNSUPPORTED
+URI
+URIs
+Endereço
+URL
+URLs
+Portugal
+USA
+USB
+UTC/GMT
+UTCS
+UTF
+UTFBE
+UTFLE
+Latim
+Uganda
+Uighur
+Uigur
+Ucrânia
+Ucraniano
+Indisponível
+Ocupado
+Desbloquear
+Desmarcar
+Não verificado
+desmarcado
+Indeciso
+Recuperar
+Restaurar
+sob
+Sublinhado
+Sublinhar
+compreendo
+Anular
+Desfazer
+Unescaped
+Infelizmente
+destaque
+Unicode
+Unificadas
+Não inicializado
+Desinstalar
+A desinstalar
+Desinstalando
+organizacional
+Unidos
+Universal
+Desconhecido
+Sem preferência
+Desassociar
+Desconectar
+Desvincular
+Dissociar
+Descarregar
+Ativar som
+Com som
+Desemudecer
+Restaurar
+Som
+Desafixar
+Não lida
+Não lidas
+Não lido
+Nãolida
+Desregistrar
+Remover registo
+desregistar
+não responde
+irrestritos
+Saída
+Não ordenados
+Não ordenar
+Cancelar inscrição
+Cancelar subscrição
+Não subscrever
+Desinscrevendo
+Não suportado
+etiquetadas
+Não agrupar
+Até
+Nova aba
+Sem nome
+Sem título
+Não usado
+Não utilizado
+Não verificado
+indesejável
+Acima
+Cima
+Um nível acima
+Brevemente
+Seguintes
+Atualizar
+Atualização
+Atualizações
+Editar
+separador
+Atualizar
+Upgrade
+Carregar
+A carregar
+Enviando
+Upper
+Urdu
+Uruguai
+Uso
+Utilizado
+Utilização
+Utilize
+s Folder
+Usuário
+Utilizador
+UserAgent
+Nome de usuário
+Nome de utilizador
+Utilizadores
+Using
+Usbeque
+Uzbek
+Usbequistão
+Uzbequistão
+V
+VÁLIDO
+VERSION
+VK_F
+VK_LEFT
+VK_QUOTE
+VK_RETURN
+VK_RIGHT
+VK_SEMICOLON
+VK_SLASH
+Válido
+Validar
+Validade
+Valor
+Valores
+Vanuatu
+Variável
+Variáveis
+Vaticano
+Velho
+Venda
+Venezuela
+Verde
+homologadora
+Verify
+A verificar
+Verificando
+A confirmar…
+A verificar
+A verificar…
+Verificando…
+Versão
+Versions
+Vértice
+Vertical
+Vídeo
+Vietname
+Vietnã
+Vietnamita
+Exibir
+Ver
+Vista
+Visualizar
+Viewport
+Exibir
+Vistas
+Visualizações
+Visões
+Exibir…
+Ver…
+Vincent
+Virgens
+Virtual
+Visitar
+visitar
+Vista
+Visual
+Visualiza
+Voz
+Volapuque
+Volapük
+Volume
+ALERTA
+Aviso
+ALERTAS
+AVISOS
+WCAP
+WHOIS
+WHOWAS
+WS
+WYSIWYG
+Aguardar
+Esperar
+Aguardando
+Espera
+Aguardando…
+Em espera…
+Wake
+Wallis
+Valão
+Walloon
+Alerta
+Atenção
+Aviso
+Alertas
+Avisos
+Monitorar
+Monitorizar
+Relógios
+Cascata
+Waveform
+ll
+Q
+Qa
+Qu
+qu
+WeakMap
+Wearing
+Web
+Renderizador
+WebIDE
+WebIDL
+WebRTC
+WebSockets
+Webmaker
+Página web
+Página web…
+Endereço
+Site
+Site 
+Site da web
+Janelas
+Qua
+qua
+Quarta
+Quartafeira
+Quartas
+quarta
+quartafeira
+Fraco
+Semana
+Semanalmente
+Semanas
+semanas
+Bemvindo
+Galês
+Ocidental
+roda do
+Quando
+Embora
+Lista branca
+Lista de permissões
+whitespaceonly
+plástico
+fios
+Widevine
+Largura
+Will
+Win
+Janela
+Windowopen
+Windows
+Piscadela
+assistente
+Uolofe
+Wolof
+palavra
+Comercial
+Endereço comercial
+Profissional
+Trabalho
+Alternativas
+Worker
+Workers
+Dias úteis
+Encapsular
+Moldar o texto
+Quebrar
+Ultrapassar início/fim
+Edição
+Escrever
+Nova mensagem
+Nova msg
+atrasadas
+xy
+X
+XBL
+XContentTypeOptions
+XHR
+XHTML
+XLink
+Formato XML
+XML
+XMLHttpRequest
+XMPP
+XP
+XPCOM
+XPConnect
+interpretação
+XSLT
+vulnerabilidade
+XTND
+XUL
+XXX
+Xhosa
+Xosa
+Y
+POSIÇÃO
+Yahoo
+YandexTranslate
+Ano
+Anualmente
+Anos
+anos
+Berro
+Grito
+Iémen
+Iêmen
+Sim
+Ontem
+Yi
+Iídiche
+York
+Ioruba
+Yoruba
+re Not
+Usuário
+Utilizador
+Você
+YouTube
+Your
+Zâmbia
+Zeal
+Zelândia
+Zhuang
+Zimbabué
+Zimbábue
+ZoneInfo
+Ampliar
+Ampliar/Reduzir
+Ampliação
+Tamanho do texto
+Zoom
+Zulu
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+a scam
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+a surprised
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+a week
+a windowed
+a wink
+a year
+a yelling
+uma
+aChoose
+aFrames
+aConheça
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijlmnopqrstuvxzABCDEFGHIJLMNOPQRSTUVXZ
+abominou
+abilities
+able
+abortar
+abortado
+about About
+about Networking
+about Us
+about brandShorterName
+about
+aboutconfig
+aboutcredits
+aboutdireitos
+aboutrights
+aboutwebrtc
+acima
+aboveAllow
+abruptly
+absence
+absolute positioning
+absoluto
+accel
+accelshift
+accelalt
+acceleration on
+aceleração
+accelshift
+letras
+aceitar
+aceitável
+acceptcharsetutf
+aceites
+accepting site &apos
+accepting
+access Key
+access multimedia
+access
+​
+accessibility support
+accessibility tools
+acessibilidade
+acessíveis
+accessing
+accidental breakage
+accidental
+accompanying
+accomplished
+accordance
+according
+s
+account Actions
+account connected
+account name
+conta
+accountManagernewAccountlabel
+accounts
+exatidão
+precisos
+acknowledges
+across
+act
+action
+ações
+activate
+ativado
+ativo
+active Logins
+active
+activity Indicator
+activity Stream
+atividade
+actual Size
+actual
+actualDate &apos
+actualDate
+atuarial
+adaptive
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+Adiciona
+addEventListener method
+addEventListener
+adicionouo
+adição
+adicional
+additivesymbols descriptor
+additivesymbols
+addon &apos
+complemento
+addons gallery
+extras
+addonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+address
+addressbook
+endereçobr
+addresses
+addressing area
+Newsgroup
+adjacent
+adjust
+admin
+administrator
+adult supervision
+supervisão
+avance
+advanced JavaScript
+advanced
+advanced_pref_installation
+advancelabel
+Anunciar
+advertised
+divulga
+afetar
+afetados
+affecting
+after Sending
+após
+novamente
+idade
+agent
+agregado
+agregados
+aggregating
+agregação
+atrás
+concorda
+agreement
+airplane
+aka NIST
+tcc
+anovos
+alert description
+alerta
+algorithb
+algorithm Parameters
+algoritmo
+algorithmhash value
+algorithmhash
+algorithms
+alignment
+alined
+vivos
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+Rodas
+alocar
+alocado
+allocation
+allocations Rate
+allocations
+allow dialogs
+allow immediate
+autoriza
+allowed
+allowfullscreen
+allowing
+allows
+allowsameorigin
+allowscripts
+gregoriano
+along the Y
+along
+alphabetical
+already bookmarked
+já
+also gives
+also skip
+também
+altKeylabel
+alter
+alteration
+interceptada
+alternate
+alternatives
+always Ask
+always Block
+always prefer
+Sempre
+am &#124
+am
+amount
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+an
+eletronico
+analyze
+ancestor elements
+ancestor
+ancestrais
+anchor &apos
+anchor
+nomeadas
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+and Herzegovina
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+e
+ângulo
+passível
+animada
+animation cycle
+animação
+animações
+anualmente
+anonymous box
+anónimo
+anônima
+another
+answers
+antivirus software
+antivirus
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+diretos
+prólogo
+anyone
+anypolicy
+coisa
+anyway
+anywhere
+apart
+app &apos
+app submission
+app
+appName
+aparentem
+appearance wrong
+appearance
+appears
+anexa
+applicable service
+applicable
+application Basics
+application Details
+application doesn &apos
+aplicativo
+aplicação
+applications
+aplicado
+applies
+aplicarem
+applying update
+aplicando
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+aprovado
+ganho
+approximate line
+approximate
+approximation
+apps &apos
+apps
+apr &#124
+abr
+abril
+arbitrária
+archive
+archived folders
+archived
+archives
+archiving
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+prontoEstão
+area shape
+pintadas
+areas in
+areas
+t
+aren
+Argumento
+arguments for
+argumentos
+arising out
+arising
+arjo
+armscii ISO ISO ISO
+armscii
+torno
+chegarem
+arrived
+solicitei
+arrow
+arsa
+article summary
+artigo
+artigos
+artwork
+as &apos
+as Authored
+as broken
+as cURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+coom
+ascending
+ascii
+ash
+asis &quot
+asis
+ask me
+ask
+asked questions tips
+asked
+asking
+asks that
+asks
+aspect ratio
+aspect
+aspetos
+assets
+assist you
+assist
+assistência
+Associado
+association
+assume
+assured
+asterisco
+async touch
+async
+asynchronous Pan
+asynchronous entity
+asynchronous
+assincronamente
+at S
+at least
+at span id &apos
+pleo
+atchMore than
+atrule
+anexar
+anexado
+Anexando
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+attachment
+anexoVocê
+anexos
+attack An
+attack pages
+atacar
+attacker could
+atacante
+attackers
+attacks
+attempt
+attempted old
+pretendida
+tentava
+recusadas
+attend
+participação
+attendee
+attendees
+attention
+attribute Type
+atributo
+ ownerElement
+atributos
+audio Backend
+audio
+aug &#124
+ago
+agosto
+authenticate to
+autenticar
+authenticates
+authentication mechanism
+authentication
+autenticidade
+autor
+authorities
+authority is
+Desse
+authorization
+authorized
+authors whom
+authors
+auto Increment
+auto Prettify
+auto Save
+auto discover
+Autoformatar
+autoAddOnsUpdateslabel
+autocomplete
+completação
+autodetection
+autofill
+automated updates
+automated
+automatic updates
+automatic
+automatically Black
+automatically detects
+automatically prefill
+automatically so it &apos
+automaticamente
+automation
+autoplay
+autoscrolling
+available &quot
+available Commands
+disponível
+média
+média
+avoid
+aware
+ausente
+eixo
+b
+bEven
+bS
+traseira
+back
+backed up
+backed
+backfacevisibility hidden
+backfacevisibility
+background
+backlogged
+backslashes
+backup
+backups
+backwards
+bad parameter
+más
+medalha
+baggage object
+bagagem
+ban
+banks stores
+banks
+banidas
+banner
+bar
+barada
+base
+baseado
+baseline
+basic Page
+básica
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+be
+bear the
+tolera
+beast
+beasts brought emfire
+animais
+Formata
+embelezar
+became full
+ficado
+porque
+become
+becomes damaged
+fica
+been deactivated
+been navigated
+been reestablished
+been replaced
+been revoked
+been transferred
+been translated
+injustamente
+Beep
+before
+began
+begin
+beginning
+begins with
+begins
+behalf
+behavior
+behaviour
+behavioural
+being incompletely transferred
+being redirected
+being reparsed
+Irão
+believe
+believed
+belongs to
+belongs
+abaixo
+benefit
+benefícios
+debaixo
+best Match
+best accomplished
+melhores
+ajudarão
+between
+bfor Android
+bgt
+bidirecional
+big
+bigger
+billing
+binário
+bind DN
+bind
+binding shadows
+binding
+bindings tag
+bindings
+bird
+birdcage …
+birdcage
+nascimento
+bit keys
+bit
+bitrate
+bits
+mordidos
+black
+em branco
+vazio
+block Lists
+block padding
+bloqueiam
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+bloqueados
+bloqueando
+blocks parts
+blocks
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+body
+portado
+bookmark updated
+bookmark
+bookmarked
+marcadores
+books
+boolean
+booliano
+destravado
+border &apos
+border radius
+borda
+limite
+Contornos
+bot
+tanto
+bottom
+inferior
+limita
+boundaries
+deslocadas
+box Model
+box model region
+box model
+box
+caixa
+boxcom
+boxed
+boxes
+boxing
+br
+brace
+braces
+retos
+brand new
+brand profile
+brand
+brandFullName Credits
+brandFullName
+brandShortName &apos
+brandShortName Preferences
+brandShortName logo
+brandShortName
+brandShorterName Tour
+brandShorterName
+brandShortname
+break
+breakage
+breaking
+breakpoint
+pontos
+quebras de
+brilhante
+Trazer
+genéricas
+quebrado
+trouxeram
+navegar
+browser &apos
+browser Hangs
+browser configurations
+navegador
+browsercachediskenable to
+browsercachediskenable
+browsers
+browsing
+brulliIf
+btn
+buddy list
+buddy
+budget
+buffer capacity
+buffer
+bug
+bugs visit
+bugs
+bugzillamozillaorg
+build Configuration
+construção
+building summary
+built
+builtin Roots
+builtin tools
+incluídos
+bulleted list
+bulleted
+business
+ocupado
+but we
+mas
+button button
+botão
+buttons
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+memorizando
+by vendorShortName
+by xslmessage
+scams
+bynbspdesign
+indicação
+B
+bytes
+c
+cSlS
+cSrS
+cURL
+cache management
+cache
+cachecontrol set
+cachecontrol
+em cache
+cachemanifest
+caching of
+caching
+calendar Weeks
+calendário
+calendaring information
+calendaring
+calendars
+calendartimezonesxpi
+call Stack
+call calls
+invocações
+callUrl
+callback
+called &apos
+chamado
+callees
+caller
+calling detach
+invocação
+invoca
+câmara
+t
+can analyze
+can collect
+can often
+can ’
+ás
+cancel
+canceled Occurrences
+canceladas
+cancelamento
+cancelada
+cancelledAddon
+candidate resources
+candidatos
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+poderam
+canvas Debugger
+canvas an
+canvas
+tela
+capabilities
+capable
+capacity
+capitalization
+legenda
+subtítulo
+capture
+captureEvents
+captured log
+captured
+card
+cards copied
+cards etc
+créditos
+care
+cauteloso
+carefully
+cursor
+carriage return
+carriage
+carrier
+case sensitivity
+minúsc
+caseinsensitive
+cases
+cast
+categories
+categorize and
+categorizar
+categoria
+categorySource
+provável
+causado
+prováveis
+causing stability
+deixando
+cautela
+cuidados
+cc
+cd
+cell border
+cell was
+célula
+células
+cellular location
+cellular
+census
+center footer
+center header
+center
+centered
+centerxcenteryradius
+centimeters
+cert AIA
+cert Library
+cert validation
+cert
+determinada
+certificSian
+certificado
+certificadas
+ch
+chain
+preside
+mude
+mudou
+alterações
+alterando
+canal
+carácter
+caracteres
+charset
+conversar
+batepapos
+marcar
+verificar
+marcado
+verificado
+Checando
+verificações
+filhos
+escolher
+escolhe
+escolhidas
+chrome//messenger/content/msgAccountCentralxul
+chrome
+circ
+círculo
+circular
+classe
+classificador
+Clear
+limpos
+cliquem
+clicado
+clicarparareproduzir
+cliente
+clientShortname
+clientSuperShortname
+coloque
+clipping
+fechado
+fechar
+fechada
+fechado
+travar
+closing fence
+Fechando
+nuvem
+codebreakpadreportURL
+codecs
+colgroup
+collapse
+recolhido
+subitens ocultos
+reunir
+recolhidos
+collection
+responsabilidade
+cor
+colorir
+coluna
+colunacom
+com
+desnecessário
+vem
+comando
+comandos
+vírgulas
+prematuro
+comentários
+
+commit
+comuns
+comunicação
+comunidade
+compacte
+condensada
+condensar
+comparar
+complem
+compatível
+complementar
+efetivar
+terminadas
+plenamente
+Concluindo
+finalização
+Standards
+cumprir
+componente
+t want install
+Compõe
+viu
+compositor
+abrangência
+compactado
+invadido
+s
+computador
+computadores
+conbv
+condições
+conferências
+config
+configurável
+Configura
+configurada
+confirmar
+conflito
+obedece
+confusas
+liga
+ligouse
+conectando
+coneção
+conexões
+ligãção
+Hífens
+punitivo
+considere
+consistente
+consoleinfo
+consolelog
+Consoles
+consolewarn
+restrição
+montada
+consumo
+contate
+contactName
+contatado
+contivesse
+contida
+contiver
+contém
+contemporâneo
+conteúdo
+envios
+contextos
+contribuição
+colaboradores
+contribuintes
+controlar
+controlado
+adaptativos
+informaçãobr
+conversa
+conversationLabel
+conversas
+converter
+convertidos
+Cookie
+cookies
+simpática
+y
+coords
+copiado
+copiadoS
+cópias
+copy
+Copiando
+corporações
+corretos
+equivalente
+correspondentes
+corrupto
+corrompimento
+cors
+pinset
+t find
+contagem
+counter
+contadores
+counterstyle
+cobertura
+cpnbv
+cpnbw
+travamento
+travou
+crie
+criada
+criando
+critical
+chorar
+css
+csv
+ctnbr
+ctnbv
+segurando
+ctrlKeylabel
+curly
+atual
+t
+atualmente
+elíptica
+personalizado
+Recortar
+ciclo
+d
+da
+Todo dia
+diariamente
+danificam
+perigosas
+escuridão
+darrinhenein
+dashed
+dados
+banco
+datareporting
+data
+dia
+diadias
+diasa
+dias
+Reanimação
+prazo
+depure
+depurador
+depuradores
+dez
+detetando
+dezembro
+enganoso
+decisões
+declaração
+declarar
+declarado
+descodificasse
+decodeAudioData
+descodificados
+descodificadores
+descomprimido
+descompactar
+diminuir
+desencriptar
+descriptografia
+padrão
+predefinido
+predefinição
+prédefinidoS
+definidas
+definição
+graus
+atraso
+delegado
+apagar
+apagado
+excluída
+entregue
+entregar
+den
+negado
+denominador
+desaconselhado
+dereferencing
+descrita
+descritor
+passíveis
+Destino
+Destruir
+destruiu
+detach
+detalhadas
+detetar
+detectados
+deteção
+deteta
+determina
+efeitos
+developermozillaorg
+programadores
+dispositivo
+adicionale
+dispositivos
+diagnosticar
+diagonal
+diagrama
+diálogo
+diálogos
+dictURL
+ditado
+dicionários
+dicionáriosx
+t
+diferenças
+diferentes
+difícil
+malsucedida
+digital
+dígitos
+direction
+diretiva
+diretivas
+directa
+diretório
+desativar
+desativado
+desativando
+renunciam
+isenção
+divulgadas
+desligada
+descontinuar
+disfarçado
+Disco
+remetida
+display
+integralmente
+mostrando
+distinto
+distribuir
+distribuidores
+desconfiar
+div
+docs
+documentação
+doctype
+documento
+documentação
+documentdomainS
+documentexecCommand
+documenta
+documentwrite
+t match
+subitamente
+€
+domíno
+doméstico
+dominadora
+dominadores
+t keep
+donativo
+aparecerão
+dopplerFactor
+dotted
+descarregue
+downloadExcluir
+baixado
+a descarregar
+recebendo
+extraA
+descargas
+rascunhos
+Arrastar
+desenhos
+driver
+controladores
+largue
+ignorada
+vencimento
+dump
+suplicada
+dwndiagstrike
+e
+eager
+facilidade
+facilmente
+espionagem
+edite
+editados
+editando
+edição
+produzam
+dominio
+prejudiciais
+ex
+oito
+eightbit
+dezoito
+décimo oitavo
+oitavo
+either
+segundoDecorridos
+elea reime
+elemento
+elementdataset instead
+elementdataset
+elementos
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+onze
+eleventh
+elegível
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+curva
+else contact
+else
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+email
+ve linked
+mensagemEu
+enviado
+emailexamplecom
+emailexemplocom
+emails
+emand
+embarrassed face
+envergonhado
+embaraçoso
+embução
+embedded PDF
+embedded
+eram
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+Rodrigues
+emcontributorJoe Solon
+emcontributorJoe
+emcontributorSérgio
+emfogo
+emgreat
+emnew
+emother
+emotivos
+empregadora
+empty Trash
+empty slots
+ranhuras
+esvaziar
+emreborn
+emrenewed
+emrapidamente
+emthunder
+emgémeos
+emulate a
+emular
+emulating a
+emulating
+emulation
+en
+enUS en
+ptBR
+ptPT
+enable brandShortName &apos
+enable others
+enable worker
+ativar
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+Ativadas
+enables
+enbz
+envolvido
+incluido
+encode
+encoded
+encoder
+encoding
+encodings
+encountered
+encrypt this
+encriptar
+encrypted you
+encriptados
+encriptação
+enctype instead
+enctype
+enctypeS
+enctypemultipart
+end user &apos
+extremidade
+ended
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+pontas
+imposto
+participem
+restou
+engines
+melhoradas
+enjoy
+enlarging the
+aumentar
+enough
+assegurar
+ensures that
+assegura
+publicas
+introduzido
+entering
+introduz
+entire
+entirely
+entities
+entity in
+entity reference
+entity
+entradas
+entrada
+enumerável
+enus
+environment Data
+environment
+similares
+ephemeral DiffieHellman
+ephemeral
+equals sign
+equals
+equação
+equestAnimationFrame
+era of
+erase
+error console
+error creating
+error refiling
+erro
+errorCode
+errorfree
+erros
+erver
+es Salaam
+es
+esES
+esc
+escape
+escaped
+escaping
+establish
+established
+estimates only
+estimativas
+etc
+eval
+evaluate selected
+avaliar
+evaluating a
+evaluating an
+evaluating
+evaluation
+mesmo
+event Handler
+eventualidade
+eventoO
+events
+ever
+every dayevery
+every weekevery
+origensque
+everyone
+everything inbetween
+everything
+everywhere
+exact
+exactly
+examf
+examine your app &apos
+examinar
+exemplos
+examplecom rather
+examplecom
+examplenet
+exemplocombr
+meuprovedorcombr
+exceed five
+exceed the
+exceed
+excedia
+exceeds
+except
+exceção
+exceptions Cookies
+exceptions
+intercâmbio
+excluded
+excluindo
+exclusion
+executable
+execute
+executed to
+executed
+executa
+execution
+exemplary
+exist can &apos
+exist
+existente
+existentes
+exists
+existsWould
+exit
+Saindo
+exits
+expand panes
+expandir
+expanded to
+expandido
+subitens abertos
+expanding out
+expanding
+expands to
+expandiuse
+expandstrict
+expect anonymous
+expect
+expetativas
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+esperado
+expecting
+experiência
+sofreu
+experiences
+experiencing
+experimento
+experimentais
+experiências
+expiram
+expirou
+validade vencida
+expires Seconds
+expires
+expiry
+explicitas
+explicitly specify
+explicitamente
+explorar
+explore a
+explore
+export regulations
+Exporta
+exportados
+expor
+exposedProps
+expressas
+expression
+expressions
+extend
+extended
+extending the
+Estender
+extends system
+extends
+extensível
+extension extensions
+extension
+extensions
+external Editors
+external storage
+externos
+extra Large
+extra requirements
+extra
+extract error
+Extração
+extraction error
+extraction
+extrema
+f
+face
+facing camera
+facing
+factory
+falhem
+falhos
+fails treat
+fails
+Failure
+fallback
+false
+falso
+familiar
+family addressbr
+family
+far
+fast
+faster
+faves
+faxed
+funcionalidade
+features
+feb &#124
+fev
+fevereiro
+feed &quot
+feed Subscriptions
+rico
+fonteImportadas
+opiniões
+feeds
+feel
+feels great
+feels
+fell
+fence
+fetch count
+fetch
+fetched from
+fetched
+fetching individuals
+fetching more
+fetching
+few
+fewer
+ff &quot
+ff
+field Value
+campo
+fields
+quinze
+fifteenth
+fifth
+fig
+figura
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+ficheiro
+filename
+files
+filesystem
+filing
+fill out
+preenchimento
+fillStyle
+filled
+filling
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+filtro
+filtrada
+filtering
+filtros
+final
+financeiras
+find In
+find exactly what you &apos
+find out what &apos
+localizou
+findbar
+finding
+ajustadas
+finish
+finished evaluating
+finished
+finishing
+fire
+firefox
+firefoxapps
+firewall
+firewalls
+first option
+first party
+primeiros
+caberem
+cinco
+corrigidos
+fixed Width
+fixed width font
+fixed
+fixvideoaudioproblemsfirefoxwindows
+sinalizador
+marcado
+sinalizada
+flame
+piscar
+flashing
+flat equation
+equação
+flexibility and security so you &apos
+flexibilidade
+flexiblebr
+floating &quot
+flutuante
+floor
+floppy
+flr
+focus Variables
+Focar
+focado
+
+folder &quot
+folder subscriptions
+folder
+folders
+siga
+followed by
+seguida
+followers
+following protocols S isn &apos
+seguintes
+segue
+followup
+font Control
+font size
+font
+fontface rule
+fontface
+fontfeaturevalues
+fonts for
+fonts
+fontvariant property
+fontvariant
+footer text
+rodapé
+footinmouth face
+pé
+for &apos
+for &quot
+for Clearing
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+
+for signing
+for writing
+ Identidade
+Localizar nome ou email
+para
+proibidos
+vigor
+forçou
+forçadamente
+forcing all
+forçando
+foreign
+falsificações
+forgery
+esquecer
+forgetting
+esquecida
+form Field
+form Post
+form fields
+form userhost
+formulário
+format
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+formatSNovo
+preferido
+formatted as
+formatadas
+formatting
+formdata on
+formdata
+formed
+forms are
+nested
+forth and
+forth
+forums
+forward slashes
+reencaminhar
+encaminhada
+reencaminhada
+reencaminhado
+forwardmsg
+forwards
+found
+foundout of
+foundout
+founds
+four
+catorze
+fourteenth
+fourth
+fox jumps over your expectations with
+fox jumps
+fox
+fps
+frFR
+frac
+fração
+fragment Shader
+fragmento
+s
+frame
+framed
+framerate
+frames
+frameset
+framesets
+framing
+fraud
+fraudulent
+grátis
+frequently
+fresh
+friday &#124
+sextafeira
+sextasfeiras
+friend
+colegas
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+de
+front facing
+front
+frown face
+triste
+congelado
+ftp
+ftpservidorcombr
+pleno
+fullfeatured
+fullpage
+inteira
+fully
+function
+funcional
+functionality
+functions
+further
+future scans by
+futuro
+fxp Available
+fxp
+gain
+gallery
+garbage Collection
+garbage collection
+significado
+garbled text
+ilegível
+Gateway
+gathering
+gazed
+gb
+gdiplus
+gear icon
+engrenagem
+general Notification
+settings
+geralmente
+generate a
+generate
+gerada
+generation
+generator
+generic Photo
+genérica
+geoenabled preference
+geoenabled
+geolocalização
+geométricas
+geometry visibility
+geometria
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+providencie
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+getAttributeNode
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+obtendo
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+dão
+atribuído
+gives you
+gives
+giving
+glitches
+glob
+global Composing
+global community
+global
+globals
+go Back
+ir
+goes
+going online
+indo
+gone
+good news
+bons
+goodwill
+gopher
+gorithm Identifier
+got it
+arranjou
+governed by
+regidos
+grace
+cede
+concedidos
+grants you
+grants
+gráfico
+placa
+custa
+greater than
+greater
+saudação
+grew more
+cresceu
+grid
+célula da grade
+célula da grelha
+célula do grid
+gridcell
+alça
+controlo
+agrupar
+grouped
+groups
+gt
+gtgt
+guarantee that
+garantimos
+garantida
+adivinhar
+guessed
+descobrindo
+guest is
+guest
+guide you
+guie
+guias
+h
+hTraduction
+ha
+hacking
+had its
+had
+meia
+half past
+half
+hand tool
+hand
+handle S
+lidar
+handled
+handler command
+handler
+trata
+processava
+hands
+defeituosa
+handshakes
+hang Report
+hang stacks
+hang
+hangs
+aconteceu
+happens
+hard drive
+hard
+hardware H
+hardware acceleration
+equipamento
+danificar
+provoca
+has Attachments
+has bookmarked
+confirmou
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+produz
+hash
+hashes
+hashes
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+decidiu
+have gone down
+have paused
+have seen
+have shiny
+have
+haven &apos
+haven
+haves
+having trouble
+having
+head
+cabeçalho
+cabeçalhos
+cabeçalhos mais recentes
+heading level
+cabeçalho
+título
+títulos
+health
+heap
+hear
+height
+held
+hello extension
+hello
+help
+helper
+helpful
+helping make
+ajudando
+helps ma
+helps
+her
+aqui
+oculto
+hide Statistics
+hide Toolbars
+Esconder
+ocultamento
+high Grade
+alta
+higher level
+higher
+grau
+highlight
+realçada
+highlightedS nodes
+destacadoS
+destacador
+realces
+highly recommended
+altamente
+hightailcom
+him
+pressione
+hints
+his or her
+his
+history window
+
+história
+hold
+detém
+home City
+home Country
+home Phone
+home directory don &apos
+residencial
+homepage
+hop limit
+hop
+horizontal lines
+horizontais
+horror
+host
+alojamento
+hosting service
+hospedagem
+hostname
+nomedoservidorporta
+servidorporta
+hostnames
+nomeporta
+hosts
+hotspots
+hour
+horahoras
+horas
+how
+however
+href
+norar
+hrpd
+hstrike
+htm
+html &apos
+html
+htmlstrong
+htmlstrongCookies
+htmlstrongHistory
+htmlstrongseparadores
+htmlstrongjanelas
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http//wwwseamonkeyprojectorg/
+http//wwwseamonkeyprojectorg/releases/seamonkeyVERSION/
+http
+https//addonsmozillaorg/LOCALE/APP/completethemes/
+https//addonsmozillaorg/LOCALE/APP/dictionaries
+https//addonsmozillaorg/LOCALE/APP/themes/sortupandcoming
+https//developermozillaorg/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad
+https//developermozillaorg/ptBR/docs/Tools/Scratchpad
+https
+matiz
+tonalidade
+consecutivos
+iCalendar
+iOS
+ícone
+icons
+ics
+id
+idêntico
+identificador
+identificadores
+identificam
+identidade
+espera
+ocioso
+caso
+iframe
+iframes
+ignorado
+iii
+ilegalis
+s
+image
+imageSmoothingEnabled
+imagemgif
+imagemjpeg
+imagempng
+imageshelpmanaging
+imgmap
+mapaimg
+imgurcom
+imediatas
+immediately
+passarse
+implementar
+implementação
+implícitamente
+implícita
+import
+importante
+imported
+Importando
+impróprios
+incorretamente
+aprimorar
+melhoria
+em
+inacessível
+omissão
+inatividade
+inadequados
+polegadas
+consequente
+incluir
+includeSubDomains
+colocada
+inclusão
+europeu
+incompatíveis
+incompletas
+inconveniência
+incorporar
+ajustea
+aumenta
+indentar
+indentação
+índice
+indicating
+indiretos
+indiretamente
+individualmente
+indivíduos
+ined
+ineficiente
+infinita
+influenciam
+informaçõe
+
+
+inpetor
+inicializado
+inicialmente
+injetar
+ferir
+em linha
+no arquivo
+inlineblock
+inocente
+inovar
+input
+nãoseguro
+inserir
+inserido
+manipulador
+inspecionar
+instalar
+instalações
+instalado
+a instalar
+instalando
+instância
+instantânea
+instantâneos
+invés
+onlineEsses
+intatos
+inteiro
+número inteiro
+integradas
+integrity
+intencionados
+intencionalmente
+intercetou
+intercetar
+interceção
+interessantes
+familiar
+interfaces
+intermédio
+interna
+interpretados
+interprocessual
+invalid
+convite
+convites
+convidar
+envolver
+envolvendo
+for
+é
+isDomain
+isHttpOnly
+isSecure
+t
+não for
+não é
+emitir
+lançado
+s
+expedidor
+s doneYour
+estabelece
+item
+seleciondos
+signatureAlgorithm
+respetivo
+identificou
+jan
+janeiro
+javascript
+jid
+johndoeexamplecom
+johnexamplecom
+Venha
+juntarse
+jpg
+jslintstricter
+jsmith
+jsonjsonlz
+jul
+julho
+jumped
+saltado
+jun
+junho
+indesejadas
+kb
+Acreditamos
+mantêla
+preservados
+teclado
+keyframes
+keys
+palavraschave
+beijar
+conheça
+conhecimento
+conhecidoa
+etiqueta
+rótulo
+etiquetados
+dispostas
+Idioma
+linguagens
+Grande
+última
+últimao
+último
+Escritas atrasadas
+tarde
+rir
+lei
+leis
+layouts
+ldi
+ldif
+leaf
+learn
+deixa
+esquerda
+esquerdo
+maioria
+length
+s go
+nível
+níveis
+lft
+li
+liProcure
+liContate
+liSe
+liEntre
+liPrima
+liO
+liEste
+liTente
+liOs
+coletiva
+responsabilizados
+bibliotecas
+biblioteca
+licenças
+licenciantes
+luz
+brilho
+luminosidade
+timezone
+recéminstalado
+liliConsegue
+liliClique
+liliPressione
+liliAlguns
+liliemNOTA
+limitar
+limitações
+limitadas
+limits
+line
+ligação
+link
+vinculados
+lábios
+lista
+listados
+escuta
+listeners
+indeterminada
+lnk
+Carrega
+carregada
+carregado
+a carregar
+carregando
+local
+idiomas
+localmente
+Localize
+location
+localizações
+apontador
+bloqueado
+registo
+registro
+credencial
+logotipo
+logótipos
+persistentes
+longos
+longdiv
+apresentarse
+procurando
+loop
+perdida
+pouca
+lt
+ltCtrlKgt
+ltCtrlShiftFgt
+ltCtrlShiftKgt
+ltação
+ltbgtnegritolt
+ltcategoriasgt
+ltcanalgt
+ltcomandogt
+ltheadgt
+ltjidgtltmensagemgt
+ltmessagegt
+ltnomegt
+ltnovo
+ltnickgt
+ltnickgtltmensagemgt
+ltapelidogtltapelidogt
+ltparâmetrogtltparâmetrogt
+ltpalavrapassegt
+ltr
+ltsalagt
+ltsalagtltservidorgt
+ltmensgame
+lttargetgt
+ltutilizadorgtltutilizadorgt
+ltutilizadorgt
+ltxExFgt
+ltxExKgt
+ltxKgt
+lu
+moderadom
+máquinas
+feita
+madruwb
+mprimir
+amplia
+eml
+mailbox
+maildir
+mailexemplocombr
+mailto
+principal
+efetua
+tornando
+formado
+malintencionado
+Gerencia
+gerenciamento
+manifest
+manifestjson
+manifestwebapp
+manipula
+manual
+manualmente
+muitos
+mapear
+mapping
+mar
+março
+margem
+mark the
+assinalar
+marcadas
+marking a
+marking
+Markup
+marcação
+masking
+master
+satisfazem
+matched by
+correspondidos
+matcheleatchMore than
+coincide
+corresponde
+corresponder
+matching
+matchutomatically
+material
+math table
+matemática
+matrix
+máx
+maxage
+maximum Length
+maximum permissible
+maximum
+may discontinue
+may update
+maio
+maio | mai | mai
+maybe
+mb of
+mb
+mbox
+me out of here
+pergunte
+mean slower message
+significar
+means you &apos
+significa
+measure a portion
+measure a
+medir
+measurements
+measuring
+mechanism
+mechanisms
+media Sharing
+multimédia
+Médio
+atender
+member
+members
+membersonly
+memory map
+memory measurements
+memória
+menção
+menu Bar
+menu bar
+menu
+menuPath
+menus
+comercializáveis
+merge Warning
+merge all
+mesclagem
+mesh
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+message
+messageDone
+mensagemA
+mensagemS
+messagebr
+encriptadabrPara
+Mensagememl
+mensagememl
+statusgt
+messagemID
+messages Reopen
+mensagens
+mensagens mais recentes
+messaging
+meta
+metadados
+metal posteriors
+metal
+metaviewport tag
+metaviewport
+Medidor
+method &apos
+método
+methodGET
+methodPOST and
+methodPOST
+methodpost
+methods
+microfone
+microsummary
+middle Eastern
+middle
+aquela
+migrate to
+migrate your
+migrar
+migrados
+milímetros
+millisecondPing
+milissegundos
+mimetype of
+mimetype
+mín
+mind
+minheight
+minimonth
+mínima
+minjs
+minor
+mins
+minute minutes
+minuto
+minutosA
+minutominutos
+minutes ago
+minutes …
+minutos
+minwidth em
+minwidth
+misconfiguration
+misconfigured
+misencoded
+mismatch
+mismatched tag
+mismatched
+missed reminders
+alarmes
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+Parêntese
+misspelled word
+misspelled words
+misspelled
+mistake
+mistakes
+mistyped
+mix
+Vários
+mista
+mmultiscripts
+mobile
+mode and can &apos
+porém
+modogt
+model
+modelview
+moderado
+moderator
+moderno
+modes
+alterados
+modificadora
+modifiers
+modify
+module returned
+módulo
+modules
+moduli
+moment
+momentarily
+momentos
+segundafeira
+segundasfeiras
+moneymouth face
+dinheiro
+monitor
+month
+monthS of
+monthS
+mêstodos
+mensalmente
+meses
+more bookmarks
+more powerful
+more savings
+mais
+moreand
+morex
+mais
+most Visited
+most accurate
+most popular
+most
+mostrecently
+mouse Wheel
+rato
+move Down
+move Up
+Afastar
+move emswiftly
+moverse
+moveable
+moved renamed or deleted
+moved renamed
+movidos
+movidoS
+movemail
+movendo
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescription
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+mozVisibilityState &apos
+mozVisibilityState
+mozcmd directory
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+Mozilla Brasil
+Projeto de tradução do Mozilla para Português
+SeaMonkey BR
+brmozdevorg
+mozillaorg
+mozinlinebox display
+mozinlinebox
+mprescripts
+ms
+msf
+msgFilterRulesdat file
+msgFilterRulesdat
+much
+multiline
+multimídia
+multiple links &quot
+múltiplos
+multiplied And
+multiplied by
+multiplicada
+multiprocessamento
+multissemanal
+músicas
+must involve
+must
+my &quot
+my Cert
+my Projects
+my Quick
+my Task
+my Yahoo
+my windows
+minhaa
+mypagehtml &quot
+minhapaginahtml
+n
+nWhen your
+nQuando
+name &quot
+name
+nameSource
+named anchor
+named either
+denominado
+names
+namespace
+namespaces
+narrowing
+native code
+nativo
+natively
+navigate
+navigated
+navegando
+navegação
+navigation Toolbar
+navegação
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+perto
+proximidades
+nearest
+medida
+pressionar
+precisava
+needing to
+needing
+brandShortNamese
+negar
+negados
+negação
+negative
+negotiate an inadequate
+negociar
+negotiating a
+negociada
+Protocol
+neither
+nested Table
+aninhada
+aninhamento
+netnz /
+netnz
+netscape
+
+network Monitor
+network Timeout
+network drive
+network section
+rede
+never Show
+nunca
+new Caledonia
+new Separator
+new Tab
+new Zealand
+new home
+new word
+nova
+novos
+newer
+news client
+notícia
+newsmeuprovedorcombr
+newsgroup subscriptions
+newsgroup
+newsgroups
+newsrc File
+newsrc file
+newsrc
+next gt
+próxima
+próximo
+seguinte
+nicer
+apelido
+nick
+Certificado
+nicknamegt Change
+nicknamegt
+nicknames
+nicks
+nightly
+nikto
+nove
+dezenove
+décimo nono
+nono
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+não
+noMac
+noWin
+nocors&apos
+nocors
+nó
+nodeShow all
+nóMostrar
+nodeValue
+trancado
+nós
+nominative
+non Participant
+non
+nãoASCII
+nonFORTEZZA Certificate
+nãoFORTEZZA
+nonGregoriancalendar
+nãoResponse
+nonUTF encoding
+nonUTF
+nonascii character
+nãoascii
+noncesource
+noncharacter
+nenhum
+nenhuma
+nonempty
+nonfunction pseudoclass
+nãofunção
+nongeneric
+nonincremental Cause
+nãoincremental
+nãofolha
+nonmultiprocess
+nonnavigation
+nonnegative
+nãoparticipante
+nonprintable character
+imprimível
+nonprofit Mozilla Foundation
+instituição
+nonspace in
+nonspace
+nonstandard
+nontext
+nonvoid
+meio dia
+meiodia
+nor
+normalmente
+noscript
+nosniff
+nostore
+not After
+not Before
+not Connected
+not Critical
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+not Installed
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+not checked
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+realizado
+notation be unescaped
+notation be
+notation
+note Slow
+anotação
+nota
+notes
+nothing
+notice
+noticed
+notification Permissions
+notification _
+notification
+notifications
+notificado
+notifier or
+meteorológico
+notify me
+notify
+noting
+nounclass
+nov &#124
+nov
+novembro
+now doesn &apos
+now
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+nsIWindowMediator
+nsIWritablePropertyBag
+num
+numeração
+numbered
+numbers negative
+números
+numerador
+numérica
+nursery Collection
+nursery Eviction
+berçário
+obj Properties
+obj
+object Stores
+object
+objects
+obscured
+observed
+observers
+obtain
+occur
+occured
+acontecido
+occurrence of
+occurrence
+occurrences
+Até
+oct &#124
+out
+outubro
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+of Man
+of Office
+of Operation
+of Sync
+of Validity
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+de
+ofbr
+off paint
+desativado
+desligada
+desligado
+desligar
+offer
+oferecida
+oferecem
+offerings
+offers
+offerxA »
+desconectado
+offline
+offline_apps
+offsets
+often
+ok
+antigas
+older than
+older version of Sync
+older
+oldstyle YouTube
+oldstyle
+omitidas
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+ Servidor
+em
+ligado
+ligar
+once
+one Level
+one moreand
+explicitamante
+oneoff
+ones
+oneshot
+oneubuntucom
+ongoing
+online
+only reloads
+only supports
+only transmitted
+apenas
+onlybr
+opacity in
+opacity
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opcode
+open Web
+open WebIDE
+abrir
+aberto
+opening fence
+abrindo
+opensource
+operating system
+operating
+operation command
+operation failed
+operaçao
+operations error
+operações
+operator expected
+operador
+operators
+chance
+opposed
+optimization
+optimizations
+optimized away
+otimizadas
+optin No
+alertado
+option Group
+opção
+opção da caixa de lista
+optional defaultS
+opcional
+opcionalmente
+options
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+
+ou
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+laranja
+order Received
+order
+organization
+organizações
+organizador
+origin
+originAttributes
+Original
+originally
+originals
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+tipográfico
+outra
+outras
+others
+otherwise it
+otherwise
+our geolocation
+our partners
+nossos
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+proveito
+outage
+outdated
+outgoing
+contorno
+estrutura de tópicos
+perfil
+outlook
+desatualizadas
+output folder
+output
+outside
+over other apps &apos
+over
+sobrecarga
+overlay
+substituído
+override the viewer &apos
+sobrescreva
+sobrescrevendo
+overscript
+overview
+sobrescrever
+sobrescritos
+próprios
+owned
+owner of
+dono
+ownerElement
+responsáveis
+ownership
+p pIf
+p
+pA secure
+pUma
+pAdditional information
+pInformação
+pAttack pages
+pFocos
+pDeceptive sites
+pOs
+pEntering any
+pEntering
+pSe
+pThe browser
+pThe page
+pThe requested
+pA
+pThese types
+pEstes
+pEmbora
+pUnwanted
+pPáginas
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pVocê
+pO
+package
+empacotadas
+pacotes
+espaço
+preenchimento
+page &apos
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+page translation
+page }
+página
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+pages they &apos
+páginas
+paint flashing
+pintura
+painted area
+pintada
+pair a
+coordenadas
+painel
+painel
+panes
+panning
+paper Size
+paper
+paragraph Marks
+parágrafo
+param
+parameter entity
+parâmetro
+parameters
+paranoid
+parent Match
+parent Payload
+parent prefix
+parente
+parse XML
+parse failure
+parse
+analisados
+parser state
+analisador
+analisava
+part of
+despedida
+partial Update
+partial character
+partial
+partially
+participant
+participants from
+participants
+participate
+particular purposes
+particulares
+parties
+partner You
+parceiro
+partners We
+partners work
+parceiros
+parceria
+parts
+party
+partyAre
+pass
+passed to
+passado
+passive ’
+passive
+passwdtxt
+textosenha
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+
+senha
+passwordLeave
+passwordStored
+passwordprotected
+passwords
+past
+colagem
+patch apply
+patch
+path
+paths starting
+paths
+S
+pattern
+Pausar
+paused —
+pausa
+payload
+payment provider
+pagamentos
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+visitálos
+s
+pares
+peers &apos
+peers
+pending dump
+pendente
+people &apos
+people wouldn &apos
+pessoas
+per
+percentagem
+porcentagem
+percentage of
+porcentagem
+percnt
+percnt
+perform caseinsensitive
+perform querySelectorAll
+Diferencia
+performance
+performed Trying
+executou
+executargt
+performing
+periodicamente
+permanent exception
+permanent
+permanently deleted
+permanentemente
+permissible length
+permissible
+permission denied
+permission
+permissions
+permit
+permitted
+persistent logs
+logs
+person &apos
+person who holds
+pessoa
+personal Card
+pessoal
+personalhttp//wwwmozillaok
+personalidade
+phasang
+phasor
+frase
+Fixar
+ping
+Proporção
+pixeis
+pixels
+pixels borda
+placeholder
+Simples
+plano
+plataforma
+reproduzir
+reprodução
+favorm
+plugin
+plugins
+mergulhou
+pm
+png
+podcast
+podcasts
+indicam
+referese
+policy
+poly
+pop_up_blocking
+populares
+popupO
+Numero
+porção
+porções
+portas
+position
+posicionamento
+Possível
+postMessage
+posts
+potenciais
+potencialmente
+poderoso
+ppO
+ppCódigo
+ppAlgumas
+pprint
+precisão
+préconfiguração
+preferência
+preferências
+preferonline
+preferivelmente
+Prefixar
+a preparar
+preparando
+pré
+presentes
+apresentou
+preserved
+préajustes
+premir
+pressionado
+pressão
+presub
+presubscript
+presup
+presuperscript
+simulando
+preventDefault
+preveniu
+impedindo
+prévia
+previamente
+preço
+primário
+primev
+t
+imprima
+printable
+priorizar
+prioridade
+privacy
+privativaAbertas
+privilégio
+privilegiados
+Possivelmente
+problema
+prosseguir
+prosseguimento
+processada
+processos
+Processando
+processador
+produzir
+produto
+profile
+perfilador
+perfilar
+progresso
+vetados
+projeto
+promessa
+prompt
+propriedads
+proteger
+protegidas
+proteção
+protege
+protocolo
+Codificar
+protocolos
+provar
+proporcionar
+fornecidos
+s
+forneceder
+provedores
+fornecendo
+legais
+proxy
+pseudoclasse
+pseudoclasses
+pseudoelemento
+pseudoheader
+pspan
+público
+publicamente
+publicadas
+Publicando
+desloque
+pulliNão
+pulliComo
+pulliPode
+pulliEnganouse
+pulliA
+pulliPor
+punitivos
+comprar
+propósitos
+push
+coloca
+px
+q
+qmozillaorg
+qstrongww
+qstrongwww
+qualidade
+query
+querycgi
+questões
+raposa
+cota
+quotas
+citada
+quoted
+qwxyz
+rad
+radical
+rádio
+radius
+range
+taxas
+raw
+Res
+atingir
+alcançáveis
+alcançado
+atinge
+lesse
+legível
+apenas de leitura
+somente leitura
+pronta
+descansado
+reason
+motivos
+recebem
+recebeu
+recentemente
+s
+
+receptores
+reconhecível
+recomendações
+recomendado
+recomendações
+recomenda
+reconfirmação
+reconectarse
+reconexão
+grave
+gravada
+gravados
+auxiliálo
+acontece
+rect
+visual
+recursiva
+redirecionado
+redirecionando
+Reduza
+ativará
+referirse
+referência
+referenciada
+referral
+recusa
+marcou
+regular
+região
+deslocáveis
+registados
+regulamentos
+repensada
+reinstalar
+rejeitado
+reentrar
+relacionada
+reversa
+relação
+relativo
+relativamente
+lançamento
+releaseNotesURL
+relevância
+relevante
+Recarregue
+recarregados
+a recarregar
+recarregando
+manterse
+diaRestam
+permanece
+lembrará
+lembrado
+vencidos
+remota
+remoto
+elimine
+removeEventListener
+removidos
+Removendo
+Renomear
+renomeada
+renderizado
+renderizar
+renegociação
+reabra
+reparar
+reparada
+reparando
+reprocessada
+recorrentes
+repete
+repeatautofit
+repetida
+repetido
+repetidamente
+repetições
+substitui
+substituição
+substitutos
+substituindose
+respondida
+respondido
+Repostas
+Re
+Relatar
+classificados
+indica
+reporturi
+representa
+pedido
+requestAnimationFrame
+requisitado
+solitou
+solicitem
+t send message unless
+necessário
+obrigatório
+requisitos
+reamostrar
+reservam
+reservada
+reposta
+redimensione
+Resolvendo
+resolveu
+recurso
+transformamse
+respondeu
+respondendo
+resto
+Reinicia
+restauração
+restaurados
+restaurar
+restringir
+restringidas
+resultar
+resultadoVer
+resultados
+retomar
+conservado
+retidos
+obtida
+teclar
+returned
+retweeting
+reutilizálos
+revelar
+reverter
+reveja
+request
+reviewinfo
+revisões
+revogados
+rgb
+rght
+direita
+direito
+risco
+riscoCuidado
+rndbox
+sala
+salas
+raiz
+root
+Girar
+arrematam
+arredondada
+rotina
+linha
+linhae
+ll
+rr
+rtl
+ruby
+regra
+réguas
+regras
+rulesbackupdat
+administrado
+funcionamento
+s
+disse
+same
+sameorigin
+amostra
+amostrada
+amostras
+sandbox
+saturação
+sábado
+sábados
+poupar
+guardámos
+poupança
+salvando
+poupança
+Saw
+say
+diz
+redimensionado
+golpe
+mapeamento
+scanner
+digitalizações
+schemes
+âmbito
+scratchpad
+script
+scripted
+scripting
+scripts
+scriptsrc
+arrasto
+suave
+selado
+seamonkey
+pesquisa
+pesquisas
+seg
+segundoTempo
+segundos
+segundosegundos
+secpk
+secpr
+segredo
+secção
+seção
+sectk
+sectr
+secure
+seguramente
+segurança
+veem
+seeing doctype
+seek
+a procurar
+procurando
+suportar
+pareça
+seen but
+visualizada
+select &quot
+select camera
+select
+selected line &apos
+selecionado
+selecting
+selection
+selections above
+selections
+selectlabel
+seletor
+selectors separated
+seletores
+selects
+autoassinado
+semicolon
+send Feedback
+send For
+send
+sender &apos
+sender message
+sender
+enviando
+sends
+confidenciais
+sensitivity
+sent Cookie
+enviou
+sep &#124
+set
+separate tags
+separada
+separated
+separadamente
+separating
+separator character
+separador
+set
+setembro
+sequentially as a waterfall
+sequentially
+serial Number
+serial number
+série
+series
+serif
+server &apos
+server Quota
+
+server incorrectly
+server maintenance
+server that can &apos
+servido
+servers Maybe
+servidores
+serves
+service providers
+service worker
+service
+services
+servindo
+session ID
+session Id
+session Statistics
+session cache
+session
+sessions
+set Priority
+set browsercachediskenable
+set strokeStyle
+defina
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+setTimeout
+setUserData
+setVelocity
+conjuntos
+definição
+settings &#124
+
+configurações
+setup options
+setup
+seven
+dezessete
+décimo sétimo
+sétimo
+several ways
+several
+shader Editor
+shader compile status
+shader compile
+shader
+shadows variable
+shadows
+shall control
+shall
+shape &quot
+shape
+compartilhar
+shared Workers
+compartilhado
+sharedLongDesc
+compartilha
+compartilhando
+sheet
+sheets
+shell
+escudo
+shiftKeylabel
+Shiftclick
+shiny metal posteriors which
+shiny
+shopping
+curta
+atalho
+shortcuts
+shorten this
+diminua
+shorter file
+shorter
+shortly
+shortname
+should keep
+should make
+devia
+shouldn &apos
+shouldn
+show Cookies
+show resultShow
+show through
+abrilas
+showall &apos
+showall
+showing repairing
+showing
+apresentada
+mostradasRespostas
+shows
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+shutdown
+shutting down
+shutting
+sibiling
+lado
+sidebar
+sidebarName
+laterais
+sign in
+inicie
+sinal
+signature algorithms
+signature
+signatureAlgorithm
+signatures
+assinou
+s
+assinante
+signers found
+signatários
+significante
+signing certificate
+signing
+signup
+silêncio
+silently authenticates
+silenciosamente
+similar
+simple Measurements
+simple XLink
+simple
+simplificadas
+simply need
+simply
+simulação
+simulator installed
+simulator
+since
+single
+singlesignon
+site &apos
+site doesn &apos
+site
+sitename &apos
+sitename
+sitenat
+sites
+seis
+sixteen &#124
+dezesseis
+décimo sexto
+sexto
+size
+sizes
+skip Integration
+skip this
+pular
+Passando
+ignorará
+slash operators
+slash
+slashes ie
+slashes
+fatia
+controle deslizante
+controlo de deslize
+slot
+vazias
+slow Motion
+slow SQL
+slow down
+slow ×
+demorada
+slowing
+slowly
+Pequeno
+smaller
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+sorriso
+smooth scrolling
+smooth
+smtpexemplocombr
+snapshot
+capturas
+snews
+so it &apos
+so it can &apos
+so you &apos
+portanto
+soap
+socket
+software makers
+softwares
+solid Border
+solid circle
+sólido
+solução
+Possíveis
+solve a
+solucionar
+some cool
+some printing
+some sample
+some unspecified
+algumas
+somebody &apos
+somebody
+someone isn &apos
+alguém
+something
+sometimes
+somewhere earlier
+somewhere
+breve
+sorry BrandShortName can &apos
+re
+desculpenos
+sort
+sound file
+sound
+sounds like
+sounds
+source software
+source
+códigosfonte
+space Fantasy
+space between
+Space
+espaços
+spam
+span class &apos
+span
+spanThis
+spanbrandShortName
+spandesativado
+spanativo
+preenche
+spanspan
+speak now
+fale
+speaking
+spec in
+spec
+special incidental
+special kinds
+especial
+specific command
+específico
+especificamente
+specification
+specified
+specifies
+specify preferred
+especificar
+specifying a
+specifying acceptcharsetutf
+especificando
+speed
+speedOfSound
+spell checking
+spell
+spellchecker
+spelling
+gastar
+spent
+spin button
+rotativo
+dividida
+patrocinados
+SPOOL
+spyware
+rquad
+sqrt
+square root
+square
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+estabilidade
+estável
+stack trace
+stack
+stacks
+standalone
+standard time
+standard toBlob
+standard
+standards mode
+standards
+star rating
+star
+com estrela
+marcada com estrela
+start Debug
+start Simulator
+start
+started finding
+started
+starting with &apos
+iniciados
+startlabel
+startmozillaorg
+starts
+startup
+state
+intrução
+condicionais
+statistics about
+statistics
+stats
+status &apos
+status bar
+estado
+posição
+stay
+roubar
+step Over
+etapa
+ultrapassadas
+stepped
+passo
+steps out
+steps
+Ainda
+roubado
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+stop
+parada
+stopping
+stops
+storage quotas
+Armazenamento
+storages
+repositório
+armazenada
+stores information
+stores
+armazenando
+transmitir
+strength
+strict protection
+estrita
+traço
+string literal
+string
+strings or
+strings
+strokeStyle
+strong
+strongAplicações
+strongDispositivo
+strongThe Book of
+strongThe Book
+strongO
+stronger Emphasis
+stronger
+strongexamplecom
+stronghttp
+strongly recommends
+strongly
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+estruturada
+estruturas
+studies
+study Findings
+study
+style Editor
+style Inspector
+style endexpand
+style sheet
+style
+styles
+stylesheet
+comprimidas
+stylesrc
+sub
+subdiretório
+subdocumento
+subdomain
+subdomínios
+subfolder
+Subpastas
+subgrid
+subgrupos
+subject Reminder
+assunto
+submission to
+submission
+submit Query
+submit bugs
+submit information that &apos
+Submeta
+submits
+submetido
+submitting your
+submitting
+subresource
+subscribe Calendars
+subscribe
+inscritas
+subscritaImportadas
+subscribing
+subscript
+subscrito
+subscription
+subscrições
+subsession data
+subseção
+substituting
+subthread
+subthreads
+subtree
+sucedida
+bemsucedida
+successful
+successfully Transmitted
+êxito
+tais
+suddenly
+sufficient
+sugerir
+suggested Contribution
+suggested Tags
+sugeridos
+suggestion
+sugestões
+sugere
+suit
+adequadas
+suite
+suites are
+suites
+soma
+summary file
+summary
+convicado
+Domingo
+domingos
+sup
+superscript pair
+sobrescrito
+superscript
+superseded by
+suplantado
+adultos
+supplied
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+support
+válidas
+supporting
+supportmozillaorg
+supports
+hajam
+surface area
+superfície
+surprised face
+surpreso
+surrogate
+surrounding environment
+surrounding
+survey is
+survey
+apoderado
+Suspeita
+suspeito
+sutomatically
+svSE
+svg
+switch to
+trocar
+trocado
+switching
+o símbolo
+symbols
+sync them
+sync
+syncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+sincronizadas
+synchronization
+synchronize
+synchronous
+sincronizado
+synctitlepairlabel
+syntax Highlighting
+syntax
+system Integration
+system beep
+sistema
+systemDate &apos
+systemDate
+systems this
+systems
+t believe
+t delete
+t
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+aba
+separador
+separadorA
+tabdelimited tab
+tabdelimited
+table &apos
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+table rows
+tabela
+tablets
+abas
+tabtxt
+Rotular
+aplicada tag
+com a tag
+com etiqueta
+com rótulo
+etiquetado
+rotulada
+tagname
+tags
+take up
+tomar
+tirada
+takes
+taking too
+taking
+talk
+tampering
+tapping
+target
+targeted document
+targeted
+task
+tarefaO
+taskbar
+tasks
+tastes
+tbl
+technical Details
+técnicos
+technique
+techniques
+tecnologia
+telefone
+tell websites
+instruir
+tells
+template
+templates
+temporarily
+temporary outage
+temporários
+dez
+tename &apos
+tentativamente
+décimo
+tenured objects
+tenured
+ter Lock API
+term &quot
+termo
+terminate a
+terminaram
+terminated by xslmessage
+terminated
+termination
+terms
+teste
+testeics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+text
+textContent attribute
+textContent
+textonly
+texture source
+textura
+th
+than minimum
+than
+thank
+thanks for
+thanks
+that &apos
+that can &apos
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+t be keeping it
+that you &apos
+that
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+the Grenadines
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+the emtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+subrecurso
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+the visualization
+the webapp manifest isn &apos
+the webapp
+the wildcard
+windowconsole
+submenu
+furto
+their defaults
+their
+deles
+tema
+themed
+themes
+then touching
+`Ficheiro
+s
+there
+therefore
+these organizations
+these
+they &apos
+they expire
+they require query
+eles
+things you
+coisas
+think I &apos
+pensamos
+thinkers
+pensar
+acha
+third Party
+third parties
+terceira
+thirdparty cookies
+thirdparty software
+thirdparty
+thirteen &#124
+treze
+thirteenth
+trigésimo
+thirty &#124
+thirty first
+thirty one
+trinta
+this &quot
+this Computer
+this channel &apos
+this decision
+t
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+s
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+neles
+thisIf
+thisa
+esses
+though
+pensou
+centenas
+thread &quot
+thread Hangs
+thread killed
+thread watched
+thread
+threads
+três
+gerou
+through inaction
+conduzir
+thunderbird
+thursday &#124
+quintafeira
+quintasfeiras
+ticket was
+ticket
+ties
+til &#124
+til
+tile replacing
+tile
+tiles
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+time
+vezOcorre
+timed Out
+timed
+timedout
+cronologia
+timelines
+timeout
+timer Name
+timer started
+temporizador
+timers
+temporizadores
+vezes
+timesaving
+timestamp
+temporais
+timezone &quot
+estimado
+timezonepersonalg
+timezoner message doesn &apos
+temporizadoras
+título
+até
+para
+para o
+padronizado
+hoje
+alternar
+token
+amanhã
+língua
+demasiado
+retirou
+mão
+barra de ferramentas
+dica
+dica de ferramenta
+tooltips
+superior
+topo
+tiveram
+touch
+aproximar
+trace
+traces
+tracing
+tracing
+track
+rastreadas
+rastreadores
+faixas
+comerciais
+tráfego
+treinar
+transação
+transferir
+transferidos
+transform
+transformação
+transformstyle
+trânsito
+translate
+traduzida
+Traduzindo
+transmitida
+tratar
+tratados
+tree
+induzir
+Tentado
+despoletada
+troubleshooting
+true
+verdadeiro
+truncar
+truncada
+truncando
+considera
+fiável
+tente
+terçafeira
+terçasfeiras
+doze
+vigésimo
+vinte
+dois
+txt
+areatexto
+txtarea
+forme
+digitando
+u
+uSair
+ul
+ulliPode
+inaceitável
+autorizadas
+indisponível
+não disponível
+ocupado
+Unbalanced curly
+desbloquear
+desbloqueada
+desmarqueo
+desmarcado
+não verificado
+incomum
+confirmados
+indeciso
+nãodeclarado
+indefinido
+under
+underscript
+compreender
+destinatariosnaodivulgados
+destinatariosnaorevelados
+destinatários não revelados
+desfazer
+revertida
+descriptografadas
+aplicável
+decodificados
+prevista
+inesperadamente
+infelizmente
+não inicializado
+desinstalar
+desinstalou
+desinstalador
+rovavelmente
+desconhecido
+baixa
+ilimitado
+dissociar
+desbloqueio
+unrecoverable
+remover registo
+não selecionado
+nãoenviadas
+instável
+desinscrito
+unsupported
+sem nome
+sem título
+sem nomeS
+sem títuloS
+nãoverificados
+unwilling
+unwrap
+sobe
+atualizou
+disponibilidade
+atualizálo
+updiagarrow
+updiagstrike
+atualizar
+eliminados
+url
+urlprefix
+usável
+usd
+s code attribute
+utilizam
+utiliado
+s
+msilva
+usuario
+utilizador
+utilizadordomínio
+usuárioservidor
+usuários
+usa
+usando
+habituais
+costuma
+utf
+Utilitários
+utomatically
+v
+vCard
+t
+vS
+válido
+Valida
+validado
+validation
+valor
+aproximados
+variável
+variedade
+vcf
+A vendorShortName
+vendorShortName
+vendorURL
+verbo
+verificável
+comprovar
+versão
+versões
+vertical
+vibrar
+vídeo
+vídeos
+interceptem
+viewdiscoverlabel
+viewport
+viola
+violation
+violações
+visibilidade
+prefixados
+visíveis
+visitou
+visitado
+visitantes
+retângulo
+voz
+vstrike
+vulnerabilidades
+XSS
+vulnerável
+espere
+waitUntil
+esperando
+querer
+alertará
+alertas
+avisos
+garantias
+desavença
+estivesse
+monitorizados
+ve rebuilt
+t
+somos
+fraca
+otimiza
+webdav
+website
+websites
+quartafeira
+quartasfeiras
+semanaa
+Toda semana
+semanalmente
+semanas
+peso
+Bemvindos humanos
+bemvindo
+foiram
+s
+roda
+quando
+t
+metal
+enquanto
+resulta
+universal
+passará
+win
+window
+windowcontent
+windowed
+windows
+piscando
+quis
+with
+within
+t keep any browser
+palavra
+servir
+profissional
+worker
+workers
+trabalhando
+mundo
+precise
+iriam
+encaixados
+wrapper
+wrappers
+gravável
+para escrita
+balanceada
+errados
+escreveu
+www
+wwwexemplocom
+wwwfirefoxcom
+wwwservidorcombr
+wwwmeuservidorcom
+wwwopenhorg
+wwwstopbadwareorg
+x
+xS
+xhrspecwhatwgorg
+xjavascript
+Muito grande
+xml
+xmlns
+xpi
+xslmessage
+Muito pequeno
+xuserdefined
+xwestern
+Maior
+Menor
+xyxy
+coordenada
+anos
+gritar
+sim
+ontem
+d like to
+t
+lendo
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+tuas
+identificasse
+yousenditcom
+zero
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+zoom
+ampliar

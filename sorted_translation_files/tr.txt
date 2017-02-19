@@ -1,0 +1,9506 @@
+ rights …
+/Galapagos
+A ServiceWorker
+Bir
+AB _
+AB
+ACL
+ADB
+EKLENTİLER
+NEJ SA NATA'A
+AEC Logging
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ASN
+ATT Mail
+ATT
+AUS
+AVA
+Aa
+Aaiun
+Ababa
+Abandon unsaved changes
+vazgeçip
+Abbreviate
+Kısaltma
+Abazaca
+Abort
+sonuçsuz
+About Your
+Hakkında
+Above
+Accelerated
+Accent Lowercase
+Accent Uppercase
+Vurgulu
+Kabul et
+Acceptance
+Accepted
+Erişimi
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+AccessControlAllowMethods
+AccessControlAllowOrigin
+Erişilebilirlik
+Huaj gatu'
+Account &quot
+Account Settings &#124
+Hesap
+Accountquot
+Hesaplar
+yapılandırın
+Account…
+Kısa Ad
+Eylem
+İşlemleri
+Dugi'iaj sun'
+Etkinleştir
+Etkinleştirildi
+Activations Directory
+Etkin
+Actively block
+Endişeye
+Etkinlik
+Actual Size
+Adak
+Adapter
+Adapters
+Adb
+Ekle
+Ekleme tarihi
+Addis Ababa
+Addis
+Additional Tools
+Additional
+Eklentisi
+Addons Installed
+Eklentiler
+Nutò'sa ruguj ñu'unj
+Sa ga'ue nutò'
+Sa ga'ue nùtat doj
+Sa rugu ñun'unj
+Sa rugu ñunúnj
+Sa ruguj ñu'unj
+Addr
+Address Book
+Address Books
+Adres
+AddressBook
+Addressbook
+Adresler
+Adresler
+Adds
+Ekle
+Ekle…
+Adjust
+yönetme
+Administrative Assistant
+Administrative limit
+Yönetim
+Administrator
+Adobe Flash
+Adobe
+Advance
+Advanced Property Editor
+Advanced info
+Gelişmiş
+Sa huaj ñaa
+Sa huaj ñaan
+Gelişmiş…
+Afar Dili
+Affects multiple
+Affects
+Affiliation Changed
+Birleşme
+Afganistan
+Afrika/Abidjan
+Afrika/Akra
+Afrika/Cezayir
+Afrika/Asmara
+Afrika/Bamako
+Afrika/Bangui
+Afrika/Banjul
+Afrika/Bissau
+Afrika/Blantir
+Afrika/Brazzavil
+Afrika/Bujumbura
+Afrika/Kahire
+Afrika/Kazablanka
+Afrika/Ceuta
+Afrika/Konakri
+Afrika/Dakar
+Afrika/Cibuti
+Afrika/Douala
+Afrika/Freetown
+Afrika/Gaborone
+Afrika/Harare
+Afrika/Johannesburg
+Afrika/Juba
+Afrika/Kampala
+Afrika/Hartum
+Afrika/Kigali
+Afrika/Kinşasa
+Afrika/Lagos
+Afrika/Libreville
+Afrika/Lome
+Afrika/Luanda
+Afrika/Lubumbashi
+Afrika/Lusaka
+Afrika/Malabo
+Afrika/Maputo
+Afrika/Maseru
+Afrika/Mbabane
+Afrika/Mogadişu
+Afrika/Monrovia
+Afrika/Nairobi
+Afrika/Ndjamena
+Afrika/Niamey
+Afrika/Nouakchott
+Afrika/Ouagadougou
+Afrika/PortoNovo
+Afrika/Tripoli
+Afrika/Tunis
+Afrika/Windhoek
+Africa
+African Republic
+Afrika
+Afrikaans Dili
+Sonrasına
+Again &quot
+Again
+Yaş
+agent
+Aggregate
+Ago
+Agree
+anlaşmasını
+Aires
+Akan Dili
+Akrotiri
+Alarm
+Arnavutluk
+Arnavutça
+Alert dialog
+Alert record
+Uyarı
+Cezayir
+Algorithm Parameters
+Algoritması
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+Takma ad
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Hizala
+Hizalama
+Hepsi
+Hepsini
+Tümü
+Tümünü
+Allman
+ayrıldı
+Allocation Trigger
+Allocation
+Atamalar
+Allow First
+Allow autoplay
+Ga'nin
+Ga'nin'
+Ga'nïn
+Ga'nïn'
+İzin Ver
+İzin ver
+Allowed
+Allowing
+Allows
+İzin ver…
+Almost done
+Almost
+Alpha
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Although
+Her zaman
+Nigànj chre
+Amerika/Adak
+Amerika/Anchorage
+Amerika/Anguilla
+Amerika/Antigua
+Amerika/Araguaina
+Amerika/Arjantin/Catamarca
+Amerika/Argentina/Cordoba
+Amerika/Arjantin/Jujuy
+Amerika/Arjantin/Mendoza
+Amerika/Arjantin/Salta
+Amerika/Arjantin/Tucuman
+Amerika/Arjantin/Ushuaia
+Amerika/Aruba
+Amerika/Asuncion
+Amerika/Atikokan
+Amerika/Bahia
+Amerika/Barbados
+Amerika/Belem
+Amerika/Belize
+Amerika/BlancSablon
+Amerika/Bogota
+Amerika/Boise
+Amerika/Cancun
+Amerika/Caracas
+Amerika/Cayenne
+Amerika/Cayman
+Amerika/Chicago
+Amerika/Chihuahua
+Amerika/Creston
+Amerika/Cuiaba
+Amerika/Curacao
+Amerika/Danmarkshavn
+Amerika/Dawson
+Amerika/Denver
+Amerika/Detroit
+Amerika/Dominica
+Amerika/Edmonton
+Amerika/Eirunepe
+Amerika/Fortaleza
+Amerika/Godthab
+Amerika/Grenada
+Amerika/Guadeloupe
+Amerika/Guatemala
+Amerika/Guayaquil
+Amerika/Guyana
+Amerika/Halifax
+Amerika/Havana
+Amerika/Hermosillo
+Amerika/Indiana/Indianapolis
+Amerika/Indiana/Knox
+Amerika/Indiana/Marengo
+Amerika/Indiana/Petersburg
+Amerika/Indiana/Vevay
+Amerika/Indiana/Vincennes
+Amerika/Indiana/Winamac
+Amerika/Inuvik
+Amerika/Iqaluit
+Amerika/Jamaica
+Amerika/Juneau
+Amerika/Kentucky/Louisville
+Amerika/Kentucky/Louisville
+Amerika/Kralendijk
+Amerika/Lima
+Amerika/Maceio
+Amerika/Managua
+Amerika/Manaus
+Amerika/Marigot
+Amerika/Martinique
+Amerika/Matamoros
+Amerika/Mazatlan
+Amerika/Menominee
+Amerika/Merida
+Amerika/Metlakatla
+Amerika/Miquelon
+Amerika/Moncton
+Amerika/Monterrey
+Amerika/Montevideo
+Amerika/Montreal
+Amerika/Montserrat
+Amerika/Nassau
+Amerika/Nipigon
+Amerika/Nome
+Amerika/Noronha
+Amerika/Ojinaga
+Amerika/Panama
+Amerika/Pangnirtung
+Amerika/Paramaribo
+Amerika/Phoenix
+Amerika/PortauPrince
+Amerika/Recife
+Amerika/Regina
+Amerika/Resolute
+Amerika/Santarem
+Amerika/Santiago
+Amerika/Scoresbysund
+Amerika/Shiprock
+Amerika/Sitka
+Amerika/Tegucigalpa
+Amerika/Thule
+Amerika/Tijuana
+Amerika/Toronto
+Amerika/Tortola
+Amerika/Vancouver
+Amerika/Whitehorse
+Amerika/Winnipeg
+Amerika/Yakutat
+Amerika/Yellowknife
+Amerika
+Amerika Samoası
+American
+Amharic Dili
+Siteyi
+Analysis …
+Analysis
+Analiz et
+Çıpa
+Anchorage
+Çapalar
+Ve
+Andorra
+Android tablets
+Android&apos
+Android
+Android™
+Angeles
+Angola
+Anguilla
+Animate app
+simgesini
+Animasyon
+Animasyonlar
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+tatilDurumSatıcılarSeyahatTatil
+işareti
+Announces
+Annoyances
+Another
+Answer
+yanıtları
+Antarctic Lands
+Antarktika
+Antarktika/Casey
+Antarktika/Davis
+Antarktika/DumontDUrville
+Antarktika/Macquarie
+Antarktika/Mawson
+Antarktika/McMurdo
+Antarktika/Palmer
+Antarktika/Rothera
+Antarktika/Syowa
+Antarktika/Troll
+Antarktika/Vostok
+Antarktika
+AntiVirus
+Antigua and Barbuda
+Antigua
+Antilles
+Antivirüs
+Any
+AnyText
+Anywhere
+App can &apos
+Aplikasion
+Uygulama
+AppCache
+AppCacheUtils
+Uygulama Menüsü
+AppName Uninstall
+AppName
+Appcache validated
+Appcache
+Görünüm
+Appendices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle çıkarma
+AppleSingle
+Applelink
+Applet
+Uygulaması
+Uygulamalar
+Uygula
+Applying update
+Applying
+etkinlik oluştur
+Onaylayan
+Uygulamalar
+Nis
+Nisan
+Arab
+Arabistan
+Arabic MacArabic
+Arabic Windows
+Arapça
+Aragon Dili
+Arşivle
+Archived
+Arşivler
+Arşivleme
+Arktik/Longyearbyen
+Emin
+Alanı
+Arjantin
+Arial
+Ermenistan
+Ermenice
+Ok
+Artikulu
+Yazılar
+Artist
+Aruba
+As Laid Out
+As Quotation
+As
+Artan
+Artarak
+Ascension and
+Ascension
+Ashmore
+Asya/Aden
+Asya/Almaty
+Asya/Amman
+Asya/Anadyr
+Asya/Aqtau
+Asya/Aqtobe
+Asya/Aşkabat
+Asya/Bağdat
+Asya/Bahreyn
+Asya/Bakü
+Asya/Bangkok
+Asia/Barnaul
+Asya/Beyrut
+Asya/Bişkek
+Asya/Brunei
+Asya/Çita
+Asya/Choibalsan
+Asya/Chongqing
+Asya/Colombo
+Asya/Damascus
+Asya/Daka
+Asya/Dili
+Asya/Dubai
+Asya/Duşanbe
+Asya/Gaza
+Asya/Harbin
+Asya/Hebron
+Asya/Hovd
+Asya/Irkutsk
+Asya/İstanbul
+Asya/Jakarta
+Asya/Jayapura
+Asya/Kudüs
+Asya/Kabul
+Asya/Kamchatka
+Asya/Karachi
+Asya/Kaşgar
+Asya/Katmandu
+Asya/Khandyga
+Asya/Kolkata
+Asya/Krasnoyarsk
+Asya/Kuching
+Asya/Kuveyt
+Asya/Macau
+Asya/Magadan
+Asya/Makassar
+Asya/Manila
+Asya/Muscat
+Asya/Nicosia
+Asya/Novokuznetsk
+Asya/Novosibirsk
+Asya/Omsk
+Asya/Oral
+Asya/Pontianak
+Asya/Pyongyang
+Asya/Katar
+Asya/Qyzylorda
+Asya/Rangoon
+Asya/Riyad
+Asya/Sakhalin
+Asya/Samarkand
+Asya/Seul
+Asya/Shanghai
+Asya/Singapur
+Asya/Srednekolymsk
+Asya/Taipei
+Asya/Taşkent
+Asya/Tiblis
+Asya/Tahran
+Asya/Thimphu
+Asya/Tokyo
+Asya/Ulaanbaatar
+Asya/Urumqi
+Asya/UstNera
+Asya/Vientiane
+Asya/Vladivostok
+Asya/Yakutsk
+Asya/Yekaterinburg
+Asya/Yerevan
+Asya
+Asian
+Ask
+Asks how
+belirtilmediyse
+Assam Dili
+Assembling mail
+Assembling messageDone
+birleştiriliyor
+Assistant
+Associated
+Assurance
+Asturias Dili
+Async
+Asynchronous Pan
+Asynchronous
+Atlantik/Azores
+Atlantik/Bermuda
+Atlantik/Kanarya Adaları
+Atlantik/Faroe
+Atlantik/Madeira
+Atlantik/Reykjavik
+Atlantik/Stanley
+Atlantik
+Atolü
+Atom
+Ek
+Ekle
+Attached
+Ek
+Ek olarak
+Ek olarak ilet
+AttachmentRemove
+Ekler
+Attack Site
+Attack
+Attempt to
+Attempt
+Denemeler
+Katılım
+Attendee
+Katılımcılar
+Attention
+Öznitelik
+Öznitelikler
+Attribution
+Auckland
+Nanee
+Ses
+AudioBufferSourceNode
+AudioChannel
+PannerNode
+speedOfSound
+AudioListenerDeprecated
+AudioNode Inspector
+AudioNode
+AudioParam does
+AudioParam
+AudioParams
+Ağu
+Ağustos
+geleceğini
+Avustralya/Adelaide
+Avustralya/Brisbane
+Avusturalya/Currie
+Avustralya/Darwin
+Avusturalya/Eucla
+Avustralya/Hobart
+Avustralya/Lindeman
+Avustralya/Melbourne
+Avustralya/Perth
+Avustralya/Sidney
+Avustralya
+Avusturya
+Authenticated
+Kimlik doğrulanıyor
+Authentication method &apos
+Yetkilendirme
+Yazar
+Authored
+Yetkili
+Authority unnamed
+Makamına
+Yetkilendir
+Authors
+Auto Increment
+Auto Update
+Otomatik
+AutoA
+AutoConfig Alert
+AutoConfig
+Otomatik Algıla
+Otomatik algıla
+Otomatik tanı
+Otomatik tanıma
+AutoJoined Channels
+AutoJoined
+Otomatik tamamla
+Tamamlama
+Otomatik algıla
+Otomatik girinti
+Otomatik
+Otomasyon
+Müsait
+Uygun
+Avarca
+Avesta Dili
+Ort
+Hizmet
+Uzakta
+Aymara Dili
+Azerbaycan
+Azerice
+B
+BCC
+BBelge
+Arkaplan
+ENGELLENDİ
+BPHaberin
+BİMZALI
+Geri
+Geri dön
+Na kaa skoo
+Sa gachin
+ucu
+Arka Plan
+Arka plan
+Planıbmp
+Backspace
+yedekleme
+Yedekle…
+Hua a'na' ma
+Kötü
+Bahamalar
+Bahia
+Bahreyn
+Baker
+Baltık
+Bambara Dili
+Banderas
+Bangladeş
+Şeria
+Banka
+çubuğu
+Barbados
+Barbuda
+Barthelemy
+Base
+Asıl
+Başkırt Dili
+temelleri
+Baskça
+Bassas da
+Pil
+Körfezi
+Bcc
+Gizli Alıcı
+Öncesine
+Beyaz Rusya
+Belarus Dili
+Belçika
+Belize
+Bengal Dili
+Bengalce
+Benin
+Bermuda
+Beulah
+Butan
+Big
+BigHKSCS
+Daha Büyük
+Bihari Dili
+Bing
+Google
+Doğum
+Doğum Günü
+Bislama Dili
+İki haftada bir
+Engelle
+Engellendi
+Nitaj si huaj nayi'nin
+engelleyici
+beslemeleri
+Boa
+Gövde
+İleti gövdesi
+Uydurma
+Bokmal
+Kalın
+Bolivya
+Bonaire
+Defterinin
+Sa arajsun nichrò' doj
+Sa raj sun nichro' doj
+Yer imi
+Yer imlerine ekle
+İmlenmiş
+Nej sa arajsun nichrò' doj
+Nii sitio nia´ra ka tu sa´a
+Sa araj sun nichrò' doj
+Sa raj sun doj
+Yer imleri
+Yer işaretleri
+Yer İmleri
+Defterleri
+Boolean
+Kenar
+Kenarlık
+Kenarlıklar
+Bosna
+Boşnakça
+Bot
+Botsvana
+Alt
+Bouvet
+Dal
+Branco
+BrandFullName
+BrandFullNameDA
+BrandShortName
+Brezilya
+Brazzaville
+Breton Dili
+İngiliz
+Broken
+Gözat
+Gözat…
+Tarayıcı
+Gözat…
+Tarama
+Brunei
+Bubbling
+limiti
+Buenos
+Yapı
+Bulgaristan
+Bulgarca
+takımındaki
+Madde imi
+Madde İmli
+Madde imleri
+gömülü
+Burkina
+Burma
+Burma Dili
+Burundi
+Meşgul
+Düğme
+Düğmeler
+Bayt
+C
+sordunuz
+CACHE
+CC
+CD
+CDATA
+CDSA
+yayıncısından
+CKR
+CLICK
+CMS
+CN
+DENETİMLERİ
+Sebep
+CP
+CRL
+CSP
+CSS
+TH
+CYPHER
+Yeşil
+Cache
+Önbellek
+Caicos
+CalDAV
+Kaledonya
+
+Takvim
+Takvimler
+Takvim…
+Ara
+Ganakinj
+Çağrısı
+Kamboçya
+Cambridge
+Kamerun
+Campo
+Kanada
+Kanada
+Canary
+Cancela maa
+Dure'
+Dure' man
+Duyichin'
+Duyichîn'
+Vazgeç
+İptal
+Nga dure'
+Vazgeçildi
+İptal Edildi
+İptal edildi
+aktarılmasıyla
+Vazgeçiliyor…
+aday
+Kanvas
+strokeStyle
+fillStyle
+Cape
+Altyazı
+Capture
+Karbon
+Kartviziti
+Cartier
+Katalanca
+Katalogda
+Kategoriler
+Kategori
+Kategoriler
+Yakalanan aykırılıkları
+Yakalanan
+Neden
+Cayman
+Bilgi
+Cc
+Hücre
+Hücreler
+Keltik
+Merkez
+Orta
+Orta
+Sertifika
+Sertifikalar
+Sertifikalı
+Çad
+Başkan
+Chamorro Dili
+ChanServ
+Değiştir
+Naduna
+değiştirilme
+Değişikliklerini
+Değiştir…
+değiştirirseniz
+Karakter
+Compact
+Sohbet
+Çeçence
+Kontrol et
+Chi
+Chichewa Dili
+Şili
+Çin
+Çince
+Tercihleri
+Seçin…
+Seç…
+Christmas
+Chrome
+Chromecast
+Chromium
+Slav
+Çuvaş Dili
+Cisco
+Alıntı
+Şehir
+Sınıf
+Klasik
+sınıflandırmasından
+Kafes
+Na'nïn'
+Na´nin
+Temizle
+ClearType parametreleri
+ClearType
+Temizleniyor
+Tıkla
+Pano
+Clipperton
+yönünde
+Ganarrûn'
+Ganarun
+Kapat
+Na´raan
+Cmd
+CmdOrCtrl
+CmdOrCtrlF
+CmdOrCtrlPlus
+CmdOrCtrlR
+CmdOrCtrlShiftD
+CmdOrCtrlShiftO
+CmdOrCtrlShiftR
+CmdOrCtrlShiftU
+CmdOrCtrlW
+Cocos
+Kod
+Çözücü
+Daralt
+Daraltıldı
+Collection
+Kolombiya
+Renk
+Renkler
+Renkler
+Renkler…
+Sütun
+Sütun
+Sütunlar
+Kombo kutular
+Kombo
+Virgül
+Komutlar
+Yorum
+Topluluğu yapılandırmaları
+Topluluğu
+Komolar
+Sıkıştır
+Karşılaştırma
+Tamamlandı
+Tamamlandı
+Tamamlanma
+Tamamlanmış
+bileşenler
+Düzenleyici
+Düzenleme
+Composite
+Çizici
+Düzenleme
+Kompozisyon
+Compositor
+Uzlaşması
+Hesaplanan
+Bitiş
+Gizli
+Güvenilirlik
+Yapılandır…
+Onayla
+Onaylayın
+Onaylandı
+Kongo
+Tebrikler
+Bağlan
+gi'iaj conectando'
+Bağlı
+Hua conectadoj
+Bağlanıyor
+Bağlanıyor
+Bağlanıyor…
+Hìaj 'iaj conectandoj
+Bağlantı
+Bağlan…
+ardışık
+Konsol
+Zorla
+Kısıtları
+Kişi
+Kişiler
+Kapsayıcı
+Kapsayıcılar
+İçeren
+İçerik
+ContentSecurityPolicy
+ContentSecurityPolicyReportOnly
+ContentType
+İçerik
+Devam
+Devam Et
+Devam et
+Gun ne' ñaan
+Gun' ne' ñaan
+İleri
+İlerle
+Katkıda bulun
+Katkıda bulunanlar
+dizi
+Sohbetler
+Cook
+Cookies
+Çerezler
+Kendinden Emin
+Sakin
+Kopyalar
+Guxun' ni nachrun' a'ngô hiuj u
+Guxun' ñadu'ua
+Guyun' ña du'ua
+Kopyala
+Mercan
+Cornish Dili
+Yazanlar
+Korsika Dili
+maliyeti
+Kosta
+Sayaç
+yönünün
+Ülke
+Courier
+kapsamını
+Çöküş
+Guiri ro'
+Oluştur
+⁠
+oluşturuldu
+Oluturma
+Oluşturan
+Destekleyenler
+Sa du'uee
+Cree Dili
+Creek
+Kritik
+Hırvatistan
+Hırvatça
+Ağlamaklı
+Şifreleme
+Kriptografik
+Ctrl
+CtrlL
+CtrlShiftL
+CtrlTab
+Küba
+CuforceGC
+Cunha
+Curaçao
+Current
+İşaretçi
+Eğri
+Nagui'iaj mu'ûn'
+Özel
+CustomEvent
+Customization
+Özelleştir
+Özelleştir…
+Özelleştir…
+Özel…
+Ga'ne'
+Kes
+Çevrim
+Güney Kıbrıs Rum Kesimi
+Kiril
+Çek Dili
+Fildişi
+DB
+DC
+DD
+DECDSA
+DER
+DEVICE
+DISPLAYNAME
+DLL
+DN
+DNS
+DOCTYPE
+DOM
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+DRM
+DSA
+DTLS
+DVemer
+Her gün
+Dakota
+Asılı
+Danca
+Darüsselam
+Koyu
+Siyah
+Datos
+Veri
+Tarih/Saat
+Tarih/Zaman
+Tarih
+Tarih…
+Dawson
+Gün
+DayCrash Reports
+DayCrash
+gün
+günü eşitle
+Debug Mode
+Hata ayıkla
+DebugALIGNCENTERerver
+ayıklayıcısı
+Debugging
+Ara
+Aralık
+Decide
+bildirimini
+Reddet
+Declined
+Çözücü
+Decoding error
+Çözüm
+Metin boyutunu küçült
+Decrypted
+Çözme
+Deer
+Sa gà' 'na' niñaan
+Varsayılan
+Varsayılan mı
+Öntanımlı
+Defaults
+Defer Account
+ertelensin
+Define
+Defined
+Tanım
+tanımları
+Del
+Gecikme
+Delete Message
+Dure'
+Nadurê'
+Sil
+Deleted
+Sil…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Deletion
+Delimited
+Delivery Format
+Delivery Status Notification
+Teslimat
+Danimarka
+Denver
+Reddet
+Bölüm
+Azalan
+Azalarak
+Describe Problem
+Describe
+Açıklama
+Tanım
+dağıt
+Design Mode
+Design View
+Tasarım
+Desktop Backgroundbmp
+Desktop Open &quot
+Masaüstü
+Destination Folder
+Destination
+Destroy
+Detach
+Ayır…
+ayrıntısı
+Details of
+A'ngô nej sa nika
+Ayrıntılar
+Ayrıntılar
+Ayrıntılar…
+Detect indentation
+Detect
+Determining which
+Determining
+DevTools
+Devanagari
+Devanagari Dili
+Developed
+Developer Edition
+Developer Tools
+Geliştirici
+Geliştiriciler
+Development
+Device &quot
+Aygıt
+DeviceShare
+Cihazlar
+Nej aga'a
+Devicex
+Dikelya
+Tanılama
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+Sözlükler
+Sözlük
+Did
+Diego
+Different
+DiffieHellman key
+Değişimi
+Digest function
+Digest was
+özeti
+Digg Reader
+Digg
+Digital
+Boyutlar
+Ölçüler
+Direct
+DirectD
+DirectWrite
+Arama yönü
+Direktif
+Directories
+Directory &apos
+Directory Servers
+Directory
+Disability access
+Disability
+Devre dışı bırak
+Dunikïn'
+Etkisizleştir
+Devre dışı
+Ganikinj
+Kullanılamaz
+Nitaj si huaj
+Nitaj si huáj
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Atılan
+Disconnect from
+Bağlantıyı kes
+Gahui' riña internet
+Bağlantıyı kesellipsis
+Gahui riña internetellipsis
+Bağlantı kesiliyor…
+Disconnectme strict
+Disconnectme
+Bağlantıyı kes…
+Discontinue Link
+Discontinue
+Discover
+tartışmalar
+Disk
+Görmezden gel
+Si gui'iaj guendo'
+Sonlandır
+Display a
+Görünüm
+Göster
+Gösterilen Ad
+Displays the
+Displays
+Distinguished
+Distribution Points
+Dağıtım
+güvenme
+Divehi Dili
+Cibuti
+klavyeyle
+Dock
+belgelerini
+Document Outline
+belge
+Belgeler
+Doe
+Tahsis
+Domain GUID
+Alan
+Alan Adı
+Alan adı
+Adları
+Domestic
+Dominator
+Dominators
+Domingo
+Dominik
+Dominik
+t set colors in page
+Sayfada
+Bitir
+Bitti
+Dunahuij
+Gà' huaj
+Kaydet
+Tamam
+Tamamlandı
+Tamamlanmış
+Double click
+Double
+Doublecheck
+Doubleclick
+Aşağı
+Download Link
+Naduninj
+Sadece
+İndir
+DownloadRestart
+İndirildi
+İndiriliyor
+Hìaj naduninj ma
+İndiriliyor…
+Naduni'
+Nadunínj
+Nej sa naduni'
+İndirilenler
+İndirme
+Draft Message
+Taslak
+Taslak
+Sürükle
+çizim
+Draw repainted
+Draw
+Driver Verification
+Driver
+Sürücüler
+Drives
+Drop a
+Drop
+Dropping a
+Dropping
+DuckDuckGo
+Bitiş
+Süre
+Dump
+Duplicate name
+Çift
+Duraterver
+Süre
+Felemenkçe
+Zonka Bhutan Dili
+ECDSA Signature
+ECDSA
+EDI Party Name
+EDI Birim
+EDI
+EHLO
+EMail Certificates
+Eposta
+HATA
+HATALAR
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+ÇIKARMA_BAŞARISIZ
+Each
+Eager
+Earlier
+East Asian
+East European
+Doğu
+Eastern
+Ekvador
+Edge
+Edit Conditional
+Düzen
+Düzenle
+Nagi'iô'
+Nagui'iaj
+Düzenleme
+Edition
+Editör
+Editors
+Düzenle…
+Mısır
+Either
+Layun
+El Salvador
+El
+Elapsed
+Element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Elements
+Email Address
+Eposta
+Utangaç
+Utanmış
+Gömülü
+Embedded
+Emirates
+Vurgu
+Emptied Trash
+Emptied
+Boş
+Emulate
+Dugi'iaj sun' man
+Etkinleştir
+Ngà huaj
+dugi'iaj sun' ma
+Etkin
+Etkin mi
+Etkinleştirildi
+Ngà 'iaj sunj
+Ngà huaj
+Enables
+Şifreleme
+Kodlayıcı
+Encoding While
+Karakter Kümesi
+Karakter kümesi
+kodlamaları
+Encrypt
+
+Şifreleme
+Şifrelenmiş
+Encrypting File
+Encrypting
+Şifreleme
+Bitiş
+End
+EndUser Rights
+EndUser
+Bitti
+Endian
+Endpoint
+zorlansın
+motorumu
+Engineering
+motorlarını
+English US
+English USASCII
+English language
+Nánj ra'ñan an
+Türkçe
+İngilizce
+Enhanced
+tıkladığım
+ again
+Enter Full
+Enter that
+Enter
+Girildi
+Entering
+Girdiler
+Giriş
+Enumerable Properties
+Enumerable
+Ortam
+Epiphany
+Equatorial Guinea
+Ekvatoral
+Eritre
+Hata
+nitaj si hua hue'ej
+Hatalar
+Esc
+Esperanto
+Estonya
+Estonya Dili
+Etiyopya
+Etiyopik
+Etiyopya Dili
+Eudora Nicknames
+Eudora Settings
+Eudora mail
+Eudora
+Europa Island
+Europa
+Avrupa/Amsterdam
+Avrupa/Andorra
+Europe/Astrakhan
+Avrupa/Atina
+Avrupa/Belgrad
+Avrupa/Berlin
+Avrupa/Bratislava
+Avrupa/Brüksel
+Avrupa/Bükreş
+Avrupa/Budapeşte
+Avrupa/Busingen
+Avrupa/Chisinau
+Avrupa/Kopenhag
+Avrupa/Dublin
+Avrupa/Gibraltar
+Avrupa/Guernsey
+Avrupa/Helsinki
+Avrupa/İstanbul
+Avrupa/Jersey
+Avrupa/Kaliningrad
+Avrupa/Kiev
+Avrupa/Lisbon
+Avrupa/Ljubljana
+Avrupa/Londra
+Avrupa/Lüksemburg
+Avrupa/Madrid
+Avrupa/Malta
+Avrupa/Mariehamn
+Avrupa/Minsk
+Avrupa/Monako
+Avrupa/Moskova
+Avrupa/Nicosia
+Avrupa/Oslo
+Avrupa/Paris
+Avrupa/Podgorica
+Avrupa/Prag
+Avrupa/Riga
+Avrupa/Roma
+Avrupa/Samara
+Avrupa/Sarajevo
+Avrupa/Simferopol
+Avrupa/Skopje
+Avrupa/Sofya
+Avrupa/Stockholm
+Avrupa/Tallinn
+Avrupa/Tiran
+Europe/Ulyanovsk
+Avrupa/Uzhgorod
+Avrupa/Vaduz
+Avrupa/Vatikan
+Avrupa/Viyana
+Avrupa/Vilnius
+Avrupa/Volgograd
+Avrupa/Varşova
+Avrupa/Zagreb
+Avrupa/Zaporozhye
+Avrupa/Zürih
+Avrupa
+Avrupa
+Eustatius and
+Eustatius
+eval
+Değerlendir
+Evaluated JavaScript
+değerlendirilen
+Evaluating
+Evangelism
+Even
+Etkinlik
+Etkinlikler
+Olaylar
+Etkinlik
+Etkinlik…
+Every Time
+Her
+Her şey
+tahliyesi
+Ewe Dili
+Örnek
+Excellent
+Except
+Exception …
+İstisnayı
+Ayrıcalıklar
+Ayrıcalıklar
+Ayrıcalıklar…
+Exchange
+ExecShell &quot
+ExecShell
+Çalıştırılabilen
+Execute Menu
+Çalıştır
+Executing s
+Executing
+Execution stopped
+Execution
+Executive
+Existing
+Mevcut
+Çık
+Exited
+Exiting
+Expand/Collapse
+Genişlet
+Genişletildi
+Expected
+Deneyler
+Süresi dolmuş
+Expires On
+Expires Seconds
+Bitiş tarihi
+Son kullanım tarihi
+Zaman Aşımı
+Zaman aşımı
+Explorer
+Exponent
+Dışa aktar
+Dışa Aktar…
+Dışa aktar…
+Seçimi dışa aktar…
+Exposing chrome
+Exposing
+Express
+Expression
+Expressions
+Expunge &quot
+Çıkart
+Extended Telemetry
+Extended
+Extending
+A'ngô ra'a
+Eklenti
+Eklentiler
+Uzantılar
+External
+Extra Components
+Extra
+Extract
+Extracting s
+Extracting
+Extracting…
+Damlalık
+F GB
+F turns
+F/Escape tuşuna basın
+f
+yarayabilir
+FALLBACK section
+FALLBACK
+SSS
+Sa achín na'anj guìi doj
+FAQs feedback
+Nej sa achínaj anj guìi doj
+SSS
+FCC
+FHR data
+FHR
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTP Proxy
+FTP
+FUNCTION
+FW Version
+FW
+FYR
+Facebook Sohbet
+Facebook
+Faeroese
+Başarısız
+Başarısız Oldu
+Başarısız oldu
+Guire'ej
+Hatalı
+Failure
+Failures
+Falkland Islands Islas Malvinas
+Falkland Islands
+Falkland
+Fallback Character
+Fallback
+Falling back
+Falling
+False
+Aile
+Fantezisi
+Faroe Islands
+Faroe
+Faroe Dili
+Farsça
+Faso
+Fast
+Fatal
+Favorite Folder
+Favorite Folders
+Favoriler
+Sık kullanılanlar
+Fax Number
+Faks
+Feature
+Özellikler
+Şub
+Şubat
+Federated States of
+Federated States
+Federal
+Federation
+Feed Location
+Beslemeyi
+Feedback Agent
+Feedback …
+Geri bildirim
+Feedly
+Beslemeler
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+Getiriliyor…
+Fewer
+Alanı
+alanları
+Fifth
+Fiji
+Fiji Dili
+File System
+Dosya
+Dosyala
+Dosya…
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Dosya adı
+Dosyaları
+Dosya…
+Dosya…
+Filing Cabinet
+Doldur
+Filter Box
+Filter Execution
+Filtre
+Filtrele
+Süzgeç
+filtreleme
+Süzgeçler
+Finalizing
+Bul
+Finder
+bulguları
+Bul…
+parmak
+Da'nga' ra'a
+Parmak izleri
+Finish Customizing
+Bitir
+Son
+Tamamlandı
+Finlandiya
+Fince
+Firebird
+Firebug
+Firefox Support
+t find
+Firefox doesn &apos
+Firefox
+Ad
+Sığdır
+Five
+Fix Table
+Fix
+Fixed
+etiketi
+Flagged
+Flame Chart
+Flame
+Flash embed
+Flash
+Özyinleme
+Flexible Space
+Flexible
+Focus
+Dizin
+Klasör
+Dizinler
+Dizin…
+Takip et
+Takipçi
+Takip Ettikleri
+Devam iletisi
+Takip Adresi
+Takip et
+Fond
+Yazı tipi
+Yazı tipleri
+Footer
+Footers
+Boşboğaz
+Zevzek
+Taşıyan
+Force
+Sonsuz
+Forge
+Forgery
+Unut
+Form History
+Form
+Biçem
+Biçim
+Biçimlendirme
+Forms
+Fort
+Fortezza
+Forum
+Forums
+Ka an ó pagina
+Ne'ñan an
+İleri
+İlet
+İletildi
+İletilmiş
+Forwarding
+Found
+gunaj
+Four Hours
+dört
+Fourth
+Cu
+Frakkin &apos
+Makine
+çerçeveyi
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+Çerçeveler
+Fransa
+Bedava
+Serbest
+French Southern
+Fransızca
+Frequency
+Sık ziyaret edilenler
+Cum
+Cuma
+Frisyan Dili
+Friulyan
+From History
+From List
+Başlangıç
+Gönderen
+Kimden
+Front facing
+Front
+Kızgın
+Çatık kaşlı
+Fulah Dili
+Doluluk
+Fullscreen
+Fun To
+Fun
+Fonksiyon
+Futuna
+Gelecek
+GB
+GBK
+GC Event
+GC Slice
+GC
+GCLI is
+GCLI
+GDI Library
+GDI
+Product
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+Gabon
+Gaelic
+Gaia
+Galeon
+Galce
+Gallegos
+Gambiya
+Gambia
+Gamepad
+Gaming consoles
+Oyun
+Ganga
+Gap from edge of paper to Margin
+Gap from
+Gap
+Garbage Collector Roots
+Garbage
+Garcia
+Gated Crypto
+Kapılı
+Gaza Strip
+Gazze
+Gecko
+Geckoreg
+Geckotrade
+General Notification
+Da'ua nguéj
+Genel
+Generate a
+Generate
+Generated
+Generating A Private
+Generating A
+Generating aggregate
+Generating
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+Gürcistan
+Gürcüce
+Almanca
+Almanya
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+Gana
+Cebelitarık
+Gives
+Glace
+Global Revived
+Global
+Glorioso Islands
+Glorioso
+Glossary
+Gmail
+Go back
+Go forward
+Git
+Hua hue'ej
+İyi
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+yakala
+Derece
+Gradient is
+Geçişi
+Grand
+Grande
+Grant
+Graph Reduction
+Grafik
+Grafikler
+Çizimler
+Gravatar
+GrayScale
+Gri tonlama
+Yunanistan
+Greek Windows
+Yunanca
+Grönland
+Grönland Dili
+Grenada
+Grenadines
+Grid
+Group List
+Grup
+Grouped By
+Grouped
+Grouping
+kaldırdık
+Grow
+Guadeloupe
+Guam
+Guarani Dili
+Guard
+Guatemala
+Guernsey
+Guess
+Guest browsing
+Guest
+Guyanası
+Gine
+Gine Bissau
+Gucarati
+Gujarati Dili
+Gurmukhi MacGurmukhi
+Gurmukhi Dili
+Gurmuki
+Guyana
+H Line
+H
+HAR
+HHata
+YÇizgi
+HPKP
+HREF
+HSLA
+kullanmaktadır
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HW Version
+HW
+HZ
+HZGB
+Hack the
+Hack
+Haiti
+Haiti Dili
+Halifax
+İşleyicisi
+Handling
+Handshake record
+Handshake
+Hang Report
+Takılmaları
+Happy
+Sert
+Hardware Driver Verification
+Hardware Driver
+Donanım
+Has
+Hausa Dili
+Have an
+Have
+Hawaii dili
+Başlık
+Başlıklar
+Üst Bilgiler
+Üst bilgiler
+Heading
+Başlıklar
+Health Report
+Sağlık
+Heard Island
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+İbranice
+Yükseklik
+Helena
+Hello World
+Merhaba
+Help Start
+Ruguñu'unj
+Sa ruguñu'unj un
+Yardım
+Helper Application
+Helper Applications
+Helper Threads
+Helper
+Helps
+Helvetica
+şunlar
+Herero Dili
+Herzegovina
+On altılık
+Gizli
+Hide Statistics
+Hide Toolbars
+Gachri hùi
+Gizle
+Gizler
+Nachri hùij
+hiyerarşisi
+High Contrast
+Yüksek
+En yüksek
+Highgrade
+Highlight
+vurgusu
+Highlights
+Hightail
+Hiligaynon
+Hill
+Hintçe
+İpucu
+Hiri Motu
+Hiri
+Histograms Collected
+Histogramlar
+Daran sa gahuin
+Daran' chre sa garajsunt
+Geçmiş
+Nii sitio katu sa´a
+Sa gahuin
+sa gahuin
+Hit
+Hnewsgroup server
+Hnewsgroup
+Ho Chi Minh
+Ho
+Bekletme
+günüİşAramalarMüşterilerRekabetMüşteriFavorilerTakip
+Ana takvim
+Başlangıç
+Ev
+Home
+Riñan gayi'ij
+Homepage Get back
+Ana Sayfa
+Ana sayfa
+Ñanj ayi'ì'
+Honduras
+Hong Kong
+Hong
+Honolulu
+Yatay
+Alan Adı
+Ana makine
+Makine
+Sunucu
+Barındırılan
+Hostname Entered
+Makine adı
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+Hour
+saat
+zamanı
+How
+Howe
+However we
+Ancak
+Howland Island
+Howland
+Http
+Kocaman
+İnsanlar
+Macarca
+Macaristan
+I &apos
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+I don &apos
+I ii
+I submit information that &apos
+I think I &apos
+I understand
+ráa
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+Kimlik
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAP Flag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+IP
+IPC
+IP'ler
+IRC Nick
+IRC Operator
+IRC
+BİR
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+İSS
+IV
+Iaposm
+İzlanda
+İzlanda Dili
+Simge
+Simge
+Kimlik
+Tanımlama
+Tanımlayıcısı
+Identities …
+Identities
+Kimlik
+Beklemede
+Boşta
+Ido Dili
+epostalarınız
+Igbo Dili
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Görmezden Gel
+Görmezden gel
+Si yakaj guenda
+geliniyor
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+Resim
+Ñan du'ua
+Resimler
+Resim…
+Import your
+Ganako'
+İçe aktar
+İçeri Aktarma
+Importance
+Önemli
+İçe aktarılıyor
+İçe Aktarılıyor…
+İçe aktarılıyor…
+İçeri aktarılıyor…
+İçe Aktar…
+İçe aktar…
+In Days
+In EHLO reponse
+In Finder
+In Use
+In
+InAutoon
+InBrowserElement
+pasif
+Gelen
+Inc
+Gelen
+Incorporated
+Yanlış
+Metin boyutunu büyüt
+Artış
+Girinti
+Endeksi
+Indexed DB
+endekslendi
+IndexedDB
+Dizinler
+Hindistan
+Hindistan/Antananarivo
+Hindistan/Chagos
+Hindistan/Christmas
+Hindistan/Cocos
+Hindistan/Comoro
+Hindistan/Kerguelen
+Hindistan/Mahe
+Hindistan/Maldivler
+Hindistan/Mauritius
+Hindistan/Mayotte
+Hindistan/Reunion
+Indiana
+göstergesi
+Bireysel Kod
+Birey
+Endonezya
+Endonezya Dili
+Bilgi
+Bilgileri
+başlangıcı
+Inlet
+ileti içinde ilet
+İleti içinde
+İçindeki
+Masum
+Girdi
+Ins
+Ekle
+Denetle
+Denetçi
+Ga'nìn'
+Kur
+Yükle
+Kuruldu
+Yüklendi
+Kuruluyor
+Kuruluyor…
+Hua chre' ma
+Sayı
+Tam sayı
+Tamsayı
+tümleştirmesi
+Bütünlük
+Etkileşim
+Interface
+İnterlingua
+İnterlingue
+Dahili
+yorumlanıyor
+Giriş
+Inuktitut Dili
+Inupiak Dili
+Geçersiz
+ortamda
+Görünmez
+davetiyesi
+Davetler
+İran
+Irak
+İrlanda
+İrce
+Isabel
+Adası
+Adaları
+Islas
+Isle
+İsrail
+Belge tarihi
+Yayıncı
+Yayıncıları
+Ücretsiz
+İtalyanca
+Eğik
+İtalya
+Öğesi
+JIS
+JIT
+JOHAB
+JS
+JSM
+JSON
+JSONP
+JSONparse
+JSONstringify
+YER
+Jabber
+Jamaika
+Oca
+Ocak
+Japonya
+Japonca
+Jarvis
+JavaScript
+Java Dili
+Jaxivo
+Jersey
+Kararsızlık
+Kararsızlıkönbellek
+Kemal
+Johns
+Johnston
+Busohbettebanakatıl
+Ürdün
+Juan
+Tem
+Temmuz
+Atla
+Haz
+Haziran
+Gereksiz
+önerebilir
+Yana
+Sağa Hizala
+İki Yana Hizalı
+KB
+KB'den büyükse indirme
+KOIR
+KOIU
+Kanada Dili
+Kannada
+Kanuri Dili
+Keşmir Dili
+Kashubian
+Kazakça
+Kazakistan
+Keeling
+Eklentiyi tut
+Kalsın
+Kenya
+Kerberos
+Anahtar
+Kısayol tuşları
+Tuş kısayolları
+Klavye
+Anahtarlı
+nedeniyle keyframe
+Anahtarihtml
+Anahtarlar
+Anahtar Kelime
+Anahtar kelime
+Nuguan huii
+Anahtar kelimeler
+Anahtar kelimeler…
+Himer
+Kamboçya Dili
+Kikuyu Dili
+Krallık
+Kingman
+Kinşasa
+Kinyarwanda Dili
+Kırgızca
+Kiribati
+Kirundi Dili
+Öpücük
+Kitts
+Klaatu
+Klingon
+Komi Dili
+Kong
+Kongo Dili
+Konkani Dili
+Kore
+Korece
+Kosova
+Kuala
+Kuanyama Dili
+Kürtçe
+Kuveyt
+Kırgızistan
+LDAP
+LDIF
+La
+LaTeX
+Etiket
+Labs
+Sınır noktaları
+Toprakları
+Yatay
+Dil
+Nanj a'min'
+Diller
+Lanka
+Lao Dili
+Laos
+Dizüstüler
+Büyük
+Yachij
+Daha büyük
+Soyad
+Daha sonra
+Sonra
+Latince
+Letonya
+Litvanya Dili
+Kahkaha Atma
+Kahkahacı
+Katman
+katmanlar
+Düzen
+Yerleşim
+LdapDwim
+Ayrıl
+Lübnan
+Sol
+Soldan
+Nuguan' a'nï'ïn
+Yasal
+Gösterge
+Uzunluk
+Leone
+Lesotho
+Daha Az
+Daha az ayrıntı
+Harf
+Liberya
+Libpkix
+Kütüphane
+Libya
+Lisansı
+Lihtenştayn
+Yaşam süresi
+Açık
+Beyaz
+Lightning
+Liburg Dili
+Satır
+Keten
+Satır
+Çizgiler
+Lingala Dili
+Bağlantı
+Chrej ganiko'
+gören
+Bağlantılar
+Nuguan'na'nïnj ïn
+Bağlantı…
+Ağzı sıkı
+Susturulmuş
+Liste
+Listelenme
+dinleniyor
+Dinlemede
+Listeler
+Litvanya
+Litvanya Dili
+Live
+Yükle
+Yükleniyor
+Hìaj na'nïnj ma
+Yükleniyor
+Yükleniyor…
+Yerel
+Dil
+Snânj an
+Bölge
+Dane' huin
+Konum
+Lock
+Kilitli
+Kayıt
+Kayıt tutma
+Gayi'i sesión
+Hesaplar
+Nej riña ayi'ì sesión
+Nej riña ayi'ì' sesión
+Nej ña ayi'ì sesión
+Nej ña gayi'ì' sesión
+Riña ayi'ì sesión
+Girişi
+Logo türü
+uzun satırları
+Uzun
+Ara
+Tekrarla
+Lord
+Los
+Kaybolan
+Düşük
+Lower
+Küçük
+En düşük
+Luba Katanga Dili
+Lucia
+Luis
+Lumpur
+Lüksemburg
+Lüksemburg Dili
+MANIFEST
+MB
+MD
+MDN
+MIME
+MIMESürümü
+MOZ
+MOZ_APP_DISPLAYNAME
+MSN
+Maarten
+MAC
+MacArabic
+MacCE
+MacCrotian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomanian
+MacTurkish
+MacUkrainian
+Makao
+Makedonya
+Makedonca
+Madagaskar
+Eposta
+Korrêo
+Posta
+Bakım
+saatinin
+Madagaskar Dili
+Malavi
+Malezyaca Dili
+Malayalam
+Malezya
+Maldivler
+Mali
+Malta
+Malta Dili
+Malvinas
+Man
+Yönet
+Manager
+Manifesto
+elle
+Elle
+Üretici
+Man Dili
+Maori Dili
+Haritası
+Eşleştirmeleri
+Mar
+Marati Dili
+Mart
+uzunluğunun
+Mariana
+Marino
+İşaretle
+Mercado
+Marshall
+Marshall Dili
+Martin
+Martinik
+eşleşme
+Eşleşen
+Eşleşti
+matematik
+MathML
+Matematik
+Matematik…
+Moritanya
+Mauritius
+aşıyordu
+May
+Mayıs
+bağlanılırken
+Mayen
+Mayotte
+McDonald
+Bana
+Benden
+Ölçümler
+Medya
+Ortam
+sa dani in
+MediaRecorder
+MediaStreamTrack
+MediaStreamTrackstop
+MediaStreamstop
+Orta Derece
+Orta
+Sa danin
+MemoServ
+Bellek
+Menú
+Menû
+Menü
+Riñan man dara'anj
+İleti
+İletiKimliği
+MessagePort
+İletiler
+İleti…
+Meta
+Yöntem
+Metro
+Meksika
+Mibbit
+Microsoft
+Orta
+Gece
+Gece yarısı
+Midway
+MinSupportedCPU
+MinSupportedVer
+Minh
+Küçük ay
+Küçültülmüş
+Küçült
+Nagi'iaj lij
+Simge Durumuna Küçült
+Miquelon
+Yansıtmayı
+eşleşmeyen
+konumlandırılmış
+kayıp
+Pt
+Cep Telefonu
+Haa gaa sí aa
+Mobil
+Modu
+Değişme tarihi
+Değiştir
+Modül
+Modülleri
+Modulus
+Moldova
+Pts
+Pzt
+Monako
+Pazartesi
+Para Delisi
+Paragöz
+Moğolistan
+Moğolca
+İzleyici
+Monospace
+Karadağ
+Ay
+Aylık ızgara
+Her ay
+ayı eşitle
+ayın
+Montserrat
+Daha fazla
+Daha fazla ayrıntı
+Daha fazla bilgi
+Devamı
+Daha fazlaellipsis
+Dojellipsis
+Moresby
+Fas
+Motu
+Fare
+Movemail
+Taşı…
+Mozambik
+Mozilla
+Mozilla 
+MozillaCalEvents
+Mozillaorg
+Çok haftalı
+Mutasyon
+MutationObserver
+Sesi kapat
+dín gahuin
+SBeslemelerimSopml
+Yok
+NET
+NNTP
+NO
+NPN
+NS
+NSS
+NTLM
+üzerimizde
+Ad
+Adı
+Dizin adı
+Si yugui'
+İsim
+İsim tamamlayıcı
+adları
+uzayları
+Namibya
+İsimlendirme
+Seslendir
+Nauru Dili
+Nauruca
+Navajo Dili
+Navassa
+Gezinti
+Ndebele
+Ndonga Dili
+Yakındaki
+Nepal
+Nepal Dili
+Net
+Hollanda
+Netscapecfg
+Ağ
+Asla
+Nitaj ama
+Xhaa mii
+Nevis
+Yeni
+Haber
+Haber Grubu
+Haber Grupları
+Haber grupları
+Yeni…
+Ne' ñaan
+See naa ree rian
+Sonraki
+ne'ña an
+İleri
+Nikaragua
+Takma
+NickServ
+Takma Ad
+Takma adı
+Takma isim
+lakapları
+Nijer
+Nijerya
+Niue
+Hayır
+Si ga'ue
+Düğüm
+döndürmesi
+Nodetype
+Aday
+Kesintisiz
+Hiçbiri
+Yok
+es
+Reddetmeme
+Gündüz
+Öğlen
+İskandinav
+Norfolk
+Normal
+North
+Nord
+Norveç
+Norveççe
+Not
+Notlar
+Uyarıları
+panelinden
+Bildirimler
+Sa ataj na'anj
+Sa ataj na'anj an
+Uyarılar
+Kas
+Nova
+Kasım
+Șimdi
+Numaralı
+Sayılar
+Nynorsk
+O
+OAuth
+OCSP
+OID
+Ga'ue
+Gara yináj
+Garayina
+Raj yináj
+Tamam
+parçacığı
+OPML
+İşletim sistemi
+OU
+OVERLAP
+Nesne
+Occitan Dili
+sefer
+oluşumlar
+Hint
+Eki
+Ekim
+Odia
+Odnoklassniki
+Kapalı
+Çevrim Dışı
+Çevrimdışı
+Çevrimdıșı
+Çevrimdışı…
+sëj
+Ojibwa Dili
+Eski posta
+Umman
+Açık
+Gün
+tıklamalı
+Çevrim İçi
+dece
+'Uà'
+Hoppalaaa
+Tüh
+Aç
+Aç 
+Na'nin
+OpenGL
+OpenH
+OpenPGP
+OperServ
+Operatörü
+Operatörler
+İyileştirilebilir
+iyileştirmeeri
+iyileştir
+Seçenek
+A'ngo sa ga'ue naguit
+Na rii se me raa
+Nagui’iaj
+Nuin si guruat
+Seçenekler
+a'ngo sa ruhuât
+Seçenekler…
+A
+Kurum
+Düzenle
+Düzenleyen
+Düzenleyici
+Yönlendirme
+Köken
+Oriya Dili
+Oromo Dili
+Osetya Dili
+Diğer
+Diğerleri
+Diğer…
+Out
+Gönderilmemiş
+Çıkıntı
+Giden
+şemasını
+Outlook
+Çıktı
+Over
+yazılsın
+Sahibi
+P/Galapagos
+P
+PDF
+PKSC
+BU
+POP
+POST
+PREFS
+TERCİHLER
+PSM
+PUBLIC
+PacifDebug/Galapagos
+Pasifik/Apia
+Pasifik/Auckland
+Pasifik/Bougainville
+Pasifik/Chatham
+Pasifik/Chuuk
+Pasifik/Easter
+Pasifik/Efate
+Pasifik/Enderbury
+Pasifik/Fakaofo
+Pasifik/Fiji
+Pasifik/Funafuti
+Pasifik/Galapagos
+Pasifik/Gambier
+Pasifik/Guadalcanal
+Pasifik/Guam
+Pasifik/Honolulu
+Pasifik/Johnston
+Pasifik/Kiritimati
+Pasifik/Kosrae
+Pasifik/Kwajalein
+Pasifik/Majuro
+Pasifik/Marquesas
+Pasifik/Midway
+Pasifik/Nauru
+Pasifik/Niue
+Pasifik/Norfolk
+Pasifik/Noumea
+Pasifik/Palau
+Pasifik/Pitcairn
+Pasifik/Pohnpei
+Pasifik/Ponape
+Pasifik/Rarotonga
+Pasifik/Saipan
+Pasifik/Tahiti
+Pasifik/Tarawa
+Pasifik/Tongatapu
+Pasifik/Truk
+Pasifik/Wake
+Pasifik/Wallis
+Pasifik
+Pack
+Package s
+Package xpi
+Paketleri
+Paketlenmiş
+Packs
+Dolgu
+Page Direction
+Page Selection
+Sayfa
+Ñanj
+Pagequot
+Pager Number
+Çağrı Cihazı
+Çağrı cihazı
+Sayfalar
+Pago
+Paint
+Pair a Device &quot
+Pair a
+Eşleştir
+Pakistan
+Pal Who &apos
+Geçirdiğiniz
+Palau
+Palestinian Territory
+Palestinian
+Palet
+Pali Dili
+Palmyra Atoll
+Palmyra
+kaydır
+Panama
+bölmesi
+temize
+Paneller
+Riñan guiri nu'un'
+Panes on Startup
+Panes
+PannerNode
+Papua New Guinea
+Papua New
+Papua
+Paracel Islands
+Paracel
+Paragraph format
+Paragraf
+Paraguay
+Parametreleri
+Parametreler
+Parcel
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+Ebeveyn
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+yorumlanmasına
+Part Of
+Parçası
+PartS
+Partial
+Partially Encrypted
+kısmen
+Participant
+Katılımcılar
+Parts
+Party Name
+Party
+Paştu Dili
+Password Change
+Password Manager
+Contraseña
+Da'nga' huìi
+Da'nga'aj
+Parola
+PasswordIf
+Parolalar
+Paste Go
+Gachrun
+Yapıştır
+Yapıștır
+Pastel Gradient
+Pastel
+Paste…
+Patch
+Patching s
+Patching
+Yol
+Yolu
+Paths from
+Paths
+Paulo
+Pause on
+Pause/Resume/Retry
+Dunikin akuan'
+Duraklat
+Duyichin' akuan'
+Duraklatıldı
+Duyichin' akuan'
+Pauses the
+duraklatır
+Pay
+yük
+Ödeme
+Paz
+Peer
+PeerConnection ID
+PeerConnection
+Pending
+Penh
+Kişiler
+Percent
+Perform a
+Perform
+Performans
+Perhaps the
+Perhaps you &apos
+Perhaps
+Period of Validity
+Period of
+Geçerlilik
+Periyodik
+Sürekli
+Permanently
+Permission
+İzinler
+Permit
+Farsça
+Kişisel
+Personality
+Peru
+Perwebsite
+Aşama
+Filipinler
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+Da'nga aga' a'min'
+Telefon
+Telefonlar
+Fonetik Ad
+Okunuş
+Fotoğraf
+Photograph
+Phrase
+Fiziksel
+Pick
+Picture
+Pierre
+Pilotu
+Pin
+Ping
+Gà' nanû ma
+Sabitlenmiş
+Pinning
+Pipelining
+Pitcairn Islands
+Pitcairn
+Pixel
+Düz
+planlama
+Plastic Pal Who &apos
+Eğlenceli
+Platform COM
+Platform
+Play a
+Duguchro'
+Oynat
+Yürüt
+Çal
+Playing audio
+Oynatılıyor
+Please advance
+Please authenticate
+Please consider
+Please enter
+Please shorten
+xtoo
+Plug a
+Plug
+PlugIns
+Yan uygulama
+Plugins
+Yan uygulamalar
+Plus
+Pocket
+Podyayını
+PoiQA
+Pointer Lock API
+Pointer
+Noktaları
+Polanya
+Kutbu
+İlkeleri
+Policy Constraints
+Policy Mappings
+İlke haritalaması
+İlkelerinde
+Lehçe
+Polinezyası
+Popup Blocking
+Popup
+Açılır Pencereler
+Açılır pencereler
+Riña sa ra'ñanj doj
+Bağlantı Noktası
+Bağlantı noktası Port
+Port
+İletişim noktası
+İletișim noktası
+Portable Document
+Taşınabilir
+Porto
+Dikey
+Portekiz
+Portekizce
+Konum
+Posse
+çözümler
+Gönderme
+Postal Code
+Postal
+yollanıyor
+Postpone
+Power
+Powered by
+Powered
+Powershare
+Practice Statement pointer
+Practice
+Pre
+ön koşul
+tercihen
+Preference
+Nagui’iaj
+Sa arajsunt doj
+Tercihler
+Sa arajsun' doj
+Tercihler…
+Preferred
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Prefix
+Prefixed
+Önbiçimleme
+Yorumu
+Prepackage
+Prepackaging
+Preparing
+Hazırlanıyor…
+Present
+Presentation Mode
+Sunum
+Preserve
+Preserves
+Preset
+Ön değerler
+Bas
+Bastır
+Pressing F
+Pressing
+güzelleştir
+Pretty Print
+Güzel
+Prevent
+Ön izleme
+Önizleme
+Previewed
+yazdırması
+Preview…
+Previous Session
+Sa Gachin
+Önceki
+Fiyat
+Primary Email
+Primed cache
+Hazırlanmış
+Primetime Content
+Primetime
+Princes
+Principal Name
+İlke
+Principe
+Yazdır
+nari' ñadu'ua
+Printed
+Yazıcı
+Yazdırılıyor
+Sa nari ñadu'ua ñanj
+Yazdırılıyor…
+Yazdır…
+Priority changed
+Öncelik
+Önemlilik
+Privacy Policy
+Gizlilik
+Sa huii
+Sa hùii
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+Gizli
+Sa huii
+Özel
+Ayrıcalıklı
+Privileges
+Öncelikli haklar…
+Pro
+Olası
+Probably
+sorgulanıyor
+Problem
+Proceed
+Proceeding will
+Proceeding
+Process
+İşleniyor
+İşleniyor…
+Prodigy
+üreticisi
+Product
+ProductName
+ProductNameInternal
+ProductShortName
+Profil
+Profilleyicisi
+Profiller
+Program Icons
+Program
+Programs Folder
+Programs
+Progress Window
+İlerleme
+Project Lead
+Proje
+Projects
+Promise Debugger
+Promise
+İstem
+İstemci
+Özellikler
+Özellikler…
+Property Declaration
+Property Value
+Özellik
+Orantılı
+Propose a
+önerin
+izlenme
+Protocol Request
+Protokol
+ProtocolSpecific
+Protocols
+Proudlybr
+Provider
+Province
+Proxies
+Proxy
+Pseudoelements can
+Sözdeelementler
+Pseudo elementler
+Psst using
+Psst
+Kamu
+PublicKeyPins
+Yayımla
+Yayınla
+Publishing Pages
+Yayımlama
+Yayımlanıyor…
+Yayımla…
+Puerto Rico
+Puerto
+Pencap Dili
+Purchase for
+Amaçlar
+Push Endpoint
+Gönder
+QA UI
+QA
+QName
+QQ
+QR Scan
+QR
+Katar
+Qualified Subordination
+Nitelikli
+Quechua Dili
+Sorguyu
+Sorusu
+Beklemede
+Quick Filter
+Quick Launch bar
+Quick Launch
+Quick
+Quickly
+Quirks mode
+Quirks
+Quirky doctype
+Dolambaçlı
+Gahui'
+Çık
+QuitS
+Quitting
+Kota
+Quotation
+Alıntıla
+Quotes
+RAM
+RC
+RDN
+KAYITLAR
+REMOVE
+RETR command
+olamadı
+RETURN
+RFC
+RGBA
+RSA Encryption
+RSA
+RSASSAPSS Signature
+RSASSAPSS
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+RTP
+Radio Button
+Radio buttons
+Radyo
+Rainy
+taşımasına
+Range
+Rankin
+Rate
+Beğeni
+Ratio
+Ham
+Re
+Reached
+Okuma
+Okundu
+Okunmuş
+ReadMark
+s
+nü
+Okuma
+Ready to
+Hazır
+Really fast
+Really
+Filtreyi
+Sebep
+Reasons
+Rebuild Summary
+indeksini
+Recalculate
+Receipt denied
+Alını
+onayları
+Receive
+Alınan
+Alınma tarihi
+Tarih
+Alınıyor
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+En son
+Son kullanılan
+Son ziyaret edilenler
+Recently
+Gözden
+Alıcı
+Alıcılar
+Recommended Components
+Tavsiye edilen
+Önerilen
+Yeniden onayla
+Reconnect
+Record
+Recording Performance
+Recording
+Kaydediliyor…
+Kurtar
+Recovery Keyhtml
+kurtarma
+Recur
+Recurrence pattern
+Tekrarlamayı
+Recursion
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+Redirection
+Rediscover the
+Rediscover
+Redisplay
+Yinele
+Reducing the
+Reducing
+Azaltma
+Resifi
+Reenter
+Reference
+Referanslar
+Tercihler
+Referrer
+Referring URL
+Yönlendiren
+Yeniden akışlar
+biçimlendir
+Naguiaj naká
+Tazele
+Yenile
+Refused
+Register Locale
+Register Server
+Kayıt
+Kayıtlı
+Registering
+Regular Attachment
+Normal
+Reject
+Rejoin
+Related
+Relation
+Relative positioning of
+Relative
+Relaunch
+Release Notes
+Release
+Releases
+Carga na kaa
+Sayfayı tazeleyerek
+Tazele
+Tekrar Yükle
+Yeniden yükle
+Yenile
+nagui'iaj naka
+sayfayı tazeleyerek
+Remaining
+Hatırla
+Nanunrua
+Te nanu ra
+Remind Me
+Remind
+Anımsatıcı
+Anımsatıcılar
+Remote Debugging
+Remote debugging
+Uzak
+Remove channel
+Dure'
+Guyun
+Kaldır
+Sil
+Removed
+Tamamlanan
+Kaldır…
+Removing
+Renaissance
+Adını değiştir
+Adını değiștir
+Yeniden adlandır
+Adını Değiştir…
+Renaming
+Render Mode
+Render
+çizici
+Rendering
+Renewal
+Reopen
+Repair
+Tekrarla
+Tekrarlı
+Yineleme
+Değiştir
+Replacement
+Replaces in
+Replaces
+Değiştir…
+Replacing
+Replicating directory entry
+Replicating
+Replication failed
+Güncelleştirmesi
+Yanıtlandı
+Yanıtla
+Yanıt Adresi
+Yanıt adresi
+YanıtAdresi
+Replying
+Replyto Address
+Replyto
+Bildir
+Nata'
+ReportOnly
+Raporcusu
+Raporları
+Cumhuriyeti
+Request the
+İsteği
+RequestMode
+Requested
+İstekler
+Required
+Requires
+Reread mozcmd
+Reread
+Na'nïnj ñû' gan'an
+Tekrar gönder
+Resending
+ResentCC
+ResentComments
+ResentDate
+ResentFrom
+ResentMessageID
+ResentSender
+ResentTo
+Reserved
+Nagui'iaj ñun
+Sıfırla
+örgü
+Resolution/Quality
+Resolution
+Çözümle
+Kaynak
+Resources
+Responder
+Yanıt
+Responseclone
+Responsive Design
+Uyumlu
+Rest
+Baştan başlat
+Nayi'i ñun
+Yeniden başlat
+Restarting
+Yeniden başlatılıyor…
+Geri getir
+Geri yükle
+sınırla
+Kısıtlı
+Sa nitaj si da'uît gatsít
+Restyle Hint
+Restyle
+Sonuçlar
+Resume &apos
+Devam et
+Gun ne'ia an
+Nayi'i ñun
+Sürdür
+Resumes
+Retained
+Retention Policy
+Saklama
+Tekrar sına
+Retrieving quota
+Hìaj
+Alınıyor…
+A'ngo ñun
+Tekrar dene
+Yeniden Dene
+Yeniden dene
+Retrying
+Enter
+Retweet'le
+Reunion
+Reverse
+Reversed
+Geri Al
+Geri al
+Geri al…
+Review
+Revision
+Revived
+Hükümsüzlük
+İptal edilmiş
+sar
+Yeniden Kaydır
+Rewriting oldstyle
+Rewriting
+Romanş Dili
+Rica
+Rich Text
+Zengin
+Riko
+Right Click
+Sağ
+Rightclick
+Rights
+Righttoleft direction
+Sağdan
+Ringing…
+Rio
+Rioja
+Risks
+River
+Roaming
+Robot
+Robotlar
+Roku
+Role
+Romanya
+Romanian ISO
+Romence
+Oda
+kökü
+Roots Module
+Kök
+Döndür
+Satır
+Satır
+Satırlar
+Rule
+Kurallar
+Ruleset
+Çalıştır
+RunAppX
+Running
+Çalışma zamanı
+Rusya
+Russian Federation
+Rusça
+Ruanda
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+Ö
+SASL bind
+SASL
+indirilemiyor
+SDP
+SE
+SECG elliptic curve sectr
+SECG
+SECURITY
+SEE THIS STRING
+SEE THIS
+SEE
+SETTINGS
+SFailed to
+SFailed
+SHA Digest
+SHA Fingerprint
+SHA
+SHOULD
+SHOW
+Charis SIL
+Charis
+SIM
+SIZE
+SKB
+SMB of
+SMB
+SMTP &apos
+
+SMTP
+yetkilendirmeyi
+SOCKS Host
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+SPONSORLU
+SQL Statements
+SQL
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+GÖRMEMENİZ
+STouch
+ÖNERİLEN
+SVG clipping
+SVG
+SW Asian
+SW
+GİT
+Naduno'
+SWITCH
+SYSTEM
+S_dosyalar
+Ct
+Saba
+Sad
+Safari
+Safe Mode
+Güvenli
+GüvenliTarama
+SafeMode
+Sahara
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+Saint
+Salaam
+Salem
+Salvador
+Veritabanında
+Sami
+Samoa
+Samoan Dili
+kendine
+Örnekler
+San Marino
+San
+Kum havuzu
+havuzu
+Sandwich
+Sangro Dili
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+Sans
+Sanskritçe
+Sansserif
+Santa
+Santo
+Sao Tome and
+Sao Tome
+Sao
+Sardinya Dili
+Sass
+Cmt
+Cts
+Cumartesi
+Saudi Arabia
+Suudi
+Save Permissions
+Değişiklikleri kaydet
+Kaydet
+Na'ninj so'
+Kayıtlı
+Kaydet…
+Saving
+Kaydediliyor…
+Saw
+Scalars
+Scale …
+Ölçek
+Scaled
+yoksay
+Scam Warning Take
+sahtekârlığını
+Sahtekârlıkları
+Duguchin ñan du'ua
+Tara
+Scanner app
+Scanner
+Scanning for
+Scanning
+Scheduling
+Scheme
+Kapsam
+Score Origin
+Score
+Scots
+İskoçça
+Scottish
+Scratchpad Enter some
+Karalama Defteri
+Karalama defteri
+Screen Orientation
+Screen reader
+Ekran
+Screenname
+Ekran görüntüsü
+Ekran Görüntüleri
+Gachrun' riña aga' na
+Betik
+Scripts
+Scroll
+ScrollLinkedEffects
+Kaydırma
+S gü
+Sdays
+Denizi
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Ara
+Arama
+Na noo
+Nana'ui
+Nana'ui'
+Nana’ui
+nanà'uì'
+Searches
+Searching &apos
+Aranıyor
+Aranıyor…
+Ara…
+Seccomp Thread Synchronization
+Seccomp Thread
+Seccomp
+SeccompBPF System
+SeccompBPF
+Second
+Secondary Email
+Secondary
+Seconds
+Sections
+Secure
+Securing connection
+sağlanıyor
+Security Exception
+Güvenlik
+Bu raporun oluşturulmasıyla ilgili uyarılar için
+Seç
+Seçin
+Selected Frame
+Selected Tabs
+Seçildi
+Seçilmiş
+Seçilenleri
+SelectedRemove
+Selecting
+Seçim
+Selector
+Selectors
+Seç…
+Self Cost
+Self Sampled
+Self Time
+Self
+Selfclosing syntax
+Selfclosing
+Selfposting
+Send Verification
+Send a
+Gönder
+Gönderen
+Gönderiliyor
+Sends a
+Sends
+Senegal
+Sensör
+Sent &quot
+Giden
+Gönderilen
+Eyl
+Separate _
+Separate tags
+Separate
+Ayrılmış
+Ayraç
+Ayraçlar
+Sepya
+Eylül
+Sırbistan
+Sırpça
+Serial Number
+Serial
+Serialize
+Serif
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+Server settings&apos
+Sunucu
+Sunucular
+Service
+ServiceWorker
+ServiceWorkerAllowed
+Hizmetler
+Servisler
+Sun ruguñu'unj un
+Oturum
+Sessions
+Set Up Sync &quot
+Set this channel &apos
+Ayarla
+Nagi'iaj yitïn'
+Nagui'io'
+Setting
+Settings &#124
+Ayarlar
+Nagi'iô'
+Nagui'io'
+Nguihio'
+Re ya saa
+Ayarlarını
+Ayarlar…
+Yapısı
+Seven
+yılda
+Seyşeller
+S sa
+Shader
+Shading
+Shallow
+Duyingo'
+Paylaş
+Rugu nu'un
+Rugu ñu'un
+Ruguj ñu'un
+Veriliyor
+Sharing Indicator
+Paylaşım
+Sheet
+Shift _ JIS
+Shift _
+Shift
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+Shona Dili
+Alışveriş
+Kısa
+Shortcut
+Shortcuts
+Shot
+Should
+Show/Hide
+Digan
+Göster
+Ni'iaj
+Showing
+Shrink To Fit
+Shrink
+Kapat
+Shutting Down
+Shutting
+SiInEfate
+Kardeşler
+Sichuan Yi
+Sichuan
+Kenar çubuğu
+Kenar çubukları
+Sierra Leone
+Sierra
+Sign
+İmzası
+Signed
+İmzalayıcı
+İmzalama
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Basit
+Basitleştirilmiş
+basitleştir
+uyacak
+Simulate touch
+öykün
+simülasyonü
+örneğini
+Simülatörler
+Başlangıcı
+Sind Dili
+Singapur
+Seylan Dili
+Seylanca
+Sint
+Siswati Dili
+Site
+Web sayfası
+Siteler
+Boyut
+Büyüklük
+Skype
+Kilise
+Dilimi
+Slovakça
+Slovakya
+Slovenya
+Slovence
+Yavaş
+S dk
+Küçük
+Sa hua li
+Daha Küçük
+Daha küçük
+Akıllı
+Gülümseme
+Gülümseyen
+Yüz İfadesi
+Sunal
+S ms
+iğrendi
+Sockets
+Yumuşak
+Yazılım
+Kesintisiz Kenarlık
+İçi
+Solomon
+Türkiye
+Somali Dili
+Somali
+Songhay
+Sorbiyan Dili
+Özür dileriz
+Sırala
+Sotho
+Sesi
+Kaynak
+Kaynaklar
+South
+Boşluk
+Space
+Aralık
+İspanya
+İspanyolca
+Hız
+Yazım
+Yazım Denetimi
+Spotlight
+Spratly
+Sri
+S sn
+St
+Yığın
+Mühürlemesi
+Standart
+Yıldız
+Yıldızlı
+Başlangıç
+Başlat
+Adım
+Başlıyor…
+Nga ayi'ij…
+Başlangıç
+Eyalet/Vilayet
+Durum
+Durumu
+Deyim
+Deyimleri
+İstatistikleri
+istatistikleri
+Durum
+Kal
+Duniikin
+Dur
+Durdur
+Ganikin
+Te ganikuun
+Durduruldu…
+Depolama
+depoları
+sahipsiz
+Sokak
+Genişlet
+Strict
+Üstü Çizili
+Dizgi
+Sa nanikò' dugui'i
+Şeridi
+Yapılandırılmış
+araştırmalar
+Araştırması
+Biçem
+Stil
+Stil
+Stiller
+Pa
+Pz
+Alt komutlar
+Alt dizin…
+Konu
+Gönder
+Gönderilme tarihi
+Değişikliklerinizi
+Atama
+Abone ol
+Abone ol…
+Alt Karakter
+Abonelik
+abonelikleri
+Subsys
+Alt Ağaç
+Başarılı
+Başarılı Oldu
+Başardınız
+Başarılı
+Tamamlandı
+dugu'nï'
+Sudan
+Son ekler
+Öneriler
+Özet
+sun Java
+Paz
+Sunbird
+Sudan Dili
+Pazar
+Üst Karakter
+Yerine Geçme
+Destek
+Sa ruguñu'unj un
+Surinam
+Soyad
+Sürpriz
+Şaşırmış
+Anketi
+Svalbard
+Swahili Dili
+Svaziland
+İsveç
+İsveççe
+Swift
+Değiştir
+Geç
+naduno'
+İsviçre
+yazısı
+Simgeler
+Eşitlenecekler
+Sync
+Eşitleme
+Eşitle
+eşitleniyor
+Eşitleniyor…
+Hìaj nagi'iaj guñanj
+Özet
+Suriye
+sistemleri
+S×
+S×S
+TCP
+TCVN
+İPUCU
+TIS
+TITLEBu
+TLS sertifkası
+TLS
+TV
+Televizyonlar
+Sekme Tuşu
+Tab
+sekmeformatS
+Tablo
+Tablolar
+Tabletler
+Tablo…
+Rakïj ñaj
+Sekmeler
+Etiket
+Etiketle
+Tagalog Dili
+Da'nga' achrûn'
+Etiket
+Etiketler
+Tahiti Dili
+Tayvan
+Tacik Dili
+Tacikistan
+Talk
+Tamil Dili
+Tamilce
+Tanzanya
+dokunun
+Hedef
+Görev
+Görevler
+Görev…
+Tatarca
+Ekibi
+Tech
+Telemetry
+Telemetría
+Tell
+Telugu
+Telugu Dili
+Geçici
+Şablon
+Şablonlar
+Geçici
+Kesin değil
+Terim
+Okyanusu
+Test
+Metin
+Pe
+Tay Dili
+Tayca
+Tayland
+Teşekkürler
+s why you got
+dır
+Tema
+Temalar
+Sonra
+okuyacağının
+yaşıyor
+Thomas
+Dizi
+Dizili
+Diziler
+Per
+Küçük resimler
+Thunder
+Thunderbird
+Perşembe
+Tibet Dili
+Tigre
+Tigrinya Dili
+Döşe
+Zaman
+Zaman Çizelgesi
+Zaman çizelgesi
+Times
+Zaman damgası
+Saat Dilimi
+Zaman Dilimi
+dilimlerini
+Zamanlamalar
+Doğu Timor
+Sa kan li
+Çok küçük
+İpucu
+Başlık
+Konu
+Unvan
+Alıcı
+Bitiş
+Bitiş tarihi
+Kime
+s
+Bugün
+Bugünü
+Gui Hiáj
+Kuan 
+Aç/kapat
+Değiştir
+Toogle
+Togo
+Tokelau
+Jeton
+Tome
+Yarın
+Yarın
+Tonga
+Tonga Dili
+Dil Çıkartma
+Dil çıkaran
+makalesine
+Çubuğunu
+Araç Çubukları
+Araç çubukları
+Araçlar
+Rasun
+Bilgi Notu
+Üst
+Toplam
+Dokunma
+turu
+İzler
+İzleme
+vermez
+Geleneksel
+Eğitimi
+Aktarılan
+geçişi
+Çevir
+Çeviriyi
+Çeviriler
+Çevirmenler
+Transport
+Çöp
+ağaç
+Trigger
+Trinidad
+Tromelin
+Sorun giderme
+Kesildi
+Güven
+Önce
+Tsonga Dili
+Tswana Dili
+Sa
+Sal
+Salı
+çalacak
+Tunus
+Turk
+Türkiye
+Türkçe
+Türkmence
+Türkmenistan
+Turks
+kutusunun
+Eğiticiler
+Tuvalu
+Bağlantıyı
+Tweet'ler
+Twi Dili
+Twitter
+iki
+Tür
+Türü
+Türler
+UID
+XTND
+GERİ AL
+Guyun
+BİLİNMİYOR
+UNSUPPORTED
+URI
+Adres
+URL
+USASCII
+USB
+USED
+UTC/GMT
+UTCS
+UTF
+UTFBE
+UTFLE
+Uganda
+Ouokl
+Uygurca
+Ukrayna
+Ukrayna Dili
+Ukraynaca
+Müsait değil
+Uygun değil
+Kontrol etme
+Kararsız
+Silmeyi geri al
+achîn
+Altı çizgili
+Altı çizili
+Dunahuî' ma
+Geri Al
+Geri Al 
+Geri al
+Geri al 
+Nadurê'
+Kaçışı
+vurgusunu
+Unicode
+Birleşik
+Ayarsız
+Guxun' ma
+Kaldır
+Kaldırılıyor
+Uygulama Kaldırılıyor
+Yayıncı
+ABD
+Emirlikleri
+ermiştir
+Evrensel
+Bilinmiyor
+Se sa ni'în' huin
+Bağlantıyı kes
+Boşalt
+Kiltli Değil
+Kiltli değil
+Eşleşmedi
+Naduyingo´nanee
+Sesi aç
+İmli
+sabitlikten
+Okunmadı
+Okunmamış
+Okunmayanlar
+Okunmayanları
+Kaydı sil
+kayıt siliniyor
+İmzasız
+Sıralanmamış
+Abonelikten çık
+Aboneliği iptal et
+Desteklenmiyor
+Etiketsiz
+Sonlandırılmamış
+Dizisiz
+Başlıksız
+Güvenilmeyen
+Kullanılmayan
+Doğrulanmamış
+Yukarı
+Yaklaşan
+Güncelle
+Güncelleme
+Kiaa nakaa
+Nagi'iaj nakà
+Nagui'iaj naka
+zamandaki
+Güncelle…
+Yükselt
+Bildirimler
+Yükle
+Yükleniyor…
+Büyük
+Urduca
+Uruguay
+Kullanım
+Hepsini
+s
+Kullanıcı
+Kullanıcıİstemcisi
+Kullanıcı Adı
+Kullanıcı adı
+Si yugui re'
+Usuario
+kullanıcılar
+Using
+Özbekçe
+Özbekistan
+V
+GEÇERLİ
+VERSION
+VISCII
+V
+VK_F
+VK_QUOTE
+VK_RETURN
+VK_SEMICOLON
+VK_SLASH
+VPS
+Geçerli
+Geçerlilik
+Doğrula
+Doğrulama
+Geçerlilik
+Değer
+Değerler
+Vanuatu
+Değişken
+Değişkenler
+Vatikan
+Velho
+Venda Dili
+Venezuela
+Verde
+Verify
+Doğrulanıyor
+Doğrulanıyor…
+Verisign
+Sürüm
+Vertex
+Dikey
+Sa siki' ni'io'
+Video
+Vietnam
+Vietnamca
+Gini'iaj
+Guini'hiaj
+Görünüm
+Göster
+görüntüleyicisi
+Viewport
+Görünüm
+Görünümler
+Görüntüle…
+Göster…
+Vincent
+Virgin
+Sanal
+Ziyaret et
+edilenler
+Vista
+Görsel
+Ses
+Volapük
+Ses
+UYARI
+UYARILAR
+WCAP
+WHOIS
+WHOWAS
+WYSIWYG
+Bekle
+Bekleniyor
+Bekleniyor…
+Wake
+Wallis
+Walloon Dili
+yüklenmişsiniz
+Uyarı
+Uyarılar
+İzle
+Saatler
+Şelale
+Waveform Ses
+Waveform
+Ça
+sarf
+Tabanlı
+WebGL
+WebIDE
+WebIDL
+WebSockets
+Webmaker
+Web sayfası…
+Web sitesi
+Çar
+Çarşamba
+Çarșamba
+Hafta
+Her hafta
+haftada bir
+haftayı eşitle
+Bienvenidos
+Guruhuâ re' gunumâ re'
+Hoş geldiniz
+Galce
+Western
+Ne zaman
+Zaman
+Beyaz liste
+sağlandı
+WiFi
+Widevine
+Genişlik
+Win
+Pencere
+Sa ni'io'
+Windowopen
+Windows
+Göz Kırpma
+Göz kırpan
+RSA
+Sihirbazına
+Wolof Dili
+Sözcüğü
+İş
+Çözümler
+Worker
+Worker'lar
+Worker’lar
+Çalışma Günleri
+Dünya
+Kaydır
+Oluştur
+Yaz
+Yazma
+Yeni ileti
+X
+XHR
+dönüştürülemiyor
+XML
+XMLHttpRequest
+XP
+XPCOM
+XPConnect
+XPath
+XSLTStylesheet
+XUL
+XXX
+Xhosa Dili
+Y
+Yahoo
+Yandex
+Yıl
+Her yıl
+yılda
+yılı eşitle
+Bağıran
+Bağırma
+Yemen
+Evet
+Ga'ue
+Dün
+Guki
+Kii
+Yi
+Eskenazi Dili
+York
+Yoruba Dili
+Siz
+sò'
+YouSendIt
+Z
+Zambiya
+Zelanda
+Zuang Dili
+Zimbabve
+Politikası
+bölge
+Yaklaştır
+Yakınlaş
+Yakınlaştır
+Yakınlaştırma
+dàj nìko ma'an
+Ölçek
+Zulu Dili
+CalDAV
+Temizlik
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+a scam
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+a surprised
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+a week
+a windowed
+a wink
+a year
+a yelling
+İlkede
+aChoose
+aFrames
+aKnow
+abcçdefgğhıijklmnoöprsştuüvyzABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ
+hayvan
+abilities
+able
+abort
+aborted
+about About
+about Networking
+about Us
+about brandShorterName
+üzereyseniz
+aboutconfig
+aboutcredits
+aboutrights
+aboutwebrtc
+yanıtımın
+aboveAllow
+abruptly
+İmzanın
+absolute positioning
+Mutlak
+accel
+accelalt
+acceleration on
+ivmelenmesini
+accelshift
+aksanlı
+accept
+acceptable
+tanımlanabilir
+accepted
+accepting site &apos
+accepting
+access Key
+access multimedia
+videolarınıza
+accessed
+accessibility support
+accessibility tools
+erişilebilirlik
+yumin
+defter
+accidental breakage
+accidental
+accompanying
+Çoğu
+accordance
+according
+s
+account Actions
+account connected
+account name
+hesabını
+accountManagernewAccountlabel
+parolalarını
+konumların
+hizmetlerin
+bilgisayarında
+gezinme
+akt
+action
+actions
+dugi
+etkinleştirildi
+active Logins
+active
+activity Indicator
+activity Stream
+etkinliğinizi
+actual Size
+actual
+actualDate &apos
+actualDate
+aktüeryal
+adaptive
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+yanıtlamak
+addEventListener method
+addEventListener
+eklendi
+ekleniyor
+ek
+additivesymbols descriptor
+additivesymbols
+addon &apos
+yüklemelisiniz
+addons gallery
+eklentiler
+addonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+ninï
+addressbook
+addressbr
+adresleri
+addressing area
+addressing
+Bitişik
+adjust
+admin
+yöneticisiyle
+adult supervision
+adult
+advance
+advanced JavaScript
+tanımayı
+advanced_pref_installation
+advancelabel
+kuralıyla
+advertised
+advertises
+şekillerde
+affected
+affecting
+after Sending
+yükselttiğinizde
+deneyin
+yaşı
+istemcisi
+aggregate
+aggregates
+aggregating
+okuyucunuz
+ago
+agree
+ediyorsanız
+airplane
+NIST
+aka
+ayeni
+alert description
+uyarı
+algorithb
+algorithm Parameters
+çözüm
+algorithmhash value
+algorithmhash
+algorithms
+hizalamasını
+alined
+alive
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+bütün
+allocate
+belleğin
+allocation
+allocations Rate
+allocations
+allow dialogs
+allow immediate
+verilsin
+yükleyebileceğini
+allowfullscreen
+allowing
+allows
+allowsameorigin
+allowsameorigin
+neredeyse
+along the Y
+Yanıtlarınız
+sırasıyla
+already bookmarked
+bırakarak
+also gives
+also skip
+çekeceğini
+altKeylabel
+alter
+alteration
+mümkündür
+alternatif
+seçeneklerinden birini
+always Ask
+always Block
+always prefer
+always
+am &#124
+am
+amount
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+documentwrite
+analizi
+çözümlenmesini
+ancestor elements
+ancestor
+ancestors
+s
+çıpa
+çapaları
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+Hersek
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+Tobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+ve
+açısı
+animatable
+animated
+animation cycle
+animasyon
+animasyonlar
+her yıl
+anonymous box
+anonim
+nuni'în sa girirà
+sta
+answers
+antivirus software
+antivirüs
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+herhangi
+bkz
+açtığınız
+anypolicy
+söyleme
+anyway
+yerden
+ayırabilirsiniz
+app &apos
+app submission
+app
+appName
+appear
+appearance wrong
+appearance
+scrolllinked
+append
+applicable service
+applicable
+application Basics
+application Details
+application doesn &apos
+uygulama
+applications
+applied
+applies
+İndirildiğinde
+applying update
+uygulanıyor
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+approved
+approx
+approximate line
+yaklaşık
+tutarsızlıklar
+ permission for
+apps
+apr &#124
+nis
+nsn
+bölgesini
+archive
+archived folders
+arşivlenmiş
+archives
+archiving
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+yöntemlerinde
+area shape
+area
+areas in
+areas
+t what
+aren
+argument
+arguments for
+bağımsız
+arising out
+sorumlu
+arjo
+armscii ISO ISO ISO
+armscii
+around
+arrive
+arrived
+arrives
+ok
+arsa
+article summary
+makale
+haberleri
+artwork
+as &apos
+as Authored
+as broken
+as cURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+yazdıkça
+ascending
+ascii
+ash
+asis &quot
+sağlanmaktadır
+ask me
+ñûnt
+asked questions tips
+asked
+yazılımın
+asks that
+geliştiricisi
+aspect ratio
+boy
+aspects
+assets
+assist you
+assist
+başvurun
+güncellenecektir
+association
+assume
+assured
+asterisk
+async touch
+async
+asynchronous Pan
+asynchronous entity
+eşzamansız
+asynchronouslyloaded
+at S
+at least
+at span id &apos
+okunmasına
+atchMore than
+atrule
+Epostama
+attached
+attaching
+attachment Reminder Keywords
+attachment Reminder
+ek ek
+attachment reminder words
+ek
+attachmentDo
+ekler
+attack An
+attack pages
+saldırı
+attacker could
+attacker
+attackers
+saldırısı
+tazelemeyi
+attempted old
+nesil
+attempting
+naràn
+attend
+onayladı
+attendee
+attendees
+attention
+attribute Type
+öznitelik
+ ownerElement
+öznitelikleri
+audio Backend
+sesi
+aug &#124
+aug
+ağustos
+authenticate to
+işarete
+authenticates
+authentication mechanism
+istemciyle
+doğrulanamadığı
+gönderilmesini
+makamlarını
+authority is
+yetkilisi
+authorization
+authorized
+authors whom
+geliştiricileriyle
+auto Increment
+auto Prettify
+auto Save
+auto discover
+gizlenmesini
+autoAddOnsUpdateslabel
+autocomplete
+autocompletion
+autodetection
+autofill
+automated updates
+automated
+automatic updates
+automatic
+automatically Black
+automatically detects
+automatically prefill
+automatically so it &apos
+automatically
+automation
+oynatmaya
+autoscrolling
+available &quot
+available Commands
+uygun
+ortalama
+ortalama
+avoid
+aware
+uzakta
+çevrileceği
+bağlanmasını
+söyleyebilirsiniz
+bS
+back facing
+geçmişe
+backed up
+backed
+backfacevisibility hidden
+backfacevisibility
+plan
+backlogged
+backslashes
+yedeğinin
+backups
+backwards
+bad parameter
+Bozuk
+badge
+baggage object
+Bagaj
+yasaklayamazsınız
+banks stores
+banks
+banned
+banner
+motorlarının
+barada
+taban
+belirtebilirsiniz
+snaphop
+basic Page
+temel
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+yapmalısınız
+bear the
+bear
+beast
+beasts brought emfire
+hayvanlar
+güzelleştirici
+Güzelleştirilecek
+became full
+became
+öğelerden
+become
+becomes damaged
+becomes
+been deactivated
+been navigated
+been reestablished
+been replaced
+been revoked
+been transferred
+been translated
+bağlanılmamıştır
+beep
+yüklenmeyi
+emsüratle
+tarayıcını
+beginning
+begins with
+begins
+baskı
+behavior
+behaviour
+behavioural
+being incompletely transferred
+being redirected
+being reparsed
+Şifreyi
+insanların
+believed
+belongs to
+çalışıldığı
+kopyalayıp
+benefit
+benefits
+beside
+best Match
+best accomplished
+best
+iyiye
+between
+bfor Android
+bgt
+yönlü
+İndirilecek
+bigger
+billing
+ikili
+bind DN
+bağı
+binding shadows
+bağını
+bindings tag
+bindings
+bird
+birdcage …
+birdcage
+birth
+bit keys
+ bit
+bit
+bitrate
+bit
+bitten
+kara
+boş
+block Lists
+block padding
+raporlayamaz
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+Naran
+blocking
+blocks parts
+blocks
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+Gövdeye
+defterini
+bookmark updated
+ruhui
+bookmarked
+yer imleri
+defterleri
+boolean
+bootloader
+border &apos
+border radius
+kenar
+kenarlarını
+alt
+eğitmelisiniz
+alt
+bağlanmamış
+boundaries
+bounds
+box Model
+box model region
+box model
+kutu
+Boxcom
+kutulandı
+Boxes
+kutulamanın
+bulamadıbr
+parantezi
+ayraçlarını
+brackets
+brand new
+brand profile
+brand
+brandFullName Credits
+brandFullName
+brandShortName &apos
+brandShortName Preferences
+brandShortName logo
+brandShortName
+brandShorterName Tour
+brandShorterName
+brandShortname
+break
+breakage
+breaking
+noktasını
+noktalarını
+breaks
+brighter
+Al
+broad
+kırılmış
+brought
+liliBelki
+browser &apos
+browser Hangs
+browser configurations
+tarayıcı
+browsercachediskenable to
+browsercachediskenable
+browsers
+tarama
+smartcard
+btn
+buddy list
+arkadaş
+budget
+buffer capacity
+tampon
+bug
+bugs visit
+bugs
+bugzillamozillaorg
+build Configuration
+yapı
+building summary
+built
+builtin Roots
+builtin tools
+Gunchee
+bulleted list
+imli
+business
+chruj
+but we
+ama
+button button
+düğme
+buttons
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+Felsefesi
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+tarafıdan
+bynbspdesign
+byte
+bayt
+c
+cSrS
+cURL
+cache management
+bırakılmadı
+cachecontrol set
+nostore
+önbellekten
+cachemanifest
+caching of
+caching
+calendar Weeks
+takvimdeki
+calendaring information
+calendaring
+calendars
+calendartimezonesxpi
+call Stack
+call calls
+çağrısı
+callUrl
+callback
+called &apos
+called
+ataması
+durdurun
+calling detach
+calling
+Çağrıları
+Niatj
+t establish
+can analyze
+can collect
+can often
+can ’
+çoğunlukla
+cancel
+canceled Occurrences
+Çıkmak
+cancellation
+vazgeçildi
+cancelledAddon
+candidate resources
+candidate
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+çözemiyor
+canvas Debugger
+canvas an
+kanvas
+becerileri
+saptadı
+kapasitesi
+taşınıp
+alt yazı
+yakalansın
+captureEvents
+captured log
+yakalanan
+kart
+cards copied
+cards etc
+cards
+yapıştırırken
+gudadû
+carefully
+caret
+carriage return
+carriage
+carrier
+case sensitivity
+tanımlanmalıdır
+caseinsensitive
+cases
+cast
+kategorilerin
+categorize and
+kategorileştir
+kategori
+categorySource
+sebep
+caused
+sebepler
+causing stability
+causing
+caution
+caveats
+ sü
+cd
+cell border
+cell was
+hücre
+hücrelere
+cellular location
+hücresel
+census
+center footer
+center header
+center
+centered
+centerxcenteryradius
+centimeters
+cert AIA
+cert Library
+cert validation
+cert
+yönde
+certificSian
+sertifikanıza
+ch
+zincirinin
+değiştirilmelidir
+kaydedecek
+ganaduna
+kanalındasınız
+gerekirse
+karakter
+karakterler
+charset
+sohbetine
+işaretle
+Kürsel
+kutularını
+işaretlendi
+denetleniyor
+çıktısından
+kontrollerini
+Seçme
+tutan
+sistemini
+chrome//messenger/content/msgAccountCentralxul
+chrome
+şifrelerin
+daire
+daire
+kanıtlanmış
+sınıfı
+sınıflandırıcı
+Clear Sans
+temizleyecektir
+temizlenecektir
+göndererek
+tıklandı
+önerilmektedir
+ayarlanamaz
+istemcinizle
+İstemciler
+nachîn
+kapat
+kapatıldı
+kapatılırken
+bulut
+kodu xS
+kodunun
+codebreakpadreporturl
+çözücüye
+Çözücünün
+lerini
+colgroup
+daraltmak
+daraltıldı
+toplayacak
+toplanmadı
+toplamayı
+collection
+toplayıcı
+renk
+renklerini
+sütun
+sütunları
+kullandı
+birleştirici
+kombo kutu
+kombo
+komutlarının
+komutlar
+ayırın
+Yorum
+yorumlar
+Bizimle
+topluluktur
+sıkıştırın
+sıkıştırılıyor
+uyumluluğu
+derleme
+ek
+Kurulumun
+bazılarının
+Bitişe
+görüşmeleri
+bileșeni
+işaretleyip
+çalışmaktadır
+geçirilebilir
+hesaplaması
+tu
+bilgisayarlardan
+conbv
+konferans
+yapılandırılabilir
+metinler
+yapılandırır
+Ayarlanan
+çelişki
+dizimine
+bağlanabileceğini
+nıza
+bağlanılıyor
+taranmasını
+bağlanacağını
+peşe
+düşünün
+tekniktir
+konsolunu
+consoleerror
+consolelog
+konsolları
+consolewarn
+sınırlamayı
+geçebilir
+dannaj
+kapsayıcı
+içeriği
+içerik
+klasörün
+context
+başlayabilirsiniz
+tamamlanmayacağını
+devam
+Katkılarınız
+süregelen
+katkıda bulunanların
+yazışmaya
+çerezler
+Kendinden
+koordinatı
+kopyalandı
+Kopyalar
+kopyalaması
+kopyalanıyor
+yapılandırmasını
+Yazanlara
+bozulmasına
+liGelişmiş
+t read the
+counterstyle
+kapsamı
+cpnbv
+cpnbw
+çökmeden
+yükleyebilirsiniz
+rahat
+kopyalanacak
+basmak
+yaratılıyor
+bilgilerinin
+kredi
+ölçütleri
+kritik
+css
+ctnbr
+ctnbv
+küme
+çalıştıramaz
+hareket
+eğri
+özelleştirme
+özelleştirmelerinizi
+özelleştirmeniz
+süreklemeniz
+döngüsünün
+değişti
+d
+her gün
+sisteminize
+hasardan
+tehlikeli
+verdiler
+darrinhenein
+verisiyle
+veritabanındaki
+datareporting
+tarih
+günde bir
+güngün
+gün
+gün sonra otomatik sil
+de
+larda
+duraklatılmış
+ayıklaması
+aralık
+aldatmaya
+aldatıcı
+kararı
+İfade
+xuserdefined
+reddet
+çözücü
+Deşifre
+Veriyi
+şifrelenmesinde
+çözerken
+çözme
+varsayılan
+defaultPrevented
+varsayılanS
+varsayılanına
+tanım
+derece
+Gecikme
+öğesini
+silindi
+denemeden
+teslim
+ond
+ondalık ayracı
+olmamasını
+değişir
+ermiş
+kullandığımız
+açıklama
+hedef
+duvarları
+kapanmadan
+ayrıntılarını
+işaretli
+geliştirici
+developermozillaorg
+geliştiricilerini
+cihaz
+nachrûn
+girip
+teşhis
+giderme
+diyagram
+diyalog
+önle
+sesli
+sözlükler
+vermeyince
+different
+Digest
+ölçülerini
+döndürür
+direktiflerindeki
+doğrudan
+directory
+devre dışı bırak
+devre dışı
+bırakır
+etmenizle
+etmeyecek
+yaptığınızda
+sıkesildi
+isteğiyle
+tartışma
+disk
+gönderildi
+paginâ
+onarmayı
+dağıtıcılar
+güvenmezseniz
+div
+ayırıcı
+tazeleme
+docpdfxlspptrtfppsattachmentattachattachedattachingenclosedCVcover
+belgeler
+doctype
+belge
+belgelere
+documentdomainS
+cut
+etmez
+dış
+tarafınızdan
+t match
+geçemez
+erdiğinden
+t Share
+değeriniz
+indirmek
+indirildi
+indiriliyor
+indirdiğiniz dosyalar
+sürükleyin
+sürücü
+sürücüsü
+sürücüleriniz
+Vade
+artığı
+çoğalt
+süreyi
+aşağıçaprok
+e
+geçişinizde
+göndermeli
+eskisinden
+kolayca
+süzgeçlerinizi
+düzenlenen
+düzenleme
+editörü
+tarihleri
+deneyimi
+yapmalıdır
+sekiz
+eightbit
+eighteen
+eighteenth
+sekizinci
+imzalanması
+elapsed
+elea reime
+element
+öge
+elementdataset instead
+elementdataset
+elementleri
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+yedi
+yedinci
+sameorigin
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+oval
+else contact
+else
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+eposta
+ve linked files
+epostaya
+emailed
+epostasiteadresicom
+emails
+emand
+embarrassed face
+embarrassed
+embarrassing
+embed
+embedded PDF
+embedded
+lerindeki
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributor
+emcontributorJoe Solon
+emcontributorMozilla
+emcontributorSuzy
+emateş
+emgreat
+emnew
+emdışında
+Duygu
+employer
+empty Trash
+empty slots
+empty
+emptying
+emreborn
+emrenewed
+emswiftly
+emthunder
+emikizleri
+emulate a
+emulate
+emulating a
+emulating
+emülasyonu
+en
+enUS en
+trTR
+enable brandShortName &apos
+enable others
+enable worker
+etkinleştir
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+etkinleştirildi
+başlatınca
+enbz
+kapsar
+parantez içinde
+encode
+encoded
+encoder
+kodlamasında
+kodlamalar
+encountered
+encrypt this
+şifrelemek
+encrypted you
+başkalarının
+şifreleme
+enctype instead
+enctype
+enctypeS
+nctypemultipart
+end user &apos
+bitirme
+erdi
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+bitiyorsa
+enforced
+engage
+motorundan
+motorlarda
+enhanced
+yeniliklerin
+enlarging the
+kuramayacak
+lugâ
+ensure
+ensures that
+ensures
+gir
+Sayfaya
+dolandırıcılıkla
+enters
+tamamının
+entirely
+temizlemeden
+entity in
+entity reference
+varlığın
+numaralandır
+girdi
+enumerable
+enus
+environment Data
+environment
+environments
+ephemeral DiffieHellman
+ephemeral
+equals sign
+equals
+denklem
+equestAnimationFrame
+era of
+erase
+error console
+error creating
+error refiling
+hatası
+errorCode
+errorfree
+hatalar
+erver
+es Salaam
+es
+esES
+esc
+escape
+escaped
+escaping
+establish
+established
+estimates only
+konumlar
+etc
+çağırma
+evaluate selected
+evaluate
+evaluating a
+evaluating an
+değerlendiriliyor
+değerlendirme
+öğelerinizi
+event Handler
+olay
+eventThe
+etkinlikleri
+chí
+every dayevery
+every weekevery
+sıklığı
+everyone
+everything inbetween
+everything
+everywhere
+exact
+eşitlenmesini
+examf
+examine your app &apos
+examine
+example
+examplecom rather
+com
+ornekadresnet
+exceed five
+exceed the
+exceed
+aşıldı
+belirlenin
+except
+së
+exceptions Cookies
+ayrıcalıklarının
+exchange
+excluded
+kapsama dışı olanlar
+vermeyebilir
+executable
+çalıştırılacak
+executed to
+yapılmaz
+executes
+yürütme
+teşkil
+exist can &apos
+exist
+mevcut
+exists
+existsWould
+çıkılsın
+exited
+exits
+expand panes
+genişletmek
+expanded to
+genişletildi
+expanding out
+expanding
+expands to
+expands
+olsa
+expect anonymous
+expect
+expectations
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+Yön
+expecting
+demek
+experienced
+experiences
+experiencing
+experiment
+deneysel
+experiments
+dolana
+zaman aşımı
+expires Seconds
+tanımlayın
+expiry
+explicit
+explicitly specify
+sürümlerde
+exploit
+explore a
+keşfedecek
+export regulations
+export
+exported
+kullanmaz
+exposedProps
+express
+ifadesinin
+İfadeleri
+extend
+extended
+extending the
+extending
+extends system
+Extends
+extensible
+extension extensions
+uzantı
+uzantıları
+external Editors
+external storage
+harici
+extra Large
+extra requirements
+ekstra
+extract error
+extract
+extraction error
+extraction
+extreme
+f
+yüz
+facing camera
+facing
+factory
+fail
+sonuçlandı
+fails treat
+ilke
+failure
+çekilmesinin
+Se sa yanga'
+false
+familiar
+family addressbr
+del
+far
+fast
+Üçüncü
+faves
+iletildi
+feature
+özelliklerindeki
+feb &#124
+şub
+şubat
+feed &quot
+feed Subscriptions
+beslemeye
+feedImported
+vermiş
+Beslemelere
+cdaj
+feels great
+sínj
+fell
+çiti
+fetch count
+güvenliydi
+fetched from
+getirilen
+fetching individuals
+fetching more
+fetching
+few
+fewer
+ff &quot
+ff
+field Value
+doldurun
+alanlarını
+fifteen
+fifteenth
+beşinci
+fig
+şekil
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+dosya
+filename
+ninej
+filesystem
+yazmasını
+fill out
+Dolgu
+CanvasPattern
+filled
+doldurulması
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+filtre
+filtered
+filtering
+süzgeçlerini
+final
+financial
+find In
+find exactly what you &apos
+find out what &apos
+pulliAlan
+findbar
+finding
+finetuned
+finish
+finished evaluating
+tamamandı
+finishing
+fire
+firefox
+firefoxapps
+firewall
+Bazen
+first option
+first party
+verelim
+fit
+beş
+fix
+fixed Width
+fixed width font
+düzeltilebilir
+fixvideoaudioproblemsfirefoxwindows
+flag
+flagged
+flame
+flash
+flashing
+düz denklem
+flat
+flexibility and security so you &apos
+flexibility
+flexiblebr
+floating &quot
+floating
+kat
+floppy
+kat
+focus Variables
+odaklan
+odakta
+folder &apos
+folder &quot
+folder subscriptions
+klasöründe
+dizinlerin
+follow
+followed by
+followed
+followers
+following protocols S isn &apos
+Sertifkanız
+follows
+İletisi
+font Control
+font size
+tipi
+fontface kuralını
+fontface
+fontfeaturevalues
+fonts for
+yazıtiplerini
+fontvariant property
+fontvariant
+footer text
+alt bilgi
+footinmouth face
+footinmouth
+for &apos
+for &quot
+for Clearing
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+for recipients &apos
+for signing
+for writing
+çöküşle
+yasak
+zorlamak
+zorladı
+forcibly
+forcing all
+forcing
+Yabancı
+forgeries
+sahtekârlığı
+forget
+forgetting
+forgotten
+form Field
+form Post
+form fields
+form userhost
+form
+uyun
+formatD
+formatI icon
+formatI
+formatS formatS çalışamaz
+formatS
+formatSNew
+biçimleri
+formatted as
+formatted
+biçimlendirmesini
+formdata on
+formdata
+formed
+forms are
+forms
+forth and
+forth
+forumlarımızı
+forward slashes
+İleriye
+iletildi
+forwardmsg
+forwards
+bulunamamış
+foundout of
+foundout
+founds
+dört
+fourteen
+fourteenth
+dördüncü
+fox jumps over your expectations with
+fox jumps
+fox
+fps
+frFR
+kesir
+kesir
+Fragment Shader
+parçasında
+frame &apos
+kareyi
+framed
+framerate
+çerçevesi
+frameset
+kümelerini
+framing
+sahtekârlıkla
+anılan
+bedava
+frequently
+arada
+friday &#124
+cuma
+cumaları
+friend
+friends
+from Garbage
+from edge of paper to Margin
+Takılmaların
+from strongThe
+from the viewer reader &apos
+from visited
+Konumu
+başlangıcı
+ilk
+kimden
+konumu
+nereden
+front facing
+front
+frown face
+frown
+donmuş
+ftp
+ftpadresimcom
+olmaya
+fullfeatured
+fullpage
+nanikajt
+Yöneticisinde
+işlevin
+functional
+kazandıracak
+functions
+further
+future scans by
+future
+fxp Available
+fxp
+gain
+gallery
+garbage Collection
+garbage collection
+garbage
+garbled text
+garbled
+gateway
+toplanıyor
+gazed
+gb
+gdiplus
+gear icon
+gear
+general Notification
+general
+generally
+generate a
+generate
+Oluştu
+generation
+üretecinde
+generic Photo
+generic
+geoenabled preference
+geoenabled
+geolocation
+geometric
+geometry visibility
+Geometri
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+öneriler
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+getAttributeNode
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams
+getRemoteStreams
+getUserData
+getting Started
+şüphelenebilirsiniz
+troubleshooting
+gif jpg
+GIF
+git commit&apos
+git
+give feedback
+give
+dizgiyi
+gives you
+değiştirdiğiniz
+giving
+glitches
+glob
+global Composing
+global community
+globali
+globals
+go Back
+gider
+goes
+going online
+okuyabilmek
+gone
+good news
+nedeni
+niyetle
+gopher
+gorithm Identifier
+got it
+got
+governed by
+governed
+grace
+grant
+kurumun
+grants you
+grants
+grafik
+sürücünüzü
+great
+greater than
+greater
+greeting
+grew more
+grew
+ızgarası
+ızgara hücresi
+tut
+grupla
+grouped
+relative
+gt
+gtgt
+guarantee that
+edemez
+guaranteed
+guess
+guessed
+guessing
+guest is
+guest
+guide you
+gösterebilir
+kılavuzları
+h
+hTraduction
+ha
+etmeyle
+had its
+yaşadı
+half an
+buçuk
+half
+el aracını
+hand
+handle S
+Ngà
+handled
+handler command
+çağrılmadı
+handles
+handling
+hands
+karşılama
+handshakes
+hang Report
+hang stacks
+Takılma
+hangs
+üzüldük
+kaldırması
+hard drive
+hard
+donanımsal H
+hardware acceleration
+donanımsal
+harm
+sahibinin
+has Attachments
+has bookmarked
+katılımını
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+nukuaj
+hash
+hashes in
+lerinin
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+yaratabileceğinden
+haven &apos
+yani
+haves
+having trouble
+sağlayacaktır
+head
+üst bilgi
+başlık indir
+heading level
+başlık
+headings
+sağlığı
+heap
+bildirilir
+height
+held
+hello extension
+hello
+Üzgünüm
+helper
+helpful
+helping make
+helping
+helps ma
+yönetmenize
+her
+burada
+burada bulunabilir
+buraya
+gizli
+hide Statistics
+hide Toolbars
+gizlemek
+hiding
+high Grade
+yüksek
+higher level
+higher
+highgrade
+vurgula
+İşaretli
+highlightedS nodes
+highlightedS
+vurgulayıcıyı
+vurguları
+highly recommended
+deneyidir
+Hightailcom
+him
+ipuçlarını
+hints
+his or her
+his
+history window
+history&apos
+geçmişlerinizi
+hold
+yıllarını
+home City
+home Country
+home Phone
+home directory don &apos
+no
+homepage
+hop limit
+atlama
+horizontal lines
+yatay
+horror
+hot
+barındırılan
+hosting service
+hosting
+hostname
+hostnameport
+hostnames
+hostport
+hosts
+hotspots
+hour
+saatsaat
+saat
+how
+however
+href
+hrink
+hrpd
+dçizik
+htm
+html &apos
+html
+htmlstrong
+htmlstrongCookies
+htmlstrongHistory
+htmlstrongsekme
+htmlstrongpencereler
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//ornekcom/uygulama/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http//wwwseamonkeyprojectorg/
+http
+https//boxescom/external/widgetreferffurls
+https//composemailyahoocom/Tos
+https//developermozillaorg/tr/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad
+https//mailgooglecom/mail/extsrcmailtourls
+https//wwwmibbitcom/urls
+https
+ton
+tireler yorumu
+tireler
+iCalendar
+iOS
+simgesine
+icons
+ics
+id
+birebir
+tanımaya
+tanımlayıcı
+bilgilerden
+tanımlamak
+yönetin
+beklemede
+uygulanmış
+etkinleştirirseniz
+s
+paylaşılamadı
+resimgif
+resimjpeg
+resimpng
+resimleri
+rezervedir
+imgmap
+imgur
+meşru
+İletiye
+çalışmasından
+sözlü
+aktar
+önemli
+aktarıldı
+aktarırken
+zor
+çalınmasını
+artırılmış
+geliştiriliyor
+Görünümlerde
+in
+kalmak
+uzakta
+imla
+inç
+Batı
+olduğum
+Anlaşılır
+verisinde
+sayılıyor
+süresini
+artırımlı
+indeks
+dizin
+içerik
+dolaylı
+kodlamayı
+ined
+verimsizdir
+sonsuz
+bilgiye
+karşılamaya
+satır içi
+İçinde
+beklentilerinizin
+input
+çerçevede
+Şaşırmış
+ekledikten
+Denetçiyi
+kur
+yükle
+yüklemmesi
+yüklüdür
+yükleniyor
+Anlık
+lugaj
+bırakma
+sayı
+sunduğu
+sayesinde
+kısıtlamaz
+İçsel
+İnternet
+sayfasındaki
+geçersiz
+davetiyeyi
+davetlerini
+katılımcıları
+kapsanıyor
+spanetkin
+sağdaki ile aynı ise
+isindex
+t valid
+sağdaki değil ise
+isoisoutfxgbkbigisojpshift_jiseucjp
+bildirilsin
+dağıtan
+yayıncıya
+çözebilir
+s about time
+yüklemiş
+öğesi
+ögeler
+yineleme
+altları
+Jan
+ock
+tamamlanırken
+seferde
+katıldı
+topluluğa
+jslintstricter
+tmz
+sıçrandı
+hzr
+işaretlemeye
+kb
+çaba
+bulundurması
+Anahtarına
+keyframes
+tuşlarını
+kelimeler
+kick
+türle
+açacağını
+etiket
+etiketlendiğini
+donanımı
+sna
+son
+yenisi
+atan
+yasalarıyla korunur
+gereksinimleri
+ihtilafi
+düzenini
+ldi
+ldif
+guisij
+uygulandığında
+terket
+sol
+uzunluk
+etmesine
+letterekteektekiekliekleneneklenmişözgeçmişönyazı
+harfler
+düzeyini
+sol
+li
+liSisteminizde
+liGa
+liÇevrimiçi
+liGörüntülemeye
+liSorunun
+liYeniden
+tutulamaz
+kütüphaneleri
+konsoldan
+kitaplığı
+ışıkla
+parlaklık
+bakılarak
+pulliGuendâ
+liliİstenen
+liliBilgisayarınız
+liliÇevrimiçi
+liliBazı
+liliHer
+liliemNOT
+sınıra
+tutulmasına
+sınırlıdır
+sınırlarının
+s
+line
+satırlarına
+s
+bağlantı
+seçimler
+Ağzı
+liste
+listelenmeyen
+Dinleme
+dinleyici
+listelerini
+düzanlamlı
+lnk
+yüklendi
+yükleniyor
+yerel
+diller
+localhost
+konuma
+konumlardan
+kilitli
+günlük
+sesiòn
+oturumlar
+logolarını
+uzundiv
+ulaşamayacaksınız
+öğrenmek
+döndü
+Çıkarsanız
+lt
+ltCtrlKgt
+ltCtrlShiftKgt
+ltbgtkalınlt
+ltkomutunugt
+ltheadgt
+ltiletigt
+ltmesajgt
+ltnamegt
+ltyeni
+ltnickgt
+ltrumuzgtltrumuzgt Birisinin
+ltrumuzgtltrumuzgt
+ltparametregtltparametregt
+ltr
+ltroomgtltservergt
+ltdurum
+lthedefgt
+ltkullanıcıgt
+ltxExKgt
+ltxKgt
+lu
+yazılımının
+makinelerde
+madruwb
+mleri
+postalarını
+dosta
+kutuları
+maildir
+mailornekadrescom
+ana
+hizmetleri
+yayıncılarını
+bilgisayarlar
+kusurlu
+yönet
+yönetimini
+Bildirge
+manifestjson
+manifestwebapp
+rehberimizi
+kendim
+keşfetmesine
+haritalaması
+mar
+mrt
+
+kenar boşluğu
+kenarlar
+mark the
+başlayacaktır
+marked
+marking a
+işaretlerken
+İşaretleme
+kayan yazı
+masking
+master
+ölçütünüzle
+matched by
+eşleşti
+matcheleatchMore than
+eşleşiyorsa
+çevirir
+matchutomatically
+material
+math table
+matematik
+matrisinr
+maks
+maxage
+maximum Length
+maximum permissible
+maximum
+may discontinue
+may update
+mayıs | may | mys
+maybe
+mb of
+mb
+mbox
+me out of here
+yapılacağını
+mean slower message
+mean
+means you &apos
+Yani
+measure a portion
+measure a
+measure
+ölçümlerini
+measuring
+mekanizması
+mechanisms
+media Sharing
+medya
+medium
+dağıtma
+member
+members
+membersonly
+memory map
+memory measurements
+bellek
+mentioning
+menu Bar
+menu bar
+menü
+menuPath
+menus
+merchantable
+merge Warning
+merge all
+yaptı
+mesh
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+postaya
+messageDone
+messageIndexing
+messageS
+iletidirbr
+messagebrIn
+iletieml
+messagegt
+messageid
+messages Reopen
+ileti dışındakileri sil
+ileti indirilecekse bana sor
+mesajlaşma
+meta
+metadata
+metal posteriors
+metal
+metaviewport tag
+metaviewport
+ölçümü
+method &apos
+yöntemi
+methodGET
+methodPOST and
+gönderilmeyecektir
+methodpost
+methods
+uxun
+microsummary
+middle Eastern
+middle
+might
+migrate to
+migrate your
+migrate
+migrated
+milimetre
+millisecondPing
+milisaniye
+mimetype of
+mimetype
+min
+mind
+minheight
+mini
+minimum
+minjs
+çalıştırdı
+mins
+minute minutes
+vaktiniz
+dakikaHer
+dakikadakika
+minutes ago
+minutes …
+dakika
+dakikada bir Otomatik Kaydet
+dakikada bir kontrol et
+minwidth em
+minwidth
+misconfiguration
+misconfigured
+misencoded
+mismatch
+mismatched tag
+mismatched
+missed reminders
+Kaçırılan
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+eksik
+misspelled word
+misspelled words
+misspelled
+mistake
+giderdikten
+mistyped
+mix
+karma
+mmultiscripts
+mobil
+mode and can &apos
+kipi
+kipgt
+model
+modelview
+konuşmalarını
+moderator
+modern
+kipleri
+modified
+modifier
+modifiers
+değiştirmekte
+module returned
+modülünü
+modules
+modülleri
+moment
+momentarily
+moments
+pazartesi
+pazartesileri
+moneymouth face
+delisi
+monitor
+month
+monthS of
+monthS
+monthevery
+her ay
+aydan
+more bookmarks
+more powerful
+more savings
+geleceğe
+moreand
+morex
+devamı…
+most Visited
+most accurate
+most popular
+most
+mostrecently
+mouse Wheel
+mouse
+move Down
+move Up
+move away
+move emswiftly
+algılamaya
+moveable
+moved renamed or deleted
+moved renamed
+adının
+taşındıS
+movemail
+taşınıyor
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCSessionDescription
+ekli
+arabirimleri
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+
+mozVisibilityState
+mozcmd
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+mozillaorg
+mozillaorgtr
+mozinlinebox display
+mozinlinebox
+mprescripts
+ms
+msf
+msgFilterRulesdat file
+rulesdat
+much
+multiline
+multimedia
+multiple links &quot
+garayinat
+multiplied And
+multiplied by
+çoğaldı
+işlemli
+haftalı
+music
+kapsamalı
+ilgiliyse
+my &quot
+Sertifikam
+Projelerim
+my Quick
+my Task
+My Yahoo
+my windows
+durumumu
+mypagehtml &quot
+sayfamhtml
+n
+nWhen your
+gisij
+name &quot
+name
+nameSource
+named anchor
+named either
+İsimli
+isimlerinde
+uzayı
+yazmasına
+Düzenli
+native code
+doğal
+natively
+navigate
+navigated
+gezinti
+navigation Toolbar
+gezinti
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+near
+nearby
+nearest
+necessary
+istemesi
+needed
+needing to
+needing
+needs
+negate
+negated
+ret
+negatif
+negotiate an inadequate
+negotiate
+negotiating a
+iletişimi
+negotiation
+biz
+nested Table
+içeyse
+nesting
+netnz /
+nettr
+Netscape
+network Monitor
+network Timeout
+network drive
+network section
+sô
+never Show
+asla
+new Caledonia
+new Separator
+new Tab
+new Zealand
+new home
+new word
+yeni
+newer
+news client
+haberi
+newsornekadresnet
+newsgroup subscriptions
+grubundan
+gruplarını
+newsrc File
+newsrc doyası
+newsrc
+next gt
+sonraki
+nicer
+rumuz
+rumuzunuz
+nicknamegt Change
+rumuzgt
+nicknames
+bulunduğunuz
+gecelik
+nikto
+dokuz
+on dokuzuncu
+nineteenth
+dokuzuncu
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+hayır
+noMac
+noWin
+nocors&apos
+nocors
+düğümü
+nodeShow all
+nodeShow
+nodeValue
+Düğüm
+düğümleri
+nominative
+non Participant
+non
+nonASCII
+nonFORTEZZA Certificate
+nonFORTEZZA
+nonGregoriancalendar
+nonResponse
+nonUTF encoding
+nonUTF
+nonascii character
+nonascii
+noncesource
+noncharacter
+yok
+nonempty
+nonfunction pseudoclass
+işlevsiz
+nongeneric
+artırımsız sebep
+artırımsız
+olmayanlardaki
+nonmultiprocess
+nonnavigation
+nonnegative
+nonparticipant
+nonprintable character
+nonprintable
+nonprofit Mozilla Foundation
+gütmeyen
+nonspace in
+nonspace
+nonstandard
+nontext
+İçerikli
+öğle
+nor
+normally
+noscript
+nosniff
+nostore
+not After
+not Before
+not Connected
+not Critical
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+not Installed
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+işaretlenmedi
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+tutarı
+notation be unescaped
+notation be
+biçiminde
+note Slow
+not
+notes
+nothing
+konuyla
+edilme
+notification Permissions
+notification _
+notification
+Bildirimlere
+notified
+notifier or
+habercisini
+notify me
+notify
+noting
+nounclass
+nov &#124
+nov
+kasım
+now doesn &apos
+takın
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+nsIWindowMediator
+nsIWritablePropertyBag
+num
+nûmero
+Numaralı
+numbers negative
+numaraları
+numeratör
+numeric
+nursery Collection
+nursery Eviction
+nursery
+obj Properties
+obj
+object Stores
+nesneye
+nesnelerinin
+obscured
+gözledi
+observers
+obtain
+occur
+occured
+oluştuğu
+occurrence of
+occurrence
+oluşumları
+itibaren
+oct &#124
+ekim
+october
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+of Man
+of Office
+of Operation
+of Sync
+of Validity
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+
+/
+ofbr
+off paint
+Kapalı
+kapalı
+offer
+offered
+sağlayıcıları
+offerings
+offers
+offerxA »
+çevrimdışı
+offline_apps
+offsets
+often
+ok
+old
+older than
+older version of Sync
+mü
+oldstyle YouTube
+oldstyle
+omitted
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+
+açık
+on
+once
+one Level
+one moreand
+hùij
+oneoff
+ones
+oneshot
+oneubuntucom
+Süren
+içisiniz
+only reloads
+only supports
+only transmitted
+eminseniz
+amaçlıdırbr
+opacity in
+saydamlık
+opaque Response
+opaque
+opaqueredirect Response
+navigasyon
+opcode
+open Web
+open WebIDE
+aç
+açıldı
+opening fence
+yavaşlatabileceği
+opensource
+operating system
+operating
+operation command
+operation failed
+gerçekleştiremiyor
+operations error
+operasyonları
+operator expected
+operator
+operators
+opportunity
+opposed
+İyileştirme
+optimizations
+optimized away
+optimized
+optin No
+isteğinizle
+option Group
+seçenek
+optional defaultS
+tercihe bağlı
+özniteliklerden
+seçeneklere
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+veya
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+çalışmakta
+organization
+organizations
+organizer
+kökenden
+originAttributes
+orijinal
+originally
+originals
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+diğer
+serbestçe
+otherwise it
+girer
+our geolocation
+our partners
+our
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+out
+veremiyor
+Güncelliğini
+outgoing
+dış hat
+taslak
+outlook
+outofdate
+output folder
+çıktıyı
+adımın
+over other apps &apos
+üst
+overhead
+kaplama
+geçersiz
+override the viewer &apos
+İçerikte
+overriding
+üst karakter
+hizmetlerine
+overwrite
+overwritten
+own
+bağlandınız
+owner of
+owner
+ownerElement
+owners
+ownership
+p pIf
+p
+pA secure
+pA
+pAdditional information
+pAdditional
+pAttack pages
+pAttack
+pDeceptive sites
+pAldatıcı
+pEntering any
+pEntering
+pYine
+pThe browser
+pThe page
+pThe requested
+pÑanj
+pThese types
+pBu
+pAçmak
+pİstenmeyen
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pNitaj
+pYour
+paketinin
+packaged
+paket
+doldurma
+s
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+page translation
+page }
+sayfasından
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+ve visited
+seçme
+paint flashing
+paint
+painted area
+çizilen
+pair a
+üretilemiyor
+bölme
+panelime
+panes
+positioning
+paper Size
+Kâğıt
+paragraph Marks
+paragraf
+çeviremedi
+parameter entity
+parameter
+içermediği
+paranoid
+parent Match
+parent Payload
+parent prefix
+parent
+parse XML
+parse failure
+işle
+İşlenen
+parser state
+parser
+ayrıştıran
+part of
+Ayrılma
+partial Update
+partial character
+partial
+partially
+participant
+participants from
+katılımcılar
+participate
+particular purposes
+particular
+parties
+partner You
+ortağı
+partners We
+partners work
+partners
+sağlayıcılarla
+parts
+party
+şahısların
+pass
+passed to
+FetchEventrespondWith
+passive ’
+passive
+passwdtxt
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+
+guendá
+passwordLeave
+passwordStored
+passwordprotected
+imlerinize
+past
+geçirmesine
+patch apply
+patch
+yolunu
+paths starting
+paths
+S
+kutulanır
+Duraklatmak
+paused —
+duraklatıldı
+yükü
+payment provider
+ödeme
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+Barış
+peer &apos
+eşi
+peers &apos
+peers
+pending dump
+beklemede
+people &apos
+people wouldn &apos
+okudukları
+per
+yüzde
+percentage of
+yüzde
+percnt Completed
+percnt
+perform caseinsensitive
+perform querySelectorAll
+yapma
+performansınızı
+performed Trying
+teyidi
+performgt
+gerçekleştirmeden
+bakacak
+permanent exception
+permanent
+permanently deleted
+permanently
+permissible length
+permissible
+permission denied
+erişmesine
+sahipsiniz
+permit
+permitted
+sürekli günlükleri
+persistent
+person &apos
+person who holds
+natu
+personal Card
+kişisel
+personalhttp//wwwmozillaok
+kişilik
+uydurabilirsiniz
+fazöraçı
+fazör
+yemleme
+achré
+sabitleyin
+ping
+piksel
+placeholder
+Places veritabanı
+düz
+sağlayıcıyı
+oynatabilmek
+oynatma
+Nari
+kaynağındaki
+ulaşın
+avantajlara
+pm
+yazılacağı
+yayına
+podyayınlarına
+ilkelerinde
+poly
+popüler
+portuna
+portlarını
+position
+konumlandırma
+ppBu
+ppHata
+ppBazı
+pprint
+keskinlik
+tercihlerden
+preferonline
+ön
+özelliktir
+hazırlanıyor
+korunsun
+öndeğerlerini
+basıldı
+asöncesi
+as öncesi
+üsöncesi
+üs öncesi
+ihtimalini
+indirilmesini
+cihazınıza
+moderasyonlu
+önizlemesiyle
+önceki
+Fiyata
+primev
+baş
+yazdırmek
+çalıştırmadan
+önemlerini
+önemlilik
+gizlilik
+olduğunuzu
+bilmiyoruz
+problemi
+ürünlerimizi
+prosedürlerini
+sürecinin
+işlendi
+işlemler
+İşleniyor
+ürettiği
+yaşanabilir
+profillenen
+profilleyicisi
+alınabilir
+Profillemeyi
+programla
+saldırmak
+ilerleme
+karakterinin
+proje
+etkisi
+promise
+istemine
+depolanacaktır
+özellik
+dugumîj
+erişemezsiniz
+korumayı
+Yedeklemeye
+protokol
+bulunamadıysa
+görüşün
+sağlayıcılarına
+korunur
+yapılmayan
+sözdesınıf
+pseudoelement
+pspan
+oluşur
+Kacho
+yayınla
+içermektedir
+yayın
+pulliÇoklu
+pullibrandShortName
+pulliBilgisayarınız
+pulliOnları
+satın
+amaçlarla
+px
+yazılmıştır
+qmozillaorg
+qstrongwww
+qstrongww
+kalite
+karantinaya
+sorgusu
+belgedeki
+sorularla
+kuyruğu
+çabuk
+işleminden
+Sınır
+Alıntıla
+qabcd
+rad
+radikal
+radyo
+yarıçap
+dizisinin
+hızlarını
+ham
+Ynt
+ulaşıldı
+Okunma
+ganika
+okunmak
+salt okunur
+hazır
+Oldukça
+bölgesine
+sebepten
+sebeplerden
+onayını
+DiffieHellman
+zamanda
+s
+alıcıya
+tanınan
+önerilir artırılmış
+tavsiye edilen
+bağlanmadan
+kaybederseniz
+getirmesine
+kaynaklanır
+rect
+tekrarlı
+tekrarlanır
+özçağrıdan
+özyinelemeli
+Yazdığınız
+azaltmayı
+öznitelikte
+referans
+dosyalanırken
+reflow
+atlayarak
+büyüklükleri
+regexp
+bölge
+protokolden
+kaydedilirken
+hakkınız
+dosyalarla
+ilişki
+tazele
+yeniden yükleniyor
+yükler
+kaldı
+snaa
+anımsatma
+uzak
+arkadaşlarınızla
+silip
+removeAttribute
+vi
+değişmediğini
+etkmek
+çantasını
+onar
+tekrarla
+değiştirecek
+alabilen
+başlandı
+Güncellemeden
+yanıtlandı
+yoğun
+üreticisine
+düzmece
+s
+belirtmedi
+raporlarını
+temsil
+iletiliyor
+istendi
+isteği yapan
+istekler
+gerekli
+olabilirsiniz
+gerektirir
+örneklemek
+haklara
+rezerve
+Sıfırla
+boyutlandır
+çözümlemesi
+geleni
+kaynağın
+yanıtçısı
+yanıtını
+responseType
+ün
+Page
+başlasın
+başlatılmalı
+çalışacağız
+yükleyemezsiniz
+kısıtlı
+sonuç
+ettiren
+çözümlemesi
+oluşturmanız
+deneyecektir
+vermedi
+saklayabilirsiniz
+teknolojisi
+yüklemenizi
+Dön
+inceleme inceleme
+Yanıtlarınızı
+sağ
+sağ
+arıyorsunuz
+hakları
+riski
+riskli
+yvkutu
+kök
+döndür
+yuvarlatılmış
+satır
+satır
+ sa
+ruby
+kural
+cetvelleri
+çalıştırabilsin
+runtime
+liliGuru
+örnekler
+sandbox
+doygunluk
+cumartesi
+cumartesileri
+nanin
+saklandı
+kaydetmeden
+Komutları
+diyor
+Ölçeklendi
+dolandırıcılarına
+istemi
+yina
+şemasına
+puanı
+ekranına
+geliştirerek
+script
+özel işaretli
+yapmasına
+scriptsrc
+mühürlü
+arama
+aramasına
+aramalar
+sn
+ikinci
+saniye boyunca göster
+saniye sonra
+saniyesaniye
+secpk
+secpr
+secret
+bölüm
+sectk
+sectr
+secure Browser
+sertifica
+nasinùnj
+sürümde
+seeing doctype
+tanımamalısınız
+seek
+sarılıyor
+görülüyor
+görünmesine
+seen but
+görüldü
+select &quot
+select camera
+Seçi
+selected line &apos
+seçildi
+selecting
+seçim
+selections above
+selections
+selectlabel
+seçici
+selectors separated
+selectors
+selects
+selfsigned
+semicolon
+send Feedback
+send For
+kavuşmak
+s
+sender message
+sender
+Gönderimi
+sends
+sensitive
+sensitivity
+sent Cookie
+tarafımıza
+sep &#124
+eyl
+separate tags
+separate
+boşlukla
+separately
+separating
+separator character
+ayraç
+eyl
+eylül
+sequentially as a waterfall
+sequentially
+serial Number
+serial number
+seri
+series
+serif
+server &apos
+server Quota
+server SMTP&apos
+server incorrectly
+server maintenance
+server that can &apos
+kaynaklanabilir
+servers Maybe
+sunucularını
+serves
+service providers
+service worker
+hizmetini
+hizmetler
+serving
+session ID
+oturum
+session Statistics
+session cache
+oturumunuz
+sessions
+set Priority
+set browsercachediskenable
+set strokeStyle
+belirterek
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+setTimeout
+setUserData
+setVelocity
+sets
+ayarı
+settings &#124
+
+ayarlarını
+setup options
+setup
+yedi
+seventeen
+seventeenth
+yedinci
+several ways
+several
+shader Editor
+shader compile status
+shader compile
+gölgelendirici
+shadows variable
+shadows
+shall control
+sayılacaktır
+shape &quot
+shape
+gato
+shared Workers
+paylaşılmış
+sharedLongDesc
+tarayıcınızla
+paylaşan
+sheet
+sheets
+kabuğunu
+shield
+shiftKeylabel
+Shifttıklayın
+shiny metal posteriors which
+popoları
+shopping
+kısa
+kısayol
+kısayollarının
+shorten this
+kısaltın
+shorter file
+shorter
+shortly
+shortname
+should keep
+should make
+nitan
+shouldn &apos
+etmemelisiniz
+show Cookies
+show resultShow
+show through
+göster
+showall &apos
+showall
+showing repairing
+showing
+pGörüntülemeye
+gösterilmeyecek
+gerçekleştirdiği
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+Kapanma
+shutting down
+shutting
+sibiling
+taraflı
+çubuğunuzda
+sidebarName
+sidebars
+sign in
+sign
+sinyal
+signature algorithms
+algoritmasıyla
+algoritmayla
+signatures
+uin
+signer &apos
+signer
+signers found
+imzacı
+significant
+signing certificate
+yanıtında
+signup
+silence
+silently authenticates
+sessizce
+similar
+simple Measurements
+simple XLink
+basit
+basitleştirilmiş
+simply need
+simply
+simulation
+simulator installed
+kaldırmaz
+İndirildikten
+single
+singlesignon
+site &apos
+site doesn &apos
+siteyle
+
+sitenat
+dane
+altı
+sixteen &#124
+on altıncı
+sixteenth
+altıncı
+Boyuta
+boyutları
+skip Integration
+skip this
+Say
+atlandı
+skips
+slash operators
+slash
+slashes ie
+taksim
+diliminden
+sürgü
+yuva
+slots
+slow Motion
+slow SQL
+slow down
+slow ×
+yavaş
+slowing
+slowly
+small
+smaller
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+ifadesi
+smooth scrolling
+Yumuşak
+smtporneknet
+snapshot
+karşılaştır
+snews
+so it &apos
+so it can &apos
+so you &apos
+sunmaktadır
+soap
+soketinde
+software makers
+yazılımdır
+solid Border
+solid circle
+solid
+çözümü
+brulliAkıllı
+solve a
+yarabilecek
+some cool
+some printing
+some sample
+some unspecified
+işçilerden
+somebody &apos
+somebody
+someone isn &apos
+someone
+something
+sometimes
+somewhere earlier
+somewhere
+yakında
+sorry BrandShortName can &apos
+sorry we &apos
+üzgünüz
+Sıralamak
+sound file
+sound
+sounds like
+sağdakine
+source software
+kaynaklı
+hazırlayarak
+space Fantasy
+space between
+space
+dikkate
+spam
+span class &apos
+span
+spanThis
+spanbrandShortName
+spandisabled
+spanenabled
+yayılıyor
+spanspan
+speak now
+konuşun
+speaking
+spec in
+spec
+special incidental
+special kinds
+hesaptır
+specific command
+durdurulacağı
+specifically
+şartnamesine
+belirtildi
+specifies
+specify preferred
+specify
+specifying a
+specifying acceptcharsetutf
+specifying
+esneklik
+speedOfSound
+spell checking
+spell
+spellchecker
+spelling
+spend
+spent
+spin button
+döndürme
+Hücreyi
+sunulmuş
+biriktime
+casus
+karekök
+square root
+square
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+riñant
+kararlı
+stack trace
+yığın
+yığınları
+standalone
+standard time
+toBlob
+standard
+standards mode
+standards
+star rating
+Yıldıza
+yıldızlandı
+start Debug
+start Simulator
+start
+started finding
+çalıştırmamışsınız
+starting with &apos
+başlayan
+startlabel
+startmozillaorg
+kurulacaktır
+startup
+anındaki
+ifadede
+ifadelerden
+istatistiklerini
+statistics
+stats
+status &apos
+status bar
+durum
+stay
+pSaldırı
+step Over
+step
+stepped through
+stepped
+stepping
+steps out
+adımlar
+still
+çalınmış
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+durdur
+stopped
+durdurma
+Geçerli
+storage quotas
+saklama
+storages
+saklayabilsin
+yöneticisinde
+stores information
+stores
+storing
+stream
+strength
+strict protection
+strict
+çizik
+string literal
+dizgi
+strings or
+dizgileri
+strokeStyle
+yazılır
+strongApps
+strongDevice
+strongThe Book of
+strongThe Book
+strongThe
+stronger Emphasis
+stronger
+yazmadığınızdan
+stronghttp
+strongly recommends
+sürede
+strongmozillaorgtr
+strongww
+strongww
+structure is corrupt
+structure
+structures
+studies
+study Findings
+araştırmayı
+style Editor
+style Inspector
+style endexpand
+style sheet
+stil
+biçemleri
+stylesheet
+gösterilemez
+stylesrc
+as
+subdirectory
+subdocument
+subdomain
+subdomains
+subfolder
+subfolders
+subgrid
+subgroups
+subject Reminder
+Konuya
+submission to
+gönderileri
+submit Query
+submit bugs
+submit information that &apos
+submit
+submits
+gönderecek
+submitting your
+submitting
+subresource
+Takvimlere Abone Ol
+ol
+olunan
+subscribedImported
+subscribing
+alt karakter
+aboneliği
+subscriptions
+subsession data
+subsession
+substituting
+subthread
+subthreads
+subtree
+succeed
+succeeded
+successful
+successfully Transmitted
+sorunsuz
+such
+suddenly
+sufficient
+öner
+suggested Contribution
+suggested Tags
+Önerilenleri
+suggestion
+önerilerini
+suggests
+suit
+suitable
+takımını
+suites are
+suites
+toplam
+summary file
+summary
+summoned
+pazar
+pazarları
+üs
+superscript pair
+üst karakter
+superseded by
+superseded
+supervision
+verilenler
+supply alternate
+supply identity
+supply publishing
+atamak
+support Resources
+support certificates
+larını
+desteklenen
+supporting
+supportmozillaorg
+supports
+emin
+surface area
+surface
+surprised face
+surprised
+vekile
+surrounding environment
+surrounding
+survey is
+anketi
+yarıyor
+şüpheli
+suspicious
+sutomatically
+svSE
+svg
+switch to
+değiştir
+değiştirildi
+switching
+symbol
+eklenecektir
+sync them
+ïnj
+syncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+Eşitlenen
+synchronization
+synchronize
+Anuyumlu
+syncing
+synctitlepairlabel
+syntax Highlighting
+sözdizimi
+system Integration
+system beep
+sistem
+systemDate &apos
+systemDate
+systems this
+systems
+t believe
+t delete
+t
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+sekme
+tabSharing
+tabdelimited tab
+tabdelimited
+s
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+table rows
+tablo
+ìaj
+sekmelerinize
+tabtxt
+etiketle
+etiket
+etiketlendi
+tagname
+etiketlerini
+take up
+take
+taken
+takes
+taking too
+taking
+talk
+tampering
+tapping
+hedef
+targeted document
+targeted
+task
+taskThe
+taskbar
+görevleri
+tastes
+tbl
+technical Details
+teknik
+technique
+teknikleri
+bulunmayan
+telefon
+tell websites
+nùj
+tells
+şablondaki
+Şabolanlar
+temporarily
+temporary outage
+temporary
+on
+tename &apos
+kesin olmadan
+onuncu
+tenured objects
+tenured
+ter Lock API
+term &quot
+terim
+terminate a
+Bildiriyi
+terminated by xslmessage
+terminated
+termination
+koşullarında
+testi
+testics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+text
+textContent attribute
+textContent
+textonly
+texture source
+doku
+th
+than minimum
+dakikadan
+teşekkür
+thanks for
+Tarayıcınızdan
+s great to hear
+that can &apos
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+yetkiliyi
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+Grenadineler
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+settings
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+t leave an
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+the emtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+Birincil
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+görselleştirmeyi
+the webapp manifest isn &apos
+the webapp
+the wildcard
+the windowconsole
+İmzalanan
+hırsızlığına
+their defaults
+çevrelerine
+eklenmelidir
+temasını
+themed
+temalar
+then touching
+ardından
+there &apos
+İhtiyaçlarınıza
+therefore
+these organizations
+önceliklidir
+they &apos
+they expire
+they require query
+gönderilmezler
+things you
+things
+think I &apos
+Bunlardan
+thinkers
+giriyormuşsunuz
+düşünüyor
+third Party
+third parties
+third
+thirdparty cookies
+thirdparty software
+thirdparty
+thirteen &#124
+thirteen
+thirteenth
+otuzuncu
+thirty &#124
+thirty first
+thirty one
+otuz
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+this
+thisIf
+thisa
+gönderilmişe
+though
+thought
+thousands
+thread &quot
+thread Hangs
+thread killed
+thread watched
+işlemde
+dizilerini
+üç
+threw
+through inaction
+through
+thunderbird
+thursday &#124
+perşembe
+perşembeleri
+ticket was
+bileti
+ties
+til &#124
+til
+tile replacing
+tile
+tiles
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+saatinizi
+timeOccurs
+timed Out
+timed
+timedout
+timeline
+isteniyor
+timeout
+timer Name
+timer started
+zamanlayıcı
+timers in
+timers
+defa
+timesaving
+timestamp
+damgalarını
+
+dilimi
+timezonepersonalg
+timezoner message doesn &apos
+dilimleri
+Zamanlama
+konu
+Alta
+Sözlüğe
+gönderilmeye
+bitişi
+dilinden
+kime
+son
+bugün
+slotta
+yarın
+çıkaran
+fark
+araç çubuğu
+ipucu
+hevesli
+üst
+üst seviye
+İndirilmiş
+nadunij
+örgüye
+track
+söyleyecek
+çoğunu
+eğitmeniz
+alış
+şahıslarla
+ansızın
+dönüşümü
+çevirme
+çevriliyor
+çevirisini
+aktarılabilir
+görülme
+okunmasını
+yazılan
+tasarlanmıştır
+birinden
+true
+kısalt
+kırpıldı
+ngaj
+güvenilir
+ulaşmayı
+salı
+salıları
+yirminci
+yirmi
+iki
+txt
+txtarea
+type
+tabloyu
+başlar
+uQuit
+ul
+ulliDosya
+karşılıklı
+görülmesini
+kullanılamaz
+uygun değil
+işaretlemeyin
+işaret kaldırıldı
+kapatılmamış
+tanımlanmamış
+İşaretlenmiş
+alt
+alt karakter
+açıklanmayan alıcılar
+yazdırılabilir
+beklenmeyen
+kapandı
+başlatılmamış
+kaldır
+kaldırılma
+birimi
+bilinmiyor
+olana
+sınırsız
+kesmek
+isimsiz
+okunmayan
+tanınmayan
+kaydı sil
+seçilmedi
+gönderilmemiş
+kararsız
+beslemenin
+desteklenmeyen
+yapamayacaktır
+adsız
+adsızS
+aktarılmayacak
+iletisindeki
+yedeklemek
+edilenHediyelerBayramlarFikirlerSorunlarToplantıÇeşitliKişiselProjelerResmî
+ánj
+güncellendi
+Su
+güncelleniyor
+yukarıçaprok
+yukarıçaprçiz
+yükselt
+yükseltiliyor
+karşıya
+sunucularımıza
+Yükleniyor
+url urlprefix
+Doğurlamayı
+urlprefix
+açılamaz
+silelim
+kullanım
+usd
+s
+çalan
+imzasında
+Üyelik Başlangıcı
+kullanıcı
+yuguî
+kullanıcıyla
+kullanıcılarını
+taramadan
+
+miktarın
+olağan
+yaşamadan
+utf
+utomatically
+v
+vCard
+vS
+geçerli
+doğrulamada
+geçemedi
+değer
+kopyalayabileceğiniz
+değişken
+etmenizi
+unun
+vcf
+Satıcı
+vendorShortName
+sürüm
+dikey
+kïj
+titretebilsin
+videolar
+videoları
+İyileştirmeleri
+s
+tanımlamayı
+yuvalama
+ihlali
+ilkenin
+görünürlüğünü
+
+guij
+ziyaret edildi
+ziyaretip
+yçizik
+saldırılara
+bekleyiniz
+pulliSunucu
+yapmamanız
+çalıştığımda
+uyarıyı
+uyarılar
+İhtiyaçlarınızı
+sunulmuştur
+kullanıcılarının
+t understood
+izlenen
+şelale
+verdi
+etkileyebilecek
+re sorry
+göreceksiniz
+bağlatnınız
+zayıflıktan
+tuj
+webdav
+barındırlan
+sitelerinin
+çarşamba
+çarşambaları
+her hafta
+ağırlıktan
+gunumât
+panning
+görüntülenirken
+korreô
+s
+nelerin
+tekerlek
+tutulur
+düzenleyerek
+nayî
+beyaz
+ulaşabilen
+çalıştırılmayacağı
+willchange
+win
+window
+windowcontrollers
+pencereli
+windowopen
+pencerelerinizi
+kırpan
+yedektekilerle
+stylesrc
+kuracak
+sihirbazı
+t remember any
+sözcük
+tercihlerinizden
+yaramıyorsa
+etkinleşir
+İnterneti
+günlerine
+katılıyorsunuz
+engelliyoruz
+nùtaj
+olmazdı
+blokta
+yazılabilir
+okumasını
+yazımında
+yazdı
+wwwsiteadresicom
+wwwadresimcom
+wwwmyservercom
+wwwopenhorg
+xNN
+xS
+xhrspecwhatwgorg
+xmlns
+sonlandırıldı
+xwestern
+yılki
+evet
+dün
+henüz
+re looking for try thisIf these
+siz gömülü
+t set up
+kaçırdınız
+öne
+Sonuçlarınız
+s
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+özgürüz
+belgenizin
+yousenditcom
+sıfır
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+yakınlaştırma
+zooming

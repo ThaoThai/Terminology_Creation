@@ -1,0 +1,8422 @@
+ rights …
+/Galapagos
+A ServiceWorker
+skeefgeloop
+AB _
+AB
+toeganslys
+ADB
+ADDONS
+AEC Logging
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ASNenkodeerder
+ATT Mail
+ATT
+AUS
+AVA
+Aa
+Aaiun
+Ababa
+Abandon unsaved changes
+Afgekorte
+Afkorting
+Abgasies
+Abort
+Aborted
+About Your
+Aangaande
+bokant
+Accelerated
+Aksentonderkas
+Aksentbokas
+Accent
+Accept
+Acceptance
+Accepted
+Access
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+AccessControlAllowMethods
+AccessControlAllowOrigin
+Toeganklikheid
+Account &quot
+Account Settings &#124
+Rekening
+Accountquot
+Rekeninge
+Accountspecific
+Account…
+Akroniem
+Aksie
+Actions
+Aktiveer
+Geaktiveer
+Aktiveringsgids
+Aktief
+Actively block
+Aktiwiteit
+Actual Size
+Adak
+Adapter
+Adapters
+Adb
+Voeg by
+Bygevoeg
+Addis Ababa
+Additional Tools
+Bykomende
+Simulatorbyvoeging
+Addons Installed
+Byvoegings
+Addr
+Address Book
+Address Books
+Adres
+AddressBook
+Addressbook
+Adresse
+Adresbediener
+Adds
+Voeg by…
+Adjust
+Administreer
+Administrative Assistant
+Administrative limit
+Administratiewe
+Administrator
+Adobe Flash
+Adobe
+Advance
+Gevorderdeeienskapperedigeerder
+Advanced info
+Gevorderd
+Gevorderd…
+Afaries
+Affects multiple
+Affects
+Affiliation Changed
+Affiliasie
+Afganistan
+Africa/Abidjan
+Africa/Accra
+Africa/Algiers
+Africa/Asmara
+Africa/Bamako
+Africa/Bangui
+Africa/Banjul
+Africa/Bissau
+Africa/Blantyre
+Africa/Brazzaville
+Africa/Bujumbura
+Africa/Cairo
+Africa/Casablanca
+Africa/Ceuta
+Africa/Conakry
+Africa/Dakar
+Africa/Djibouti
+Africa/Douala
+Africa/Freetown
+Africa/Gaborone
+Africa/Harare
+Africa/Johannesburg
+Africa/Juba
+Africa/Kampala
+Africa/Khartoum
+Africa/Kigali
+Africa/Kinshasa
+Africa/Lagos
+Africa/Libreville
+Africa/Lome
+Africa/Luanda
+Africa/Lubumbashi
+Africa/Lusaka
+Africa/Malabo
+Africa/Maputo
+Africa/Maseru
+Africa/Mbabane
+Africa/Mogadishu
+Africa/Monrovia
+Africa/Nairobi
+Africa/Ndjamena
+Africa/Niamey
+Africa/Nouakchott
+Africa/Ouagadougou
+Africa/PortoNovo
+Africa/Tripoli
+Africa/Tunis
+Africa/Windhoek
+Africa
+African Republic
+African
+Afrikaans
+After
+Again &quot
+Again
+Ouderdom
+Agent
+Aggregate
+Ago
+Agree
+Agreement
+Aires
+Akanies
+Akrotiri
+Alarm
+Albanië
+Albanees
+Alert dialog
+Alert record
+Oppas
+Algerië
+Algorithm Parameters
+Algorithm
+Aliasontverwysingsprobleem
+Alias dereferencing
+Aliasprobleem
+Alias
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Belyn
+Gerigtheid
+Alles
+Almal
+Allman
+Allocated
+Allocation Trigger
+Allocation
+Allocations
+Allow First
+Allow autoplay
+Laat toe
+Toelaat
+Allowed
+Allowing
+Allows
+Laat toe…
+Almost done
+Amper
+alfa
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Alhoewel
+Altyd
+America/Adak
+America/Anchorage
+America/Anguilla
+America/Antigua
+America/Araguaina
+America/Argentina/Catamarca
+America/Argentina/Cordoba
+America/Argentina/Jujuy
+America/Argentina/Mendoza
+America/Argentina/Salta
+America/Argentina/Tucuman
+America/Argentina/Ushuaia
+America/Aruba
+America/Asuncion
+America/Atikokan
+America/Bahia
+America/Barbados
+America/Belem
+America/Belize
+America/BlancSablon
+America/Bogota
+America/Boise
+America/Cancun
+America/Caracas
+America/Cayenne
+America/Cayman
+America/Chicago
+America/Chihuahua
+America/Creston
+America/Cuiaba
+America/Curacao
+America/Danmarkshavn
+America/Dawson
+America/Denver
+America/Detroit
+America/Dominica
+America/Edmonton
+America/Eirunepe
+America/Fortaleza
+America/Godthab
+America/Grenada
+America/Guadeloupe
+America/Guatemala
+America/Guayaquil
+America/Guyana
+America/Halifax
+America/Havana
+America/Hermosillo
+America/Indiana/Indianapolis
+America/Indiana/Knox
+America/Indiana/Marengo
+America/Indiana/Petersburg
+America/Indiana/Vevay
+America/Indiana/Vincennes
+America/Indiana/Winamac
+America/Inuvik
+America/Iqaluit
+America/Jamaica
+America/Juneau
+America/Kentucky/Louisville
+America/Kentucky/Monticello
+America/Kralendijk
+America/Lima
+America/Maceio
+America/Managua
+America/Manaus
+America/Marigot
+America/Martinique
+America/Matamoros
+America/Mazatlan
+America/Menominee
+America/Merida
+America/Metlakatla
+America/Miquelon
+America/Moncton
+America/Monterrey
+America/Montevideo
+America/Montreal
+America/Montserrat
+America/Nassau
+America/Nipigon
+America/Nome
+America/Noronha
+America/Ojinaga
+America/Panama
+America/Pangnirtung
+America/Paramaribo
+America/Phoenix
+America/PortauPrince
+America/Recife
+America/Regina
+America/Resolute
+America/Santarem
+America/Santiago
+America/Scoresbysund
+America/Shiprock
+America/Sitka
+America/Tegucigalpa
+America/Thule
+America/Tijuana
+America/Toronto
+America/Tortola
+America/Vancouver
+America/Whitehorse
+America/Winnipeg
+America/Yakutat
+America/Yellowknife
+America
+American Samoa
+Amerikaanse
+Amharies
+An
+Analysis …
+Analysis
+Analyze
+Anker
+Anchorage
+ankers
+En
+Andorra
+Android tablets
+Android&apos
+Android
+Android™
+Angeles
+Angola
+Anguilla
+Animate app
+Animate
+Animation
+Animations
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+annotasie
+Announces
+Annoyances
+Another
+Answer
+antwoorde
+Antarctic Lands
+Antarctic
+Antarctica/Casey
+Antarctica/Davis
+Antarctica/DumontDUrville
+Antarctica/Macquarie
+Antarctica/Mawson
+Antarctica/McMurdo
+Antarctica/Palmer
+Antarctica/Rothera
+Antarctica/Syowa
+Antarctica/Troll
+Antarctica/Vostok
+Antarktika
+Viruswering
+Antigua and Barbuda
+Antigua
+Antilles
+Antivirus
+Any
+AnyText
+Anywhere
+App can &apos
+webtoepassing
+AppCache
+AppCacheUtils
+AppMenu
+AppNameoninstallering
+AppName
+Appcache validated
+Appcache
+Voorkoms
+Appendices
+Apple Mail
+Apple
+AppleSingleuitpakfout
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+Toepassing
+Toepassings
+Toepas
+Applying update
+Applying
+Appointments
+Goedgekeurdeur
+Apps
+Apr
+April
+Arab
+Arabia
+Arabic MacArabic
+Arabic Windows
+Arabies
+Aragonees
+Argief
+Archived
+Argief
+Archiving
+Arctic/Longyearbyen
+Is
+Area
+Argentinië
+Arial
+Armenië
+Armeens
+Arrow
+artikels
+Artist
+Aruba
+Soos
+As Quotation
+as
+Oplopend
+Ascension and
+Ascension
+Ashmore
+Asia/Aden
+Asia/Almaty
+Asia/Amman
+Asia/Anadyr
+Asia/Aqtau
+Asia/Aqtobe
+Asia/Ashgabat
+Asia/Baghdad
+Asia/Bahrain
+Asia/Baku
+Asia/Bangkok
+Asia/Barnaul
+Asia/Beirut
+Asia/Bishkek
+Asia/Brunei
+Asia/Chita
+Asia/Choibalsan
+Asia/Chongqing
+Asia/Colombo
+Asia/Damascus
+Asia/Dhaka
+Asia/Dili
+Asia/Dubai
+Asia/Dushanbe
+Asia/Gaza
+Asia/Harbin
+Asia/Hebron
+Asia/Hovd
+Asia/Irkutsk
+Asia/Istanbul
+Asia/Jakarta
+Asia/Jayapura
+Asia/Jerusalem
+Asia/Kabul
+Asia/Kamchatka
+Asia/Karachi
+Asia/Kashgar
+Asia/Kathmandu
+Asia/Khandyga
+Asia/Kolkata
+Asia/Krasnoyarsk
+Asia/Kuching
+Asia/Kuwait
+Asia/Macau
+Asia/Magadan
+Asia/Makassar
+Asia/Manila
+Asia/Muscat
+Asia/Nicosia
+Asia/Novokuznetsk
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Oral
+Asia/Pontianak
+Asia/Pyongyang
+Asia/Qatar
+Asia/Qyzylorda
+Asia/Rangoon
+Asia/Riyadh
+Asia/Sakhalin
+Asia/Samarkand
+Asia/Seoul
+Asia/Shanghai
+Asia/Singapore
+Asia/Srednekolymsk
+Asia/Taipei
+Asia/Tashkent
+Asia/Tbilisi
+Asia/Tehran
+Asia/Thimphu
+Asia/Tokyo
+Asia/Ulaanbaatar
+Asia/Urumqi
+Asia/UstNera
+Asia/Vientiane
+Asia/Vladivostok
+Asia/Yakutsk
+Asia/Yekaterinburg
+Asia/Yerevan
+Asia
+SWAsiaties
+Ask
+Asks how
+Asks
+Assami
+Assembling mail
+Assembling messageDone
+Assembling
+assistent
+Associated
+Assurance
+Asturiaans
+Async
+Asynchronous Pan
+Asinkroniese
+Atlantic/Azores
+Atlantic/Bermuda
+Atlantic/Canary
+Atlantic/Faroe
+Atlantic/Madeira
+Atlantic/Reykjavik
+Atlantic/Stanley
+Atlantic
+Atoll
+Atom
+Heg aan
+Aangehegde
+Aanhegsel
+Aanhegsels
+AttachmentRemove
+Aanhegsels
+Attack Site
+Attack
+Attempt to
+Attempt
+Attempts
+Attendance
+Attendee
+Attendees
+Attention
+Attribuut
+Attributes
+Attribution
+Auckland
+Klank
+AudioBufferSourceNode
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+AudioNode
+AudioParam does
+AudioParam
+AudioParams
+Aug
+Augustus
+Aurora
+Australia/Adelaide
+Australia/Brisbane
+Australia/Currie
+Australia/Darwin
+Australia/Eucla
+Australia/Hobart
+Australia/Lindeman
+Australia/Melbourne
+Australia/Perth
+Australia/Sydney
+Australië
+Oostenryk
+Authenticated
+Authenticating
+
+Stawing
+Outeur
+Authored
+Owerhede
+Authority unnamed
+Authority
+Authorize
+Authors
+Auto Increment
+Auto Update
+Outomaties
+AutoA
+AutoConfigwaarskuwing
+AutoConfig
+Outospeur
+AutoJoined Channels
+AutoJoined
+Outospeur
+Outomaties
+Beskikbaar
+Avaries
+Avestanies
+Gemiddelde
+Aymara
+Azerbeidjan
+Azerbeidjans
+B
+BBS
+BCC
+BLêerinligting
+BGEËNKRIPTEERDE
+agtergrondprente
+GEBLOK
+BPDalk
+BONDERTEKENDE
+Terug
+Agtergrond
+agtergronde
+Backspace
+Rugsteun…
+Bahrein
+Balties
+Bambarees
+Bangladesj
+Bankdienste
+Barbados
+Barbuda
+Basjkir
+basiese
+Baskies
+BCC
+Be
+vóór
+WitRusland
+BeloRussies
+België
+Belize
+onderkant
+Bengali
+Benin
+Bermuda
+Bhoetan
+Big
+BigHKSCS
+Groter
+Bihari
+Bing
+Geboortedag
+Geboortemaand
+Geboortejaar
+Verjaardag
+Verjaarsdag
+Bislama
+bisse
+Blanko
+Blokkeer
+Geblokkeer
+Blogs
+Lyf
+Boektaal
+Vet
+Bolivia
+Boekmerk
+boekmerkVerwyder
+geboekmerkte
+Boekmerke
+Boolese
+Rand
+Bosnië
+Bosnies
+Botswana
+Onder
+Onderkant
+Bouveteiland
+Boxes
+brandFullNamekrediete
+BrandFullName
+BrandFullNameDA
+BrandShortName
+Brasilië
+Bretons
+Britse
+Blaai
+Blaaier
+Blaai…
+Blaai
+Bou tans
+Bulgarye
+Bulgaars
+Koeëltjiestyl
+Koeëltjie
+Koeëltjies
+Koeëltjies
+Boerkina
+Birmaans
+Burundi
+Knoppie
+grepe
+C
+SOkompromis
+SOuitreikers
+SO
+CC
+CCBY
+CCBYSA
+CD
+CDATAafdeling
+CDSA
+CKL
+CKR
+CLICK
+CMS
+CN
+COLNAME
+CP
+SOLverspreidingspunte
+SOLondertekenaar
+SOL
+CSS
+CYPHER
+Kas
+Caicoseilande
+kasgrootte
+Kalifornië
+Kambodja
+Kameroen
+Kanada
+Kanadese
+Canary
+Kanselleer
+Gekanselleer
+Kanselleer tans…
+CanvasGradient
+CanvasPattern
+Byskrif
+Motor
+kaart
+Katalonies
+Kategorie
+Kaaimaneilande
+CC
+Selinhoud
+Sel
+Selle
+Kelties
+Middel
+Sentreer
+SentraalAfrikaanse
+SentraalEuropees
+Sertifikaat
+Sertifikate
+Sertifiseringspraktykstellinginleiding
+Gesertifiseer
+sertifiserende
+Staking
+Tsjad
+Tjamorrees
+Change
+Wysig
+karakterenkoderings
+Karakter
+Karakterstel
+Tsjetsnies
+Merk
+gemerk
+Chichewa
+Chili
+Sjina
+Sjinees
+Kies
+Kies…
+Christmaseiland
+Chrome
+Chromium
+KerkSlawies
+Tjuvashies
+Cisco
+Aanhaling
+Dorp/stad
+Stad
+Klas
+Klassieke
+Maak skoon
+ClearTypeparameters
+Wis tans
+voltooide
+Kliek
+Client
+kloksgewys
+groepsluiting
+Sluit
+Toemaak
+geslote
+Cmd
+Kokoseilande
+Kode
+Kol
+Invou
+Ingevou
+Colombia
+Kleur
+Kleure
+Kleure…
+Kolom
+Kolomme
+Kommageskei
+Komma
+Commercial
+Communicator
+Comore
+Kompakteer
+Vergelyking
+tans versoenbaarheid
+versoenbare
+Afgehandel
+Afgehandel
+Voltooid
+Composer
+Opstelling
+Compuserve
+Slotsom
+verkorte
+Konferensieadres
+Vertroulikheid
+Opstellingredigeerder
+konfig
+Instellings…
+Bevestig
+Baie geluk
+Koppel
+gekoppel
+Verbind tans…
+Verbinding
+opeenvolgende
+Beperk
+Kennis
+Kontak
+Kennisse
+houervouer
+Inhoud
+Inhoud
+Gaan voort
+Dra by
+bydrae
+Bydraers
+kontrole
+kontroles
+gesprek
+Cookeilande
+koekie
+Koekies
+Koel
+Oulik
+Kopieë
+Kopieer
+Cornies
+Korsikaans
+Costa
+Telling
+antikloksgewys
+Land
+Courier
+Skeppingsdatum
+Skepper
+Erkenning
+Krees
+Kritiek
+Kroasië
+Kroaties
+KruisplatformCOM
+Huil
+kriptografiedienste
+kriptografiese
+Ctrl
+Kuba
+huidige
+Wyser
+Doelmaak
+Doelmaak
+Doelmaak…
+Doelmaak…
+Knip
+Wissel
+Ciprus
+Cyrillies
+Tsjeggies
+DC
+DECDSA
+DELEbevel
+DER
+DERgeënkodeerde
+DEVICE
+DISPLAYNAMEbywerking
+DISPLAYNAME
+DLL
+DN
+DNS
+DOMbron
+DOM
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+DRM
+DVemer
+Deens
+Donker
+Data
+Datum/tyd
+Datum
+Day
+DayCrash Reports
+DayCrash
+Dae
+dage
+Debug Mode
+Ontfout
+DebugALIGNCENTERerver
+Debugger
+Debugging
+Des
+Desember
+Decide
+Declaration
+Decline
+Declined
+Decoder
+Decoding error
+Decoding
+Verminder
+Decrypted
+Decryption
+Deer
+Verstek
+skryfverstek
+Defer Account
+Defer
+Define
+Defined
+Definisie
+Definitions
+Del
+Delay
+Delete Message
+Skrap
+Deleted
+Skrap…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Deletion
+Delimited
+Delivery Format
+Afleweringstatuskennisgewing
+Delivery
+Denemarke
+Denver
+Weier
+Afdeling
+Aflopend
+Describe Problem
+Describe
+Beskrywing
+Deserialize
+Design Mode
+Design View
+Design
+Werkskermagtergrondbmp
+Desktop Open &quot
+Werkskerm
+Destination Folder
+Destination
+Destroy
+Afheg
+Afheg…
+Detail
+Details of
+Besonderhede
+Details…
+Detail…
+Detect indentation
+Detect
+Determining which
+Determining
+DevTools
+Devanagari
+Developed
+Developer Edition
+Developer Tools
+Ontwikkelaar
+Ontwikkelaars
+Development
+Device &quot
+Toestel
+toestelDeel
+Devices
+toestelx
+Dhekelia
+Diagnostics
+Dial
+dialoogvoorkeur
+Dialog
+Dialogs
+Dictionaries …
+Woordeboeke
+woordeboek
+Het
+Diego
+Different
+DiffieHellmansleutel
+DiffieHellman
+Digest function
+Digest was
+Digest
+Digg Reader
+Digg
+Digital
+Dimensies
+Direct
+DirectD
+DirectWrite
+Rigting
+Directive
+gidse
+Directory &apos
+Directory Servers
+Directory
+Gestremdheidtoegang
+Disability
+Deaktiveer
+Gedeaktiveer
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Discarded
+Disconnect from
+Ontkoppel
+Disconnectellipsis
+Disconnecting…
+Disconnectme strict
+Disconnectme
+Ontkoppel…
+Discontinue Link
+Discontinue
+Discover
+bespreking
+Disk
+Dismiss
+Display a
+Vertoon
+Wys
+Displays the
+Displays
+Distinguished
+Distribution Points
+Verspreiding
+Distrust
+Divehi
+Djiboeti
+Do
+Dock
+Docs
+dokumentoorsig
+Document
+Dokumente
+Doe
+Doing
+Domain GUID
+Domein
+Domains
+Plaaslik
+Dominator
+Dominators
+Domingo
+Dominica
+Dominikaanse
+Don &apos
+Don
+Klaar
+Dubbelkliek
+Double
+Doublecheck
+Doubleclick
+Af
+Download Link
+Aflaai
+Laai af
+DownloadRestart
+Afgelaai
+Aflaai
+Laai tans af
+Laai tans af…
+Afgelaai
+Aflaaie
+Draft Message
+Onvoltooid
+Onvoltooid
+Sleep
+Draw draws
+Draw repainted
+Draw
+Driver Verification
+Driver
+Drivers
+Drives
+Drop a
+Drop
+Dropping a
+Dropping
+DuckDuckGo
+Due
+Dump
+Duplicate name
+Duplicate
+Duraterver
+Duration
+Nederlands
+Bhoetaans
+ECDSA Signature
+ECDSA
+EDIpartynaam
+EDI Party
+EDI
+EHLO
+epossertifikate
+Epos
+FOUT
+ERRORS
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+EXTRACTION_FAILED
+Elke
+Eager
+Earlier
+OosAsiaties
+OosEuropees
+East
+Eastern
+Ecuador
+Edge
+Edit Conditional
+Redigeer
+Redigering
+Edition
+Editor
+Editors
+Redigeer…
+Egipte
+Either
+El Aaiun
+El Salvador
+El
+verstreke
+element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Elements
+Email Address
+Epos
+Verleë
+Ingebed
+Ingebed
+Emirates
+Benadruk
+Emptied Trash
+leeggemaak
+Leeg
+Emulate
+Aktiveer
+Geaktiveer
+Enables
+Encipherment
+Encoder
+Encoding While
+Enkodering
+enkoderings
+Encrypt
+Encrypted password&apos
+Geënkripteer
+Encrypting File
+Encrypting
+Enkripsie
+End
+Eindgebruikerregte
+EndUser
+Beëindig
+Endian
+Endpoint
+Enforce
+Engine
+Engineering
+Engines
+Afrikaans
+Engels USASCII
+vertaalde
+Engels
+Enhanced
+Enlarge
+Enter &apos
+Enter Full
+Enter that
+Enter
+ingetik
+Entering
+Entries
+Entry
+Enumerable Properties
+Enumerable
+Omgewing
+Epiphany
+EkwatoriaalGuinee
+Equatorial
+Eritrea
+Fout
+Foute
+Esc
+Esperanto
+Estland
+Estnies
+Etiopië
+Etiopies
+Eudorabyname
+Eudoraopstelling
+Eudorapos
+Eudora
+Europa Island
+Europa
+Europe/Amsterdam
+Europe/Andorra
+Europe/Astrakhan
+Europe/Athens
+Europe/Belgrade
+Europe/Berlin
+Europe/Bratislava
+Europe/Brussels
+Europe/Bucharest
+Europe/Budapest
+Europe/Busingen
+Europe/Chisinau
+Europe/Copenhagen
+Europe/Dublin
+Europe/Gibraltar
+Europe/Guernsey
+Europe/Helsinki
+Europe/Istanbul
+Europe/Jersey
+Europe/Kaliningrad
+Europe/Kiev
+Europe/Lisbon
+Europe/Ljubljana
+Europe/London
+Europe/Luxembourg
+Europe/Madrid
+Europe/Malta
+Europe/Mariehamn
+Europe/Minsk
+Europe/Monaco
+Europe/Moscow
+Europe/Nicosia
+Europe/Oslo
+Europe/Paris
+Europe/Podgorica
+Europe/Prague
+Europe/Riga
+Europe/Rome
+Europe/Samara
+Europe/Sarajevo
+Europe/Simferopol
+Europe/Skopje
+Europe/Sofia
+Europe/Stockholm
+Europe/Tallinn
+Europe/Tirane
+Europe/Ulyanovsk
+Europe/Uzhgorod
+Europe/Vaduz
+Europe/Vatican
+Europe/Vienna
+Europe/Vilnius
+Europe/Volgograd
+Europe/Warsaw
+Europe/Zagreb
+Europe/Zaporozhye
+Europe/Zurich
+Europe
+European
+Eustatius and
+Eustatius
+Eval
+Evalueer
+Evaluated JavaScript
+Evaluated
+evalueer van
+Evangelism
+Even
+Event
+Events
+Event…
+Every Time
+Every
+Alles
+Eviction
+Ewe
+Example
+Excellent
+Except
+Exception …
+Exception
+Uitsonderings
+Uitsonderings…
+Exchange
+ExecShell &quot
+ExecShell
+Uitvoerbare
+Execute Menu
+Uitvoering
+Executing s
+Executing
+Execution stopped
+loopaksie
+Executive
+Existing
+bestaan
+Afsluit
+Exited
+Exiting
+Expand/Collapse
+Uitvou
+Uitgevou
+Expected
+Eksperimente
+Verval
+Expires On
+Expires Seconds
+Verval
+Explorer
+Eksponent
+Uitvoer
+Uitvoer…
+Exposing chrome
+Exposing
+Express
+Expression
+Expressions
+Expunge &quot
+Deurhaal
+Extended Telemetry
+uitgebreide
+Extending
+Uitbreiding
+Uitbreidings
+External
+Extra Components
+Ekstra
+Extract
+Extracting s
+Extracting
+Extracting…
+Eyedropper
+F GB
+F turns
+F/Escape
+F
+FAILED
+FALLBACK section
+FALLBACK
+FAQ
+FAQs feedback
+FAQs
+FCC
+FHR data
+FHR
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTP Proxy
+FTP
+FUNCTION
+FWweergawe
+FW
+FYR
+Facebook Chat
+Facebook
+Faeroese
+Het misluk
+Misluk
+Failure
+Failures
+Falkland Islands Islas Malvinas
+Falkland Islands
+Falkland
+Fallback Character
+Fallback
+Falling back
+Falling
+False
+Familie
+Fantasy
+Faroëreilande
+Faroe
+Faroëes
+Farsi
+Faso
+Fast
+Fatal
+Gunstelingvouer
+Gunstlingvouers
+Gunsteling
+Gunstelinge
+Faksnommer
+Faks
+Feature
+Kenmerke
+Feb
+Februarie
+Federated States of
+Federated States
+Federated
+Federation
+Feed Location
+Feed
+Feedback Agent
+Feedback …
+Terugvoer
+Feedly
+Nuusvoere
+Voere
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+Fetching…
+Fewer
+Field
+Fields
+Fifth
+Fidji
+Fidjies
+File System
+Lêer
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Lêernaam
+Files
+Lêers…
+Lêer…
+Filing Cabinet
+Opvul
+Filter Box
+filteruitvoering
+Filter
+Filtering
+Filters
+Finalizing
+Vind
+Finder
+Findings
+Vind…
+Fingerprint
+Vingerafdrukke
+Finish Customizing
+Klaar
+Is klaar
+Finland
+Fins
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+Voornaam
+Pas
+Five
+Fix Table
+Fix
+Fixed
+Flag
+Flagged
+Flame Chart
+Flame
+Flash embed
+Flash
+Flatten
+Flexible Space
+Wisselbare
+Focus
+Vouer
+Vouers
+Vouer…
+Volg
+Followers
+Following
+Followup
+Opvolgaan
+Fond
+Font
+Fonte
+voetstuk
+voetstukke
+Voetindiemond
+Voetinmond
+Vir
+Force
+Forever
+Forge
+Forgery
+Vergeet
+vormgeskiedenis
+Vorm
+Formaat
+Formateer
+Formatering
+Forms
+Fort
+Fortezza
+Forum
+Forums
+Aanstuur
+Vorentoe
+Aangestuur
+Forwarding
+Found
+Stigting
+Four Hours
+vier
+Fourth
+Vr
+Frakkin &apos
+Frakkin
+raam
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+Rame
+Frankryk
+Free
+French Southern
+Frans
+Frequency
+Gereeld
+Vr
+Vrydag
+Fries
+Frioelies
+From History
+From List
+Van
+Front facing
+vore
+Frons
+Fulah
+Full
+Fullscreen
+Fun To
+Fun
+Function
+Futuna
+Toekomstige
+GG
+GBK
+GC Event
+GC Slice
+GC
+GCLI is
+GCLI
+GDI Library
+GDI
+GData
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPIgebied
+GSSAPIkaartjie
+GSSAPI
+GTK
+GUID
+Gaboen
+Gaelic
+Gaia
+Galeon
+Gallikaans
+Gallegos
+Gambia The
+Gambia
+Gamepad
+Gaming consoles
+Gaming
+Gandees
+Gap from edge of paper to Margin
+Gap from
+Gaping
+Garbage Collector Roots
+Garbage
+Garcia
+Gated Crypto
+Gated
+Gaza Strip
+Gaza
+Gecko
+Geckoreg
+Geckotrade
+General Notification
+Algemeen
+Generate a
+Generate
+Generated
+Generating A Private
+Generating A
+Generating aggregate
+Generating
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+Georgië
+Georgies
+Duits
+Duitsland
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+Ghana
+Gibraltar
+Gives
+Glace
+Global Revived
+Globale
+Glorioso Islands
+Glorioso
+Glossary
+Gmail
+Go back
+Go forward
+Gaan
+Good
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+Grab
+Grade
+Gradient is
+Gradient
+Grand
+Grande
+Grant
+Graph Reduction
+Graph
+Grafika
+Gravatar
+GrayScale
+Gryskleur
+Griekeland
+Greek Windows
+Grieks
+Groenland
+Groenlandies
+Grenada
+Grenadiene
+rooster
+Group List
+Group
+Grouped By
+Groepeer
+Grouping
+Groups
+Grow
+Guadeloupe
+Guam
+Guarani
+Guard
+Guatemala
+Guernsey
+Guess
+Guest browsing
+Guest
+Guinee
+Guinee
+GuineeBissau
+Goedjarati
+Gurmukhi MacGurmukhi
+Goermukhi
+Guyana
+Hstreep
+H
+HAR
+HFout
+Hstreep
+HPKP
+HREF
+HSLA
+Transport
+HTML Content
+HTMLdomeins
+HTML parsing
+HTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HWweergawe
+HW
+HZ
+HZGB
+Hack the
+Hack
+Haïti
+Haïties
+Halifax
+Handler
+Handling
+Handshake record
+Handshake
+Hangverslag
+Hangs
+gelukkig
+Hard
+Hardware Driver Verification
+Hardware Driver
+Hardware
+Has
+Hausa
+Have an
+Have
+Hawaiïes
+Kop
+Kopskrifte
+Kop
+Opskrifte
+Health Report
+Health
+Heard
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+Hebreeus
+Hoogte
+Helena
+Hello World
+Hello
+Help Start
+Hulp
+Helper Application
+Helper Applications
+Helper Threads
+Helper
+Helps
+Helvetica
+Here
+Herero
+Herzegowina
+Hex
+Verskuil
+Hide Statistics
+Hide Toolbars
+Verskuil
+Hierarchy
+High Contrast
+Hoog
+Hoogste
+Highgrade
+Highlight
+Highlighting
+Highlights
+Hightail
+Hiligaynon
+Hill
+Hindi
+Wenk
+Hiri Motu
+Hiri
+Histogramme
+Histogramme
+Geskiedenis
+Trefslae
+Hnuusgroepbediener
+Hnewsgroup
+Ho Chi Minh
+Ho
+Hold
+HolidayStatusSuppliersTravelVacation
+Home
+Huis
+Tuis
+Homepage Get back
+Tuisblad
+Honduras
+Hongkong
+Hong
+Honolulu
+Horisontaal
+Gasheer
+Masjien
+Hosted
+Hostname Entered
+Rekenaarnaam
+Kliekkoleienskappe
+Kliekkolteiken
+Hotspot
+Hour &#124
+Hour
+uur
+Housekeeping
+How
+Howe
+However we
+egter
+Howland Island
+Howland
+Http
+Huge
+Humans
+Hongaars
+Hongarye
+I &apos
+I Do
+i II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+I don &apos
+i ii
+I submit information that &apos
+I think I &apos
+I understand
+T
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+ID
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAPvlag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IPadres
+IP address
+IP
+IPC
+IPs
+IRC Nick
+IRC Operator
+IRC
+IS
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+internetdiensverskaffers
+IV
+Iaposm
+Ysland
+Yslands
+Ikoon
+Ikone
+Id
+Identification
+sleutelidentifiseerder
+Identities …
+identiteite
+Identiteit
+Ledig
+Ido
+Indien
+Igbo
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Ignoreer
+Ignoring
+Image DataURL
+Prentafmetings
+Image Map
+beeldkaart
+Prent
+Prente
+Prent…
+Import your
+Invoer
+Importance
+Belangrik
+Importing
+Voer tans in…
+Invoer…
+Voer in…
+In Days
+In EHLO reponse
+In Finder
+In Use
+In
+InAutoon
+InBrowserElement
+Ongeskikte
+Inkassie
+geïnk
+Inkomend
+geïnkorporeer
+Verkeerde
+meer inkeep
+Vermeerder
+Inkeep
+geïndekseerBoodskap
+indekseerder
+Indië
+Indiese
+Individual
+Indonesië
+Indonesies
+Info
+Inligting
+Geërf
+Inlyn
+Onskuldig
+Toevoer
+Ins
+Invoeg
+Voeg in
+Inspekteer
+Inspekteur
+Installeer
+Geïnstalleer
+Installeer
+Installeer tans…
+Heelgetal
+Interlingua
+Interlingue
+Internasionaal
+Internet
+onderbreek
+Inleiding
+Indringings en
+Indringings
+Inuktitut
+Inupiak
+Ongeldig
+Iran
+Irak
+Ierland
+Iers
+Eiland
+Israel
+Uitgereik
+Uitreiker
+Italiaans
+Skuins
+Italië
+JIS
+JOHAB
+JS
+JSON
+NET
+Jamaika
+Jan
+Januarie
+Japan
+Japannees
+JavaScriptgebeure
+JavaScriptopdraglyn
+JavaScript
+Javaans
+Jaxivo
+Jersey
+Smelt
+Sluitbymyaaninhierdiekletskamer
+Jordanië
+Jul
+Julie
+Spring
+Jun
+Junie
+Gemors
+alkanthaaks
+Alkanthaaks
+K
+KG
+KG nie
+KOIR
+KOIU
+KRL
+Kannada
+Kanoeri
+Kasjmiri
+Kasjoebies
+Kasaks
+Kasakstan
+Hou
+Ter
+Kenia
+Kerberos
+Sleutelkompromis
+Sleutelversyfering
+sleutelgebruik
+Key
+Sleutelraamreël
+Sleutelwoord
+Woord
+Sleutelwoorde
+Sleutelwoorde…
+Kambodjaans
+Khmer
+Kiekoejoe
+Koninkryk
+Kinyarwanda
+Kirgies
+Kiribati
+Kirundi
+Soentjie
+Kitts
+Klaatu
+Klingon
+Komi
+Kongolees
+Konkani
+Koreaans
+Koeanjama
+Koerdies
+Koeweit
+Kirgisië
+LDAPgidsbedieners
+LDIF
+LISTbevel
+Etiketeienskappe
+Etiket
+Labs
+Landskap
+taallêers
+Taal
+Tale
+Lanka
+Laosies
+Laos
+Groter
+Van
+laat
+Later
+Latyn
+Letland
+Letties
+Lag
+Laggend
+Laag
+Uitleg
+LdapDwim
+Verlaat
+Lebanon
+Linkerkant
+Links
+ou
+Regskennisgewings
+Legende
+Legitieme
+lengte
+Leone
+Lesotho
+Minder
+Letter
+vlak
+Liberië
+Biblioteek
+Libië
+Lisensie
+Liechtenstein
+Lifetimeondertekening
+Lewensduur
+Lig
+Limburgs
+Reël
+Reëls
+Lingala
+skakelligging
+teikenlêer
+Skakel
+Skakels
+Skakel…
+Mondisverseël
+Lys
+Lys
+Litaue
+Litaus
+Bietjie skoonmaak
+lewendige
+Laai
+Laai
+Laai tans
+Laai tans…
+Plaaslike
+lokaliteitinstelling
+Ligging
+Aanmeldings
+Logo
+Logosoort
+lang
+opgesoek
+Opsoek
+Speel in lus
+Laag
+onderkas
+Laagste
+LoebaKatanga
+Lucia
+Blitsvinnig
+Luxemburg
+Luxemburgs
+Macalias
+MAC
+MG
+MCI
+MD
+MIMEsoorte
+MIMEweergawe
+MOZ
+Mac
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomanian
+MacTurkish
+MacUkrainian
+Macedonies
+Madagaskar
+het
+posstoor
+Pos/Nuus
+Pos
+Posstuurder
+Onderhou
+Onderhouddiens
+Malgassies
+Malawi
+Maleisies
+Malabaars
+Maleisië
+Maldive
+Mali
+Malta
+Maltees
+Bestuur
+Vervaardiger
+Manx
+Maori
+kaart
+Mrt
+Marathi
+Maart
+kantlyn
+Marianaeilande
+Marino
+almal
+Merk
+Marshalleilande
+Marshallees
+Martin
+Martinique
+MathMLbron
+MathML
+Wiskunde
+Mauritanië
+Mauritius
+Mei
+Mayotte
+McDonaldeilande
+mates
+Media
+Mediumgraads
+boodskapdeel
+Boodskap
+BoodskapID
+Boodskappe
+Meta
+Metode
+Metro
+Meksiko
+Mibbit
+MicrosoftdomeinGUID
+Microsoftknapkaartaanmelding
+Microsoft
+MiddeOosters
+Middel
+Middernag
+Migreer
+Minefield
+Minimeer
+Miquelon
+Diverse
+Vermis
+Gemengde
+Ma
+Selfoon
+modus
+Modem
+Wysigingsdatum
+Gewysig
+Wysig
+Module
+Modulus
+Moldovië
+Ma
+Monaco
+Maandag
+Geldbek
+Mongolië
+Mongools
+Monospasie
+Montenegro
+Maande
+Montserrat
+Meer
+Marokko
+Motu
+Skuif
+Verskuif…
+MozTestPilot
+Mosambiek
+Mozilla
+Mozillaorg
+Dower
+My
+Nvt
+IS
+NIST
+NNTP
+NO
+NSS
+NTLM
+roep
+Naam
+NameCompletion
+genoemde
+Namibië
+Benoemingsoortreding
+Nauru
+Navajo
+Navigasienutsbalk
+Ndebele
+Ndonga
+Nepal
+Nepalees
+Geneste
+Netwerk
+Nederland
+Netscapecfg
+Netwerk
+Nooit
+Nevis
+NieuGuinee
+Nuwe
+Nuus
+Nuusgroep
+Nuusgroepe
+Nuwe…
+Volgende
+Nicaragua
+Bynaam
+Niger
+Nigerië
+Niue
+Nee
+opgelewer
+nodussoorttoets
+Niebrekend
+Geen
+Nieontkenning
+Middag
+Norfolkeiland
+Gewoon
+Noord
+NoordSami
+Noordelike
+Noorweë
+Noors
+Let wel
+Aantekeninge
+kennisstelling
+Kennisgewings
+Nov
+November
+Getalle
+Getalle
+Nynorsk
+Afout
+OCSP
+OID
+OK
+OLE
+OPMLlêers
+BS
+OU
+OVERLAP
+Objek
+Objekte
+Occitaans
+Oseaangebied
+Okt
+Oktober
+Af
+
+Aflyn
+Aflyn…
+Maatskappye
+O ja
+Ojibwa
+Oman
+Aan
+Enkelkliksoekenjins
+aanlyn
+Net
+Oeps
+Open
+bewerking
+Optimeerbare
+Optimizing
+Opsie
+opsioneel
+Opsies
+Organisasie
+Organisasieeenheid
+Organiseer
+Oriëntering
+oorspronklike
+Oromo
+Ossetiaans
+Ander
+Andere
+Anders
+Ander…
+uit
+Uitkassie
+Uitkeep
+Uitgaande
+Outlook
+Oorskryf
+Eienaar
+P/Galapagos
+P
+PDFvervaardiger
+PDF
+PDFjs
+PEM
+PKCS
+POP
+PSB
+PacifDebug/Galapagos
+Pacific/Enderbury
+Pacific/Fakaofo
+Pacific/Fiji
+Pacific/Funafuti
+Pacific/Gambier
+Pacific/Guadalcanal
+Pacific/Guam
+Pacific/Honolulu
+Pacific/Johnston
+Pacific/Kiritimati
+Pacific/Kosrae
+Pacific/Kwajalein
+Pacific/Majuro
+Pacific/Marquesas
+Pacific/Midway
+Pacific/Nauru
+Pacific/Niue
+Pacific/Norfolk
+Pacific/Noumea
+Pacific/Palau
+Pacific/Pitcairn
+Pacific/Pohnpei
+Pacific/Ponape
+Pacific/Rarotonga
+Pacific/Saipan
+Pacific/Tahiti
+Pacific/Tarawa
+Pacific/Tongatapu
+Pacific/Truk
+Pacific/Wake
+Pacific/Wallis
+Pack
+Package s
+Package xpi
+pakket
+Packaged
+Packs
+Opvulling
+Page Direction
+Page Selection
+Bladsy
+Pagequot
+Roepernommer
+Roeper
+Bladsye
+Pago
+Paint
+Pair a Device &quot
+Pair a
+Assosieer
+Pakistan
+Pal Who &apos
+Pal
+Palau
+Palestinian Territory
+Palestinian
+Palet
+Pali
+Palmyra Atoll
+Palmyra
+pan
+Panama
+Pane
+Panel
+Panels
+Panes on Startup
+Panes
+PannerNode
+Papua New Guinea
+Papua New
+Papua
+Paracel Islands
+Paracel
+Paragraph format
+Paragraaf
+Paraguay
+Parameters
+Params
+Pakkie
+Parent Payload
+Parent frame
+Parent
+ouerbeheer
+Parental
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+deel
+PartS
+Partial
+Partially Encrypted
+gedeeltelik
+Participant
+Participants
+Parts
+Party Name
+party
+Pashto
+wagwoordwysiging
+Password Manager
+Wagwoord
+PasswordIf
+Wagwoorde
+Paste Go
+Plak
+Pastelskakering
+Pastel
+Paste…
+Patch
+Patching s
+Patching
+Pad
+Paths from
+Paths
+Paulo
+Pause on
+Pause/Resume/Retry
+Laat wag
+Laat wag
+Wagtend
+Pauses the
+Pauses
+Pay
+Payload
+Betaling
+Paz
+Eweknie
+PeerConnection ID
+PeerConnection
+Pending
+Penh
+Mense
+Percent
+Perform a
+Perform
+Werkverrigting
+Perhaps the
+Perhaps you &apos
+Perhaps
+Period of Validity
+Period of
+geldige
+Periodic
+Permanent
+Permanently
+Permission
+Toestemming
+Permit
+Persies
+Persoonlik
+Personality
+Peru
+Perwebsite
+Phase
+Filippyne
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+Telefoon
+Phones
+Phonetic Name
+Foneties
+Foto
+Foto
+Phrase
+Fisies
+Pick
+Picture
+Pierre
+Pilot
+pen
+Ping
+Pinned
+Pinning
+Pipelining
+Pitcairn Islands
+Pitcairn
+Pixel
+Plain
+Planner
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Platform
+Play a
+Speel
+Playing audio
+Speel tans
+Please advance
+Please authenticate
+Please consider
+Please enter
+Verkort
+beset
+Plug a
+Plug
+Inproppe
+Inprop
+Inproppe
+Plus
+Pocket
+Potgooi
+PoiQA
+Pointer Lock API
+Points
+Pole
+Pole
+Policies
+Policy Constraints
+Policy Mappings
+Beleidkartering
+Policy
+Pools
+Polinesië
+opspringerblokkering
+Popup
+Opspringvensters
+Poort
+Portable Document
+Portable
+Porto
+Portret
+Portugal
+Portugees
+Posisie
+Posse
+Moontlike
+Pos
+Postal Code
+Posadres
+Posting
+Postpone
+Power
+Powered by
+Aangedryf
+Powershare
+Practice Statement pointer
+Practice
+Pre
+Precondition
+Preferably
+Preference
+Voorkeure
+Voorkeure…
+Voorkeur
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Voorvoegsel
+Prefixed
+Preformaat
+Premature
+Prepackage
+Prepackaging
+Berei
+Berei tans voor…
+teenwoordig
+Presentation Mode
+Presentation
+Preserve
+Preserves
+Preset
+Presets
+Druk
+Pressing F
+druk
+Prettify
+Pretty Print
+Pretty
+Prevent
+Voorskou
+gevoorskou
+Previewing
+Preview…
+Previous Session
+Vorige
+Prys
+Primary Email
+Primed cache
+Primed
+Primetime Content
+Primetime
+Princes
+Principal Name
+Principal
+Principe
+Druk
+Printed
+Drukker
+Druk
+Printing…
+Druk…
+Priority changed
+Prioriteit
+Privacy Policy
+Privaatheid
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+Privaat
+Privileged
+Privileges
+Voorregte…
+Pro
+Probable
+Waarskynlik
+Probing
+probleem
+Proceed
+Proceeding will
+Proceeding
+Process
+Verwerk
+Processing…
+Prodigy
+Producer
+Produk
+ProductName
+ProductNameInternal
+ProductShortName
+profiel
+Profiler
+Profiles
+Program Icons
+Program
+Programs Folder
+Programs
+Progress Window
+Vordering
+Projekhoof
+Projek
+Projects
+Promise Debugger
+Promise
+Por
+Eienskappe
+Eienskappe…
+Property Declaration
+Property Value
+Eienskap
+Proporsioneel
+Propose a
+Propose
+Protection
+protokolversoek
+Protocol
+ProtocolSpecific
+Protocols
+Proudlybr
+Provider
+Province
+Proxies
+Proxy
+Pseudoelements can
+Pseudoelements ‘
+Pseudoelemente
+Psst using
+Psst
+Publieke
+PublicKeyPins
+Publiseer
+Publishing Pages
+Publisering
+Publiseer tans…
+Publish…
+Puerto Rico
+Puerto
+Pandjabi
+Purchase for
+Doelwitte
+Push Endpoint
+Push
+QA UI
+QA
+QName
+QQ
+QR Scan
+QR
+Katar
+Qualified Subordination
+Qualified
+Quechua
+Query
+Question
+Getou
+Quick Filter
+snelbeginbalk
+Quick Launch
+Quick
+Quickly
+Glipsmodus
+Quirks
+Quirky doctype
+Quirky
+Afsluit
+Sluit af
+QuitS
+Quitting
+Kwota
+aanhaling
+Aanhaal
+Quotes
+RAM
+RC
+RDN
+RECORDS
+REMOVE
+RETRbevel
+RETR
+RETURN
+RFC
+RGBA
+RSAenkripsie
+RSA
+RSASSAPSShandtekening
+RSASSAPSS
+RSSsteun
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+RTP
+Klinkknoppie
+Radio buttons
+Radio
+Rainy
+Raise
+Range
+Rankin
+Rate
+Gradering
+Ratio
+Rou
+Re
+Reached
+Gelees
+Lees
+geleesMerk
+Reader &apos
+geregistreer
+Lees
+Ready to
+Gereed
+Really fast
+Really
+Rearrange
+Rede
+Reasons
+Rebuild Summary
+Rebuild
+Recalculate
+Receipt denied
+ontvangstrokie
+Receipts
+Receive
+Ontvang
+Receiving
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+Onlangs
+Onlangse
+Recently
+Recheck
+Ontvanger
+Ontvangers
+Recommended Components
+Aanbeveel
+Aanbevole
+Reconfirm
+Reconnect
+rekord
+Recording Performance
+Recording
+Recording…
+Herwin
+Recovery Keyhtml
+Recovery
+Recur
+Recurrence pattern
+Recurrence
+Recursion
+Redirect Loop
+Redirect
+RedirectMode
+Herverwysingsperk
+Redirection
+Rediscover the
+Herontdek
+Redisplay
+Herdoen
+Reducing the
+Reducing
+Reduction
+Reef
+Reenter
+Reference
+Verwysings
+Referrer
+VerwyserURL
+Referring
+Reflows
+Reformat
+Verfris
+Refused
+Register Locale
+Register Server
+registreer
+Registered
+Registering
+Regular Attachment
+Gewoon
+Reject
+Rejoin
+Related
+Verhouding
+Relative positioning of
+Relative
+Relaunch
+vrystellingaantekeninge
+Release
+Releases
+Herlaai
+Remaining
+Onthou
+Remind Me
+Herinner
+Reminder
+Reminders
+Remote Debugging
+Remote debugging
+Remote
+Remove channel
+Verwyder
+verwyder
+afgehandelde
+Verwyder…
+Removing
+Renaissance
+Hernoem
+Hernoem…
+Renaming
+Weergeemodus
+Render
+Renderer
+Rendering
+Renewal
+Reopen
+Repair
+Repeat
+Repeating
+Repeats
+Vervang
+Replacement
+Replaces in
+Replaces
+Replace…
+Replacing
+Replikasiegidsinskrywing
+Replicating
+Replication failed
+Replication
+Beantwoord
+Antwoord
+Antwoordaan
+Replying
+Antwoordadres
+Replyto
+Report
+ReportOnly
+Verslaggewer
+Reports
+Republiek
+Request the
+Request
+RequestMode
+Aangevraagde
+Versoeke
+Benodig
+herbegin
+Reread mozcmd
+Reread
+Herstuur
+herstuur tans
+HerstuurCC
+Herstuuropmerking
+Herstuurdatum
+Herstuurvan
+HerstuurboodskapID
+Herstuurafsender
+Herstuuraan
+voorbehou
+Herstel
+Stel terug
+Teruglaai
+Resets
+Resolution/Quality
+Resolution
+Resolve
+Resource
+Resources
+Responder
+Response
+Responseclone
+Responsive Design
+Responsive
+Rest
+Herbegin
+Restarting
+Restarting…
+Herstel
+Laai terug
+Stel terug
+Restrict
+beperk
+Restyle Hint
+Restyle
+Resultate
+Resume &apos
+Hervat
+Resumes
+Retained
+Behoubeleid
+Retention
+Retest
+Retrieving quota
+Retrieving
+Haal tans op…
+Probeer weer
+Retrying
+Return
+Retweet
+Reunion
+Reverse
+Omgekeerde
+Keer terug
+Terugval
+Keer terug…
+Lees
+Hersiening
+Revived
+Revocation
+Opgehef
+Rewind
+Heromvou
+Rewriting oldstyle
+Rewriting
+Retoromaans
+Rica
+rykteks
+Rich
+Rico
+Right Click
+Regs
+Regterkant
+Rightclick
+Rights
+Righttoleft direction
+Righttoleft
+Ringing…
+Rio
+Rioja
+risiko
+River
+Roaming
+Robot
+Robots
+Roku
+Rol
+Roemenië
+Romanian ISO
+Romeens
+Room
+Root
+wortelmodule
+Roots
+Roteer
+Ry
+Rye
+Rule
+reëls
+Ruleset
+Voer uit
+RunAppX
+Running
+Runtime
+Rusland
+Russian Federation
+Russies
+Rwanda
+S &apos
+Sobjek
+Sverskaffer
+S S Image
+S S Object
+S S
+S pixels
+Shulpbron
+Sbesoekers
+S ×
+
+S/S
+k
+SASLbinding
+SASL
+SD
+SDP
+SE
+SECGelliptiesekurwesectr
+SECG
+SECURITY
+SEE THIS STRING
+SEE THIS
+NIE
+SETTINGS
+SFailed to
+SFailed
+SHA Digest
+SHAvingerafdruk
+SHA
+SHOULD
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+SKB
+SMB of
+SMB
+SMTP &apos
+SMTP&apos
+SMTP
+SMTPAUTH
+SOCKSgasheer
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+GEBORG
+SQLstellings
+Volledige
+SQLite
+SRV
+SS
+SSLinstaanbediener
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STATbevel
+STAT
+STRING
+STouch
+VOORGESTEL
+SVG clipping
+SVG
+SW Asian
+en
+SWITCH
+SYSTEM
+S_lêers
+Sa
+Saba
+hartseer
+Safari
+Safe Mode
+Veilige
+SafeBrowsing
+SafeMode
+Sahara
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+Sint
+Salaam
+Salem
+Salvador
+Dieselfde
+Sami
+Samoa
+Samoaïes
+Sampled
+Samples
+San Marino
+San
+Sandput
+Sandboxing
+Sandwich
+Sangro
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+Sans
+Sanskrit
+Sansserif
+Santa
+Santo
+Sao Tome and
+Sao Tome
+Sao
+Sardinies
+Sass
+Sa
+Saterdag
+SaoediArabië
+Saudi
+stoortoestemming
+Stoor
+Saved
+Stoor…
+Stoor
+Stoor tans…
+Saw
+Scalars
+Scale …
+Skaal
+Scaled
+skaal
+Scam Warning Take
+Scam
+Scams
+Scan
+Scanner app
+Scanner
+Scanning for
+Scanning
+Scheduling
+Scheme
+Omvang
+Score Origin
+Score
+Scots
+Skots
+Scottish
+Scratchpad Enter some
+Rofwerk
+Screen Orientation
+Screen reader
+Screen
+Screenname
+Screenshot
+Screenshots
+Script
+Scripts
+Scroll
+ScrollLinkedEffects
+Scrolling
+Sd
+Sdays
+Sea
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Soek
+Soektog
+Searches
+Searching &apos
+Soek
+Soek tans…
+Soek…
+Seccomp Thread Synchronization
+Seccomp Thread
+Seccomp
+SeccompBPF System
+SeccompBPF
+Second
+Secondary Email
+Sekondêre
+sekondes
+Sections
+Secure
+Securing connection
+Securing
+Security Exception
+Sekuriteit
+Kyk
+Kies
+Merk
+Selected Frame
+Selected Tabs
+Gekies
+SelectedRemove Selected
+eenVerwyder
+Selecting
+Seleksie
+Kieser
+Selectors
+Kies…
+Self Cost
+Self Sampled
+Self Time
+Self
+Selfclosing syntax
+Selfclosing
+hulself
+Send Verification
+Send a
+Stuur
+Afsender
+Sending
+Sends a
+Sends
+Senegal
+Sensor
+Sent &quot
+Gestuur
+Sep
+Separate _
+Separate tags
+aparte
+Separated
+Skeier
+Separators
+Sepia
+September
+Serwië
+Serwies
+Serial Number
+Serial
+Serialize
+Serif
+Serverhekkripto
+Server Gated
+Server SMTP&apos
+Server Settings
+
+Bediener
+Bedieners
+Service
+ServiceWorker
+ServiceWorkerAllowed
+Dienste
+sessie
+Sessions
+Set Up Sync &quot
+Set this channel &apos
+Set
+Setting
+Settings &#124
+Instellings
+Opstelling
+SettingsA
+Opstelling…
+opsteller
+Seven
+Severy
+Seychelle
+Sh
+Shader
+skaduwees
+Shallow
+Deel
+gedeelte
+Sharing Indicator
+Deel
+Sheet
+Shift _ JIS
+Shift _
+Shift
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+Sjona
+Inkopies
+Short
+Shortcut
+Shortcuts
+Shot
+moet
+Show/Hide
+Wys
+Showing
+Shrink To Fit
+Krimp
+Shutdown
+Shutting Down
+Shutting
+SiInEfate
+Siblings
+Sichuan Yi
+Sichuan
+Kantbalk
+Kantstawe
+Sierra Leone
+Sierra
+Sign
+Signature
+Signed
+Signer
+Ondertekening
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Eenvoudig
+vereenvoudig
+Simplify
+Sleep
+Simulate touch
+Simulate
+Simulation
+Simulator
+Simulators
+Since
+Sindhi
+Singapoer
+Singhalees
+Sinhala
+Swazi
+Werf
+Werwe
+Grootte
+vel
+Slaan
+Oorgeslaan
+Oorslaan
+Slowaaks
+Slowakye
+Slowenië
+Sloweens
+Ontvouting
+Sm
+klein
+Kleiner
+Glimlag
+Gesiggie
+Sms
+Pas
+kiekie
+Sokke
+Sag
+Soliede
+Solomoneilande
+Wolff
+Somali
+Somalië
+Sommige
+Songhay
+Serwies
+Rangskik
+Gerangskik
+Sotho
+Klank
+Bron
+SuidAfrika
+SuidEuropees
+Suid
+Suid
+Space
+Spasie
+Spasiëring
+Spanje
+Spaans
+Cipher
+Spesifieke
+Speculative
+Spel
+Spelling
+Verdeel
+Spotlight
+Spx
+Sri
+Ss
+Stapel
+Standaard
+Standaardversoeningmodus
+Vlag
+Gevlag
+Begin
+Begin tans…
+Begin
+Deelstaat/provinsie
+Deelstaat
+Status
+Stelling
+State
+statistiek
+Statusbalk
+Status
+Bly
+Stop
+stoorruimte
+Gestoorde
+Straat
+Rek
+Deurhaal
+String
+studies
+Stylredigeerder
+Styl
+bevat
+So
+subvouer
+Subvouer…
+Onderwerp
+Onderwerpreël
+Indien
+Ingedien
+Subordination
+Inteken
+Inteken…
+Onderskrif
+intekeninge
+subdraad
+Subboom
+Suksesvol
+Sukses
+Soedan
+Agtervoegsel
+Lêeruitgange
+Voorstelle
+Opsomming
+So
+Soedannees
+Sondag
+Boskrif
+Vervang
+Suriname
+Van
+Verras
+Verrassing
+Swahili
+Ruil
+Swaziland
+Swede
+Sweeds
+Wissel
+Switserland
+sillabereeks
+simbole
+simmetriese
+Sync
+Sinchronisasie
+Sinkroniseer
+Sinkroniseer tans…
+opx
+Sirië
+Systems
+OORTJIES
+TCP
+TCVN
+VERONDERSTEL
+TIS
+TITLE
+TITLEGaan
+Tab
+Tabel
+Tabel…
+Oortjies
+Merker
+Tagalog
+Etikette
+Merkers
+Oortjies
+Tahitian
+Taiwan
+Tadjik
+Tadjikië
+Tamil
+Tanzanië
+Doelopstelling
+Teiken
+teikens
+taakbalk
+take
+Tatar
+Telemetrie
+Telex
+Telugu
+Sjabloon
+Sjablone
+Tydelik
+Term
+Toetsloodsspan
+Teks
+Do
+Thai
+Thais
+Thailand
+Dankie
+Die
+Tema
+Temas
+en
+gebou
+Dié
+Draad
+Gedraad
+Drade
+Do
+Duimnaelskets
+Duimnaels
+Thunderbirdkwelvrae
+Thunderbirdprodukbladsy
+Thunderbird
+Donderdag
+Tibettaans
+Tigre
+Tigrinya
+Teël
+tyd
+Tydsbeperking
+Times
+Tydstempel
+TimorLeste
+Wenk
+Titel
+Aan
+Toasters
+Tobago
+Vandag
+Swik
+Togo
+Tokelau
+tekenmagtiging
+tekendialoog
+Teken
+Tome
+Tongaans
+Tong uitsteek
+Nutsbalke
+Nutsgoed
+Nutswenk
+Bo
+Bokant
+Totaal
+volgbeskerming
+Volgpogings
+Monitering
+tradisioneel
+Vertaal
+vertaling
+Vertalings
+Vertalers
+versend
+Snippermandjie
+Trinidad
+Probleemoplossing
+Trust
+spaar
+Tsonga
+Tswana
+Di
+Di
+Dinsdag
+Tunisië
+Turkye
+Turks
+Turkmeens
+Turkmenië
+Turkse
+tutoriale
+Tuvalu
+Twi
+Twitter
+Soort
+tipes
+UID
+UIDL
+UNSUPPORTED
+URI
+URLskema
+URL
+USASCII
+UTF
+UTFBE
+UTFLE
+Uganda
+Ôô
+Uighuries
+Oekraïne
+Oekraïns
+Ontmerk
+Besluiteloos
+Ongedefinieerde
+Ontskrap
+onder
+Onderstreep
+begryp
+Ontdoen
+Ongelukkig
+Unicode
+Verenig
+Ongeïnisalisieer
+Deïnstalleer
+Deïnstalleer tans
+Eenheid
+Universeel
+Onbekend
+Dissosieer
+Ontlaai
+Ontdoof
+Ontdower
+nommerloos
+los
+Ongelees
+Deregistreer
+Reageertrae
+ongestuurde
+Ononderteken
+Ongerangskik
+Afteken
+Ongemerkte
+Ongedraad
+Titellose
+Onvertroude
+Ongebruik
+Nie geverifieer nie
+Onbesoekte
+Op
+bywerkfalings
+Bywerk
+Bywerking
+Werk by
+Bywerk…
+Gradeer op
+Opgegradeerde
+oplaai
+Laai tans op…
+BoSerwies
+bokas
+Oerdoe
+Uruguay
+Verbruik
+Merk
+Gebruiker
+Gebruikeragent
+Gebruikeragent
+Gebruikernaam
+gebruikers
+Oesbekies
+Oezbekistan
+VERSION
+VISCII
+VK_F
+VK_RETURN
+VPS
+Geldig
+validering
+Geldigheid
+Waarde
+Vanuatu
+Veranderlike
+Vatikaanstad
+Venda
+Venezuela
+Verifiëring
+Verifieer tans…
+Verisigngebruikerkennisgewings
+Weergawe
+Vertikaal
+Video
+Viëtnam
+Viëtnamees
+Bekyk
+Voorskou
+Aansigte
+Bekyk…
+Vincent
+Skynreëel
+Besoek
+besoekte
+Stem
+Volapük
+Volume
+WYSIWYG
+Wag
+Wag tans…
+Wallis
+Walloons
+Let wel
+Waarskuwing
+Waarskuwings
+Wo
+Webblaaierrenaissance
+webkonsoleboekstawingAPI
+WebGLweergewer
+WebIDE
+Websokke
+Webwerf
+Wo
+Woensdag
+week
+weke gelede
+Weke
+Wallies
+WesEuropees
+WesSahara
+Westers
+Witlys
+Witspasiealleenstring
+Who
+Wye
+Wydte
+Venster
+Windowshardewaredrywerverifikasie
+Windows
+Knipoog
+Met
+Sonder
+invoerslimmerd
+Wolof
+woord
+Werk
+Omvou
+Skryf
+geskryf
+skryfstelsels
+X
+XHTML
+XMLmimesoort
+XML
+XMLHttpRequest
+XPathontleding het
+XSLTtransformasie
+XSLT
+XULboks
+XUL
+Xhosa
+PLEKHOUER
+Yahoo
+YandexTranslate
+Jaar
+Jare
+Gil
+Skree
+Jemen
+Ja
+Gister
+Yi
+Jiddisj
+Joruba
+Gebruiker
+Your
+Zambië
+Zhuang
+Zimbabwe
+poskode
+Zoem
+Zoeloe
+a B
+laggende
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+swendelary
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+verraste
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+a week
+a windowed
+a wink
+a year
+skreeuende
+rofwerkplek
+aChoose
+aFrames
+aKen
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abhorred
+abilities
+able
+abort
+aborted
+about About
+about Networking
+about Us
+about brandShorterName
+aangaande
+aangaandekonfig
+aboutcredits
+aboutrights
+aboutwebrtc
+toestem
+aboveAllow
+abruptly
+absence
+absolute positioning
+absolute
+accel
+accelalt
+acceleration on
+acceleration
+accelshift
+accented
+aanvaar
+aanvaarbare
+acceptcharsetutf
+aanvaar
+accepting site &apos
+accepting
+access Key
+access multimedia
+toegang
+accessed
+accessibility support
+accessibility tools
+accessibility
+accessible
+accessing
+accidental breakage
+accidental
+meegaande
+accomplished
+ooreenstemming
+according
+account &apos
+account Actions
+account connected
+account name
+saamvoeg
+accountManagernewAccountlabel
+accounts
+diensverskaffers
+accurate
+erken
+across
+act
+handeling
+aksies
+activate
+geaktiveer
+active Logins
+aktiewe
+Aktiwitietaanwyser
+activity Stream
+aktiwiteit
+actual Size
+werklike
+actualDate &apos
+actualDate
+actuarial
+aanpassende
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+voeg
+addEventListenermetode
+addEventListener
+bygevoeg
+adding
+Verdere
+additivesymbols descriptor
+additivesymbols
+addon &apos
+byvoeging
+byvoeginggalery
+byvoegings
+addonsmozillaorg
+Adresoutovoltooiing
+Adresvelde
+address isn &apos
+address wasn
+adres
+addressbook
+addressbr
+addresses
+addressing area
+addressing
+aanliggende
+adjust
+admin
+administrator
+adult supervision
+adult
+advance
+advanced JavaScript
+advanced
+advanced_pref_installation
+advancelabel
+advertise
+advertised
+advertises
+affect
+affected
+affecting
+after Sending
+ooreen
+again
+ouderdom
+agent
+aggregate
+aggregates
+aggregating
+aggregator
+gelede
+stem
+ooreenkoms
+airplane
+aka NIST
+aka
+ajongste
+alert description
+alert
+algorithb
+Algoritmeidentifiseerder
+Algoritmeparameters
+algoritme
+algorithmhash value
+algorithmhash
+algorithms
+alignment
+alined
+alive
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+alle
+allocate
+allocated
+allocation
+allocations Rate
+allocations
+allow dialogs
+allow immediate
+allow
+toegelaat
+allowfullscreen
+allowing
+allows
+allowsameorigin
+allowscripts
+almost
+along the Y
+along
+alphabetical
+already bookmarked
+reeds
+also gives
+also skip
+ook
+altKeylabel
+alter
+alteration
+altered
+voorsien
+alternatives
+always Ask
+always Block
+always prefer
+altyd
+am &#124
+am
+amount
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+an
+analysis
+analiseer
+voorouerelemente
+ancestor
+ancestors
+anchor &apos
+anchor
+ankers
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+and Herzegovina
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+en
+angle
+animatable
+geanimeer
+animation cycle
+animasie
+animations
+annually
+anonymous box
+anoniem
+another
+antwoorde
+viruswering
+antivirus
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+enige
+anymore
+anyone
+enigebeleid
+anything
+anyway
+anywhere
+apart
+app &apos
+app submission
+app
+appName
+verskyn
+appearance wrong
+appearance
+blyk
+append
+applicable service
+toepaslike
+application Basics
+application Details
+application doesn &apos
+toepassing
+toepassings
+toegepas
+applies
+apply
+applying update
+applying
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+goedgekeur
+approx
+approximate line
+approximate
+approximation
+apps &apos
+apps
+apr &#124
+apr
+april
+arbitrary
+archive
+archived folders
+archived
+archives
+archiving
+are compromised
+are correct
+doen
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+are
+area shape
+area
+areas in
+areas
+aren &apos
+aren
+argument
+arguments for
+argumente
+arising out
+arising
+arjo
+armscii ISO ISO ISO
+armscii
+rondom
+arriveer
+arrived
+aankom
+arrow
+arsa
+artikelopsomming
+artikel
+artikels
+artwork
+as &apos
+as Authored
+as broken
+as cURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+gou
+ascending
+ascii
+ash
+asis &quot
+asis
+ask me
+vra
+wenke
+gevra
+asking
+asks that
+vra
+aspekverhouding
+aspect
+aspects
+assets
+assist you
+assist
+bystand
+assosieerde
+assosiasie
+assume
+assured
+asterisk
+async touch
+async
+asynchronous Pan
+asynchronous entity
+asinchroniese
+gelaaide
+at S
+at least
+at span id &apos
+goeddunke
+atchMore than
+byreël
+heg
+attached
+attaching
+Aanhegselherinneringwoorde
+Aanhegselherinnering
+attachment attachments
+Aanhegselherinningswoorde
+aanhegsel
+attachmentDo
+attachments
+attack An
+attack pages
+aanvalle
+attacker could
+attacker
+attackers
+attacks
+poging
+attempted old
+gepoogde
+attempting
+attempts
+attend
+attendance
+attendee
+attendees
+attention
+attribute Type
+attribuut
+attributes &apos
+stylattribute
+audio Backend
+audio
+aug &#124
+aug
+august
+authenticate to
+authenticate
+authenticates
+authentication mechanism
+magtiging
+egtheid
+skrywer
+authorities
+authority is
+authority
+authorization
+gemagtig
+authors whom
+authors
+auto Increment
+auto Prettify
+Outostoor
+auto discover
+auto
+autoAddOnsUpdateslabel
+autocomplete
+autocompletion
+autodetection
+autofill
+automated updates
+automated
+automatic updates
+outomatiese
+automatically Black
+automatically detects
+automatically prefill
+automatically so it &apos
+outomaties
+automation
+autoplay
+outorol
+available &quot
+available Commands
+beskikbaar
+gemiddeld
+avg
+avoid
+aware
+away
+as
+peuter
+bSelfs
+bS
+back facing
+back
+backed up
+backed
+backfacevisibility hidden
+backfacevisibility
+background
+backlogged
+backslashes
+rugsteuning
+backups
+terugwaarts
+bad parameter
+slegte
+badge
+baggage object
+baggage
+ban
+banks stores
+banke
+banned
+banier
+bar
+barada
+base
+based
+baseline
+basic Page
+basic
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+onstabiel
+be useful
+be validated
+be very careful
+be
+bear the
+bear
+beast
+beasts brought emfire
+beasts
+beautifier
+beautify
+became full
+became
+aangesien
+become
+becomes damaged
+becomes
+been deactivated
+been navigated
+been reestablished
+been replaced
+been revoked
+been transferred
+been translated
+sekuriteitvoorkeure
+beep
+tevore
+began
+begin
+beginning
+begins with
+begins
+behalf
+behavior
+behaviour
+behavioural
+being incompletely transferred
+being redirected
+being reparsed
+being
+believe
+believed
+belongs to
+belongs
+hieronder
+benefit
+benefits
+langs
+best Match
+vermag
+beste
+beter
+tussen
+bfor Android
+bgt
+bidirectional
+big
+bigger
+billing
+binêre
+BindDN
+bind
+binding shadows
+binding
+bindingsmerker
+bindings
+bird
+birdcage …
+voëlhok
+birth
+bit keys
+bit
+bitrate
+bisse
+bitten
+black
+blanko
+block Lists
+blokopvulling
+block
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+geblok
+blocking
+blocks parts
+blocks
+blue &quot
+blue
+bm
+bmp
+board
+lyf
+body
+book
+bookmark updated
+bookmark
+bookmarked
+boekmerke
+books
+boolese
+bootloader
+border &apos
+border radius
+randgrootte
+Randte
+bot
+beide
+bottom
+bound
+boundaries
+bounds
+box Model
+box model region
+box model
+blokkie
+boxcom
+boxed
+boxes
+boxing
+br
+brace
+braces
+brackets
+brand new
+brand profile
+brand
+brandFullName Credits
+brandFullName
+brandShortName &apos
+brandShortName Preferences
+brandShortNamelogo
+brandShortName
+brandShorterNametoer
+brandShorterName
+brandShortname
+break
+breakage
+breaking
+breakpoint
+breakpoints
+breaks
+brighter
+bring
+broad
+gebreekte
+brought
+browse
+browser &apos
+browser Hangs
+browser configurations
+blaaier
+browsercachediskenable to
+browsercachediskenable
+browsers
+browsing
+brulliAs
+btn
+buddy list
+buddy
+budget
+buffer capacity
+buffer
+bug
+bugs visit
+bugs
+bugzillamozillaorg
+Boukonfigurasie
+build
+building summary
+built
+builtin Roots
+builtin tools
+ingeboude
+bulleted list
+bulleted
+besigheids
+besig
+but we
+behalwe
+button button
+knoppie
+knoppies
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+volgend
+bynbspdesign
+byte
+grepe
+c
+cSrS
+cURL
+kasbestuur
+kasgeheue
+cachecontrol set
+cachecontrol
+gekaste
+cachemanifest
+caching of
+caching
+calendar Weeks
+calendar
+calendaring information
+calendaring
+calendars
+calendartimezonesxpi
+call Stack
+call calls
+Roep
+callUrl
+callback
+called &apos
+geroep
+callees
+caller
+calling detach
+calling
+calls
+kamera
+can &apos
+can analyze
+can collect
+can often
+can ’
+can
+kanselleer
+canceled Occurrences
+gekanselleer
+cancellation
+cancelled
+cancelledAddon
+candidate resources
+candidate
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+cannot
+canvas Debugger
+canvas an
+canvas
+RSSvermoëns
+capable
+capacity
+kasfout
+byskrif
+vaslê
+captureEvents
+captured log
+vasgelê
+card
+cards copied
+ens
+cards
+care
+careful
+carefully
+caret
+carriage return
+carriage
+carrier
+case sensitivity
+inagneming
+caseinsensitive
+gevalle
+cast
+kategorieë
+categorize and
+kategoriseer
+category
+categorySource
+cause
+caused
+causes
+causing stability
+causing
+versigtigheid
+caveats
+cc
+cd
+selrand
+cell was
+sel
+cells
+cellular location
+cellular
+census
+Middelvoetstuk
+Middelkopstuk
+center
+middelhaaks
+centerxcenteryradius
+centimeters
+cert AIA
+Sertprogrammateek
+cert validation
+cert
+sekere
+certificSian
+Sertifikaatbesonderhede
+Sertifikaatvelde
+Sertifikaathiërargie
+Sertifikaathouer
+Sertifikaatbeleide
+Sertifikaatondertekenaar
+Sertifikaat
+sertifikate
+ch
+ketting
+wysigings
+verandering
+karakterenkodering
+karakter
+karakters
+karakstelstring
+klets
+Merkkassie
+merk
+merkblokkie
+merkblokkies
+gemerk
+kind
+kinders
+keuse
+chrome//messenger/content/msgAccountCentralxul
+chroom
+syfersuites
+sirkel
+beweer
+klas
+als
+wis
+gewis
+kliek
+geklik
+Sknop
+knipbord
+klok
+gesluit
+toemaak
+eind
+kode
+codebreakpadreportURL
+ingevou
+ingesamel
+gesamentlike
+kleurkomponent
+kleur
+kleure
+kolom
+kolomme
+kolommet
+kombinator
+come
+command
+kommas
+kommageskeide
+opmerking
+gemene
+tipies
+kommunikeer
+gemeenskap
+kompakteer
+gekompakteer
+se
+versoenbaarheid
+versoenbaar
+komplementêr
+voltooi
+heeltemal
+klaarmaak
+komponent
+komponente
+skrywervenster
+briefskywer
+omvattend
+saampersing
+oorgeneem
+rekenaar
+beweeg
+voorwaardes
+Opgestelde
+bevestig
+bestelling
+koppel
+gekoppel
+verbinding
+verbindings
+gevolg
+Oorweeg
+konsekwent
+Beperkingsoortreding
+beperking
+Kennisfoto
+kontak
+kennisse
+verpak
+bevat
+Inhoudgerigtheid
+inhoud
+konteks
+voortgaan
+bereik
+bydraers
+gerief
+gesprekke
+omgeskep
+koekie
+koekies
+oulike
+koördinaat
+coords
+gekopieerS
+kopieë
+Kopiëring
+kopiereg
+onderste
+regmaak
+funksioneer
+ooreenstemmende
+korrupte
+gekorrumpeerde
+bloot
+omval
+gehad
+omvalle
+skep
+geskep
+besonderhede
+kredietkaartnommers
+kritiese
+css
+csv
+krulhakie
+hudige
+porsleutels
+wyser
+kurwe
+pasgemaakte
+pasmakings
+aanpas
+d
+skadevergoeding
+darrinhenein
+Datakeuses
+Dataversyfering
+Datainlewering
+data
+databasis
+datum
+dag
+dagdae
+dae
+ontfouter
+SQL
+bos
+misleidende
+besluit
+deklarasie
+verklaar
+dekodeer
+gedekodeer
+uitpak
+dekripteer
+Verstektoestemmings
+t
+verstek
+definisielys
+definisie
+skrap
+geskrap
+bied
+afgekeur
+ontwerp
+Bestemmingsvouer
+teikenposbusse
+handtekeningsertifikaat
+bespeur
+bespeur
+Gemorspos
+Ontwikkelaarweergawe
+ontwikkelaar
+developermozillaorg
+ontwikkeling
+toestel
+toestelen
+toestelle
+diagnostiese
+diagram
+dialoog
+dialoë
+woordeboeke af
+woordeboek
+moeilik
+digitale
+digitaal
+dir
+direk
+subgidse
+deaktiveer
+gedeaktiveer
+nietoegelate
+weggegooi
+ontken
+ontkoppel
+opskort
+vermom
+skyf
+gestuur
+display
+vertoonde
+doelbewus
+verspreiders
+do
+docs
+dokument
+dokumentasie
+documentdomain
+documentdomainS
+documentload
+dokumente
+documentwrite
+skuld
+domein
+graad
+t
+donasie
+klaar
+Afpyltjie
+Aflaaiaksies
+aflaaiproses
+afgelaai
+dit
+drywer
+weens
+duplikaatattribuut
+duplikaat
+e
+eWorld
+makliker
+kant
+uitwerking
+bv
+eight
+eightbit
+eighteen
+eighteenth
+eighth
+either
+verloop
+elea reime
+element
+elementdataset instead
+elementdataset
+elemente
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+eleven
+eleventh
+eligible
+Elliptiesekurwe
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+elliptiese
+kontak
+else
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+eposkorrespondent
+epos
+emailI &apos
+emailI
+emailed
+eposvoorbeeldcoza
+emails
+emand
+embarrassed face
+verleë
+embarrassing
+embed
+embedded PDF
+embedded
+embeds
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributor
+emcontributorJoe Solon
+emcontributorTranslateorgza
+emcontributorSuzy
+emfire
+emgreat
+emnew
+emander
+emoticons
+employer
+empty Trash
+empty slots
+Leë
+emptying
+emreborn
+emrenewed
+emswiftly
+emthunder
+emtwins
+emulate a
+emulate
+emulating a
+emulating
+emulation
+en
+enUS en
+af
+enable brandShortName &apos
+enable others
+enable worker
+aktiveer
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+Geaktiveerde
+enables
+enbz
+enclosed
+encode
+encoded
+encoder
+enkodering
+encodings
+encountered
+encrypt this
+enkripteer
+encrypted you
+geënkripteerde
+enkripsie
+enctype instead
+enctype
+enctypeS
+enctypemultipart
+end user &apos
+end
+klaar
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+ends
+enforced
+engage
+enjin
+enjins
+enhanced
+enjoy
+enlarging the
+enlarging
+genoeg
+ensure
+ensures that
+ensures
+intik
+ingetik
+entering
+enters
+entire
+entirely
+entities
+entity in
+entity reference
+entiteit
+inskrywings
+entry
+enumerable
+enus
+environment Data
+environment
+environments
+ephemeral DiffieHellman
+efemere
+equals sign
+equals
+vergelyking
+equestAnimationFrame
+era of
+erase
+foutkonsole
+error creating
+error refiling
+fout
+errorCode
+errorfree
+errors
+erver
+es Salaam
+es
+esES
+esc
+escape
+escaped
+escaping
+bewerkstellig
+established
+estimates only
+benadering
+ens
+eval
+evaluate selected
+evaluate
+evaluating a
+evaluating an
+evaluating
+evaluation
+selfs
+event Handler
+event
+eventThe
+events
+ooit
+every dayevery
+every weekevery
+every
+almal
+everything inbetween
+everything
+everywhere
+presiese
+exactly
+examf
+examine your app &apos
+examine
+byvoorbeeld
+examplecom rather
+examplecom
+voorbeeldnet
+vyfhonderd
+exceed the
+reikwydte
+exceeded
+exceeds
+except
+uitsondering
+exceptions Cookies
+Uitsonderings
+exchange
+excluded
+wat uitsluit
+uitsluiting
+uitvoerbare
+execute
+executed to
+executed
+executes
+execution
+bestraffende
+exist can &apos
+exist
+Bestaande
+exists
+existsWould
+exit
+exited
+exits
+expand panes
+expand
+expanded to
+uitgevou
+expanding out
+expanding
+expands to
+expands
+expandstrict
+expect anonymous
+expect
+expectations
+expected charset
+expected coordinate
+expected counter
+Identifiseerder
+expected nonnegative
+expected part
+expected
+gekry
+experience
+ervare
+experiences
+experiencing
+experiment
+eksperimenteel
+experiments
+verval
+verval
+expires Seconds
+expires
+expiry
+explicit
+explicitly specify
+explicitly
+exploit
+explore a
+explore
+export regulations
+export
+exported
+expose
+exposedProps
+uitdruklik
+uitdrukking
+expressions
+extend
+extended
+extending the
+extending
+extends system
+extends
+extensible
+extension extensions
+uitbreiding
+uitbreidings
+external Editors
+external storage
+eksterne
+extra Large
+extra requirements
+ekstra
+extract error
+extract
+extraction error
+extraction
+uiters
+f
+gesiggie
+facing camera
+facing
+factory
+fail
+mislukte
+fails treat
+fails
+faling
+fallback
+false
+familiar
+family addressbr
+family
+far
+vinnige
+nóg
+faves
+faxed
+kenmerk
+kenmerke
+feb &#124
+feb
+february
+feed &quot
+Voerintekeninge
+nuusvoer
+feedImported
+terugvoer
+voere
+feel
+feels great
+feels
+fell
+fence
+fetch count
+fetch
+fetched from
+gehaal
+fetching individuals
+fetching more
+fetching
+paar
+fewer
+ff &quot
+ff
+Veldwaarde
+veld
+velde
+fifteen
+fifteenth
+fifth
+fig
+figure
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+userjslêer
+filename
+slotlêers
+filesystem
+filing
+fill out
+fill
+fillStyle
+filled
+invul
+filter JSON
+Filterreëls
+filter Variables
+filter event
+filter variables
+Filtreer
+gefilter
+filtering
+filters
+final
+finansiële
+find In
+find exactly what you &apos
+find out what &apos
+vind
+findbar
+finding
+finetuned
+finish
+finished evaluating
+finished
+finishing
+fire
+firefox
+firefoxapps
+brandmuur
+brandmure
+first option
+first party
+eerste
+geskik
+vyf
+regstel
+fixed Width
+vastewydtefont
+reggestel
+fixvideoaudioproblemsfirefoxwindows
+flag
+flagged
+flame
+flash
+flashing
+flat equation
+flat
+flexibility and security so you &apos
+aanpasbaarheid
+flexiblebr
+floating &quot
+floating
+floor
+floppy
+flr
+focus Variables
+focus
+focused
+folder &apos
+folder &quot
+vouerintekeninge
+Vouer
+heen
+volg
+followed by
+followed
+followers
+following protocols S isn &apos
+volgende
+follows
+followup
+Fontbeheer
+font size
+font
+fontface rule
+fontface
+fontfeaturevalues
+fonts for
+fonte
+fontvariant property
+fontvariant
+footer text
+footer
+footinmouth face
+footinmouth
+for &apos
+for &quot
+for Clearing
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+for recipients &apos
+for signing
+for writing
+vir
+verbode
+force
+forced
+forcibly
+forcing all
+forcing
+foreign
+forgeries
+forgery
+vergeet
+forgetting
+vergeet
+form Field
+Vormpos
+form fields
+form userhost
+vorm
+formaat
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+formatSNew
+formate
+formatted as
+geformateerde
+formatering
+formdata on
+formdata
+formed
+forms are
+vorms
+forth and
+forth
+forums
+forward slashes
+vorentoe
+aangestuur
+forwardmsg
+aanstuur
+Aanhegselwoord
+foundout of
+foundout
+founds
+four
+fourteen
+fourteenth
+fourth
+fox jumps over your expectations with
+fox jumps
+fox
+fps
+frFR
+frac
+fraction
+fragment Shader
+fragment
+frame &apos
+frame
+framed
+framerate
+frames
+frameset
+framesets
+framing
+bedrog
+bedrieglike
+free
+kwelvrae
+vars
+friday &#124
+friday
+fridays
+friend
+friends
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+van
+front facing
+front
+frown face
+frown
+frozen
+ftp
+ftpmyispcom
+vol
+fullfeatured
+fullpage
+volskermgebruik
+fully
+uitgevoer
+functional
+functionality
+functions
+further
+future scans by
+toekomstige
+fxp Available
+fxp
+gain
+gallery
+garbage Collection
+garbage collection
+garbage
+garbled text
+garbled
+gateway
+gathering
+gazed
+gb
+gdiplus
+ratikoon
+gear
+general Notification
+general
+generally
+generate a
+generate
+generated
+generation
+generator
+generic Photo
+Generiese
+geoenabled preference
+geoenabled
+geolocation
+geometric
+geometry visibility
+geometry
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+gevolglik
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+getAttributeNode
+getAttributeNodeNS
+deurgegee
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+getting
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+give
+given
+gives you
+gee
+giving
+glitches
+glob
+global Composing
+global community
+wêreldwye
+globals
+go Back
+go
+goes
+going online
+ongeluk
+gone
+good news
+goeie
+goodwill
+gopher
+gorithm Identifier
+got it
+got
+governed by
+governed
+grace
+grant
+granted
+grants you
+ken
+graphic
+graphics
+great
+greater than
+groter
+greeting
+grew more
+grew
+grid
+gridcell
+grip
+groep
+grouped
+groepe
+gt
+gtgt
+guarantee that
+waarborg
+gewaarborg
+guess
+guessed
+raai tans
+guest is
+guest
+guide you
+guide
+guides
+h
+hTraduction
+ha
+hacking
+had its
+het
+half an
+half past
+half
+handjie
+hand
+handle S
+hanteer
+handled
+handler command
+handler
+handles
+handling
+hands
+bladskud
+handshakes
+hang Report
+hang stacks
+hang
+hangs
+happened
+happens
+hard drive
+hard
+hardware H
+hardware acceleration
+hardware
+harm
+skadelike
+has Attachments
+has bookmarked
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+has
+hash
+hashes in
+hashes
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+have
+haven &apos
+haven
+haves
+having trouble
+having
+head
+kopskrif
+kopskrifte
+heading level
+opskrif
+koppe
+gesondheid
+heap
+hear
+height
+held
+hello extension
+hello
+hulp
+helper
+helpful
+helping make
+helping
+helps ma
+helps
+haar
+hier
+versteekte
+hide Statistics
+hide Toolbars
+hide
+hiding
+Höegraads
+hoë
+higher level
+hoër
+hoëgraadse
+Verlig
+highlighted
+highlightedS nodes
+highlightedS
+highlighter
+highlighters
+highly recommended
+hoog
+hightailcom
+him
+hints press
+hints
+his or her
+his
+history window
+history&apos
+geskiedenis
+hold
+holds
+home City
+home Country
+home Phone
+home directory don &apos
+huis
+tuisblad
+hop limit
+hop
+horizontal lines
+horisontale
+horror
+rekenaarnaam
+hosted
+hosting service
+hosting
+hostname
+hostnameport
+gasheername
+hostport
+hosts
+hotspots
+hour
+uurure
+ure
+hoe
+however
+href
+hrink
+hrpd
+hstrike
+htm
+
+html
+uitgevee
+htmlstrongCookies
+htmlstrongHistory
+htmlstrongoortjies
+htmlstrongvensters
+HTTPinstaanbediener
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http//wwwmozillaorg/products/thunderbird/messagegroupinghtml
+http//wwwmozillaorg/products/thunderbird/privacyprotectionhtml
+http//wwwmozillaorg/products/thunderbird/rsshtml
+http//wwwmozillaorg/products/thunderbird/searchfoldershtml
+http//wwwmozillaorg/support/thunderbird/
+http//wwwseamonkeyprojectorg/
+http
+https//boxescom/external/widgetreferffurls
+https//composemailyahoocom/Tos
+https//mailgooglecom/mail/extsrcmailtourls
+https//wwwmibbitcom/urls
+https
+skakering
+human
+iOS
+ikoon
+ikone
+id
+identies
+identifikasie
+geïdentifiseer
+identifiseer
+maw
+indien
+geïgnoreerde
+ii
+iii
+onwettige
+gif
+prente
+gereserveer
+aap
+dadelik
+voorgee
+implementasie
+geïmpliseerde
+import
+belangrik
+ingevoerde
+onbehoorlike
+onbehoorlik
+ruk
+ontoeganklik
+inaction
+onvoldoende
+duim
+toevallige
+hierby
+waaronder
+inkomende
+onversoenbare
+onvolledige
+indeks
+indirekte
+individuele
+ined
+verwittig
+aanvanklike
+geïnisialiseer
+aanvanklik
+SSLbladskud
+injure
+Inlynstyl
+inlyn
+inlineblock
+onskuldige
+toevoer
+onbeveiligde
+voeg
+ingevoeg
+installeringsproses
+installering
+geïnstalleerde
+Opsteller
+programkopie
+Kitsboodskappe
+instede
+heelgetal
+integriteit
+bedoel
+Interne
+onderbreek
+oë
+ongeldige
+hê
+is
+is nie
+reik
+uitgereik
+uitreiker
+oplewer
+naaap
+item
+items
+sy
+homself
+dataURL
+finalisering
+Gemorspersentasie
+Gemorsgraderingoorsprong
+Gemorsontleding
+gemorspostelling
+gemorsposstellings
+kb
+hou
+sleutel
+Sleutelbordkortpaaie
+sleutelbord
+sleutels
+opgemerk
+onderdruk
+soorte
+rieme
+uitgelê
+groot
+later
+jongste
+internasionale
+ldi
+ldif
+blaar
+leer
+minste
+Linkspyltjie
+linkerkantlyn
+lefttoprightbottom
+lengte
+minder
+laat
+vlak
+li
+liKontroleer
+liIndien
+liMaak
+liKontak
+liKlik
+liDie
+liHierdie
+liDalk
+Biblioteekweergawes
+lisensies
+lisensiëringinligting
+lisensiegewers
+ligtheid
+waarskynlik
+sogoedsoosnuut
+liliKlik
+liliHet
+liliLaat
+liliWord
+liliKlik
+liliSekere
+liliSukkel
+liliemLET
+beperk
+inperking
+reëlbreuke
+lyn
+skakel
+geskakelde
+skakels
+Lysitem
+Lyskennaam
+lys
+gelys
+letterlike
+gelaai
+laai tans
+plaaslike
+locale
+localhost
+plaaslik
+ligging
+ontsluit
+vasgesluit
+boek
+boekstawing
+aanmelinligting
+logo
+laer
+regter
+lt
+ltbgtboldlt
+ltr
+masjien
+rente
+Posaansigte
+onderskep
+posbus
+posbusse
+hoofproses
+hoof
+Onderhoud
+tersaaklike
+maak
+spoolgids
+wanvormde
+kwaadwillig
+wanware
+bestuur
+handleiding
+veel
+Kantlyne
+mark the
+marked
+marking a
+marking
+markering
+marquee
+masking
+master
+match
+passendeMeer
+matched by
+matched
+matcheleatchMore than
+pas by
+passing
+matchutomatically
+stof
+math table
+math
+matrix
+max
+maxage
+maximum Length
+maximum permissible
+maksimum
+may discontinue
+may update
+verkeerdelik
+maybe
+mb of
+mb
+mbox
+me out of here
+my
+stadiger
+mean
+means you &apos
+means
+measure a portion
+measure a
+measure
+measurements
+measuring
+mechanism
+mechanisms
+Mediadeling
+media
+medium
+meet
+member
+members
+membersonly
+memory map
+memory measurements
+geheue
+mentioning
+menu Bar
+menu bar
+menu
+menuPath
+menus
+merchantable
+Saamsmeltwaarskuwing
+merge all
+merge
+mesh
+Boodskapgroepering
+message I &apos
+Boodskapopsomming
+message flag
+message panel
+message preview
+boodskapsjablone
+message }
+boodskap
+messageDone
+messageIndexing
+messageS
+boodskapbr
+messagebrIn
+boodskapeml
+messagegt
+boodskapID
+messages Reopen
+boodskappe
+messaging
+meta
+metadata
+metal posteriors
+posteriors
+metaviewport tag
+metaviewport
+meter
+method &apos
+metode
+methodGET
+methodPOST and
+methodPOST
+methodpost
+methods
+mikrofoon
+microsummary
+middle Eastern
+middle
+might
+migrate to
+migrate your
+migrate
+migrated
+millimeter
+millisecondPing
+milliseconds
+mimetype of
+mimetype
+min
+mind
+minheight
+minimonth
+Minimum
+minjs
+minor
+mins
+minute minutes
+minuut
+minuteEvery
+minuutminute
+minutes ago
+minutes …
+minute
+minwidth em
+minwidth
+misconfiguration
+misconfigured
+misencoded
+mismatch
+mismatched tag
+wangepaste
+missed reminders
+misgeloop
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+vermiste
+misspelled word
+misspelled words
+misspelled
+mistake
+mistakes
+mistyped
+mix
+gemeng
+mmultiscripts
+mobile
+mode and can &apos
+mode
+modegt
+model
+modelview
+moderated
+moderator
+modern
+modes
+gewysigde
+modifier
+modifiers
+modify
+module returned
+module
+modules
+moduli
+oomblik
+momentarily
+moments
+monday
+mondays
+moneymouth face
+moneymouth
+monitor
+month
+monthS of
+monthS
+monthevery
+monthly
+maande
+more bookmarks
+more powerful
+more savings
+meer
+moreand
+morex
+more…
+most Visited
+most accurate
+most popular
+most
+mostrecently
+mouse Wheel
+muis
+move Down
+move Up
+move away
+move emswiftly
+skuif
+beweegbare
+moved renamed or deleted
+moved renamed
+verskuif
+geskuifS
+movemail
+moving
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+mozVisibilityState &apos
+mozVisibilityState
+mozcmd directory
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+Translateorgza
+mozinlinebox display
+mozinlinebox
+mprescripts
+ms
+msf
+msgFilterRulesdatlêer
+msgFilterRulesdat
+much
+multiline
+multimedia
+multiple links &quot
+klomp
+multiplied And
+multiplied by
+multiplied
+veelvuldige
+multiweek
+music
+must involve
+moet
+my &quot
+my Cert
+my Projects
+my Quick
+my Task
+my Yahoo
+my windows
+my
+mypagehtml &quot
+mypagehtml
+n
+nWhen your
+nWhen
+name &quot
+Benoem
+nameSource
+named anchor
+named either
+Benoemde
+profielname
+namespace
+naamsruimte
+narrowing
+native code
+native
+natively
+navigeer
+navigated
+navigating
+navigation Toolbar
+navigasie
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+naby
+nearby
+naaste
+necessary
+need
+verlangde
+needing to
+needing
+behoeftes
+negate
+negated
+negation
+negatiewe
+negotiate an inadequate
+negotiate
+negotiating a
+negotiating
+onderhandeling
+neither
+nested Table
+nested
+nesting
+netnz /
+orgza
+Netscape
+network Monitor
+Netwerkuittelling
+network drive
+network section
+netwerkversoek
+never Show
+nooit
+NieuCaledonië
+new Separator
+new Tab
+NieuSeeland
+new home
+new word
+nuwe
+nuwer
+news client
+nuus
+newsexamplenet
+nuusgroepintekeninge
+newsgroup
+newsgroups
+newsrc File
+newsrc file
+newsrc
+next gt
+next
+nicer
+nick
+bynaam
+nicknamegt Change
+nicknamegt
+nicknames
+nicks
+nag
+nikto
+nine
+nineteen
+nineteenth
+ninth
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+geen
+noMac
+noWin
+nocors&apos
+nocors
+node
+nodeShow all
+nodeShow
+nodeValue
+nodusslot
+nodes
+nominative
+non Participant
+non
+nonASCII
+nieFORTEZZAsertifikaat
+nonFORTEZZA
+nonGregoriancalendar
+nonResponse
+nonUTF encoding
+nonUTF
+nonascii character
+nonascii
+noncesource
+noncharacter
+geen
+nieleë
+niefunksiepseudoklas
+nonfunction
+nongeneric
+nonincremental Cause
+nonincremental
+nieblaar
+nonmultiprocess
+nonnavigation
+nonnegative
+nonparticipant
+niedrukkarakter
+nonprintable
+nonprofit Mozilla Foundation
+winsbejag
+nonspace in
+nonspace
+nonstandard
+nontext
+nonvoid
+noon
+nor
+normally
+noscript
+nosniff
+nostore
+not After
+not Before
+not Connected
+not Critical
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+not Installed
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+not checked
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+onleesbaar
+not standalone
+not
+notation be unescaped
+notation be
+notation
+note Slow
+note
+notes
+nothing
+notice
+noticed
+notification Permissions
+notification _
+notification
+notifications
+notified
+notifier or
+notifier
+notify me
+notify
+noting
+nounclass
+nov &#124
+nov
+november
+now doesn &apos
+nou
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+nsIWindowMediator
+nsIWritablePropertyBag
+num
+syfer
+Genommerde
+numbers negative
+syfers
+numerator
+numeric
+nursery Collection
+nursery Eviction
+nursery
+objeienskappe
+obj
+object Stores
+objek
+objekte
+versteek
+observed
+observers
+obtain
+occur
+occured
+plaasgevind
+occurrence of
+voorkoms
+voorkomste
+occurs
+oct &#124
+oct
+october
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+Man
+of Office
+of Operation
+of Sync
+periode
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+van
+ofbr
+off paint
+af
+offer
+offered
+offering
+offerings
+offers
+offerxA »
+vanlyn
+offline_apps
+grense
+often
+ok
+oud
+older than
+older version of Sync
+ouer
+oldstyle YouTube
+oldstyle
+weggelaat
+on Main
+on Permit
+booor
+on Twitter
+on boxcom
+on shutdown
+on tenured
+aan
+maal
+one Level
+one moreand
+een
+oneoff
+ones
+oneshot
+oneubuntucom
+ongoing
+aanlyn
+only reloads
+only supports
+only transmitted
+slegs
+onlybr
+opacity in
+ondeursigtigheid
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opkode
+open Web
+open WebIDE
+open
+geopen
+opening fence
+weerhou
+opensource
+operating system
+operating
+operation command
+operation failed
+bewerking
+operations error
+operations
+operator expected
+operateur
+operators
+opportunity
+opposed
+optimization
+optimizations
+optimized away
+optimized
+optin No
+vóórtoestemming
+Opsiegroep
+ontkies
+optional defaultS
+optional
+optionally
+implementeer
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+of
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+volgorde
+organization
+organisasies
+organizer
+oorsprong
+originAttributes
+oorspronklike
+originally
+originals
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+ander
+val
+otherwise it
+otherwise
+our geolocation
+our partners
+our
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+out
+outage
+gedateerde
+uitgaande
+outline
+outlook
+outofdate
+Afvoervouer
+afvoer
+buite
+over other apps &apos
+over
+overhead
+oorlegging
+overridden
+override the viewer &apos
+oorheers
+overriding
+overscript
+Oorsig
+overwrite
+oorheengeskryf
+eie
+besit
+owner of
+eienaar
+ownerElement
+eienaars
+ownership
+p pIf
+p
+pA secure
+pA
+pAdditional information
+pBykomende
+pAanvalsbladsye
+pAttack
+pDeceptive sites
+pDeceptive
+pEntering any
+pEntering
+pAs
+pThe browser
+pThe page
+pThe requested
+pDie
+pThese types
+pThese
+pAlhoewel
+pBladsye
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pYou
+pYour
+pakket
+packaged
+packets
+padding
+page &apos
+Bladsykleure
+Bladsyvoete
+page Setup …
+Bladsytitel
+page continued
+page navigation
+bladsyvertaling
+page }
+blad
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+pages they &apos
+bladsye
+paint flashing
+paint
+painted area
+geteken
+pair a
+pair
+pane
+panel
+panes
+panning
+Papiergrootte
+papier
+paragraph Marks
+paragraaf
+param
+parameterentiteit
+parameter
+parameters
+paranoid
+parent Match
+parent Payload
+parent prefix
+parent
+parse XML
+parse failure
+parse
+parsed
+ontlederstaat
+parser
+parsing
+part of
+part
+partial Update
+partial character
+gedeeltelike
+deels
+participant
+participants from
+deelnemers
+participate
+particular purposes
+besondere
+partye
+partner You
+partner
+partners We
+partners work
+vennote
+partnership
+dele
+party
+wordIs
+pass
+passed to
+passed
+passive ’
+passive
+passwdtxt
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+Wagwoordgehaltemeter
+password&apos
+wagwoord
+passwordLeave
+onthouGestoorde
+passwordprotected
+wagwoorde
+verlede
+pasting
+patch apply
+patch
+pad
+paths starting
+paths
+pattern &apos
+pattern
+pause
+paused —
+paused
+payload
+payment provider
+payment
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+peace
+peer &apos
+eweknie
+peers &apos
+peers
+pending dump
+uitstaande
+people &apos
+people wouldn &apos
+persone
+per
+persent
+percentage of
+persentasie
+percnt Completed
+percnt
+perform caseinsensitive
+perform querySelectorAll
+perform
+prestasie
+performed Trying
+performed
+performgt
+performing
+periodically
+permanent exception
+permanente
+permanently deleted
+permanent
+permissible length
+permissible
+permission denied
+permission
+Toestemmings
+permit
+permitted
+persistent logs
+persistent
+person &apos
+person who holds
+persoon
+personal Card
+persoonlike
+personalhttp//wwwmozillaok
+persoonlikheid
+uitvissing
+frase
+pixels
+Bêre
+skoontekswagwoorde
+plan
+Speelspoed
+speel
+Inprop
+inproppe
+pngprent
+potgooi
+potgooie
+beleid
+poly
+opspringers
+poort
+beslis
+dele
+Posisioneerrooster
+posisionering
+kragtige
+vooropstelling
+verkies
+hieroor
+vooraf
+voorvoegsel
+press
+gekeer
+vorige
+prys
+primêre
+drukvoorskou
+Drukreeks
+druk
+gefaks
+Drukkerbeskrywing
+drukker
+drukkers
+drukproses
+prioritiseer
+prioriteit
+Privaatheidkennisgewing
+privaatheidbeleid
+private
+waarskynlik
+probleem
+prosedures
+verwerk
+verwerkingsinstruksie
+produk
+Profiel
+opstellerprogram
+programme
+vordering
+teikengids
+eienskappe
+eienskap
+beskermde
+beskerming
+beskermingKies
+sekuriteitsprotokol
+protokols
+voorlê
+aangegewe
+verskaffer
+privaatreg
+instaanbediener
+pseudoklas
+pseudoelement
+openbare
+publiek
+pulliProbeer
+pulliAs
+pulliSou
+pulliIs
+pulliKontak
+koop
+doeleinde
+doeleindesbr
+doeleindes
+px
+q
+qmozillaorg
+qstrongww
+qstrongwww
+gehalte
+kwarantyn
+vrae
+quotGemorsposquotvouer
+Kwotawortel
+kwotas
+quotblockAttackSiteslabelquot
+quotblockWebForgerieslabelquot
+aangehaalde
+quotquot
+qwxyz
+radius
+getalreeks
+rou
+lees
+gereed
+werklik
+reason
+redes
+strokie
+ontvangde
+onlangs
+ontvanger
+
+ontvangers
+herkende
+aanbeveel
+sterkste
+Herkoppel
+Teken
+herwin
+rect
+reghoekige
+herhalende
+herhaal
+terugwerking
+terugwerkende
+Herverwysingslus
+toe herstuur
+herverwys
+verwysing
+Verwysinghopperk
+verwysing
+herliasseer
+weier
+oor
+reguitdruk
+geregistreerde
+registrasie
+registry
+verwerp
+Verwante
+verhouding
+relatiewe
+vrystellingaantekeninge
+relevansie
+relevante
+herlaai
+herlaai tans
+verskuif
+oorblywende
+onthou
+afgeleë
+wegneem
+removeEventListenermetode
+verwyder
+heronderhandeling
+herontleed
+vervang
+vervang
+Replikasie
+beantwoord
+antwoord
+Rapporteer
+rapporteer
+verteenwoordig
+gereageer
+aangevraagde
+aanvra
+benodig
+vereistes
+gereserveerde
+terugstel
+reaksie
+res
+hebegin
+herbegin
+herstel
+terugkopieë
+Gevolglik
+resultaatSien
+resultate oplewer nie
+hervat
+ophaal
+gestoorde
+herprobeer
+graag
+hersiening
+hersienings
+ingetrek
+rgb
+Regspyltjie
+regterkantlyn
+regte
+risiko
+wortelsertifikaat
+wortelelement
+wortelgids
+ry
+ryen
+rye
+rulesbackupdat
+lopende
+s
+veilig
+veiligheid
+gesê
+Voorbeeldafvoer
+versadiging
+stoor
+gestoorde
+skoonteksweergawe
+sê
+verklein
+slap
+skerm
+Skrip
+skripte
+rol
+soek
+searchIntegrationengineName
+soekbare
+soektogte
+s
+tweede
+sekondes
+sekondesekondes
+secpr
+geheim
+afdeling
+SECGelliptiesekurwesectk
+beveiligde
+beveilig
+Sekuriteitstoestelle
+Sekuriteitsmodules
+Sekuriteitswaarskuwing
+Sekuriteitswaarskuwings
+sekuriteitstoetse
+sekuriteitsverbeteringe
+sekuriteitsprogrammateek
+grond
+seeing doctype
+seek
+soek tans
+blykbaar
+seems
+seen but
+seen
+select &quot
+select camera
+selekteer
+selected line &apos
+gemêrkte
+selecting
+selection
+selections above
+selections
+selectlabel
+selector
+selectors separated
+selectors
+selects
+selfonderteken
+semicolon
+send Feedback
+send For
+stuur
+sender &apos
+sender message
+uitgeklaar
+sending
+sends
+Sensitiewe
+kleinletters
+sent Cookie
+gepos
+sep &#124
+sep
+separate tags
+Skei
+separated
+apart
+separating
+skeierkarakter
+skeier
+sept
+september
+sequentially as a waterfall
+sequentially
+reeksnommer
+serial number
+reeksnommer
+series
+serif
+server &apos
+Bedienerkwota
+server SMTP&apos
+server incorrectly
+server maintenance
+server that can &apos
+bediener
+servers Maybe
+bedieners
+serves
+service providers
+service worker
+diens
+services
+serving
+session ID
+session Id
+session Statistics
+session cache
+session
+sessions
+set Priority
+set browsercachediskenable
+strokeStyle
+gestel
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+setTimeout
+setUserData
+setVelocity
+stelle
+setting
+settings &#124
+settings&apos
+opsteling
+opstellingopsies
+setup
+seven
+seventeen
+seventeenth
+seventh
+several ways
+verskeie
+shader Editor
+shader compile status
+shader compile
+shader
+shadows variable
+shadows
+shall control
+shall
+shape &quot
+shape
+share
+shared Workers
+gedeelde
+sharedLongDesc
+shares
+draai
+sheet
+sheets
+shell
+shield
+shiftKeylabel
+shiftclick
+shiny metal posteriors which
+shiny
+shopping
+short
+kortpad
+kortpaaie
+shorten this
+shorten
+shorter file
+korter
+binnekort
+shortname
+should keep
+should make
+behoort
+shouldn &apos
+shouldn
+show Cookies
+show resultShow
+show through
+wys
+showall &apos
+showall
+showing repairing
+showing
+gewys
+shownReplies
+shows
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+shutdown
+shutting down
+shutting
+verwant
+side
+kantbalk
+sidebarName
+kantbalke
+sign in
+sign
+signal
+signature algorithms
+handtekening
+signatureAlgorithm
+signatures
+saamsmelt
+signer &apos
+ondertekenaar
+signers found
+ondertekenaars
+significant
+signing certificate
+signing
+signup
+silence
+silently authenticates
+silently
+similar
+simple Measurements
+simple XLink
+eenvoudige
+simplified
+simply need
+simply
+simulation
+simulator installed
+simulator
+since
+single
+singlesignon
+site &apos
+site doesn &apos
+werf
+sitename &apos
+sitename
+sitenat
+werwe
+six
+sixteen &#124
+sixteen
+sixteenth
+sixth
+size
+sizes
+skip Integration
+skip this
+slaan
+skipped
+skips
+slash operators
+slash
+slashes ie
+vorentoeskuinsstrepe
+slice
+skuiwer
+gleuf
+slots
+slow Motion
+slow SQL
+slow down
+slow ×
+stadige
+slowing
+slowly
+klein
+smaller
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+smiley
+smooth scrolling
+gladde
+smtpexamplenet
+snapshot
+snapshots
+snews
+so it &apos
+so it can &apos
+so you &apos
+daarom
+soap
+sok
+software makers
+sagteware
+solid Border
+solid circle
+solid
+solution
+oplossings
+solve a
+solve
+some cool
+some printing
+some sample
+some unspecified
+ande
+somebody &apos
+somebody
+someone isn &apos
+someone
+something
+soms
+somewhere earlier
+somewhere
+soon
+sorry BrandShortName can &apos
+sorry we &apos
+sorry
+rangskik
+klanklêer
+sound
+sounds like
+klink
+source software
+source
+sources
+space Fantasy
+space between
+bespaar
+spasies
+spam
+span class &apos
+span
+spanThis
+spanbrandShortName
+spandisabled
+spanenabled
+spans
+spanspan
+speak now
+speak
+speaking
+spec in
+spesifikasie
+special incidental
+special kinds
+spesiale
+specific command
+specific
+specifically
+specification
+gespesifiseerde
+specifies
+specify preferred
+dui
+specifying a
+specifying acceptcharsetutf
+specifying
+speed
+speedOfSound
+spell checking
+spell
+spellchecker
+spelling
+spend
+spent
+spin button
+spin
+split
+geborg
+spool
+spioenware
+sqrt
+square root
+vierkantjie
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+stabiliteit
+stabiel
+stack trace
+stack
+stacks
+alleenstaande
+standard time
+standard toBlob
+standard
+standards mode
+standards
+star rating
+vlag
+gevlag
+start Debug
+start Simulator
+begin
+started finding
+started
+starting with &apos
+starting
+startlabel
+startmozillaorg
+starts
+aanvang
+toestand
+statement
+statements
+statistics about
+statistics
+stats
+status &apos
+status bar
+status
+stay
+steel
+step Over
+step
+stepped through
+stepped
+stepping
+steps out
+stappe
+still
+stolen
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+stop
+gestop
+stopping
+stops
+stoorkwotas
+storage
+storages
+store
+stored
+stores information
+winkels
+storing
+stream
+strength
+strict protection
+streng
+strike
+string literal
+string
+strings or
+stringe
+strokeStyle
+strong
+strongApps
+strongDevice
+strongThe Book of
+strongThe Book
+strongThe
+stronger Emphasis
+sterker
+strongexamplecom
+stronghttp
+strongly recommends
+stewig
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+structure
+structures
+studies
+Studiebevindings
+Studie
+style Editor
+style Inspector
+style endexpand
+style sheet
+oustyl
+styles
+stylvel
+stylesheets
+stylesrc
+sub
+subdirectory
+subdocument
+subdomain
+subdomains
+subfolder
+subvouers
+subgrid
+subgroups
+Onderwerpherinnerings
+onderwerp
+submission to
+submission
+submit Query
+submit bugs
+submit information that &apos
+dien
+submits
+Ingediende
+submitting your
+submitting
+subresource
+subscribe Calendars
+subscribe
+ingeteken
+subscribedImported
+subscribing
+subscript
+subscription
+subscriptions
+subsession data
+subsession
+substituting
+subdraad
+subthreads
+subtree
+succeed
+suksesvol
+successful
+successfully Transmitted
+suksesvol
+such
+skielik
+sufficient
+suggest
+suggested Contribution
+suggested Tags
+voorgestelde
+suggestion
+suggestions
+suggests
+suit
+geskikte
+suite
+suites are
+suites
+som
+opsomminglêer
+summary
+summoned
+sunday
+sundays
+sup
+superscript pair
+superscript
+superseded by
+superseded
+supervision
+voorsiende
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+support
+ondersteunde
+supporting
+supportmozillaorg
+supports
+seker
+surface area
+surface
+surprised face
+surprised
+surrogate
+surrounding environment
+surrounding
+survey is
+survey
+susceptible
+verdagte
+suspicious
+sutomatically
+svSE
+svg
+switch to
+Verwissel
+switched
+gewissel
+simbool
+symbols
+sync them
+gesinkroniseer
+syncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+synced
+sinchronisasie
+synchronize
+synchronous
+syncing
+synctitlepairlabel
+Sinsverligting
+sintaksis
+Stelselintegrasie
+system beep
+stelsel
+systemDate &apos
+systemDate
+systems this
+stelsels
+t believe
+t delete
+t
+Keepgeskei
+Oortjieindeks
+oortjieklank
+oortjievoorskoue
+tab txt
+oortjie
+oortjieDeel
+tabdelimited tab
+keepgeskeide
+table &apos
+Tabelbelyning
+Tabelinvoeg
+Tabelkies
+tabelrande
+tabeluitleg
+table rows
+tabel
+tablets
+oortjies
+tabtxt
+Merker
+gemerk
+tagname
+tags
+take up
+Neem
+taken
+takes
+taking too
+taking
+talk
+tampering
+tapping
+teiken
+targeted document
+targeted
+task
+taskThe
+taskbar
+tasks
+smake
+tbl
+technical Details
+tegniese
+tegniek
+techniques
+technology
+telefoon
+tell websites
+tell
+tells
+template
+templates
+temporarily
+temporary outage
+tydelike
+ten
+tename &apos
+tentatively
+tenth
+tenured objects
+tenured
+ter Lock API
+term &quot
+term
+terminate a
+terminate
+terminated by xslmessage
+beëindig
+termination
+bepalings
+toets
+testics
+testimonials
+Teksarea
+text Size
+Teksomvou
+teksgerigtheid
+text area
+text container
+text field
+text
+textContent attribute
+textContent
+textonly
+texture source
+texture
+th
+than minimum
+than
+Dankie
+thanks for
+thanks
+s
+that can &apos
+that is no
+t encrypted
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+waarheen
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+the Grenadines
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+the emtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+the visualization
+the webapp manifest isn &apos
+the webapp
+the wildcard
+the windowconsole
+internettoegang
+theft
+verstekwaardes
+hul
+hom
+tema
+themed
+themes
+then touching
+then
+s
+daar
+therefore
+these organizations
+these
+they &apos
+they expire
+they require query
+they
+things you
+things
+think I &apos
+think
+thinkers
+thinking
+dink
+third Party
+third parties
+derde
+thirdparty cookies
+thirdparty software
+thirdparty
+thirteen &#124
+thirteen
+thirteenth
+thirtieth
+thirty &#124
+thirty first
+thirty one
+thirty
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+Vandeesmaand
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+dié
+thisIf
+thisa
+those
+though
+dink
+derduisende
+thread &quot
+thread Hangs
+thread killed
+thread watched
+thread
+threads
+three
+threw
+through inaction
+through
+thunderbird
+thursday &#124
+thursday
+thursdays
+ticket was
+ticket
+assosieer
+til &#124
+til
+tile replacing
+skermskoot
+teëltjies
+till
+Tydstempels
+time These
+Tydsone
+time communication
+time secondTime
+time sender
+time }
+tyd
+timeOccurs
+timed Out
+timed
+timedout
+timeline
+timelines
+timeout
+timer Name
+timer started
+timer
+timers in
+timers
+maal
+timesaving
+timestamp
+timestamps
+timezone &quot
+timezone
+timezonepersonalg
+timezoner message doesn &apos
+title
+aan
+tot
+vertaal na
+vandag
+nutsbalk
+Nutsgoed
+totale
+blaaigedrag
+gemonitor
+spoorsnyers
+monitering
+handelsmerke
+verkeer
+FTPtransaksie
+oordrag
+vertaal
+onveilig
+boom
+rat
+navraag
+opspoor
+true
+vertroude
+probeer
+twee
+txt
+type
+eposbediener
+ul
+ulliKan
+onaanvaarbare
+ongemagtigde
+onbeskikbaar
+Ongebalanseerde
+ontmerk
+ongemerk
+ongeslote
+niesaamgepakte
+besluitelose
+onverklaar
+ongedefinieerde
+ontskrap
+ingevolge
+onderliggende
+onvermelde ontvangers
+ontdoenbaar
+onafdwingbaar
+onverwagte
+onverwags
+deïnstallasie
+geoninstalleer
+deïnstalleerder
+onbekend
+tensy
+onbeperk
+dissosieer
+onbenoemd
+ongelese
+nieherkenbare
+onherkende
+onherwinbare
+onveilige
+ongestoorde
+ongestuurde
+ongespesifiseerde
+afteken
+nieondersteunde
+totdat
+titelloos
+onvertrou
+ongebruikte
+ongeverifieerde
+ongewenste
+onwillig
+ontvou
+Boontoe
+bywerkkanaal
+opdateer
+opgedateer
+bywerkings
+opgradeer
+bygewerkte
+diagnoseer
+teruggestuur
+gebruikstatistiek
+gebruik
+voorheen
+Gebruikeragent
+Gebruikergedefinieerd
+Gebruikersidentifikasieversoek
+Gebruikerkennisgewing
+gebruiker
+gebruikergasheer
+userjs
+Gebruikernaam
+gebruikerverwante
+gebruikers
+gebruike
+utomatically
+v
+vCard
+geldige
+valideer
+gevalideer
+liefs
+waarde
+waardes
+Wisselende
+VerkoperID
+vendorShortName
+Verifikasie
+geverifieer
+weergawe
+weergawes
+via
+bekyk
+inbreuk
+oortree
+virtuele
+virus
+virusse
+sigbare
+Besoektelling
+visit
+besoek
+besoeke
+teeltjie
+nietig
+vatbaar
+Lus
+waarsku
+waarskuwing
+waarborge
+waarborg
+dopgehou
+wyse
+maniere
+re very sorry
+We
+swakheid
+Webkonsole
+Webontwikkelaar
+webScriptAccess
+webwerf
+aanmeldWil
+Welcome Humans
+welkom
+HTMLposformatering
+welvorm
+leesstof
+wanner
+hetsy
+waaroor
+terwyl
+wit
+wie se
+hoekom
+sal
+venstertitel
+konsole
+Windowskortpad
+vensters
+with
+binne
+sonder
+Dan
+woord
+woorde
+gewerk
+werkende
+werk
+wêreld
+wouldn
+omvou
+omvouer
+skryfbeskermd
+só
+wwwvoorbeeldcom
+wwwmozillaorg
+wwwmyispcom
+wwwopenhorg
+xAssosieer
+xStel
+xmlns
+xslmessage
+xwestern
+xyxy
+y
+gister
+re running
+you
+byvoegings
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+jou
+uself
+yousenditcom
+nul
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+zoom
+zooming

@@ -1,0 +1,8806 @@
+ rights …
+/Galapagos
+A ServiceWorker
+A
+AB _
+AB
+ACL
+ADB
+ADDONS
+AEC Logging
+एईसी
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ASN
+ATT Mail
+ATT
+AUS
+AVA
+Aa
+आ
+Aaiun
+Ababa
+Abandon unsaved changes
+Abbreviate
+Abbreviation
+अबखाजियन
+Abort
+Aborted
+About Your
+परिचय
+Above
+Accelerated
+Accent Lowercase
+Accent Uppercase
+Accent
+Accept
+Acceptance
+Accepted
+Access
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+देंतरीका
+AccessControlAllowOrigin
+पहुँच
+उपागम्यता
+Account &quot
+Account Settings &#124
+खाता
+Accountquot
+Accounts
+Accountspecific
+Account…
+Acronym
+क्रिया
+Actions
+सक्रिय करें
+सक्रिय
+Activations Directory
+रियकरण
+सक्रिय
+सक्रिय करें
+Actively block
+गतिविधि
+Actual Size
+तविक
+Adak
+Adapter
+एडाप
+Adb
+जोड़ें
+जोड़ें 
+‌जोड़ें
+जोड़ा गया
+Addis Ababa
+Additional Tools
+Additional
+Addon
+Addons Installed
+ सहयुक्तियाँ
+Addons
+ऐडऑन्स
+सहयुक्ति
+सहयुक्तियाँ
+Addr
+Address Book
+Address Books
+पता‌
+AddressBook
+Addressbook
+पता
+Addressing
+Adds
+Add…
+Adjust
+Administer
+Administrative Assistant
+Administrative limit
+Administrative
+मट
+Adobe Flash
+फ़
+Advance
+Advanced Property Editor
+Advanced info
+उन्नत
+विस्तृत
+विस्तृत
+अफार
+Affects multiple
+Affects
+Affiliation Changed
+Affiliation
+अफगानिस्तान
+Africa/Abidjan
+Africa/Accra
+Africa/Algiers
+Africa/Asmara
+Africa/Bamako
+Africa/Bangui
+Africa/Banjul
+Africa/Bissau
+Africa/Blantyre
+Africa/Brazzaville
+Africa/Bujumbura
+Africa/Cairo
+Africa/Casablanca
+Africa/Ceuta
+Africa/Conakry
+Africa/Dakar
+Africa/Djibouti
+Africa/Douala
+Africa/Freetown
+Africa/Gaborone
+Africa/Harare
+Africa/Johannesburg
+Africa/Juba
+Africa/Kampala
+Africa/Khartoum
+Africa/Kigali
+Africa/Kinshasa
+Africa/Lagos
+Africa/Libreville
+Africa/Lome
+Africa/Luanda
+Africa/Lubumbashi
+Africa/Lusaka
+Africa/Malabo
+Africa/Maputo
+Africa/Maseru
+Africa/Mbabane
+Africa/Mogadishu
+Africa/Monrovia
+Africa/Nairobi
+Africa/Ndjamena
+Africa/Niamey
+Africa/Nouakchott
+Africa/Ouagadougou
+Africa/PortoNovo
+Africa/Tripoli
+Africa/Tunis
+Africa/Windhoek
+रीका
+African Republic
+रीकी
+अफ्रीकांस
+After
+Again &quot
+Again
+आयु
+रतिनिधि
+योग
+Ago
+Agree
+मसौदा
+Aires
+अकान
+एक्रोतिरी
+Alarm
+अल्बानिया
+अल्बानियाई
+Alert dialog
+Alert record
+चेतावनी
+अल्जीरिया
+Algorithm Parameters
+Algorithm
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+Alias
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Align
+Alignment
+All
+सभी
+Allman
+आवंटन
+Allocation Trigger
+Allocation
+आबंटन
+Allow First
+Allow autoplay
+ स्वीकारें
+Allow
+अनुमति दें
+अनुमति‌ दें
+स्वीकार करें
+स्वीकारें
+Allowed
+Allowing
+Allows
+स्वीकारें
+Almost done
+Almost
+Alpha
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Although
+हमेशा
+America/Adak
+America/Anchorage
+America/Anguilla
+America/Antigua
+America/Araguaina
+America/Argentina/Catamarca
+America/Argentina/Cordoba
+America/Argentina/Jujuy
+America/Argentina/Mendoza
+America/Argentina/Salta
+America/Argentina/Tucuman
+America/Argentina/Ushuaia
+America/Aruba
+America/Asuncion
+America/Atikokan
+America/Bahia
+America/Barbados
+America/Belem
+America/Belize
+America/BlancSablon
+America/Bogota
+America/Boise
+America/Cancun
+America/Caracas
+America/Cayenne
+America/Cayman
+America/Chicago
+America/Chihuahua
+America/Creston
+America/Cuiaba
+America/Curacao
+America/Danmarkshavn
+America/Dawson
+America/Denver
+America/Detroit
+America/Dominica
+America/Edmonton
+America/Eirunepe
+America/Fortaleza
+America/Godthab
+America/Grenada
+America/Guadeloupe
+America/Guatemala
+America/Guayaquil
+America/Guyana
+America/Halifax
+America/Havana
+America/Hermosillo
+America/Indiana/Indianapolis
+America/Indiana/Knox
+America/Indiana/Marengo
+America/Indiana/Petersburg
+America/Indiana/Vevay
+America/Indiana/Vincennes
+America/Indiana/Winamac
+America/Inuvik
+America/Iqaluit
+America/Jamaica
+America/Juneau
+America/Kentucky/Louisville
+America/Kentucky/Monticello
+America/Kralendijk
+America/Lima
+America/Maceio
+America/Managua
+America/Manaus
+America/Marigot
+America/Martinique
+America/Matamoros
+America/Mazatlan
+America/Menominee
+America/Merida
+America/Metlakatla
+America/Miquelon
+America/Moncton
+America/Monterrey
+America/Montevideo
+America/Montreal
+America/Montserrat
+America/Nassau
+America/Nipigon
+America/Nome
+America/Noronha
+America/Ojinaga
+America/Panama
+America/Pangnirtung
+America/Paramaribo
+America/Phoenix
+America/PortauPrince
+America/Recife
+America/Regina
+America/Resolute
+America/Santarem
+America/Santiago
+America/Scoresbysund
+America/Shiprock
+America/Sitka
+America/Tegucigalpa
+America/Thule
+America/Tijuana
+America/Toronto
+America/Tortola
+America/Vancouver
+America/Whitehorse
+America/Winnipeg
+America/Yakutat
+America/Yellowknife
+America
+American Samoa
+अमेरिकन
+अम्हारिक
+An
+Analysis …
+Analysis
+Analyze
+Anchor
+Anchorage
+लंगर
+हैंbr और
+अंडोरा
+Android tablets
+Android&apos
+Android
+Android™
+Angeles
+अंगोला
+एंग्वीला
+Animate app
+Animate
+चलछवि
+चलछवि
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+Annotation
+Announces
+Annoyances
+Another
+Answer
+Answers
+Antarctic Lands
+अंटार
+Antarctica/Casey
+Antarctica/Davis
+Antarctica/DumontDUrville
+Antarctica/Macquarie
+Antarctica/Mawson
+Antarctica/McMurdo
+Antarctica/Palmer
+Antarctica/Rothera
+Antarctica/Syowa
+Antarctica/Troll
+Antarctica/Vostok
+एंटार्किटिका
+AntiVirus
+Antigua and Barbuda
+एंटीगुआ
+Antilles
+Antivirus
+Any
+AnyText
+Anywhere
+App can &apos
+एप्प
+अपाचे
+AppCacheUtils
+AppMenu
+AppName Uninstall
+AppName
+Appcache validated
+Appcache
+प्रकटन
+Appendices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+राउज़रएलिमेंट
+अनुप्रयोग
+Apply
+Applying update
+Applying
+Appointments
+ApprovedBy
+एप्प्स
+अप्रै
+अप्रैल
+Arab
+अरब
+Arabic MacArabic
+Arabic Windows
+अरबी
+अरेगोनिस
+Archive
+Archived
+Archives
+Archiving
+Arctic/Longyearbyen
+Are
+Area
+अर्जेन्टिना
+Arial
+आर्मिनेया
+आर्मिनियन
+आर्मेनियाई
+Arrow
+आलेख
+Artist
+अरूबा
+As Laid Out
+As Quotation
+लैस
+Ascending
+Ascension and
+उदगम
+ऐशमोर
+Asia/Aden
+Asia/Almaty
+Asia/Amman
+Asia/Anadyr
+Asia/Aqtau
+Asia/Aqtobe
+Asia/Ashgabat
+Asia/Baghdad
+Asia/Bahrain
+Asia/Baku
+Asia/Bangkok
+Asia/Barnaul
+Asia/Beirut
+Asia/Bishkek
+Asia/Brunei
+Asia/Chita
+Asia/Choibalsan
+Asia/Chongqing
+Asia/Colombo
+Asia/Damascus
+Asia/Dhaka
+Asia/Dili
+Asia/Dubai
+Asia/Dushanbe
+Asia/Gaza
+Asia/Harbin
+Asia/Hebron
+Asia/Hovd
+Asia/Irkutsk
+Asia/Istanbul
+Asia/Jakarta
+Asia/Jayapura
+Asia/Jerusalem
+Asia/Kabul
+Asia/Kamchatka
+Asia/Karachi
+Asia/Kashgar
+Asia/Kathmandu
+Asia/Khandyga
+Asia/Kolkata
+Asia/Krasnoyarsk
+Asia/Kuching
+Asia/Kuwait
+Asia/Macau
+Asia/Magadan
+Asia/Makassar
+Asia/Manila
+Asia/Muscat
+Asia/Nicosia
+Asia/Novokuznetsk
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Oral
+Asia/Pontianak
+Asia/Pyongyang
+Asia/Qatar
+Asia/Qyzylorda
+Asia/Rangoon
+Asia/Riyadh
+Asia/Sakhalin
+Asia/Samarkand
+Asia/Seoul
+Asia/Shanghai
+Asia/Singapore
+Asia/Srednekolymsk
+Asia/Taipei
+Asia/Tashkent
+Asia/Tbilisi
+Asia/Tehran
+Asia/Thimphu
+Asia/Tokyo
+Asia/Ulaanbaatar
+Asia/Urumqi
+Asia/UstNera
+Asia/Vientiane
+Asia/Vladivostok
+Asia/Yakutsk
+Asia/Yekaterinburg
+Asia/Yerevan
+Asia
+एशियाई
+पूछें
+Asks how
+Asks
+असामी
+Assembling mail
+Assembling messageDone
+Assembling
+Assistant
+Associated
+Assurance
+एस्चुरियन
+Async
+Asynchronous Pan
+Asynchronous
+Atlantic/Azores
+Atlantic/Bermuda
+Atlantic/Canary
+Atlantic/Faroe
+Atlantic/Madeira
+Atlantic/Reykjavik
+Atlantic/Stanley
+Atlantic
+एटोल
+अणु
+Attach
+Attached
+Attachment
+AttachmentRemove
+संलग्नक
+Attack Site
+Attack
+Attempt to
+Attempt
+प्रयास
+Attendance
+Attendee
+Attendees
+Attention
+रिब
+गुण
+Attribution
+Auckland
+ऑडियो
+ऑडि‌यो
+AudioBufferSourceNode
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+ऑडियोनोड
+AudioParam does
+AudioParam
+AudioParams
+अग
+अगस्त
+Aurora
+Australia/Adelaide
+Australia/Brisbane
+Australia/Currie
+Australia/Darwin
+Australia/Eucla
+Australia/Hobart
+Australia/Lindeman
+Australia/Melbourne
+Australia/Perth
+Australia/Sydney
+आस्ट्रेलिया
+आस्ट्रिया
+Authenticated
+Authenticating
+Authentication method &apos
+Authentication
+लेखकः
+Authored
+प्राधिकार
+Authority unnamed
+ऑथोरिटी
+Authorize
+Authors
+Auto Increment
+Auto Update
+स्वत
+स्वचालित
+AutoA
+AutoConfig Alert
+AutoConfig
+स्वतः जांचें
+AutoJoined Channels
+AutoJoined
+स्वतःपूर्ण
+स्वतः पता करें
+स्वतः जांचें
+स्वतः हाशिया
+स्वचलन
+वतःफ
+वतःसहेजे
+Available
+अवारिक
+अवेस्टान
+औसत
+Aware
+एयमारा
+अजरबैजान
+अजरबैजानी
+B
+BG
+BLOCKED
+Back
+पीछे
+पृष्ठभूमि
+पृष्ठभू‌मि
+ठभूमिbmp
+Backspace
+बैकअप…
+Bad
+बहामास
+बहरीन
+बेकर
+बाल्टिक
+बांबरा
+बंग्लादेश
+बैंकिंग
+बारबाडोस
+बुडा
+थेलेमी
+बेस
+आधाररेखा
+बाश्किर
+Basic Latinonly
+बास्क
+सास
+बैटरी
+Before
+बेलारूस
+बेलारूस
+बेल्जियम
+बेलीज
+बंगाली
+बेनिन
+बरमुडा
+Beta
+भूटान
+Big
+BigHKSCS
+बिहारी
+Bing
+बिस्माला
+रोकें
+रोकें‌
+रोका गया
+रोका हुआ
+अवरोधक
+Bogus
+माल
+बोलिविया
+बोनाइरेसिंट
+Book
+पुस्तचिह्न
+हटाएँपुस
+ पुस्तचिह्न
+Bookmarks
+बुकमार्क
+पुस्तचिह्न
+बुकमार्क्स
+Boolean
+बुलियन
+किना‌रा
+निया
+बोस्नियाई
+बोत्सवाना
+तल
+बॉभेट
+शाखा
+BrandFullName
+BrandFullNameDA
+BrandShortName
+ब्राजील
+जाविले
+ब्रेटन
+रिटिश
+ब्राउज़र
+Browse…
+ब्रॉउज करें
+ब्राउज करें…
+ब्राउज़ करें
+ब्राउज़ करें r…
+ब्राउज़ करें…
+ब्राउज़…
+ब्राउज़िंग
+ब्रुनेई
+बबलिंग
+बुल्गेरिया
+बुल्गारियाई
+बुले‌ट
+Bundled
+किना
+बर्माँं
+बर्मीज
+बुरूंडी
+बटन
+By
+बाइट्स
+C
+CA certificate
+CA
+CACHE
+CAs
+CC
+CD
+CDATA
+CDSA
+CKL
+CKR
+CLICK
+CN
+COLNAME
+CONTROLS
+CP
+CRL
+CRLs
+सीएसपी
+CSS
+CYPHER
+काबो
+कैश
+कैशे
+कैकस
+California
+कॉल करें
+कालबैक
+कंबोडिया
+कैमरे
+कैमरून
+कनाडा
+कैनाडियन
+कैनरी
+ रद्द करें C
+Cancel
+रद्द करें
+खारिज करे
+रद्द
+रद्द‌
+मीदवार
+कैनवास
+CanvasGradient
+CanvasPattern
+कैप्चर
+हँसपद
+टियर
+कास
+कैटालॉन
+Catalog
+नज
+कारण
+कैमन
+मध्य
+केंद्र
+क्रेंद्र
+रीय
+प्रमाणपत्र
+प्रमाणपत्र
+प्रमाणित
+रमाणण
+चाड
+चामोरो
+Change
+बदलें
+परिवर्तन करें
+Changing
+Charis
+चेचेन
+जांचें
+चिचेवा
+चिली
+चीन
+चीनी
+Choose
+चयन करें…
+चुनें…
+‌चुनें…
+रिसमस
+Chrome
+क्रोमकास्ट
+Chromium
+क्रोमियम
+चुवास
+सिटी
+Clear
+साफ  करें 
+साफ करें
+साफ करें|
+साफ़ करें
+लीयरटाइप
+ साफ किया जा रहा है
+Click Abort
+क्लिक
+लाएंट
+क्लिपबोर्ड
+लिपर
+ बंद करें
+Close
+बंद करें
+बन्द करें
+कोकोस
+Code
+कोड
+समेटें
+एडओन
+कोलंबिया
+रंग
+रंगीन
+रंग
+रंग
+स्तम्भः
+कॉम
+वाणिज
+कोमोरोस
+Compact
+तुलना
+पूर्ण
+Completed
+Components
+बुलाया
+संमिश
+घटक
+रोमाइज
+अभिकलन
+निष्कर्ष
+विन्यस्त करें
+पुष्टि करें
+संपुष्ट करें
+कांगोकिंशासा
+कांगोब
+Connect
+जुड़ें
+Connected
+कनेक्ट कर रहा है
+ कनेक्ट कर रहा है…
+कनेक्ट कर रहा है…
+कनेक्शन
+Consecutive
+कँसोल
+समाहित कर्ता
+पात्र
+सामग्री
+विषयसूची
+विषयवस्तु
+अंतर्वस्तु
+षानीति
+षानीतिरिपोर
+ContentType
+अंतर्वस्तु
+Continue
+जारी रखें
+विरोधी
+योगदान करें
+योगदानकर्ता
+कुक
+कुकीज
+कूकीज
+कुकीज़
+कूकीज़
+नक़ल
+नकल लें
+नक़ल लें
+नक़ल करें
+कोरल
+कोर्निश
+Corrupted
+कोरसिकान
+लागत
+कोस
+गिनती
+गिनती‌
+टा
+Crash
+टैबों
+बनाएँ
+निर्माता
+श्रेय
+क्री
+गंभीर
+क्रोशिया
+क्रोशियाई
+रॉसउत
+टो
+राफिक
+Ctrl
+क्यूबा
+CuforceGC
+कुराकाओ
+संकेत‌‌क
+Custom
+मनपसंद
+मनपसंद बनाएँ
+Customization
+ पसंदीदा करें
+मनपसंद बनाएँ…
+मनपसंद
+काटें
+चक्र
+साइप्रस
+सिरिलिक
+चेक
+कोट
+D
+DB
+DC
+DECDSA
+DER
+कोडेड
+DEVICE
+DISPLAYNAME
+डीएलएल
+DN
+डीएनएस अवलोकन
+DNS
+DOCTYPE
+डीओएम
+DOMException
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+DRM
+DSA
+झूलता
+डैनिश
+गहरा
+डाटा
+आँकड़ा
+CustomEvent
+डेटाURL
+तिथि/समय
+दिनांक/समय
+Day
+DayCrash Reports
+DayCrash
+Days
+Debug Mode
+दोषसुधार
+DebugALIGNCENTERerver
+Debugger
+DebuggerServer
+Debugging
+दिसं
+दिसबंर
+Decide
+Declaration
+Decline
+Declined
+डीकोडर
+Decoding error
+विगोपन
+पाठ आकार घटाएँ
+Decrypted
+Decryption
+Deer
+ तयशुदा
+तयशुदा
+डिफ़ॉल्ट
+Defaults
+Defer Account
+Defer
+Define
+Defined
+Definition
+Definitions
+Del
+देरीः
+Delete Message
+ मिटाएँ
+Delete
+मिटाएँ
+Deleted
+मिटाएँ…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Deletion
+Delimited
+Delivery Format
+Delivery Status Notification
+Delivery
+डेममार्क
+Denver
+मना करें
+अस्वीकार करें
+Department
+Descending
+Describe Problem
+Describe
+Description
+विवरण
+Deserialize
+Design Mode
+Design View
+Design
+Desktop Backgroundbmp
+Desktop Open &quot
+Desktop
+डेस्कटाप
+डेस्कटॉप
+Destination Folder
+Destination
+Destroy
+Detach
+Detach…
+Detail
+Details of
+विवरण
+Details…
+विवरण…
+Detect indentation
+Detect
+Determining which
+Determining
+DevTools
+देवनागरी
+Developed
+Developer Edition
+Developer Tools
+डेवलेपर
+डेवलेपर
+Development
+Device &quot
+यंत्र
+युक्ति
+DeviceShare
+साधन
+xयुक
+डेकेलिया
+Diagnostics
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+शब्दकोश
+Dictionary
+Did
+डिएगो
+Different
+DiffieHellman key
+DiffieHellman
+Digest function
+Digest was
+Digest
+Digg Reader
+Digg
+Digital
+आयाम
+आया‌म
+Direct
+DirectD
+DirectWrite
+दिशा
+Directive
+Directories
+Directory &apos
+Directory Servers
+निदेशिका
+Disability access
+Disability
+निष्क्रिय करें
+ निष्क्रिय
+अक्षम
+अक्षम करें
+निष्क्रिय
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+यागें
+Disconnect from
+Disconnect
+डिस्कनेक्ट करें
+Disconnectellipsis
+डिस्कनेक्ट हो रहा हैं
+Disconnectme strict
+Disconnectme
+डिस्कनेक्ट करें
+Discontinue Link
+Discontinue
+साईटो
+Discussions
+Disk
+ख़ारिज
+Display a
+दिखाएँ
+Displays the
+Displays
+Distinguished
+Distribution Points
+वितरण
+Distrust
+दिवेही
+ड्जवोटी
+Do
+Dock
+Docs
+Document Outline
+Document
+जित
+Doe
+Doing
+Domain GUID
+डोमेन
+Domains
+Domestic
+Dominator
+नियामक
+Domingo
+डोमिनिका
+डोमिनिकन
+Don &apos
+Don
+ संपन्न
+Done
+संपन्न
+Double click
+Double
+Doublecheck
+Doubleclick
+नीचे
+Download Link
+डाउनलोड
+DownloadRestart
+डाउनलोड कर रहा है
+डाउनलोड किया हुआ
+डाउनलोड कर रहा है
+ डाउनलोड कर रहा है…
+डाउनलोड कर रहा है…
+ डाउनलोड
+Downloads
+डाउनलोड
+डाउनलोड करें
+डाउनलोड‌
+Draft Message
+Draft
+Drafts
+Drag
+draw draws
+Draw repainted
+Draw
+Driver Verification
+Driver
+Drivers
+Drives
+Drop a
+गिराएँ
+Dropping a
+Dropping
+DuckDuckGo
+Due
+Dump
+Duplicate name
+Duplicate
+Duraterver
+अवधि
+अवधिः
+अंतराल
+डच
+भूटानी
+ECDSA Signature
+ECDSA
+EDI Party Name
+EDI Party
+EDI
+EHLO
+EMail Certificates
+EMail
+त्रुटि
+त्रुटि
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+निष्कर्षण_विफल
+Each
+Eager
+Earlier
+East Asian
+East European
+वी
+Eastern
+इक्वेडर
+एज
+Edit Conditional
+ संपादन
+Edit
+संपादन
+संपादन E 
+Editing
+Edition
+संपादक
+Editors
+Edit…
+मिश्र
+Either
+El Aaiun
+El Salvador
+El
+Elapsed
+Element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Elements
+Email Address
+ईमेल
+Embarrassed
+अंतःस्था‌पित
+Embedded
+अमीरात
+Emphasis
+Emptied Trash
+Emptied
+रिक्त
+Emulate
+ सक्रिय करें
+सक्षम करें
+सक्रिय करें
+सक्षम
+सक्रिय
+Enables
+इनसाइफरमेंट
+कूटलेखित्र
+Encoding While
+एनको
+Encodings
+Encrypt
+Encrypted password&apos
+Encrypted
+Encrypting File
+Encrypting
+Encryption
+End
+अंतः
+EndUser Rights
+EndUser
+समाप्त
+Endian
+Endpoint
+बाध
+Engine
+Engineering
+Engines
+English US
+English USASCII
+English language
+अंगरेज़ी
+Enhanced
+Enlarge
+Enter &apos
+Enter Full
+Enter that
+Enter
+Entered
+Entering
+प्रविष्टियाँ
+Entry
+Enumerable Properties
+Enumerable
+वातावरण
+Epiphany
+विषुवतरेखीय
+Equatorial
+इरीट्रिया
+त्रुटि
+Errors
+त्रुटि
+त्रुटियां
+Esc
+एस्पेरांटो
+इस्टोनिया
+इस्टोनियाई
+इथियोपिया
+इथियोपिक
+Eudora Nicknames
+Eudora Settings
+Eudora mail
+Eudora
+Europa Island
+यूरोपा
+Europe/Amsterdam
+Europe/Andorra
+Europe/Astrakhan
+Europe/Athens
+Europe/Belgrade
+Europe/Berlin
+Europe/Bratislava
+Europe/Brussels
+Europe/Bucharest
+Europe/Budapest
+Europe/Busingen
+Europe/Chisinau
+Europe/Copenhagen
+Europe/Dublin
+Europe/Gibraltar
+Europe/Guernsey
+Europe/Helsinki
+Europe/Istanbul
+Europe/Jersey
+Europe/Kaliningrad
+Europe/Kiev
+Europe/Lisbon
+Europe/Ljubljana
+Europe/London
+Europe/Luxembourg
+Europe/Madrid
+Europe/Malta
+Europe/Mariehamn
+Europe/Minsk
+Europe/Monaco
+Europe/Moscow
+Europe/Nicosia
+Europe/Oslo
+Europe/Paris
+Europe/Podgorica
+Europe/Prague
+Europe/Riga
+Europe/Rome
+Europe/Samara
+Europe/Sarajevo
+Europe/Simferopol
+Europe/Skopje
+Europe/Sofia
+Europe/Stockholm
+Europe/Tallinn
+Europe/Tirane
+Europe/Ulyanovsk
+Europe/Uzhgorod
+Europe/Vaduz
+Europe/Vatican
+Europe/Vienna
+Europe/Vilnius
+Europe/Volgograd
+Europe/Warsaw
+Europe/Zagreb
+Europe/Zaporozhye
+Europe/Zurich
+Europe
+यूरोपियन
+Eustatius and
+Eustatius
+इवल
+मूल्यांकित करें
+Evaluated JavaScript
+Evaluated
+Evaluating
+Evangelism
+Even
+घटना
+घटना
+Event…
+Every Time
+Every
+सबकुछ
+कासन
+इवे
+Example
+Excellent
+Except
+Exception …
+Exception
+अपवाद
+अपवाद
+अपवाद…
+Exchange
+ExecShell &quot
+ExecShell
+Executable
+Execute Menu
+चलाएँ
+Executing s
+Executing
+Execution stopped
+Execution
+Executive
+Existing
+Exists
+ बाहर
+बाहर
+बाहर निकलें
+बहार
+Exiting
+Expand/Collapse
+विस्तार करें
+Expanded
+Expected
+प्रयोग
+Expired
+Expires On
+Expires Seconds
+मियाद समाप्ति
+समाप्ति
+लोरर
+Exponent
+Export
+निर्यात…
+Exposing chrome
+निकालना
+Express
+Expression
+Expressions
+Expunge &quot
+Expunge
+Extended Telemetry
+Extended
+Extending
+Extension
+विस्तार
+विस्तार
+External
+Extra Components
+Extra
+Extract
+Extracting s
+Extracting
+Extracting…
+Eyedropper
+F GB
+F turns
+F/Escape
+F
+FAILED
+FALLBACK section
+FALLBACK
+FAQ
+सामान्य प्रश्न
+FAQs feedback
+आम सवाल
+FCC
+एफएचआर डेटा
+एफएचआर
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTP Proxy
+FTP
+FUNCTION
+FW Version
+FW
+FYR
+Facebook Chat
+Facebook
+Faeroese
+विफल
+विफल‌
+Failure
+Failures
+Falkland Islands Islas Malvinas
+Falkland Islands
+फॉकलैंड
+Fallback Character
+Fallback
+Falling back
+initial
+False
+परिवार
+फैंटेसी
+Faroe Islands
+फेराओ
+फेरोसे
+फारसी
+फासो
+Fast
+Fatal
+Favorite Folder
+Favorite Folders
+Favorite
+पसंदीदा
+Fax Number
+Fax
+Feature
+Features
+फर
+फरवरी
+Federated States of
+Federated States
+Federated
+Federation
+Feed Location
+Feed
+Feedback Agent
+Feedback …
+प्रतिक्रिया
+Feedly
+फ़ीड‌
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+Fetching…
+Fewer
+Field
+Fields
+Fifth
+फिजी
+फिजियन
+File System
+ फ़ाइल
+फाइल
+फ़ाइल
+फ़ाइल 
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Filename
+Files
+Files…
+File…
+Filing Cabinet
+भरें
+Filter Box
+Filter Execution
+छानें
+फिल्टर  करें 
+फ़िल्टर
+छनन
+Filters
+Finalizing
+Find
+ढूंढें
+ढूँढ़ें
+ढ़ूँढ़ें
+ढ़ूँढ़ें 
+Finder
+Findings
+ढूँढ़ें…
+फिंगरप
+फिंगरप्रिंट
+Finish Customizing
+Finish
+समाप्त
+समाप्त
+फिनलैंड
+फिनिश
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+First
+फिट करें
+Five
+Fix Table
+Fix
+Fixed
+Flag
+Flagged
+Flame Chart
+लैम
+Flash embed
+फ्लैश
+चपटा
+Flexible Space
+Flexible
+Focus
+फ़ोल्डर‌
+Folders
+Folder…
+Follow
+Followers
+Following
+Followup
+FollowupTo
+Fond
+Font
+फ़ॉन्ट
+Footer
+Footers
+FootinMouth
+For
+Force
+Forever
+Forge
+Forgery
+भूलें
+Form History
+रपत
+प्रारूप
+Formatting
+Forms
+Fort
+फोरतेज
+Forum
+Forums
+Forward
+आगे
+अग्रेषित करें
+अग्रेषित करें 
+Forwarded
+Forwarding
+Found
+फाउंडेशन
+Four Hours
+चार
+Fourth
+शु
+Frakkin &apos
+Frakkin
+ढांचा
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+Frames
+फ्रांस
+Free
+French Southern
+फ्रांसीसी
+Frequency
+बारंबार
+शुक्र
+शुक्रवार
+फ्रिशियन
+फ्रायुलियाई
+From History
+From List
+From
+Front facing
+लाएँ
+Frown
+फुलाह
+Full
+Fullscreen
+Fun To
+Fun
+फंक्शन
+फुटुना
+Future
+GB
+जीबी
+GBK
+GC Event
+GC Slice
+GC
+GCLI is
+GCLI
+GDI Library
+GDI
+GData
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+गैबान
+गेलिक
+Gaia
+Galeon
+गेलिशियन
+Gallegos
+Gambia The
+गाम
+गैमपैड
+गेमिंग कंसोल
+Gaming
+गांडा
+Gap from edge of paper to Margin
+Gap from
+हाशिये
+Garbage Collector Roots
+Garbage
+सिया
+Gated Crypto
+गेटेड
+Gaza Strip
+Gaza
+गेको
+Geckoreg
+Geckotrade
+General Notification
+सामान्य
+सामान्य‌‌‌
+Generate a
+Generate
+Generated
+Generating A Private
+Generating A
+Generating aggregate
+Generating
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+ज्यार्जिया
+ज्यारिजन
+ज्यार्जियन
+जर्मन
+जर्मनी
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+घाना
+जिब्राल्टर
+Gives
+Glace
+Global Revived
+वैश्विक
+Glorioso Islands
+लोरीओसो
+Glossary
+Gmail
+Go back
+Go forward
+Go
+Good
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+Grab
+Grade
+Gradient is
+Gradient
+Grand
+Grande
+Grant
+Graph Reduction
+Graph
+चित्रादि
+Gravatar
+GrayScale
+धूसर
+यूनान
+Greek Windows
+ग्रीक
+यूनानी
+ग्रीनलैंड
+ग्रीनलैंडिक
+ग्रेनेडा
+रेनाडाइन
+Grid
+Group List
+Group
+Grouped By
+Grouped
+Grouping
+Groups
+Grow
+गुआडेलोप
+गुआम
+गुआरानी
+Guard
+गुआटेमाला
+ग्यूर्नसे
+अनुमान
+Guest browsing
+Guest
+गायना
+गायना
+गायनाबिसाउ
+गुजराती
+Gurmukhi MacGurmukhi
+गुरूमुखी
+गुयाना
+H Line
+h
+HAR
+HError
+HLine
+HPKP
+HREF
+HSLA
+HSTS
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HW Version
+HW
+HZ
+HZGB
+Hack the
+हैक
+हैती
+हैतियन
+Halifax
+हैंडलर
+Handling
+Handshake record
+Handshake
+Hang Report
+लटका
+Happy
+Hard
+Hardware Driver Verification
+Hardware Driver
+हार्डवेयर
+Has
+हौसा
+Have an
+Have
+हवाइन
+Header
+शीर्षिका
+Heading
+शीर्षक
+Health Report
+Health
+Heard Island
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+हिब्रू
+Height
+हेलेना
+Hello World
+Hello
+Help Start
+मदद
+मदद‌
+सहायता
+सहायता 
+Helper Application
+Helper Applications
+Helper Threads
+Helper
+Helps
+Helvetica
+Here
+हेरेरो
+जेगोविना
+हेक्स
+Hidden
+Hide Statistics
+Hide Toolbars
+ छिपाएँ
+छिपाएँ
+छिपाएँ‌
+पदक
+High Contrast
+High
+Highest
+Highgrade
+Highlight
+Highlighting
+प्रमुखताएँ
+Hightail
+हिलिगैयोन
+Hill
+हिन्दी
+संकेत
+Hiri Motu
+हिरी
+Histograms Collected
+आयत
+ इतिहास
+इतिहास
+हिट्स
+Hnewsgroup server
+Hnewsgroup
+Ho Chi Minh
+Ho
+Hold
+HolidayStatusSuppliersTravelVacation
+ घर
+Home
+घर
+Homepage Get back
+होमपेज
+होंडुरास
+Hong Kong
+हाँग
+Honolulu
+Horizontal
+होस्ट
+मेजबान
+होस्टः
+मेजबानी
+Hostname Entered
+मेजबाननाम
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+घंटा
+घंटे
+Housekeeping
+ाएँ
+Howe
+However we
+However
+Howland Island
+हौलेंड
+Http
+Huge
+Humans
+हंगेरियाई
+हंगरी
+I &apos
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+I don &apos
+I ii
+I submit information that &apos
+I think I &apos
+I understand
+मै
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+आईडी
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAP Flag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+IP
+IPC
+IPs
+IRC Nick
+IRC Operator
+IRC
+IS
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+ISP
+IV
+Iaposm
+आइसलैंड
+आइसलैंडिक
+प्रती‌क
+प्रतीक
+Id
+Identification
+Identifier
+Identities …
+Identities
+Identity
+निष्क्रिय
+इडो
+If
+इग्बो
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+नज़रअंदाज़ करें
+पहुँचाया
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+छवि
+चित्र
+छवियाँ
+Image…
+Import your
+आयात करें
+Importance
+Important
+Importing
+आयात हो रहा है
+आयात हो‌ रहा है
+आयात करें…
+आयात करें… 
+In Days
+In EHLO reponse
+In Finder
+In Use
+In
+InAutoon
+इनब
+अधूरा
+पाठ आकार बढाएँ
+Incrementally rotate
+Incrementally translate
+Incrementally
+Indexed
+IndexedDB
+सूची
+भारत
+इंडियन
+सूचकांक
+इंडोनेशिया
+इंडोनेशियाई
+सूचना
+Inherited
+इनिट
+इन‌पुट
+Ins
+जाँचें
+s
+इंस्पेक्टर
+Install
+संस्थापित करें
+संस्थापित करें I
+संस्थापित
+संस्थापन जारी
+संस्थापित कर रहा है
+संस्थापित कर रहा है…
+Instructions
+AudioBufferSourceNode
+Integer
+पूर्णाँक
+अंतःक्रिया
+इंटरलिंगुआ
+इंटरलिंग
+आंतरिक
+जुडें
+प्रस्तावना
+इनुक्टीटुट
+इनुपियाक
+उलटें
+Investigate
+इरान
+इराक
+आयरलैंड
+आयरिश
+Is
+वीप
+इसलास
+इजरायल
+Issued By
+Issued
+निर्गतकर्ता
+It
+इतालवी
+इटली
+वॉरे
+JIS
+JITअनुकूलन
+JIT
+JOHAB
+JS
+JSM
+JSON
+JSONP
+JSONparse
+JSONstringify
+जमैका
+जन
+जनवरी
+जापान
+जापानी
+जार
+जावा स्क्रिप्ट
+जावानीज
+Jaxivo
+जर्सी
+ कँपन
+कँपनबफ
+जॉन
+जोर्डन
+जुआन
+जुल
+जुलाई
+कूदें
+जून
+जून
+K
+KB
+केबी
+KOIR
+KOIU
+KRL
+कन्नड़
+कानुरी
+कश्मीरी
+काशुबियान
+कजाख
+कजाखस्तान
+कीलिंग
+रखें
+बनाए रखें
+केन्या
+कुंजी
+कीबाइंडिंग
+बीजशब्द
+keyed histograms
+keyed
+Keyhtml
+बीजशब्द
+कुंजीशब्द
+ख्मेर
+कंबोडियन
+किकुयू
+किंगडम
+किंगमैन
+कीनियारवंडा
+किरघिज
+किरिबाती
+किरूंडी
+किट
+Klaatu
+क्लिंगान
+कोमी
+काँग
+कांगो
+कोंकणी
+कोरिया
+कोरियाई
+कोसोवो
+कौन्यामा
+कुर्दिश
+कुवैत
+किर्गिजस्तान
+LDAP
+स्तर
+लैब
+संकेत निशान
+भूमि
+भूदृश्य
+भाषा
+भाषा
+भाषाएँ
+लाओ
+लाओस
+लैपटॉप
+बड़ा
+Last
+लैटिन
+Latinonly
+लातविया
+लातिवायाई
+Launch
+परतें
+ख़ाका
+छोड़ें
+लेबनान
+बाएँ
+बायां
+बायें
+विधिक सूचना
+कानूनी
+लिओन
+लेसेथो
+कम
+लाइबेरिया
+Libpkix
+लाइब्रे‌री
+लीबिया
+License
+लाइसेंसिंग
+लिचेंस्टाइन
+जीवनपर्यंत
+हल्का
+हल्का 
+लिंबुरगान
+पंक्ति
+बी
+लिंगाला
+कड़ी
+लिंक
+कड़ियाँ
+सूचीसूची
+लिसन
+सूचियाँ
+लिथुआनिया
+लिथुआनियाई
+Little
+जीवंत
+लोड करें
+लोड कर रहा है
+लोडिंग
+ लोड कर रहा है…
+लोड हो रहा है
+लोड कर रहा है…
+लोडिंग…
+स्थानीय
+Locale
+स्थानविशिष्ट
+ स्थान
+स्थान
+स्था‌न
+LocationAware Browsing
+LocationAware
+Locationaware browsing
+Locationaware
+पॉइंटर
+Locked
+रोजनामचा
+लॉगिंग 
+लॉग इन
+लॉगिन
+दाखिला
+लागॉन
+लोगोटाइप
+लम
+अवलोकन
+लूप
+खोया
+Low
+लुबा कटांगा
+लुसिया
+बेतरतीब
+लक्समवर्ग
+लक्सेमवर्गीज
+MAC
+MANIFEST
+MB
+एमबी
+MD
+MDN
+माइम
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomanian
+MacTurkish
+MacUkrainian
+मकाउ
+मैसेडोनिया
+मैसीडोनियाई
+मैडागास्कर
+डाक
+Maintain Offline
+Maintain
+Maintenance
+मालागासी
+मलावी
+मलय
+मलयालम
+मलेशिया
+मालदीव
+माली
+माल्टा
+माल्टीज
+मालविनास
+मैन
+प्रबंधित 
+योरिटी
+Manual
+निर्माता
+मैंक्स
+सारे
+माओरी
+मैपिंग
+मार्त
+मराठी
+मार्च
+मरियाना
+मेरिनो
+Marketplace
+शल
+मार्शैलैश
+मार्टिनिक
+मेल खाता
+मेल खाया हुआ
+Matching
+MathML
+गणित
+मॉरिटैनिया
+मारिशस
+मई
+संभवतः
+मेयेन
+मेयोट
+मैकडोनाल
+माप
+मीडिया
+मीडिया‌
+MediaStreamTrack
+MediaStreamstop
+मंझला
+स्मृति
+मेन्यू
+संदेश
+मैसेजपोर्ट
+Messages
+संदेश
+Meta
+विधि
+मेक्सिको
+Mibbit
+फेडरेटेड
+अनुपूरक
+मध्यरात्रि
+मिडवे
+ न्यूनतम
+ न्यूनतम करें
+मिकेलॉन
+परछाई
+Misplaced
+Missing
+सो
+मोबाइल
+Mode
+संशोधन
+रूपांतरि‌त
+बदलें
+मौड्यूल
+यूलस
+माल्डोवा
+सोम
+मोनाको
+सोमवार
+मंगोलिया
+मंगोलियाई
+मॉनीटर
+मोनोस्पेस
+मोंटेनग्रो
+मोंटेसेराट
+और
+अधिक
+अधिकellipsis
+मोरोक्को
+मोटू
+माउस
+खिसकाएँ…
+MozTestPilot
+मोजांबिक
+Mozilla
+Mozillaorg
+म्यूटेशन
+ मौन
+मौन
+मूक करें
+लागू नहीं
+NET
+NETWORK
+NO
+NPN
+NS
+NSS
+पहुँचाते
+Name
+नाम
+नाम‌
+Nameless
+नाम
+नामीबिया
+नौरू
+नवाजो
+नवासा
+संचरण
+डेबेले
+न्डोंगा
+नेपाल
+नेपाली
+Nested forms
+Nested
+नेट
+नीदरलैंड
+Netscape
+Netscapecfg
+संजाल
+संजालन
+कभी न 
+कभी नहीं
+नेविस
+New Preference
+नया
+नवीन
+नया
+आगे
+अगला
+निकारागुआ
+नाइजर
+नाइजीरिया
+नियू
+नहीं
+नहीं N
+नहीं| 
+नहीं‌
+लौटाने
+मनोनीत
+कुछ नहीं
+कोई नहीं
+ननइएस
+गैररेपुडियेशन
+दोपहर
+फोक
+सामान्य
+तरी
+नार्वे
+नार्वेजियाई
+टिप्पणीः
+सूचनाएँ
+अधिसूचना
+नबं
+नोवा
+नवंबर
+N
+Number
+योनोर
+O
+ओसीएसपी
+OID
+OK
+ठीक
+OLE for
+OLE
+OS
+OU
+OVERLAP
+वस्तु
+व‌स्तु
+ओक्कीतान
+अक्टू
+अक्टूबर
+बंद
+ओजिवा
+ओमान
+चालू
+Only
+ ओफ्फ
+ओफ्फ
+ खोलें
+खोलें
+Systems
+ऑपरेटर
+Optimizing
+Optional
+ विकल्प
+Options
+विकल्प
+विकल्प O
+विकल्पों
+Or
+संगठन
+सांगठनिक
+व्यवस्थित करें
+दिशा
+उकाम
+ओरोमो
+ओस्सेटियन
+अन्य
+अन्य
+Otherwise such
+Otherwise
+अन्य…
+आउटलाइन
+मिटाकर
+स्वामी‌
+P/Galapagos
+P
+PDF
+PDFjs
+PEM
+PKCS
+PREFS
+PSM
+PUBLIC
+PacifDebug/Galapagos
+Pacific/Enderbury
+Pacific/Fakaofo
+Pacific/Fiji
+Pacific/Funafuti
+Pacific/Gambier
+Pacific/Guadalcanal
+Pacific/Guam
+Pacific/Honolulu
+Pacific/Johnston
+Pacific/Kiritimati
+Pacific/Kosrae
+Pacific/Kwajalein
+Pacific/Majuro
+Pacific/Marquesas
+Pacific/Midway
+Pacific/Nauru
+Pacific/Niue
+Pacific/Norfolk
+Pacific/Noumea
+Pacific/Palau
+Pacific/Pitcairn
+Pacific/Pohnpei
+Pacific/Ponape
+Pacific/Rarotonga
+Pacific/Saipan
+Pacific/Tahiti
+Pacific/Tarawa
+Pacific/Tongatapu
+Pacific/Truk
+Pacific/Wake
+Pacific/Wallis
+Pack
+Package s
+Package xpi
+Package
+पैकेज
+Packs
+Padding
+Page Direction
+Page Selection
+पृष्ठ
+Pagequot
+Pager Number
+Pager
+पृष्ठ
+Pago
+रंगें
+Pair a Device &quot
+Pair a
+जोड़ा
+पाकिस्तान
+Pal Who &apos
+Pal
+पलाउ
+Palestinian Territory
+Palestinian
+Palette
+पाली
+Palmyra Atoll
+पालमीरा
+वित पैन
+पनामा
+Pane
+Panel
+पटल
+Panes on Startup
+Panes
+PannerNode
+Papua New Guinea
+Papua New
+Papua
+Paracel Islands
+पारासल
+Paragraph format
+Paragraph
+परागुवे
+Parameters
+परम
+Parcel
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+Parental
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+PartS
+Partial
+Partially Encrypted
+अंशतः
+Participant
+Participants
+Parts
+Party Name
+Party
+पश्तो
+Password Change
+Password Manager
+Password
+कूटशब्द
+PasswordIf
+कूटशब्द
+Paste Go
+ चिपकाएँ
+चिपकाएँ
+Pastel Gradient
+Pastel
+Paste…
+Patch
+Patching s
+लगा
+पथ
+Paths from
+Paths
+Paulo
+Pause on
+Pause/Resume/Retry
+ ठहरें
+Pause
+ठहराव
+ठहरें
+रोकें
+ठहराएँ
+रुका
+रुका हुआ‌
+Pauses the
+ठहराता
+Pay
+पेलोड
+भुगतान
+Paz
+Peer
+PeerConnection ID
+पीयरकनेक
+Pending
+Penh
+आम आदमी
+Percent
+Perform a
+पालन
+प्रदर्शन
+Perhaps the
+Perhaps you &apos
+Perhaps
+Period of Validity
+Period of
+Period
+Periodic
+स्थायी
+Permanently
+Permission
+ अनुमति
+अनुमति
+अनुमति‌
+Permit
+फारसी
+निजी
+Personality
+पेरू
+Perwebsite
+फेसः
+फिलीपीन्स
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+फोन
+फोन
+Phonetic Name
+Phonetic
+Photo
+Photograph
+Phrase
+Physical
+Pick
+Picture
+पियरे
+पाइलट
+Pin
+पिंग
+टांगा हुआ
+Pinning
+Pipelining
+Pitcairn Islands
+पिटकैरिन
+Pixel
+Plain
+Planner
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Platform
+Play a
+ बजाएँ
+Play
+बजाएँ
+Playing audio
+बजता हुआ
+Please advance
+Please authenticate
+Please consider
+Please enter
+Please shorten
+Please
+Plug a
+Plug
+PlugIns
+Plugin
+प्लगइन
+प्लगिन
+Plus
+Pocket
+पोडकास्ट
+PoiQA
+Pointer Lock API
+बिंदु
+पोलैंड
+Pole
+Policies
+Policy Constraints
+Policy Mappings
+Policy mapping
+Policy
+पोलिश
+पोलिनिशिया
+Popup Blocking
+Popup
+Popups
+पापअप
+पॉपअप्स
+पोर्ट
+Portable Document
+टेबल
+Porto
+व्यक्तिचित्र
+पुर्तगाल
+पुर्तगाली
+स्थिति
+Posse
+Possible
+Post
+Postal Code
+Postal
+Posting
+Postpone
+Power
+Powered by
+YandexTranslate
+Powershare
+Practice Statement pointer
+Practice
+Pre
+Precondition
+विशेषत
+Preference
+ वरीयता
+वरीयता
+वरीयताएँ
+वरीयताएँ‌
+प्राथमिकताएँ
+ वरीयताएँ…
+Preferred
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Prefix
+Prefixed
+Preformat
+Premature
+Prepackage
+Prepackaging
+Preparing
+तैयार कर रहा है
+Present
+Presentation Mode
+Presentation
+Preserve
+Preserves
+Preset
+प्रीसेट
+दबायें
+Pressing F
+Pressing
+सुंदर
+Pretty Print
+Pretty
+Prevent
+पूर्वावलोकन
+Previewed
+Previewing
+Preview…
+Previous Session
+पीछे
+पिछला
+कीमत
+Primary Email
+Primed cache
+राइम
+Primetime Content
+राइमटाइम
+Princes
+Principal Name
+Principal
+रिंसिप
+ छापें
+छापें
+Printed
+मुद्रक
+छप रहा है
+छपाई हो रही है…
+छापें
+छापें…
+Priority changed
+प्राथमिकता
+Privacy Policy
+गोपनीयता
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+निजी
+विशेषाधिकृत
+Privileges
+Privileges…
+Pro
+Probable
+Probably
+Probing
+Problem
+िम
+Proceeding will
+Proceeding
+Process
+Processing
+प्रक्रिया हो रही है
+Prodigy
+पादक
+Product
+ProductName
+ProductNameInternal
+ProductShortName
+प्रोफाइल
+Profiler
+प्रोफ़ाइल
+Program Icons
+Program
+Programs Folder
+Programs
+Progress Window
+प्रगति
+Project Lead
+परियोजना
+Projects
+Promise Debugger
+Promise
+प्रांप्ट करें
+ गुण
+गुण
+गुण
+Property Declaration
+Property Value
+गुण
+आनुपतिक
+Propose a
+Propose
+Protection
+Protocol Request
+Protocol
+ProtocolSpecific
+Protocols
+Proudlybr
+Provider
+Province
+Proxies
+Proxy
+Pseudoelements can
+Pseudoelements ‘
+छद्म तत्वों
+Psst using
+Psst
+Public
+पिंस
+Publish
+Publishing Pages
+Publishing
+Publishing…
+Publish…
+Puerto Rico
+यूरेटो
+पंजाबी
+Purchase for
+उद्देश्य
+Push Endpoint
+दबाएँ
+QA UI
+QA
+QName
+QQ
+QR Scan
+QR
+कतार
+Qualified Subordination
+सबओर
+क्वेचुआ
+Query
+Question
+कतारबद्ध
+Quick Filter
+Quick Launch bar
+Quick Launch
+Quick
+Quickly
+Quirks mode
+Quirks
+Quirky doctype
+Quirky
+ बाहर जाएँ
+ छोड़ें Q
+Quit
+बाहर
+बाहर जाएँ
+छोड़ना
+QuitS
+Quitting
+Quota
+Quotation
+Quote
+Quotes
+RAM
+RC
+RDN
+रिकार्ड
+REMOVE
+RETR command
+RETR
+RETURN
+RFC
+RGBA
+RSA Encryption
+RSA
+RSASSAPSS Signature
+RSASSAPSS
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+आरटीपी
+Radio Button
+Radio buttons
+Radio
+Rainy
+Raise
+सीमा
+Rankin
+Rate
+दर
+Ratio
+Raw
+Re
+Reached
+Read
+ReadMark
+Reader &apos
+हित
+Reading
+Ready to
+तैयार
+Really fast
+Really
+Rearrange
+कारण
+Reasons
+Rebuild Summary
+Rebuild
+Recalculate
+Receipt denied
+Receipt
+Receipts
+Receive
+हस्तगत
+प्राप्त कर रहा है
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+हालिया
+Recently
+Recheck
+Recipient
+Recipients
+Recommended Components
+Recommended
+अनुशंसित
+Reconfirm
+Reconnect
+Record
+Recording Performance
+Recording
+रिकॉर्ड हो रहा हैं
+Recover
+Recovery Keyhtml
+Recovery
+Recur
+Recurrence pattern
+Recurrence
+आवृत
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+Redirection
+Rediscover the
+Rediscover
+Redisplay
+फिर करें
+दोहराएँ
+Reducing the
+Reducing
+राफ
+रीफ
+Reenter
+Reference
+References
+Referrer
+Referring URL
+Referring
+पुनर्बहाव
+रारूपित
+ताज़ा करें
+Refused
+Register Locale
+Register Server
+Register
+Registered
+Registering
+Regular Attachment
+नियमित
+Reject
+Rejoin
+Related
+Relation
+Relative positioning of
+Relative
+Relaunch
+Release Notes
+Release
+Releases
+Reload
+फिर लोड करें
+फिर लोड करें 
+Remaining
+याद करें
+याद रखें
+याद रखें R
+Remind Me
+Remind
+Reminder
+Reminders
+Remote Debugging
+Remote debugging
+दूरस्थ
+Remove channel
+Remove
+हटाएँ
+हटायें
+Removed
+Removes
+हटाएँ…
+Removing
+जागरण
+नाम बदलें
+पुनर्नामकरण
+Rename…
+Renaming
+Render Mode
+Render
+रेंडरर
+Rendering
+Renewal
+फिरसेखोलें
+Repair
+Repeat
+Repeating
+दोहराएँ
+Replace
+Replacement
+Replaces in
+Replaces
+Replace…
+Replacing
+Replicating directory entry
+Replicating
+Replication failed
+Replication
+Replied
+Reply
+ReplyTo
+Replying
+Replyto Address
+Replyto
+रिपोर्ट
+ReportOnly
+Reporter
+Reports
+गणतंत
+Request the
+Request
+RequestMode
+Requested
+निवेदन
+Required
+Requires
+Reread mozcmd
+Reread
+ फिर भेजें
+फिर भेजें
+Resending
+ResentCC
+ResentComments
+ResentDate
+ResentFrom
+ResentMessageID
+ResentSender
+ResentTo
+Reserved
+ फिर सेट करें
+Reset
+फिर सेट करें
+Resets
+Resolution/Quality
+Resolution
+समाधान करें
+Resource
+Resources
+Responder
+अनुक्रिया
+Responseclone
+Responsive Design
+Responsive
+बाकी
+फिर आरंभ करें
+पुनः आरंभ करें
+पुनः प्रारंभ करें
+Restarting
+पुन प्रारंभ
+ फिर संग्रहित करें
+पुनर्स्थापित करें
+पुनर्संग्रहित करें
+Restrict
+सीमित
+Restyle Hint
+Restyle
+Results
+Resume &apos
+Resume
+फिर बहाल करें
+पुनः आरम्भ
+Resumes
+Retained
+Retention Policy
+Retention
+Retest
+Retrieving quota
+Retrieving
+ प्राप्त कर रहा है…
+Retry
+फिर कोशिश करें
+फिर कोशिश‌ करें
+पुनःप्रयास
+Retrying
+Return
+Retweet
+रियूनियन
+Reverse
+Reversed
+उलटें R
+उलटें…
+Review
+Revision
+Revived
+Revocation
+Revoked
+फिराए
+Rewrap
+Rewriting oldstyle
+Rewriting
+राएटो रोमानिक
+टारिका
+Rich Text
+Rich
+रिको
+Right Click
+दाएँ
+दायां
+दायें
+दाहिने
+दाहिना
+Rights
+Righttoleft direction
+Righttoleft
+Ringing…
+Rio
+Rioja
+Risks
+River
+Roaming
+Robot
+रोबोट
+Roku
+Role
+रोमानिया
+Romanian ISO
+रोमानियाई
+Room
+Root
+Roots Module
+Roots
+घुमाएँ 
+Row
+Rows
+Rule
+Rules
+Ruleset
+चलाएँ
+RunAppX
+Running
+रनटाइम
+रशिया
+Russian Federation
+रूसी
+रवांडा
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+S
+SASL bind
+SASL
+SD
+ऍसडीपी
+SE
+SECG elliptic curve sectr
+SECG
+SECURITY
+SEE THIS STRING
+SEE THIS
+SEE
+SETTINGS
+SFailed to
+असफलS
+SHA Digest
+SHA Fingerprint
+SHA
+SHOULD
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+SKB
+SMB of
+SMB
+SMTP &apos
+SMTP&apos
+SMTP
+SMTPAUTH
+SOCKS Host
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+SPONSORED
+SQL Statements
+sql
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+STRING
+करेंS
+SUGGESTED
+SVG clipping
+SVG
+SW Asian
+SW
+SWITCH
+SYSTEM
+S_फ़ाइल
+Sa
+सबा
+Sad
+Safari
+सफारी‌
+Safe Mode
+Safe
+SafeBrowsing
+SafeMode
+सहारा
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+सैंट लुसिया
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+सेंट
+Salaam
+Salem
+वाडोर
+ही
+सामी
+समोआ
+सामोआन
+Sampled
+नमूना
+San Marino
+San
+सैंडबॉक्स 
+सैंडबॉक
+सैंडविच
+सांगरो
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+सैंस
+संस्कृत
+सैंससेरिफ़
+सैंससेरिफ़ 
+Santa
+Santo
+Sao Tome and
+Sao Tome
+साओ
+सार्डिनियन
+Sass
+शनि
+शनिवार
+Saudi Arabia
+सउदी
+Save Permissions
+सहेजें
+सहेजें S
+सहेजें‌
+Saved
+सहेजें…
+Saving
+सहेज रहा है…
+सहेजा जा रहा है 
+Saw
+Scalars
+मापक
+मापक
+पैमानाः
+Scaled
+Scaling
+Scam Warning Take
+Scam
+Scams
+स्केन
+Scanner app
+Scanner
+Scanning for
+Scanning
+Scheduling
+Scheme
+स्कोप
+Score Origin
+Score
+Scots
+Scottish Gaelic
+कॉट
+Scratchpad Enter some
+स्क्रैचपैड
+Screen Orientation
+Screen reader
+स्क्रीन
+Screenname
+स्क्रीनशॉट
+स्क्रीनशॉट
+Script
+Scripts
+Scroll
+ScrollLinkedEffects
+Scrolling
+Sd
+Sdays
+सागर
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+ खोज
+ खोजें
+Search
+खोज
+खोजें
+Searches
+Searching &apos
+Searching
+ खोज रहा है…
+खोजें…
+Seccomp Thread Synchronization
+Seccomp Thread
+Seccomp
+SeccompBPF System
+Seccomp
+Second
+Secondary Email
+Secondary
+Seconds
+Sections
+Secure
+Securing connection
+Securing
+Security Exception
+सुरक्षा
+सुरक्षा _u
+सुरक्षा‌
+देखें
+चुनें
+Selected Frame
+Selected Tabs
+चयनित
+SelectedRemove Selected
+हटाएँचुने
+Selecting
+चुनाव
+Selector
+Selectors
+Select…
+Self Cost
+Self Sampled
+Self Time
+Self
+Selfclosing syntax
+Selfclosing
+Selfposting
+Send Verification
+Send a
+भेजें
+Sender
+भेज रहा है
+Sends a
+Sends
+सेनेगल
+सेंसर
+Sent &quot
+भेजें
+सितं
+Separate _
+Separate tags
+Separate
+Separated
+पृथक्कारक
+अलगाने वाला
+सेपिया
+सितंबर
+सर्बिया
+सर्बियाई
+Serial Number
+Serial
+Serialize
+सेरिफ़
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+Server settings&apos
+सर्वर
+सर्वर
+Service
+ServiceWorker
+ServiceWorkerAllowed
+ सेवाएँ
+सेवाएँ
+सेवाएँ‌
+सत्र
+Sessions
+Set Up Sync &quot
+Set this channel &apos
+सेट करें
+स्थापित करें
+Setting
+Settings &#124
+Settings
+सेटिंग
+विन्यास
+सेटिंगस्
+सेटिंग्स
+SettingsA
+सेटिंग…
+सेटिंग्स…
+Setup
+Seven
+Severy
+सिचेलीस
+Sh
+शेडर
+Shading
+Shallow
+Share
+साझा करें
+साझा करें S
+Shared
+Sharing Indicator
+साझाकरण
+Sheet
+Shift _ JIS
+Shift _
+Shift
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+शोना
+खरीदारी
+Short
+Shortcut
+Shortcuts
+Shot
+Should
+Show/Hide
+Show
+दिखाएँ
+Showing
+Shrink To Fit
+Shrink
+बंद करे
+Shutting Down
+Shutting
+SiInEfate
+सिबलिंग
+Sichuan Yi
+सिचुआन
+बाज़ू पट्टी
+ बाज़ूपट्टी
+बाज़ूपट्टी
+Sierra Leone
+सियरा
+Sign
+Signature
+Signed
+Signer
+हस्ताक्षर कर रहा है
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Simple
+सरलीकृत
+Simplify
+Simply
+Simulate touch
+Simulate
+Simulation
+सिमुलेटर
+सिमुलेटर
+Since
+सिंधी
+सिंगापुर
+सिंहालीज
+सिंहाला
+युसटेटीस
+सिसवाती
+साइट
+साइट
+आकार
+आकार‌
+आका‌र
+किन
+टुकड
+स्लोवाक
+स्लोवेकिया
+स्लोवेनिया
+स्लावेनियाई
+ Sm
+छोटा
+Sms
+लगीतो
+सॉकेट
+सॉफ्टवेयर
+सोलोमन
+rajeshkajhayahoocom
+सोमाली
+सोमालिया
+Some
+सोंघाए
+सोर्वियन
+Sorry
+छाँटें‌
+सोथो
+स्रोत
+दक
+रांस
+Space
+स्थान
+स्पेन
+स्पेनिश
+Speculative
+गति
+रैटली
+Spx
+Ss
+ढेरी
+टैंपिंग
+Standard
+Star
+शुरू
+प्रारंभ
+आरंभ कर रहा है…
+‌आरंभ हो रहा है…
+आरंभन
+स्थिति
+स्थिति
+टेट
+आकड़ें
+स्थिति
+बनाए रखें
+Stop
+रूकें
+रोकें
+रोका गया
+भंडारण
+Stray
+धारा
+खीचें
+Strict
+सख
+String
+स्ट्रिंग
+बनावटी
+शैलीसंपादक
+शैली
+possibly
+Su
+उपकमांड
+विषय
+दगी
+सुपुर्द करें
+सुपुर्द
+डिनेशन
+सदस्यता लें
+सदस्यता लें‌
+सदस्यता‌ लें
+Subsys
+सफल
+सूडान
+प्रत्यय
+सलाह
+सारांश
+रवि
+सुडानी
+रविवार
+सुपरसीडेड
+समर्थन
+सूरीनाम
+Surname
+संदेहास
+स्वालवार्ड
+स्वाहिली
+स्वाजीलैंड
+स्वीडन
+स्वीडिश
+बदलें
+स्विटजरलैंड
+सिलबरी
+सममितीय
+सिंक
+समकालित
+संकलन हो रहा है…
+सिंक्रनाइज़ किए जा रहे…
+सारांश
+सीरिया
+S×
+S×S
+TCP
+TCVN
+TIP
+TIS
+TLS
+टीवी अनुकरण
+TVs
+Tab
+टैब
+सारणी
+तालिकाएँ
+तालिकाएँ
+टैब
+टैब्स
+टैग
+टैगालॉग
+ टैग
+Tags
+टैग
+ताहिती
+ताइवान
+ताजिक
+ताजिकिस्तान
+Take
+तमिल
+तंजानिया
+टैप
+लक्ष्य
+T
+ततार
+दल
+दूरमिति
+टेलीमिति
+तेलुगु
+अस्थायी
+तें
+टेस
+पाठ
+गु
+थाई
+त्स्वाना
+थाईलैंड
+धन्यवाद
+शुक्रिया
+निकटतम
+वरूप
+Theme
+प्रसंग
+प्रसंग
+वरों
+These
+घूमने
+गुरू
+लघुछवि
+लघु छवि
+गरूवार
+तिब्बती
+Ticket
+टिग्रे
+टिग्रियाना
+टाइल
+Tilt
+टाइल
+टाइमलाइन
+समय चिन्ह
+समय
+तिमोरलेस्टे
+नन्हा
+शीर्षक
+ायदा
+टोबैगो
+आज
+टॉगल
+टागल करें
+थीम
+टोगो
+टोकेलाउ
+टोकन
+टोम
+टोंगा
+टौंगा
+औजारपट
+औज़ारपट्टी
+Toolbox
+ औज़ार
+Tools
+औज़ार
+शिखर
+शीर्ष
+टच
+दौरा
+ट्रेसेस
+ट्रैकिंग
+ट्रैकिंग 
+पारंपरिक
+हस्तांतरित
+अनुवाद
+अनूदित
+अनुवादक
+Transport
+शाखा
+रिनीदाद
+रॉमेलिन
+विघ्ननिवारण
+तोड़ें
+Trust
+Try
+त्सोंगा
+त्स्वाना
+मं
+मंग
+मंगल
+Tuned
+ट्यूनिसिया
+तुर्की
+तुर्किश
+तुर्कमेन
+तुर्कमेनिस्तान
+यूटोरियल
+तुवालू
+त्वि
+विटर
+दो
+प्रकार
+प्रकार‌
+प्रका‌र
+प्रकार
+UID
+UNDO
+अज्ञात
+UNSUPPORTED
+URI
+URL
+यूआरएल
+URLs
+वीपयूएस
+USA
+अमेरिकी
+USB
+USEDYou
+UTF
+UTFencoded
+यूगांडा
+यूघुर
+यूक्रैन
+यूक्रेनियाई
+अनचेक करें
+रेखांकित
+ पहले जैसा
+वापस लें
+पहले जैसा
+पहले जैसा|
+Unescape
+Unescaped
+Unfortunately
+यूनीकोड
+यूनीफ
+गैर आरंभीकृत
+Uninstall
+अनइंस्टाल
+विसंस्थापित करें
+Uninstalling
+वितीय
+ईकाई
+यूनाइटेड
+सार्वभौमिक
+अज्ञात
+अज्ञात‌
+अज्ञा‌त
+कड़ीविहीन करें
+अनलोड करें
+Unlocked
+ मौन समाप्त करें
+आवाज दें
+आवाज़ चालू
+अनपिन
+अपंजीकृत
+Unregistering
+रतिसादी
+अहस्ताक्षरित
+असंयोजित
+अनावरोधित
+बेनाम
+अप्रयुक्त
+असत्यापित
+ऊपर
+Update
+अद्यतन
+अद्यतन करें
+अद्यतन…
+अपडेट
+अपलोड कर रहा है…
+ऊपरी
+उर्दू
+उरूगुवे
+Us
+उपयोग
+शरीर
+उपयोक्तानाम
+Using
+उज्बेक
+उजबेकिस्तान
+V
+वैध
+VERSION
+VISCII
+ VK_F
+VK_F
+VK_QUOTE
+VK_SEMICOLON
+VK_SLASH
+VPS
+वैध
+वैधीकरण
+वैधता
+मान
+मूल्य
+मान
+वनॉटू
+चर
+वेटिकन
+वेंडा
+वेनेजुएला
+डे
+जाँच रहा है
+जाँच रहा है…
+संस्करण
+टेक
+वीडियो
+वीडि‌यो
+वियतनाम
+वियतनामी
+दृश्य
+देखें
+Viewport
+दृश्य
+दृश्य…
+विंसेट
+जिन
+विजिट
+Vista
+आवाज़
+वोलापük
+आवाज
+चेतावनी
+प्रतीक्षा करें
+प्रतीक्षारत
+ प्रतीक्षारत…
+प्रतीक्षारत…
+वालिस
+वैलून
+चेतावनी
+Warnings
+चेतावनी
+चेतावनीयां
+निगरानी
+घड़ी
+वाटरफॉल
+बु
+WeakMap
+वैब
+WebBased Information
+WebBased
+WebGL
+WebIDE
+WebIDL
+WebRTC
+वेबसॉकेट
+वेबमेकर
+वेब साइट‌
+वुध
+बुधवार
+सप्ताह
+सुस्वागतम
+वेल्श
+चिम
+पश्चिमी
+When
+वाई
+चौड
+Win
+ विंडो
+Windowopen
+Windows
+With
+Wizard
+वोलोफ
+कार्य
+श्रमिक
+श्रमिक
+रॉउजर
+लपेटें
+X
+XBL
+XHR
+XHTML
+XML
+XMLHttpRequest
+XPConnect
+XPath
+XSLT
+XUL
+झोसा
+Y
+Yahoo
+संचालित
+येमन
+Yes
+हाँ
+हाँ Y
+हाँ‌
+कल
+Yi
+यिड्डिश
+योरूबा
+You
+आप
+Your
+Z
+जाम्बिया
+जील
+झुआंग
+जिंबाबे
+ बड़ाछोटा करें
+बड़ाछोटा करें
+जुलु
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+a scam
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+a surprised
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+a week
+a windowed
+a wink
+a year
+a yelling
+लाभलोभ
+aहजारों
+aFrames
+aKnow
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abhorred
+abilities
+able
+abort
+रुक
+about About
+about Networking
+about Us
+about brandShorterName
+नजदीक
+aboutconfig
+aboutcredits
+aboutrights
+aboutwebrtc
+बजाए
+aboveAllow
+abruptly
+absence
+absolute positioning
+absolute
+accel
+accelalt
+acceleration on
+वरण
+accelshift
+accented
+तों
+acceptable
+acceptcharsetutf
+accepted
+accepting site &apos
+accepting
+access Key
+access multimedia
+access
+मर
+accessibility support
+accessibility tools
+मामलों
+सुलभ
+accessing
+accidental breakage
+accidental
+accompanying
+accomplished
+accordance
+according
+account &apos
+account Actions
+account connected
+account name
+account
+accountManagernewAccountlabel
+accounts
+accuracy
+accurate
+acknowledges
+पहुँचें
+act
+action
+actions
+activate
+सक्रिय
+active Logins
+active
+activity Indicator
+activity Stream
+गतिविधि
+actual Size
+actual
+actualDate &apos
+actualDate
+जीवनांकिक
+adaptive
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+जोडें
+addEventListener method
+addEventListener
+added
+adding
+additional
+additivesymbols descriptor
+योगसंकेत
+addon &apos
+addon
+addons gallery
+ऐडओंस
+addonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+रचना
+addressbook
+addressbr
+addresses
+addressing area
+addressing
+adjacent
+adjust
+admin
+administrator
+adult supervision
+adult
+advance
+advanced JavaScript
+advanced
+advanced_pref_installation
+advancelabel
+ञापित
+advertised
+advertises
+affect
+affected
+affecting
+after Sending
+after
+again
+age
+agent
+aggregate
+aggregates
+aggregating
+aggregator
+ago
+agree
+agreement
+airplane
+aka NIST
+NIST
+aनवीनतम
+alert description
+चेतावनी
+algorithb
+algorithm Parameters
+अलगोरिथन
+algorithmhash value
+algorithm
+गोरिथम
+alignment
+alined
+alive
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+all
+allocate
+आवंटित
+आबंटन
+allocations Rate
+allocations
+allow dialogs
+allow immediate
+allow
+allowed
+रीनअनुमति
+allowing
+चुराने
+allowsameorigin
+जिसने
+almost
+along the Y
+along
+alphabetical
+already bookmarked
+already
+also gives
+also skip
+समक
+altKeylabel
+alter
+alteration
+altered
+alternate
+alternatives
+always Ask
+always Block
+always prefer
+always
+am &#124
+am
+मात
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+तीसरी
+चलाना
+analyze
+ancestor elements
+ancestor
+ancestors
+anchor &apos
+anchor
+anchors
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+and Herzegovina
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+ाद
+कोण
+animatable
+चि
+animation cycle
+चलछवि
+सचलचित
+annually
+anonymous box
+anonymous
+another
+तरों
+antivirus software
+antivirus
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+any
+anymore
+anyone
+anypolicy
+anything
+anyway
+anywhere
+apart
+app &apos
+app submission
+app
+appName
+appear
+appearance wrong
+appearance
+यून
+append
+applicable service
+applicable
+application Basics
+application Details
+application doesn &apos
+ऐप्लिकेशन
+applications
+applied
+applies
+apply
+applying update
+applying
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+approved
+approx
+approximate line
+अनुमानित
+approximation
+apps &apos
+ऍप
+apr &#124
+apr
+april
+arbitrary
+archive
+archived folders
+archived
+archives
+archiving
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+पणियाँ
+area shape
+उभारें
+areas in
+रंगा
+aren &apos
+aren
+argument
+arguments for
+arguments
+arising out
+arising
+arjo
+armscii ISO ISO ISO
+armscii
+around
+arrive
+पंहुचा
+arrives
+तीर
+arsa
+article summary
+आलेख
+articles
+artwork
+as &apos
+as Authored
+as broken
+as cURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+धोकादायक
+आरोही
+ascii
+ash
+asis &quot
+asis
+ask me
+ask
+asked questions tips
+asked
+पूछे
+asks that
+पूछता
+aspect ratio
+aspect
+aspects
+assets
+assist you
+assist
+assistance
+associated
+association
+assume
+वासन
+तारांकन
+async touch
+async
+asynchronous Pan
+asynchronous entity
+यतालित
+asynchronouslyloaded
+at S
+at least
+at span id &apos
+at
+atchMore than
+एटनियम
+attach
+attached
+attaching
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+attachment
+attachmentDo
+attachments
+attack An
+attack pages
+साभिप
+attacker could
+attacker
+attackers
+फिशिंग
+अंतस
+attempted old
+attempted
+attempting
+attempts
+attend
+attendance
+attendee
+attendees
+खींचता
+attribute Type
+खासियत
+attributes &apos
+attributes
+audio Backend
+ऑडियो
+aug &#124
+aug
+august
+authenticate to
+authenticate
+authenticates
+authentication mechanism
+authentication
+रमाणिकता
+author
+राधिकारी
+authority is
+authority
+authorization
+authorized
+authors whom
+authors
+auto Increment
+auto Prettify
+auto Save
+auto discover
+Auto
+autoAddOnsUpdateslabel
+autocomplete
+वतःसंपन
+autodetection
+autofill
+automated updates
+automated
+automatic updates
+automatic
+automatically Black
+automatically detects
+automatically prefill
+automatically so it &apos
+automatically
+automation
+ऑटोप
+autoscrolling
+available &quot
+available Commands
+available
+औसत
+औसत
+avoid
+aware
+away
+axis
+b
+bEven
+bS
+back facing
+back
+backed up
+backed
+backfacevisibility hidden
+backfacevisibility
+background
+backlogged
+backslashes
+बैकअफ
+backups
+backwards
+bad parameter
+बुरी
+badge
+baggage object
+baggage
+ban
+banks stores
+banks
+banned
+बैनर
+bar
+barada
+आधार
+अधार
+baseline
+basic Page
+basic
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+फायदा
+bear the
+bear
+beast
+beasts brought emfire
+beasts
+धक
+यवर
+became full
+became
+योंकि
+become
+becomes damaged
+becomes
+been deactivated
+been navigated
+been reestablished
+been replaced
+been revoked
+been transferred
+been translated
+been
+beep
+before
+began
+begin
+beginning
+begins with
+begins
+मीदों
+behavior
+behaviour
+behavioural
+being incompletely transferred
+being redirected
+being reparsed
+being
+believe
+believed
+belongs to
+belongs
+below
+benefit
+benefits
+beside
+best Match
+best accomplished
+वोत
+better
+between
+bfor Android
+bgt
+bidirectional
+big
+bigger
+billing
+विपदीय
+bind DN
+bind
+binding shadows
+वाइंडिंग
+bindings tag
+bindings
+bird
+birdcage …
+birdcage
+birth
+bit keys
+ बिट
+बिट
+बिटरेट
+bits
+bitten
+काला
+रिक्त
+block Lists
+block padding
+लाॅक
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+किआ
+अवरोधन
+blocks parts
+blocks
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+body
+book
+bookmark updated
+bookmark
+bookmarked
+बुकमार्क
+books
+बुलियन
+bootloader
+border &apos
+border radius
+किनारा
+borders
+बॉट
+दोनों
+तल
+बंधा
+boundaries
+बाउंड
+box Model
+box model region
+box model
+बॉक्स
+boxcom
+boxed
+Boxes
+सिंग
+br
+brace
+braces
+brackets
+brand new
+brand profile
+brand
+brandFullName Credits
+brandFullName
+s
+brandShortName Preferences
+brandShortName logo
+brandShortName
+brandShorterName Tour
+brandShorterName
+brandShortname
+break
+आकस
+breaking
+लाईन
+breakpoints
+breaks
+ववव
+bring
+broad
+खंडित
+brought
+बचाये
+browser &apos
+browser Hangs
+browser configurations
+browser
+browsercachediskenable to
+browsercachediskenable
+browsers
+browsing
+brulliIf
+btn
+buddy list
+buddy
+budget
+buffer capacity
+बफ़र
+bug
+bugs visit
+bugs
+bugzillamozillaorg
+build Configuration
+build
+building summary
+built
+builtin Roots
+builtin tools
+builtin
+bulleted list
+bulleted
+यापारिक
+busy
+but we
+लेकिन
+button button
+बटन
+बटने
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+by
+bynbspdesign
+byte
+बाइट्स
+बाइट्स‌
+c
+cSrS
+cURL
+cache management
+cache
+cachecontrol set
+cachecontrol
+cached
+cachemanifest
+caching of
+कैशिंग
+calendar Weeks
+calendar
+calendaring information
+calendaring
+calendars
+calendartimezonesxpi
+call Stack
+call calls
+बुलाओ
+callUrl
+callback
+called &apos
+नामक
+लीस
+caller
+calling detach
+बुला
+calls
+कैमरा
+t
+can analyze
+can collect
+can often
+can ’
+can
+cancel
+canceled Occurrences
+canceled
+cancellation
+cancelled
+cancelledAddon
+candidate resources
+candidate
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+cannot
+canvas Debugger
+canvas an
+कैनवास
+capabilities
+capable
+capacity
+capitalization
+अनुशीर्षक
+कैप
+captureEvents
+captured log
+captured
+card
+cards copied
+cards etc
+cards
+care
+रहो
+carefully
+caret
+carriage return
+carriage
+carrier
+case sensitivity
+case
+इंसेंसिटिव
+cases
+cast
+categories
+categorize and
+categorize
+category
+categorySource
+cause
+caused
+causes
+causing stability
+causing
+सावधानी
+caveats
+cc
+cd
+cell border
+cell was
+सेल
+कोष्ठ
+cells
+cellular location
+सेलुलर
+census
+center footer
+center header
+केन
+centered
+centerxcenteryradius
+centimeters
+cert AIA
+cert Library
+cert validation
+cert
+certain
+certificSian
+certificate
+गुंजाइश
+ch
+chain
+बद
+बदली
+तनों
+changing
+channel
+character
+characters
+चारसेट
+जाँचें
+चेकबाक
+जाँचा गगा
+जाँचा गया
+Checking
+चेकआउट
+चाइल
+children
+पसंद
+choose
+choosing
+रोम
+सिनेमा
+साइपर
+circ
+चक्र
+परिपत
+class
+Clear
+click
+क्लिक किया हुआ
+clicking
+clicktoplay
+लाएँट
+लिपबोर
+समायोजित
+बंद
+बंद
+लोजिंग
+अव
+code
+codebreakpadreportURL
+colgroup
+समेटनें
+संकुचित
+रोटेक
+एकत
+रहण
+collective
+रंग
+स्तंभ
+तंभों
+संयोजक
+कोबों
+सद
+आदेशों
+comment
+comments
+common
+आमतौर
+Communicate
+समुदाय
+तुलना
+सुसंगतता
+सुसंगतत
+compile status
+compile
+पूरक
+complete
+completed
+completely
+Completing
+अनुपालन
+घटक
+components
+comprehensive
+compressed
+आनंद
+छेंडछाड
+गणना
+computer
+computers
+conbv
+condition
+विन्यास योग्य
+िगरेशन
+यासमें
+फिगर
+पुष
+conflict
+connect
+अनुकारी
+निरंतर
+consequential
+विचार
+console
+consoleerror
+consoleinfo
+consolelog
+consolewarn
+खपत
+contact
+निहित
+कंटेनर
+contains
+अंतर्वस्तु
+context
+continue
+योगदान करने वालों की
+control
+controls
+हैbr
+convert
+cookie
+कुकीज़
+नक़ल किया हुआ
+copy Email
+copy Phone
+ल
+corresponding
+गतल
+खराबी
+सकताजैसे
+couldn
+कॉउंटर
+कवरेज
+cpnbv
+cpnbw
+crash
+घटनाग
+सहितसभी
+create
+created
+creating
+गंभीर
+css
+ctnbr
+ctnbv
+current
+currently
+तीय
+संशोधित
+customizations
+customize
+customizing
+चक
+चक्रित
+डि
+षति
+damages
+तरनाक
+आँकड
+database
+datareporting
+दिनांक
+दिन
+दिनदिन
+days
+Debug
+डीबगिंग
+रामक
+चय
+फैसला
+declaration
+कूटलेख
+declared
+विकूटित
+decoding
+decompressed
+decompressing
+बढ़ाने
+decrypt
+तयशुदा
+टS
+परिभाषा
+डिग
+देरी
+मिटाने
+delivers safe
+delivers
+देन
+मनाही
+हर
+बजाये
+अवरोही
+described below
+described
+विवरण
+विवरणकर
+डिज़ाइन
+डेवटूल
+कॉलिंग
+बंधित
+Detected
+determine
+developermozillaorg
+डेवलपरों
+विकास
+s
+यन
+साधनों
+devtoolsdebuggerremote
+diagnose
+नैदानिक
+विकर
+आरेख
+संवाद
+did
+didn
+different
+differentlyconfigured
+difficult
+डाइजेस
+digits
+दिखाता
+direction
+देशक
+directly
+देशिकाएँ
+directory
+निष्क्रिय करें
+disabled
+disabling
+disallows
+disclaim all
+disclaim
+disclaimer may
+disclaimer
+discontinue
+discretion
+डिस
+टाइपस
+दिखलाया
+displaying
+उलटना
+distribute
+वितरण
+distributors
+distrust
+बैठते
+docs
+doctype
+दस्तावेज़
+दस्तावेज़
+documentcreateAttribute
+documentcreateAttributeNS
+documentdomain
+documentdomainS
+documentload
+DocumentquerySelector
+documents
+documentwrite
+भरोसेमद
+doesn
+doing
+dollars
+domain
+घरेलू
+t
+तशब
+door
+डॉट
+डाउन
+डाउनग
+Download Aurora
+मं
+हटाएंहटाएं
+downloaded
+डाउनलोड किया जा रहा है
+डाउनलोड्स
+खीचें
+draws
+driver
+drivers
+छोड़ें
+dump
+नकली
+हुयी
+dwndiagstrike
+e
+येक
+earlier
+ऐक
+easy
+संपादन
+संपादन
+संपादक
+effect
+रयासो
+eg
+eight
+eightbit
+eighteen
+eighteenth
+eighth
+either
+बीत गया
+elea reime
+तत्व
+elementdataset instead
+डेटासेट
+elements
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+eleven
+eleventh
+eligible
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+दीर
+else contact
+else
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+ईमेल
+emailI &apos
+emailI
+emailed
+emailexamplecom
+emails
+emand
+embarrassed face
+embarrassed
+मनाक
+embed
+embedded PDF
+टस
+embeds
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributoremcontributorAshishi
+emcontributorJoe Solon
+emcontributorRajesh
+emcontributorVaibhav
+emfire
+emgreat
+emnew
+emअन
+emoticons
+employer
+empty Trash
+empty slots
+empty
+emptying
+emreborn
+emrenewed
+emswiftly
+emthunder
+वाँ
+emulate a
+emulate
+emulating a
+emulating
+emulation
+en
+enUS en
+hi
+enable brandShortName &apos
+enable others
+enable worker
+सक्रिय करें
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+रियकृत
+enables
+enbz
+संलग्न
+encode
+encoded
+encoder
+encoding
+encodings
+encountered
+encrypt this
+encrypt
+encrypted you
+encrypted
+encryption
+enctype instead
+enctype
+enctypeS
+enctypeमल
+end user &apos
+परिणति
+ended
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+ends
+enforced
+engage
+िरी
+engines
+enhanced
+enjoy
+enlarging the
+enlarging
+enough
+ensure
+ensures that
+ensures
+enter
+डाली
+Entering
+enters
+entire
+entirely
+entities
+एंटिटी में
+entity reference
+एंटिटी
+entries
+प्रविष्टि
+गणनीय योग्य
+enus
+environment Data
+वातावरण
+environments
+ephemeral DiffieHellman
+ephemeral
+equals sign
+equals
+समीकरण
+equestAnimationFrame
+era of
+erase
+error console
+error creating
+error refiling
+रुटि
+errorCode
+errorfree
+त्रुटि
+erver
+es Salaam
+es
+esES
+esc
+escape
+escaped
+escaping
+establish
+established
+estimates only
+estimates
+etc
+eval
+evaluate selected
+आकलन
+evaluating a
+evaluating an
+evaluating
+evaluation
+expandstrict
+event Handler
+event
+eventThe
+events
+ever
+every dayevery
+every weekevery
+every
+everyone
+everything inbetween
+इनके
+everywhere
+सटिक
+मनमुताबिक
+examf
+s
+examine
+उदाहरण
+examplecom rather
+examplecom
+examplenet
+exceed five
+exceed the
+exceed
+exceeded
+exceeds
+except
+exception
+exceptions Cookies
+exceptions
+exchange
+excluded
+उपसमूह
+exclusion
+executable
+execute
+executed to
+executed
+executes
+इंतज़ार
+exemplary
+exist can &apos
+exist
+existing
+exists
+existsWould
+निकलने
+exited
+exits
+expand panes
+expand
+expanded to
+विस्तारित
+expanding out
+expanding
+expands to
+expands
+expandstrict
+expect anonymous
+expect
+expectations
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+expected
+expecting
+बढ़ावा
+experienced
+experiences
+experiencing
+experiment
+रायोगिक
+experiments
+expire
+समय समाप्त
+expires Seconds
+expires
+expiry
+explicit
+explicitly specify
+explicitly
+exploit
+explore a
+explore
+export regulations
+यात
+यातित
+expose
+exposedProps
+express
+expression
+expressions
+extend
+extended
+extending the
+extending
+extends system
+extends
+विस्तारयोग्य
+extension extensions
+extension
+extensions
+external Editors
+external storage
+बाहरी
+extra Large
+extra requirements
+extra
+Extract error
+निकालने
+extraction error
+extraction
+extreme
+f
+face
+facing camera
+फेसिंग
+factory
+यत
+failed
+समझें
+fails
+विफलता
+फालबैक
+ गलत
+गलत
+familiar
+family addressbr
+family
+far
+साख
+faster
+faves
+faxed
+feature
+सुविधाओं
+feb &#124
+feb
+february
+feed &quot
+feed Subscriptions
+feed
+feedImported
+feedback
+feeds
+feel
+feels great
+feels
+fell
+बाड
+fetch count
+fetch
+fetched from
+fetched
+fetching individuals
+fetching more
+fetching
+few
+fewer
+ff &quot
+ff
+field Value
+field
+fields
+fifteen
+fifteenth
+fifth
+fig
+चित्र
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+छम
+filename
+files
+filesystem
+filing
+fill out
+भरण
+fillStyle
+filled
+filling
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+फ़िल्टर
+filtered
+filtering
+filters
+final
+financial
+find In
+find exactly what you &apos
+find out what &apos
+ूढ
+findbar
+finding
+finetuned
+finish
+finished evaluating
+finished
+finishing
+fire
+firefox
+firefoxapps
+फायरवाल
+firewalls
+first option
+first party
+पहली
+सटीक
+पांच
+fix
+fixed Width
+fixed width font
+fixed
+fixvideoaudioproblemsfirefoxwindows
+flag
+flagged
+flame
+flash
+flashing
+flat equation
+समतल
+flexibility and security so you &apos
+flexibility
+flexiblebr
+floating &quot
+floating
+floor
+floppy
+flr
+focus Variables
+focus
+फोकस
+folder &apos
+folder &quot
+folder subscriptions
+folder
+folders
+follow
+followed by
+followed
+followers
+following protocols S isn &apos
+following
+follows
+followup
+font Control
+font size
+font
+fontface rule
+fontface
+fontfeaturevalues
+fonts for
+ॉन
+fontvariant property
+fontvariant
+footer text
+पादिका
+footinmouth face
+footinmouth
+for &apos
+for &quot
+for Clearing
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+for recipients &apos
+for signing
+for writing
+for
+forbidden
+रिम
+जोर
+forcibly
+forcing all
+संतान
+foreign
+forgeries
+धोखेबाजी
+जाइए
+forgetting
+forgotten
+form Field
+form Post
+form fields
+form userhost
+फॉर्म
+format
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+formatSNew
+formats
+formatted as
+संरूपित
+formatting
+formdata on
+फार
+formed
+forms are
+forms
+forth and
+forth
+forums
+forward slashes
+forward
+forwarded
+forwardmsg
+forwards
+found
+foundout of
+foundout
+founds
+four
+fourteen
+fourteenth
+fourth
+fox jumps over your expectations with
+fox jumps
+fox
+एफपीएस
+frFR
+इन्हीं
+भिन्न
+fragment Shader
+fragment
+frame &apos
+ढाँचे
+framed
+रेमरेट
+frames
+frameset
+framesets
+framing
+fraud
+fraudulent
+free
+frequently
+सिरे
+friday &#124
+friday
+fridays
+friend
+friends
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+से
+front facing
+front
+frown face
+frown
+जड़ीकृत
+ftp
+ftpmyispcom
+full
+fullfeatured
+fullpage
+fullscreen
+fully
+समारोह
+functional
+मकता
+functions
+further
+future scans by
+उज
+fxp Available
+फैटेंसी
+gain
+घा
+garbage Collection
+garbage collection
+कूड़ा
+garbled text
+garbled
+gateway
+इकट
+gazed
+gb
+gdiplus
+gear icon
+gear
+general Notification
+general
+generally
+generate a
+generate
+generated
+generation
+generator
+generic Photo
+generic
+geoenabled preference
+geoenabled
+जियोलोकेशन
+geometric
+geometry visibility
+यामिति
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+मुझें
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+getAttributeNode
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+getting
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+give
+given
+gives you
+gives
+giving
+glitches
+लोब
+global Composing
+global community
+वैश
+globals
+go Back
+लाइऩ
+goes
+going online
+going
+gone
+good news
+good
+भाव
+gopher
+gorithm Identifier
+got it
+got
+governed by
+governed
+grace
+grant
+granted
+grants you
+grants
+आलेखी
+राफ़िक
+great
+greater than
+greater
+greeting
+grew more
+grew
+grid
+ग्रिड सेल
+ग्रिप
+समुह
+बनता
+groups
+gt
+gtgt
+guarantee that
+guarantee
+guaranteed
+guess
+guessed
+guessing
+guest is
+guest
+guide you
+guide
+गाइड
+h
+hTraduction
+ha
+hacking
+had its
+had
+half an
+half past
+half
+hand tool
+hand
+handle S
+handle
+handled
+handler command
+handler
+handles
+हैंडलिंग
+hands
+हैंडशेक
+handshakes
+hang Report
+hang stacks
+hang
+झूलने
+happened
+happens
+hard drive
+hard
+hardware H
+hardware acceleration
+hardware
+नुकसान
+हानिकारक
+has Attachments
+has bookmarked
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+has
+हैश
+hashes in
+hashes
+hashsource
+hasn &apos
+परिचित
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+हैंआपके
+haven &apos
+haven
+haves
+having trouble
+having
+head
+शीर्षिका
+षका
+heading level
+शीर्षक
+headings
+health
+heap
+hear
+ऊँचाई
+held
+hello extension
+hello
+help
+helper
+helpful
+helping make
+helping
+helps ma
+helps
+her
+here
+छिपा हुआ
+hide Statistics
+hide Toolbars
+छिपाने
+hiding
+high Grade
+यधिक
+higher level
+higher
+highgrade
+उभारने
+highlighted
+highlightedS nodes
+आलोकितS
+हाइलाइटर
+आलोकन
+highly recommended
+तरीय
+hightailcom
+him
+hints press
+हिंट
+his or her
+his
+history window
+history&apos
+साफ़
+hold
+holds
+home City
+home Country
+home Phone
+home directory don &apos
+home
+homepage
+hop limit
+hop
+horizontal lines
+षैतिज
+horror
+कुंजीपिंस
+मेजबानी
+hosting service
+hosting
+hostname
+hostnameport
+hostnames
+hostport
+hosts
+hotspots
+hour
+घंटाघंटे
+घंटे
+how
+however
+href
+hrink
+hrpd
+hstrike
+htm
+html &apos
+html
+htmlstrong
+htmlstrongकुकीज
+htmlstrongइतिहास
+htmlstrongटैब
+htmlstrongविंडोज
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//fusiongooglecom/addfeedurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http
+https//boxescom/external/widgetreferffurls
+https//composemailyahoocom/Tos
+https//developermozillaorg/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad
+https//mailgooglecom/mail/extsrcmailtourls
+https//wwwmibbitcom/urls
+https
+ह्यू
+hundred
+hyphens
+iOS
+टिपटिपाएँ
+icons for
+आइकॉन
+id
+identifier
+identifiers
+identifies
+पहचानने
+आपत
+idle
+परयानी
+if
+iframe
+नजरांदाज
+image
+छवियाँ
+imgmap
+इम
+imgurcom
+imitate
+immediately
+implement
+implicitly
+implied
+import
+महत्वपूर्ण
+imported
+impossible
+अनुचित
+सुधारने
+इंच
+इंच
+incidental
+include
+लुडसबडोमेन
+included
+includes
+including
+आगत
+incompatible
+incorporates
+बांया
+संवर
+जितना
+index
+अनुक्रमणिका
+indicating that
+indicating
+indirect
+individual
+ined
+inefficient
+सूचनापट
+सूचनाओं
+inherit
+आरंभिक
+initialize
+जररूत
+इनलाइन
+ेगी
+इनपुट
+असुक
+inside
+मुआयन
+install Maintenance
+संस्थापित करें
+थापना
+installed
+installer
+संस्थापित किया जा रहा है
+नजरंदाज
+बदले
+रोलोग
+instructions
+पूर्णांक
+integrated
+वसनीयता
+मानना
+वांछित
+अनपेक
+interface
+इंटरफेस
+intermediate
+आंतरिक
+internet
+वचित
+आएँ
+उलझाने
+अवैध
+कंपोज
+isindex
+isn
+isoutfxgbkbigisojpshift_jiseucjp
+issued
+गतकर
+तौर
+नतीजतन
+item
+तुयें
+iteration
+रहते
+itself
+javascript
+jslintस
+कूदा
+जंक
+jurisdictions
+just
+kb
+key
+कुंजीपटल
+keyframes
+keyword
+keywords
+knock on
+knock
+बताएँगे
+knowledge
+known
+लेबल
+language
+किप
+अाखरी
+late
+later
+नवीनतम
+लाँच
+law
+laws
+लेआउट
+जानना
+leave
+बायें
+lefttoprightbottom
+पुरातन
+लंबाई
+less
+चलिए
+lets
+lft
+li
+liटाइपिंग
+liयदि
+liकृपया
+li
+liपृष
+liयह
+liवेब
+liability
+liable
+लाइब
+licenses
+licensors
+जीवनसीमा
+हल्कापन
+होगाजैसे
+liliClick
+liliPress
+परिसीमित
+limitation
+limits
+line
+कड़ी
+linked
+ियों
+सूची
+listed
+रोता
+लिटरल
+lnk
+load
+लोड हो गया
+लोडिंग
+थानीय
+लोकलहोस
+location
+locations
+लॉक किया हुआ
+लॉग
+logged
+लॉगिंग
+login
+अंतरित
+लोगो
+के लोगो
+इतना
+longdiv
+longer
+looking
+आवृति
+ई
+lot
+यार
+निचला
+lt
+ltcanvasgt
+ltlt
+ltr
+मशीन
+made
+madruwb
+मद्रुव्ब
+मुख्य
+मरम
+बनाये
+विरूपित
+भावनापूर
+वाय
+manage CRLs
+रबंधित
+manager
+अनिवार
+मैनिफ़ेस
+ऐडओन
+manifestwebapp
+मैनुअल
+manually
+many
+मानचित
+mapping
+
+हाशिया
+mark the
+mark
+वसनीय
+marking a
+marking
+कअप
+मार्की
+masking
+master
+match
+matched by
+खाया
+matcheleatchMore than
+matches
+हाइलाइट
+matchutomatically
+material
+math table
+गणित
+matrix
+अधि
+maxage
+maximum Length
+maximum permissible
+maximum
+may discontinue
+may update
+may
+maybe
+mb of
+mb
+mbox
+me out of here
+यहॉँ
+mean slower message
+मतलब
+means you &apos
+असफलएक
+measure a portion
+measure a
+नापें
+आरेख
+measuring
+mechanism
+mechanisms
+media Sharing
+media
+medium
+meet
+member
+वालों
+membersonly
+memory map
+memory measurements
+मृति
+mentioning
+menu Bar
+menu bar
+menu
+menuPath
+menus
+merchantable
+merge Warning
+merge all
+merge
+mesh
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+संदेश
+messageDone
+messageIndexing
+messageS
+messagebr
+messagebrIn
+messageeml
+messagegt
+messageid
+messages Reopen
+messages
+messaging
+meta
+metadata
+metal posteriors
+metal
+metaviewport tag
+metaviewport
+गुणता
+method &apos
+method
+हैGET
+methodPOST and
+हैPOST
+methodpost
+methods
+रोफोन
+microsummary
+middle Eastern
+middle
+might
+migrate to
+migrate your
+migrate
+migrated
+मिलीमीटर
+millisecondPing
+milliseconds
+mimetype of
+माइमप
+मिनट
+mind
+minheight
+minimonth
+minimum
+minjs
+सूक
+mins
+minute minutes
+minute
+minuteEvery
+मिनटमिनट्स
+minutes ago
+minutes …
+minutes
+minwidth em
+minwidth
+misconfiguration
+कुविन
+संगतता
+असंतुलन
+mismatched tag
+बेमेल
+missed reminders
+missed
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+अनुपस
+misspelled word
+misspelled words
+misspelled
+mistake
+गलतियों
+mistyped
+mix
+मिश
+अधिकmmultiscripts
+मोबाइल
+mode and can &apos
+यकारी
+modegt
+मॉडल
+modelview
+moderated
+moderator
+modern
+modes
+modified
+modifier
+modifiers
+modify
+module returned
+module
+modules
+moduli
+moment
+momentarily
+moments
+monday
+mondays
+moneymouth face
+moneymouth
+monitor
+month
+monthS of
+monthS
+monthevery
+monthly
+months
+more bookmarks
+more powerful
+more savings
+आपे
+अधिकऔर
+जानेंx
+more…
+most Visited
+most accurate
+most popular
+most
+mostrecently
+mouse Wheel
+mouse
+move Down
+move Up
+move away
+move emswiftly
+खिसकाएँ
+moveable
+moved renamed or deleted
+moved renamed
+निकल
+movedS
+movemail
+moving
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+mozVisibilityState &apos
+mozVisibilityState
+mozcmd directory
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+mozillaorg
+mozinlinebox display
+inlineblock
+mprescripts
+ms
+एमएस
+msf
+msgFilterRulesdat file
+msgFilterRulesdat
+much
+multiline
+multimedia
+multiple links &quot
+multiple
+multiplied And
+गुणा
+multiplied
+बहुप
+multiweek
+संगीत
+must involve
+रोटोकॉलमें
+my &quot
+my Cert
+my Projects
+my Quick
+my Task
+my Yahoo
+my windows
+my
+mypagehtml &quot
+mypagehtml
+myusername&apos
+n
+nWhen your
+nWhen
+name &quot
+बांधना
+nameSource
+named anchor
+named either
+Named
+names
+नेमस
+namespaces
+narrowing
+native code
+देशी
+natively
+navigate
+नेविगेट
+संचरण
+navigation Toolbar
+संचरण
+navigatorbattery
+navigatorgetBattery
+navigatormozGetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+near
+देंगे
+nearest
+necessary
+पड़ेगी
+हीप
+needing to
+needing
+needs
+negate
+नकारा
+नकार
+negative
+negotiate an inadequate
+negotiate
+negotiating a
+negotiating
+निगोशियेशन
+neither
+nested Table
+जालबद
+nesting
+netnz /
+netnz
+netscape
+netscapepublicmozillamailnews&apos
+network Monitor
+network Timeout
+network drive
+network section
+संजाल
+never Show
+चलायी
+new Caledonia
+new Separator
+new Tab
+new Zealand
+new home
+new word
+नव
+newer
+news client
+खबर
+newsexamplenet
+newsgroup subscriptions
+newsgroup
+newsgroups
+newsrc File
+newsrc file
+newsrc
+next gt
+अगली
+बावजूद
+nick
+उपनाम
+nicknamegt Change
+nicknamegt
+nicknames
+nicks
+nightly
+nikto
+nine
+nineteen
+nineteenth
+ninth
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+नहीं
+noMac
+noWin
+nocors&apos
+nocors
+node
+nodeShow all
+nodeShow
+nodeValue
+नोडलॉक
+नोड
+nominative
+non Participant
+non
+nonASCII
+nonFORTEZZA Certificate
+गैरFORTEZZA
+nonGregoriancalendar
+nonResponse
+nonUTF encoding
+nonUTF
+nonascii character
+nonascii
+noncesource
+noncharacter
+कोई नहीं
+nonempty
+nonfunction pseudoclass
+nonfunction
+nongeneric
+nonincremental Cause
+बढ़तविहीन
+nonleaf
+nonmultiprocess
+गैरनेविगेशन
+nonnegative
+nonparticipant
+nonprintable character
+nonprintable
+nonprofit Mozilla Foundation
+परे
+nonspace in
+nonspace
+nonstandard
+nontext
+nonvoid
+noon
+nor
+normally
+noscript
+nosniff
+nostore
+not After
+not Before
+not Connected
+not Critical
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+not Installed
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+not checked
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+मिट
+notation be unescaped
+notation be
+notation
+note Slow
+नोट
+notes
+nothing
+notice
+चले
+notification Permissions
+notification _
+notification
+notifications
+notified
+notifier or
+notifier
+notify me
+notify
+पण
+nounclass
+nov &#124
+nov
+november
+now doesn &apos
+now
+npmmailnews&apos
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+उसी
+nsIWritablePropertyBag
+नम
+number
+numbered
+numbers negative
+numbers
+अंश
+numeric
+nursery Collection
+nursery Eviction
+नर
+obj Properties
+obj
+object Stores
+object
+objects
+obscured
+observed
+observers
+obtain
+occur
+occured
+occurred
+occurrence of
+उपस
+occurrences
+occurs
+oct &#124
+oct
+october
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+of Man
+of Office
+of Operation
+of Sync
+of Validity
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+का
+ofbr
+off paint
+बंद
+offer
+पेश
+offering
+offerings
+offers
+offerxA »
+offline
+offline_apps
+offsets
+often
+ok
+old
+older than
+older version of Sync
+older
+oldstyle YouTube
+oldstyle
+omitted
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+पर
+रहीत
+one Level
+one moreand
+साइज
+oneoff
+ones
+oneshot
+oneubuntucom
+ongoing
+online
+only reloads
+only supports
+only transmitted
+only
+हैंbr
+opacity in
+शकता
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opcode
+open Web
+open WebIDE
+खोलें
+खुला
+opening fence
+ओपनिंग
+opensource
+operating system
+operating
+operation command
+operation failed
+operation
+operations error
+operations
+operator expected
+ऑपरेटर
+operators
+अवसर
+opposed
+optimization
+optimizations
+optimized away
+optimized
+optin No
+optin
+option Group
+विकल्प
+optional defaultS
+वैकल्पिक
+optionally
+options
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+या 
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+order
+organization
+संगठनों
+organizer
+origin
+originAttributes
+original
+originally
+originals
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+other
+others
+otherwise it
+otherwise
+our geolocation
+our partners
+our
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+out
+outage
+outdated
+outgoing
+ख़ाका
+outlook
+outofdate
+output folder
+आउटपुट
+outside
+over other apps &apos
+ऊपर
+overhead
+अभिन
+अधिरोहित
+override the viewer &apos
+ओवरराइड
+overriding
+ओवरस्क्रिप्ट
+overview
+overwrite
+अधिलिखित
+own
+owned
+owner of
+तराधिकारी
+ownerElement
+owners
+ownership
+p pIf
+p
+pA secure
+pA
+pAdditional information
+pAdditional
+pAttack pages
+pभेद
+pDeceptive sites
+pभ
+pEntering any
+pEntering
+ppयदि
+pThe browser
+pThe page
+pThe requested
+pकनैक
+pThese types
+pThese
+pThough
+pअवांछित
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pआपको
+pYour
+संकुल
+पैकेजयुक
+पैकेट
+पैडिंग
+page &apos
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+page translation
+page }
+टिविटी
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+pages they &apos
+चुराते
+paint flashing
+पेंट
+painted area
+painted
+pair a
+pair
+फलक
+पट्टी
+पटल
+panes
+panning
+paper Size
+कागज
+paragraph Marks
+अनुच्छेद
+IV
+parameter entity
+parameter
+parameters
+paranoid
+parent Match
+parent Payload
+parent prefix
+जनक
+parse XML
+parse failure
+याख
+parsed
+parser state
+लेषक
+parsing
+part of
+part
+partial Update
+partial character
+आंशिक
+partially
+participant
+participants from
+participants
+participate
+particular purposes
+particular
+parties
+partner You
+partner
+partners We
+partners work
+partners
+partnership
+parts
+party
+partyAre
+pass
+passed to
+passed
+passive ’
+passive
+passwdtxt
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+password&apos
+टशब
+passwordLeave
+passwordStored
+passwordprotected
+रेडिट
+past
+चिपकाना
+patch apply
+patch
+पथ
+paths starting
+paths
+pattern &apos
+pattern
+ठहराने
+paused —
+रूका
+payload
+payment provider
+payment
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+शांति
+peer &apos
+पीयर
+peers &apos
+peers
+pending dump
+स्थगित
+people &apos
+people wouldn &apos
+लोगों
+per
+percent
+percentage of
+रतिशत
+percnt Completed
+percnt
+perform caseinsensitive
+perform querySelectorAll
+perform
+यकुशलता
+performed Trying
+performed
+performgt
+performing
+periodically
+permanent exception
+permanent
+permanently deleted
+permanently
+permissible length
+permissible
+permission denied
+गयाS
+permissions
+permit
+permitted
+persistent logs
+persistent
+person &apos
+person who holds
+person
+personal Card
+personal
+personalhttp//wwwmozillaok
+ढालने
+phasang
+फेजोर
+यांश
+उठाओ
+वीर
+पिन
+दिलाएँ
+मैच
+सेल
+सादा
+गेको
+बजाएँ
+लेबैक
+कृप
+लगिन
+पोडकास
+तेवाज
+इंगित
+policies for
+policies
+policy
+poly
+पॉप
+पोर
+position
+possible
+पुनरावर
+DOMWindow
+potentially
+तिशाली
+ppवेब
+करन
+ppकुछ
+precaution
+pref
+prefer
+वरीयताों
+preferonline
+उपसर
+लाइट
+तैयारी
+prescanning
+दबाया गया
+दौड
+प्रीसब
+प्रीसबस्क्रिप्ट
+प्रीसब
+प्रीसुपरस्क्रिप्ट
+prevented
+रतिबाधित
+एम
+previous
+previously
+कीमत
+primev
+छापने
+printable
+prior
+निजता
+राइवेट
+अधिकारीत
+probably
+कठिनाई
+proceed
+process
+रोसेस
+product
+products
+रोफाइ
+ाइलर
+रोफाइलों
+रोफाइलिंग
+program
+रमों
+progress
+prohibited
+रोजेक
+वादा
+सहजेने
+properly
+properties
+protection
+protocollevel
+provide
+provided
+providers
+provisions
+राक
+pseudoclass
+गों
+pseudoelement
+pspan
+public
+publicly
+रकाशित
+पुल
+pulliक
+pulliAs
+pulliIs
+punitive
+खरीदें
+purposes
+कंट
+px
+q
+quality
+वैरी
+आम
+कतार
+नारंगी
+quit
+quote
+rad
+उग्र
+रेडियो
+रिज
+रमहीन
+दायरा
+लगायें
+कच
+फॉरवर
+एपीआई
+reached
+पढें
+पठन
+केवल पठनीय
+Ready
+रियल
+reboot
+सबके
+received
+recommended
+सुइाव
+रिकार
+डिंग
+rect
+बारबार
+पुनरावृति
+पुनरावृत
+redirect
+देशित
+reference
+भित
+यूआरआई
+रिफ
+regexp function
+regexp
+क्षेत्र
+पंजीकृत
+registering
+विनियमन
+रीइमेजिनेड
+औज़ार
+relating
+relationship
+षाकृत
+रिलीज
+releaseEvents
+रासंगिकता
+रासंगिक
+reload
+reloaded
+फिर से लोड किया जा रहा है
+जुडा
+शेष
+remember
+दूरस्थ
+हटाएँ
+removeAttribute
+removeAttributeNode
+removeEventListener
+removed
+नामकरण
+रेंडर
+गाया
+रेंडरिंग
+Renegotiation
+आकृति
+सुधारा
+reparsed
+आवृतिautofill
+आवृतिautofit
+दोहराता
+replacing
+रतिवेदन
+रिपोट
+reporter
+reporting server
+reporting
+reports
+reporturi
+requested
+निवदेन
+आवेदन
+जरूरी
+rerequest
+अपर
+reserve
+आरक
+रिसेट
+विभदन
+देखो
+resource
+responder
+response
+responseType
+आऱंभ
+restarted
+पुनःस
+restored
+result
+resultShow
+results
+retrieve
+retrieved using
+retrieved
+पुनःप
+returned
+तिजनक
+समीक
+समझ
+rgb
+rght
+सही
+rights
+ोखिम
+बढ़ेसावधान
+risky
+rndbox
+root
+रूट
+गोल
+पंक्ति
+rr
+rtl
+ruby
+rule
+रूलर
+नियमों
+चलाएँगे
+running
+चलता
+रिकनेक
+लेटफार
+safe
+गारंटी
+same
+नमूने
+सैंडबक
+सैंडाक
+संतृप्ति
+कुष
+सहेजा
+‍
+बचत
+कहता
+अनुमापित
+घोटाला
+कैनर
+कैनिंग
+scope
+रैचपैड
+screen
+screenshot
+script
+स्क्रिप्टेड
+लिपियों
+मोहरबंद
+खोजें
+searchable
+खोज
+Searching
+sec
+सेकेंडTime
+expires
+सेकेंडसेकेंड्स
+secpk
+secpr
+खंड
+sectk
+sectr
+secured
+राथमिकता
+See
+seeing doctype
+seeing
+seek
+खोज रहा है
+seem
+seems
+seen but
+seen
+select &quot
+select camera
+select
+selected line &apos
+चयनित
+भेजेगा
+selection
+selections above
+selections
+selectlabel
+चयनक
+selectors separated
+सेलेक
+selects
+वहस
+semicolon
+send Feedback
+send For
+send
+sender &apos
+sender message
+sender
+Sending
+sends
+sensitive
+sensitivity
+sent Cookie
+तीसरे
+sep &#124
+sep
+separate tags
+separate
+separated
+E
+separating
+separator character
+विलगावक
+sept
+september
+sequentially as a waterfall
+भांति
+serial Number
+serial number
+serial
+series
+serif
+server &apos
+server Quota
+server SMTP&apos
+server incorrectly
+server maintenance
+server that can &apos
+server
+servers Maybe
+servers
+serves
+service providers
+service worker
+service
+services
+serving
+session ID
+session Id
+session Statistics
+session cache
+session
+sessions
+set Priority
+set browsercachediskenable
+set strokeStyle
+set
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+setTimeout
+setUserData
+setVelocity
+sets
+setting
+settings &#124
+settings&apos
+नविन
+setup options
+setup
+seven
+seventeen
+seventeenth
+seventh
+several ways
+several
+shader Editor
+shader compile status
+shader compile
+shader
+shadows variable
+शेडो
+shall control
+shall
+shape &quot
+shape
+शेयर
+shared Workers
+shared
+ sharedLongDesc
+sharedLongDesc
+shares
+बांटने
+शीट
+sheets
+शेल
+चिन
+shiftKeylabel
+shiftclick
+shiny metal posteriors which
+shiny
+shopping
+जन
+बनाएं
+shortcuts
+shorten this
+shorten
+shorter file
+shorter
+shortly
+shortname
+should keep
+should make
+should
+shouldn &apos
+shouldn
+show Cookies
+Show resultShow
+show through
+यायक
+showall &apos
+showall
+showing repairing
+showing
+दिखाया
+shownReplies
+रचालन
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+shutdown
+shutting down
+shutting
+sibiling
+side
+ू
+sidebarName
+sidebars
+sign in
+साइन
+signal
+signature algorithms
+नेचर
+signatureAlgorithm
+signatures
+षरित
+signer &apos
+signer
+signers found
+signers
+significant
+signing certificate
+signing
+signup
+silence
+silently authenticates
+silently
+similar
+साधारण माप
+simple XLink
+simple
+simplified
+simply need
+वसर
+simulation
+simulator installed
+अनुकारक
+जबसे
+लपेटा
+singlesignon
+site &apos
+site doesn &apos
+साइट
+sitename &apos
+sitename
+sitenat
+sites
+six
+sixteen &#124
+sixteen
+sixteenth
+sixth
+आकारः
+sizes
+skip Integration
+skip this
+skip
+Skipped
+skips
+slash operators
+slash
+slashes ie
+slashes
+slice
+स्लाइड
+लॉट
+slots
+slow Motion
+धीरे sql
+slow down
+slow ×
+slow
+slowing
+slowly
+small
+smaller
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+smiley
+smooth scrolling
+smooth
+smtpexamplenet
+snapshot
+snapshots
+snews
+so it &apos
+so it can &apos
+so you &apos
+लेेने
+soap
+socket
+software makers
+सॉफ
+solid Border
+solid circle
+solid
+solution
+solutions
+solve a
+solve
+some cool
+some printing
+some sample
+some unspecified
+some
+somebody &apos
+somebody
+someone isn &apos
+someone
+Something
+sometimes
+somewhere earlier
+somewhere
+soon
+sorry BrandShortName can &apos
+sorry we &apos
+sorry
+छाँटने
+sound file
+sound
+sounds like
+sounds
+source software
+source
+रोतों
+space Fantasy
+space between
+space
+spaces
+spam
+span class &apos
+spanसुरक
+spanThis
+spanbrandShortName
+spanअक
+spanenabled
+फैला
+spanspan
+speak now
+बोलें
+speaking
+spec in
+spec
+special incidental
+special kinds
+special
+specific command
+विशिष
+specifically
+विनिर
+दिष
+specifies
+specify preferred
+लिखित
+specifying a
+specifying acceptcharsetutf
+specifying
+लोच
+speedOfSound
+spell checking
+spell
+spellchecker
+पेलिंग
+खर
+यतीत
+spin button
+spin
+split
+sponsored
+spool
+पाईवेयर
+एसक्यूआरटी
+square root
+square
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+थिरता
+स्थिर
+stack trace
+stack
+stacks
+अलगथलग
+standard time
+standard toBlob
+standard
+standards mode
+standards
+सितारा रेटिंग देकर
+सितारा
+starred
+start Debug
+start Simulator
+start
+started finding
+started
+starting with &apos
+starting
+startlabel
+startmozillaorg
+starts
+टअप
+state
+कथन
+statements
+statistics about
+statistics
+सांख
+status &apos
+status bar
+status
+stay
+steal
+step Over
+चरण
+stepped through
+stepped
+टेपिंग
+steps out
+steps
+नज़र
+stolen
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+stop
+stopped
+stopping
+stops
+storage quotas
+storage
+storages
+डारण
+stored
+stores information
+stores
+storing
+रीम
+strength
+strict protection
+strict
+रहार
+string literal
+स्ट्रिंग
+strings or
+strings
+strokeStyle
+strong
+strongऍप
+strongDevice
+strongThe Book of
+strongThe Book
+strongThe
+stronger Emphasis
+मजबूत
+strongexamplecom
+stronghttp
+strongly recommends
+पुरजोर
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+structure
+structures
+studies
+study Findings
+study
+style Editor
+style Inspector
+style endexpand
+style sheet
+style
+शैलियों
+लौड
+stylesheets
+stylesrc
+सब
+subdirectory
+subdocument
+subdomain
+subdomains
+subfolder
+subfolders
+सबग
+उपसमूहों
+subject Reminder
+subject
+submission to
+submission
+submit Query
+submit bugs
+submit information that &apos
+सबमिट
+सौंपता
+submitted
+submitting your
+submitting
+subresource
+subscribe Calendars
+सदस
+subscribed
+subscribedImported
+subscribing
+सबस्क्रिप्ट
+subscription
+subscriptions
+subsession data
+उपसत
+substituting
+subthread
+subthreads
+subtree
+सफल
+succeeded
+successful
+successfully Transmitted
+successfully
+such
+suddenly
+sufficient
+suggest
+suggested Contribution
+suggested Tags
+साइटे
+suggestion
+suggestions
+suggests
+suit
+suitable
+सूइट
+suites are
+suites
+जोड
+summary file
+summary
+summoned
+sunday
+sundays
+एसयूपी
+superscript pair
+सुपरस्क्रिप्ट
+superseded by
+superseded
+पुनरीक
+supplied
+supply alternate
+supply identity
+supply publishing
+आपूर
+support Resources
+support certificates
+अविरोधिक
+supported
+supporting
+supportmozillaorg
+रचार
+दृढ़
+surface area
+सतह
+surprised face
+surprised
+surrogate
+surrounding environment
+आसपास
+survey is
+survey
+susceptible
+suspected
+suspicious
+sutomatically
+svSE
+svg
+switch to
+बदलें
+बदला हुआ
+switching
+symbol
+रतीकों
+sync them
+sync
+syncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+समकालीन
+synchronization
+synchronize
+synchronous
+syncing
+synctitlepairlabel
+syntax Highlighting
+यरचना
+system Integration
+system beep
+तंत्र
+systemDate &apos
+systemDate
+systems this
+systems
+t believe
+t delete
+t
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+टैब
+tabSharing
+tabdelimited tab
+tabdelimited
+table &apos
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+table rows
+सारणी
+टैबलेट
+tabs
+tabtxt
+tag
+tagged
+tagname
+जोड़
+take up
+चालों
+शॉट
+takes
+taking too
+लेता
+talk
+छेड
+tapping
+target
+targeted document
+targeted
+task
+taskThe
+यपट
+tasks
+tastes
+टीबीएल
+technical Details
+technical
+technique
+techniques
+रौद
+टेलिफोन
+tell websites
+बताएं
+tells
+template
+templates
+temporarily
+temporary outage
+temporary
+ten
+tename &apos
+tentatively
+tenth
+tenured objects
+तुओँ
+ter Lock API
+term &quot
+शब्द
+terminate a
+terminate
+terminated by xslmessage
+terminated
+termination
+terms
+test
+testics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+मूलशब
+textContent attribute
+textContent
+textonly
+texture source
+texture
+th
+than minimum
+than
+thank
+thanks for
+thanks
+s
+that can &apos
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+खाने
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+the Grenadines
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+the emtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+the visualization
+the webapp manifest isn &apos
+the webapp
+the wildcard
+the windowconsole
+दाहिने
+theft
+their defaults
+ओन
+रतापूर
+theme
+themed
+themes
+then touching
+then
+there &apos
+कृत
+therefore
+these organizations
+these
+they &apos
+they expire
+they require query
+they
+things you
+तविधि
+think I &apos
+think
+thinkers
+सोच
+thinks
+third Party
+third parties
+third
+thirdparty cookies
+thirdparty software
+thirdparty
+thirteen &#124
+thirteen
+thirteenth
+thirtieth
+thirty &#124
+thirty first
+thirty one
+thirty
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+बदलता
+thisIf
+thisa
+those
+though
+thought
+thousands
+thread &quot
+thread Hangs
+thread killed
+thread watched
+लड
+threads
+three
+threw
+through inaction
+रियता
+thunderbird
+thursday &#124
+thursday
+thursdays
+ticket was
+ticket
+ties
+til &#124
+til
+tile replacing
+tile
+tiles
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+खोलो
+timeOccurs
+timed Out
+timed
+timedout
+टाइमलाइन
+timelines
+यांतर
+timer Name
+timer started
+टाइमर
+timers in
+timers
+पहुँचने
+बाजूपट
+टैंप
+timestamps
+timezone &quot
+timezone
+timezonepersonalg
+timezoner message doesn &apos
+title
+to Import
+to Us
+to getElementById
+को
+प्रति
+टॉगल
+token
+too
+औज़ारपट्टी
+ारपेटी
+टूलटिप
+टूलटिप
+शीर्ष
+कुल
+छुएँ
+towards
+रेसः
+नजर
+नाहि
+रैकर
+रेडमार
+trailer
+लेनदेन
+transfer
+रूपांतरण
+transformations
+translate
+translated
+रंबंधित
+treated
+treating
+tree
+विघ
+true
+सही
+trust
+bहालाँकि
+आजमाने
+trying
+turn
+दो
+txtarea
+type geoenabled
+type
+टाइपिंग
+टाइपो
+u
+uबाहर
+ul
+ulliक
+unable
+unacceptable
+unassigned
+अनधिकृत
+अनुपलब्ध
+unbalanced
+uncheck
+बिना जाँचा
+आइकॉनS
+unclosed
+uncompressed record
+uncompressed
+अपिरभाषित
+pref
+नीचे
+अंडरस्क्रिप्ट 
+understand
+सिंकिंग
+खिसकाएगा
+unenforceable
+unescaped
+unexpected
+गैर आरंभीकृत
+विसंस्थापित करें
+uninstallation
+uninstalled
+uninstaller
+अनजाने
+इकाई
+बेनाम
+अज्ञात
+unless
+कठिन
+असीमित
+ीविहीन
+लगाया
+unquoted
+unrecoverable error
+unrecoverable
+अपंजीकृत
+unresolved
+unsafe
+अचयनित
+अनसेट
+अनिर
+अस्थिर
+निवेश
+until
+बेईमान
+असत
+up
+update
+यतित
+updates
+updating to
+updating
+ऊपर विकर्ण रेखा
+updiagstrike
+उन्नत करें
+upload
+uploaded
+uptodate
+url
+urlprefix
+us
+उपयोगी
+usage
+अपग
+used
+user
+username
+संंबंधित
+uses
+using
+रायः
+utf
+उपयोगिता
+utomatically
+v
+वैध
+validation
+validity
+वैल
+चर
+रेता
+ vendorShortName
+vendorShortName
+पहचाना
+जाँचकर
+संस्करण
+कऱण
+लंब
+very
+कंपन
+वीडियो
+view
+दुसरो
+violate
+violates
+visibilityState
+visible
+visit visits
+Visit
+देखा गया
+आगंतुकों
+visits
+visualization
+visually
+vstrike
+इंतजार
+इंतज
+भेजते
+wants
+चेतावनीचेतावनी
+चेतावनी
+warranties
+वारंटी
+युद
+निकालदिया
+झरने
+way because
+way
+re sorry
+we
+ोर
+घातक
+webbased
+webpage
+फ़िगुरेशन
+websites
+ताह
+भार
+welcome
+सुगठित
+went
+were
+खोजना
+पहिया
+when
+चुनेंगे
+where
+सौंपना
+फाॅयरफ
+while
+वेत
+whom
+whose
+वाइल
+आजमा
+रबदलाव
+win
+window
+windowconsole
+windowcontent
+windowcontrollers
+विंडोड
+windows
+windowshowModalDialog
+wish
+साथसाथ
+withCredentials
+within
+without
+wizard
+परन
+work
+मिलकर
+world
+चिंता
+would
+रैपर
+wrappers
+लिखने योग्य
+write
+writing to
+writing
+written
+wrong
+wwwexamplecom
+wwwopenhorg
+xNN
+xhrspecwhatwgorg
+xml
+xmlns
+xdev
+xyxy
+y
+हाँ
+अबतक
+विचरने
+युवतर
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+your
+yourself
+yousenditcom
+zero
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+ाछोटा
+zooming

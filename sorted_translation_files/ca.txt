@@ -1,0 +1,10462 @@
+ rights …
+/Galapagos
+A ServiceWorker
+Jun
+AB _
+AB
+ACL
+ADB
+COMPLEMENTS
+TAQ TZ'AQAT
+AEC Logging
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ATT Mail
+ATT
+AUS
+AVA
+Aa
+Àà·Çç
+Aaiun
+Ababa
+Abandon unsaved changes
+Abbreviate
+Abreviació
+Abkhaz
+Abkhazian
+Abandona
+abandonat
+About Your
+Chi rij
+Quant a
+Above
+Accelerated
+Accent Lowercase
+Accent Uppercase
+Accentua
+Accepta
+Acceptance
+Accepted
+Access
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+essControlAllowHeaders
+AccessControlAllowMethods&apos
+AccessControlAllowMethods
+AccessControlAllowOrigin
+Accessibilitat
+Okel
+
+Account Settings &#124
+Compte
+Rub'i' taqoya'l
+Accountquot
+Comptes
+Accountspecific
+Account…
+Acrònim
+Acció
+B'anoj
+Samaj
+Actions
+Activa
+Titzij
+Activat
+Tzijïl
+Activations Directory
+activacions
+Actiu
+Activa
+Tzijïl
+Actively block
+Activitat
+Samaj
+Actual Size
+Adak
+Adapter
+Adapters
+Adb
+Afegeix
+Afegeixho
+Titz'aqatisäx
+Addició
+Tz'aqatisan
+Addis Ababa
+Addis
+Additional Tools
+Additional
+Simulator
+Addons Installed
+Complements
+Taq rutz’aqat
+Taq tz'aqat
+Taq tz’aqat
+Addr
+Address Book
+Address Books
+Adreça
+Ochochib'äl
+AddressBook
+Addressbook
+Adreces
+Ochochib'äl
+Adreçament
+Adds
+Afegeix…
+Adjust
+Administra
+Administrative Assistant
+Administrative limit
+administratiu
+Administrator
+Adobe Flash
+Adobe
+Advance
+Advanced Property Editor
+Advanced info
+Avançat
+Q'axinäq
+Avançades…
+Avançat…
+Taq Q'axinäq…
+Afar
+Àfar
+Affects multiple
+Affects
+Affiliation Changed
+Affiliation
+Afganistan
+Àfrica/Abidjan
+Àfrica/Accra
+Àfrica/Algers
+Àfrica/Asmara
+Àfrica/Bamako
+Àfrica/Bangui
+Àfrica/Banjul
+Àfrica/Bissau
+Àfrica/Blantyre
+Àfrica/Brazzaville
+Àfrica/Bujumbura
+Àfrica/El_Caire
+Àfrica/Casablanca
+Àfrica/Ceuta
+Àfrica/Conakry
+Àfrica/Dakar
+Àfrica/Djibouti
+Àfrica/Douala
+Àfrica/Freetown
+Àfrica/Gaborone
+Àfrica/Harare
+Àfrica/Johannesburg
+Àfrica/Juba
+Àfrica/Kampala
+Àfrica/Khartoum
+Àfrica/Kigali
+Àfrica/Kinshasa
+Àfrica/Lagos
+Àfrica/Libreville
+Àfrica/Lome
+Àfrica/Luanda
+Àfrica/Lubumbashi
+Àfrica/Lusaka
+Àfrica/Malabo
+Àfrica/Maputo
+Àfrica/Maseru
+Àfrica/Mbabane
+Àfrica/Mogadishu
+Àfrica/Monrovia
+Àfrica/Nairobi
+Àfrica/Ndjamena
+Àfrica/Niamey
+Àfrica/Nouakchott
+Àfrica/Ouagadougou
+Àfrica/PortoNovo
+Àfrica/Trípoli
+Àfrica/Tunis
+Àfrica/Windhoek
+Àfrica
+African Republic
+Central
+Afrikaans
+aj Africa
+Chi rij
+Després
+Again &quot
+Again
+Edat
+Agent
+Agregat
+Titz'aqatisäx
+Ago
+Agree
+Concordança
+Aires
+Akan
+Àkan
+Acrotiri
+Akrotiri
+Alarm
+Albania
+Albània
+Albanès
+aj Albania
+Alert dialog
+Alert record
+Avís
+Retal k'ayewal
+Algèria
+Argelia
+Algorithm Parameters
+Algorithm
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+Àlies
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Alinea
+Alineació
+Ronojel
+Tot
+Totes
+Tots
+Allman
+Allocated
+Allocation Trigger
+Allocation
+Assignacions
+Taq jachoj
+Allow First
+Allow autoplay
+Permet
+Ruya'ik q'ij
+Tiya' q'ij
+Allowed
+permetentho
+Allows
+Permet…
+Tuya' q'ij…
+Almost done
+Almost
+Alpha
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Malgrat
+Jantape'
+Junelïk
+Sempre
+Amèrica/Adak
+Amèrica/Anchorage
+Amèrica/Anguilla
+Amèrica/Antigua
+Amèrica/Araguaina
+Amèrica/Argentina/Catamarca
+Amèrica/Argentina/Cordoba
+Amèrica/Argentina/Jujuy
+Amèrica/Argentina/Mendoza
+Amèrica/Argentina/Salta
+Amèrica/Argentina/Tucuman
+Amèrica/Argentina/Ushuaia
+Amèrica/Aruba
+Amèrica/Asunción
+Amèrica/Atikokan
+Amèrica/Bahia
+Amèrica/Barbados
+Amèrica/Belem
+Amèrica/Belize
+Amèrica/BlancSablon
+Amèrica/Bogotà
+Amèrica/Boise
+Amèrica/Cancún
+Amèrica/Caracas
+Amèrica/Cayenne
+Amèrica/Cayman
+Amèrica/Chicago
+Amèrica/Chihuahua
+Amèrica/Creston
+Amèrica/Cuiaba
+Amèrica/Curaçao
+Amèrica/Danmarkshavn 
+Amèrica/Dawson
+Amèrica/Denver
+Amèrica/Detroit
+Amèrica/Dominica
+Amèrica/Edmonton
+Amèrica/Eirunepe
+Amèrica/Fortaleza
+Amèrica/Godthab
+Amèrica/Grenada
+Amèrica/Guadeloupe
+Amèrica/Guatemala
+Amèrica/Guayaquil
+Amèrica/Guyana
+Amèrica/Halifax
+Amèrica/Havana
+Amèrica/Hermosillo
+Amèrica/Indiana/Indianapolis
+Amèrica/Indiana/Knox
+Amèrica/Indiana/Marengo
+Amèrica/Indiana/Petersburg
+Amèrica/Indiana/Vevay
+Amèrica/Indiana/Vincennes
+Amèrica/Indiana/Winamac
+Amèrica/Inuvik
+Amèrica/Iqaluit
+Amèrica/Jamaica
+Amèrica/Juneau
+Amèrica/Kentucky/Louisville
+Amèrica/Kentucky/Monticello
+Amèrica/Kralendijk
+Amèrica/Lima
+Amèrica/Maceio
+Amèrica/Managua
+Amèrica/Manaus
+Amèrica/Marigot
+Amèrica/Martinique
+Amèrica/Matamoros
+Amèrica/Mazatlan
+Amèrica/Menominee
+Amèrica/Mérida
+Amèrica/Metlakatla
+Amèrica/Miquelon
+Amèrica/Moncton
+Amèrica/Monterrey
+Amèrica/Montevideo
+Amèrica/Montreal
+Amèrica/Montserrat
+Amèrica/Nassau
+Amèrica/Nipigon
+Amèrica/Nome
+Amèrica/Noronha
+Amèrica/Ojinaga
+Amèrica/Panamà
+Amèrica/Pangnirtung
+Amèrica/Paramaribo
+Amèrica/Phoenix
+Amèrica/PortauPrince
+Amèrica/Recife
+Amèrica/Regina
+Amèrica/Resolute
+Amèrica/Santarem
+Amèrica/Santiago
+Amèrica/Scoresbysund
+Amèrica/Shiprock
+Amèrica/Sitka
+Amèrica/Tegucigalpa
+Amèrica/Thule
+Amèrica/Tijuana
+Amèrica/Toronto 
+Amèrica/Tortola
+Amèrica/Vancouver
+Amèrica/Whitehorse
+Amèrica/Winnipeg
+Amèrica/Yakutat
+Amèrica/Yellowknife
+Amèrica
+American Samoa
+American
+Amarico
+Amhàric
+An
+Analysis …
+Analysis
+Analitza
+Tinik'öx
+Àncora
+Anchorage
+Ximöy k'o chupam
+Àncores
+And
+Andorra
+Android tablets
+Android&apos
+Android
+Android™
+Angeles
+Angola
+Anguilla
+Animate app
+Anima
+Animació
+Silonem
+Animacions
+Taq silonem
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AniversariNegocisTrucadesClientsCompetènciaConsumidorsPreferitsSeguimentsRegalsVacancesIdeesAssumptesReunióMiscel
+Anotació
+Announces
+Annoyances
+Another
+Answer
+Answers
+Antarctic Lands
+tierras
+Antàrtida/Casey
+Antàrtida/Davis
+Antàrtida/DumontDUrville
+Antàrtida/Macquarie
+Antàrtida/Mawson
+Antàrtida/McMurdo
+Antàrtida/Palmer
+Antàrtida/Rothera
+Antàrtida/Syowa
+Antàrtida/Troll
+Antàrtida/Vostok
+Antartida
+Antàrtida
+AntiVirus
+Antigua and Barbuda
+Antigua
+Antilles
+Antivirus
+Any
+AnyText
+Anywhere
+App can &apos
+Aplicació
+Chokoy
+validat
+AppCacheUtils
+Menú d'aplicacions
+AppName Uninstall
+AppName
+Appcache validated
+Appcache
+Aparença
+Aspecte
+Ruwäch
+Appendices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+Application
+Aplicacions
+Taq chokoy
+Aplica
+Applying update
+Applying
+Cites
+Aprovat per
+APPS
+Aplicacions
+Chokoyi'
+Rukaj ik'
+abr
+Abril
+abril
+rukaj ik'
+Àrabs
+Saudita
+Arabic MacArabic
+Arabic Windows
+Arawe
+aj Arabia
+Àrab
+Aragonès
+aj Aragon
+Arxiva
+Archived
+Arxiu
+Arxius
+Arxivament
+Àrtic/Longyearbyen
+N
+Area
+Argentina
+Arial
+Armenia
+Armènia
+Armeni
+Armenyan
+aj Armenia
+Fletxa
+Articles
+Cholna'oj
+Artist
+Aruba
+As Laid Out
+As Quotation
+Com
+Ascendent
+Ascension and
+Ascensió
+Ashmore
+Àsia/Aden
+Àsia/Almaty
+Àsia/Amman
+Àsia/Anadyr
+Àsia/Aqtau
+Àsia/Aqtobe
+Àsia/Ashgabat
+Àsia/Bagdad
+Àsia/Bahrain
+Àsia/Baku
+Àsia/Bangkok
+Àsia/Barnaül
+Àsia/Beirut
+Àsia/Bishkek
+Àsia/Brunei
+Àsia/Chita
+Àsia/Choibalsan
+Àsia/Chongqing
+Àsia/Colombo
+Àsia/Damascus
+Àsia/Dhaka
+Àsia/Dili
+Àsia/Dubai
+Àsia/Dushanbe
+Àsia/Gaza
+Àsia/Harbin
+Àsia/Hebron
+Àsia/Hovd
+Àsia/Irkutsk
+Àsia/Istanbul
+Àsia/Jakarta
+Àsia/Jayapura
+Àsia/Jerusalem
+Àsia/Kabul
+Àsia/Kamchatka
+Àsia/Karachi
+Àsia/Kashgar
+Àsia/Katmandú
+Àsia/Khandyga
+Àsia/Calcuta
+Àsia/Krasnoyarsk
+Àsia/Kuching
+Àsia/Kuwait
+Àsia/Macau
+Àsia/Magadan
+Àsia/Makassar
+Àsia/Manila
+Àsia/Muscat
+Àsia/Nicosia
+Àsia/Novokuznetsk
+Àsia/Novosibirsk
+Àsia/Omsk
+Àsia/Oral
+Àsia/Pontianak
+Àsia/Pyongyang
+Àsia/Qatar
+Àsia/Qyzylorda
+Àsia/Rangoon
+Àsia/Riyadh
+Àsia/Sakhalin
+Àsia/Samarkand
+Àsia/Seül
+Àsia/Shanghai
+Àsia/Singapore
+Àsia/Srednekolymsk
+Àsia/Taipei
+Àsia/Tashkent
+Àsia/Tbilisi
+Àsia/Tehran
+Àsia/Thimphu
+Àsia/Tokyo
+Àsia/Ulaanbaatar
+Àsia/Urumqi
+Àsia/UstNera
+Àsia/Vientiane
+Àsia/Vladivostok
+Àsia/Yakutsk
+Àsia/Yekaterinburg
+Àsia/Yerevan
+Àsia
+oriental
+Ask
+Asks how
+Asks
+Asames
+Assamès
+Assembling mail
+Assembling messageDone
+assemblant
+Assistant
+Associated
+Assurance
+Asturià
+aj Asturia
+Asínc
+Asynchronous Pan
+Asynchronous
+Atlàntic/Açores
+Atlàntic/Bermuda
+Atlàntic/Canàries
+Atlàntic/Fèroe
+Atlàntic/Madeira
+Atlàntic/Reykjavik
+Atlàntic/Stanley
+Atlàntic
+Atolon
+Atom
+Adjunta
+Attached
+Adjuncions
+Adjunció
+AttachmentRemove
+Adjuncions
+Fitxers adjunts
+Taq taqoj
+Attack Site
+Attack
+Attempt to
+Attempt
+Intents
+Titojtob'ëx chik
+Assistència
+Attendee
+Assistents
+Attention
+Atribut
+Atributs
+Taq B'anikil
+Taq b'anikil
+Attribution
+Auckland
+K'oxomal
+Àudio
+AudioBufferSourceNode
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+AudioNode
+AudioParam does
+AudioParam
+AudioParams
+ag
+ago
+ruwaqxaq ik'
+Agost
+Ruwaqxaq ik'
+agost
+Aurora
+Austràlia/Adelaide
+Austràlia/Brisbane
+Austràlia/Currie
+Austràlia/Darwin
+Austràlia/Eucla
+Austràlia/Hobart
+Austràlia/Lindeman
+Austràlia/Melbourne
+Austràlia/Perth
+Austràlia/Sydney
+Australia
+Austràlia
+Austria
+Àustria
+Authenticated
+S'està autenticant
+Authentication method &apos
+Autenticació
+Autor
+B'anel
+Authored
+Entitats
+K'amöl taq b'ey
+Authority unnamed
+Ya
+Autoritza
+Authors
+Auto Increment
+Auto Update
+Auto
+Automàtic
+Ruyonil
+Yonil
+AutoA
+AutoConfig Alert
+AutoConfig
+Detecció automàtica
+Detecta automàticament
+Rutz'etik pa ruyonil
+Titz'e pa ruyonil
+AutoJoined Channels
+AutoJoined
+Autocompleció
+Tutz'aqatisaj ri' ruyon
+Detecta automàticament
+Ruchi' cholaj pa ruyonil
+Sagnat automàtic
+Automàtic
+Automatització
+Utzicholïk
+Ús
+Disponible
+Avaro
+Avàric
+Avèstic
+Avéstico
+Absent
+Aimara
+Aymara
+Azerbaidjan
+Azerbayan
+Azerbaijani
+Àzeri
+B
+BCC
+CCO
+BG
+BLOCAT
+BLOCKED
+BPÉs
+BSIGNAT
+Chi rij
+Chi ruwäch
+Chuwäch
+Enrere
+Backend
+Fons
+Rupam
+Chi rij
+Retrocés
+tito
+Fes una còpia de seguretat…
+Fesne còpia de seguretat…
+Tiwachib'ëx…
+Dolenta
+Itzel
+Bahamas
+Badia
+Bahrain
+bahrein
+Baker
+Bàltic
+Báltic
+Bambara
+Banderas
+Bangla Desh
+Bangladesh
+Banca
+Yakb'äl pwäq
+Barbados
+Barbuda
+Scanner
+Bartomeu
+Línia base
+Ruxe' k'amab'ey
+Baixkir
+Bashkir
+bàsics
+Basc
+Basque
+Bassas
+Bateria
+Uchuq'ab'äl
+Bay
+CCO
+Cco
+Becky
+Abans
+Chuwäch
+Belarus
+Bielorússia
+Bielorruso
+Bielorús
+Belgica
+Bèlgica
+Belice
+Belize
+Bengali
+Bengalí
+Benin
+Benín
+Bermuda
+Bermudas
+Beulah
+Bhutan
+Big
+BigHKSCS
+Més gran
+Bihari
+naixement
+Aniversari
+Bislama
+Bits
+Cada dues setmanes
+Bloca
+Tiq'eleb'ëx
+Blocat
+Bloquejat
+Q'aton
+Q'eleb'en
+Boa
+Cos
+muyen
+Bokmål
+Negreta
+Bolivia
+Bolívia
+Bonaire
+Llibre
+Adreça d'interès
+Afegeix a les adreces d'interès
+Taq etal
+Yaketal
+yaketalKeyuj
+Adreces d'interès
+Taq etal
+Taq retal
+Taq yaketal
+Yakäl taq etal
+Booleà
+Ja'/manäq
+Contorn
+Ruchi'
+Bòsnia
+Bosnià
+aj Bosnia
+Bot
+Botswana
+Chuxe'
+Inferior
+Part inferior
+Bouvet
+Ramificació
+Ruq'a' b'anïk
+Branco
+BrandFullName
+BrandFullNameDA
+BrandShortName
+Brasil
+Brazzaville
+ruqupixik
+Breton
+Bretó
+breu
+britàniques
+Broken
+Navega
+Navegador
+Okik'amaya'l
+Navega
+Navega…
+Tinik'öx…
+Navegació
+Okik'amaya'l
+Brunei
+En bombolla
+Roqowinïk
+Buenos
+construint
+Bulgaria
+Bulgària
+Búlgar
+aj Bulgaria
+engròs
+Pic
+Weqoj
+Amb pics
+Pics
+Burkina
+Burma
+Birmano
+Birmà
+Burundi
+Ocupat
+Botó
+Botons
+Taq pitz'b'äl
+Bytes
+Taq b'it
+C
+CA
+CACHE
+intermediàries
+CC
+CCBY
+CCBYSA
+CD
+CDATA
+CDSA
+CKR
+CLICK
+CMS
+CN
+COLNAME
+NOVA
+CORS
+CP
+CRL
+CSP
+CSS
+CTCP
+St
+CYPHER
+Cabo
+Ewa'n
+Kache'
+Memòria cau
+CalDAV
+Caledònia
+
+Calendari
+Calendari…
+California
+Toyon
+Truca
+Cambodja
+Camboya
+Cambridge
+Camerun
+Campo
+Canada
+Canadà
+Canadian
+Canary
+Cancel·la
+Jumul tiq'at
+Q'atoj
+Q'atïk
+Tiq'at
+Cancel·lada
+Cancel·lat
+Jumul xq'at
+Q'aton
+S'ha cancel·lat
+Xq'at
+S'està cancel·lant…
+oxel
+ruchojmirisane
+tampoc
+CanvasPattern
+Cap
+Llegenda
+Captura
+Chapoj
+Carboni
+activarla
+Catalan
+Català
+Categories
+Categoria
+detectades
+Aruma
+Causa
+Caimán
+Cc
+Cel·la
+Cel·les
+Cèltic
+Centre
+Pa nik'aj
+Runik'ajal
+Certificat
+Ruwujil b'i'aj
+Ruwujil rub'i'
+Certificats
+Taq ruwujil b'i'aj
+pràctica
+Certificada
+Ruwujil
+Chad
+Txad
+Presideix
+Chamorro
+ChanServ
+Canvia
+Tijal
+Tijalwachïx
+Canvia…
+Caràcter
+Charis
+Xat
+Txetxè
+aj Chechenia
+Marca
+tiya' retal
+Chi
+Chichewa
+Chichiwa
+Nab
+Chile
+Xile
+China
+Xina
+Chino
+Xinès
+Ticha'…
+Tria…
+Trieu…
+Navidad
+Chrome
+Chromecast
+Chromium
+Eslavo
+Chuvash
+Txuvaix
+Change
+Cisco
+Citació
+Ciutat
+Població
+Classe
+Buida
+Esborra
+Neteja
+Tijosq'ïx
+S'està netejant
+Tajin yeyuj
+Fes un clic
+Feu un clic
+Tapitz'a'
+tapitz'a'
+Client
+Portaretalls
+Taq molwuj
+Clipperton
+Elem
+Rutz'apixik
+Rutz’apixik
+Tanca
+Titz'apïx
+Tzapin
+Cmd
+CmdOrCtrl
+CmdOrCtrlF
+CmdOrCtrlPlus
+CmdOrCtrlR
+CmdOrCtrlShiftD
+CmdOrCtrlShiftO
+CmdOrCtrlShiftR
+CmdOrCtrlShiftU
+CmdOrCtrlW
+Codi
+b'itz'ib'
+OpenH
+Col
+Ch'utinarisan
+Redueix
+Tich'utinarisäx
+Reduït
+recollits
+Colombia
+Colòmbia
+B'onil
+Color
+Colors
+Taq b'onil
+Colors…
+Taq b'onil…
+Columna
+Tem
+Columnes
+Quadres
+Coma
+Comentari
+ayil
+causes
+Comoras
+Comores
+Compacta
+Comparació
+Junamaxïk
+Acabat
+S'ha acabat
+Tz'aqät
+Acabada
+Acabat
+Completada
+S'ha acabat
+Tz'aqatisan
+Componets
+Xoyotäj
+Redactor
+Redacció
+Composite
+Ch'akulan
+Composició
+Redacció
+Ruch'akulal
+Compositor
+compromís
+Calculat
+Kematz'ib'an
+calculant
+concentra
+Conclusió
+Ruk'isib'äl taq tzij
+Confidencial
+Configura…
+Tinuk'ub'ëx…
+Confirma
+Confirmació
+Confirmeu
+Tajikib'a'
+Tijikib'äx
+Confirmada
+Congo
+Felicitats Aquest
+Felicitats
+Connecta
+Tichuq apo
+Tokisäx
+Connectat
+Okisan
+Connectant
+Tajin nok
+S'està connectant…
+Tajin nixim…
+Tajin nok…
+Connexió
+Okem
+Okem pa k'amaya'l
+Connecta…
+Tajin nok…
+Consola
+Temeb'äl
+Restringeix
+restriccions
+Demaneu
+Contacte
+Contactes
+Contenidor
+K'ojlib'äl
+Contenidors
+Taq k'ojlib'äl
+Contingut
+Rupam
+rupam
+ContentSecurityPolicy
+ContentSecurityPolicyReportOnly
+ContentType
+Continguts
+Rupam
+Continua
+Titikir chik el
+Titikïr chik el
+continuarObrir
+contrast
+Col·laborahi
+Kito'on
+donatiu
+Col·laboradors
+to'onela'
+Control
+Converses
+convertint
+Cook
+Cookies
+Galetes
+Taq kaxlanwey
+Guai
+Còpies
+Taq wachib'äl
+Copia
+Tiwachib'ëx
+Wachib'exïk
+Corall
+Cornish
+Còrnic
+Interlocutors
+Cors
+Corso
+Rajil
+Costa
+Recompte
+Rub'i' taqoya'l
+Tawajilaj
+ajxokon
+País
+Courier
+Generador
+etikirinäq
+Crea
+Titz'uk
+Creador
+Q'inonel
+Crèdits
+Kib'i' to'onela'
+Cree
+Creek
+Crític
+K'ayewal
+Croacia
+Croàcia
+Croat
+aj Croacia
+Plor
+Crypto
+criptogràfica
+Ctrl
+CtrlL
+CtrlShiftL
+Cuba
+CuforceGC
+Cunha
+Curazao
+Curaçao
+Cursor
+Retal ch'oy
+Ichinan
+Personalitzada
+Personalitzat
+Tichinäx
+Customization
+Personalitza
+Tichinäx
+Personalitza…
+Tichinäx…
+Ichinan…
+Personalitzat…
+Personalitza…
+Qupixik
+Retalla
+Tiqupïx
+Roda
+Tik'o
+Chipre
+Xipre
+Ciríl·lic
+Siriliko
+Txec
+aj Chicoslavia
+indexada
+DC
+Descodificador
+DECDSA
+DEVICE
+DISPLAYNAME
+DLL
+DN
+DNS
+DOCTYPE
+DOM
+s
+DOMWindow
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+DRM
+DSA
+DTLS
+DVemer
+Diàriament
+Nord
+Pajon
+Danes
+Danès
+Dar
+Fosc
+Q'equ'm
+Dades
+Taq tzij
+DataURL
+Data/Hora
+Q'ijul/ramaj
+Data
+Dawson
+Dia
+DayCrash Reports
+DayCrash
+Dies
+dia/es
+Debug Mode
+Depuració
+Ruchojmirisaxik
+Tib'an rutzil
+Tichojmirisäx
+DebugALIGNCENTERerver
+Chojmirisanel
+Debugging
+des
+rukab'laj ik'
+Desembre
+desembre
+rukab'laj ik'
+Decide
+Declaration
+Rebutja
+Declined
+Descodificador
+Elesäy na'oj
+Decoding error
+descodificació
+Redueix
+Tich'utinirisäx
+Decrypted
+Decryption
+Deer
+Jikib'an wi
+K'o wi
+Per defecte
+Defaults
+Defer Account
+deferir
+Define
+Defined
+Definició
+Definitions
+Del
+Supr
+Tiyuj
+Retard
+Yokolem
+Delete Message
+Esborra
+Suprimeix
+Tik'am el
+Tiyuj
+Yujïk
+Deleted
+Suprimeix…
+Tiyuj…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Deletion
+tabulacions
+Delivery Format
+Delivery Status Notification
+lliurament
+Dinamarca
+Denver
+Denega
+Q'atïk
+Rebutja
+Tiq'at
+Departament
+Descendent
+Describe Problem
+Describe
+Cholonem
+Descripció
+Tzijoxkil
+Desserialitza
+Design Mode
+Design View
+disseny
+Desktop Backgroundbmp
+Desktop Open &quot
+Escriptori
+Kematz'ib'ab'äl
+Destination Folder
+Destination
+Destroy
+Detach
+Separa…
+Detall
+Details of
+Detalls
+Taq b'anikil
+Taq kib'anikil
+Taq rub'anikil
+Detalls…
+Kib'anikil…
+Kitzijol…
+Detect indentation
+Detect
+Determining which
+determinant
+fallin
+Devanagari
+Developed
+Developer Edition
+Developer Tools
+Desenvolupador
+Nuk'unel
+Desenvolupadors
+Nuk'unel
+Development
+Device &quot
+Dispositiu
+Samajib'äl
+DeviceShare
+Dispositius
+Taq oyonib'äl
+Devicex
+Dhekelia
+Diagnòstics
+Nik'oxïk
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+Diccionaris
+Taq soltzij
+diccionari
+oblidar
+Diego
+Different
+DiffieHellman key
+DiffieHellman
+Digest function
+Digest was
+Digest
+Digg Reader
+Digg
+Digital
+Dimensions
+Mides
+Runimilem
+Direct
+DirectD
+DirectWrite
+Direcció
+Ochochib'äl
+Directive
+directoris
+Directory &apos
+Directory Servers
+Directory
+Disability access
+Disability
+Inhabilita
+Ruchupik
+Tichup
+Chupül
+Desactivada
+Desactivat
+Inhabilitades
+Inhabilitat
+Inhabilitats
+Man jaqon ta
+Man jaqäl ta
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Paquets
+Disconnect from
+Desconnecta
+Telesäx el
+Tichup
+Desconnectaellipsis
+Tichupellipsis
+S'està desconnectant…
+Tajin nel…
+Disconnectme strict
+Kinelesäx
+Desconnecta…
+Tichup…
+Discontinue Link
+Discontinue
+Discover
+Discussions
+Disk
+Atura l'alarma
+Descarta
+Tichup ruwäch
+Display a
+Mostra
+Nom a mostrar
+Tik'ut pe
+Visualització
+Displays the
+Displays
+Distinguished
+Distribution Points
+Distribució
+tikuqub
+Divehi
+Djibouti
+Do
+Ancora
+Docs
+Document Outline
+Document
+Documents
+Conill
+Doing
+Domain GUID
+Domini
+Ruk'ojlem b'ey
+Domains
+Domestic
+Chakonel
+Dominador
+Chakonela'
+Dominadors
+Domingo
+Dominica
+Dominicana
+t set
+Don
+Fet
+Feta
+K'isoj
+K'ison
+La impressió ha finalitzat
+Ruk'isik
+Tik'is
+Double click
+doble
+Doublecheck
+Doubleclick
+Avall
+Pa xulan
+Download Link
+Baixa
+Tiqasäx
+DownloadRestart
+Baixat
+Xqasäx
+S'està baixant
+Tajin niqasäx
+S'està baixant…
+S'està descarregant
+Tajin niqasäx…
+Tajin nqasan…
+Baixades
+Taq qasanïk
+Taq qasa’n
+Draft Message
+Esborrany
+Esborranys
+Arrossega
+Draw draws
+Draw repainted
+Dibuixa
+Driver Verification
+Driver
+Controladors
+K'alab'anela'
+Drives
+Drop a
+tosq
+Dropping a
+Dropping
+DuckDuckGo
+Venciment
+Dump
+Duplicate name
+Duplicate
+Duraterver
+Durada
+Yalojem
+Holandès
+aj Holanda
+Dzongkha
+ECDSA Signature
+ECDSA
+EDI Party Name
+EDI Party
+EDI
+EHLO
+EMail Certificates
+Correu electrònic
+ERROR
+ERRORS
+ES
+ESC
+JP
+EUCKR
+EUCTW
+EV
+EXTRACTION_FAILED
+Cada
+Eager
+Earlier
+East Asian
+East European
+Asiàtic
+Eastern
+Ecuador
+Equador
+Edge
+Edit Conditional
+Edita
+K'exonïk
+Tinuk'
+Edició
+Edition
+Editor
+Nuk'unel
+Editors
+Edita…
+Egipte
+Egipto
+Either
+El Aaiun
+El Salvador
+El
+Elapsed
+Element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Elements
+Email Address
+Adreça electrònica
+Correu electrònic
+Taqoya'l
+Avergonyit
+Incrusta
+Tik'ase'
+Embedded
+Emirates
+Èmfasi
+Emptied Trash
+buidat
+Buit
+Kowöl
+Tolan
+Emulate
+Activa
+Habilita
+Habilitala
+Rutzijik
+Titzij
+Tiya' q'ij
+Activada
+Activades
+Activat
+Habilitada
+Habilitades
+Habilitat
+Habilitats
+Jaqon
+Jaqäl
+Tzijon
+Tzijïl
+Enables
+codificades
+Codificador
+Elesäy na'oj
+Encoding While
+Codificació
+Encodings
+Encrypt
+Encrypted password&apos
+Xifrat
+Encrypting File
+Encrypting
+Xifratge
+Fi
+K'isib'äl
+EndUser Rights
+EndUser
+Finalitzat
+Xk'is
+Endian
+Endpoint
+Enforce
+Engine
+Engineering
+Engines
+English US
+English USASCII
+English language
+Anglès
+Català
+Q'anchi'
+Enhanced
+animirisaj
+Enter &apos
+Enter Full
+Enter that
+Enter
+Entered
+Entering
+Entrades
+Taq okitz'ib'
+Entry
+Enumerable Properties
+enumerables
+Entorn
+K'ojlem
+Epiphany
+Equatorial Guinea
+Equatorial
+Eritrea
+Error
+Sachoj
+Errors
+Taq sachoj
+Esc
+Esperanto
+Estonia
+Estònia
+Estonià
+aj Estonia
+Etiopia
+Etiòpia
+Eti'ope
+Etíop
+Eudora Nicknames
+Eudora Settings
+Eudora mail
+Eudora
+Europa Island
+Europa
+Europa/Amsterdam
+Europa/Andorra
+Europa/Àstrakhan
+Europa/Atenes
+Europa/Belgrad
+Europa/Berlín
+Europa/Bratislava
+Europa/Brussel·les
+Europa/Bucarest
+Europa/Budapest
+Europa/Busingen
+Europa/Chisinau
+Europa/Copenhagen
+Europa/Dublín
+Europa/Gibraltar
+Europa/Guernsey
+Europa/Helsinki
+Europa/Istanbul
+Europa/Jersey
+Europa/Kaliningrad
+Europa/Kiev
+Europa/Lisboa
+Europa/Ljubljana
+Europa/Londres
+Europa/Luxemburg
+Europa/Madrid
+Europa/Malta
+Europa/Mariehamn
+Europa/Minsk
+Europa/Mònaco
+Europa/Moscou
+Europa/Nicosia
+Europa/Oslo
+Europa/París
+Europa/Podgorica
+Europa/Praga
+Europa/Riga
+Europa/Roma
+Europa/Samara
+Europa/Sarajevo
+Europa/Simferopol
+Europa/Skopje
+Europa/Sofia
+Europa/Estocolm
+Europa/Tallinn
+Europa/Tirane
+Europa/Uliànovsk
+Europa/Uzhgorod
+Europa/Vaduz
+Europa/Vaticà
+Europa/Viena
+Europa/Vilnius
+Europa/Volgograd
+Europa/Varsòvia
+Europa/Zagreb
+Europa/Zaporozhye
+Europa/Zurich
+Europa
+occidental
+Eustatius and
+Eustatius
+Eval
+Avalua
+Titojtob'ëx
+Evaluated JavaScript
+Evaluated
+Evaluating
+Evangelism
+Even
+Cita
+Cites
+Esdeveniments
+Taq Molojri'ïl
+Cita…
+Every Time
+Cada
+Ronojel
+Tot
+Buidatge
+Ewe
+Exemple
+Excellent
+Except
+Exception …
+Exception
+Excepcions
+Nuk'unel wachb'äl
+Excepcions…
+Man relik ta…
+Taq man relik ta…
+Exchange
+ExecShell &quot
+Intèrpret
+executable
+Execute Menu
+Executa
+Tib'anatäj
+Executing s
+Executing
+Execution stopped
+Execution
+Executive
+Existing
+Exists
+Elem
+Surt
+Tel
+Tel el
+Exited
+Exiting
+Expand/Collapse
+Amplia
+Tinimirisäx
+Ampliat
+Expected
+Experiments
+Taq solna'oj
+Ha vençut
+Expires On
+Expires Seconds
+Venciment
+Xtik'o ruq'ijul
+Explorer
+Exponent
+Exporta
+Exporta…
+Tik'wäx el…
+Exposing chrome
+exposició
+Express
+Expression
+Expressions
+Expunge &quot
+Esborra
+Extended Telemetry
+Extended
+Extending
+Extensió
+K'amal
+Extensions
+Taq k'amal
+External
+Extra Components
+Extra
+Extract
+Extracting s
+Extracting
+Extracting…
+Comptagotes
+K'olojb'onil
+F GB
+F turns
+F/Esc
+F/animajnem
+F
+FAILED
+FALLBACK section
+FALLBACK
+FAQ
+PMF
+FAQs feedback
+Junelïk taq k'utunïk
+PMF
+FCC
+FHR data
+FHR
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTP Proxy
+ftp
+FUNCTION
+FW Version
+FW
+FYR
+Facebook Chat
+Facebook
+Faeroese
+Ha fallat
+Man xtikïr ta
+Man ütz ta xub'än
+Failure
+Failures
+Falkland Islands Islas Malvinas
+Falkland Islands
+Falkland
+Fallback Character
+Fallback
+Falling back
+Falling
+False
+Ach'alalri'ïl
+Família
+Fantasy
+Faroe Islands
+Faroe
+Feroes
+Feroès
+Farsi
+Faso
+Fast
+Fatal
+Favorite Folder
+Favorite Folders
+Preferides
+Preferits
+Taq ajowab'äl
+Fax Number
+Fax
+Feature
+Característiques
+Taq b'anikil
+feb
+febr
+ruka'n ik'
+Febrer
+Ruka'n ik'
+febrer
+Federated States of
+Federados
+Federated
+Federation
+Feed Location
+Feed
+Feedback Agent
+Feedback …
+Feedback
+Feedly
+Canals
+Taq b'ey
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+S'està recollint…
+Tajin nichinäx…
+Fewer
+Field
+Fields
+Fifth
+Fiji
+Fiji
+Fijià
+File System
+Fitxer
+Mou
+Yakb'äl
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Nom de fitxer
+eml
+Fitxers…
+Fitxer…
+Filing Cabinet
+Omple
+Tinojisäx
+Filter Box
+Filter Execution
+Chayub'äl
+Filtra
+Filtre
+Filtering
+Filtres
+finalitzant
+Cerca
+Tikanöx
+Finder
+Findings
+Cerca…
+Tikanöx…
+Empremta
+Empremtes digitals
+Retal taq ruwi' q'ab'aj
+Finish Customizing
+Finalitza
+Tik'is
+Finalitzada
+Xk'is
+Finlandia
+Finlàndia
+Finès
+aj Finlandia
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+Nom
+Ajusta
+Tinuk'
+Five
+Fix Table
+Fix
+Fixed
+Flag
+Flagged
+Flame Chart
+flama
+Flash embed
+Flash
+Aplana
+Flexible Space
+flexible
+Focus
+Carpeta
+Yakwuj
+Carpetes
+Carpeta…
+La carpeta…
+Follow
+Seguidors
+Seguint
+Segueix
+Seguiment a
+SeguimentA
+Fond
+Tipus de lletra
+Ruwäch tz'ib'
+Tipus de lletra
+Footer
+peus
+Peu a la boca
+Perquè
+Force
+Per sempre
+Forge
+Forgery
+Oblida
+Timestäx
+¡Tamestaj
+Form History
+Formulari
+B'anikil
+Format
+Format
+Forms
+Fort
+Fortezza
+Forum
+Forums
+Endavant
+Jun chik
+Reenvia
+L'ha reenviat
+Reenviat
+Forwarding
+Found
+Moloj
+Four Hours
+quatre
+Fourth
+dv
+q
+v
+
+Maleïdes
+Ruchi
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+Marcs
+Ruchi' kajtz'ik
+Francia
+França
+Gratuït
+Lliure
+French Southern
+Francès
+aj Francia
+Frequency
+Freqüent
+Junelïk
+Wiq'ij
+dv
+Divendres
+divendres
+wiq'ij
+Frisó
+aj Frisia
+Friuliano
+Friülès
+From History
+From List
+De
+Des de
+Remitent
+Front facing
+Front
+Enfadat
+Fulah
+Full
+Fullscreen
+Fun To
+Fun
+Funció
+Rusamaj
+Futuna
+Futur
+GB
+GBK
+GC Event
+GC Slice
+GC
+GCLI is
+GCLI
+GDI Library
+GDI
+GData
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+Gabon
+escocès
+Gaia
+Galeon
+Gallec
+aj Galicia
+Gallegos
+Gambia The
+Gambia
+Comandament de joc
+Ruk'wayöl etz'anem
+Gaming consoles
+Consoles
+Ganda
+Gap from edge of paper to Margin
+Gap from
+Gap
+Garbage Collector Roots
+Garbage
+García
+Gated Crypto
+Gated
+Gaza Strip
+Franja
+Gecko
+Geckoreg
+Geckotrade
+General Notification
+Chijun
+General
+Generate a
+Generate
+Generated
+Generating A Private
+Generating A
+Generating aggregate
+Generating
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+Georgia
+Geòrgia
+Georgian
+Georgià
+aj Gerogia
+Alemany
+aj Alemania
+Alemania
+Alemanya
+Get Involved
+Get started
+Obté
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+Ghana
+Gibraltar
+Gives
+Glace
+Global Revived
+Aj chijun
+Global
+Glorioso Islands
+Glorioso
+Glossary
+Gmail
+Go back
+Go forward
+Vés
+Bona
+Ütz
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+Grab
+Grade
+Gradient is
+Gradient
+Grand
+Grande
+Dóna
+Graph Reduction
+grafs
+Gràfics
+Taq wachib'äl
+Gravatar
+GrayScale
+Escala de grisos
+Wachel chi chajchöj
+Grecia
+Grècia
+Greek Windows
+Grec
+RYEWO
+aj Grecia
+aj Gresia
+Grenlàndia
+Groenlandia
+Groenlandès
+aj Groenlandia
+Granada
+Grenada
+Grenadines
+wachkokal
+Group List
+Grup
+Molaj
+Grouped By
+Grouped
+Grouping
+Molaj
+Grow
+Guadalupe
+Guadeloupe
+Guam
+Guarani
+Guaraní
+Chajïy
+Guatemala
+Guernsey
+Guess
+Guest browsing
+kimoloj
+francesa
+Guinea
+Guinea Bissau
+GuineaBissau
+Gujarati
+Gurmukhi MacGurmukhi
+Gurmukhi
+Guyana
+H Line
+H
+HAR
+HError
+Línia horitzontal
+HPKP
+HREF
+HSLA
+HSTS
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HW Version
+HW
+HZ
+HZGB
+Hack the
+Timaj
+Haiti
+Haití
+Haitià
+aj Haiti
+Halifax
+Handler
+Handling
+Handshake record
+Handshake
+Hang Report
+penja
+Happy
+Fort
+Hardware Driver Verification
+Hardware Driver
+Ch'akulakem
+Maquinari
+Has
+Hausa
+Haussa
+Have an
+Have
+Hawaià
+aj Hawai
+Capçalera
+Capçaleres
+Taq Jub'i'aj
+Taq jub'i'aj
+Heading
+Capçaleres
+Jub'i'aj ruxaq
+Health Report
+Health
+Heard Island
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+Aj Heb'reya
+EB'REYO
+Hebreu
+Alçada
+Helena
+Hello World
+Hello
+Help Start
+Ajuda
+Tito'
+To'ïk
+Helper Application
+Helper Applications
+Helper Threads
+Helper
+Helps
+Helvetica
+Here
+Herero
+Hercegovina
+Hex
+Kiwa winäq
+Amagat
+Hide Statistics
+Hide Toolbars
+Amaga
+Tewäx
+alanïk
+High Contrast
+Alta
+Màxima
+Highgrade
+Highlight
+Highlighting
+Taq K'ewachinïk
+Hightail
+Hiligaynon
+Hill
+Hindi
+Hindu
+Man choj ta
+Suggeriment
+Hiri Motu
+Hiri
+Histograms Collected
+Molon
+Historial
+K'ulwachinel
+Natab'äl
+Natab’äl
+Encerts
+Taq ilonem
+Hnewsgroup server
+HEl
+Ho Chi Minh
+Ho
+Hold
+festiuEstatProveïdorsViatgeDescans
+Inici
+Particular
+Tikirib'äl
+Homepage Get back
+Pàgina d'inici
+Ruxaq tikirib'äl
+Ruxaq tikirisab'äl
+Honduras
+Hondures
+Hong Kong
+Hong
+Honolulu
+Horitzontal
+Amfitrió
+Ordinador central
+Ruk'u'x Samaj
+Servidor
+Servidor central
+Hostatjada
+K'ulun
+Hostname Entered
+Nom de l'ordinador central
+Rub'i' ruk'u'x samaj
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+Hour
+hores
+Housekeeping
+Napararej
+Howe
+However we
+obstant
+Howland Island
+Howland
+Http
+Enorme
+Humans
+Hongarès
+Hungaro
+Hongria
+Hungria
+ve
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+I don &apos
+I ii
+I submit information that &apos
+I think I &apos
+I understand
+tintikirisaj
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+ID
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAP Flag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+IP
+IPC
+IP
+IPs
+IRC Nick
+IRC Operator
+IRC
+IS
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+ISP
+IV
+Iaposm
+Islandia
+Islàndia
+Islandès
+aj Islandia
+Icona
+Wachib'äl
+Icones
+Xa xe taq wachib'äl
+Id
+Nimaläj b'i'aj
+Identification
+Identifier
+Identities …
+Identities
+Identitat
+Inactiu
+Man tzijïl ta
+Ido
+We
+Igbo
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Ignora
+Tiq'olo' richin
+ignorarà
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+Imatge
+Wachib'äl
+Imatges
+Taq wachib'äl
+Imatge…
+Import your
+Importa
+Tijik' pe
+Importance
+Important
+S'està important
+S'està important…
+Tajin nijik…
+Tajin nik'am…
+Importa…
+Tijik' pe…
+Tik'am pe…
+In Days
+In EHLO reponse
+In Finder
+In Use
+In
+InAutoon
+InBrowserElement
+inapropiada
+Safata d'entrada
+Inc
+Entrada
+incomplet
+Itzel
+Augmenta
+Tinimirisäx
+Increment
+progressivament
+Sagna
+IndexedDB
+indexador
+Taq rucholajil b'i'aj
+Índexs
+India
+Índia
+Índia/Antananarivo
+Índia/Chagos
+Índia/Christmas
+Índia/Cocos
+Índia/Comoro
+Índia/Kerguelen
+Índia/Mahe
+Índia/Maldives
+Índia/Mauritius
+Índia/Mayotte
+Índia/Reunion
+británico
+Indiana
+utunel
+Individu
+Indonesia
+Indonèsia
+Indonesi
+aj Indonesia
+Etamab'äl
+Informació
+Inlet
+En línia
+Insereix
+Text en el cos
+interior
+Innocent
+Entrada
+Okitz'ib'
+Ins
+Tich'ap
+Insereix
+Inspecciona
+Tinik'öx
+Inspector
+Nik'onel
+Instal·la
+Rujumik
+Tiyak
+Instal·lat
+Xyak
+S'està instal·lant
+Tajin niyak
+Tajin nib'an INSTALAR…
+Teniu
+insuficient
+Chijun
+Enter
+integració
+Ch'ajch'ojri'ïl
+Integritat
+Interacció
+Jutzijonem
+Interface
+Interlingua
+Interlingue
+interns
+interpretant
+Introducció
+Nab'ey taq tzij
+Inuktitut
+Inupiaq
+No és vàlid
+Inverteix
+invertir
+Ketikib
+Invisible
+Invitacions
+Convida
+Iran
+Irak
+Iraq
+Irlanda
+Irlandès
+aj Irlanda
+Isabel
+Isla
+Islas
+Malvines
+Israel
+Emès
+Emissor
+Tikirisanel tzij
+tikirisanela
+Nisilöx
+Italià
+aj Italia
+Cursiva
+Italia
+Itàlia
+xecha
+Ivori
+JIS
+JIT
+JS
+JSM
+JSON
+JSONP
+Jabber
+Jamaica
+gen
+nab'ey ik'
+Gener
+gener
+nab'ey ik'
+Japon
+Japó
+Aj Japon
+Japones
+Japonès
+aj Japon
+Jarvis
+JavaScript
+Javanès
+aj Javan
+Jaxivo
+Jersey
+Jitter
+xyoke
+Josep
+Johns
+Johnston
+Afegeixmeenaquestxat
+Jordania
+Jordània
+Juan
+Ruwuq ik'
+jul
+Juliol
+Ruwuq ik'
+juliol
+Salta
+Tik'o
+Ruwaq ik'
+jun
+juny
+Juny
+Ruwaq ik'
+juny
+Correu brossa
+justificada
+Justifica
+KB
+kB
+KOIR
+KOIU
+KRL
+Kanarès
+Kannada
+Kanuri
+Caixmirià
+Kashmiri
+Caixubi
+Kashubian
+Kazajo
+Kazakh
+Kasajistan
+Kazakhstan
+Keeling
+Conserva
+Tik'oje' na
+Kenia
+Kenya
+Kerberos
+Clau
+Ewan tzij
+Xe'el
+Assignacions de tecles
+Kitunik taq pitz'b'äl
+Pitz'ib'äl
+Teclat
+Ewan tzij
+Paraula clau
+Ruk'u'x tzij
+Kixe'el taq tzij
+Paraules clau
+Paraules clau…
+Aj CamboyaKhmer
+Khmer
+aj Camboya
+Kikuiu
+Kikuyu
+Unit
+Escull
+Kinshasa
+Kinyarwanda
+Ruanda
+Kirghiz
+Kirguís
+Kiribati
+Kirundi
+Krundi
+Petó
+Kitts
+Klaatu
+Klingon
+Komi
+Ziriè
+kong
+Congo
+Kongo
+Konkani
+Corea
+Coreà
+KORYANO
+aj Corea
+Kosovo
+Kuala
+Kuanyama
+Kurd
+aj Turquia
+Kuwait
+Kirguistan
+Kirguizistan
+LDAP
+LDIF
+LaTeX
+Etal
+Etiqueta
+Yaketal
+Punts de referència
+Ruk'ojlemal retal
+antarticas
+Apaïsat
+Kotz'olem
+Ch'ab'äl
+Llengua
+Llengües
+Taq ch'ab'äl
+Lanka
+Lao
+Laosià
+Laos
+Ordinadors portàtils
+ejqatel taq kematz'ib'
+Grossa
+Nïm
+Més gran
+Cognoms
+Més tard
+Latin
+Llatí
+Letonia
+Letònia
+Leton
+Letó
+Riure
+Capa
+tasul
+Disposició
+Format
+Rub'eyal najowäx
+LdapDwim
+Surt
+Tel
+Libano
+Líban
+Esquerra
+Xokon
+Avisos legals
+Taqanel tzijol
+Llegenda
+Bancs
+durada
+LenientThis
+Leone
+Lesotho
+Jub'a'
+Menys
+Lletra
+Liberia
+Libèria
+Biblioteca
+molwachinäq
+Libia
+Líbia
+Liechtenstein
+Rutzil k'aslem
+Temps de vida
+Clar
+Yuk'unel
+Lightning
+Limburgan
+B'ey
+Línia
+Lli
+Línies
+Lingala
+Enllaç
+Enllaça
+Ximöy
+enllaçament
+Enllaços
+Taq ximöy
+Enllaç…
+Llavis segellats
+Cholajem
+Llista
+Llistat
+S'està escoltant
+Llistes
+Taq cholajem
+Lituania
+Lituània
+Lituà
+aj Lituania
+Live
+Carrega
+Tisamajib'ëx
+S'està carregant
+S'està carregant…
+Tajin nijote'
+Tajin nisamäj…
+Tajin nusamajib'ej
+S'està carregant
+S'està carregant…
+Tajin nujotob’a’…
+Tajin nusamajib'ej…
+Aj wawe'
+Local
+Ch'ab'äl
+Idioma
+Localitat
+K'ojlib'äl
+Ochochib'al
+Ochochib'äl
+Rochochib'al
+Ubicació
+Registre
+Tz'ib'axïk
+Registre
+Tz'ib'axïk
+rutikirisab
+Inicis de sessió
+Kitikirisaxik taq moloj
+Kitikirisaxik taq molojri'ïl
+Logotip
+Wachib'äl b'i'aj
+Llarg
+Cerca
+Repetició
+Tzolinel
+Lord
+Los
+Perduts
+Sachinäq
+Baixa
+Lower
+Mínima
+LubaKatanga
+Lucia
+tze
+Lluís
+Lumpur
+Luxemburg
+Luxemburgo
+Luxemburguès
+aj Loxemburgo
+MAC
+MANIFEST
+MB
+MD
+MDN
+MIME
+MIMEVersió
+MSN
+Maarten
+Mac
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomanian
+MacTurkish
+MacUkrainian
+Macao
+Macau
+Macedonia
+Macedònia
+Macedonio
+Macedònic
+Madagascar
+Correu
+Taqoya'l
+Malagasy
+Malgaix
+Malawi
+Malai
+aj Malasia
+Malaiàlam
+Malayo
+Malasia
+Malàisia
+Maldivas
+Maldives
+Mali
+Malta
+Maltes
+Maltès
+Mammon
+Gestiona
+Tisamajïx
+Gestor
+Manifest
+manual
+Manual
+B'anöy
+Fabricant
+Manes
+Manx
+Maori
+Correspondències
+Mar
+mar
+març
+Marathi
+Marati
+Març
+març
+rox ik'
+Septentrionals
+Marino
+Marca
+Marketplace
+Marshall
+Marshales
+Marshallese
+Martin
+Martinica
+mestra
+Coincideix
+Nuk'äm ri'
+matemàtica
+MathML
+Ajilanem
+Matemàtiques
+Expressió matemàtica…
+Mauritania
+Mauritània
+Maurici
+Mauricio
+Maximitza
+Maig
+mai
+maig
+ro' ik'
+Mayen
+Mayotte
+illes
+Jo
+senzilles
+Elements multimèdia
+K'ïy k'oxom
+Multimèdia
+Suports
+MediaStreamTrack
+MediaStreamstop
+Loman
+Mitjana
+MemoServ
+Memòria
+Rupam rujolom
+K'utüy samaj
+Menú
+Missatge
+Rutzijol taqoj
+Identificador del missatge
+MessagePort
+Port de missatge
+Kitzijol taqoj
+Missatges
+Missatge…
+Meta
+Retal q'i'oj
+B'eyal
+Mètode
+Mexico
+Mèxic
+Micronèsia
+axach
+Microsoft
+Mitjà
+Mitjanit
+Nik'aj aq'a'
+mitjanit
+migrant
+MinSupportedCPU
+MinSupportedVer
+Minh
+Minidia
+Mini mes
+Ch'utinarisaxïk
+Minimitza
+Minimitza la finestra
+Miquelon
+duplicació
+erroni
+dll
+l
+luq'ij
+Mòbil
+Oyonibuäl
+K'exon
+Modificat
+Modifica
+Tijalwachïx
+Juperaj
+Mòdul
+Moldova
+República de Moldàvia
+dl
+dll
+luq'ij
+Monaco
+Mònaco
+Dilluns
+dilluns
+luq'ij
+Boca de diners
+Mongolia
+Mongòlia
+Mongolès
+aj Mongolia
+Jolomaj
+Supervisa
+Monoespai
+Rujukojol cholaj
+Montenegro
+Mes
+Mensualment
+Mesos
+mes/os
+Montserrat
+Ch'aqa' chik
+Més
+Ch'aqa' chikellipsis
+Mésellipsis
+Moresby
+Marroc
+aj Marueco
+Motu
+Choy
+Ratolí
+Movemail
+Mou…
+Tijech'ëx…
+Mozambique
+Moçambic
+Mozilla
+MozillaCalCites
+Mozillaorg
+Diverses setmanes
+Multisetmana
+Jalwachinïk
+Mutació
+Millor
+Sense so
+Silenci
+Silencia
+Timemür
+Canals_del_SSopml
+M/O
+N/D
+NET
+SEE
+NIST
+NNTP
+NO
+NPN
+NS
+NTLM
+yekitz
+B'i'aj
+Nom
+b'i'aj
+Compleció de noms
+Namibia
+Namíbia
+denominació
+Llegeix en veu alta
+Tzijonïk
+Nauru
+Naüru
+Navajo
+Navaza
+Navegació
+Okem pa k'amaya'l
+Ndeble
+Ndonga
+Nelson
+Nepal
+Nepali
+Nepalès
+Xarxa
+k'amab'ey
+Holanda Países Bajos
+Països Baixos
+Netscapecfg
+K'amab'ey
+Xarxa
+trànsit
+Mai
+Majub'ey
+Nevis
+K'ak'a'
+Nou
+Nova
+Grups de discussió
+Grup de discussió
+Grups de discussió
+K'ak'a'…
+Nou…
+Endavant
+Jun chik
+Següent
+Nicaragua
+NickServ
+Sobrenom
+Niger
+Níger
+NIgeria
+Nigèria
+Niue
+Mani
+Manäq
+No
+Node
+Wiqoj
+NodeIterator
+nutzolin
+B'ina'an
+Nominat
+Sense salt de línia
+Cap
+Majun
+Nones
+Mani nirepüx
+Sense repudiació
+Migdia
+Nikaj q'ij
+migdia
+Nòrdic
+Norfolk
+Kan ke ri'
+Normal
+North
+norte
+Noruega
+Noruec
+aj Noruega
+Anotacions
+Anunci
+Notificació
+Notificacions
+Taq rutzijol
+nov
+rujulaj ik'
+Nova
+Novembre
+Rujulaj ik'
+novembre
+laho
+Numerada
+Números
+Nynorsk
+OAuth
+OCSP
+OID
+D'acord
+ÜTZ
+Ütz
+OLE
+OMTC
+NOMÉS
+OPML
+OS
+SO
+OU
+OVERLAP
+Objecte
+Wachinäq
+Occitano
+Occità
+Océano
+oct
+rulaj ik'
+Octubre
+Rulaj ik'
+octubre
+Odia
+Oriya
+Odnoklassniki
+Chupül
+Desactivades
+Desactivat
+Inactiu
+Tichup
+Fora de línia
+Sense connexió
+Fora de línia…
+Ojibwa
+Correu antic
+Oman
+Activades
+Activat
+El
+Titzij
+En línia
+Only
+Ups
+Uy
+Obre
+Tijaq
+OpenGL
+OperServ
+K'wayonela'
+Operadors
+optimitzables
+optimitzacions
+Optimitza
+Optimizing
+Opció
+Opcions
+Taq cha'oj
+Organització
+Unitat
+Organitza
+Ticholajïx
+Organitzador
+Orientació
+Ya'öl na'oj
+Origen
+Ruxe'el
+Oriya
+Oromo
+Osetio
+Ossetià
+Altre
+Altres
+Juley chik
+Altres
+Juley chik
+exajan
+Altres…
+Juley chik…
+Safata de sortida
+Sagna a la inversa
+exterior
+Sortida
+Outlook
+endarrerides
+Propietari
+Rajaw
+P/Galapagos
+P
+ikenïk
+PDFjs
+PEM
+PKCS
+PNG
+POP
+POST
+PREFERÈNCIES
+PREFS
+Personal
+PacifDebug/Galapagos
+Pacífic/Apia
+Pacífic/Auckland
+Pacífic/Bougainville
+Pacífic/Chatham
+Pacífic/Chuuk
+Pacífic/Easter
+Pacífic/Efate
+Pacífic/Enderbury
+Pacífic/Fakaofo
+Pacífic/Fiji
+Pacífic/Funafuti
+Pacífic/Galapagos
+Pacífic/Gambier
+Pacífic/Guadalcanal
+Pacífic/Guam
+Pacífic/Honolulu
+Pacífic/Johnston
+Pacífic/Kiritimati
+Pacífic/Kosrae
+Pacífic/Kwajalein
+Pacífic/Majuro
+Pacífic/Marquesas
+Pacífic/Midway
+Pacífic/Naüru
+Pacífic/Niue
+Pacífic/Norfolk
+Pacífic/Noumea
+Pacífic/Palau
+Pacífic/Pitcairn
+Pacífic/Pohnpei
+Pacífic/Ponape
+Pacífic/Rarotonga
+Pacífic/Saipan
+Pacífic/Tahití
+Pacífic/Tarawa
+Pacífic/Tongatapu
+Pacífic/Truk
+Pacífic/Wake
+Pacífic/Wallis
+Pacífic
+Pack
+Package s
+Package xpi
+Package
+Empaquetada
+Pison
+Packs
+Encoixinament
+Page Direction
+Page Selection
+Pàgina
+Ruxaq
+Pagequot
+Pager Number
+Buscapersones
+Pàgines
+Taq ruxaq
+Pago
+Tiwachib'ëx
+Àrea actualitzada
+Pair a Device &quot
+Pair a
+Pair
+Pakistan
+Pal Who &apos
+Pal
+Palau
+Palestinian Territory
+Palestinian
+Paleta
+Pali
+Palmyra Atoll
+Palmyra
+Pan
+Panama
+Panamà
+Pane
+Pas
+Subfinestres
+Taq pas
+Panes on Startup
+Panes
+PannerNode
+Papua New Guinea
+Papua New
+Papua
+Paracel Islands
+Paracelso
+Paragraph format
+Paràgraf
+Paraguai
+Paraguay
+Parameters
+Paràmetres
+Taq etab'äl
+Parcel
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+parentals
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+PartS
+Partial
+Partially Encrypted
+Partially
+Participant
+Participants
+Parts
+Party Name
+Party
+Paixtú
+Pashto
+Password Change
+Password Manager
+Contrasenya
+Ewan tzij
+PasswordIf
+Contrasenyes
+Ewan taq tzij
+Ewan tzij
+Paste Go
+Enganxa
+Titz'ajb'äx
+Tiz'ajb'äx
+Tz'ajb'axïk
+Pastel Gradient
+Degradat
+Paste…
+Patch
+Patching s
+Patching
+B'ey
+Camí
+Paths from
+Paths
+Paulo
+Pause on
+Pause/Resume/Retry
+Pausa
+Rupab'axik
+Tiq'at jub'a'
+Titanab'äx
+Tuxlan
+Uxlanem
+En pausa
+Pausat
+Q'aton
+Pauses the
+Tuxlan
+Paga
+Payload
+Pagament
+Tojïk
+Paz
+Peer
+PeerConnection ID
+PeerConnection
+Pending
+Penh
+D'altri
+Persones
+Winaqi'
+Percent
+Perform a
+Realitzeu
+Rendiment
+Rub'eyal nisamäj
+Perhaps the
+Perhaps you &apos
+Perhaps
+Period of Validity
+Period of
+Period
+Periodic
+Jumul
+Permanent
+Permanently
+Permission
+Permisos
+Taq ya'oj q'ij
+Permit
+Farsi
+aj Persia
+Ichinan
+Personal
+Personality
+Peru
+Perú
+Perwebsite
+Fase
+Peraj
+Filipinas
+Filipines
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+Oyonib'äl
+Telèfon
+Taq oyonib'äl
+Telèfons
+Phonetic Name
+Fonètica
+Fotografia
+Photograph
+Phrase
+Físic
+Pick
+Picture
+Pedro
+Pilot
+Pin
+Ping
+Fixes
+Jikïl
+públiques
+Pipelining
+Pitcairn Islands
+Pitcairn
+Pixel
+Plain
+setmanal
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Platform
+Play a
+Reprodueix
+Rutzijik
+Titzij
+Playing audio
+En reproducció
+Tajin nitzij
+Please advance
+Please authenticate
+Please consider
+Please enter
+Please shorten
+Katzijon
+Plug a
+Plug
+PlugIns
+Connector
+Connectors
+Taq pluyin
+Plus
+Pocket
+Podcast
+PoiQA
+Pointer Lock API
+Points
+Polonia
+Polònia
+Pol
+Policies
+Policy Constraints
+Policy Mappings
+Policy mapping
+kiwachisetul
+Polonès
+aj Polonia
+Polynesia
+Popup Blocking
+Popup
+Elenel taq tzuwäch
+Elenel tz'etöy ruwäch
+Finestres emergents
+B'ey
+Port
+Portable Document
+wayel
+Porto
+Palem
+Vertical
+Portugal
+Portuguès
+aj Portugal
+K'ojlib'äl
+Posició
+Posse
+Possibles
+Envia
+Postal Code
+Postal
+Posting
+Postpone
+Power
+Powered by
+Powered
+Powershare
+Practice Statement pointer
+Practice
+Pre
+precondició
+Preferably
+Preference
+Preferències
+Taq Ajowanel
+Taq ajowab'äl
+Taq ajowab'äl…
+Taq ajowanïk
+Taq cha'oj
+Preferències…
+Taq ajowab'äl…
+Preferred
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Prefix
+Prefixed
+Preformat
+Premature
+Prepackage
+Prepackaging
+Preparing
+S'està preparant…
+Tajin ninuk'…
+Present
+Presentation Mode
+presentació
+Preserve
+Preserves
+Preset
+Eya'on
+Preseleccions
+Taq chuwanuk'ulem
+Prem
+Tipitz'
+Pressing F
+Pressing
+Tijeb
+Pretty Print
+Pretty
+Prevent
+Nab'ey tzub'al
+Previsualitza
+Previsualització
+Previewed
+Previewing
+Preview…
+Previous Session
+Anterior
+Chuwäch
+Jun kan
+Preu
+Rajil
+Primary Email
+Primed cache
+Primed
+Primetime Content
+Primetime
+Princes
+Principal Name
+Principal
+Príncipe
+Imprimeix
+Titz'ajb'äx
+Printed
+Impressora
+Tz'ajb'äl
+S'està imprimint
+Tajin nitz'ajb'äx
+S'està imprimint…
+Tajin nitz'ajb'äx…
+Imprimeix
+Imprimeix…
+Titz'ajb'äx…
+Priority changed
+Prioritat
+Ya'on ruq'ij
+Privacy Policy
+Ichinanem
+Privadesa
+Private Browsing we won &apos
+Private Keys
+t save
+Particular
+Privades
+Privat
+Taq ichinan
+Privilegiada
+Ya'on ruq'ij
+Privileges
+Privilegis…
+Pro
+Probable
+Segurament
+Probing
+Problem
+Continueu
+Proceeding will
+Proceeding
+Process
+S'està processant
+S'està processant…
+Tajin niq'axan…
+Prodigy
+Producer
+Producte
+ProductName
+ProductNameInternal
+ProductShortName
+Perfil
+Ruwäch b'i'aj
+inclouran
+Perfils
+Taq ruwäch b'i'aj
+Program Icons
+Program
+Programs Folder
+Programs
+Progress Window
+Progrés
+Tajin
+Project Lead
+Nimasamaj
+Projecte
+Projects
+Promise Debugger
+Promise
+Indicador
+Ruk'utuxik
+Sol·licita
+Propietats
+Propietats…
+Taq ch'akulal
+Propietats…
+Taq ch'akulal…
+Property Declaration
+Property Value
+Ch'akulal
+Propietat
+Junamil
+Proporcional
+Propose a
+Propose
+Protection
+Protocol Request
+Protocol
+ProtocolSpecific
+Protocols
+Proudlybr
+Provider
+Province
+Proxies
+Proxy
+Pseudoelements can
+Pseudoelements ‘
+Pseudoch'akulal
+Pseudoelements
+Psst using
+Psst
+Public
+PublicKeyPins
+Publica
+Publishing Pages
+Publicació
+S'està publicant…
+Publica…
+Puerto Rico
+Puerto
+Panjabi
+Punjabi
+Purchase for
+Finalitats
+Taq rayib'äl
+Push Endpoint
+Push
+Tinim
+QA UI
+QA
+QName
+QQ
+QR Scan
+QR
+Qatar
+Qualified Subordination
+qualificada
+Quechua
+Quítxua
+Query
+Pregunta del
+Queued
+Quick Filter
+Quick Launch bar
+Quick Launch
+Quick
+Quickly
+Quirks mode
+Quirks
+Quirky doctype
+junamanri
+Elem
+Surt
+Tel
+Tel el
+Titz'apïx
+QuitS
+Quitting
+Quota
+citació
+Cita
+Quotes
+RAM
+RC
+RDN
+REGISTRES
+YAKOJ
+REMOVE
+RETR command
+RETR
+RETURN
+RFC
+RGBA
+RSA Encryption
+Ewan
+RSASSAPSS Signature
+RSASSAPSS
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+RTP
+Radio Button
+Radio buttons
+Radio
+Rainy
+Raise
+Range
+Rankin
+Rate
+Kijachik
+Puntuació
+Ratio
+Raw
+Re
+Reached
+Llegeix
+Llegit
+Pendent de llegir
+llegitMarca
+Reader &apos
+Reader
+Lectura
+Ready to
+Preparat
+Ütz chik
+Really fast
+Really
+Reorganitza
+Motiu
+Reasons
+Rebuild Summary
+Reconstrueix
+Recalcula
+Receipt denied
+Receipt
+Receipts
+Receive
+K'ulun
+Rebuts
+Recepció
+Rebent
+Tajin nik'ul
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+K'ak'a'
+Recent
+Recents
+Recently
+Recheck
+Destinatari
+Destinataris
+Recommended Components
+Chilab'en
+Recomanat
+Recomanats
+Taq chilab'exïk
+Reconfirma
+Reconnect
+Record
+Recording Performance
+Rutz
+S'està enregistrant…
+Tajin niyak…
+Refés
+Recovery Keyhtml
+Recovery
+Recur
+Recurrence pattern
+Recurrence
+Recursion
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+redireccionament
+Rediscover the
+Rediscover
+Redisplay
+Refés
+Rukamuluxik
+Reducing the
+reduïu
+Reduction
+Kingman
+Reenter
+Reference
+Referències
+Referre
+Referring URL
+Referring
+Reajustaments
+Taq qajnäq
+Reformat
+Actualitza
+Tik'ex ruwäch
+Titzolïx
+Refused
+Register Locale
+Register Server
+Register
+Registrat
+Registering
+Regular Attachment
+Normal
+Reject
+Rejoin
+Related
+Relation
+Relative positioning of
+Relative
+Relaunch
+Release Notes
+Release
+Releases
+Actualitza
+Kamulokem
+Tisamajib'ëx
+Tisamajib'ëx chik
+Tok chik
+Torna a carregar
+actualitzeu
+Remaining
+Recorda
+Recordala
+Tinatäx
+Remind Me
+Remind
+Recordam'ho
+Recordatori
+Recordatoris
+Remote Debugging
+Remote debugging
+Näj
+remot
+Remove channel
+Elimina
+Suprimeix
+Suprimeix l'atribut
+Telesäx
+Telesäx el
+Tik'am el
+Tiyuj el
+Removed
+Removes
+Suprimeix…
+Telesäx…
+Removing
+Renaissance
+Canvia el nom
+Reanomena
+Tisik'ïx chik
+Reanomena…
+Renaming
+Render Mode
+Render
+äk
+Rendering
+Renewal
+sentits
+Repair
+Es repeteix
+Repetició
+amb repetició
+Repeticions
+Taq rukamuluxik
+Reemplaça
+Replacement
+Replaces in
+Reemplaçaments
+Reemplaça…
+Replacing
+Replicating directory entry
+replicant
+Replication failed
+Rèplica
+Respost
+Respon
+Respon a
+ResponA
+Replying
+Replyto Address
+Replyto
+Informa
+Tiya' rutzijol
+ReportOnly
+Reporter
+Reports
+República
+Request the
+Request
+RequestMode
+Requested
+Sol·licituds
+Taq k'utuj
+Required
+Requires
+Reread mozcmd
+Reread
+Titaq chik
+Torna a enviar
+Resending
+ReenviatCC
+ReenviatComentaris
+ReenviatData
+ReenviatDe
+ReenviatIdentificador del missatge
+ReenviatRemitent
+ReenviatPer a
+Reserved
+Reinicia
+Tikirib'alil
+Titikirisäx chik
+Titzolïx ruwäch
+Resets
+Resolution/Quality
+Resolution
+Resol
+Tisol
+Recurs
+Resources
+Responder
+Resposta
+Tzolin tzij
+Responseclone
+Responsive Design
+Responsive
+Rest
+Reinicia
+Titikirisäx chik
+reiniciant
+S'està reiniciant…
+Tajin nitikirisäx chik…
+Restaura
+Restaura una còpia de seguretat
+Tichojmirisäx
+Titzolïx
+Titzolïx ruk'ojlem
+Restringeix
+Q'aton rusamaj
+Restringit
+Restyle Hint
+Restyle
+Resultats
+Resume &apos
+Reprèn
+Tisamajïx chik qa
+Titikïr chik el
+Resumes
+Retained
+Retention Policy
+retenció
+Provala
+Retrieving quota
+Kikolik
+S'està recuperant…
+Tajin niqasan…
+Reintenta
+Titojtob'ëx chik
+Retrying
+Retorn
+Tok
+Repiula
+Illa de la Reunió
+Moloj
+Reverse
+Reversed
+Reverteix
+Tik'ex
+Titzolïx
+Torna a la darrera versió desada
+Desfés
+Tipiskolïx…
+Review
+Revision
+Revived
+Revocation
+Revocat
+Rebobina
+Torna a ajustar
+Rewriting oldstyle
+Rewriting
+ RhaetoRomanic
+Retoromànic
+Rica
+Rich Text
+enriquit
+Rico
+Right Click
+Ajkiq'a'
+Dreta
+Rightclick
+Rights
+Righttoleft direction
+Righttoleft
+Ringing…
+Rio
+Rioja
+riscos
+River
+Roaming
+Robot
+robots
+Roku
+Waqi'
+Role
+Romania
+Rumania
+Romanian ISO
+Romanès
+Rumania
+Sala
+Root
+Roots Module
+Roots
+Gira
+Tisetüx
+Fila
+Files
+Rule
+Regles
+Taq etab'äl
+Ruleset
+Executa
+Tib'anatäj
+RunAppX
+Running
+Entorn d'execució
+Ruq'ijul b'anatajnïk
+Rusia
+Rússia
+Russian Federation
+Aj Rusya
+Rus
+Ruso
+aj Rusia
+Ruanda
+Rwanda
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+encon
+SASL bind
+SASL
+SD
+SDP
+SE
+SECG elliptic curve sectr
+SECG
+SECURITY
+THIS STRING
+SEE THIS
+SEE
+SETTINGS
+SFailed to
+xeruköl
+SHA Digest
+SHA Fingerprint
+SHA
+YOU
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+SKB
+SMB of
+mas
+SMTP &apos
+SMTP&apos
+SMTP
+SMTPAUTH
+SOCKS Host
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+PATROCINAT
+SPONSORED
+SQL Statements
+SQL
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+STRING
+SToqueu
+RECOMANAT
+SUGGESTED
+SVG clipping
+SVG
+SW Asian
+SW
+CANVIA
+CHUPUNEL TZIJONEL
+SYSTEM
+S taq yakb'äl
+S_fitxers
+ds
+s
+saq'ij
+Saba
+Sad
+Safari
+Safe Mode
+Safe
+SafeBrowsing
+SafeMode
+Sáhara
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+Saint
+Salaam
+Salem
+Salvador
+Same
+Sami
+Samoa
+Samoà
+aj Samoa
+pròpies
+Mostres
+Taq k'utub'äl
+San Marino
+Sant
+Entorn de proves
+Tzayanib'äl
+Sandboxing
+Geòrgia
+Sango
+Sangoà
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+Sans
+Sanscrito
+Sànscrit
+Sansserif
+Santa
+Santo
+Sao Tome and
+Sao Tome
+São
+Sard
+Sardinian
+Sass
+ds
+saq'ij
+Dissabte
+dissabte
+dissabtes
+saq'ij
+Saudi Arabia
+Aràbia
+Save Permissions
+Desa
+Desaho
+Desala
+Tiyak
+Saved
+Desa…
+Tiyak…
+Saving
+S'està desant…
+Tajin niyakon…
+Tajin niyak…
+Saw
+Escalars
+Scale …
+Escala
+Xakb'äl
+Scaled
+Scaling
+Scam Warning Take
+Scam
+Scams
+Escaneja
+Tiwachib'ëx
+Scanner app
+Scanner
+Scanning for
+Scanning
+Scheduling
+Scheme
+Akuchi' napon
+Àmbit
+Score Origin
+Score
+Scots
+Scottish Gaelic
+Gaèlic
+Scratchpad Enter some
+Bloc de proves
+Tz'etel samaj
+Yujb'äl
+Screen Orientation
+Screen reader
+Pantalla
+Ruwäch
+Screenname
+Captura de pantalla
+Chapoj ruwäch
+Captures de pantalla
+Chapoj taq ruwäch
+Script
+Skriptz
+Jät
+ScrollLinkedEffects
+Desplaçament
+Sd
+Sels
+Mar
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Cerca
+Rukanoxik
+Tikanöx
+Searches
+Searching &apos
+S'està cercant
+S'està cercant…
+Tajin nukanoj…
+Cerca…
+S'està cercant…
+Tikanöx…
+Seccomp Thread Synchronization
+Seccomp Thread
+Ruximojri
+SeccompBPF System
+SeccompBPF filtratge
+Second
+Secondary Email
+secundària
+Seconds
+Sections
+Secure
+Securing connection
+Securing
+Security Exception
+Chajinïk
+Chajixïk
+Seguretat
+Titz'et
+Vegeu
+Selecciona
+Seleccioneu
+Ticha'
+Selected Frame
+Selected Tabs
+Seleccionat
+cha'on
+SelectedRemove Selected
+seleccionadaSuprimeix
+Selecting
+Cha'onïk
+Selecció
+Selector
+Selectors
+Seleccioneu…
+Self Cost
+Self Sampled
+Self Time
+Self
+Selfclosing syntax
+Selfclosing
+autoenviament
+Send Verification
+Send a
+Envia
+Titaq
+Remitent
+Enviant
+Tajin nitaq
+Sends a
+Sends
+Senegal
+Na'ob'äl
+Sensor
+Sent &quot
+Enviats
+Titaq
+rub'elej ik'
+set
+Separate _
+Separate tags
+Separate
+Separated
+Jachöy
+Separador
+Separadors
+Taq jachöy
+Käq kaqköj
+Sepya
+Sèpia
+Rub'elej ik'
+Setembre
+setembre
+Serbia
+Sèrbia
+Serbi
+Serbia
+Serial Number
+Serial
+Serialitza
+Serif
+Seriw
+Server Gated Crypto
+Server Gated
+
+Server Settings
+Server settings&apos
+Ruk'u'x samaj
+Servidor
+Servidors
+Taq ruk'u'x samaj
+Service
+ServiceWorker
+ServiceWorkerAllowed
+Serveis
+Taq samaj
+Moloj
+Sessió
+Sessions
+Set Up Sync &quot
+Set this channel &apos
+Configura
+Defineix
+Tib'an runuk'ulem
+Tichap achi'el
+Setting
+Settings &#124
+Nuk’uj
+Nuk’ulem
+Paràmetres
+Runuk'ulem
+Taq nunuk'ulem
+SettingsA
+Nuk’ulem…
+Paràmetres…
+Tinuk'…
+ajchwa
+Seven
+Scada
+Seychelles
+Sh
+ulujuch
+Shading
+superficial
+Comparteix
+Tikomonïx
+Shared
+Sharing Indicator
+Compartició
+Sheet
+Shift _ JIS
+Shift _
+Maj
+Nimatz'ib'
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+MajRETORN
+ShiftTab
+Shona
+Compres
+Tiloq'
+Curt
+Shortcut
+Shortcuts
+feta
+Should
+Show/Hide
+Mostra
+Mostrales
+Tik'ut pe
+Tiq'alajin pe
+Showing
+Shrink To Fit
+Encongeix
+Atura
+Tichup
+Shutting Down
+Shutting
+SiInEfate
+Germans
+Taq Ach'alal
+Sichuan Yi
+Sichuan
+Barra lateral
+Chuchi' Cholab'äl
+Barres laterals
+Chuchi' taq cha'osamaj
+Sierra Leone
+Sierra
+Sign
+Signature
+Signed
+signant
+Signatura
+Tajin nijuch' b'i'aj
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Simple
+simplificat
+Simplifica
+Simplement
+Simulate touch
+Simula
+Simulation
+Ojqanel
+Simuladors
+Taq ojqanel
+Since
+Sindhi
+Singapur
+Cingales
+Singhalès
+Singalès
+Sinhala
+Sint
+Siswati
+Lloc
+Lloc web
+Ruxaq k'amaya'l
+Kixaq k'amaya'l
+Llocs
+Mida
+Nimilem
+Skype
+eslava
+Eslovac
+aj Eslovaquia
+Eslovaquia
+Eslovàquia
+Eslovenia
+Eslovènia
+Eslovè
+aj Eslovenia
+lenta
+Sm
+Ko'ol
+Petita
+Més petit
+Més petita
+Somriure
+Emoticona
+Poquet
+Sms
+ajornament
+Pluyin
+Sòcols
+Lleu
+Kema'
+Programari
+Salomó
+Sián
+Somalí
+aj Somalia
+Somalia
+Somàlia
+Cert
+Songhai
+Songhay
+Sorbi
+aj Serbia
+Ordena
+Ticholajïx
+Ordenat
+Sotho
+Codi font
+Fonts
+Taq ruxe'el
+South
+Australs
+Espai
+Rukojol
+Space
+Espaiat
+Espanya
+España
+Espanyol
+Kaxlan ch'ab'äl
+Speculative
+Ranin
+Velocitat
+Ortografia
+Ortografia
+Verificació ortogràfica
+Spotlight
+Spratly
+Spx
+Sri
+Ss
+St
+Pila
+Tzub'aj
+Estàndard
+Pa rub'eyal
+Destacat
+Destacat
+Destacats
+Inici
+Inicia
+Tikirib'äl
+Titikirisäx
+inicialitzada
+S'està iniciant
+S'està iniciant…
+Tajin nitikïr el…
+Tajin nutikirisaj…
+Inici
+Tikirisab'äl
+Comarca/Regió
+Amaq'
+Estat
+B'ab'
+Sentència
+Estats
+molajilab
+cholajilatzij
+Amaq'
+B'anikil
+Estat
+Roman
+Tik'oje' na
+Atura
+Tiq'at
+Q'aton…
+S'ha aturat…
+Emmagatzematge
+Yakoj
+Carrer
+Amplia
+Tiyuq
+transport
+StrictTransportSecurity
+Barrat
+Cadena
+Cholajil
+Gaza
+Ch'akulan
+Estructurat
+Estil
+Editor
+Estils
+Taq rub'anikil
+dg
+g
+toq'ij
+Subordres
+Taq achnuk'uj
+Subcarpeta…
+Assumpte
+Taqikil
+Tramet
+Data d'enviament
+Taqon
+Tijon
+Gestiona les subscripcions
+Subscriu
+Subscrium'hi
+Subscriume
+Tz'ib'anïk b'i'aj
+Gestiona les subscripcions…
+Subíndex
+Subscripció
+subsistema
+Subarbre
+Amb èxit
+Ha finalitzat
+Tot correcte
+¡Xojtikïr
+Sudan
+Rij taq tzij
+Sufixos
+Suggeriments
+Taq chilab'enïk
+Ch'utitzijol
+Resum
+dg
+toq'ij
+Sudanès
+aj Sudan
+Diumenge
+diumenge
+diumenges
+toq'ij
+Superíndex
+K'exon
+Substituït
+Assistència
+To'ïk
+Surinam
+Cognoms
+Ruka'n b'i'aj
+Sorpresa
+Svalbard
+Suahili
+Swahili
+Swaziland
+Swazilàndia
+Suecia
+Suècia
+Suec
+aj Suecia
+Swift
+Canvia
+Commuta
+Tiq'ax pa
+Suiza
+Suïssa
+Syllabary
+simètrica
+Sincronització
+Sync
+Ximïl
+Pestanyes
+Sincronització
+Sincronitza
+sincronitzant
+S'està sincronitzant…
+Tajin niximon…
+Ch'utitzijol
+Sinopsis
+Siria
+Síria
+Ruq
+Systems
+S×
+×S
+S×S
+TAQ
+TCP
+CONSELL
+TITLE
+TITLEConnecteuvos
+TLS
+TVs
+Televisors
+Pestanya
+Ruwi'
+Tab
+Taq ruwi'
+Taula
+Taq retal rucholajil
+Taules
+Taq tz'alamkem
+Tauletes
+Taula…
+Pestanyes
+Taq etal
+Taq ruwi'
+Etal
+Etiqueta
+Tagal
+Tagalo
+Etal
+Etiqueta
+Etiquetes
+Ruwachib'al b'i'aj
+Taq etal
+Tahiti
+Tahitià
+Taiwan
+Tadjik
+Tajik
+Tadjikistan
+Tajikistan
+Talk
+Tamil
+Tàmil
+Tanzania
+Tanzània
+toc
+Destí
+Rayb'äl
+Tasca
+Tasques
+Tasca…
+Tartaro
+Tàtar
+Tech
+Etataqonel
+Telemesura
+Telugu
+Plantilla
+Plantilles
+Jumej
+Temporal
+Provisional
+Terme
+Índico
+Rucholajem tzij
+Text
+Xa xe rucholajem tzij
+dj
+j
+juq'ij
+Aj Tailanda
+TAYLAN
+Tailandès
+Tailandia
+Tailàndia
+Gràcies
+¡Matyox
+s why
+ns
+esborrarà
+Llur
+Tema
+Wachinïk
+Taq wachinel
+Temes
+Llavors
+sentit
+Aquests
+estalviaran
+Thomas
+Conversa
+Converses senceres
+Converses
+dj
+juq'ij
+miniatura
+Koköj
+Miniatures
+Thunder
+Thunderbird
+Dijous
+dijous
+juq'ij
+Aj Tibet
+Tibetà
+Ticket
+Tigre
+Tigrinya
+Tigriya
+Ch'utiwäch
+Mosaic
+Q'ijul
+Temps
+Línia de temps
+Rujuch' q'ijul
+Rujuch'i q'ijul
+Times
+Marca horària
+Retal q'ijul
+Fus horari
+Q'ijul
+Temps
+Timor Oriental
+Molt petita
+Ruxil
+Consell
+B'i'aj
+Títol
+A
+Fins
+Fins a
+Fins al
+Per a
+ötz
+Tobago
+Avui
+Wakami
+Commuta
+Jaloj
+Tik'ex
+Tijalajöx
+Togo
+Tokelau
+Testimoni
+Token
+Tomé
+Demà
+Tonga
+Tongà
+Llengua fora
+Xb
+kicholob
+Barres d'eines
+Cholsamajib'äl
+Caixa
+Eines
+Taq samajib'äl
+Indicador de funció
+Ajsik
+Part superior
+Superior
+Total
+Chapoj
+Tàctil
+guiada
+Taq wachib'enïk
+Traces
+Kanoxïk
+Seguiment
+tradicional
+Q'axan juk'an chik
+Transferits
+Transició
+Titzalq'omïx
+Tradueix
+Traducció
+Traductors
+Tzalq'ominela'
+Transport
+Paperera
+impacient
+Trinidad
+Tristan
+Tromelin
+Kisolik taq k'ayewal
+Resolució de problemes
+Rusolik taq k'ayewal
+Truncat
+és fiable
+Intenteu
+Tsonga
+Setswana
+Tswana
+dt
+m
+maq'ij
+Maq'ij
+dt
+Dimarts
+dimarts
+maq'ij
+Tunez
+Tunísia
+Turk
+Turquia
+Aj Turquia
+Turc
+aj TURKIYA
+aj Turquia
+Turcman
+Turkmen
+Turcmenistan
+Turkmenistan
+Turks
+tijonïk
+Tuvalu
+piular
+Piulades
+Twi
+Twitter
+Ruwäch
+Tipus
+Taq ruwäch
+Tipus
+UID
+DESFÉS
+TITZOLÏX
+DESCONEGUT
+UNKNOWN
+UNSUPPORTED
+URI
+URl
+K'AL
+URL
+nordamericanes
+EUA
+rang
+USB
+UTC/GMT
+UTCS
+UTF
+UTFBE
+UTFLE
+Uganda
+Uighur
+Uigur
+Ucrania
+Ucraïna
+Aj Ukranya
+Ucraïnès
+Ukranya
+aj Ukranya
+No disponible
+Desmarca
+telesäx retal
+Indecís
+Desfés la supressió
+Subratlla
+Subratllat
+Desfés
+Titzolïx
+Yujïk
+animajinäq
+Malauradament
+UNIKOTE
+Unicode
+Unificades
+No inicialitzat
+man tikirisan ta
+Desinstal·la
+Telesäx el
+S'està desinstal·lant
+Tajin nelesäx el
+organitzativa
+Reino
+unitats
+Universal
+Desconegut
+Man etaman ta ruwäch
+Me'etaman ruwäch
+xtajalwachij
+Desvincula
+Man tixim chik
+Descarrega
+Tiqasäx
+Activa el so
+Amb so
+So
+Tak'axäx
+fixis
+Per llegir
+Suprimeix el registre
+Tiyuj ri tz'ib'axïk
+richinem
+Man ticholajïx
+Sense ordenar
+Cancel·la la subscripció
+Incompatible
+no marcats
+Missatges per separat
+Fins
+Sense títol
+verificable
+Man okisan ta
+Sense ús
+Man jikib'an ta
+No verificat
+Ajsik
+Amunt
+Properes
+Actualitza
+Actualització
+Edita
+K'exoj ruwäch
+Tik'ex
+Tik'ex ruwäch
+Actualitza
+Tik'ex ruwäch
+Puja
+Tijotob'äx
+Urdu
+Urdú
+Uruguai
+Uruguay
+Utilització
+Utilitza
+Usuari
+Agent de l'usuari
+Nom d'usuari
+Rub'i' winäq
+Using
+Uzbek
+Uzbekistan
+Uzbekistan
+VALID
+VÀLID
+VERSION
+VK_F
+VK_COMMA
+VK_QUOTE
+VK_RETURN
+VK_PERIOD
+VK_SEMICOLON
+VK_HYPHEN_MINUS
+VK_SLASH
+Vàlid
+Ütz
+Valida
+Ruk'aslemal
+Validesa
+Retal
+Valor
+Taq retal
+Valors
+Vanuatu
+Variable
+Jalajonela'
+Variables
+Ciudad
+Velho
+Venda
+Venezuela
+Veneçuela
+Verde
+Verify
+Jikib'axïk
+S'està verificant
+S'està verificant…
+Tajin nijikib'äx…
+Anuncis
+Ruwäch
+Versió
+vèrtex
+Vertical
+Silowachib'äl
+Vídeo
+Vietnam
+Vietnamita
+aj BYETNAM
+Mostra
+Titz'et
+Tz'etoj
+Visualitza
+Visualització
+Visualitzador
+tag
+Taq tzub'al
+Vistes
+Visualitzacions
+Titz'et…
+Visualitza…
+Vincent
+Virtual
+Titz'et
+Visita
+Vista
+reya
+blocs
+Ch'ab'äl
+Veu
+Volapuk
+Volapük
+Ruch'ab'äl
+Volum
+ATENCIÓ
+AVISOS
+KITZIJOL K'AYEWAL
+WCAP
+WHOIS
+WS
+Espera
+Toyob'ëx
+En espera
+Tajin noyob'ëx
+Oyob’en…
+S'està esperant…
+Wake
+Wallis
+Valon
+Való
+Atenció
+Avís
+Rutzijol k'ayewal
+Avisos
+Avisos 
+Kitzijol k'ayewal
+Titz'et
+Vigila
+Rellotges
+Taq q'ijub'äl
+Cascada
+Tik'o
+ona
+c
+dc
+miq'ij
+WeakMap
+Web
+WebGL
+WebIDE
+WebIDL
+WebSockets
+Webmaker
+Pàgina web…
+Lloc web
+Lloc web 
+Ruxaq k'amaya'l
+dc
+miq'ij
+Dimecres
+dimecres
+miq'ij
+Setmana
+Wuqq'ij
+Setmanalment
+Setmanes
+setmana/es
+Us donem la benvinguda
+Ütz apetik
+Gal·lès
+aj Gale
+Occidental
+W
+Què
+Quan
+Llista blanca
+plàstic
+WiFi
+width ch
+Amplada
+Win
+Finestra
+Window
+Windowopen
+WINTOWS
+Fer l'ullet
+auxiliar
+Wolof
+Wòlof
+Feina
+Samaj
+Solucions temporals
+Tz'aqat taq soloj
+Procés de treball
+Samajel
+Processos de treball
+Samajela'
+Setmana laboral
+Voldríeu
+Ajusta
+Tiya q'ij chi nunojisaj k'ïy taq cholaj
+Escriu
+Redacta
+Habiliteu
+tardanes
+X
+XBL
+XContentTypeOptions
+XHR
+XHTML
+XML
+XMLHttpRequest
+XP
+XPCOM
+XPConnect
+XSLT
+XSS
+XTND
+XUL
+Xhosa
+Y
+SHOULD
+Yahoo
+Any
+Anualment
+Anys
+any/s
+Crit
+Iemen
+Yemen
+Ja'
+Je'
+Sí
+Ahir
+Iwir
+Yi
+Jiddisch
+Judio
+York
+Ioruba
+Yoruba
+Rat
+Usuari
+Z
+Zambia
+Zàmbia
+Zelanda
+Zhuang
+Zimbabwe
+Escala
+Finestra del zoom
+Mida de la pàgina
+Runimilem
+Sum
+Zoom
+Zulu
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+a scam
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+a surprised
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+a week
+a windowed
+a wink
+anuals
+a yelling
+rawajal
+aChoose
+aFrames
+aTawetamaj
+abcçdefghijklmnopqrstuvwxyzABCÇDEFGHIJKLMNOPQRSTUVWXYZ
+detestava
+abilities
+enviarli
+abort
+anul
+about About
+about Networking
+about Us
+about brandShorterName
+Quant
+aboutconfig
+aboutcredits
+aboutrights
+anomena
+above
+aboveAllow
+abruptly
+absència
+absolute positioning
+absolut
+accel
+accelalt
+acceleration on
+acceleració
+accelshift
+accented
+acceptació
+acceptable
+acceptcharsetutf
+acceptat
+accepting site &apos
+accepting
+access Key
+access multimedia
+accedeixi
+accessed
+accessibility support
+accessibility tools
+accessibilitat
+accessible
+accessing
+accidental breakage
+trencament
+acompanyant
+accomplished
+ens
+according
+account &apos
+account Actions
+account connected
+account name
+satisfactòriament
+accountManagernewAccountlabel
+accounts
+accuracy
+funcionin
+acknowledges
+across
+act
+action
+actions
+Rutziji
+activat
+tzijon
+active Logins
+actiu
+activity Indicator
+activity Stream
+activitat
+actual Size
+actual
+
+actualDate
+aktwari'al
+adaptatius
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+Afegiuhi
+addEventListener method
+addEventListener
+afegit
+afegint
+okisaxelchuqa
+additivesymbols descriptor
+additivesymbols
+addon &apos
+addon
+addons gallery
+uaqat
+addonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+address
+addressbook
+addressbr
+addresses
+addressing area
+addressing
+adjacent
+adjust
+admin
+administrador
+adult supervision
+supervisió
+avançar
+advanced JavaScript
+avançades
+advanced_pref_installation
+advancelabel
+advertise
+advertised
+anuncia
+afectar
+affected
+affecting
+after Sending
+xtakamuluj
+provar
+Rujuna
+agent
+agregat
+aggregates
+aggregating
+aggregator
+diaFa
+agree
+agreement
+airplane
+aka NIST
+aka
+adarreres
+alert description
+alerta
+k'ayewal
+retal k'ayewal
+algorithb
+algorithm Parameters
+algorisme
+algorithmhash value
+algorithmhash
+algorismes
+alignment
+alined
+alive
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+tots
+allocate
+assignat
+allocation
+allocations Rate
+allocations
+allow dialogs
+allow immediate
+permetis
+permès
+allowfullscreen
+allowing
+allows
+allowsameorigin
+allowscripts
+pràcticament
+along the Y
+juntament
+alphabetical
+already bookmarked
+already
+also gives
+also skip
+rusolik
+altKeylabel
+modifica
+alteration
+altered
+alternate
+gratuïts
+always Ask
+always Block
+always prefer
+sempre
+am &#124
+am
+quantitat
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+rukach
+analysis
+analitzi
+ancestor elements
+mek
+ancestres
+anchor &apos
+anchor
+anchors
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+and Herzegovina
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+i
+angle
+animatable
+animada
+animation cycle
+animació
+silonem
+silonïk
+animacions
+anualment
+anonymous box
+anonymous
+anònim
+man etaman ta ruwäch
+another
+answers
+antivirus software
+antivirus
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+qualsevol
+anymore
+juna
+anypolicy
+anything
+igualment
+anywhere
+apart
+app &apos
+app submission
+awAPLIKASYON
+appName
+semblen
+appearance wrong
+appearance
+appears
+append
+applicable service
+applicable
+application Basics
+application Details
+application doesn &apos
+aplicació
+chokoy
+applications
+aplicat
+applies
+afectin
+applying update
+aplicant
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+aprovat
+alliberat
+approximate line
+xarxes
+approximation
+apps &apos
+apps
+apr &#124
+abr
+abril
+arbitrària
+archive
+archived folders
+arxivats
+archives
+arxivin
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+nikiq
+area shape
+area
+areas in
+àrees
+t
+aren
+argument
+arguments for
+arguments
+arising out
+arising
+arjo
+armscii ISO ISO ISO
+armscii
+around
+arribin
+arrived
+arribi
+arrow
+arsa
+article summary
+article
+cholna'oj
+articles
+artwork
+as &apos
+as Authored
+as broken
+as cURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+xib
+ascending
+ascii
+ash
+asis &quot
+asis
+ask me
+demanaran
+asked questions tips
+asked
+asking
+asks that
+utüj
+aspect ratio
+aspect
+aspects
+assets
+assist you
+assist
+assistance
+associats
+associació
+assume
+assured
+asterisk
+async touch
+asíncrona
+asynchronous Pan
+asynchronous entity
+rumeximojri
+asíncronament
+at S
+at least
+at span id &apos
+niyaloj
+atchMore than
+reglaa
+Adjunta
+attached
+adjuntant
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+attachment
+attachmentDo
+adjuncions
+attack An
+attack pages
+atacarne
+attacker could
+Un
+attackers
+attacks
+intent
+attempted old
+xutojtov
+yatruq
+intenta
+attend
+assistència
+attendee
+attendees
+attention
+attribute Type
+atribut
+ nodeValue
+atributs
+audio Backend
+àudio
+aug &#124
+ago
+agost
+authenticate to
+autenticar
+autentica
+authentication mechanism
+authentication
+autenticitat
+autor
+certificadores
+authority is
+Taqanel
+autorització
+authorized
+authors whom
+xeb
+auto Increment
+auto Prettify
+auto Save
+auto discover
+auto
+autoAddOnsUpdateslabel
+autocomplete
+autocompletion
+autodetection
+yoninojisan
+automated updates
+qach
+automatic updates
+automàtiques
+automatically Black
+automatically detects
+automatically prefill
+automatically so it &apos
+Kiyonïl
+utzicholïk
+titzijtäj
+rusiloxik
+available &quot
+available Commands
+disponible
+mitjana
+q'ojom
+avg
+mitjana
+avoid
+aware
+absent
+sutub
+b
+bEven
+bS
+back facing
+back
+backed up
+taqichinan
+backfacevisibility hidden
+backfacevisibility
+background
+backlogged
+backslashes
+Fesne
+backups
+backwards
+bad parameter
+mala
+Distintiu
+baggage object
+equipatge
+ban
+banks stores
+banks
+bandejats
+b'aner
+bàner
+rupas tzijoxikil
+bar
+barada
+base
+ruxe'
+based
+baseline
+basic Page
+bàsica
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+declararse
+bear the
+Assumiu
+bèstia
+beasts brought emfire
+bèsties
+omarisanel
+omarisäx
+became full
+became
+because
+become
+becomes damaged
+becomes
+been deactivated
+been navigated
+been reestablished
+been replaced
+been revoked
+been transferred
+been translated
+been
+beep
+abans
+began
+begin
+beginning
+begins with
+begins
+behalf
+behavior
+behaviour
+behavioural
+being incompletely transferred
+being redirected
+being reparsed
+being
+believe
+believed
+belongs to
+pertany
+indicats
+benefit
+benefits
+beside
+best Match
+best accomplished
+millors
+nutzïr
+between
+bfor Android
+bgt
+bidireccional
+big
+bigger
+billing
+binària
+bind DN
+SASL
+binding shadows
+vinculació
+bindings tag
+vinculacions
+bird
+birdcage …
+birdcage
+birth
+bit keys
+bit
+Taxa
+Aj
+bitten
+posar
+en blanc
+majun
+block Lists
+block padding
+blocar
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+blocat
+blocking
+blocks parts
+bloca
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+body
+book
+bookmark updated
+bookmark
+bookmarked
+adreces d'interès
+taq yaketal
+books
+booleà
+ja'/manäq
+meq
+border &apos
+border radius
+contorn
+ruchi'
+Contorns
+bot
+both
+chuxe'
+part inferior
+nixim
+boundaries
+bounds
+box Model
+box model region
+box model
+caixa
+kaxa
+boxcom
+boxed
+boxes
+boxing
+br
+brace
+braces
+inijuch
+brand new
+brand profile
+brand
+brandFullName Credits
+brandFullName
+brandShortName &apos
+brandShortName Preferences
+brandShortName logo
+brandShortName
+brandShorterName Tour
+brandShorterName
+brandShortname
+break
+breakage
+breaking
+breakpoint
+ruqupik
+salts
+brighter
+Portaho
+broad
+broken
+dugueren
+browse
+browser &apos
+browser Hangs
+browser configurations
+owokik
+browsercachediskenable to
+browsercachediskenable
+navegadors
+browsing
+brulliSi
+botó
+pitz'
+buddy list
+buddy
+budget
+buffer capacity
+intermèdia
+bug
+bugs visit
+bugs
+bugzillamozillaorg
+build Configuration
+muntatge
+building summary
+ulew
+builtin Roots
+builtin tools
+integrada
+bulleted list
+bulleted
+business
+busy
+but we
+però
+button button
+botó
+pitz'b'äl
+buttons
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+uljay
+bynbspdesign
+byte
+BAYT
+bytes
+c
+cSfS
+cSrS
+cURL
+cache management
+rujumejyak
+cachecontrol set
+cachecontrol
+en memòria cau
+pa jumejyak
+cachemanifest
+caching of
+caching
+calendar Weeks
+calendari
+calendaring information
+calendaring
+calendars
+calendartimezonesxpi
+call Stack
+call calls
+cridar
+callUrl
+callback
+called &apos
+cridat
+callees
+caller
+calling detach
+Nawoyoj
+calls
+elesawachib
+t browse
+can analyze
+can collect
+can often
+can ’
+napab
+cancel
+canceled Occurrences
+canceled
+cancellation
+cancelled
+cancelledAddon
+candidate resources
+candidats
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+cannot
+canvas Debugger
+canvas an
+llenç
+taq peraj
+capabilities
+capable
+capacity
+capitalization
+llegenda
+ojqan tzij
+capture
+captureEvents
+captured log
+capturats
+card
+cards copied
+cards etc
+utit
+oloj
+careful
+carefully
+caret
+carriage return
+carriage
+carrier
+case sensitivity
+case
+caseinsensitive
+casos
+cast
+categories
+categorize and
+classificar
+categoria
+categorySource
+cause
+caused
+causes
+causing stability
+provocar
+caution
+caveats
+cc
+tt
+cd
+cell border
+cell was
+cel·la
+ch'utikajtz'ik
+cells
+cellular location
+mòbils
+census
+center footer
+center header
+favorits
+Centra
+centrexcentreyradi
+centimeters
+cert AIA
+cert Library
+cert validation
+cert
+certain
+certificSian
+certificat
+certified
+ch
+choajil
+presideix
+tajala
+nujalwachin
+canvis
+canviantli
+t implement
+caràcter
+xat
+Comprova
+tinik'öx
+activat
+cha'on
+comprovant
+mozillacentral
+comprovacions
+fills
+Trieules
+poseuli
+chrome//messenger/content/msgAccountCentralxul
+chrome
+bon
+circ
+cercle
+setesïk
+setesïk
+classe
+classificador
+obrirà
+relem
+yejosq
+tapitz
+clicat
+pitz'on
+client
+clients
+portaretalls
+üp
+tanca
+titz'apïx
+Tz'apäl
+tancat
+äll
+núvol
+xich
+codec
+còdecs
+colgroup
+collapse
+ch'utinarisan
+reduït
+recopilada
+kimolik
+cicles
+b'onil
+color
+colors
+columna
+tem
+columnaamb
+tununel
+combinat
+xtrizelaj
+command
+yechol
+KOMA
+alaj
+
+commit
+típics
+baixi
+comunicar
+comunitat
+compactar
+compactant
+compararles
+junamanïk
+compatibilitat
+complementari
+tz'aqatel
+completarà
+acabament
+completament
+completava
+estàndards
+component
+redactar
+comprimit
+compressió
+comprometre
+compromès
+càlcul
+ordinador
+conbv
+conferència
+configurable
+nuk'el
+configuracions
+configurarse
+configurarne
+confirmeu
+confirmat
+conflicte
+elles
+connecta
+connectat
+connectant
+okib
+connexions
+consecutius
+conseqüència
+considerarà
+consoleerror
+consoleinfo
+consolelog
+jocs
+restricció
+construir
+contacteu
+Al
+contenia
+conté
+contingut
+rupam
+context
+ltcanvasgt
+natzük
+xtachäp
+col·laboradors
+to'onela'
+controlar
+oxikbr
+tecleig
+convertir
+kaxanwey
+galetes
+taq kaxlanwey
+interessants
+qupijuch
+coords
+Wachib'en
+s'ha copiat
+còpies
+nawachib
+copiant
+correctes
+interlocutors
+corresponents
+Ara
+atäq
+t create
+recompte
+tajiläx
+rutzijöy
+comptadors
+cobertura
+cpnbv
+cpnbw
+fallada
+Creala
+creades
+credencials
+crítica
+ruxalq
+ploranera
+css
+ctnbr
+ctnbv
+ctrl
+nkeruk
+actualment
+líptica
+personalitzats
+personalitzacions
+nrichinaj
+kichokoy
+Retalla
+nutemej
+rodat
+surin
+da
+diàriament
+malbé
+perilloses
+tenebres
+darrinhenein
+otel
+rucholxe
+suposar
+datareporting
+data
+ruq'ijul
+dia
+diadies
+q'ijtaq q'ij
+diacada
+dies
+de
+mort
+Depura
+depurador
+chojmirisanem
+desembre des
+desembre
+enganys
+decisió
+ajarisanem
+declarada
+taxutuj
+xetamäx
+decodeAudioData
+descodificats
+xtisol
+nach
+desxifrar
+k'o wi
+per defecte
+defecteS
+definició
+q'ajarib'äl
+graus
+yalojem
+delegat
+suprimirlos
+suprimit
+suprimia
+obté
+lliurant
+den
+tiya'
+denegat
+denominador
+xe'el
+desús
+desreferenciament
+descriu
+rutzijoxkil
+descriptor
+dissenyats
+rukematz
+destinació
+Destrueix
+destruït
+detach
+detallada
+detectat
+determinar
+desenvolupador
+developermozillaorg
+desenvolupament
+dispositiu
+dispositius
+devtoolsdebuggerremoteenabled
+diagnosticar
+rutzilbr
+diagrama
+tunwachib'äl
+diàleg
+tzijonem
+respecte
+diferències
+diferent
+aproximació
+ajilal
+dimensió
+direcció
+directiva
+directament
+MAS
+inhabilita
+tichup
+chupül
+inhabilitat
+Inhabiliteu
+Descarta
+rebutgen
+norma
+Suspèn
+produir
+fòrums
+camuflat
+seteyak
+lliurat
+xolon
+chupinäq
+yerutaluj
+distribuïdors
+deixeu
+div
+xtikib
+docpdfadjuncióadjuntt
+documentació
+wuj
+nimatzij
+document
+wuj
+documentació
+yaköl wuj
+documentdomainS
+cut
+sensibles
+dokumentwrayt
+yeloq
+t
+achajin
+domain
+grau
+akonel
+t Share
+yatojqan
+dopplerFactor
+PUNTO
+alentir
+xritzelaj
+xuqasaj
+baixadaSe
+Eqasan
+s'està baixant
+tajin niqasäx
+baixades
+taq qasanïk
+arrossegueu
+dibuixades
+controlador
+descartat
+abocament
+duplicades
+feia
+dwndiagstrike
+e
+Activador
+reutilitzar
+vora
+edita
+editat
+s'està editant
+tajin ninuk'
+efecte
+perjudicials
+esforços
+eg
+vintivuité
+eightbit
+divuitè
+divuité
+vuité
+either
+tardat
+elea reime
+ch'akulal
+element
+elementdataset instead
+elementdataset
+elements
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+onze
+onzé
+eligible
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+elip
+else contact
+sinó
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+correu electrònic
+taqoya'l
+emailI &apos
+emailI
+emailed
+emailexamplecom
+emails
+emand
+embarrassed face
+avergonyida
+embarrassing
+embed
+embedded PDF
+embedded
+embeds
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+Responsable
+emcontributorJoe Solon
+emcontributorMozilla
+emcontributorSuzy
+emfoc
+emgreat
+emnova
+emdiferents
+emoticons
+employer
+empty Trash
+empty slots
+Tijam
+Esborreu
+emreborn
+emrenewed
+emàgilment
+emthunder
+emcadells
+emulate a
+noxk
+emulating a
+emulating
+emulació de
+en
+enUS en
+ca
+cak
+enable brandShortName &apos
+enable others
+enable worker
+habilita
+titzij
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+activats
+enables
+enbz
+chi kikojol q'inijuch'
+chikikojol q'inijuch'
+encode
+encoded
+codificador
+codificació
+encodings
+xerïl
+encrypt this
+encrypt
+encrypted you
+xifrats
+encryption
+enctype instead
+enctype
+enctypeS
+enctypemultipart
+end user &apos
+final
+ended
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+ends
+enforced
+engage
+engine
+engines
+enhanced
+enjoy
+enlarging the
+enlarging
+prou
+nikijib
+ensures that
+ensures
+introduïune
+introduïda
+entering
+enters
+Chijun
+entirely
+entities
+entity in
+entity reference
+entity
+entrades
+entrada
+okitz'ib'
+ajilatel
+enumerable
+enus
+environment Data
+environment
+environments
+ephemeral DiffieHellman
+ephemeral
+equals sign
+signe
+equació
+junamajilab'äl
+equestAnimationFrame
+era of
+suprimeixin
+error console
+error creating
+error refiling
+error
+errorCode
+exempta
+Taq sachoj
+errors
+erver
+es Salaam
+_
+esES
+esc
+tanimäj
+escaped
+escapar
+establirhi
+established
+estimates only
+estimacions
+etc
+eval
+evaluate selected
+evaluate
+evaluating a
+evaluating an
+avaluant
+evaluation
+even
+event Handler
+esdeveniment
+citaEl
+cites
+ever
+every dayevery
+every weekevery
+rupaläj
+everyone
+everything inbetween
+everything
+everywhere
+awochochib
+exactament
+examf
+examine your app &apos
+Examina
+exemples
+examplecom rather
+examplecom
+examplenet
+exceed five
+exceed the
+excedeixen
+ultrapassat
+excedeix
+except
+excepció
+exceptions Cookies
+exceptions
+exchange
+excluded
+exclou
+exclusió
+executable
+execute
+executed to
+executed
+Tasamajij
+nrojqaj
+exemplar
+exist can &apos
+exist
+Existent
+exists
+existsWould
+katel
+exited
+exits
+expand panes
+narïk
+expanded to
+expandit
+nimirisan
+expanding out
+expanding
+expands to
+napon
+expandstrict
+anònim
+expect
+expectatives
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+esperava
+expecting
+experiència
+patit
+experiences
+experiencing
+experiment
+experimentals
+experiments
+expire
+ha expirat
+xik'o yan ruq'ijul
+expires Seconds
+expiració
+expiry
+explicit
+explicitly specify
+explicitly
+explotar
+explore a
+explore
+export regulations
+Exporta
+exported
+exposant
+exposedProps
+express
+expression
+expressions
+extend
+ampliat
+extending the
+extending
+extends system
+extends
+extensible
+rik'itel
+extension extensions
+extensió
+extensions
+external Editors
+external storage
+external
+extra Large
+extra requirements
+extra
+extract error
+extreure
+extraction error
+extraction
+extreme
+f
+cara
+facing camera
+facing
+factory
+fail
+ruwächXsach
+fails treat
+declara
+failure
+alternatives
+Rutikirisaxik chik
+fals
+false
+man qitzij ta
+familiar
+family addressbr
+famílies
+far
+fast
+faster
+faves
+faxed
+característica
+característiques
+feb &#124
+febr
+febrer
+feed &quot
+feed Subscriptions
+feed
+feedImported
+opinió
+feeds
+feel
+feels great
+feels
+fell
+fence
+fetch count
+nikol
+fetched from
+fetched
+fetching individuals
+fetching more
+recollien
+quantes
+fewer
+ff &quot
+ff
+field Value
+camp
+fields
+quinzè
+quinzé
+vinticinqué
+fig
+wach
+ajilab'äl
+figura
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+fitxer
+yakb'äl
+filename
+files
+filesystem
+filing
+fill out
+Emplena
+fillStyle
+filled
+aqatil
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+chayub'äl
+filtre
+filtrar
+filtrat
+passaven
+final
+financial
+find In
+find exactly what you &apos
+find out what &apos
+akanoj
+findbar
+finding
+finetuned
+finalitzar
+finished evaluating
+finished
+finishing
+fire
+firefox
+firefoxapps
+chupq
+firewalls
+first option
+first party
+primer
+escauen
+vinticinquena
+niqachojmirisaj
+fixed Width
+fixed width font
+fixed
+fixvideoaudioproblemsfirefoxwindows
+flag
+flagged
+flame
+flash
+flashing
+flat equation
+equació
+flexibility and security so you &apos
+flexibilitat
+flexiblebr
+floating &quot
+flotant
+floor
+floppy
+flr
+focus Variables
+focus
+focus
+folder &apos
+folder &quot
+folder subscriptions
+reciclatge
+kiyakwuj
+noqöx
+followed by
+followed
+followers
+following protocols S isn &apos
+omixik
+follows
+followup
+font Control
+font size
+font
+fontface rule
+fontface
+fontfeaturevalues
+fonts for
+fonts
+fontvariant property
+fontvariant
+footer text
+peu
+rukab'i'aj ruxaq
+footinmouth face
+footinmouth
+for &apos
+for &quot
+for Clearing
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+for recipients &apos
+for signing
+for writing
+ruxenab
+prohibit
+forçar
+forçat
+forçada
+forcing all
+forçant
+foreign
+forgeries
+forgery
+Kemestäx
+forgetting
+forgotten
+form Field
+form Post
+form fields
+form userhost
+formulari
+nojwuj
+format
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+formatSNew
+formats
+formatted as
+formatats
+formatant
+formdata on
+formdata
+formada
+forms are
+forms
+forth and
+forth
+forums
+forward slashes
+Reenvia
+reenviat
+forwardmsg
+forwards
+trobat
+foundout of
+foundout
+founds
+vintiquatré
+catorzè
+catorzé
+quartes
+fox jumps over your expectations with
+fox jumps
+fox
+fps
+frFR
+frac
+fracció
+k'ajin
+fragment Shader
+fragment
+frame &apos
+fotograma
+framed
+framerate
+trama
+frameset
+conjunts
+framing
+fraus
+fraudulent
+opij
+frequently
+fresh
+friday &#124
+divendres
+fridays
+friend
+amics
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+aj
+de
+des de
+des del
+richin
+front facing
+front
+frown face
+enfadada
+Chumatewurisan
+congelat
+ftp
+ftpmyispcom
+ple
+multifuncional
+fullpage
+fullscreen
+fully
+ulwachel
+funcionals
+functionality
+functions
+further
+future scans by
+metaviewport
+fxp Available
+fxp
+gain
+galeria
+garbage Collection
+garbage collection
+garbage
+garbled text
+reconeixible
+gateway
+gathering
+gazed
+gb
+gdiplus
+gear icon
+gear
+general Notification
+general
+generally
+generate a
+parell
+generated
+generation
+generator
+generic Photo
+genèrics
+geoenabled preference
+geoenabled
+geolocation
+geometric
+geometry visibility
+geometry
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+yerepüx
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+j
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+miris
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+donen
+given
+gives you
+gives
+giving
+glitches
+glob
+global Composing
+global community
+global
+globals
+go Back
+Tichojmin
+goes
+going online
+going
+gone
+good news
+notícia
+voluntat
+gopher
+gorithm Identifier
+got it
+got
+governed by
+regits
+grace
+grant
+atorga
+grants you
+grants
+gràfic
+wachib'äl
+esolon
+xtana
+greater than
+greater
+greeting
+grew more
+grew
+grid
+cel·la de graella
+k'iykajtz'ik
+ruk'ajtz'ik ri k'iyk'ajtz'ik
+control
+jitz'oj
+Agrupa
+grouped
+groups
+gt
+gtgt
+guarantee that
+guarantee
+guaranteed
+endevinar
+guessed
+esbrinant
+guest is
+guest
+guide you
+guiarvos
+guies
+h
+hTraduction
+ha
+hacking
+had its
+had
+half an
+half past
+half
+hand tool
+hand
+handle S
+Ximöy
+handled
+handler command
+handler
+gestiona
+handling
+hands
+conformitat
+handshakes
+hang Report
+hang stacks
+hang
+hangs
+happened
+happens
+hard drive
+hard
+hardware H
+hardware acceleration
+maquinari
+harm
+maligne
+has Attachments
+has bookmarked
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+xunuk
+hash
+hashes in
+hashes
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+ruäch
+haven &apos
+haven
+haves
+having trouble
+necessitat
+head
+capçalera
+jub'i'aj ruxaq
+rujub'i'aj
+capçaleres
+heading level
+encapçalament
+jub'i'aj
+rujub'i'aj ruxaq
+headings
+health
+heap
+bo
+height
+considerats
+hello extension
+hello
+tato
+helper
+helpful
+helping make
+helping
+helps ma
+entendre
+her
+aquí
+wawe'
+ewan
+ocult
+hide Statistics
+hide Toolbars
+amagar
+hiding
+high Grade
+high
+higher level
+higher
+highgrade
+highlight
+ressaltar
+highlightedS nodes
+ressaltatS
+highlighter
+amaguen
+highly recommended
+highly
+hightailcom
+him
+hints press
+hints
+his or her
+his
+history window
+history&apos
+natab
+hold
+holds
+home City
+home Country
+home Phone
+home directory don &apos
+home
+homepage
+hop limit
+hop
+horizontal lines
+horitzontals
+horror
+host
+hostatjat
+hosting service
+hostatge
+haureu
+nom_ordinadorport
+ruk'u'x samajb'ey
+hostnames
+hostport
+hosts
+hotspots
+hour
+horahores
+ramataq ramaj
+hores
+niqokisaj
+however
+href
+geix
+hrpd
+hstrike
+htm
+html &apos
+html
+htmlstrong
+htmlstronggaletes
+htmlstrongnatab
+htmlstrongpestanyes
+htmlstrongfinestres
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http//wwwsoftcatalaorg/wiki/SeaMonkey
+http
+https//developermozillaorg/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad
+https
+to
+yab'onil
+ésser humà
+ésser
+cinccents
+iCalendar
+iOS
+icona
+icons
+id
+idèntic
+bFins
+eöy
+identificadors
+identifica
+identifiquen
+identitats
+elenäq el
+inactiu
+ie
+si
+iframe
+ignorats
+iii
+legal
+image
+imagegif
+imatgegif
+imagejpeg
+imatgejpeg
+imagepng
+imatgepng
+mapimg
+tzuwach
+imgurcom
+immediates
+jumül
+suplantar
+implementació
+implementades
+importarles
+important
+k'atzinel
+ejik
+importava
+impossible
+adequades
+incorrectament
+en
+pa
+inactivitat
+polzades
+ruwi' q'ab'aj
+incl
+incloure
+includeSubDomains
+incloureho
+inclouen
+entrants
+anikiel
+tornarlos
+disminuir
+nimirisan
+sagnar
+sagnat
+independentment
+rucholajil b'i'aj
+índex
+indicant
+dany
+individuals
+ined
+ineficient
+nikinük
+inherit
+tikirinel
+inicialització
+inicialitzar
+inicialitzin
+inicialment
+completi
+injectar
+en línia
+pa k'amab'ey
+inserides
+innocent
+innovar
+introdueixin
+insegura
+Insereix
+inserirne
+hupam
+Inspecciona
+Tiyak
+instal·la
+tiyak
+lacions
+yakonel
+s'està instal·lant
+tajin niyak
+instantani
+intactes
+chijun
+enter
+planificació
+integritat
+pensats
+intencionada
+interessar
+interferir
+intern
+interpretat
+interprocés
+interrompre
+tallat
+tana
+vàlides
+invertida
+invitació
+invitacions
+invitaciógt
+invitat
+involucrada
+involucra
+és
+t
+no és
+oi
+incidència
+emès
+Tayuju
+emissió
+ button
+tracti
+ítems
+sandbox
+gen
+gener
+javascript
+jid
+toz
+joanconillexamplecom
+joanexamplecom
+unirse
+unit
+jpg
+imposa
+jsmith
+jul
+juliol
+ik'owisan
+saltat
+juny jun
+juny
+kb
+tiyake
+key
+teclat
+subgrid
+expulsat
+petó
+s
+coneguéssiu
+kajaw
+provoca
+etiqueta
+xu'y
+llengua
+FilelinkSón
+estructures
+darrer
+molo
+Takanoj
+riallera
+xayäk
+llei
+lleis
+ella
+tetamäx
+sortirne
+esquerra
+xokon
+xokonajsikajkiq
+longitud
+permetran
+enviïCVdocument
+lletres
+nivell
+lft
+li
+liTanikoj
+liKatoyon
+liWe
+liTab
+
+liTapitz
+liMan
+liRe
+liTorneuho
+liLes
+responsables
+biblioteca
+llicències
+llicenciadors
+xaxe
+llum
+claror
+saqil
+probablement
+liliNo
+liliCliqueu
+liliEsteu
+liliQue
+liliPremeu
+liliAlguns
+liliemNOTA
+límit
+limitació
+linea
+línies
+enllaç
+ximöy
+enllaçarles
+nuximöy
+llavis
+cholajem
+llista
+rucholajem
+llistarles
+escolta
+receptor
+ayama
+enl
+xim
+carregarne
+s'ha carregat
+samajib'en
+Tajin nusamajib'ej
+s'està carregant
+local
+localhost
+desconocida
+ubicacions
+blocat
+q'eleb'en
+registre
+tz'ib'atzij
+rutikitisab
+mojojri
+logotips
+long
+divyuquyïk
+ruchokok
+tècniques
+kitzolinel
+Tisach
+perdre
+satisfacció
+lt
+ltCtrlKgt
+ltCtrlMajKgt
+ltCtrlShiftKgt
+ltacció
+ltbgtboldlt
+contextos
+ltcanalgt
+ltordregt
+ltmissatgegt
+ltmsggt Envia
+ltnomgt
+ltmode
+ltsobrenomgt
+ltparàmetregtltparàmetregt
+ltr
+ltsalagtltsalagt
+ltdestinaciógt
+usuarigt
+ltxExKgt
+ltxKgt
+lu
+màquina
+madruwb
+bústia
+bústies
+maildir
+mailexamplenet
+nimaläj
+principal
+tanataj
+fabricants
+xamestaj
+Gestiona
+samajixïk
+manifiesto
+manifestjson
+manifestwebapp
+manipular
+etamawuj
+manual
+molts
+mapar
+mar
+març
+
+marge
+ruchi'
+marges
+mark the
+marca
+marked
+marking a
+marking
+ikun
+ch'utika'aj
+marquesina
+masking
+xkeyujtäj
+tuxima
+matched by
+trobats
+matcheleatchMore than
+coincideix
+coincidís
+matchutomatically
+material
+math table
+Retamab'alil ajilanïk
+matemàtiques
+matrix
+màx
+nïm
+maxage
+maximum Length
+maximum permissible
+mama
+may discontinue
+may update
+maig | mai | mai
+maybe
+mb of
+mb
+mbox
+me out of here
+taqoyal
+mean slower message
+mean
+means you &apos
+significa
+measure a portion
+measure a
+mesurar
+measurements
+measuring
+mechanism
+mechanisms
+media Sharing
+media
+medium
+meet
+member
+nikiyüj
+membersonly
+memory map
+memory measurements
+memory
+mentioning
+menu Bar
+menu bar
+Rumolsamaj
+menuPath
+menus
+comercials
+merge Warning
+merge all
+Combina
+mesh
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+avançat
+messageDone
+messageIndexing
+messageS
+messagebr
+messagebrIn
+messageeml
+estatgt
+messageid
+messages Reopen
+missatges
+messaging
+meta
+metadada
+metal posteriors
+metal
+metaviewport tag
+metaviewport
+Avaluador
+
+method
+methodGET
+methodPOST and
+methodPOST
+methodpost
+methods
+talüy
+microsummary
+middle Eastern
+mig
+might
+migrate to
+migrate your
+migrar
+migrated
+Taq puyaj
+mil·límetres
+millisecondPing
+lisegons
+mimetype of
+mimetype
+ch'utin
+mín
+mind
+minheight
+mini
+mínima
+minjs
+menor
+mins
+minute minutes
+minut
+minutCada
+ch'utiramajtaq ch'utiramaj
+minutminuts
+minutes ago
+minutes …
+minuts
+minwidth em
+minwidth
+misconfiguration
+configurats
+misencoded
+discrepància
+mismatched tag
+mismatched
+missed reminders
+missed
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+missing
+misspelled word
+misspelled words
+escrita
+mistake
+mistakes
+mistyped
+mix
+variada
+mmultiscripts
+okixaxel
+mode and can &apos
+mode
+modegt
+model
+modelview
+moderated
+moderator
+modern
+modes
+modificarse
+modifier
+modifiers
+obertament
+module returned
+mòdul
+modules
+moduli
+moment
+instants
+moments
+dl
+dll
+moneymouth face
+diners
+monitor
+month
+monthS of
+mesS
+mescada
+mensualment
+mesos
+more bookmarks
+more powerful
+more savings
+depuradors
+moreand
+morex
+ch'aqa' chik…
+més…
+most Visited
+most accurate
+most popular
+profit
+mostrecently
+mouse Wheel
+ratolí
+move Down
+move Up
+move away
+move emswiftly
+mogui
+moveable
+moved renamed or deleted
+moved renamed
+traslladat
+movedS
+Movemail
+movent
+MOZ
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCIceCandidate
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+
+mozVisibilityState
+mozcmd directory
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+Mozillaorg / Softcatalà
+mozillaorg
+mozillaorg / Softcatalà
+mozinlinebox display
+mozinlinebox
+mprescripts
+ms
+msf
+msgFilterRulesdat file
+msgFilterRulesdat
+much
+multiline
+multimedia
+multiple links &quot
+diverses
+multiplied And
+multiplied by
+multiplicà
+multiprocés
+multisetmanal
+música
+must involve
+llegirlo
+my &quot
+my Cert
+my Projects
+my Quick
+my Task
+my Yahoo
+my windows
+nuyakwuj
+mypagehtml &quot
+lamevapàginahtml
+n
+nWhen your
+nWhen
+name &quot
+Anomeneu
+nameSource
+named anchor
+named either
+anomenat
+names
+rukojlib
+namespaces
+narrowing
+native code
+natiu
+natively
+navigate
+moguda
+s'està navegant
+tajin nok pa k'amaya'l
+navigation Toolbar
+navegació
+okem pa k'amaya'l
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+prop
+nearby
+nearest
+necessary
+xtanuk
+needed
+needing to
+nrajowaxik
+verifiqueu
+negate
+negated
+negació
+negative
+negotiate an inadequate
+xuloq
+negotiating a
+negociava
+wanel
+neither
+nested Table
+imbricada
+imbricament
+netnz /
+netnz
+Netscape
+network Monitor
+network Timeout
+network drive
+network section
+xekamulüx
+never Show
+mai
+new Caledonia
+new Separator
+new Tab
+new Zealand
+new home
+new word
+Nou
+newer
+news client
+news
+newsexamplenet
+newsgroup subscriptions
+newsgroup
+newsgroups
+newsrc File
+newsrc file
+newsrc
+next gt
+següent
+nicer
+sobrenom
+pseudònim
+nicknamegt Change
+nicknamegt
+nicknames
+nicks
+nocturna
+nikto
+vintinovena
+dinovè
+dinové
+vintinové
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+manäq
+no
+noMac
+noWin
+nocors&apos
+nocors
+node
+nodeShow all
+nodeShow
+nodeValue
+nodelock
+nodes
+nominative
+non Participant
+non
+nonASCII
+nonFORTEZZA Certificate
+nonFORTEZZA
+nonGregoriancalendar
+nonResponse
+nonUTF encoding
+nonUTF
+nonascii character
+nonascii
+noncesource
+noncharacter
+Cap
+cap
+majun
+nonempty
+nonfunction pseudoclass
+nofunció
+subdomini
+nonincremental Cause
+Menimirisanïk
+nonleaf
+nonmultiprocess
+nonnavigation
+mexokonil
+nonparticipant
+nonprintable character
+nonprintable
+nonprofit Mozilla Foundation
+lucre
+nonspace in
+nonspace
+nonstandard
+nontext
+Nirepüx
+migdia
+garantirne
+normally
+noscript
+nosniff
+nostore
+not After
+not Before
+not Connected
+not Critical
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+not Installed
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+not checked
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+sigut
+notation be unescaped
+notation be
+notation
+note Slow
+ch'utitzijol
+nota
+notes
+nothing
+notice
+notés
+notification Permissions
+notification _
+notification
+notificacions
+notificat
+notifier or
+meteorològic
+notify me
+Notifica
+noting
+nounclass
+nov &#124
+nov
+novembre
+now doesn &apos
+now
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+nsIWindowMediator
+nsIWritablePropertyBag
+ajilab'äl
+num
+numèric
+numerada
+numbers negative
+numbers
+chikajil
+numerador
+numeric
+nursery Collection
+nursery Eviction
+jove
+obj Properties
+obj
+object Stores
+objecte
+objects
+obscured
+observed
+observers
+obtain
+occur
+occured
+adient
+occurrence of
+occurrence
+ocurrències
+occurs
+oct &#124
+oct
+octubre
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+of Man
+of Office
+of Operation
+of Sync
+of Validity
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+de
+richin
+ofbr
+off paint
+Ruchupik
+chupül
+desactivat
+tichup
+offer
+oferirà
+offering
+offerings
+offers
+offerxA »
+desconnectat
+offline_apps
+offsets
+often
+ok
+old
+older than
+older version of Sync
+older
+oldstyle YouTube
+oldstyle
+omitted
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+a
+activat
+en
+pa ruwi'/chi rij
+titzij
+once
+one Level
+one moreand
+vintiun
+alteració
+ones
+oneshot
+oneubuntucom
+ongoing
+online
+only reloads
+only supports
+only transmitted
+només
+diagnòsticsbr
+opacity in
+opacitat
+saqsöj Response
+saqsöj
+opaqueredirect Response
+opaqueredirect
+opcode
+open Web
+open WebIDE
+tijaq
+Jaqäl
+obert
+opening fence
+obrint
+opensource
+operating system
+operating
+operation command
+operation failed
+operació
+operations error
+operacions
+operator expected
+Xpath
+DYAGONAL
+opportunity
+opposed
+optimització
+optimizations
+optimized away
+optimitzades
+optin No
+optin
+option Group
+cha'oj
+opció
+optional defaultS
+cha'el
+opcional
+filtrades
+options
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+o
+o bé
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+order
+organization
+organitzacions
+organitzador
+origin
+originAttributes
+original
+originally
+originals
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+altre
+nataluj
+otherwise it
+otherwise
+our geolocation
+our partners
+ruwachuk
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+out
+outage
+obsoleta
+outgoing
+contorn
+ruchi'
+outlook
+desactualitzada
+output folder
+elem
+outside
+over other apps &apos
+pa ruwi'
+impacte
+overlay
+sobreescrit
+tz'ib'an pa ruwi'
+override the viewer &apos
+substitueixen
+overriding
+chuwatz'ib'anem
+overview
+sobreescrivint
+overwritten
+sola
+mantingut
+owner of
+propietari
+ownerElement
+ewäl
+ownership
+p pIf
+p
+pA secure
+pJun
+pAdditional information
+pMajun
+pAttack pages
+pAttack
+pDeceptive sites
+pDeceptive
+pEntering any
+pEntering
+pWe
+pThe browser
+pThe page
+pThe requested
+pXq
+pThese types
+pThese
+pEncara
+pLes
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pYou
+oji
+paquet
+empaquetat
+paquets
+taq pisoj
+espaiat
+nojsan
+page &apos
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+page translation
+page }
+rutzalq
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+ve visited
+tikicha
+paint flashing
+paint
+painted area
+pintats
+pair a
+pair
+pas
+tauler
+panel
+subfinestres
+panning
+paper Size
+paper
+paragraph Marks
+pajtzij
+paràgraf
+param
+parameter entity
+parameter
+parameters
+paranoid
+parent Match
+parent Payload
+parent prefix
+pare
+parse XML
+parse failure
+Analitza
+parsed
+parser state
+parser
+nisoj
+part of
+part
+partial Update
+partial character
+parcials
+partially
+participant
+participants from
+participants
+participate
+particular purposes
+particular
+parties
+partner You
+soci
+partners We
+partners work
+socis
+partnership
+parts
+party
+partyAre
+passeu
+passed to
+passat
+passive ’
+passive
+cholewatzij
+txtcontr
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+password&apos
+contrasenya
+passwordLeave
+passwordStored
+passwordprotected
+passwords
+past
+enganxeu
+patch apply
+patch
+camí
+paths starting
+paths
+pattern &apos
+regexpl
+nipab
+paused —
+pausa
+payload
+payment provider
+payment
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+pau
+peer &apos
+iguals
+peers &apos
+peers
+pending dump
+oyob'en
+pendent
+people &apos
+people wouldn &apos
+gent
+per
+per cent
+percentage of
+percentatge
+percnt Completed
+percnt
+perform caseinsensitive
+perform querySelectorAll
+perform
+performance
+performed Trying
+performed
+realitzargt
+performing
+informarà
+permanent exception
+permanent
+permanently deleted
+permanentment
+permissible length
+permissible
+permission denied
+permís
+permisos
+permit
+permitted
+persistent logs
+persistent
+person &apos
+person who holds
+ayonil
+personal Card
+rujikonal
+personalhttp//wwwmozillaok
+personalitats
+nawichinaj
+phasang
+frase
+pin
+ping
+fixes
+ritzelanik
+píxels
+placeholder
+loca
+net
+plataforma
+yetzij
+reproduirlo
+connector
+connectors
+enfonsà
+pm
+png
+podcast
+podcasts
+senyalen
+punter
+apunta
+Estape
+poly
+populars
+emergentEl
+nichuq
+quedin
+ports
+position
+posicionament
+ijub
+postMessage
+ppIntroduirhi
+ppCodi
+ppJujun
+ppAlguns
+pprint
+prèvia
+pref
+prefereix
+preferència
+preferències
+preferonline
+preferits
+prefix
+preflight
+s'està preparant
+tajin ninuk'
+xenik
+presentarlo
+presentats
+haurien
+ Enter
+consells
+ch'apon
+ch'apäl
+premut
+pressió
+presub
+chuwa xetz'ib'
+presub
+chuwa witz'ib'
+Evita
+evitat
+impedeixin
+anterior
+prèviament
+preu
+primev
+Imprimeix
+imprimibles
+impressora
+xifraran
+prioritats
+prioritat
+privadesa
+Palaqinem
+privilegi
+superiors
+aplicarlo
+procedir
+ntikïr
+tractada
+tractament
+processador
+yerajilaj
+producte
+profile
+iyirisanel
+anàlisis
+runojisaxik
+empreses
+progrés
+Juley
+promise
+kitzij
+licitaran
+interna
+natob
+protegirse
+protecció
+protegeix
+protocol
+ruchojwi
+protocols
+demostrar
+proporcionar
+Tot
+s
+Proveïdor
+proveïdors
+proporcionant
+ruproxi
+pseudoclasse
+pseudoclasses
+pseudoelemento
+pseudocapçalera
+pspan
+públics
+Publica
+publicació
+arrossegueu
+pulliEsteu
+pulliRichin
+pulliPot
+pulliÉs
+pulliTab
+punitiu
+Compra
+finalitat
+finalitats
+px
+qmozillaorg
+qualitat
+quarantena
+barallaven
+consulta
+rucholajin
+potent
+one
+quota
+quotes
+citat
+qwxyz
+rad
+kutamil
+rupitzb
+radi
+aqaqinel
+interval
+indicatTots
+kitzijik
+rupiksel
+raw
+accessibles
+Llegeix
+llegia
+choj richin rusik'ixik
+només de lectura
+xtikisik
+reason
+xchupitäj
+rebre
+xeruk
+recentment
+s
+destinatari
+
+destinataris
+doncs
+recomanat
+reconfirmació
+torneuvos
+reconnexió
+enregistreu
+enregistrament
+rect
+alin
+recursiva
+redireccionar
+redirigeix
+reduir
+xrik
+omplir
+xxutüx
+rebutjant
+regexp
+regió
+rulewal
+registrant
+actualitzarse
+regulacions
+unir
+relacionades
+relatiu
+relativament
+importància
+rellevants
+recarregarà
+recarregat
+Tajin nusamajib'ej chik…
+s'està tornant a carregar
+diaQueden
+tunataj
+perduts
+näj
+remot
+äq
+extret
+eliminant
+Reanomena
+renderització
+representar
+renegociació
+repararla
+tornarse
+repetició
+tinojisan
+kamuluxïkrutz
+repeticions
+Reemplaçaho
+ajalwachij
+similar
+etolil
+replicar
+replicació
+respost
+lisegonResposta
+notificarles
+rirajowaxik
+reporturi
+representa
+taqowuj
+perajrequestAnimationFrame
+licitada
+licituds
+necessiten
+ajowan
+necessari
+requisits
+requereix
+licitar
+remostrejar
+reenviar
+reserven
+reservat
+xketzolïx
+redimensionar
+Ruwachinem
+xtikisöl
+recurso
+recursos
+responsius
+respondWith
+contestador
+responent
+atikirisaj
+xkerutzolij
+taqruwujil
+rutzolixi
+restringida
+limita
+resultat
+resultats
+reprendre
+dominador
+contenció
+reculli
+torni
+retornés
+retornat
+pensaríeu
+revelar
+Reverteix
+revisions
+revocat
+rgb
+rght
+ajkiq'a'
+dreta
+responsabilitat
+responsabilitatPrecaució
+riscs
+eludir
+mdbox
+entrat
+sales
+arrel
+ruxe'el
+xe'el
+Tisutïx
+translació
+arrodonida
+rutina
+cholaj
+fila
+filai
+ff
+rr
+rtl
+ruby
+estiu
+tusamajij
+executantse
+aFirefox
+interfície
+mateixa
+texts
+mostrejada
+mostres
+taq k'utub'äl
+sanayai
+saturació
+turisanïk
+dss
+diss
+desi
+desat
+Economitzador
+desin
+say
+diu
+escalada
+nikeleq
+Escaneja
+öb
+àmbit
+captura
+esamäj
+tzalajuch'un
+scripts
+scriptsrc
+chupul
+suau
+segellat
+tz'apin
+cerca
+tikanöx
+searchIntegrationengineName
+cerques
+taq kanob'äl
+seg
+vintidosé
+segonTemps
+segons
+ruka'ntaq ruka'n
+segonsegons
+secpk
+secpr
+secret
+peraj
+secció
+tanaj
+sectk
+sectr
+secure
+om
+seeing doctype
+seek
+s'està posicionant
+tajin nikanöx
+seem
+seems
+seen but
+rujaqon
+select &quot
+select camera
+select
+selected line &apos
+cha'on
+seleccionat
+selecting
+selection
+selections above
+selections
+selectlabel
+cha'öy
+selector
+selectors separated
+selectors
+selects
+selfsigned
+semicolon
+send Feedback
+send For
+nikitäq
+sender &apos
+sender message
+sender
+enviant
+tutaqa
+sensitive
+sensitivity
+sent Cookie
+vàreu
+sep &#124
+set
+separate tags
+separar
+separated
+separately
+separating
+separator character
+jachöy
+separador
+set
+setembre
+sequentially as a waterfall
+sequentially
+serial Number
+serial number
+sèrie
+series
+serif
+server &apos
+server Quota
+
+server incorrectly
+server maintenance
+server that can &apos
+servidor
+servers Maybe
+servidors
+serves
+service providers
+service worker
+asamajinel
+services
+serving
+session ID
+session Id
+session Statistics
+session cache
+session
+sessions
+set Priority
+set browsercachediskenable
+set strokeStyle
+defineix
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+setTimeout
+setUserData
+setVelocity
+ayák
+paràmetre
+settings &#124
+
+settings
+setup options
+setup
+vintisetena
+dissetè
+disseté
+vintiseté
+several ways
+quants
+shader Editor
+shader compile status
+shader compile
+mujan
+shadows variable
+eclipsa
+shall control
+shall
+shape &quot
+shape
+najunamal
+shared Workers
+compartit
+sharedLongDesc
+nukomonij
+rukomonik
+sheet
+sheets
+shell
+pokob
+shiftKeylabel
+Majclic
+shiny metal posteriors which
+shiny
+shopping
+rajchajinel
+chojokem
+shortcuts
+shorten this
+utinisaj
+shorter file
+curt
+shortly
+shortname
+should keep
+should make
+apliquin
+t continue
+shouldn
+show Cookies
+show resultShow
+show through
+Kekut
+showall &apos
+showall
+showing repairing
+showing
+indica
+shownReplies
+shows
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+shutdown
+shutting down
+shutting
+sibiling
+side
+LATERAL
+sidebarName
+laterals
+sign in
+Doneuvos
+comunicant
+signature algorithms
+signature
+signatureAlgorithm
+signatures
+signats
+signer &apos
+signer
+signers found
+signers
+significant
+signing certificate
+signing
+signup
+silence
+silently authenticates
+silenciosament
+similar
+simple Measurements
+simple XLink
+senzill
+simplificar
+simply need
+simply
+oxk
+simulator installed
+simulator
+since
+single
+singlesignon
+site &apos
+site doesn &apos
+nutïj
+
+sitenat
+sites
+vintisisena
+sixteen &#124
+setzè
+setzé
+vintisisé
+size
+mides
+skip Integration
+skip this
+ometre
+saltat
+skips
+slash operators
+slash
+slashes ie
+slashes
+slice
+jilïy
+lliscador
+slot
+slots
+slow Motion
+slow SQL
+slow down
+slow ×
+lent
+slowing
+slowly
+small
+smaller
+smart
+smartcard please
+inseriula
+smartlabel
+smartphone
+smiley face
+somrient
+smooth scrolling
+smooth
+smtpexamplenet
+instantània
+instantànies
+snews
+so it &apos
+so it can &apos
+so you &apos
+so
+soap
+sòcol
+software makers
+solkema
+solid Border
+solid circle
+sòlid
+solució
+solucions
+solve a
+solve
+some cool
+some printing
+some sample
+some unspecified
+such
+somebody &apos
+somebody
+someone isn &apos
+ningú
+something
+sometimes
+somewhere earlier
+somewhere
+xketzijtäj
+sorry BrandShortName can &apos
+sorry we &apos
+qamak
+sort
+sound file
+so
+sounds like
+sounds
+source software
+source
+codis
+space Fantasy
+space between
+rukojolil
+kojol
+spam
+span class &apos
+span
+spanThis
+spanbrandShortName
+spaninhabilitat
+spantzijon
+estén
+spanspan
+speak now
+parleu
+parlar
+spec in
+spec
+special incidental
+special kinds
+especial
+specific command
+específiques
+specifically
+specification
+especificat
+specifies
+specify preferred
+indiquen
+specifying a
+specifying acceptcharsetutf
+especifica
+speed
+speedOfSound
+spell checking
+spell
+spellchecker
+ortogràfic
+spend
+dedicat
+spin button
+spin
+dividida
+sponsored
+cues
+spyware
+arrel
+sqrt
+square root
+quadrada
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+ase
+estable
+raxinäq
+stack trace
+stack
+piles
+standalone
+standard time
+standard toBlob
+standard
+standards mode
+standards
+star rating
+star
+destacat
+start Debug
+start Simulator
+tikirisab
+started finding
+started
+starting with &apos
+tikirisanïk
+startlabel
+startmozillaorg
+starts
+startup
+state
+sentència
+omeses
+statistics about
+statistics
+rucholajilatzij
+status &apos
+status bar
+estat
+stay
+nreleq
+step Over
+step
+stepped through
+stepped
+stepping
+steps out
+steps
+nutzu
+robat
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+tiyk
+stopped
+stopping
+stops
+storage quotas
+storage
+storages
+yekiyäk
+emmagatzemat
+stores information
+stores
+storing
+flux
+strength
+strict protection
+strict
+strike
+string literal
+cadena
+cholajil
+strings or
+cadenes
+strokeStyle
+reforçada
+strongchokoy
+strongokisaxel
+strongThe Book of
+strongEl Llibre
+strongEl
+stronger Emphasis
+iläj
+strongexamplecom
+stronghttp
+strongly recommends
+strongly
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+estructura
+structures
+studies
+study Findings
+study
+style Editor
+style Inspector
+style endexpand
+style sheet
+style
+styles
+stylesheet
+comprimits
+stylesrc
+xe
+subdirectori
+subdocument
+subdomain
+subdomains
+subfolder
+subcarpetes
+subgrid
+subgrups
+subject Reminder
+subject
+submission to
+submission
+submit Query
+submit bugs
+submit information that &apos
+xtatäq
+submits
+tramès
+submitting your
+submitting
+subrecurs
+subscribe Calendars
+Subscrium
+subscrites
+subscribedImported
+subscrivint
+xetz'ib'
+subscription
+subscriptions
+subsession data
+subsessió
+substituting
+subthread
+subthreads
+subtree
+anat
+succeeded
+successful
+successfully Transmitted
+èxitS
+imprimible
+suddenly
+sufficient
+suggest
+suggested Contribution
+suggested Tags
+Mozila
+suggestion
+suggeriments
+suggests
+suit
+suitable
+suite
+suites are
+suites
+suma
+tunuj
+summary file
+summary
+convocat
+diumenge
+dium
+xe
+superscript pair
+witz'ib'
+superseded by
+substituït
+adult
+facilitat
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+xtuköch
+reconeguda
+supporting
+supportmozillaorg
+suport
+Kan
+surface area
+superfície
+surprised face
+sorpresa
+substitut
+surrounding environment
+surrounding
+survey is
+survey
+susceptible
+sospitós
+suspicious
+sutomatically
+svSE
+svg
+switch to
+canvi
+tzijonel chupunel
+canviat
+tzijon
+switching
+symbol
+símbols
+sync them
+sincronitzi
+syncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+yexim
+synchronization
+synchronize
+síncron
+sincronitzarse
+synctitlepairlabel
+syntax Highlighting
+sintaxi
+system Integration
+system beep
+q'inoj
+sistema
+
+systemDate
+systems this
+systems
+t believe
+t delete
+uqub
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+pestanya
+ruchi'
+rukojol
+ruwi'
+tzuwächTajin
+tabdelimited tab
+ldi
+table &apos
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+table rows
+kemoj kajtz'ik
+taula
+alamkem
+tabs
+tabtxt
+etiqueta
+etiquetat
+tagname
+tags
+take up
+prendre
+taken
+takes
+taking too
+taking
+talk
+tampering
+tapping
+target
+targeted document
+targeted
+task
+tascaEl
+taskbar
+tasks
+tastes
+taul
+tbl
+technical Details
+tècnics
+technique
+techniques
+tecnologia
+oyonib'äl
+telèfon
+tell websites
+Notifiqueu
+tells
+plantilla
+Plantilles
+temporalment
+temporary outage
+temporary
+deu
+tename &apos
+provisionalment
+desé
+tenured objects
+feien
+ter Lock API
+term &quot
+terme
+tzij
+terminate a
+terminate
+terminated by xslmessage
+terminated
+termination
+considereu
+test
+testics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+text
+textContent attribute
+textContext
+textonly
+texture source
+textura
+è
+than minimum
+than
+thank
+thanks for
+thanks
+that &apos
+that can &apos
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+xtasamajib
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+the Grenadines
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+the emtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+the visualization
+the webapp manifest isn &apos
+the webapp
+the wildcard
+the windowconsole
+the
+theft
+their defaults
+tikisik
+them
+ruwachinel
+themed
+themes
+toqueu
+aleshores
+there &apos
+there
+therefore
+these organizations
+aquests
+they &apos
+they expire
+they require query
+äj
+things you
+coses
+think I &apos
+think
+thinkers
+thinking
+creu
+third Party
+third parties
+implicada
+thirdparty cookies
+thirdparty software
+thirdparty
+thirteen &#124
+tretzè
+tretzé
+trenté
+thirty &#124
+thirty first
+thirty one
+trentenes
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+sigueu
+thisIf
+thisa
+membres
+though
+thought
+thousands
+thread &quot
+thread Hangs
+thread killed
+thread watched
+ätz
+threads
+vintitresé
+xuroqij
+through inaction
+through
+thunderbird
+thursday &#124
+dijous
+dj
+ticket was
+ticket
+ties
+til &#124
+til
+tile replacing
+mosaic
+mosaics
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+time
+timeOccurs
+timed Out
+timed
+timedout
+awujib
+licitant
+Cerqueu
+timer Name
+timer started
+q'ijunel
+temporitzador
+timers in
+cronòmetres
+times
+timesaving
+timestamp
+timestamps
+timezone &quot
+horari
+timezonepersonalg
+timezoner message doesn &apos
+temporització
+títol
+a
+a 
+fins al
+richin
+avui
+nitik
+testimoni
+demà
+massa
+pres
+mà
+barra d'eines
+kikajtz'ik taq samajib'äl
+molsamajib'äl
+kikajtzik
+caixes
+indicador de funció
+pixa'
+tzijoxkil
+ajsik
+part superior
+Rutunajil
+Toca
+enfora
+traça
+traces
+kamulunïkyonitz
+kikanöx
+habilita
+transacció
+transferència
+transferiran
+transferit
+transferint
+transformació
+tradueixis
+traduït
+traduint
+omaxik
+Transmet
+tractaran
+arbre
+troubleshooting
+cert
+qitzij
+true
+Trunca
+Confiahi
+comprovable
+provin
+intentava
+dimarts
+dt
+dotzé
+dotze
+vinté
+vintiunè
+vintidues
+csv
+k'ojtzij
+àreatxt
+escrivint
+uTel
+ul
+ulliPot
+inacceptable
+autoritzada
+man wachel ta
+no disponible
+balancejat
+desblocada
+desmarqueu
+desactivat
+man cha'on ta
+desmarcant
+tacar
+habitual
+descomprimit
+indecisa
+alajirisäx
+chuxe'
+qajnäq tz'ib'anem
+s going
+comprès
+destinatarisocults
+desfer
+indesitjats
+te
+desafortunadament
+man tikirisan ta
+sense inicialitzar
+desinstal·la
+telesäx el
+elesanel
+Junilal
+desconegut
+man etaman ta ruwäch
+llevat
+probable
+mek'isel
+sense límit
+tiximitäj
+ejqab
+Probablement
+Tiyuj ri tz'ib'axïk
+anul·la el registre
+insegurs
+man cha'on ta
+no seleccionat
+desconfigura
+inestable
+man ruxinäq ta
+larne
+suportada
+sense títol
+sense títol  S
+fiable
+ejikib
+disposat
+configurava
+làniaPersonalProjectesDia
+actualitzacióS
+xkerïl
+actualitzava
+updiagarrow
+updiagstrike
+actualitza
+tik'ex ruwäch
+xkerujotob
+pujat
+actualitzats
+url
+urlprefix
+eur
+ ownerElement
+xawokisaj
+utilitzava
+útils
+usuari
+usuaridomini
+generats
+usuariservidor
+usuaris
+Utilitats
+utomatically
+v
+vCard
+vS
+vàlid
+ütz
+validarne
+appcache
+validació
+validesa
+valor
+jalwachil
+variable
+Jalajonela
+varietat
+vcf
+ayinel
+vendorShortName
+verifiqui
+Verifiqueu
+yejikib
+ruwäch
+versió
+Kikaxa
+otij
+vídeo
+asilowachib
+visualitzarne
+visualitzada
+visualitzant
+respectar
+yeroqaj
+violació
+kichikopil
+geometria
+visible
+visitareu
+tz'eton
+visitat
+visitant
+visitants
+nimirisaxik
+vstrike
+potencial
+vulnerable
+esperar
+agradaria
+Titzijoj
+avís
+avisos
+kitzijol k'ayewal
+garantia
+guerra
+xkesamajïx
+t
+vigilades
+seqüencial
+sorgit
+re Sorry
+t
+t keep any
+som
+feble
+ata
+webdav
+yetzijon
+dimecres
+dx
+wuqq
+feiner
+setmanacada
+setmanalment
+setmanes
+ralal
+donem
+s new in
+roda
+recerca
+quins
+mentre
+comodí
+permetrà
+win
+window
+windowconsole
+nutzuwäch
+ullet
+inhabilitarla
+rikin
+chupma
+t be notified
+xkekanöx
+actuar
+funcionant
+laboral
+tuwachib
+tamäy
+comportarà
+niqayäk
+embolcall
+wrappers
+escrivible
+tz'ib'el
+escrivia
+ramajil
+errònia
+wwwexamplecom
+wwwmyispcom
+wwwmyservercom
+wwwopenhorg
+xNN
+xS
+xhrspecwhatwgorg
+xjavascript
+xml
+xmlns
+xpi
+xwestern
+xyxy
+coordenada
+cridanera
+ja'
+sí
+ahir
+d like to
+t
+t
+xkatuk
+començant
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+enviava
+yourself
+yousenditcom
+zero
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+zoom
+zooming

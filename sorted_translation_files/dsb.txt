@@ -1,0 +1,9412 @@
+ rights …
+/Galapagos
+A ServiceWorker
+wobglědowali
+AB _
+AB
+ACL
+ADB
+DODANKI
+AECprotokolěrowanje
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ATT Mail
+ATT
+AUS
+AVA
+Aa
+Aaiún
+Ababa
+Abandon unsaved changes
+Njeskłaźone
+Abbreviate
+Skrotconka
+Abchazišćina
+Abort
+anulěrowała
+About Your
+Wó
+Above
+Accelerated
+Accent Lowercase
+Accent Uppercase
+pismik
+Akceptěrowaś
+Acceptance
+akceptěrowane
+Access
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+AccessControlAllowMethods
+AccessControlAllowOrigin
+Bźezbariernosć
+Pśistupnosć
+Account &quot
+Account Settings &#124
+Konto
+Accountquot
+Konta
+Accountspecific
+Account…
+Akronym
+Akcija
+Actions
+Aktiwěrowaś
+Aktiwěrowany
+Activations Directory
+aktiwěrowanjow
+Aktiwny
+Actively block
+Aktiwita
+Actual Size
+Adak
+Adapter
+rědowych
+Adb
+Pśidaś
+Pśidany
+Addis Ababa
+Addis
+Additional Tools
+Pśidatne
+dodank
+Addons Installed
+Dodanki
+Addr
+Address Book
+Address Books
+Adresa
+AddressBook
+Addressbook
+Adrese
+Adresěrowanje
+Adds
+Pśidaś…
+Adjust
+Administer
+Administrative Assistant
+Administrative limit
+Administratiwny
+Administrator
+Adobe Flash
+Šćitany
+Advance
+Advanced Property Editor
+Advanced info
+Rozšyrjone
+Rozšyrjony
+wótrězk Rozšyrjony
+Rozšyrjone…
+Rozšyrjony…
+Afaršćina Afar
+Affects multiple
+Wobwliwujo
+Affiliation Changed
+Pśisłušnosć
+Afganistan
+Afrika/Abidjan
+Afrika/Accra
+Afrika/Algier
+Afrika/Asmara
+Afrika/Bamako
+Afrika/Bangui
+Afrika/Banjul
+Afrika/Bissau
+Afrika/Blantyre
+Afrika/Brazzaville
+Afrika/Bujumbura
+Afrika/Kairo
+Afrika/Casablanca
+Afrika/Ceuta
+Afrika/Conakry
+Afrika/Dakar
+Afrika/Djibouti
+Afrika/Douala
+Afrika/Freetown
+Afrika/Gaborone
+Afrika/Harare
+Afrika/Johannesburg
+Afrika/Juba
+Afrika/Kampala
+Afrika//Khartum
+Afrika/Kigali
+Afrika/Kinshasa
+Afrika/Lagos
+Afrika/Libreville
+Afrika/Lomé
+Afrika/Luanda
+Afrika/Lubumbashi
+Afrika/Lusaka
+Afrika/Malabo
+Afrika/Maputo
+Afrika/Maseru
+Afrika/Mbabane
+Afrika/Mogadišu
+Afrika/Monrovia
+Afrika/Nairobi
+Afrika/N’Djamena
+Afrika/Niamey
+Afrika/Nouakchott
+Afrika/Ouagadougou
+Afrika/Porto Novo
+Afrika/Tripoli
+Afrika/Tunis
+Afrika/Windhoek
+Afrika
+African Republic
+African
+Afrikanšćina Afrikaans
+Za
+Again &quot
+Again
+Starstwo
+Agent
+Nakopiś
+Ago
+Agree
+dojadnanju
+Aires
+Akanšćina Akan
+Akrotiri
+Alarm
+Albańska
+Albanšćina
+Alert dialog
+Alert record
+Warnowanje
+Algeriska
+Algorithm Parameters
+Algorithm
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+Alias
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Wusměriś
+Wusměrjenje
+Wšykne
+Allman
+pśipokazane
+Allocation Trigger
+Allocation
+Alokacije
+Allow First
+Allow autoplay
+Dowóliś
+dowóliś
+Allowed
+Allowing
+Allows
+Dowóliś…
+Almost done
+Almost
+Alpha
+južo
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Although
+Pśecej
+Amerika/Adak
+Amerika/Anchorage
+Amerika/Anguilla
+Amerika/Antigua
+Amerika/Araguaina
+Amerika/Argentinska/Catamarca
+Amerika/Argentinska/Cordoba
+Amerika/Argentinska/Jujuy
+Amerika/Argentinska/Mendoza
+Amerika/Argentinska/Salta
+Amerika/Argentinska/Tucumán
+Amerika/Argentinska/Ushuaia
+Amerika/Aruba
+Amerika/Asunción
+Amerika/Atikokan
+Amerika/Bahia
+Amerika/Barbados
+Amerika/Belém
+Amerika/Belize
+Amerika/BlancSablon
+Amerika/Bogotá
+Amerika/Boise
+Amerika/Cancún
+Amerika/Caracas
+Amerika/Cayenne
+Amerika/Cayman
+Amerika/Chicago
+Amerika/Chihuahua
+Amerika/Creston
+Amerika/Cuiabá
+Amerika/Curaçao
+Amerika/Danmarkshavn
+Amerika/Dawson
+Amerika/Denver
+Amerika/Detroit
+Amerika/Dominica
+Amerika/Edmonton
+Amerika/Eirunepe
+Amerika/Fortaleza
+Amerika/Nuuk
+Amerika/Grenada
+Amerika/Guadeloupe
+Amerika/Guatemala
+Amerika/Guayaquil
+Amerika/Guyana
+Amerika/Halifax
+Amerika/Havanna
+Amerika/Hermosillo
+Amerika/Indiana/Indianapolis
+Amerika/Indiana/Knox
+Amerika/Indiana/Marengo
+Amerika/Indiana/Petersburg
+Amerika/Indiana/Vevay
+Amerika/Indiana/Vincennes
+Amerika/Indiana/Winamac
+Amerika/Inuvik
+Amerika/Iqaluit
+Amerika/Jamaika
+Amerika/Juneau
+Amerika/Kentucky/Louisville
+Amerika/Kentucky/Monticello
+Amerika/Kralendijk
+Amerika/Lima
+Amerika/Maceió
+Amerika/Managua
+Amerika/Manaus
+Amerika/Marigot
+Amerika/Martinique
+Amerika/Matamoros
+Amerika/Mazatlán
+Amerika/Menominee
+Amerika/Mérida
+Amerika/Metlakatla
+Amerika/Miquelon
+Amerika/Moncton
+Amerika/Monterrey
+Amerika/Montevideo
+Amerika/Montreal
+Amerika/Montserrat
+Amerika/Nassau
+Amerika/Nipigon
+Amerika/Nome
+Amerika/Noronha
+Amerika/Ojinaga
+Amerika/Panama
+Amerika/Pangnirtung
+Amerika/Paramaribo
+Amerika/Phoenix
+Amerika/PortauPrince
+Amerika/Recife
+Amerika/Regina
+Amerika/Resolute
+Amerika/Santarém
+Amerika/Santiago
+Amerika/Scoresbysund
+Amerika/Shiprock
+Amerika/Sitka
+Amerika/Tegucigalpa
+Amerika/Thule
+Amerika/Tijuana
+Amerika/Toronto
+Amerika/Tortola
+Amerika/Vancouver
+Amerika/Whitehorse
+Amerika/Winnipeg
+Amerika/Yakutat
+Amerika/Yellowknife
+Amerika
+American Samoa
+Amerikańska
+Amharišćina
+pódała
+Analysis …
+Analysis
+Analyzěrowaś
+Kokula
+Kokulka
+Anchorage
+Kokulki
+Pśipódla
+Andorra
+Android tablets
+Android&apos
+Android
+Android™
+Angeles
+Angola
+Anguilla
+Animate app
+animěrowaś
+Animacija
+Animacije
+DaryDowolDrogowanjeFaworityIdejeKlientyKupcLibrowarjeNarodny źeńProblemyProjektyProzninySlědowanjeStatusSwěźeńTelefonatyWobchadWósobinskeWrośenicaWšakeWuběźowanjeZmakanje
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+pśipiskow
+Announces
+Annoyances
+Another
+Answer
+Answers
+Antarctic Lands
+antarktiske
+Antarktika/Casey
+Antarktika/Davis
+Antarktika/Dumontd’Urville
+Antarktika/Macquarie
+Antarktika/Mawson
+Antarktika/McMurdo
+Antarktika/Palmer
+Antarktika/Rothera
+Antarktika/Syowa
+Antarktika/Troll
+Antarktika/Wostok
+Antarktika
+AntiVirus
+Antigua and Barbuda
+Antigua
+Antilles
+Antiwirusowy program
+Any
+AnyText
+Anywhere
+App can &apos
+Nałoženje
+AppCache
+AppCacheUtils
+AppMenu
+Meni nałoženjow
+AppName Uninstall
+AppName
+Appcache validated
+Appcache
+Naglěd
+Wenkowny naglěd
+Appendices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+źěla
+Nałoženja
+Nałožyś
+Applying update
+Applying
+Terminy
+Pśizwólony wót
+Nałoženja
+Apr
+Apryl
+apryl
+apryla
+arabske
+Arabia
+Arabic MacArabic
+Arabic Windows
+Arabiske
+Aragonšćina
+Archiw
+Archiwěrowaś
+Archived
+Archiwy
+Archiwěrowanje
+Arktis/Longyearbyen
+Are
+Area
+Argentinska
+Arial
+Armeńska
+Armeńske
+Arrow
+Nastawki
+Artist
+Aruba
+As Laid Out
+As Quotation
+As
+Stupajucy
+Stupujucy
+Ascension and
+Ascension
+Ashmore
+Azija/Aden
+Azija/Almaty
+Azija/Amman
+Azija/Anadyr
+Azija/Aqtau
+Azija/Aqtobe
+Azija/Ashgabat
+Azija/Baghdad
+Azija/Bahrain
+Azija/Baku
+Azija/Bangkok
+Azija/Barnaul
+Azija/Beirut
+Azija/Biškek
+Azija/Brunei
+Azija/Chita
+Azija/Choibalsan
+Azija/Chongqing
+Azija/Colombo
+Azija/Damaskus
+Azija/Dhaka
+Azija/Dili
+Azija/Dubai
+Azija/Dušanbe
+Azija/Gaza
+Azija/Harbin
+Azija/Hebron
+Azija/Hovd
+Azija/Irkutsk
+Azija/Istanbul
+Azija/Jakarta
+Azija/Jayapura
+Azija/Jerusalem
+Azija/Kabul
+Azija/Kamčatka
+Azija/Karachi
+Azija/Kašgar
+Azija/Kathmandu
+Azija/Chandyga
+Azija/Kolkata
+Azija/Krasnojarsk
+Azija/Kuching
+Azija/Kuwait
+Azija/Macao
+Azija/Magadan
+Azija/Makassar
+Azija/Manila
+Azija/Maskat
+Azija/Nikosia
+Azija/Nowokuznetsk
+Azija/Nowosibirsk
+Azija/Omsk
+Azija/Oral
+Azija/Pontianak
+Azija/Pjöngjang
+Azija/Katar
+Azija/Kyzylorda
+Azija/Rangun
+Azija/Riad
+Azija/Sachalin
+Azija/Samarkand
+Azija/Seoul
+Azija/Šanghai
+Azija/Singapur
+Azija/Srednekolymsk
+Azija/Taipeh
+Azija/Taškent
+Azija//Tbilisi
+Azija/Teheran
+Azija/Thimphu
+Azija/Tokio
+Azija/Ulan Bator
+Azija/Ürümqi
+Azija/UstNera
+Azija/Vientiane
+Azija/Wladiwostok
+Azija/Jakutsk
+Azija/Jekaterinburg
+Azija/Jerewan
+Azija
+krotkowjacornoaziske
+Ask
+Asks how
+Asks
+Asamšćina
+Assembling mail
+Assembling messageDone
+zastajuju
+Assistant
+Associated
+Assurance
+Asturišćina
+Asynchrony
+Asynchronous Pan
+Asynchronous
+Atlantik/Acory
+Atlantik/Bermuda
+Atlantik/Kanariske kupy
+Atlantik/Färöske kupy
+Atlantik/Madeira
+Atlantik/Reykjavik
+Atlantik/Stanley
+Atlantik
+Palmyra
+Atom
+Pśipowjesyś
+Attached
+Pśidank
+Pśidanki
+wótpóraśPśidanka
+Pśidanki
+Pśiłožki
+Attack Site
+Attack
+Attempt to
+Attempt
+Wopyty
+Wobźělenje
+Attendee
+Wobźělniki
+Attention
+Atribut
+Atributy
+Attribution
+Auckland
+Awdio
+AudioBufferSourceNode
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+awdiosuk
+AudioParam
+AudioParam
+AudioParams
+Awg
+Awgust
+awgust
+awgusta
+Aurora
+Awstralija/Adelaide
+Awstralija/Brisbane
+Awstralija/Currie
+Awstralija/Darwin
+Awstralija/Eucla
+Awstralija/Hobart
+Awstralija/Lindeman
+Awstralija/Melbourne
+Awstralija/Perth
+Awstralija/Sydney
+Awstralska
+Awstriska
+Authenticated
+Awtentificěrujo se
+Authentication method &apos
+Awtentificěrowanje
+Awtor
+spisany
+Awtority
+Authority unnamed
+Authority
+Awtorizěrowaś
+Authors
+Auto Increment
+Auto Update
+Awtom
+Awtomatiski
+AutoA
+AutoConfig Warnowanje
+AutoConfig
+Awtomatiski zwěsćiś
+AutoJoined Channels
+AutoJoined
+Awtomatiski wudopołniś
+Awtowudopołnjenje
+Awtomatiski namakaś
+Awtomatiski zwěsćiś
+Awtomatiske zasunjenje
+Awtomatiske zwiski
+Awtomatiski
+Awtomatiski
+Automatizacija
+Stoj k dispoziciji
+Awaršćina
+Awesćišćina
+Pśerězny
+Njepśibytny
+Njepśitobny
+Ajmaršćina Ajmara
+Azerbajdžan
+Azerbajdžanišćina
+B
+Schowana kopija
+BInformacije
+BLOKĚROWANY
+BPSnaź
+BSIGNĚROWANA
+Slědk
+Slězyna
+pozadkbmp
+Kšac slědk
+Zawěsćiś…
+Špatny
+Bahamy
+Bahia
+Bahrain
+Baker
+Baltiske
+Bambaršćina Bambara
+Banderas
+Bangladeš
+brjog
+Bankownistwo
+Barbados
+Barbuda
+Barthélemy
+zakładnego
+Bazowa linija
+Baškoršćina
+Zakładne
+Zakłady
+Baskišćina
+Bassas
+Baterija
+Bay
+Schowana Kopija
+Schowana kopija
+Schowna kopija
+Becky
+Pśed
+Běłoruska
+Běłorušćina
+Belgiska
+Belize
+Bengalske
+Benin
+Bermudy
+Beulah
+Bhutan
+Big
+BigHKSCS
+Wětšy
+Biharšćina Bihari
+naroźenja
+Narodny źeń
+Bislamšćina Bislama
+Dwójotyźeński
+Blokěrowaś
+Zablokěrowany
+znatych
+Boa
+Wopśimjeśu
+Śěłeso
+Bokmål
+Tucny
+Boliwiska
+Bonaire
+Cytańske znamje
+składli
+Cytańske znamjenja
+Boolean
+Kšoma
+Ramik
+Bosniska
+Bosnišćina
+Bot
+Botswana
+Dołojce
+Bouvetska
+Wótnožka
+Branco
+BrandFullName
+BrandFullNameDA
+BrandShortName
+Brazilska
+Brazzaville
+Klěbowe srjodki
+Bretońšćina
+Krotki
+Britiski indiskooceaniski
+Britiske
+Broken
+Pśepytaś
+Wobglědowak
+Pśepytaś…
+Pśeglědowanje
+Brunei
+Bubbling
+Buenos
+Bulgarska
+Bułgaršćina
+Nalicenje
+Nalicenje
+Naliceńske symbole
+pśipołožone
+Burkina
+Burma
+Burmašćina
+Burundi
+Zabrany
+Tłocašk
+Tłocaški
+B
+C
+CA
+CACHE
+awtoritow
+Kopija
+CCBY
+CCBYSA
+CD
+CDSA
+CKL
+CLICK
+CMS
+CN
+COLNAME
+CP
+CRL
+CSP
+CSSanimacija
+CSStransicija
+CSS
+KT
+CYPHER
+Kapwerdiske kupy
+Pufrowak
+Caicos
+CalDAV
+Pufrowakowa
+Kaledonija
+
+Kalender
+terminowe
+kalendery
+Kalender…
+Wołaś
+Callback
+Kambodža
+Cambridge
+rejtarkomaKamera
+Kamerun
+Campo
+Kanada
+kanadiski
+Canary
+Pśetergnuś
+Pśetergnjony
+Wótgronjony
+Pśetergnjo se…
+kandidat
+Canvas
+Kapverdiske kupy
+Titel
+Registrěrowanje
+Carbon
+kórtku
+Tastaturowa
+Cartier
+projicěrowaś
+Katalańšćina
+Kategorije
+Kategorija
+Pópadnjone
+Pśicyna
+Kajmanske
+Kopija
+Cela
+Celu
+Cele
+Keltiske
+Centrěrowano
+Centrěrowany
+Centrěrowaś
+Centralnoafrikańska
+Srjejźnoeuropske
+Certifikat
+Certifikaty
+Certificěrowany
+Skóńcenje
+Čad
+Pśedsedaŕ
+Wjednistwo
+Čamorošćina Čamoro
+ChanServ
+Změniś
+Změniś…
+Gaž
+Znamuško
+Charis
+diagram
+Chat
+Čečeńšćina
+Zmóžniś
+wóznamjenjony
+Či
+Prague
+Čičewa
+Chilska
+Chinska
+Chinske
+Wubraś…
+Gódowna
+Chrome
+Chromecast
+Chromium
+Cerkwinosłowjańšćina
+Čuwašćina
+Cisco
+Citat
+Město
+Klasa
+Klasiski
+klasifikaciju
+Ptaškowa
+Lašowaś
+Prozniś
+Wuprozniś
+Wótpóraś
+ClearType
+Wuprozniś
+Kliknuś
+Client
+klientow
+Mjazywótkład
+Clipperton
+Zacyiniś
+Zacyniś
+Cmd
+CmdOrCtrl
+CmdOrCtrlF
+CmdOrCtrlPlus
+CmdOrCtrlR
+CmdOrCtrlShiftD
+CmdOrCtrlShiftO
+CmdOrCtrlShiftR
+CmdOrCtrlShiftU
+CmdOrCtrlW
+Kokoske
+Kode
+Schowaś
+Złožyś
+Złožony
+zezběrane
+wunuźony
+Garbage
+Kolumbiska
+Barwa
+Barwy
+Barwy…
+Słup
+Słupy
+Koma
+Komentar
+Ceste
+Komory
+Kompaktny
+Zgusćiś
+Pśirownanje
+Dokóńcone
+Skóńcony
+Dokóńcone
+Dokóńcony
+Skóńcony
+ComponentsutilsforceGC
+Editor
+Pisanje
+Composite
+Compositing
+Pisaś
+Spisanje
+Compositor
+Wobgrozenje
+Wulicony
+Dokóńcenje
+Wuměnjony
+Dowěrliwy
+Dowěrliwosć
+Konfigurěrowaś…
+Wobkšuśiś
+Wobkšuśony
+Kongo
+Glukužycenje
+Głukužycenje
+Zwězaś
+Zwězany
+Zwězowanje
+Zwězujo se…
+Zwisk
+Zwězaś…
+Konsola
+Zachowaś
+Stajśo
+Kontakt
+Kontakty
+Kontejner
+Kontejnery
+Wopśimujucy
+Wopśimjeśe
+ContentSecurityPolicy
+ContentSecurityPolicyOnly
+Wopśimjeśe
+Dalej
+Pókšacowaś
+PókšacowaśWócynjanje
+wusokim
+Pśinosowaś
+Sobustatkujuce
+kontrola
+wóźeńske
+konwersaciji
+Konwersacije
+konwertěruju
+Cookowe
+Cookieje
+Cool
+kopěrowanej
+Kopije
+Kopěrowaś
+mórja
+Kornšćina
+Listowańske partnarje
+Wobškóźony
+Korsišćina
+kosty
+Kosta
+Licba
+nawopaki
+Kraj
+Courier
+wowalone
+Napóraś
+Awtor
+wótwółał
+Źěkowanje
+Krišćina Cree
+Creek
+Kritiski
+Chorwatska
+Chorwatšćina
+Płakaś
+kryptosłužby
+Crypto
+kryptografiska
+Strg
+CtrlL
+CtrlShiftL
+StrgTab
+Kuba
+CuforceGC
+Cunha
+Curaçao
+Current
+Kursor
+Swójska
+Swójske
+Swójski
+CustomEvent
+Customization
+Pśiměriś
+Pśiměriś…
+Swójske…
+Swójski…
+Wurězaś
+Wótrězaś
+Wospjetowaś
+Wóspjetowaś
+Cypern
+Kyriliske
+Češćina
+Słonokóstna
+wizualizěrowaś
+DC
+DD
+DECDSA
+DEVICE
+DISPLAYNAME
+DLL
+DN
+DNSpytanje
+DNSwótgranicowanje
+DNS
+DOCTYPE
+DOM
+s
+DOMParser
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+DRMwopśimjeśe
+DRM
+DTLS
+Kuždy źeń
+Dakota
+Dańšćina
+Dar
+Śamny
+Daty
+datowego
+Datum/Cas
+Datum
+Datumje
+Dawson
+Źeń
+DayCrash Reports
+dnyRozpšawy
+dnjow
+Źeń
+Debug Mode
+Pytanje za zmólkami
+Za zmólkami pytaś
+DebugALIGNCENTERerver
+Pytanje za zmólkami
+DebuggerServer
+Debugging
+Dec
+December
+december
+decembra
+Decide
+deklaraciju
+Wótpokazaś
+Declined
+Dekoděrowak
+Decoding error
+Dekoděrowańska
+Pómjeńšyś
+Decrypted
+Decryption
+Deer
+Standard
+Standardny
+Defaults
+Defer Account
+Defer
+Define
+Defined
+Definicija
+Definitions
+Entf
+Wokomuźenje
+Delete Message
+Lašowaś
+Wulašowaś
+wulašowanej
+Wulašowaś…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Lašowańska
+wobgranicowany
+Delivery Format
+Delivery Status Notification
+Librowański
+Dańska
+Zurich
+Wótpokazaś
+Wótźělenje
+Wóstupujucy
+Describe Problem
+Describe
+Wopisanje
+njeserializěrowaś
+Design Mode
+Design View
+design
+Desktop Backgroundbmp
+Desktop Open &quot
+Desktop
+Destination Folder
+Destination
+Destroy
+Detach
+Wótpowjesyś…
+Drobnostka
+Details of
+Drobnostki
+Drobnostki…
+Detect indentation
+Detect
+Determining which
+zwěsćijo
+DevTools
+Dewanagari
+Developed
+Developer Edition
+Developer Tools
+Wuwijaŕ
+Wuwijarje
+Development
+Device &quot
+Rěd
+DeviceShare
+Rědy
+Devicex
+Dhekelia
+Diagnostika
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+Słowniki
+słownik
+Did
+Diego
+wobglědowańskim
+DiffieHellman key
+DiffieHellman
+Digest function
+Digest was
+Digest
+Digg Reader
+Digg
+Digital
+Wótměry
+Direct
+DirectD
+DirectWrite
+Směr
+Directive
+Zapise
+Directory &apos
+Directory Servers
+Directory
+Disability access
+Disability
+Znjemóžniś
+Znjemóžnjony
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Zachyśone
+Disconnect from
+Zwisk źěliś
+Źěliś
+Zwisk źěliśellipsis
+Zwisk se źěli…
+Disconnectme strict
+Disconnectme
+Zwisk źěliś…
+Discontinue Link
+Discontinue
+Discover
+Discussions
+Disk
+Zachyśiś
+Display a
+Zwobrazniś
+Zwobraznjenje
+Zwobraznjone mě
+Displays the
+Displays
+Distinguished
+Distribution Points
+Distribucija
+jim
+Malediwšćina Diwehi
+Džibuti
+Do
+Dock
+Docs
+Document Outline
+Document
+Dokumenty
+Wjelk
+Doing
+Domain GUID
+Domena
+Domains
+Domestic
+Dominator
+Dominatory
+Domingo
+Dominika
+Dominikańska
+Don &apos
+Don
+Docytany
+Dokóńcone
+Dokóńcony
+Gótowo
+Double click
+kliknuś
+Doublecheck
+Doubleclick
+Dołoj
+Download Link
+Ześěgnjenje
+Ześěgnuś
+DownloadRestart
+Ześěgnjony
+Ześěgujo se
+Ześěgujo se…
+Ześěgnjenja
+Draft Message
+Nacerjenje
+Nacerjenja
+Śěgnuś
+kreslanka kreslance kreslanki kreslankow
+Draw repainted
+Draw
+Driver Verification
+gónjakow
+Gónjaki
+Drives
+Drop a
+Drop
+Wótpołožowanje
+Dropping
+DuckDuckGo
+Termin
+Dump
+Duplicate name
+Dwójne
+Duraterver
+Cas
+Nižozemšćina
+Dzongkha
+ECDSA Signature
+ECDSA
+EDI Party Name
+EDI Party
+EDI
+EHLO
+EMail Certificates
+Email
+ZMÓLKA
+ZMÓLKI
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+Wupakowanje njejo se raźiło
+Kuždy
+Eager
+Earlier
+Pódzajtšnoaziske
+Pódzajtšnoeuropske
+East
+Eastern
+Ekuador
+Edge
+Edit Conditional
+Wobźełaś
+Wobźěłać
+Wobźěłaś
+Wobźěłowanje
+edicije
+Editor
+Editors
+Wobźěłaś…
+Egyptojska
+Either
+El Aaiun
+El Salvador
+El
+Elapsed
+Element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Elements
+Email Address
+Email
+Emailowa adresa
+Tšuchły
+Zapśimjeś
+Embedded
+emiraty
+Wuzwignjenje
+Emptied Trash
+wuproznjony
+Prozny
+Emulate
+Zmóžniś
+Zmóžnjony
+Enables
+Encipherment
+Koděrowak
+Encoding While
+Koděrowanje
+Encodings
+Encrypt
+
+Šifrěrowane
+Encrypting File
+Encrypting
+Šifrěrowanje
+Ende
+Kóńc
+EndUser Rights
+kóńcnym
+Skóńcony
+Endian
+Endpoint
+wunuźiś
+Engine
+Engineering
+Engines
+English US
+English USASCII
+English language
+Dolnoserbšćina
+Engelšćina
+Enhanced
+Enlarge
+Enter &apos
+Enter Full
+Enter that
+Enter
+Entered
+Entering
+Zapiski
+Entry
+Enumerable Properties
+licabne
+Wokolina
+Epiphany
+Equatorial Guinea
+Ekwatorialna
+Eritreja
+Zmólka
+Zmólki
+Esc
+Esperanto
+Estniska
+Estnišćina
+Etiopiska
+Etiopiske
+Eudora Nicknames
+Eudora Settings
+Eudora mail
+Eudora
+Europa Island
+Europa
+Europa/Amsterdam
+Europa/Andorra
+Europa/Astrachan
+Europa/Athen
+Europa/Běłogrod
+Europa/Barliń
+Europa/Bratisława
+Europa/Brüssel
+Europa/Bukarest
+Europa/Budapest
+Europa/Büsingen
+Europa/Chişinău
+Europa/Kopenhagen
+Europa/Dublin
+Europa/Gibraltar
+Europa/Guernsey
+Europa/Helsinki
+Europa/Istanbul
+Europa/Jersey
+Europa/Kaliningrad
+Europa/Kijew
+Europa/Lissabon
+Europa/Ljubljana
+Europa/London
+Europa/Luxemburg
+Europa/Madrid
+Europa/Malta
+Europa/Mariehamn
+Europa/Minsk
+Europa/Monaco
+Europa/Moskwa
+Europa/Nikosia
+Europa/Oslo
+Europa/Paris
+Europa/Podgorica
+Europa/Praga
+Europa/Riga
+Europa/Rom
+Europa/Samara
+Europa/Sarajewo
+Europa/Simferopol
+Europa/Skopje
+Europa/Sofia
+Europa/Stockholm
+Europa/Tallinn
+Europa/Tirana
+Europa/Uljanowsk
+Europa/Užgorod
+Europa/Vaduz
+Europa/Vatikańske město
+Europa/Wien
+Europa/Vilnius
+Europa/Wolgograd
+Europa/Waršawa
+Europa/Zagreb
+Europa/Zaporožje
+Europa/Zürich
+Europa
+European
+Eustatius and
+Eustatius
+Eval
+Wugódnośiś
+Evaluated JavaScript
+Evaluated
+Evaluating
+Evangelism
+Even
+Tšojenje
+Tšojenja
+Tšojenje…
+Every Time
+Kužde
+Kuždy
+Wšykno
+Wurumowanje
+Ewe
+Pśikład
+Excellent
+Except
+Exception …
+Exception
+Wuwześa
+Wuwześa…
+Exchange
+ExecShell &quot
+ExecShell
+Wuwjaźobnu
+Execute Menu
+Wuwjasć
+Executing s
+Executing
+Execution stopped
+Execution
+Executive
+Existing
+Exists
+Skóńcyś
+Spušćiś
+Exited
+Exiting
+Expand/Collapse
+Rozłožyś
+Rozzłožony
+Expected
+Eksperimenty
+Pśepadnjony
+Expires On
+Expires Seconds
+Njepłaśiwy wót
+Płaśiwy až do
+Pśepadnjo
+Explorer
+Eksponent
+Eksportěrowaś
+Eksportěrowaś…
+Exposing chrome
+Exposing
+Express
+Expression
+Expressions
+Expunge &quot
+Wulašowaś
+Extended Telemetry
+Extended
+Extending
+Rozšyrjenje
+Rozšyrjenja
+External
+Ekstrakomponenty
+Extra
+Extract
+Extracting s
+Extracting
+Extracting…
+Pipeta
+F GB
+F turns
+F/Esc
+F
+FAILED
+FALLBACK section
+Narownanje
+Ceste pšašanja
+FAQs feedback
+Ceste pšašanja
+Kopija w dataji
+FHR data
+FHR
+FIPSmodusu
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTP Proxy
+FTP
+FUNCTION
+FW Version
+FW
+FYR
+Facebook Chat
+Facebookowe
+Faeroese
+Njejo se raźiło
+Njeraźony
+Failure
+Failures
+Falkland Islands Islas Malvinas
+Falkland Islands
+Falklandske
+Fallback Character
+Fallback
+Falling back
+Pada
+False
+Familija
+Fantasy
+Faroe Islands
+Ferejske
+Ferejšćina
+Farsi
+Faso
+Fast
+Fatal
+Favorite Folder
+Favorite Folders
+Faworizěrowane
+Fawority
+Fax Number
+Faks
+Feature
+Funkcije
+Feb
+Februar
+februar
+februara
+Federated States of
+Federated States
+Federated
+Federation
+Feed Location
+Feed
+Feedback Agent
+Feedback …
+komentary
+Feedly
+Kanale
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+Wobstarujo se…
+Fewer
+Field
+Fields
+Fifth
+Fidźi
+Fidźišćina
+File System
+Dataja
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Datajowe mě
+datajach
+Dataje…
+Dataju…
+Filing Cabinet
+Połniś
+Filter Box
+Filter Execution
+Filter
+Filtrowaś
+Filtering
+Filtry
+Finalizing
+Pytaś
+Finder
+Findings
+Pytaś…
+wótśišć
+Palcowe wótśišće
+Palcowe wótśišći
+Finish Customizing
+Dokóńcyś
+Skóńcony
+Finska
+Finšćina
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+Pśedmě
+Pśiměriś
+Five
+Fix Table
+Fix
+Fixed
+Flag
+Flagged
+Flame Chart
+płomjenjowy
+Flash
+Flash
+rekursiju
+Flexible Space
+Flexible
+Focus
+Zarědnik
+Zarědniki
+Zarědnik…
+Slědowaś
+Slědujuce
+Slědowanje
+Powěsć slědowaś
+Dalej pósrědniś
+Dalejpósrědnjenje
+Wótegrono do
+Fond
+Pismo
+Pisma
+Footer
+nogowe
+Noga w gubje
+zašaltował
+Force
+Na pśecej
+Forge
+Forgery
+Zabydni
+Zabyś
+Form History
+Formular
+Format
+Formatěrowanje
+Forms
+Fort
+Fortezza
+Forum
+Forums
+Dalej pósrědniś
+Doprědka
+Dalej pósrědnjony
+Forwarding
+Found
+Foundation
+Four Hours
+styri
+Fourth
+Pě
+Frakkin &apos
+Zaklěte
+Frame
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+Wobłuki
+Francojska
+Dermo
+Wólny
+French Southern
+Francojšćina
+Frequency
+Cesty
+Pě
+Pět
+Pětk
+pětk
+pětki
+Frizišćina
+Friulšćina
+From History
+From List
+Wót
+Front facing
+pśinjasć
+Coło maršćiś
+Fulašćina
+Full
+Fullscreen
+Fun To
+Fun
+Funkcija
+Futuna
+Pśichod
+GB
+GBK
+GC Event
+GC Slice
+GC
+GCLI is
+GCLI
+GDI Library
+GDI
+GData
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+Gabun
+Gaelšćina
+Gaia
+Galeon
+Galicišćina
+Gallegos
+Gambija
+Gambia
+Gamepad
+Grajne konsole
+Gaming
+Gandašćina Ganda
+Gap from edge of paper to Margin
+Gap from
+Gap
+Garbage Collector Roots
+kórjenjow
+Garcia
+Gated Crypto
+Gated
+Gaza Strip
+Gazaska
+Gecko
+Geckoreg
+Geckotrade
+General Notification
+Powšykne
+Generate a
+Generate
+Napórana
+Generating A Private
+Generating A
+Generating aggregate
+Generating
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+Georgiska
+Georgiske
+Nimšćina
+Nimska
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+Ghana
+Gibraltar
+Gives
+Glace
+Global Revived
+Globalny
+Glorioso Islands
+Glorioso
+Glossary
+Gmail
+Go back
+Go forward
+Źi
+Źiśo
+Dobry
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+Grab
+stopjeń
+Gradient is
+Gradient
+Grand
+Grande
+Grant
+Graph Reduction
+Graph
+Grafika
+Gravatar
+GrayScale
+Nuanse šerosći
+Grichiska
+Greek Windows
+Grichiske
+Grönlandska
+Grenlandšćina
+Grenada
+Grenadines
+Grid
+Group List
+Kupka
+Grouped By
+Grouped
+Grouping
+Groups
+Grow
+Guadeloupe
+Guam
+Guaranšćina Guarani
+Guard
+Guatemala
+Guernsey
+Guess
+Guest browsing
+góstne
+Guyana
+Guineja
+GuinejaBissau
+Guźarati
+Guźaratiske
+Gurmukhi MacGurmukhi
+Gurmukhi
+Gurmukhiske
+Guyana
+H Line
+H
+HAR
+HZmólka
+Horicontalna linija
+HPKP
+HREF
+HSLA
+HSTS
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HW Version
+HW
+HZ
+HZGB
+Hack the
+Hack
+Haiti
+Haitiańšćina
+Halifax
+wobźěłaŕ
+Handling
+Handshake record
+Handshake
+Hang Report
+Wisanja
+Happy
+Twardy
+Hardware Driver Verification
+Hardware Driver
+Hardware
+njama
+Hawsašćina
+Have an
+Have
+Hawiišćina
+Głowa
+Głowowe smužki
+Głowy
+Heading
+Nadpisma
+Health Report
+Statusowa
+Heard Island
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+Hebrejske
+Wusokosć
+Helena
+Hello World
+Hello
+Help Start
+Pomoc
+Helper Application
+Helper Applications
+Helper Threads
+Helper
+Helps
+Helvetica
+How
+Herero
+Hercegowina
+Heks
+Schowany
+Hide Statistics
+Hide Toolbars
+Schowaś
+hierarchija
+High Contrast
+Wusoka
+Najwuša
+Nejwuša
+Highgrade
+Highlight
+Highlighting
+Wjerški
+Hightail
+Hiligajnon
+Hill
+Hindi hindišćina
+Pokaz
+Hiri Motu
+Hiri
+Histograms Collected
+histogramy
+Historija
+Historiju
+Trjefarje
+Hnewsgroup server
+Hdiskusijny
+Ho Chi Minh
+Ho
+Hold
+HolidayStatusSuppliersTravelVacation
+Mój kalender
+Pos
+Priwatne
+Priwatny
+Startowy bok
+Słužbny
+Homepage Get back
+Startowy bok
+Honduras
+Hong Kong
+Hong
+Honolulu
+Horicontalny
+Host
+Pógóspodowany
+Hostname Entered
+Hostmě
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+góźinupśed
+Hours
+Housekeeping
+How
+Howe
+However we
+Ale
+Howland Island
+Howland
+Http
+Wjelicki
+cłowjeki
+Hungoršćina
+Hungorska
+m not near my
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+t have
+I ii
+I submit information that &apos
+I think I &apos
+I understand
+dostanjom
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+ID
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAPchórgojcka
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+IP
+IPC
+IP
+IRC Nick
+IRCoperator
+IRC
+JO
+ISDN
+ISO ISO ISO
+UTF
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+ISP
+IV
+Iaposm
+Islandska
+Islandšćina
+Symbol
+Symbole
+ID
+identifikacija
+Identifier
+Identities …
+zastojiś
+Identita
+Njeaktiwny
+Prozny chód
+Ido
+Jolic
+Igbo
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Ignorěrowaś
+ignorěrujo
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+Wobraz
+Wobraze
+Wobraz…
+Import your
+Importěrowaś
+Importance
+Wažny
+Importěrowanje
+Importěrujo se…
+Importěrowaś…
+In Days
+In EHLO reponse
+In Finder
+In Use
+In
+InAutoon
+InBrowserElement
+Njegódna wótpowědnosć
+Njegódna
+Dochad posta
+Postowy dochad
+Inc
+Dochadajuce
+Dochadny
+Njedopołny
+Incorporated
+Wopacna
+Pówětšyś
+inkrementelny
+Zasunuś
+IndexedDB
+inděcěrowanej
+IndexedDB
+Indekse
+indicěrujotej
+Indiska
+Indiski ocean/Antananarivo
+Indiski/Archipel Čagos
+Indiski ocean/Gódowna kupa
+Indiski ocean/Kokosowe kupy
+Indiski ocean/Komory
+Indiski ocean/Kerguele
+Indiski ocean/Mahé
+Indiski ocean/Malediwy
+Indiski ocean/Mauritius
+Indiski ocean/Mayotte
+Indiski ocean/Réunion
+Indiana
+indikator
+Jadnotliwc
+Indoneziska
+Indonešćina
+Info
+zderbnjony
+Inicializěrowanje
+se inicializěrujo
+Inlet
+Zasajźony
+Njewinowaty
+Zapódawańsku metodu
+Zapódaśe
+Einfg
+Zasajźiś
+Pśepytowaś
+Inspektor
+Instalěrowaś
+Zainstalěrowany
+Instalěrowanje
+Instalěrujo se
+Instalěrujo se…
+Njedosěgajucy
+Integer
+integracija
+Integrita
+Interakcija
+Interface
+Interlingua
+Interlingue
+Interne
+Nutśikownosći
+pśeprěkowali
+interpretěrujo
+psétergnjony
+Zachopjeńk
+Inuktitut
+Inupiak
+Njepłaśiwy
+Schowanje
+Pśewobrośenje
+Wótměry
+Njewidobny
+Pśepšosenja
+Pśepšosćo
+Pśepšosćo
+Iran
+Irak
+Irska
+Iršćina
+Isabel
+kupa
+kupy
+Malwiny
+Isle
+Israel
+Datum wudaśa
+Wudawaŕ
+Wudawarje
+Šćita
+Italšćina
+Kursiwny
+Italska
+Jeje
+JIS
+JIToptiměrowanja
+JIT
+JOHAB
+znicyś
+JS
+JSM
+JSONdataje
+JSON
+JSONP
+JSONparse
+JSONstringify
+ZASTUPUJUCY
+Jabber
+Jamaika
+Jan
+Januar
+januar
+januara
+Japańska
+Japanske
+Japańske
+Jarvis
+Java System
+Java
+JavaScript
+Jawańšćina
+Jersey
+Jitter
+jitterbuffer
+Měto
+Johns
+Chattujzemnu
+Jordańska Jordaniska
+Juan
+Jul
+Julij
+julij
+julija
+Skócyś
+Jun
+Junij
+junij
+junija
+Cajk
+Blokowa sajźba
+KB
+KOIR
+KOIU
+Kannada
+Kannadaske
+Kanurišćina
+Kašmiršćina
+Kašubšćina
+Kazachšćina
+Kazachska
+Keeling
+Wobchowaś
+Kenija
+Kerberos
+Kluc
+Tastowe wězanja
+Tastatura
+skoděrowane histogramy
+keyframe
+Keyhtml
+Klucowe słowo
+Klucowe słowa
+Klucowe słowa…
+Kambodžaniske
+Khmer
+Kikujušćina
+kralojstwo
+Riff
+Kinshasa
+Kinjarwanda
+Kirghišćina
+Kiribati
+Kirundi
+Póškaś
+Kitts
+Klaatu
+Klingonšćina
+Komišćina
+Kong
+Kongošćina
+Konkani
+Koreja
+Korejańske
+Korejske
+Kosowo
+Kuala
+Kuanjama
+Kurdišćina
+Kuwait
+Kirgiziska
+LDAP
+LDIF
+La
+LaTeX
+Etiket
+Pomjenjenje
+Orientěrowanišća
+teritorije
+Precny format
+Prěcny format
+Rěc
+Rěcy
+Lanka
+Laošćina laotišćina
+Laos
+Laptopy
+Wjeliki
+Wětšy
+Swójźbne mě
+Pózdźej
+Łatyńske
+Łatyńšćina
+Letiska
+Letišćina
+Smjaśe
+malsnostartowej
+Warsta
+warsty
+Layout
+Wugótowanje
+LdapDwim
+Spušćiś
+Libanon
+Nalěwo
+Legalny
+Legenda
+banki
+LenientThis
+Leone
+Lesotho
+Mjenjej
+Pismik
+Liberia
+Biblioteka
+Libyska
+License
+Liechtenstein
+Cas žywjenja
+Swětły
+Lightning
+Limburgšćina
+Smužka
+Linen
+Smužki
+Lingala
+Wótkaz
+Zwězaś
+Wótkazowanje
+Wótkaze
+Wótkaz…
+Mjelcaty
+Lisćina
+Lisćiny
+dochadowy
+Słuchanje
+Lisćiny
+Litawska
+Litawšćina
+Rěcny
+dynamiskeje
+Zacytaś
+Zacytujo se
+Zacytujo se…
+Lokalny
+Lokala
+Městnosć
+Adresa
+Městno
+Stojnišćo
+stójnišća
+kursora
+zastajone
+Protokol
+Protokolěrowanje
+pśizjaweńske
+Pśizjawjenja
+Card
+Logotyp
+pśedpakowanje
+Dłujki
+pytane
+Póglědanje
+Awtomatiski wóspjetowaś
+Lord
+Luxembourg
+Zgubjony
+Niska
+Niša
+Lower
+Najniša
+Nejniša
+LubaKatanga
+Lucia
+wusoko
+Luis
+Lumpur
+Luxemburgska
+Luksemburgšćina
+MANIFEST
+MB
+MD
+MDNdokumenty
+MDN
+MIMEtypy
+MIME
+MIMEwersija
+MSN
+Maarten
+Mac
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomanian
+MacTurkish
+MacUkrainian
+Makao
+Makedońska
+Makedońšćina
+Madagaskar
+Email
+Wótwardowańska
+Malagasišćina
+Malawi
+Malajišćina
+Malajalam
+Malajalamske
+Malayzija
+Malediwy
+Mali
+Malta
+Maltašćina
+Man
+Zastojaś
+zastojnik
+manifestowu
+Manifesty
+Manuelne
+Manuelnje
+Zgótowaŕ
+Mankšćina Manks
+Maori
+Měr
+Maratišćina
+Měrc
+měrc
+měrca
+Mariańske
+Marino
+Markěrowaś
+wikowanišću
+Maršalske
+Maršalšćina
+Martin
+Martinique
+wužywało
+wótpowědujucy
+Wótpowědujucy
+Wótpowědujuce
+matematiska
+MathML
+Matematika
+Math…
+Mauretańska
+Mauritius
+maksiměrowaś
+Maj
+maj
+maja
+Mayen
+Mayotte
+McDonald
+Mě
+Medije
+MediaRecorder
+MediaStreamTrack
+MediaStreamTrackstop
+MediaStreamstop
+Srjejźny
+MemoServ
+Skład
+Meni
+Powěsć
+ID powěsći
+MessagePort
+Powěsći
+Powěsć…
+Meta
+Metoda
+Metro
+Mexiko
+Federatiwne
+rejtarkomaMikrofon
+Microsoft
+Wesrjejź
+Połnoc
+Midway
+konwertěrujo
+MinSupportedCPU
+MinSupportedVer
+Minhowe
+Dnjowny pśeglěd
+Mjasecny pśeglěd
+awtomiski
+miniměrowaś
+Miniměrowaś
+Miquelon
+glědałkowaś
+wopak zaměstnjone
+Pó
+Mobilny
+Mobilny telefon
+modus
+model
+Změnjony
+Změniś
+Modul
+module
+Modulus
+Moldawska
+Pó
+Pón
+Monaco
+Pónjeźela
+Pónjeźele
+pónjeźela
+pónjeźele
+pónjeźelu
+Pjenjezna guba
+Mongolska
+Mongolšćina
+Monitor
+Monospace
+Carnogórska Montenegro
+Mjasec
+Kuždy mjasec
+mjasec
+mjasecow
+Montserrat
+Wěcej
+Wěcejellipsis
+Moresby
+Marokko
+nejnowšem
+Motu
+Myška
+pśesunjonej
+Movemail
+Pśesunuś…
+Mosambik
+Mozilla
+MozillaCalEvents
+Mozillaorg
+Wěcejtyźeń
+Změny
+MutationObserver
+Bźez zuka
+Zuk wušaltowaś
+MójekanaleSSopml
+Nic k dispoziciji
+NET
+NIST
+NNTP
+NO
+NS
+NSS
+NTLM
+žywjenim
+Mě
+wudopołnjenje mjenjow
+Namibija
+Pśedcytaś
+Nauru
+Naurušćina Nauru
+Navajo
+Navassa
+Nawigacija
+ndebelšćina
+Ndonga
+Nelson
+Nepal
+Nepalšćina
+Zašachtelikane
+Seś
+Nižozemska
+Netscapecfg
+Seś
+seśowych
+Nigda
+Nevis
+Nowy
+Nowšy
+Diskusijne kupki
+Diskusijna kupka
+Diskusijne kupki
+Nowy…
+Dalej
+Pśiducy
+Pśidujuca
+Nikaragua
+NickServ
+Gódło
+Pśimě
+pśimjenja
+Niger
+Nigerija
+Niue
+Ně
+Ně 
+Suk
+wótcakowało
+Nodetype
+Nominěrowany
+Njełamany
+Žeden
+Žedna
+Žedne
+Žedno
+Njewótpokazanje
+Połdnjo
+Nordiske
+Norfolk
+
+Normalna
+Normalny
+Pódpołnocna
+Pódpołnocne
+Norwegska
+Norwegšćina
+Glědajśo
+Notice
+Pśipiski
+Verisign
+Powěźeńki
+Now
+Nova
+Nowember
+nowember
+nowembra
+nastajenim
+cysło
+Numerěrowana
+Licby
+Nynorsk
+wudawańska
+OAuth
+OCSP
+OID
+W pórěźe
+OLE
+OMTC
+OPMLeksport
+Źěłowy system
+OU
+OVERLAP
+Objekt
+Okcitańšćina
+Okt
+Oktober
+oktober
+oktobra
+Odišćina
+Odnoklassniki
+Wušaltowany
+Offline
+Offline…
+Odžibwa Ojibwa
+Staršy
+Oman
+ 
+Zašaltowany
+kliknjenim
+Online
+wótwołało
+Hopla
+Wócyniś
+OpenGL
+OpenH
+OpenPGP
+wócynjaju
+OperServ
+operacije
+Operatory
+Optiměrujobne
+optiměrowaś
+Optimizing
+Opcija
+Nastajenja
+Opcije
+Abo
+Slědny
+Organizacija
+Organizaciska
+Organizěrowaś
+Organizator
+Wusměrjenje
+Póchad
+Original
+Orija
+Oromšćina Oromo
+Osetšćina
+Druge
+Drugego
+Drugem zarědniku
+Drugi
+Druge
+Howac
+Druga…
+Wuchad posta
+Wusunuś
+wenkowny
+Wuchadajuce
+Wuchadny
+wobcerjenje
+Outlook
+musali
+Pśepisaś
+Wobsejźaŕ
+P/Galapagos
+P
+PDFgótowaŕ
+PDF
+PDFjs
+PEM
+PKCS
+POP
+POSTdaty
+POST
+NAST
+PSM
+Kšacowa
+PacifDebug/Galapagos
+Pacifik/Apia
+Pacifik/Auckland
+Pacifik/Bougainville
+Pacifik/Chatham
+Pacifik/Chuuk
+Pacifik/Jatšowna kupa
+Pacifik/Efate
+Pacifik/Enderbury
+Pacifik/Fakaofo
+Pacifik/Fidźi
+Pacifik/Funafuti
+Pacifik/Galápagos
+Pacifik/Gambier
+Pacifik/Guadalcanal
+Pacifik/Guam
+Pacifik/Honolulu
+Pacifik/Johnston
+Pacifik/Kiritimati
+Pacifik/Kosrae
+Pacifik/Kwajalein
+Pacifik/Majuro
+Pacifik/Marquesas
+Pacifik/Midway
+Pacifik/Nauru
+Pacifik/Niue
+Pacifik/Norfolk
+Pacifik/Nouméa
+Pacifik/Palau
+Pacifik/Pitcairn
+Pacifik/Pohnpei
+Pacifik/Ponape
+Pacifik/Rarotonga
+Pacifik/Saipan
+Pacifik/Tahiti
+Pacifik/Tarawa
+Pacifik/Tongatapu
+Pacifik/Truk
+Pacifik/Wake
+Pacifik/Wallis
+Pacifik
+pśedewześa
+Package s
+Package xpi
+Package
+Zezipowany
+Packs
+Nutśkowny wótstawk
+Page Direction
+Page Selection
+Bok
+Pagequot
+Pager Number
+Pager
+Boki
+Pago
+Mólowaś
+Pair a Device &quot
+Pair a
+Zwězaś
+Pakistan
+Pal Who &apos
+Pal
+Palau
+Palestinian Territory
+Palestinian
+Paleta
+Pališćina Pali
+Palmyra Atoll
+Palmyra
+pśesuwanje
+Panama
+Pane
+Panel
+Póla
+Panes on Startup
+Panes
+PannerNode
+PapuaNeuguinea
+Papua New
+Papua
+Paracel Islands
+Paracelowe
+Paragraph format
+Wótstawk
+Paraguay
+Parameters
+Parametry
+Parcel
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+Parental
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+spušćenjeS
+Partial
+Partially Encrypted
+Partially
+wobźělnik
+Wobźělniki
+Parts
+Party Name
+Party
+Paštošćina Pašto
+Password Change
+Password Manager
+Gronidło
+PasswordIf
+Gronidła
+Paste Go
+Zasajźiś
+Zasunuś
+Pastel Gradient
+Pastel
+Paste…
+Patch
+Patching s
+Pórěźa
+Sćažka
+Paths from
+sćažki
+Paulo
+Pause on
+Pause/Resume/Retry
+Pawza
+Zastajiś
+Zastajony
+Pauses the
+Pauses
+Zapłaśenje
+śěža
+Zapłaśenje
+Paz
+Peer
+PeerConnection ID
+PeerConnection
+Pending
+Penh
+Luźe
+procenśe
+Perform a
+Perform
+Wugbaśe
+Perhaps the
+Perhaps you &apos
+Perhaps
+Period of Validity
+Period of
+Period
+Powšykny
+Trajny
+Permanently
+Permission
+Pšawa
+Permit
+Farsi Persišćina
+Wósobinski
+Personality
+Peru
+Perwebsite
+Faza
+Filipiny
+Phishing
+Phnom Penh
+Phnom
+Vienna
+Phone Number
+Telefon
+Telefony
+Phonetic Name
+Fonetiske mě
+Foto
+Photograph
+Phrase
+Fyziski
+Pick
+Picture
+Pierre
+Pilot
+PIN
+Ping
+Pśipěty
+Pinning
+Pipelining
+Pitcairn Islands
+Pitcairn
+Pixel
+Plain
+planowanje
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Platform
+Play a
+Wótgraś
+Playing audio
+Wótgrawanje
+Please advance
+Please authenticate
+Please consider
+Please enter
+Please shorten
+pśestupił
+Plug a
+Plug
+PlugIns
+Tykac
+Tykace
+Plus
+Pocket
+Podkast
+PoiQA
+Pointer Lock API
+Pointer
+dypki
+Pólska
+pol
+Policies
+Policy Constraints
+Policy Mappings
+Policy mapping
+pšawidłami
+Pólšćina
+Polyneziska
+Popup Blocking
+Popup
+Wuskokujuce wokna
+Port
+Portable Document
+Portable
+Porto
+Wusoki format
+Portugalska
+Portugišćina
+Pozicija
+Posse
+Móžne
+Pósłaś
+Postal Code
+Postal
+sePo
+Postpone
+Power
+Powered by
+Spěchowany
+Powershare
+Practice Statement pointer
+Practice
+Pre
+Precondition
+Preferably
+Preference
+Nastajenja
+Preference
+Nastajenja…
+Preferred
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Prefix
+Prefigěrowany
+Pśedformatěrowany
+Pśejěsny
+Paketowy
+Pśikazowe
+Preparing
+Pśigótujo se…
+Present
+Presentation Mode
+Prezentaciski
+Preserve
+Wobchowujo
+Preset
+Pśednastajenja
+Tłocyś
+Pressing F
+Tłocenje tasty
+pśerědniś
+Pśewidny śišć
+Pśewidny
+Prevent
+Pśeglěd
+Previewed
+Previewing
+Preview…
+Previous Session
+Pjerwjejšna
+Pjerwjejšny
+Slědk
+Płaśizna
+Primary Email
+Primed cache
+Primed
+Primetime Content
+Primetime
+Princes
+Principal Name
+głowne
+Principe
+Śišćaś
+Printed
+Śišćak
+Śišćanje
+Śišći se…
+Śišćaś…
+Priority changed
+Priorita
+Prioriśe
+Privacy Policy
+Priwatnosć
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+Priwatny
+Priwilegěrowany
+Privileges
+Priwilegije…
+Pro
+wótcakujo
+Nejskerjej
+testujon
+Problem
+Pókšacujśo
+Proceeding will
+Proceeding
+Process
+Pśeźěłujo
+Pśeźěłujo se…
+Prodigy
+Producer
+ttp
+ProductName
+ProductNameInternal
+ProductShortName
+Analyza běžnego casa
+analyzy
+Profile
+Program Icons
+Programowe
+Programs Folder
+Programs
+Progress Window
+Póstup
+Project Lead
+Projekt
+projekty
+Promise Debugger
+Promise
+Napominanje
+Zapódawańske napominanje
+Kakosći
+Kakosći…
+Property Declaration
+Property Value
+Kakosć
+Proporcionalne
+Propose a
+Propose
+šćitom
+Protocol Request
+Protokolowy
+ProtocolSpecific
+Protocols
+Proudlybr
+Provider
+Province
+Proxies
+Proxy
+Pseudoelements can
+Pseudoelements ‘
+Pseudoelementy
+Psst using
+Psst
+Zjawna
+PublicKeyPins
+Publicěrowaś
+Wózjawiś
+wozjawjaju
+Wózjawjenje
+Wózjawja se…
+Wózjawiś…
+Puerto Rico
+Puerto
+Pundžabšćina Pundžabi
+Purchase for
+Zaměry
+Push Endpoint
+Eksterne zdźělenja Push
+QA UI
+QA
+QName
+QQ
+QRscannowanje
+QR
+Katar
+Qualified Subordination
+wuměnjone
+Kečuasćina Quechua
+Query
+Pšašanje
+W cakańskem rěźe
+Quick Filter
+Quick Launch bar
+Quick Launch
+Quick
+Quickly
+Quirks mode
+Quirks
+Quirky doctype
+Quirky
+Skóńcyś
+Spušćiś
+skóńcenjeS
+Quitting
+Kwoty
+Quotation
+Citěrowaś
+Quotes
+RAM
+RC
+RDN
+DATOWE SAJŹBY
+REMOVE
+RETR command
+RETR
+RETURN
+RFC
+RGBA
+RSA Encryption
+RSA
+RSASSAPSS Signature
+RSASSAPSS
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTPstatistika
+RTP
+Radio Button
+Radio buttons
+Opciski
+Rainy
+Raise
+Range
+Rankin
+Rate
+Pógódnośenje
+poměr
+Raw
+Re
+Reached
+Cytaś
+Pśecytany
+Pśecytanych
+pśecytanej
+Reader &apos
+njenastajiś
+Cytanje
+Ready to
+Gótowo
+Really fast
+Really
+Rearrange
+Pśicyna
+Reasons
+Rebuild Summary
+Rebuild
+wulicyś
+Receipt denied
+Receipt
+Receipts
+Receive
+Dostany
+Dostanych
+Pśiwześe
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+Nejnowše
+Nejnowšy
+Recently
+kontrolěrować
+Dostawaŕ
+Dostawarjach
+Recommended Components
+Dopórucone
+Znowego wobkšuśiś
+Reconnect
+Nagrajśo
+nagrawanje wugbaśa
+Nagraśe
+Nagrawa se…
+Wótnowiś
+Recovery Keyhtml
+wótnówjeńskim
+Recur
+Wóspjetowański muster
+Wóspjetowański
+wopłoniś
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+Dalejpósrědnjeński
+Rediscover the
+Rediscover
+Redisplay
+Wóspjetowaś
+Reducing the
+Pómjeńšenje
+Reduction
+Kingman
+Reenter
+Reference
+Reference
+Referrer
+Referring URL
+Slědkpokazujucy
+Slědkběgi
+Reformat
+Aktualizěrowaś
+Znowego
+Refused
+Register Locale
+Register Server
+Register
+Zregistrěrowany
+Registering
+Regular Attachment
+Regularny
+Reject
+Rejoin
+Related
+Relation
+Relative positioning of
+Relative
+Relaunch
+Release Notes
+Release
+Releases
+Znowa zacytaś
+Znowego
+Znowego zacytaś
+zacytajśo
+Remaining
+Spomnjeś se
+Remind Me
+Remind
+Dopomnjeśe
+Dopomnjeśa
+Remote Debugging
+Remote debugging
+Daloke
+Remove channel
+Wotpóraś
+Wótpóraś
+Wótwónoźeś
+Removed
+wótwónoźujo
+Wótpóraś…
+Removing
+Renaissance
+Pśemjeniś
+Pśemjeniś…
+pśemjenjujo
+Render Mode
+Render
+Renderer
+Rendering
+Renewal
+Reopen
+Repair
+Wóspjetowanje
+Wóspjetowaś
+Wóspjetujucy se
+Wóspjetowanja
+Wuměniś
+Replacement
+Replaces in
+Wuměnjenja
+Wuměniś…
+Replacing
+Replicating directory entry
+Replicating
+Replication failed
+Replication
+Wótegronjony
+Wótegroniś
+Wótegrono
+Wótegrono  komu
+Wótegrono komu
+Wótegrono na
+Replying
+Replyto Address
+Replyto
+K wěsći daś
+rozpšawjenje
+Reporter
+dnjaRozpšawy
+republika
+Request the
+Wersiju
+RequestMode
+Trěbny
+Napšašowanja
+trěbnej
+Trjeba
+Reread mozcmd
+Reread
+Znowego pósłaś
+Resending
+Dalej pósłane  kopija
+Dalej pósłane  komentary
+Dalej pósłane  datum
+Dalej pósłane  wót
+Dalej pósłane  ID powěsći
+Dalej pósłane  wótpósłaŕ
+Dalej pósłane  Komu
+Dalej pósłane  komu
+Reserved
+Slědk stajiś
+Resets
+Resolution/Quality
+Resolution
+Rozeznaś
+Resursa
+Resources
+Responder
+Wótegrono
+Responseclone
+Responsive Design
+pśiměrjony
+Rest
+Znowego startowaś
+Restarting
+Startujo se…
+Wótnowiś
+Restrict
+Wobgranicowany
+Restyle Hint
+Pokaz
+Wuslědki
+Resume &apos
+Pókšacowaś
+Resumes
+Retained
+Retention Policy
+zachowanja
+Znowego testowaś
+Retrieving quota
+wobstarujotej
+Wótwołujo se…
+Hyšći raz wopytaś
+Znowego wopytaś
+Retrying
+Return
+Retweet
+Réunion
+Reverse
+Reversed
+Anulěrowaś
+Wrośiś se
+Anulěrowaś…
+Review
+Revision
+wóžywjona
+Revocation
+Slědk wzety
+Rewind
+Znowego łamaś
+Rewriting oldstyle
+stare
+Retoromanišćina
+Rika
+Rich Text
+rich
+Riko
+Right Click
+Napšawo
+Rightclick
+Rights
+Righttoleft direction
+Směr napšawo
+Ringing…
+Rio
+Rioja
+Risks
+River
+Roaming
+Robot
+Robotery
+Roku
+Role
+Rumuńska
+Romanian ISO
+Rumunšćina
+Rum
+Rumnosć
+kwota
+Roots Module
+Collector
+Wobwjertnuś
+Rěd
+Smužku
+Rědy
+Smužki
+Rule
+Pšawidła
+Ruleset
+Startowaś
+RunAppX
+Running
+Běžny cas
+Ruska
+Russian Federation
+Ruske
+Rusojske
+Ruanda
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+S
+SASL bind
+SASL
+SD
+SDP
+Krotkozajtšno
+SECG elliptic curve sectr
+eliptiska
+SECURITY
+SEE THIS STRING
+SEE THIS
+SEE
+SETTINGS
+SFailed to
+wobstaraśAktualizaciji
+SHA Digest
+SHA Fingerprint
+SHA
+SHOULD
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+SKB
+SMB of
+SMB
+SMTP &apos
+
+SMTP
+SMTPAUTH
+SOCKS Host
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+SPONSOROWANY
+SQL Statements
+SQL
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+DEJAŁ
+STouch
+NARAŹONY
+SVG clipping
+SVG
+SW Asian
+a
+PŚEŠALTOWAŚ
+SYSTEM
+S_dataje
+So
+Saba
+Sad
+Safari
+Safe Mode
+Wěsty
+SafeBrowsing
+SafeMode
+Sahara
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+Saint
+Salaam
+Salem
+Salvador
+Same
+samišćina
+Samoa
+Samoašćina
+Wótsmasane
+Pśikłady
+San Marino
+San
+Pěskowy kašćik
+Sandboxing
+Sandwich
+Sango
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+Sans
+Sanskrit
+Sansserif
+Santa
+Santo
+Sao Tome and
+Sao Tome
+São
+Sardinišćina
+Sass
+So
+Sob
+Sobota
+sobota
+sobotu
+soboty
+SaudiArabska
+Saudi
+Save Permissions
+Składowaś
+Skłaźonu
+Składowaś…
+Saving
+Składujo se…
+Saw
+Skalary
+Scale …
+Měritko
+Skalěrowanje
+Scaled
+Scaling
+Scam Warning Take
+Scam
+Scams
+Scannowaś
+Scanner app
+skannera
+Scanning for
+Scanning
+kalendarjom
+Scheme
+Wobcerk
+Score Origin
+Score
+Scots
+Scottish Gaelic
+Šotiska
+Scratchpad Enter some
+Zapisnik
+Screen Orientation
+Screen reader
+Wobrazowka
+Screenname
+Foto wobrazowki
+Fota wobrazowki
+Script
+Scripts
+Scroll
+ScrollLinkedEffects
+Pśesuwanje
+Sd
+źeńS
+koralowego
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Pytać
+Pytaś
+Searches
+Searching &apos
+Pyta se
+Pyta se…
+Pytaś…
+Seccomp Thread Synchronization
+Nitkowa
+Seccomp
+SeccompBPF System
+SeccompBPF
+Second
+Sekundarna emailka
+Sekundarna
+Seconds
+Sections
+Secure
+Securing connection
+se zawěsćujo
+Security Exception
+Wěstota
+Glejśo
+Wubraś
+Selected Frame
+Selected Tabs
+Wubrany
+SelectedRemove Selected
+wótpóraśWubrane
+Selecting
+Wuběrk
+Selector
+Selectors
+Wubraś…
+Samokosty
+Self Sampled
+Samocas
+Self
+Selfclosing syntax
+Zacynjajuca se
+same
+Send Verification
+Send a
+Pósłaś
+Wótpósłarju
+Wótpósłaŕ
+Słanje
+Sends a
+Sends
+Senegal
+Sensor
+Sent &quot
+Pósłany
+Sep
+Separate _
+Separate tags
+swójskem
+wótźělony
+Žěleńska linija
+Žěleńske linije
+Sepija
+September
+september
+septembra
+Serbiska
+Serbišćina
+Serial Number
+Serial
+serializěrowaś
+Serif
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+
+Serwer
+Serwery
+Service
+ServiceWorker
+ServiceWorkerAllowed
+Słužby
+Pósejźenje
+Sessions
+Set Up Sync &quot
+Set this channel &apos
+Nastajiś
+Setting
+Settings &#124
+Nastajenja
+SettingsA
+Nastajenja…
+pśigótowaś
+sedym
+Skuždej
+Seychelle
+Sh
+wósenjowak
+wósenjenje
+Shallow
+Źěliś
+Shared
+Sharing Indicator
+Źělenje
+Sheet
+Shift _ JIS
+Shift _
+Umsch
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+Šonšćina Šona
+Nakupowanje
+Krotki
+Shortcut
+Shortcuts
+Shot
+Should
+Show/Hide
+Pokazaś
+Showing
+Shrink To Fit
+Shrink
+Skóńcyś
+Shutting Down
+Shutting
+SiInEfate
+Přiwuzne
+Sichuan Yi
+Sečuanska
+Bócnica
+Bócnice
+Sierra Leone
+Sierra
+Sign
+Signature
+signěrowana
+Signer
+Pódpisowanje
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Jadnora
+zjednorjone
+Simplify
+Simply
+Simulate touch
+Simulate
+simulacija
+Simulatorowy
+Simulatory
+Since
+Sindišćina Sindhi
+Singapur
+Singalešćina
+Singaleziske
+Sint
+Siswatišćina Siswati
+Sedło
+Sedła
+Wjelikosć
+Wjelikosći
+Tos
+přeskokujo
+Skype
+slice
+Słowakšćina
+Słowakska
+Słowjeńska
+Słowjeńšćina
+Sm
+Mały
+Mjeńšy
+Inteligentne
+Smjejkotaś
+Smjejkotak
+Meškank
+Sms
+zapadnuś
+dopominanje
+Sokety
+Měke tabulatory
+Měki
+Software
+Solomonske
+Wolf
+Somališćina
+Somalija
+Někotare
+Songhai
+Serbšćina
+Sortěrowaś
+sortěrowany
+sothošćina
+Žrědłowy kode
+Žrědła
+South
+pódpołdnjowe
+Proznota
+Prozny rum
+Space
+Wótstawk
+Špańska
+Špańšćina
+specifikacija
+Speculative
+Malsnosć
+Pšawopis kontrolěrowaś
+Pšawopis
+Spotlight
+Spratly
+Spx
+Sri
+Ss
+St
+Štapjel
+Standard
+Gwězdce
+Z chórgojcku
+Z gwězdkami
+Z gwězdku
+Start
+Startowaś
+Zachopiś
+Zachopjeńk
+Startujo se…
+Startowaś
+Zwězkowy kraj
+Status
+Pśikaz
+staty
+statistika
+Status
+Statusu
+Wóstaś
+Skóńcyś
+Stoj
+Stop
+Zastajiś
+Zastajony…
+Składowak
+Składowanje
+Zabłuźony
+Prud
+Droga
+Rozćěgnuś
+Strict
+StrictTransportSecurity
+Pśešmarnjony
+String
+smuga
+Strukturěrowany
+Stil
+Stile
+Nj
+Pódpśikaze
+pódzarědnik
+Pódzarědnik…
+Tema
+Temje
+Wótpósłaś
+Wótpósłany
+pódrědowanje
+Aboněrowaś
+Aboněrowaś…
+Dłymoko stajony
+Abonement
+SubsysID
+Pódnitku
+Pódbom
+Jo se raźiło
+Raźiło
+Wuspěch
+Sudan
+Sufikse
+Naraźenja
+Zespominanje
+Nj
+Nje
+Sundašćina
+Njeźela
+njeźela
+njeźele
+njeźelu
+Wusoko stajony
+Pśejźony
+Supplement
+Pódpěra
+pódpěrane
+Surinam
+Familijowe mě
+Pśechwatany
+Svalbard
+Swahilišćina Swahili
+Swasilandska
+Šwedska
+Šwedšćina
+Swift
+Pśešaltowaś
+Šwicarska Šwicojska
+sylabar
+symetriskego
+Snychronizěrowaś
+Sync
+Synchronizacija
+Synchronizacija
+Synchronizěrowaś
+synchronizěruju
+Snychronizěrujo se…
+Synchronizěrujo se…
+Zespominanje
+Syriska
+systemy
+S×
+S×S
+TCP
+TCVN
+TIS
+TITLE
+TITLEPśejźćo
+TLS
+Telewizna
+Telewizory
+Tabulator
+zacyniśS
+Tabela
+Tabelu
+Tabele
+Tablety
+Tabelu…
+Rejtarki
+Element
+Etiket
+Wobznamjenje
+Značka
+Tagalogšćina Tagalog
+Etikety
+Wobznamjenja
+Wobznamjenjach
+Tahitišćina
+Taiwan
+Tadžikšćina
+Tadźikistan
+pola
+Tamilske
+Tansanija
+Tusniśo
+Cel
+Nadawk
+Nadawki
+Nadawk…
+Tataršćina
+Tech
+Telemetrija
+Tell
+Telugu
+Teluguske
+Pśedłoga
+Pśedłogu
+Pśedłogi
+Nachylny
+Nachylu
+Definiciski wuraz
+teritorium
+Tekst
+St
+Thailandske
+Thailandska
+Wjeliki źěk
+wótwołowaś
+Drastwa
+Drastwy
+Pótom
+To
+Thomas
+Nitka
+Nitce
+Nitki
+St
+Stw
+Miniatura
+Miniaturka
+Miniatury
+Thunder
+Thunderbird
+Stwórtk
+stwórtk
+stwórtki
+Tibetiske
+tiketa
+Tigre
+Tigrinja
+Źěliś
+Cas
+Casowa rědka
+Times
+Casowy kołk
+Casowa cona
+Case
+Pódzajtšny Timor
+Małučki
+Tip
+Titel
+Až do
+Do
+Komu
+Tobago
+s
+Źinsa
+Pśešaltowaś
+Pśešaltujo
+Togo
+Tokelau
+Token
+Tomé
+Witśe
+Witśe
+Tonga
+Tongašćina
+Jězyk wen
+góźba
+MDNnastawk
+symbolowa
+Symbolowe rědki
+Rědy
+Pomocny tekst
+Górjejce
+Górjejće
+Dogromady
+Dotyknjenje
+Tura
+Slědy
+Track
+Slědowanje
+tradicionelne
+Pśenjasony
+Pśełožyś
+Pśełožowańske
+Pśełožki
+Pśełožowarje
+Transport
+Papjernik
+fokusěrowaś
+Trinidad
+Tristan
+Tromelin
+Rozwězanje zmólkow
+Zmólki wótpóraś
+Wótrězany
+Wopytajśo
+Tsongašćina
+Tswana
+Wa
+Wa
+Wał
+Wałtora
+wałtora
+wałtoru
+wałtory
+Tuneziska
+Turk
+Turkojska
+TurkojskeIBM
+Turkojske
+Turkmeńšćina
+Turkmeńska
+Turks
+Wušaltujśo
+zmóžnjenje
+rozpokazanja
+Tuwalu
+tweeta
+Tweety
+Twi
+Twitter
+Typ
+Typy
+UID
+UIDL
+ANULĚROWAŚ
+NJEZNATY
+UNSUPPORTED
+URI
+URLparametry
+URLšema
+URL
+USASCII
+USBrědy
+USB
+UTC/GMT
+wužywa
+UTF
+UTFBE
+UTFLE
+Uganda
+Oh
+Ujguršćina
+Ukraina
+Ukrainske
+Njestoj k dispoziciji
+Znjemóžniś
+Njerozsuźony
+Wótnowiś
+pód
+Pódšmarnjony
+Pódšmarnuś
+Anulěrowaś
+Slědk wześ
+znamuška
+Njemaskěrowana
+Unicode
+Zjadnośony
+Njeinicializěrowany
+Wotinstalěrowaś
+Wótinstalěrowaś
+Wótinstalěrowanje
+Jadnorazowy
+jadnotka
+Zjadnośone
+jadnotki
+Uniwerselne
+Njeznaty
+Zwisk źěliś
+Wótpóraś
+Ze zukom
+Zuk zašaltowaś
+njenumerěrowana
+wótpěś
+Njepśecytane
+Njepśecytany
+Registrěrowanje skóńcyś
+Njewótegranjajucy
+Njewobgranicowane
+Njepódpisany
+Njesortěrowany
+Wótskazaś
+wótskažośo
+Njepódpěrany
+bźez wobznamjenjow
+Bźez nitki
+Až do
+Bźez titela
+Njewužywany
+Njewobkšuśony
+Njewoglědane
+Górjej
+Pśiduce
+Aktualizacija
+Aktualizěrowaś
+rejtark Aktualizěrowaś
+Aktualizěrowaś
+Nagraś
+Górnoserbšćina
+Urdušćina Urdu
+Uruguay
+nas
+Wužyśe
+Wužyjśo
+Wužywaŕ
+UserAgent
+Wužywarske mě
+
+Wugódana
+Using
+Uzbekšćina
+Uzbekistan
+PŁAŚIWY
+VERSION
+VISCII
+VK_F
+VK_QUOTE
+VK_RETURN
+VK_SEMICOLON
+VK_SLASH
+VPS
+Płaśiwy
+Płaśiwosć pśespytaś
+Płaśiwosć
+Gódnota
+Gódnoty
+Vanuatu
+Wariabla
+Wariable
+Velho
+Venda
+Venezuela
+hardwary
+skannowaś
+Pśespytujo se
+Pśespytujo se…
+Wersija
+Versions
+Vertex
+Wertikalny
+Wideo
+Vietnam
+Vietnamske
+Naglěd
+Pokazaś
+Viewport
+Naglědy
+Naglěd…
+Pokazaś…
+Vincent
+Amerikańske
+Wirtuelny
+Woglědaś se
+woglědany
+Vista
+wizuelne
+Głos
+Volapyk
+Głosnosć
+WARNOWANJE
+WARNOWANJA
+WCAPwersija
+WHOIS
+WHOWAS
+WS
+WYSIWYG
+Cakaś
+Cakanje
+Caka se…
+Wake
+Wallis
+Walońšćina
+Warnowanje
+Warnowanja
+Wobglědowaś
+Zegery
+Wódopad
+Awdioformat WAVE
+Awdioformat
+Sr
+WeakMap
+Wócyńso
+WebGL
+WebIDE
+WebIDL
+WebRTC
+Websokety
+Webmaker
+Webbok…
+Websedło
+Sr
+Srj
+Srjoda
+srjoda
+srjodu
+srjody
+Tyźeń
+Kuždy tyźeń
+njeźelow
+tyźeń
+Witajśo
+Walizišćina Kimrišćina
+Pódwjacorny
+Pódwjacorna Sahara
+Pódwjacorne
+Co
+Gdy
+Běła lisćina
+WiFi
+Šyroki
+Šyrokosć
+Win
+Wokno
+Windowopen
+Windowsowe
+Zmyrknjenje
+Ze
+šcitała
+Wolof
+Priwatny
+Słužba
+Słužbne
+Słužbny
+Słužbny telefon
+Źěło
+Nuzowe rozwězanja
+Worker
+Workery
+Źěłowy tyźeń
+Łamaś
+Pisaś
+Spisaś
+x
+XContentTypeOptions
+XHR
+XHTML
+XML
+XMLHttpRequest
+XMPP
+XP
+XPCOM
+XPConnect
+XPath
+XSLT
+XTND
+XUL
+XXX
+Xhosa
+Ywósce
+NJEBY
+Yahoo
+YandexTranslate
+Lěto
+Kužde lěto
+lět
+lěto
+Drěśe
+Jemen
+Jo
+Cora
+Jišćina
+Jiddišćina
+York
+Joruba
+Wy
+Youtube
+Your
+Zwósce
+Sambija
+Džuang Zhuang
+Simbabwe
+Skalěrowanje
+Skalěrowaś
+Wokno skalěrowaś
+Zulušćina Zulu
+złamany
+cirkularnem
+Cool
+Płakajuce
+wokomuźenju
+formatSnowego
+Póškajuce
+łopjeno
+Mjelcate
+wobškóźonu
+negatiwny
+Numeriska
+a powerful
+a premium
+procesor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+Bogata
+a scam
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+mócnjejše
+a subgrid
+a suggestion
+Pśechwatane
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+Jězyk pokazujuce
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+słaby
+a weather
+a week
+a windowed
+a wink
+a year
+a yelling
+zacyitujo
+aWubjeŕśo
+aFrames
+aKnow
+abcčćdeěfghijklłmnńoópqrŕsšśtuvwxyzžźABCČĆDEĚFGHIJKLŁMNŃOÓPQRŔSŠŚTUVWXYZŽŹ
+śamnosć
+abilities
+able
+abort
+nawigacije
+about About
+about Networking
+about Us
+about brandShorterName
+about
+aboutconfig
+aboutcredits
+aboutrights
+aboutwebrtc
+above
+aboveAllow
+abruptly
+absence
+Absolutne pozicioněrowanje
+absolutnym
+accel
+accelalt
+acceleration on
+póspěšenje
+accelshift
+diakritiskimi
+akceptěrujśo
+acceptable
+formularnem
+akceptěrowała
+accepting site &apos
+sedłowych
+access Key
+access multimedia
+pśistupna
+accessed
+accessibility support
+accessibility tools
+bźezbariernosći
+pśistupny
+pśistupje
+accidental breakage
+accidental
+accompanying
+spoolowego
+accordance
+according
+s
+account Actions
+account connected
+account name
+wóznamjeniju
+accountManagernewAccountlabel
+accounts
+accuracy
+accurate
+wobswěsćijo
+across
+zawěsć
+action
+actions
+aktiwěrował
+aktiwěrowany
+active Logins
+aktiwnej
+activity Indicator
+activity Stream
+aktiwnosći
+actual Size
+actual
+actualDate &apos
+actualDate
+zawěsćeńskomatematiski
+spóznawanje
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+přidaś
+addEventListener method
+addEventListener
+pśidany
+pśidawaju
+pśidatnych
+additivesymbols descriptor
+additivesymbols
+addon &apos
+dodanku
+addons gallery
+dodaki
+addonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+njeASCIIznamuška
+pístup
+wěsćibr
+addresses
+addressing area
+pśidajśo
+Susedne
+ześěgnjenjoju
+admin
+administratora
+adult supervision
+doglěda
+advance
+advanced JavaScript
+rozšyrjonych
+advanced_pref_installation
+advancelabel
+advertise
+advertised
+advertises
+wobšudna
+affected
+affecting
+after Sending
+wuběrkom
+hyšće
+starstwje
+agent
+aggregate
+agregatam
+aggregating
+RSS
+góźinomapśed
+zwóliś
+agreement
+airplane
+aka NIST
+znata
+alatest
+alert description
+warnowanje
+algorithb
+algorithm Parameters
+signěrowańskim
+algorithmhash value
+algorithmhash
+algoritmuse
+alignment
+alined
+zdźaržuju
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+wšu
+pśipokazowaś
+allocated
+pśipokazanje
+allocations Rate
+allocations
+Dialogam
+allow immediate
+pśiwdaś
+dowólonych
+allowfullscreen
+allowing
+zmóžnja
+allowsameorigin
+allowscripts
+almost
+along the Y
+along
+alfabetiskem
+already bookmarked
+južo
+also gives
+also skip
+also
+altKeylabel
+změnili
+změnu
+altered
+alternatiwny
+kontow
+always Ask
+always Block
+always prefer
+pśeco
+ am
+dopołdnja
+amount
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+Tšuchłe
+an entirely
+wuwjaźobna
+an experiment
+an external
+Njewinowate
+an instance
+an instant
+an integrated
+an interprocess
+an item
+opakne
+an opaqueredirect
+an opportunity
+an overview
+Njewurownany
+njerozsuźone
+an unrecognizable
+šifrěrowańskeje
+analysis
+wólažcyś
+ancestor elements
+nadrědowanych
+ancestors
+anchor &apos
+kokulu
+anchors
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+and Herzegovina
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+a
+kutowy
+animatable
+animěrowany
+animation cycle
+animacija
+animacije
+kužde lěto
+anonymous box
+anonymny
+another
+wótegronami
+antivirus software
+antiwirusowe
+any applicable
+any arguments
+any article
+any automation
+indirektne
+any matching
+śišća
+anymore
+anyone
+anypolicy
+anything
+weto
+anywhere
+apart
+app &apos
+app submission
+app
+appName
+appear
+appearance wrong
+appearance
+Zda
+append
+applicable service
+applicable
+application Basics
+application Details
+application doesn &apos
+nałoženje
+applications
+applied
+applies
+nałožyli
+applying update
+nałožujo
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+approved
+Zgusćenje
+approximate line
+approximate
+pśibliženja
+apps &apos
+nałoženjach
+apr &#124
+nalětny
+apryl
+arbitrary
+archive
+archived folders
+archiwěrowanych
+archives
+archiwěruju
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+wobcerkoju
+area shape
+śtronach
+areas in
+płoniny
+t already
+aren
+pśepódało
+arguments for
+argumenty
+arising out
+wuchadaju
+arjo
+armscii ISO ISO ISO
+armscii
+wokoło
+dojdu
+reajtarki
+dojźo
+šypka
+arsa
+article summary
+nastawk
+wótwónoźeł
+artwork
+
+as Authored
+as broken
+as cURL
+as certified
+wótchilny
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+pśipóznatu
+Stupujucy
+ascii
+ash
+asis &quot
+asis
+ask me
+ask
+asked questions tips
+pšosył
+asking
+asks that
+pšaša
+aspect ratio
+aspect
+aspects
+assets
+assist you
+assist
+assistance
+znjemóznjaś
+pśizamknjenje
+assume
+assured
+Gwězdka
+async touch
+asynchrone
+asynchronous Pan
+asynchronous entity
+njesynchrona
+zacytanego
+at S
+at least
+at span id &apos
+kórjenjowem
+atchMore than
+atpšawidło
+pśipowjesyś
+Pśipowjesony
+pśipowjesa
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+Pśiłožkowa
+wótpóraśCośo
+pśidanki
+attack An
+attack pages
+napadowe
+attacker could
+attacker
+attackers
+attacks
+attempt
+attempted old
+wopytanu
+attempting
+wopytow
+attend
+wobkšuśił
+wobźělnika
+attendees
+attention
+attribute Type
+atributowa
+ textContent attribute
+atributy
+Awdiobackend
+rejarka
+aug &#124
+jacmjeńški
+awgust
+authenticate to
+awtentificěrowás
+authenticates
+authentication mechanism
+awtentifikacije
+awtentiskosć
+author
+authorities
+authority is
+instalował
+awtorizaciju
+authorized
+authors whom
+authors
+auto Increment
+auto Prettify
+auto Save
+auto discover
+auto
+autoAddOnsUpdateslabel
+autocomplete
+wudopołnjenje
+testowego
+autofill
+automated updates
+automated
+automatic updates
+automatic
+Pomjeńšone
+automatically detects
+automatically prefill
+automatically so it &apos
+awtomatiski
+automation
+wótgras
+awtomatiske pśesuwanje
+available &quot
+available Commands
+stoj k dispoziciji
+pśerězk
+pśerězk
+avoid
+aware
+njepśibytny
+pśesunuło
+b
+dowěrjośo
+bS
+Slězna
+back
+zawěsćili
+backed
+backfacevisibility hidden
+backfacevisibility
+slězynoweje
+njewobźěłane
+backslashes
+zawěsćeńsku
+backups
+backwards
+bad parameter
+Špatny
+myto
+baggage object
+brěmjeńkowego
+ban
+wobchody
+banks
+wugnany
+chórgoj
+bar
+barada
+baza
+based
+wubrać
+basic Page
+basic
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+zawinowali
+bear the
+bear
+bestiji
+beasts brought emfire
+rozměwała
+pśerědnjaŕ
+pórědniś
+became full
+became
+skódnych
+become
+becomes damaged
+msf
+been deactivated
+been navigated
+been reestablished
+been replaced
+been revoked
+been transferred
+been translated
+zwězałej
+beep
+nježli
+chopiła
+begin
+beginning
+begins with
+begins
+behalf
+zaźaržanju
+behaviour
+zaźaržanja
+being incompletely transferred
+being redirected
+being reparsed
+šćitał
+believe
+believed
+belongs to
+słušy
+below
+benefit
+benefits
+pódla
+best Match
+best accomplished
+lěpšych
+polěpšyła
+mjazy
+bfor Android
+bgt
+dwójosměrowy
+pśewjelike
+bigger
+billing
+binarny
+bind DN
+Bind
+binding shadows
+wězanje
+bindings tag
+wězańskem
+bird
+birdcage …
+cysći
+birth
+bit keys
+bitowy
+rata
+bitow
+kusnuś
+chowanju
+prozny
+block Lists
+block padding
+blokěrowańske
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+wopacnego
+blocking
+blocks parts
+bloki
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+body
+pśepowdany
+bookmark updated
+znemjenjow
+bookmarked
+cytańske znamjenja
+books
+boolean
+bootloader
+border &apos
+border radius
+ramik
+ramiki
+dołojce
+wobyma
+dołojce
+zwězas
+boundaries
+bounds
+Kašćikowy model
+box model region
+region kašćikego
+pšawokut
+boxcom
+schowany
+boxes
+njeschowaś
+br
+brace
+spinkow
+rožkate
+brand new
+brand profile
+brand
+brandFullName Credits
+brandFullName
+brandShortName &apos
+brandShortName Preferences
+brandShortName logo
+brandShortName
+brandShorterName Tour
+brandShorterNameName
+brandShortname
+break
+złamanje
+tšojenju
+zastankowy
+zastankowe
+breaks
+brighter
+bring
+broad
+Złamane
+brought
+pśeptyaś
+browser &apos
+browser Hangs
+browser configurations
+wobglědowka
+browsercachediskenable to
+browsercachediskenable
+wobglědowakach
+pśeglědowańskem
+brulliJolic
+tłc
+buddy list
+kontaktoweje
+budget
+Cachowa kapacita
+cachu
+programowa
+bugs visit
+bugs
+bugzillamozillaorg
+build Configuration
+tworiś
+building summary
+built
+builtin Roots
+builtin tools
+zatwarjonym
+bulleted list
+Naliceńsku
+pówołańske
+pśeśězone
+but we
+ale
+button button
+tłocašk
+tłocaški
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+pokažu
+bynbspdesign
+marku
+bajtow
+c
+sSsmS
+cURL
+cache management
+wulicujo
+cachecontrol set
+cachecontrol
+pufrowany
+cachemanifest
+caching of
+caching
+calendar Weeks
+póśěgujo
+calendaring information
+kalendarowu
+kalendery
+calendartimezonesxpi
+call Stack
+call calls
+wołańskich
+callUrl
+slědkwołanje
+called &apos
+called
+wołanych
+caller
+calling detach
+calling
+wołani
+kotaraž
+t negate
+can analyze
+can collect
+can often
+can ’
+jeju
+kliknuł
+canceled Occurrences
+pśetergnjone
+cancellation
+pśetergnjona
+cancelledAddon
+candidate resources
+kandidatne
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+cannot
+canvas Debugger
+canvas an
+canvas
+wugótowaś
+capable
+kapacita
+wjelikopisańskimi
+pópisanje
+capture
+captureEvents
+captured log
+nagrane
+card
+cards copied
+cards etc
+kórtow
+Wupasćo
+careful
+carefully
+caret
+carriage return
+carriage
+carrier
+case sensitivity
+pad
+źiwanja
+padach
+cast
+kategorijow
+categorize and
+kategorizěrowaś
+kategorija
+categorySource
+zawina
+caused
+zawiny
+causing stability
+zawinował
+glědanim
+caveats
+ssss
+cd
+cell border
+cell was
+cela
+celow
+cellular location
+cellular
+census
+center footer
+center header
+fronśe
+centrěrowano
+centerxcenteryradius
+centimeters
+cert AIA
+cert Library
+cert validation
+cert
+certain
+certificSian
+korjenjowem
+certifikaty
+certificěrowane
+ch
+rjeśazom
+nawjedujo
+změńśo
+serwerowego
+změnijo
+změnjajucego
+kanaloju
+znamuškowa
+znamuškach
+charset
+diagrama
+wami
+zmóžniś
+kontrolnego
+zmóžnjony
+pśeglěduju
+mozillacentral
+źiśecy
+źiśi
+wólbu
+wuběrki
+pśewóstajiś
+pśedewšym
+wubrał
+chrome//messenger/content/msgAccountCentralxul
+chrome
+Šyfrowa
+wěsćejše
+krejz
+krejz
+conje
+klasowy
+klasifikator
+cyste
+Clear Sans
+wuprozniś
+tekscé
+založył
+kliknjony
+play
+klienśe
+klienty
+mjazyskłada
+wurězowanje
+zerger
+zacyniś
+zacynjony
+zacynjenim
+kod
+codecowy
+fragmenśe
+collapse
+złožony
+gromaźiś
+zběrane
+Zběranje
+wupominał
+collector
+barwa
+barwach
+słup
+rozrědował
+słupomz
+kombinaciju
+kombinaciske
+pśidu
+wuzwignuli
+pśikazow
+komy
+commaseparated
+komentarje
+komentary
+
+commit
+zwuconych
+komunikaciski
+zgromaźeństwo
+zgusććo
+zguscyś
+zgusćaju
+wósobu
+pśirownanje
+składowych
+pśirownanim
+kompatibelnosću
+kompatibelna
+wudopołnjujucy
+šćo
+Wótinstalaciski
+dokóńcenju
+konformnosći
+komponenta
+kompozitor
+skompriměrowanu
+zgusćenja
+nowoty
+wobgrozyś
+Wulicenje
+licadło
+licadłow
+wuměnjenje
+konferencowu
+konfigurěrujobny
+konfiguraciskich
+zwobraznjaś
+konfigurěrowało
+wobkšuśćo
+Wobkšuśeński
+wobźělenje
+zwězajśo
+zwězowanje
+zwisku
+zwiski
+Internetom
+łamanjow
+naslědujuce
+wobglěda
+Konsolowe
+consoleinfo
+consolelog
+S
+consolewarn
+twariś
+Willchange
+proksyserwerom
+skontaktěrowany
+kontakty
+wiruse
+zacynijotej
+wopśimujo
+wopśimjeśe
+znicył
+konteksty
+pókšacowało
+sobustatkujucych
+rěgulěrowanje
+formatěrowańskich
+rozgrono
+rozgronow
+datuma
+konwertěrowali
+cookie
+cookieje
+wjelicnymi
+coords
+kopěrowany
+kopěrowanyS
+kopijow
+copy
+kopěruju
+pšawu
+psawje
+partnerjach
+wobškóźona
+wobškóźone
+wobškóźenje
+WebGLkontekst
+t
+licba
+counterstyle
+Kompatibelnostne
+sobuźěłaśerjami
+wowalenje
+wowalił
+wowaleni
+založenje
+createMediaElementSource
+createMediaStreamSource
+załožone
+załožowanju
+dopokaze
+kreditnych
+kriterijow
+kritiske
+css
+csv
+csv
+Strgenter
+tuchylnu
+kanalu
+SECG
+swójsku
+pśiměrjeńske
+pśiměrjenjach
+zmóžnjaju
+pśiměrjenju
+Wurězaś
+nagrawa
+pśešaltowany
+pśejźo
+d
+da
+kuždy źeń
+wobškóźujo
+škódow
+tšašne
+śamnosći
+smužkowany
+njewótpowěduju
+bance
+datareporting
+datum
+źeń
+źeńdnjadnydnjow
+źeńkuždej
+lěśojskim
+dnjow
+dny
+de
+marły
+zymski
+wobšuźili
+december
+rozsuźenja
+deklaracija
+deklarěrowaś
+wótpokazaś
+dekoděrował
+decodeAudioData
+Zdekoděrowane
+dekodery
+dešifrěrowanja
+dekompriměrowaś
+rozpakowanju
+pómjeńšyła
+dešifrěrowali
+dešifrěrowanju
+standard
+defaultPrevented
+standardS
+Standardy
+definicija
+stopnjach
+Wokomuźenje
+delegěrował
+wulašujśo
+wulašowany
+lašowanju
+pśipósłaś
+wótpósćela
+bitujo
+mjenowak
+zawoborony
+mjenowak
+zestarjony
+wótkazom
+pótomnik
+Wóstupujucy
+wopisanymi
+wopisanim
+deskriptor
+wuwił
+desktopowy
+celowem
+JSkontekst
+wótpowjesyś
+pódrobne
+drobnostki
+nadejšeł
+UAzwěsćenje
+zwěsćiło
+póstajił
+developersmozillaorg
+wuwywarje
+wuwiśe
+rěźee
+rědya
+pokazała
+spóznaś
+diagonalna
+diagram
+dialog
+zawoboraś
+słowniku
+pPominane
+zwěsćujo
+rozdźělnych
+konfigurěrowanem
+wótchylne
+póśěžujo
+digest
+digitalneju
+digitalnje
+pódpisanem
+cyfry
+wótměru
+směrowem
+směrnica
+direktiwach
+zarědniki
+zapisa
+znjemóžniś
+znjemóžnjony
+znjemóžnja
+zmóžnjanje
+zakazanego
+wótpokazuju
+wuzamknjeńska
+wótźěliło
+diskusiji
+platy
+zwobraznjeńske
+zwobraznjuju
+slěda
+rozeznawajobnego
+pśewóstajone
+rozdźělowańskego
+rozdźělowarje
+div
+diwizija
+docpdfxlspptrtfppsattachmentattachattachedattachingenclosedCVcover
+dokumenty
+słowom
+dokument
+dokumentaciju
+documentdomain
+dóstała
+documentexecCommand
+documentquerySelector
+dokumentěrujo
+documentwrite
+t match
+njeimplementěrujo
+dolarow
+domenu
+t Share
+Buźotej
+dopplerFactor
+operatorow
+dypkaty
+pśeśěźony
+ześěgnjeńsku
+ześěgnuło
+ześěgujo se
+ześěgnjenja
+Nacerjeńske
+Nacerjenja
+śěgnjośo
+kreslankow
+běgadło
+gónjak
+gónjaki
+wuwóstajona
+wowaleńskeje
+dwójny
+diaglinija dołoj
+e
+žednego
+wugroniwe
+jěsnjejšy
+lažčejše
+lažke
+wobźěłali
+Wobźěłane
+wobźěłanje
+kulanim
+procowanjach
+wósymadwaźasty
+eightbit
+wósymnasćo
+wósymnastego
+wósymy
+tšojenjowu
+sekunźe
+elea reime
+element
+elementdataset instead
+elementdataset
+elementach
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+jadnasćo
+jadnasty
+eligible
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+kśiwula
+else contact
+zlě
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+email
+emailI &apos
+emailI
+emailed
+emailexamplecom
+emails
+emand
+embarrassed face
+embarrassed
+njepśijazne
+embed
+embedded PDF
+embedded
+pódprěli
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributor
+emcontributorJoe Solon
+emcontributorMichael
+emcontributorSuzy
+emfire
+emgreat
+emnoweje
+emother
+emoticons
+źěłodawar
+empty Trash
+empty slots
+prozna
+papjernik
+emreborn
+emrenewed
+emswiftly
+emthunder
+emtwins
+emulate a
+emulěrowaś
+emulating a
+emulating
+Emulacija
+hsb
+enUS en
+dsb
+enable brandShortName &apos
+enable others
+enable worker
+zmóžniś
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+zmóžnjonu
+enables
+enbz
+wobpśimj
+wobpśimjony
+encode
+skoděrowanych
+encoder
+encoding
+encodings
+starcył
+encrypt this
+šifrěrowaś
+encrypted you
+šifrěrowany
+šifrěrowanja
+enctype instead
+enctype
+enctypeS
+enctypemultipart
+end user &apos
+kóńcnem
+ended
+kóńcne
+ending with
+ending
+endpoint
+ends up
+ends with
+kóńcoma
+wunuźijo
+engage
+engine
+engines
+pólěpšone
+enjoy
+enlarging the
+pówětšowaś
+dosć
+šćitała
+ensures that
+ensures
+zapóidajśo
+zapódawaju
+entering
+enters
+entire
+entirely
+maskěrowali
+entity in
+entity reference
+entiśe
+entries
+zapisk
+licabny
+enus
+environment Data
+wokolinu
+environments
+ephemeral DiffieHellman
+ephemeral
+equals sign
+equals
+rownica
+equestAnimationFrame
+era of
+erase
+error console
+error creating
+error refiling
+zmólkowym
+errorCode
+errorfree
+zmólki
+erver
+es Salaam
+es
+esES
+esc
+maskěrujśo
+escaped
+escaping
+establish
+established
+estimates only
+pówoblicenja
+atd
+eval
+evaluate selected
+evaluate
+evaluating a
+evaluating an
+wugódnośowaś
+evaluation
+even
+Tšojeński wobźěłaŕ
+tšojenjow
+eventThe
+tšojenja
+ever
+every dayevery
+every weekevery
+mjasecowukuždy
+wólažcyli
+płachty Modus
+everything
+wšuźi
+eksaktnu
+eksaktnje
+examf
+examine your app &apos
+Pśepytujśo
+pśikładowymi
+examplecom rather
+examplecom
+examplenet
+exceed five
+exceed the
+exceed
+exceeded
+pśekšaca
+except
+exception
+exceptions Cookies
+exceptions
+wuměnje
+excluded
+bźez
+exclusion
+executable
+execute
+executed to
+executed
+wuwjedujo
+wuwjeźeński
+eksemplariske
+exist can &apos
+eksistěruju
+eksistěrujucy
+esistěrujo
+existsWould
+exit
+exited
+exits
+expand panes
+expand
+expanded to
+rozłožony
+expanding out
+expanding
+expands to
+expands
+expandstrict
+anonymny
+expect
+wócakowanja
+expected charset
+Koordinatowy
+Licakowy
+expected identifier
+expected nonnegative
+expected part
+tekstury
+expecting
+rumowaś
+nazgónite
+experiences
+experiencing
+experiment
+eksperimentelny
+experiments
+expire
+pśepadnjony
+expires Seconds
+pśespadnjenja
+expiry
+explicit
+explicitly specify
+explicitly
+exploit
+wuslěźił
+explore
+export regulations
+eksportěrowaś
+exported
+wótekšyś
+exposedProps
+express
+wugódnośujo
+expressions
+extend
+extended
+extending the
+Rozšyrjanje
+extends system
+extends
+rozšyrjobny
+extension extensions
+Sufiks
+extensions
+external Editors
+external storage
+external
+extra Large
+extra requirements
+wósebnymi
+extract error
+Rozpakowaś
+extraction error
+Wupakowańska
+extreme
+f
+woblico
+facing camera
+facing
+factory
+fail
+raźiłej
+fails treat
+fails
+njewuspěchow
+fallback
+false
+true
+Znaty
+family addressbr
+cłonkam
+far
+fast
+malsnjej
+fawority
+faksowała
+funkciskim
+features
+feb &#124
+swěckowny
+februar
+feed &quot
+feed Subscriptions
+kanalowych
+feedImported
+Komentarowe
+aboněrowali
+feel
+feels great
+dobre
+fell
+fence
+fetch count
+fetch
+fetched from
+napšašowany
+fetching individuals
+fetching more
+fetching
+few
+fewer
+ff &quot
+ff
+field Value
+tłocyśo
+fields
+pěśnasćo
+pěśnasty
+pěśadwaźastego
+wbr
+ilustracija
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+dataja
+filename
+datajow
+systemoweje
+spišośo
+fill out
+wupołniś
+fillStyle
+filled
+filling
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+Filtrowaś
+filtrowanu
+filtrowanje
+filtry
+final
+financial
+find In
+re
+find out what &apos
+Namakajśo
+findbar
+finding
+finetuned
+seo
+finished evaluating
+dozacytał
+finishing
+fire
+firefox
+firefoxapps
+wognjoweju
+wognjowe
+first option
+first party
+prědny
+wašyim
+pěś
+rozwězał
+fixed Width
+fixed width font
+Kšuta
+fixvideoaudioproblemsfirefoxwindows
+chórgojcka
+flagged
+flame
+flash
+płoninow
+flat equation
+flat
+flexibility and security so you &apos
+fleksibelnosću
+flexiblebr
+floating &quot
+floating
+nastwark
+floppy
+etaža
+Wariablowy
+focus
+fokus
+folder &apos
+folder &quot
+folder subscriptions
+zarědnikoweju
+zarědniki
+wuwjaźćo
+followed by
+nakósnej
+followers
+following protocols S isn &apos
+following
+follows
+followup
+font Control
+font size
+pismowa
+fontface rule
+fontface
+fontfeaturevalues
+fonts for
+pisma
+kakostna
+fontvariant
+footer text
+noga
+footinmouth face
+gubje
+for &apos
+for &quot
+for Clearing
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+for recipients &apos
+for signing
+for writing
+zazwónjarim
+forbidden
+Wunuźćo
+forced
+Namócnje
+forcing all
+wopśimjeł
+foreign
+forgeries
+forgery
+forget
+forgetting
+forgotten
+form Field
+form Post
+form fields
+form userhost
+formular
+formatom
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+formatSNew
+formaty
+formatted as
+formatěrowany
+formatěrowanje
+formdata on
+formdata
+wuformowało
+forms are
+rozesćełaju
+forth and
+šła
+forumow
+forward slashes
+Zasajźonu
+dalej pósrědnjony
+forwardmsg
+forwards
+namakałej
+foundout of
+namakanyz
+founds
+styriadwaźasty
+styrnasćo
+styrnasty
+stwórtego
+fox jumps over your expectations with
+fox jumps
+fox
+fps
+frFR
+łamk
+łamk
+fragment Shader
+fragmenta
+frame &apos
+frame
+framed
+frekwenca
+wobłukow
+frameset
+framesets
+framing
+wobšuźe wjasć
+fraudulent
+licha
+frequently
+fresh
+ fridays
+friday
+fridays
+friend
+pśijaśelami
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+wót
+z
+front facing
+front
+frown face
+Cołomaršćece
+zamarznjony
+ftp
+ftpmójispde
+konflikśe
+fullfeatured
+fullpage
+spušćiła
+fully
+function
+functional
+funkcionalnosć
+functions
+further
+future scans by
+pśichodnych
+fxp Available
+fxp
+gain
+galeriji
+garbage Collection
+garbage collection
+Wuchytk
+garbled text
+zbědnjonym
+gateway
+gathering
+gazed
+gb
+gdiplus
+gear icon
+zubkatym
+general Notification
+general
+generally
+generate a
+pór
+generated
+generation
+licbow
+generic Photo
+generic
+geoenabled preference
+geoenabled
+stojnišćow
+geometric
+geometry visibility
+Geometrijowu
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+wótwółaś
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+getAttributeNode
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+dostaśu
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+Napišćo
+numeroju
+gives you
+gives
+giving
+awdiomólenja
+parametroju
+global Composing
+global community
+globalnu
+globals
+go Back
+Źi
+goes
+going online
+źośo
+gone
+good news
+wuglědaju
+dobrośiwosću
+gopher
+gorithm Identifier
+got it
+got
+governed by
+stata
+grace
+grant
+granted
+grants you
+grants
+grafika
+grafiski
+zacuśe
+greater than
+greater
+witanje
+grew more
+gibaś
+kśidno
+rasterowa cela
+pśimałko
+pomjeniś
+grouped
+groups
+gt
+gtgt
+guarantee that
+guarantee
+garantěrowaś
+wugódaś
+guessed
+guessing
+guest is
+gósć
+guide you
+guide
+guides
+h
+hTraduction
+ha
+rědo
+had its
+had
+half an
+half past
+napoł
+hand tool
+Rucny
+handle S
+wochadało
+handled
+handler command
+zapušćaka
+wobtwarźenjami
+handling
+hands
+pówitańsku
+hašowe
+hang Report
+hang stacks
+hang
+wisanjow
+happened
+happens
+hard drive
+hard
+hardware H
+hardware acceleration
+hardwaru
+škódowaś
+škódnu
+has Attachments
+has bookmarked
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+has
+pśespytowańskeje
+hashes in
+pśeglědowańskich
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+have
+haven &apos
+haven
+haves
+having trouble
+bźeztogo
+head
+głowa
+głowowych smužkow ześěgnuś
+heading level
+nadpismo
+headings
+health
+heap
+Rědnje
+height
+held
+hello extension
+hello
+pomagaju
+helper
+wužytnymi
+helping make
+helping
+helps ma
+pomaga
+her
+how
+schowany
+hide Statistics
+hide Toolbars
+schowaś
+hiding
+Wusoki stopjeń
+high
+higher level
+wušy
+highgrade
+wuzwignuł
+wuzwěgnjone
+highlightedS nodes
+wuzwignjonyS
+Highlighter
+markery
+highly recommended
+highly
+hightailcom
+him
+hints press
+hints
+his or her
+kontaktowej
+history window
+history&apos
+historiju
+hold
+holds
+home City
+Domacna zemja
+home Phone
+home directory don &apos
+Priwatna
+homepage
+hop limit
+wótkazy
+horizontal lines
+horicontalna
+horror
+hostowy
+pógóspodowany
+hosting service
+hosting
+hostname
+hostnameport
+hostnames
+hostport
+hosty
+hotspots
+hour
+góźinagóźinjegóźinygóźinow
+góźiny
+kak
+however
+href
+hrink
+hrpd
+horiclinija
+htm
+html &apos
+html
+htmlstrong
+htmlstrongcookieje
+htmlstronghistorija
+zacynïju
+htmlstrongwokna
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http//wwwseamonkeyprojectorg/
+http
+https//developermozillaorg/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad
+pśenjasony
+barwowy ton
+cłowjek
+stow
+iCalendar
+iOS
+icons
+jadnakosću
+identiski
+pśedstajił
+identifikatorje
+identifikatorami
+identificěrujo
+njeidentificěrujo
+kšadnjenju
+prozny chód
+tj
+Jolić
+iframezasajźenjow
+pódnitka ignorěrowany
+ignorěrował
+iii
+njedowólone
+s
+wobrazowego
+wobrazgif
+wobrazjpeg
+wobrazpng
+wobraze
+imap
+wobrkta
+imgur
+imitěrował
+implementaciji
+implicitnje
+zapśimjony
+numerom
+important
+zaimportěrował
+importěrowanju
+njegódne
+pomagali
+pólěpšona
+w
+njecynitosć
+njepśigódne
+Modus
+colow
+inkl
+Zapśimujśo
+inkluziwne
+dochadny
+njekompatibelne
+wopacne
+pówětšyła
+inkementelny
+Zasunjenje
+indeks
+Indiwiduelny
+ined
+njedosegajuce
+rekursija
+wótkšyś
+inherit
+initial
+inicializěrowanja
+inicializěrowała
+iniciěrowaś
+injicěrował
+cłowjeka
+inline
+inlineblock
+zapodawańskeje
+njewěstu
+pśenjasone
+zasajźiś
+zasajźenju
+krotko
+pśeglědowali
+instalěrowaś
+zainstalěrowała
+instalěrujo se
+wuwijarskim
+Direktna
+Momentane
+město
+wjelikej
+instrukcije
+intaktne
+integer
+integrěrowane
+wopśimjona
+rozdźěluju
+wótpópadnuł
+zajmawe
+webpśeglědowanjeju
+mjaztymnych
+JANOinterny
+nutśkownem
+pśetergnjenje
+zawjedowaś
+QName
+pśepšosenje
+pśepšosenja
+pśepšosyś
+kazał
+wobźělone
+zapśimujo
+wótpokazujo
+jo
+isindex
+t empty
+njejo
+wudany
+wudawaŕ
+Trajo
+skóńconeWašej
+zapisk
+zapiskach
+iteraciski
+programoju
+wezymski
+januar
+jid
+michalwjelkpsikladde
+michalpsikladde
+pśizamknuś
+jpg
+jslintstricter
+jsmith
+žnjojski
+julij
+skócyś
+skócony
+smažkow
+junij
+cajkowa
+suźenja
+jadnorej
+kb
+Źaržćo
+žywe
+klucowy
+kluce
+pśidankowych
+słowow
+kick
+wuchyśił
+družyny
+parta
+wěźeś
+wěźenja
+znatem
+pomjenjenje
+sekwencielnje
+rěcach
+wjelika
+wětše
+nejwětšych
+slědnu
+slědny
+znowaego
+Startowa
+tastaturach
+ldi
+ldif
+wjadło
+zgóńśo
+nalěwo
+lefttoprightbottom
+dłujkostna
+mjenjej
+nějwěcej
+letter
+znamuškami
+rownina
+nalěwo
+li
+liPśespytajśo
+liStajśo
+liJolic
+liSnaź
+liZawěsććo
+liPšosym
+liTłocćo
+liSedło
+liToś
+liWopytajśo
+liWebadrese
+rukowanje
+biblioteka
+licencami
+licencydawarje
+swětło
+swětłosć
+liliDowólujo
+liliŠćita
+liliNěkotare
+liliemGLĚDAJŚO
+wobgranicowane
+s
+line
+smužkach
+wótkaz
+zwězałSom
+wobźěłało
+lisćina
+naliconych
+Dochadowe
+pśisłuchaki
+literal
+wtk
+pśida
+zacytany
+zacytujo se
+lokalne
+lokalu
+lokale
+lokalnje
+lokalizěrowaś
+stojn
+městnach
+špěrki
+zastajony
+protokol
+pśizjawjeńskich
+pśizjawjenja
+logo
+logach
+pisna diwizija
+long
+pisna diwizija
+njedowěrijo
+stilom
+šlejfu
+zgubjenja
+zgubjony
+pśemało
+nišy
+lt
+ltStrgKgt
+ltStrgUmschKgt
+ltakcija
+ltbgtboldlt
+ltkategorjowychgt
+ltkanalgt
+ltpśikazgt
+ltjidgtltmessaggt
+ltgronidłogt
+ltgronidłogtltrumgt
+ltlt
+ltmessagegt
+ltměgt
+ltnowy
+ltpśiměgt
+ltnickgtltmessagegt
+ltpśiměgtltpśiměgt
+ltparametergtltparametergt
+ltr
+ltrumgt
+ltroomgtltservergt
+ltusergtltusergt
+měgtltwužywarske
+ltxExKgt
+ltxKgt
+lu
+mašinu
+mašinach
+cynili
+madruwb
+posta
+postowego
+kašćiki
+maildir
+emailexamplenet
+rozpósłańske
+głowny
+Wótwardowanje
+antiwirusowej
+zgótowarjow
+póśěźujo
+Deforměrowany jadnory
+złosny
+złosnu
+zastojaś
+zastojanje
+zarědujośo
+manifest
+manifestjson
+protokolěrowanja
+pśirucku
+manuelnje
+pózymski
+měrc
+
+wenkowny wótstawk
+mark the
+markěrujuśo
+markěrowany
+marking a
+wówołowanju
+wuznamjenjeńskego
+marquee
+maskěrowanje
+master
+wótpowědowaś
+wótpowědnikowuWušej
+matched by
+matched
+matcheleatchMore than
+wótpowědujo
+wótpowědujuca
+matchutomatically
+material
+math table
+math
+matriks
+maks
+maxage
+maximum Length
+maximum permissible
+maksimum
+may discontinue
+may update
+maj | maja | rozhelony | rozhelonego | roz
+maybe
+mb of
+mb
+mbox
+me out of here
+mnu
+mean slower message
+mean
+means you &apos
+wóznamjenijo
+measure a portion
+measure a
+measure
+measurements
+measuring
+mechanism
+mechanisms
+media Sharing
+medijowym
+medium
+meet
+pśigódne
+familije
+cłonki
+memory map
+memory measurements
+skłaźe
+naspomnjeju
+menu Bar
+menu bar
+menijowa
+menuPath
+menus
+kupne
+merge Warning
+merge all
+zjadnośiś
+websboka
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+powěśc
+messageDone
+messageIndexing
+powěsćS
+powěsćbr
+messagebrIn
+powěsćeml
+messagegt
+messageid
+messages Reopen
+powěsćow
+powěsćow se pšašaś
+powěsćow wulašowaś
+messaging
+meta
+metadata
+metal posteriors
+swěśece
+metaviewport tag
+metaviewport
+meter
+method &apos
+metodowe
+methodGET
+methodPOST and
+methodPOST
+methodpost
+methods
+mikrofona
+microsummary
+Srjejźnozajtšne
+middle
+simulěrowaś
+migrate to
+migrate your
+migrate
+migrated
+milimetrow
+millisecondPing
+milliseconds
+mimetype of
+mimetype
+min
+mind
+minheight
+minimonth
+minimum
+minjs
+snadnu
+mins
+minute minutes
+minuśe
+minutyKužde
+minutaminuśeminutyminutow
+minutes ago
+minutes …
+minutow
+minutow za nowymi nastawkami pśeglědaś
+minutow za nowymi powěsćami pśeglědaś
+minuty
+minwidth em
+minwidth
+misconfiguration
+misconfigured
+misencoded
+njetrjefi
+mismatched tag
+njemakajucy
+missed reminders
+Pśepasone
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+felujucych
+misspelled word
+misspelled words
+napisane
+mistake
+zmólkami
+napisany
+mix
+měšany
+mmultiscripts
+mobilnym
+mode and can &apos
+šaltował
+modegt
+kašćikego
+modelview
+moderated
+moderator
+modern
+moduse
+pufrowakowym
+modifier
+modifiers
+modify
+module returned
+modulowe
+modules
+moduli
+wokognuśe
+momentarily
+moments
+pónjeźela
+pónjeźelu
+moneymouth face
+pjenjezneju
+monitor
+month
+monthS of
+mjasecowS
+mjasecakuždy
+kuždy mjasec
+mjasecowuslědny
+more bookmarks
+more powerful
+more savings
+wětšu
+dalšnaa
+informacijex
+wěcej…
+most Visited
+most accurate
+most popular
+wuwónoźeś
+mostrecently
+mouse Wheel
+myšku
+move Down
+move Up
+move away
+move emswiftly
+pśesuńśo
+moveable
+moved renamed or deleted
+moved renamed
+pśesunjony
+pśesunjonyS
+movemail
+pśesuwa
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescription
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+mozVisibilityState &apos
+mozVisibilityState
+mozcmd directory
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+Michael Wolf
+mozinlinebox display
+mozinlinebox
+mprescripts
+ms
+msf
+msgFilterRulesdat file
+msgFilterRulesdat
+spomałšyjo
+multiline
+multimedia
+multiple links &quot
+Wěcejrazowe
+multiplied And
+multiplied by
+multiplied
+multiprocesowem
+Wěcejtyźenjowy
+muziku
+must involve
+must
+my &quot
+my Cert
+my Projects
+mójej
+my Task
+my Yahoo
+my windows
+mójogo
+mypagehtml &quot
+mójbokhtml
+n
+nWhen your
+nGaž
+name &quot
+name
+nameSource
+named anchor
+named either
+projekta
+mjenjach
+namespace
+namespaces
+narrowing
+native code
+native
+natively
+navigate
+pósrědnił
+nawigacija
+navigation Toolbar
+nawigacija
+navigatorbattery
+navigatorgetBattery
+wuměnil
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+near
+bliskosći
+nearest
+necessary
+tłocyś
+needed
+needing to
+needing
+needs
+negate
+negated
+negaciski
+negative
+negotiate an inadequate
+njepśigódny
+negotiating a
+negotiating
+jadnańske
+CanvasGradient
+nested Table
+zašachtelikana
+zašachtelikańskim
+netnz /
+netnz
+netscape
+network Monitor
+network Timeout
+network drive
+network section
+seśowym
+never Show
+nigda
+new Caledonia
+new Separator
+new Tab
+Nowoseelandska
+new home
+new word
+nowy
+nowše
+news client
+nowosć
+newsexamplenet
+newsgroup subscriptions
+adresěrowańskemu
+newsgroups
+Newsrcdataju
+newsrcdataja
+newsrc
+next gt
+pśiducu
+pśiducy
+nicer
+pśimě
+přimjenju
+nicknamegt Change
+nicknamegt
+pśimjenjami
+pśimjenja
+Nocna
+nikto
+źewjeśadwaźasty
+źewjeśnasćo
+źewjeśnastego
+źewjety
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+žeden slot
+no thanks
+no unconfirmed
+ně
+noMac
+noWin
+nocors&apos
+nocors
+suk
+nodeShow all
+nodeShow
+nodeValue
+nodelock
+sukow
+nominative
+non Participant
+non
+nonASCII
+nonFORTEZZA Certificate
+nonFORTEZZA
+nonGregoriancalendar
+rozpušćiło
+nonUTF encoding
+nonUTF
+nonascii character
+nonascii
+noncesource
+noncharacter
+žeden
+žedna
+nonempty
+nonfunction pseudoclass
+njefunkcisku
+nongeneric
+nonincremental Cause
+njeinkrementelny
+njełopjenje
+njemultiprocesowem
+njenawigaciskim
+Njenegatiwna
+nonparticipant
+nonprintable character
+njeśišćajobne
+nonprofit Mozilla Foundation
+žrědłowym
+nonspace in
+njeprozne
+nonstandard
+njetekstowe
+njeprozny
+wót połdnja
+nor
+normally
+noscript
+nosniff
+składowanjeju
+not After
+not Before
+not Connected
+Njekritiski
+not Defined
+Njewulašowane
+Njeześěgnjony
+not Enabled
+not Installed
+Njepśibytny
+not Started
+njeskładowany
+not Trusted
+not accepted
+not accessible
+not be saved
+njezmóžnjony
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+wobźěłanyma
+notation be unescaped
+notation be
+notation
+note Slow
+notica
+notes
+nothing
+notice
+noticed
+notification Permissions
+notification _
+notification
+powźeńki
+notified
+notifier or
+notifier
+notify me
+notify
+noting
+nounclass
+nov &#124
+now
+nowember
+now doesn &apos
+něnto
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+nsIWindowMediator
+nsIWritablePropertyBag
+licak
+ličby
+Numerěrowanu
+numbers negative
+numbers
+licak
+numeriskej
+nursery Collection
+nursery Eviction
+nursery
+obj Properties
+obj
+object Stores
+objektoweje
+objektami
+obscured
+observed
+wobglědowaki
+obtain
+occur
+occured
+occurred
+occurrence of
+wustupowanje
+occurrences
+occurs
+oct &#124
+winski
+oktober
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+of Man
+of Office
+of Operation
+of Sync
+of Validity
+s
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+ 
+z
+ofbr
+off paint
+wušaltowany
+offer
+offered
+offering
+offerings
+offers
+offerxA »
+offline
+offline_apps
+offsets
+often
+ok
+staru
+older than
+older version of Sync
+staršymi
+oldstyle YouTube
+zasajźenje
+omitted
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+na
+pśez
+zašaltowany
+zwěazaś
+one Level
+one moreand
+opcijow
+jadnorazowu
+ones
+oneshot
+oneubuntucom
+běžnych
+online
+only reloads
+only supports
+only transmitted
+jano
+zaměrybr
+opacity in
+opacity
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opcode
+open Web
+open WebIDE
+wócyniś
+wócynjony
+opening fence
+wócynjenju
+opensource
+operating system
+źěłowego
+operation command
+operation failed
+operacíje
+operations error
+operacijach
+operator expected
+operator
+operators
+opportunity
+opposed
+pśepśimali
+optimizations
+optimized away
+optiměrowane
+optin No
+přizjawjenim
+option Group
+nastajenje
+optional defaultS
+na žycenje
+optionally
+implementěrowało
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+abo
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+preferěrowanem
+organization
+organizacijow
+Organizator
+celowego
+originAttributes
+originalna
+originally
+originale
+originating
+origins
+orithm Identifier
+s
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+drugi
+luźam
+otherwise it
+otherwise
+our geolocation
+our partners
+našym
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+paletu
+wupad
+njeaktualnego
+wuchadnych
+wobcerjenje
+outlook
+outofdate
+output folder
+wudawańskeje
+zwenka
+over other apps &apos
+nad
+overhead
+overlay
+pśepisany
+override the viewer &apos
+override
+overriding
+nad tym napisany
+overview
+pśepisowaś
+overwritten
+swójskej
+owned
+owner of
+owner
+ownerElement
+wobsejźarjow
+ownership
+p pIf
+p
+pWěsty
+pA
+pAdditional information
+pPśidatne
+pAttack pages
+pNapadujuce
+pDeceptive sites
+pWobšudnkojske
+pEntering any
+pEntering
+pJolic
+pThe browser
+pThe page
+pThe requested
+pThe
+pThese types
+pToś
+pLěcrownož
+pBoki
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pWy
+pWašo
+pakśik
+zapakowane
+pakety
+nutśkowny wótstawk
+page &apos
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+page translation
+page }
+zapódajośo
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+pages they &apos
+bokach
+paint flashing
+Wuzwigowanje
+Nakreslonu płoninu
+Nakreslonu
+pair a
+pair
+wobłuk
+panel
+panes
+pśesuwanim
+paper Size
+papjery
+paragraph Marks
+wótstawk
+param
+parameter entity
+parametrowej
+parametry
+paranoid
+parent Match
+parent Payload
+parent prefix
+Starjejšyna
+parse XML
+parse failure
+parse
+analyzěrował
+parser state
+parser
+analyzěrowańskej
+part of
+źělenju
+partial Update
+partial character
+źělne
+źělach
+participant
+participants from
+participants
+participate
+particular purposes
+wósebnym
+parties
+partner You
+partnarja
+partners We
+partners work
+sponsorowane
+partnarstwje
+parts
+party
+cytaśCośo
+pśepódajśo
+passed to
+passed
+passive ’
+passive
+tkstgronid
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+password&apos
+gronidłowy
+passwordLeave
+passwordStored
+passwordprotected
+gronidle
+zachadnosći
+zasajźujośo
+patch apply
+patch
+sćažku
+paths starting
+paths
+S
+pattern
+pause
+paused —
+zastało
+payload
+payment provider
+zapłaśeńskego
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+měrje
+peer &apos
+napśeśiwnym
+peers &apos
+peers
+pending dump
+wobźěłujo se
+people &apos
+people wouldn &apos
+luźe
+per
+procentow
+percentage of
+percentage
+percnt dokóńcone
+percnt
+perform caseinsensitive
+perform querySelectorAll
+perform
+wugbaśu
+performed Trying
+samskeje
+pśewjasćgt
+wuwjeźośo
+periodically
+permanent exception
+Trajne
+permanently deleted
+permanently
+permissible length
+dowólonu
+permission denied
+dowólnosći
+pśizwólił
+permit
+permitted
+stawne protokole
+persistent
+person &apos
+person who holds
+wósoby
+personal Card
+wósobinskem
+personalhttp//wwwmozillaok
+Wósobiny
+Wósobina
+pokazkut
+pokazowarjowy
+wobšudny
+telefonowych
+wuběrak
+wobrazoweje
+pśipěś
+sekunduAwtomatiske
+pinning
+Pikselowy
+pikselow
+placeholder
+pógibny
+lutny
+platformowych
+wótgrali
+wótsmasał
+tykacowe
+tykace
+Jeju
+png
+podkast
+podkastow
+Pópadnjenje kursora
+špěrka
+koordinata
+woblubowanych
+wuskokujuceje
+port
+zbytkowne
+porty
+position
+Pozicioněrowańske kśidno
+pozicioněrowanje
+slědki
+potencielnymi
+starego
+mócne
+ppGaž
+ppZmólkowy
+škódowali
+napšawu
+pśedkonfiguracija
+pref
+implementěrowaś
+preference
+preferonline
+preferěrowanu
+mozRTCPeerConnection
+prefiks
+premiumowe
+pśigótujo se
+Prezentěrowane
+tłocony
+doprědkaznižone
+doprědka stajone  znižone
+doprědkapówušone
+doprědka stajone  pówušone
+twarźi
+preventDefault
+zacytowanjoju
+pśeglědom
+pśeglědy
+pjerwjejšne
+Registrěrowanje
+płaśiznje
+Primarna
+wuśišććo
+śišćobne
+wuśišćała
+śišćaka
+śišćaki
+prioritaty
+priorita
+priwatnosći
+priwatny
+Priwileg
+priwilegěrowane
+priwilegije
+informěrował
+problemy
+procedury
+procesom
+pśeźěłało
+procese
+pśeźěłuju
+produkt
+produkty
+profilu
+rozdźelne
+programach
+póstupowa
+stali
+Projektowe
+prologa
+zlubjenje
+zapódawańskego
+pšašaju
+pórědnje
+porědnje
+kakosć
+šćit
+protokolowy
+protokolow
+žrědłu
+póbitowarjaa
+póbitowarjami
+dodawa
+proksyjowe
+pseudoklasy
+pseudoelementom
+Pseudogłowa
+pspan
+zjawnymi
+zjawnje
+publicěrowaś
+wózjawjaś
+wózjawjone
+śěgniśo
+pulliAko
+pulliNjejo
+pódanu
+pulliJo
+pulliPšosym
+pokuśeńske
+kupiś
+emdruge
+zaměram
+wuzgibnjone
+px
+q
+qmozillaorg
+qstrongww
+qstrongwww
+cakański
+cakańskem
+Malsne
+wopušćić
+Głowna kwota
+pśekšocyło
+kwoty
+citěrowaś
+quoted
+qwxyz
+kórjeń
+kórjeń
+opcijowy
+radiusa
+spěšnosć
+Wótgrawańske
+poměr
+raw
+wuwześim
+Re
+dostanjo
+pśecytanych
+cytajobna
+s
+Cytańska
+jano cytajobny
+napšawdne
+reason
+wotnowiś
+licadko
+wobtwarźenjow
+wobchadaś
+dostawaś
+dostali
+dostawanje
+s
+dóstawarja
+dostawarjow
+pśipóznaś
+spóznał
+pśiraźujo se
+wuraznje
+zasej zwězało
+sajźbu
+nagrali
+nagrawajucy
+wótnowiło
+zezběrał
+rect
+pšaworožk
+wobinuła
+rekursiwna
+posrědnjaś
+dalejpósrědnjanju
+póśěgnuś
+referency
+pokazku
+referrerami
+wrośenje
+proksyjowym
+regularny
+region
+zregistrěrowanego
+Registrěrujo
+registracija
+regstraciju
+wugótowany
+direktne
+relatiwny
+wersijowych
+relewanca
+relewantnych
+njezachopiś
+znowegozacytowanje
+póstajenjow
+zbytne
+wóstawa
+spomnjeło
+dopominajo
+dopomnjeśowe
+dopomnjeśa
+Zdalony kandidat
+Zdalony SDP
+daloke
+zastupujucy
+removeAttribute
+wótporane
+wótpóranju
+pśemjeńśo
+pśemjenjony
+wudawanje
+pśesortěrował
+analyzěrowali
+wóspjetowanje
+repeatautofill
+repeatautofit
+wóspjetowani
+wuměnjaś
+wuměnja
+změnami
+Replikacija
+wótegronjony
+wótegronach
+wótegronom
+wótegronjenju
+zgótowarjeju
+wowaleńskich
+dało
+Rozpšawjanje
+dawa
+Pšosba
+pominał
+napšašujucy
+napšašowani
+pominaju
+trěbny
+pótrěbnosćami
+wuměnjenjaju
+rezerwěrowany
+resurse
+respondWith
+wótegronił
+wótegronowych
+Wótegronowe
+zmaóžnosć
+njestartujo
+wótnowiś
+wótnowili
+wótnowjanje
+wobgranicowana
+wobgranicujo
+nałožył
+wuslědka
+wuslědkow wrośiś
+póstupił
+Zbytna
+nejkrotše
+dałej
+wótwołanju
+wrośone
+pśeraźowanje
+pógódnośenjow
+wótwołany
+rgb
+napšawo
+napšawo
+riziko
+sědła
+wukulpšawokut
+rumnosć
+korjeń
+kórjeń
+zwjertnuś
+wudopołnjuju
+wukulowaśony pšawokut
+wótrownane
+smužka
+smužkua
+smužkami
+smsmsmsm
+rtl
+ruby
+pšawidle
+lineale
+spómałšyś
+běžało
+běže
+s
+samy
+pśepśimanjow
+měrjeńske gódnoty
+pěskowy
+sandbox
+naseśonosć
+sobota
+sobotu
+składowaś
+Składowana formularna
+Skłaźona
+zažaržanjow
+say
+groni
+skalěrowany
+wobšuda
+wobšudow
+scannujśo
+wobejś
+wobcerku
+zapisnika
+skript
+ze skriptom
+skripty
+suwata
+śěgnjenje
+kula
+pozicioněrowański
+zazyglowany
+pytanje
+pytać
+searchIntegrationengineName
+pytanja
+sek
+sekunda
+sekundaCas sekunźeCas sekundyCas sekundow
+sekunźeCas
+sekundow
+sekundow pokazaś
+sekundasekunźesekundysekundow
+secpk
+secpr
+zatajiło
+wótrězk
+sectk
+sectr
+secure Browser
+secure
+wěstotnego
+wiźe
+seeing doctype
+seek
+pyta se
+seem
+seems
+seen but
+wiźeli
+select &quot
+select camera
+select
+selected line &apos
+wubrany
+selecting
+zasajźił
+selections above
+wuběrom
+selectlabel
+selektor
+selectors separated
+selektory
+selects
+selfsigned
+semicolon
+send Feedback
+send For
+pósłaś
+s
+sender message
+wótpósłarjom
+słanim
+sends
+sensitiwne
+sensitivity
+sent Cookie
+wótpósłany
+sep &#124
+septembra
+separate tags
+wósebnu
+rozdźělonej
+jadnotliwje
+separating
+separator character
+źěleńska linija
+naz
+september
+sequentially as a waterfall
+sequentially
+serial Number
+serial number
+serijowym
+series
+serif
+server &apos
+server Quota
+server SMTP&apos
+server incorrectly
+server maintenance
+server that can &apos
+pśipinanje
+servers Maybe
+serwery
+serves
+service providers
+service worker
+wužywańskich
+maś
+serving
+session ID
+session Id
+Pósejźeńska statistika
+session cache
+pósejźeńske
+pósejźenjach
+set Priority
+set browsercachediskenable
+set strokeStyle
+stajone
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+setTimeout
+setUserData
+setVelocity
+sets
+setting
+settings &#124
+settings&apos
+settings
+setup options
+konfigurěrowanje
+sedymadwaźasty
+sedymnasćo
+sedymnasty
+sedymy
+several ways
+składowańskich
+shader Editor
+shader compile status
+shader compile
+wósenjowaki
+shadows variable
+wobsenja
+shall control
+shall
+shape &quot
+shape
+źěliśWubranej
+shared Workers
+Shared
+sharedLongDesc
+shares
+wóźił
+pśipowjesył
+sheets
+shell
+shield
+shiftKeylabel
+tłoconeju
+shiny metal posteriors which
+shiny
+shopping
+short
+tastoweje
+shortcuts
+shorten this
+skrotcćo
+shorter file
+shorter
+shortly
+krotke
+should keep
+should make
+should
+shouldn &apos
+shouldn
+show Cookies
+show resultShow
+show through
+pokazaś
+showall &apos
+showall
+showing repairing
+Pokazowanje
+shown
+shownReplies
+shows
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+Póstupne
+wótšaltował
+shutting down
+kóńcenim
+sibiling
+njepśistupny
+bócnicy
+sidebarName
+sidebars
+sign in
+signěrowanje
+signal
+signature algorithms
+waliděrował
+signatureAlgorithm
+signatures
+signěrowany
+signer &apos
+pódpisaŕ
+signers found
+pódpisarjow
+significant
+signing certificate
+signěrowański
+registrěrowańskim
+silence
+silently authenticates
+mjelcyno
+similar
+simple Measurements
+simple XLink
+jadnory
+zjednorjeneju
+simply need
+simply
+touch
+simulator installed
+simulatorom
+ignorujo
+single
+singlesignon
+site &apos
+site doesn &apos
+sedłowe
+sitename &apos
+sitename
+sitenat
+sedłach
+šesćadwaźasty
+sixteen &#124
+šesnasćo
+šesnasty
+šesty
+wjelikostny
+wulkosćow
+skip Integration
+skip this
+pśeskócył
+Pśeskócony
+skips
+slash operators
+slash
+slashes ie
+t
+slice
+suwaty regler
+slotom
+slots
+slow Motion
+slow SQL
+spomałšyś
+slow ×
+Pómałem
+slowing
+slowly
+pśemała
+Mjeńše
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+smiley
+smooth scrolling
+Pólažke
+smtpexamplenet
+wuśěgu
+składowej
+snews
+so it &apos
+so it can &apos
+so you &apos
+togodla
+soap
+soket
+software makers
+software
+solid Border
+solid circle
+Pśeśěgnjona
+rozwězanje
+rozwězenja
+solve a
+solve
+some cool
+Śišćarska
+some sample
+some unspecified
+wówalenju
+somebody &apos
+somebody
+someone isn &apos
+operatora
+something
+sometimes
+somewhere earlier
+somewhere
+soon
+sorry BrandShortName can &apos
+sorry we &apos
+Bóžko
+sortěrował
+sound file
+Zukowe
+sounds like
+klincy
+source software
+žrědłoweje
+zastupujucymi
+space Fantasy
+space between
+stojecy
+proznoty
+spam
+span class &apos
+span
+spanThis
+spanbrandShortName
+spanznjemóžnjone
+spanzmóžnjone
+wobpśijimujo
+spanspan
+speak now
+powědaś
+speaking
+spec in
+specifikaciju
+special incidental
+special kinds
+specielne
+specific command
+specific
+specifically
+specification
+specified
+specifies
+faworizěrowane
+specify
+specifying a
+specifying acceptcharsetutf
+pódawaśo
+malsnosću
+speedOfSound
+spell checking
+pšawopisna
+spellchecker
+pšawopisa
+spend
+spent
+spin button
+wobwjertny
+Rozkłojtu
+sponsored
+spoolowem
+spionažny
+kw kórjeń
+square root
+kwadraśik
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+stabilnosć
+stabilny
+stack trace
+štaplowe
+štapjelach
+standalone
+standard time
+standard toBlob
+normalnym
+standards mode
+standardami
+star rating
+star
+z gwězdku
+start Debug
+start Simulator
+zachopnem
+started finding
+zachopiło
+starting with &apos
+zachopinaju
+startlabel
+startmozillaorg
+starts
+startup
+Nagrawański
+zwěsćenje
+zwěsćenja
+statistics about
+statistics
+Statistiki
+status &apos
+status bar
+status
+stay
+kšadnuś
+step Over
+kšacoju
+stepped through
+stepped
+Wótběženje
+steps out
+steps
+still
+kšadnu
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+zastajśo
+zastajiło
+chowanja
+stops
+storage quotas
+składowańsku
+storages
+store
+składowałej
+stores information
+składujo
+storing
+streamowanje
+strength
+strict protection
+Striktny
+linija
+string literal
+string
+strings or
+znamuškowych
+strokeStyle
+strong
+strongNałoženja
+strongRěd
+strongThe Book of
+strongThe Book
+strongThe
+stronger Emphasis
+mócnjejše
+strongexamplecom
+stronghttp
+strongly recommends
+strongly
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+strukturu
+strukturow
+studies
+study Findings
+study
+style Editor
+style Inspector
+style endexpand
+style sheet
+pśidatnym
+styles
+zapśěgujo
+stylesheets
+scriptsrc
+znižone
+pódzapis
+subdocument
+póddomenu
+subdomains
+subfolder
+pódzarědniki
+subgrid
+pśetrjebali
+subject Reminder
+temje
+submission to
+submission
+submit Query
+submit bugs
+submit information that &apos
+submit
+submits
+submitted
+submitting your
+slanju
+subresource
+subscribe Calendars
+subscribe
+aboněrowane
+subscribedImported
+subscribing
+znižone
+abonement
+Abonomenty
+subsession data
+pódpósejźenja
+substituting
+ignorěrowany
+subthreads
+subtree
+wuspěšny
+succeeded
+successful
+successfully Transmitted
+pósłala
+takich
+suddenly
+sufficient
+naraźiś
+suggested Contribution
+suggested Tags
+naraźone
+tastowymi
+naraźenjow
+suggests
+suit
+suitable
+eksportowego
+suites are
+zběrki
+suma
+summary file
+indeksowu
+summoned
+njeźela
+njeźelu
+pówušone
+superscript pair
+pówušone
+superseded by
+superseded
+dorosćonych
+supplied
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+MinSupportedCPU
+pódpěranym
+pódpěranju
+supportmozillaorg
+supports
+sure
+surface area
+surface
+surprised face
+surprised
+surrogate
+surrounding environment
+wobdawajucu
+survey is
+survey
+susceptible
+pódglědneju
+suspicious
+sutomatically
+svSE
+svg
+switch to
+pśešaltowaś
+pśešaltowany
+switching
+symbol
+zapśimjeli
+sync them
+sync
+syncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+synchronizěrowany
+synchronization
+synchronize
+Synchrony
+syncing
+synctitlepairlabel
+syntax Highlighting
+syntaksu
+system Integration
+system beep
+systemowe
+systemDate &apos
+systemDate
+systems this
+systemach
+t believe
+t delete
+cogoždla
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+rejtark
+tabulator
+tabSharing
+tabdelimited tab
+tabdelimited
+table &apos
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+table rows
+tabela
+tabletach
+rejtarki
+tabtxt
+wobznamjenjowe
+wóznamjenjony
+z marku
+tagname
+wobznamjenjach
+take up
+wzijśo
+taken
+takes
+taking too
+taking
+talk
+tampering
+tapping
+cel
+targeted document
+targeted
+Nadawkowa
+taskThe
+taskbar
+nadawki
+tastes
+tbla
+technical Details
+techniske
+technique
+technikami
+technologiju
+telefon
+tell websites
+tell
+tells
+pśedłoze
+pśedłogow
+temporarily
+temporary outage
+nachylneje
+źaseś
+tename &apos
+nachylu
+źasety
+tenured objects
+tenured
+ter Lock API
+term &quot
+terminus
+zapśimjeśe
+terminate a
+kóńcenje
+terminated by xslmessage
+terminated
+termination
+wuměnjenjach
+test
+testics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+tekstowa
+textContent attribute
+textContent
+textonly
+texture source
+texture
+th
+than minimum
+than
+źěk
+thanks for
+źěkujom
+that &apos
+that can &apos
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+Pótom
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+Wobkšuśujuca
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+Grenadiny
+HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+Traśe
+emDwójniki
+the exclusion
+the expires
+the fifth
+płomjenjowego
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+Źělna
+the phrase
+Primerna
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+Wizualizěrowanje
+the webapp manifest isn &apos
+the webapp
+the wildcard
+the windowconsole
+zwowego
+theft
+their defaults
+their
+rozeznawali
+drastwa
+themed
+kontrastom
+then touching
+pón
+s good
+there
+therefore
+these organizations
+tymi
+ve visited
+they expire
+they require query
+wóni
+things you
+wěcy
+think I &apos
+think
+thinkers
+thinking
+thinks
+third Party
+third parties
+third
+thirdparty cookies
+thirdparty software
+thirdparty
+thirteen &#124
+tśinasćo
+tśinasty
+tśiźasty
+thirty &#124
+thirty first
+thirty one
+tśiźasća
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+Tutu
+thisIf
+thisa
+those
+though
+myslił
+thousands
+thread &quot
+thread Hangs
+thread killed
+thread watched
+importěrowańska
+nitkach
+tśiadwaźasty
+threw
+through inaction
+through
+thunderbird
+ thursdays
+thursday
+thursdays
+ticket was
+ticket
+ties
+til &#124
+til
+tile replacing
+tile
+kachlicki
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+time
+razStawa
+timed Out
+timed
+timedout
+promjenja
+wóski
+pšekšocył
+timer Name
+timer started
+měritko casa
+timers in
+timers
+razy
+žarjecu
+timestamp
+kołki
+timezone &quot
+tabelow
+timezonepersonalg
+timezoner message doesn &apos
+titel
+do
+k
+na
+toBlob
+źinsa
+zgromadnje
+pśešaltował
+tokenom
+witśe
+pokazujuce
+wjelgickan
+góźbu
+symbolowa rědka
+symbolowych
+pomocny tekst
+górjejce
+temagt
+total
+Simulaciju touch
+Dotykniśo
+slědowanje
+slědy
+slědowańska
+slědowarje
+slědowańske
+cerow
+wikowańske
+wobchad
+slěznem
+treněrowaś
+pśenosowańskego
+transform
+transformstyle
+pśechad
+njepśełožowaś
+pśełožył
+pśełožujo
+njewěsćej
+takimi
+bomowa
+zapušćił
+śěže
+troubleshooting
+true
+wobrězaś
+wótrězanju
+gódna
+gódnym
+wopytajśo
+wałtora
+wałtoru
+tweet
+dwanasty
+dwanasćo
+dwaźasty
+styriadwaźasća styriadwaźasty
+sedymadwaźasća sedymadwaźasty
+sedymdwaźastego
+jadenadwaźasća
+dwa
+txt
+tkstplo
+Zapisćo geoenabled
+typom
+zapisał
+typy
+zapisujośo
+typografiska
+u
+ul
+ulliJo
+ulliSnaź
+import
+njeakceptěrujobne
+njeawtorizěrowane
+nic k dispoziciji
+pšosym njemóliś
+źěła
+wótwólśo
+njezmóžnjony
+njezacynjony
+njewšedneju
+dekompriměrowanu
+njewobkšuśone
+njedefiněrowana
+pód
+pódstajone
+schowane dostawarje
+njepśesajźujobny
+njewótcakane
+napśiski
+njeinicializěrowany
+wótinstalěrowaś
+wótinstalěrowało
+mimowólne
+jasny
+njeznata
+njeznaty
+snaźkuli
+dokula
+njewobgranicowany
+njetrěbne
+njeprefigěrowany
+njepśecytanej
+Njespóznaty
+registrěrowanje skóńcyś
+njerozwězanych
+njewěstego
+njeskładowane
+njewubrany
+wótesłaś
+njestabilny
+wótskazany
+njepódpěrany
+trěbnego
+bźez titela
+bźez titelaS
+njewužyte
+njewobkšuśonych
+njewitany
+aktualizěrujśo
+zaktualizěrowało
+aktualizacije
+diagšypka górjej
+diaglinija górjej
+aktualizěrowaś
+wótnowjeńskim
+njenagrajo
+Nagrajo
+nejaktualnjejše
+urlprefix
+wužyśu
+EUR
+bS
+wužyś
+Wužywane
+wužytne
+s
+wužywaŕ
+wužywaŕdomena
+tšojeńskego
+wužywaŕhost
+w userjs
+pósěguju
+wužywarjami
+engelski
+wěrjepódobnych
+zawěsćenjow
+utf
+utomatically
+v
+vCard
+vS
+płaśiwy
+kontrolěrowało
+waliděrowaś
+waliděrowanim
+waliděrowański
+wócakowany
+kopěrowali
+wariabla
+wšake
+vcf
+pśedawarja
+vendorShortName
+Pśeglědanje
+wobkšuśiju
+pśeglědał
+pśekontrolěrujotej
+wersija
+wersijach
+wertikalne
+pśez
+Wideopodkast
+wideocodec
+wideokodeki
+wideowych
+wideo
+Optiměrowanja
+wobglědaś
+wobglědujo
+woglědanim
+naglědowe
+naglědach
+rani
+dožywiło
+Pśekśiwjenje
+wirusami
+widobnosć
+visibilityState
+widobne
+woglědany
+woglědy
+optiski
+powědanja
+wertlinija
+napadojtosći
+sensibelna
+pócakajśo
+waitUntil
+cakajucego cacha
+njocomy
+warnowaś
+warnowanje
+warnowanja
+rukowanjow
+zgubiś
+waźiłej
+wotpokazał
+wobglědowana
+wugótowane
+wašnju
+njewótcakowane
+re
+t
+wopisujomy
+t know
+Njemarkujomy
+słabe
+słabotu
+webowy
+webdav
+websedło
+srjoda
+srjodu
+wšedny
+tyźeńkuždej
+kuždy tyźeń
+tyźenjow
+waga
+witajśo
+wuformowany
+s
+což
+z kólaskom
+gaž
+gažkuli
+kótarego zapłaśeńskego
+kótarych
+mjaztym
+chto
+cełe
+ewaluěrowaś
+cogodla
+šyrokosću
+Wuraze
+znowegozacytowanju
+Pśetrjeba
+win
+woknowu
+windowcontent
+windowcontrollers
+woknom
+windowopen
+windows
+Zmyrkajuce
+wótpósćeła
+t work
+słowa
+źełaś
+workery
+źěłaśo
+funkcioněrujo
+źěłowe
+swět
+aktiwnje
+Łamański
+wrappers
+pópisujobny
+pisański
+pópisowanjeju
+wopacna
+dopisane
+wwwexamplecom
+wwwmójispde
+wwwmyservercom
+wwwopenhorg
+xNN
+xS
+xhrspecwhatwgorg
+xjavascript
+xml
+xmlns
+xpi
+xslmessage
+xuserdefined
+xcentraleuro
+xyxy
+y
+lěśe
+jo
+cora
+Dotychměst
+d like to
+t
+t have
+t
+t
+wóbnowijośo
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+wašymi
+sebi
+yousenditcom
+nul
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+skalěrowaś
+zooming

@@ -1,0 +1,8767 @@
+ rights …
+/Galapagos
+A ServiceWorker
+En
+AB _
+AB
+ACL
+ADB
+TILLÄGG
+AECloggning
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASNkodaren
+ASNdata
+ATT Mail
+ATT
+AUS
+AVA
+Aa
+Aaiun
+Ababa
+Abandon unsaved changes
+Abbreviate
+Abbreviation
+Abchaziska
+Abort
+avbröts
+About Your
+Om
+Above
+Accelerated
+Accent Lowercase
+Accent Uppercase
+Accent
+Accept
+Acceptance
+Accepted
+Access
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+AccessControlAllowMethods
+AccessControlAllowOrigin
+Tillgänglighet
+Account &quot
+Account Settings &#124
+Konto
+Accountquot
+Accounts
+Accountspecific
+Account…
+Acronym
+Åtgärd
+åtgärder
+Aktivera
+Aktiverad
+Aktiveringskatalog
+Aktiv
+Aktiverad
+Aktivt
+Actively block
+Aktivitet
+Actual Size
+Verklig
+Adak
+Adapter
+Adapters
+Adb
+Lägg till
+Ursprungsdatum
+Addis Ababa
+Additional Tools
+Ytterligare
+Addon
+Addons Installed
+Tillägg
+Addr
+Address Book
+Address Books
+Adress
+AddressBook
+Addressbook
+Adresser
+Addressing
+Adds
+Add…
+Justera
+Administer
+Administrative Assistant
+Administrative limit
+Administrative
+Administrator
+Adobe Flash
+Adobe
+Advance
+Advanced Property Editor
+Advanced info
+Avancerad
+Avancerat
+Avancerat…
+Afar
+Affects multiple
+Affects
+Affiliation Changed
+Anknytning
+Afghanistan
+Africa/Abidjan
+Africa/Accra
+Africa/Algiers
+Africa/Asmara
+Africa/Bamako
+Africa/Bangui
+Africa/Banjul
+Africa/Bissau
+Africa/Blantyre
+Africa/Brazzaville
+Africa/Bujumbura
+Africa/Cairo
+Africa/Casablanca
+Africa/Ceuta
+Africa/Conakry
+Africa/Dakar
+Africa/Djibouti
+Africa/Douala
+Africa/Freetown
+Africa/Gaborone
+Africa/Harare
+Africa/Johannesburg
+Africa/Juba
+Africa/Kampala
+Africa/Khartoum
+Africa/Kigali
+Africa/Kinshasa
+Africa/Lagos
+Africa/Libreville
+Africa/Lome
+Africa/Luanda
+Africa/Lubumbashi
+Africa/Lusaka
+Africa/Malabo
+Africa/Maputo
+Africa/Maseru
+Africa/Mbabane
+Africa/Mogadishu
+Africa/Monrovia
+Africa/Nairobi
+Africa/Ndjamena
+Africa/Niamey
+Africa/Nouakchott
+Africa/Ouagadougou
+Africa/PortoNovo
+Africa/Tripoli
+Africa/Tunis
+Africa/Windhoek
+Africa
+African Republic
+African
+Afrikaans
+Efter
+Again &quot
+Again
+Ålder
+Agent
+Sammanlagt
+Ago
+Agree
+slutanvändare
+Aires
+Akan
+Akrotiri
+Alarm
+Albanien
+Albanska
+aviseringsfönster
+Alertpost
+Information
+Algeriet
+Algorithm Parameters
+Algorithm
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+Alias
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Align
+Alignment
+Alla
+Allman
+Allocated
+allokeringstrigger
+allokering
+Allokeringar
+Allow First
+Allow autoplay
+Tillåt
+Allowed
+Allowing
+Allows
+Tillåt
+Almost done
+Almost
+Alpha
+Already
+Also
+alternativnamn
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Trots
+Alltid
+alltid
+America/Adak
+America/Anchorage
+America/Anguilla
+America/Antigua
+America/Araguaina
+America/Argentina/Catamarca
+America/Argentina/Cordoba
+America/Argentina/Jujuy
+America/Argentina/Mendoza
+America/Argentina/Salta
+America/Argentina/Tucuman
+America/Argentina/Ushuaia
+America/Aruba
+America/Asuncion
+America/Atikokan
+America/Bahia
+America/Barbados
+America/Belem
+America/Belize
+America/BlancSablon
+America/Bogota
+America/Boise
+America/Cancun
+America/Caracas
+America/Cayenne
+America/Cayman
+America/Chicago
+America/Chihuahua
+America/Creston
+America/Cuiaba
+America/Curacao
+America/Danmarkshavn
+America/Dawson
+America/Denver
+America/Detroit
+America/Dominica
+America/Edmonton
+America/Eirunepe
+America/Fortaleza
+America/Godthab
+America/Grenada
+America/Guadeloupe
+America/Guatemala
+America/Guayaquil
+America/Guyana
+America/Halifax
+America/Havana
+America/Hermosillo
+America/Indiana/Indianapolis
+America/Indiana/Knox
+America/Indiana/Marengo
+America/Indiana/Petersburg
+America/Indiana/Vevay
+America/Indiana/Vincennes
+America/Indiana/Winamac
+America/Inuvik
+America/Iqaluit
+America/Jamaica
+America/Juneau
+America/Kentucky/Louisville
+America/Kentucky/Monticello
+America/Kralendijk
+America/Lima
+America/Maceio
+America/Managua
+America/Manaus
+America/Marigot
+America/Martinique
+America/Matamoros
+America/Mazatlan
+America/Menominee
+America/Merida
+America/Metlakatla
+America/Miquelon
+America/Moncton
+America/Monterrey
+America/Montevideo
+America/Montreal
+America/Montserrat
+America/Nassau
+America/Nipigon
+America/Nome
+America/Noronha
+America/Ojinaga
+America/Panama
+America/Pangnirtung
+America/Paramaribo
+America/Phoenix
+America/PortauPrince
+America/Recife
+America/Regina
+America/Resolute
+America/Santarem
+America/Santiago
+America/Scoresbysund
+America/Shiprock
+America/Sitka
+America/Tegucigalpa
+America/Thule
+America/Tijuana
+America/Toronto
+America/Tortola
+America/Vancouver
+America/Whitehorse
+America/Winnipeg
+America/Yakutat
+America/Yellowknife
+America
+American Samoa
+American
+Amhariska
+An
+Analysis …
+Analysis
+Analysera
+Anchor
+Anchorage
+Ankare
+And
+Andorra
+Android tablets
+Android&apos
+Android
+Android™
+Angeles
+Angola
+Anguilla
+Animate app
+Animate
+Animation
+Animeringar
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+annotering
+Announces
+Annoyances
+Another
+Answer
+Answers
+Antarctic Lands
+Antarctic
+Antarctica/Casey
+Antarctica/Davis
+Antarctica/DumontDUrville
+Antarctica/Macquarie
+Antarctica/Mawson
+Antarctica/McMurdo
+Antarctica/Palmer
+Antarctica/Rothera
+Antarctica/Syowa
+Antarctica/Troll
+Antarctica/Vostok
+Antarktis
+AntiVirus
+Antigua and Barbuda
+Antigua
+Antilles
+Antivirus
+Any
+AnyText
+Anywhere
+App can &apos
+App
+AppCache
+AppCacheUtils
+AppMenu
+AppName Uninstall
+AppName
+Appcache validated
+Appcache
+Utseende
+Appendices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+Application
+Program
+Apply
+Applying update
+Applying
+Appointments
+ApprovedBy
+Appar
+Apr
+April
+Arab
+Arabia
+Arabic MacArabic
+Arabic Windows
+Arabisk
+Arabiska
+Aragonesiska
+Archive
+Arkiverad
+Archives
+Archiving
+Arctic/Longyearbyen
+Är
+Area
+Argentina
+Arial
+Armenien
+Armeniska
+Arrow
+Artiklar
+Artist
+Aruba
+As Laid Out
+As Quotation
+As
+Ascending
+Ascension and
+Ascension
+Ashmore
+Asia/Aden
+Asia/Almaty
+Asia/Amman
+Asia/Anadyr
+Asia/Aqtau
+Asia/Aqtobe
+Asia/Ashgabat
+Asia/Baghdad
+Asia/Bahrain
+Asia/Baku
+Asia/Bangkok
+Asia/Barnaul
+Asia/Beirut
+Asia/Bishkek
+Asia/Brunei
+Asia/Chita
+Asia/Choibalsan
+Asia/Chongqing
+Asia/Colombo
+Asia/Damascus
+Asia/Dhaka
+Asia/Dili
+Asia/Dubai
+Asia/Dushanbe
+Asia/Gaza
+Asia/Harbin
+Asia/Hebron
+Asia/Hovd
+Asia/Irkutsk
+Asia/Istanbul
+Asia/Jakarta
+Asia/Jayapura
+Asia/Jerusalem
+Asia/Kabul
+Asia/Kamchatka
+Asia/Karachi
+Asia/Kashgar
+Asia/Kathmandu
+Asia/Khandyga
+Asia/Kolkata
+Asia/Krasnoyarsk
+Asia/Kuching
+Asia/Kuwait
+Asia/Macau
+Asia/Magadan
+Asia/Makassar
+Asia/Manila
+Asia/Muscat
+Asia/Nicosia
+Asia/Novokuznetsk
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Oral
+Asia/Pontianak
+Asia/Pyongyang
+Asia/Qatar
+Asia/Qyzylorda
+Asia/Rangoon
+Asia/Riyadh
+Asia/Sakhalin
+Asia/Samarkand
+Asia/Seoul
+Asia/Shanghai
+Asia/Singapore
+Asia/Srednekolymsk
+Asia/Taipei
+Asia/Tashkent
+Asia/Tbilisi
+Asia/Tehran
+Asia/Thimphu
+Asia/Tokyo
+Asia/Ulaanbaatar
+Asia/Urumqi
+Asia/UstNera
+Asia/Vientiane
+Asia/Vladivostok
+Asia/Yakutsk
+Asia/Yekaterinburg
+Asia/Yerevan
+Asia
+sydvästasiatisk
+Ask
+Asks how
+Asks
+Assamesiska
+Assembling mail
+Assembling messageDone
+Assembling
+Assistant
+Associated
+Assurance
+Asturiska
+Async
+Asynchronous Pan
+Asynchronous
+Atlantic/Azores
+Atlantic/Bermuda
+Atlantic/Canary
+Atlantic/Faroe
+Atlantic/Madeira
+Atlantic/Reykjavik
+Atlantic/Stanley
+Atlantic
+Atoll
+Atom
+Attach
+Attached
+Attachment
+AttachmentRemove
+Bilagor
+Attack Site
+Attack
+Attempt to
+Attempt
+Antal försök
+Attendance
+Attendee
+Attendees
+Attention
+Attributet
+Attribut
+Attribution
+Auckland
+Ljud
+AudioBufferSourceNode
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+AudioNode
+AudioParam does
+AudioParam
+AudioParams
+Aug
+Augusti
+Aurora
+Australia/Adelaide
+Australia/Brisbane
+Australia/Currie
+Australia/Darwin
+Australia/Eucla
+Australia/Hobart
+Australia/Lindeman
+Australia/Melbourne
+Australia/Perth
+Australia/Sydney
+Australien
+Österrike
+Authenticated
+Authenticating
+Authentication method &apos
+Authentication
+Författare
+författat
+Utfärdare
+Authority unnamed
+Authority
+Authorize
+Authors
+Auto Increment
+Auto Update
+Auto
+AutoA
+Autoconfigvarning
+AutoConfig
+Bestäm automatiskt
+Välj automatiskt
+AutoJoined Channels
+AutoJoined
+Autokomplettera
+Autoigenkänning
+Indentera automatiskt
+Automation
+Automatisk
+Tillgänglig
+Avariska
+Avestiska
+Genomsnitt
+Medelbithastighet
+Medelbildfrekvens
+pekas
+Aymara
+Azerbajdzjan
+Azerbajdzjanska
+B
+BAKÅT
+BG
+BLOCKERAD
+Bakåt
+Tillbaka
+Bakgrund
+bakgrunder
+Backsteg
+Säkerhetskopiera…
+Dåligt
+Bahamas
+Bahrain
+Bakerön
+Baltisk
+Bambara
+Bangladesh
+Bank
+Barbados
+Barbuda
+Baslinje
+Basjkiriska
+Baskiska
+Bassas
+Batteri
+Före
+Vitryssland
+Vitryska
+Belgien
+Belize
+Bengali
+Benin
+Bermuda
+Bhutan
+Big
+BigHKSCS
+Bihari
+BiquadFilterNode
+Bislama
+bit
+Blockera
+Blockerad
+Svartlistad
+Falsk
+bokmål
+Bolivia
+Bonaire
+Bokmärke
+bokmärkeTa
+bokmärkta
+Bokmärken
+Boolesk
+Ram
+Bosnien
+Bosniska
+Botswana
+Sidfot
+Bouvetøya
+Branch
+BrandFullName
+BrandFullNameDA
+BrandShortName
+Brasilien
+Länkstigar
+brytpunkt
+Bretonska
+Webbläsaren
+Bläddra…
+Webbläsning
+Brunei
+Bubbling
+Bulgarien
+Bulgariska
+bulkdata
+Punkt
+paketerat
+Burkina
+Burma
+Burmanska
+Burundi
+Knappar
+Byte
+C
+CAkompromettering
+CAutgivare
+CA
+CACHE
+CAer
+CC
+CCBY
+CCBYSA
+CD
+CDSA
+CKL
+CKR
+CLICK
+CN
+COLNAME
+KONTROLLER
+CORS
+CORSaktiverade
+CP
+Spärrlistedistributionspunkter
+spärrlistan
+CSP
+CSSväljare
+CSS
+CYPHER
+Kap
+Cache
+Caicosöarna
+Beräkning
+Kaledonien
+USA
+Ring
+Callback
+Kambodja
+Kamerun
+Kanada
+kanadensisk
+Canary
+Avbryt
+Avbruten
+Avbrutna
+kandidat
+Rityta
+CanvasGradient
+CanvasPattern
+Fånga
+Carbon
+Cartieröarna
+Katalanska
+fångade
+Orsak
+Caymanöarna
+Keltisk
+Centrerad
+Mitten
+Centralafrikanska
+Centraleuropeisk
+Certifikat
+Certifikat
+Certifieringspolicyhänvisning
+Certifierad
+Verksamheten
+Tchad
+Chamorro
+Ändra
+ändringar
+kodningar
+Charis
+Tjetjenska
+Markera
+Nyanja
+Chile
+Kina
+Kinesisk
+Kinesiska
+Välj…
+Julön
+Chrome
+Chromecast
+Chromium
+Kyrkoslaviska
+Tjuvasjiska
+Cisco
+Rensa
+Töm
+ClearTypeparametrar
+Tar bort
+Klicka
+klientsymbol
+Client
+Urklipp
+Clippertonön
+medurs
+flikstängning
+Stäng
+stängda
+CmdOrCtrl
+CmdOrCtrlF
+CmdOrCtrlPlus
+CmdOrCtrlR
+CmdOrCtrlShiftD
+CmdOrCtrlShiftO
+CmdOrCtrlShiftR
+CmdOrCtrlShiftU
+CmdOrCtrlW
+Cocos
+kodsignering
+Kod
+Codec
+Kol
+Fäll ihop
+Colombia
+Färg
+Färger
+Färger…
+Kolumn
+kolumner
+Kombinationsruta
+kommando
+kommersiell
+Vanliga
+Komorerna
+Compact
+Jämförelse
+tilläggens
+Slutförd
+Slutförd
+Kompositlager
+Komposit
+Komposition
+Komposition
+Kompositör
+Beräknad
+Beräknar
+Koncentrera
+Avslutning
+villkorad
+Konfigurerings
+Konfigurera…
+Bekräfta
+KongoBrazzaville
+KongoKinshasas
+Anslut
+Ansluten
+Ansluter
+Ansluter …
+Ansluter…
+Anslutning
+Anslut…
+Konsol
+Rådfråga
+kontakt
+innehållsflikStäng
+Container
+Behållare
+Innehåll
+ContentSecurityPolicyReportOnly
+ContentType
+Innehåll
+Fortsätt
+Bidra
+Medarbetare
+kontroller
+Cooköarna
+Kakor
+Kopior
+Kopiera
+Korallhavöarna
+Korniska
+Skadat
+Korsikanska
+kostnad
+Costa
+Antal
+Antal gånger
+moturs
+kraschade
+Skapa
+Skapare
+Autentiseringsuppgifter
+Medarbetare
+Cree
+Kritisk
+Kroatien
+Kroatiska
+kryptotjänster
+Crypto
+kryptografitjänster
+kryptografi
+Ctrl
+CtrlL
+CtrlShiftL
+CtrlTab
+Kuba
+CuforceGC
+Cunha
+Curaçao
+Pekare
+Anpassad
+CustomEvent
+Customization
+Anpassa
+Anpassa…
+anpassningen
+Anpassa…
+Egen…
+Klipp ut
+cykelinsamling
+Cirkulera
+Cypern
+Kyrillisk
+Kyrilliska språk
+Tjeckien
+Tjeckiska
+Elfenbenskusten
+D
+DB
+DC
+DD
+DECDSA
+DER
+DERkodat
+DEVICE
+DISPLAYNAME
+DLL
+DN
+DNSuppslagning
+DNSsvar
+DNS
+DOCTYPE
+DOM
+s code
+DOMParser
+DOMWindow
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+DRM
+DSAsignatur
+DVemer
+Kvardröjande
+Danska
+Mörk
+Mörkt
+Data
+DataContainerEvent
+dataURL
+databas
+Datum/Tid
+Datum/tid
+dagen
+DayCrash Reports
+DayCrash
+Days
+felsökningsläge
+Avlusa
+Felsök
+DebugALIGNCENTERerver
+Avlusare
+Avlusningsservern
+Debugging
+Dec
+December
+Decide
+Declaration
+Decline
+Declined
+Avkodare
+Decoding error
+Avkodningsfel
+Mindre
+Decrypted
+Decryption
+Deer
+Standard
+standardvärden
+Defer Account
+Defer
+Define
+Defined
+Definition
+Definitions
+Del
+Fördröjning
+Delete Message
+Ta bort
+Deleted
+Ta bort…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Deletion
+Delimited
+Delivery Format
+Delivery Status Notification
+Delivery
+Danmark
+Denver
+Neka
+Department
+Descending
+Describe Problem
+Describe
+Beskrivning
+Avserialisera
+Design Mode
+Design View
+Design
+Firefoxbakgrundbmp
+Desktop Open &quot
+Skrivbord
+Skrivbordet
+Destination Folder
+Destination
+Förstör
+Detach
+Detach…
+Detail
+Details of
+Detaljer
+Detaljer
+Detaljer…
+Detect indentation
+Känn
+Determining which
+Undersöker
+DevTools
+Devanagari
+Developed
+Developer Edition
+Developer Tools
+Utvecklare
+Utvecklare
+Development
+Device &quot
+Enhet
+DeviceShare
+Enheter
+Devicex
+Dhekelia
+Diagnostik
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+Ordlistor
+ordlista
+Har
+Diego
+Different
+DiffieHellmannyckel
+DiffieHellman
+Digest function
+Digest was
+summa
+Digg Reader
+Digg
+Digital
+Dimension
+Dimensioner
+Direct
+DirectD
+DirectWrite
+Riktning
+Directive
+Directories
+Directory &apos
+Directory Servers
+Mappen
+Disability access
+Disability
+Inaktivera
+Inaktiverad
+Inaktiverad
+Inaktiverade
+Inaktiverat
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Discarded
+Disconnect from
+Koppla bort
+Koppla från
+Koppla ifrån
+Koppla ned
+Koppla frånellipsis
+Kopplar ned …
+Disconnectme strict
+Disconnectme
+Koppla ifrån…
+Discontinue Link
+Discontinue
+Upptäck
+Discussions
+Disk
+Ignorera
+Display a
+Visa
+Visning
+Displays the
+Displays
+Distinguished
+Distribution Points
+Distribution
+misstro
+Divehi
+Djibouti
+Do
+Dock
+Docs
+Document Outline
+Document
+Documents
+Doe
+Gör
+domänGUID
+Domän
+Domains
+Domestic
+Dominator
+Dominatorer
+Domingo
+Dominica
+Dominikanska
+Don &apos
+Don
+Klar
+Klart
+Double click
+Double
+Doublecheck
+Doubleclick
+Nedåt
+Download Link
+Hämta
+Spara
+DownloadRestart
+Hämtad
+Hämtat
+Hämtar
+Hämtar…
+Filhämtaren
+Filhämtningar
+Hämtade filer
+Hämtningar
+Draft Message
+Draft
+Drafts
+Drag
+Draw draws
+Draw repainted
+Rita
+Driver Verification
+av
+Drivrutiner
+Drives
+Drop a
+släpp
+Dropping a
+släppa
+DuckDuckGo
+Due
+Dump
+Duplicate name
+Duplicate
+Duraterver
+Längd
+Nederländska
+Dzongkha
+ECDSA Signature
+ECDSA
+EDIpartnamn
+EDI Party
+EDI
+EHLO
+EMail Certificates
+EMail
+FEL
+ERRORS Fel
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+UPPACKNING_MISSLYCKAD
+Varje
+Eager
+Earlier
+Östasiatisk
+Östeuropeisk
+East
+Eastern
+Ecuador
+Edge
+Edit Conditional
+Redigera
+Editing
+Edition
+Editor
+Editors
+Edit…
+Egypten
+Antingen
+El Aaiun
+El Salvador
+El
+Elapsed
+Element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Elements
+epostadress
+Epost
+Embarrassed
+Inbäddad
+Embedded
+Emirates
+Emphasis
+Emptied Trash
+Emptied
+Tom
+Emulate
+Aktivera
+Aktiverad
+Enables
+Encipherment
+Kodare
+Encoding While
+Encoding
+kodningar
+Encrypt
+Encrypted password&apos
+Encrypted
+Encrypting File
+Encrypting
+Encryption
+End
+Slut
+Användarrättigheter
+EndUser
+Avslutad
+Endian
+Endpoint
+Enforce
+Engine
+Engineering
+Engines
+English US
+English USASCII
+English language
+Engelska
+Svenska
+Enhanced
+förstora
+Enter &apos
+Enter Full
+Enter that
+Enter
+Entered
+Entering
+Poster
+Entry
+Enumerable Properties
+Enumerable
+Miljö
+Epiphany
+Ekvatorialguinea
+Equatorial
+Eritrea
+Fel
+Fel
+Esc
+Esperanto
+Estland
+Estniska
+Etiopien
+Etiopiska
+Eudora Nicknames
+Eudora Settings
+Eudora mail
+Eudora
+Europaön
+Europa
+Europe/Amsterdam
+Europe/Andorra
+Europe/Astrakhan
+Europe/Athens
+Europe/Belgrade
+Europe/Berlin
+Europe/Bratislava
+Europe/Brussels
+Europe/Bucharest
+Europe/Budapest
+Europe/Busingen
+Europe/Chisinau
+Europe/Copenhagen
+Europe/Dublin
+Europe/Gibraltar
+Europe/Guernsey
+Europe/Helsinki
+Europe/Istanbul
+Europe/Jersey
+Europe/Kaliningrad
+Europe/Kiev
+Europe/Lisbon
+Europe/Ljubljana
+Europe/London
+Europe/Luxembourg
+Europe/Madrid
+Europe/Malta
+Europe/Mariehamn
+Europe/Minsk
+Europe/Monaco
+Europe/Moscow
+Europe/Nicosia
+Europe/Oslo
+Europe/Paris
+Europe/Podgorica
+Europe/Prague
+Europe/Riga
+Europe/Rome
+Europe/Samara
+Europe/Sarajevo
+Europe/Simferopol
+Europe/Skopje
+Europe/Sofia
+Europe/Stockholm
+Europe/Tallinn
+Europe/Tirane
+Europe/Ulyanovsk
+Europe/Uzhgorod
+Europe/Vaduz
+Europe/Vatican
+Europe/Vienna
+Europe/Vilnius
+Europe/Volgograd
+Europe/Warsaw
+Europe/Zagreb
+Europe/Zaporozhye
+Europe/Zurich
+Europe
+European
+Eustatius and
+Eustatius
+utvärdering
+Evaluera
+Evaluated JavaScript
+Evaluerad
+Evaluating
+Evangelism
+Even
+Event
+Händelser
+Event…
+Every Time
+Every
+All historik
+Eviction
+Ewe
+Example
+Excellent
+Förutom
+Exception …
+Exception
+Undantag
+Undantag…
+Exchange
+ExecShell &quot
+ExecShell
+Körbara
+Execute Menu
+Kör
+Executing s
+Exekverar
+Execution stopped
+Execution
+Executive
+Existing
+Exists
+Avsluta
+avslutade
+Exiting
+Expand/Collapse
+Fäll ut
+Expanded
+Förväntade
+Experiment
+Expired
+Expires On
+Expires Seconds
+Förfaller
+Explorer
+Exponent
+Export
+Exportera…
+Exposing chrome
+Exponering
+Express
+Expression
+Expressions
+Expunge &quot
+Expunge
+Extended Telemetry
+Extended
+Extending
+Tillägg
+Tillägg
+Utökningar
+External
+Extra Components
+extra
+Extract
+Extracting s
+Extracting
+Extracting…
+Färgpipett
+F GB
+F turns
+F/Escape
+tryck
+FAILED
+FALLBACK section
+FALLBACK
+FAQ
+FAQs feedback
+Vanliga frågor
+FCC
+FHR data
+FHR
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTPproxy
+FTP
+FUNCTION
+FWversion
+FW
+FYR
+Facebook Chat
+Facebook
+Faeroese
+Misslyckad
+Misslyckade
+Misslyckades
+Failure
+Failures
+Falklandsöarna
+Falkland Islands
+Falkland
+Fallback Character
+Fallback
+Falling back
+Faller
+False
+Familj
+Fantasy
+Färöarna
+Faroe
+Färöiska
+Farsi
+Faso
+Fast
+Fatal
+Favorite Folder
+Favorite Folders
+Favorite
+Favoriter
+Fax Number
+Fax
+Feature
+Funktioner
+Feb
+Februari
+Federated States of
+Federated States
+federerade
+Federation
+Feed Location
+Feed
+Feedback Agent
+Feedback …
+Feedback
+Feedly
+RSS
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+Hämtar…
+Fewer
+Field
+Fields
+Fifth
+Fiji
+Fidjianska
+File System
+Arkiv
+Fil
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Filename
+Utforskaren
+Files…
+File…
+Filing Cabinet
+Fyll
+Filter Box
+Filter Execution
+Filter
+Filtering
+Filters
+Finalizing
+Hitta
+Sök
+Sökning
+Finder
+Findings
+Sök…
+fingeravtryck
+Fingeravtryck
+Finish Customizing
+Slutför
+Slutförda
+Finland
+Finska
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+First
+Anpassa
+Five
+Fix Table
+Fix
+Fixed
+Flag
+Flagged
+Flamegraf
+Flame
+Flash embed
+Flash
+Platta
+Flexible Space
+Flexibelt
+Focus
+Mapp
+Folders
+Folder…
+Följ
+Followers
+Following
+Followup
+FollowupTo
+Fond
+teckensnitt
+Teckensnitt
+Typsnitt
+Footer
+Footers
+FootinMouth
+For
+Force
+Forever
+Forge
+Forgery
+Glöm
+Form History
+Form
+Format
+Formatting
+Forms
+Fort
+Fortezza
+Forum
+Forums
+Framåt
+Forwarded
+Forwarding
+Found
+Foundation
+Four Hours
+Four
+Fourth
+F
+Frakkin &apos
+Frakkin
+ram
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+Ramar
+Frankrike
+Free
+French Southern
+Franska
+Frequency
+Återkommande flikar
+Fre
+Fredag
+Frisiska
+Friuliska
+From History
+From List
+Från
+Front facing
+Front
+Frown
+Fulani
+Full
+Fullscreen
+Fun To
+Fun
+Funktion
+Futunaöarna
+Future
+GB
+GBK
+GChändelse
+GCsegment
+GC
+GCLI is
+GCLI
+GDI Library
+GDI
+GData
+GENERAL
+GEOSTD
+GLSLkoden
+GLSLshader
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+Gabon
+gäliska
+Gaia
+Galeon
+Galiciska
+Gallegos
+Gambia
+Gambia
+Gamepad
+Spelkonsoler
+Gaming
+Luganda
+Gap from edge of paper to Margin
+Gap from
+Avstånd
+sophämtningsrötter
+Garbage
+Garcia
+Gated Crypto
+Gated
+Gazaremsan
+Gaza
+Gecko
+Geckoreg
+Geckotrade
+General Notification
+Allmänt
+Generate a
+Generate
+Genererat
+Generating A Private
+Generating A
+Generating aggregate
+Genererar
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+Georgien
+Georgiska
+Tyska
+Tyskland
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+Ghana
+Gibraltar
+Gives
+Glace
+Global Revived
+Global
+Glorieusesöarna
+Glorioso
+Glossary
+Gmail
+Go back
+Go forward
+Go
+Bra
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+Grab
+Grade
+Gradient is
+Gradient
+Grand
+Grande
+Grant
+grafreduktion
+Graph
+Grafik
+Gravatar
+GrayScale
+Gråskala
+Grekland
+Greek Windows
+Grekisk
+Grekiska
+Grönland
+Grönländska
+Grenada
+Grenadines
+Grid
+Group List
+Grupp
+Grouped By
+Grouped
+Grouping
+Groups
+Grow
+Guadeloupe
+Guam
+Guaraní
+Guard
+Guatemala
+Guernsey
+Gissa
+Guest browsing
+Guest
+Guyana
+Guinea
+GuineaBissau
+Gujarati
+Gurmukhi MacGurmukhi
+Gurmukhi
+Guyana
+H Line
+H
+HAR
+HError
+HLine
+HPKP
+HREF
+HSLA
+HSTS
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HWversion
+HW
+HZ
+HZGB
+Hacka
+Hack
+Haiti
+Haitiska
+Halifax
+Handler
+Handling
+Handshakepost
+Handshake
+Hang Report
+trådar
+Happy
+Hard
+Hardware Driver Verification
+Hardware Driver
+Hårdvara
+Has
+Hausa
+Have an
+Have
+Hawaiiska
+Sidhuvud
+Huvuden
+Rubriker
+Heading
+Rubriker
+hälsorapport
+Health
+Heard
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+Hebreisk
+Hebreiska
+Height
+Helena
+Hello World
+Hello
+Help Start
+Hjälp
+Helper Application
+Helper Applications
+Helpertrådar
+Hjälpprogram
+Helps
+Helvetica
+Här
+Herero
+Hercegovina
+Hex
+Hidden
+Hide Statistics
+Hide Toolbars
+Dölj
+Hierarchy
+Högkontrast
+High
+Highest
+Highgrade
+Highlight
+Highlighting
+Höjdpunkter
+Hightail
+Hiligaynon
+Hill
+Hindi
+Tips
+Hiri Motu
+Hiri
+Histograms Collected
+Histogram
+Historik
+Historiken
+Träffar
+Hnewsgroup server
+Hnewsgroup
+Ho Chi Minh
+Ho
+spärrat
+HolidayStatusSuppliersTravelVacation
+Hem
+Home
+Startsida
+Homepage Get back
+Hemsida
+Startsida
+Webbplats
+Honduras
+Hong Kong
+Hong
+Honolulu
+Horizontal
+Värd
+På webben
+värdnamn
+Värdnamn
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+timmen
+Hours
+Housekeeping
+How
+Howe
+However we
+However
+Howlandön
+Howland
+Http
+Huge
+Humans
+Ungerska
+Ungern
+I &apos
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+I don &apos
+I ii
+I submit information that &apos
+I think I &apos
+I understand
+jag
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+ID
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAP Flag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+IPanslutning
+IPC
+IPs
+IRC Nick
+IRC Operator
+IRC
+IS
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+ISP
+IV
+Iaposm
+Island
+Isländska
+Ikon
+Ikoner
+Id
+Identification
+Identifier
+Identities …
+Identities
+Identity
+Vilande
+Ido
+Om
+Ibo
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Ignorera
+Ignorerar
+bilddataURL
+Image Dimensions
+Image Map
+Image map
+Bild
+Bilder
+Image…
+Import your
+Importera
+Importance
+Important
+Importing
+Importerar…
+Importera…
+In Days
+In EHLO reponse
+In Finder
+In Use
+In
+InAutoon
+InBrowserElement
+Inc
+Ej
+Incorporated
+Felaktiga
+Större
+Indexerad
+IndexedDB
+Förteckningar
+Indien
+territoriet
+individuell
+Indonesien
+Indonesiska
+Info
+Information
+Ärvd
+Init
+Inner
+inmatningsmetod
+Inmatning
+Ins
+Inspektera
+Inspektör
+Installera
+Installerades
+Installerar
+Installerar…
+Instruktioner
+Otillräckligt
+Heltal
+Integritet
+Interaktion
+Interface
+Interlingua
+Interlingue
+Interna
+internet
+Tolkar
+Introduktion
+Inuktitut
+Inupiaq
+Ogiltigt
+Invertera
+Undersök
+Iran
+Irak
+Irland
+Iriska
+Är
+Islands
+Isle
+Israel
+Utfärdare
+Italienska
+Italien
+Iterationsstart
+JIS
+JIToptimeringar
+JIT
+JOHAB
+JSinnehåll
+JS
+JSM
+JSON
+JSONP
+Jamaica
+Jan
+Januari
+Japan
+Japansk
+Japanska
+Jarvisön
+JavaScriptförskönare
+JavaScriptskal
+JavaScript
+Javanesiska
+Jaxivo
+Jersey
+Jitter
+Jitterbuffer
+Johnstonatollen
+Jordanien
+Juan
+Jul
+Juli
+Hoppa
+Jun
+Juni
+K
+kB
+KOIR
+KOIU
+KRL
+Kannada
+Kanuri
+Kashmiri
+Kasjubiska
+Kazakiska
+Kazakstan
+Keeling
+Behåll
+Kenya
+Nyckel
+Snabbtangenter
+Tangentbindningar
+Tangentbord
+Nyckelhistogram
+Keyframeregel
+Nyckelord
+Nyckelord
+Khmer
+Kikuyu
+Kingmanrevet
+Rwanda
+Kirgiziska
+Kiribati
+Rundi
+Kitts
+Klaatu
+Klingon
+Komi
+Kong
+Kongo
+Konkani
+Nordkorea
+Sydkorea
+Koreansk
+Koreanska
+Kosovo
+Kuanyama
+Kurdiska
+Kuwait
+Kirgizistan
+Etikett
+Landmärken
+Liggande
+språkfiler
+Språk
+Språk
+Lanka
+Laotiska
+Laos
+Bärbara datorer
+Stor
+Senast
+Latin
+Lettland
+Lettiska
+Layout
+Avbryt
+Libanon
+Vänster
+Juridisk information
+Legitima
+LenientThis
+Leone
+Lesotho
+Mindre
+Liberia
+Inget
+Biblioteket
+Libyen
+Licensen
+Liechtenstein
+livstidssignering
+Livslängd
+Ljus
+Ljust
+Limburgiska
+radnummer
+Rad
+Linen
+Lingala
+Länk
+Länkar
+Lista
+Lyssnar
+Listor
+Litauen
+Litauiska
+Live
+Aktivera
+Laddar
+Laddar…
+Öppnar…
+Hämtar…
+Laddar
+Laddar…
+Läser in…
+Öppnar…
+Lokal
+Språk
+Adress
+Plats
+Positionsberoende
+låsta
+Logg
+Loggning
+inloggningsförslag
+Inloggning
+Inloggningar
+Inloggningar 
+Logotyp
+Loopa
+Förlorade
+Lite
+LubaKatanga
+Lucia
+Löjligt
+Luxemburg
+Luxemburgiska
+Macalias
+MACberäkning
+MAC
+MANIFEST
+MB
+MD
+MDNdokument
+MDN
+MIMEtyper
+Maarten
+Mac
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomanian
+MacTurkish
+MacUkrainian
+Macao
+Makedonien
+Makedonska
+Madagaskar
+Epost
+Maintråden
+Malagassiska
+Malawi
+Malajiska
+Malayalam
+Malaysia
+Maldiverna
+Mali
+Malta
+Maltesiska
+Man
+Hantera
+manuell
+Tillverkare
+Manx
+Maori
+Map
+Mar
+Marathi
+Mars
+marginal
+Marginaler
+Marino
+Marketplace
+Marshallöarna
+Marshallesiska
+Martinique
+matchning
+Matchning
+Ett
+MathML
+Matematik
+Mauritanien
+Mauritius
+Maximera
+Maj
+Mayen
+Mayotte
+McDonaldsöarna
+mätningar
+Media
+MediaRecorder
+MediaStreamTrack
+MediaStreamstop
+Medelnivå
+Normal
+Minne
+Meny
+Meddelande
+Meddelandeport
+Meddelanden
+Meta
+Metod
+Metro
+Mexico
+Mikronesiens
+Mikrofon
+Microsoft
+Mellanöstern
+Midnatt
+Midwayöarna
+MinSupportedCPU
+MinSupportedVer
+minifierad
+Minimera
+Miquelon
+Spegla
+Felplacerat
+Fattas
+M
+Mobil
+ändrades
+Ändrad
+Modifiera
+Modul
+Modulus
+Moldavien
+Mån
+Monaco
+Måndag
+Mongoliet
+Mongoliska
+Övervaka
+Fast bredd
+Montenegro
+Montserrat
+Mer
+Merellipsis
+Marocko
+Senaste
+Motu
+Mus
+Flytta…
+Mozambique
+Mozilla
+Mozillaorg
+Måste
+Mutation
+MutationObserver
+Ljud av
+Min
+N/A
+NET
+NETWORK
+NIST
+NO
+NS
+NSS
+utger
+namnrestriktioner
+Namn
+Namibia
+Berätta
+Nauru
+Nauruanska
+Navajo
+Navassaön
+navigeringsknappar
+Navigation
+Nordndebele
+Sydndebele
+Ndonga
+Nepal
+Nepali
+Inkapslade
+Nät
+Nederländerna
+Netscape
+Netscapecfg
+Nätverk
+nätverk
+Aldrig
+aldrig
+Nevis
+Ny
+Nyare
+Ny…
+Nästa
+Nicaragua
+Niger
+Nigeria
+Niue
+Nej
+Nod
+NodeIterator
+NodeSet
+Nominerad
+Inga
+Ingen
+Ickees
+Ickeförnekande
+Lunch
+Nordisk
+Norfolkön
+Normal
+Nordmarianerna
+Samiska
+nord
+Norge
+Norska
+Inte
+Notera
+Ingenting
+Aviseringar
+Notifieringar
+Nov
+Nova
+November
+Radnummer
+nynorsk
+O
+OCSP
+OID
+OK
+Ok
+OLE
+OMTC
+OS
+OU
+OVERLAP
+Objekt
+Occitanska
+Förekomster
+Indiska
+Okt
+Oktober
+Odia
+Av
+Åh nej
+Åh
+Ojibwa
+Äldre
+Oman
+På
+Sökfältets
+uppkopplad
+Endast
+Hoppsan
+Opaque
+Öppna
+OpenGL
+OpenH
+Operatorer
+Optimeringsbara
+Optimizing
+valfri
+Alternativ
+Inställningar
+Eller
+organisation
+Organisationsenhet
+Ordna
+Orientering
+Ursprung
+originalet
+Oromo
+Ossetiska
+Annan
+Annat
+Övriga
+Annat program…
+Outer
+kontur
+över
+Skriva
+Ägare
+P/Galapagos
+P
+PDFproducent
+PDF
+PDFjs
+PEM
+PKCS
+POSTdata
+POST
+PREFS
+Privata
+PUBLIC
+fylld
+PacifDebug/Galapagos
+Pacific/Enderbury
+Pacific/Fakaofo
+Pacific/Fiji
+Pacific/Funafuti
+Pacific/Gambier
+Pacific/Guadalcanal
+Pacific/Guam
+Pacific/Honolulu
+Pacific/Johnston
+Pacific/Kiritimati
+Pacific/Kosrae
+Pacific/Kwajalein
+Pacific/Majuro
+Pacific/Marquesas
+Pacific/Midway
+Pacific/Nauru
+Pacific/Niue
+Pacific/Norfolk
+Pacific/Noumea
+Pacific/Palau
+Pacific/Pitcairn
+Pacific/Pohnpei
+Pacific/Ponape
+Pacific/Rarotonga
+Pacific/Saipan
+Pacific/Tahiti
+Pacific/Tarawa
+Pacific/Tongatapu
+Pacific/Truk
+Pacific/Wake
+Pacific/Wallis
+Pack
+Package s
+Package xpi
+paket
+Paketerad
+Packs
+Padding
+sidriktning
+Page Selection
+Sida
+Pagequot
+Pager Number
+Pager
+Sidor
+Pago
+Måla
+Pair a Device &quot
+Pair a
+Para ihop
+Pakistan
+Pal Who &apos
+Pal
+Palau
+Palestinian Territory
+Palestinian
+Palette
+Pali
+Palmyraatollen
+Palmyra
+panorera
+Panama
+Pane
+Panel
+Paneler
+Panes on Startup
+paneler
+PannerNode
+Papua New Guinea
+Papua New
+Papua
+Paracelöarna
+Paracel
+Paragraph format
+Paragraph
+Paraguay
+Parameters
+Parametrar
+Parcel
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+Parental
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+PartS
+Partial
+Partially Encrypted
+Partially
+Participant
+Participants
+Parts
+Party Name
+Party
+Pashto
+Password Change
+Password Manager
+Lösenord
+PasswordIf
+Lösenord
+Paste Go
+Klistra in
+Pastel Gradient
+Pastel
+Paste…
+Patch
+Patching s
+Patchar
+Sökväg
+Paths from
+sökväg
+Paulo
+Pause on
+Pause/Resume/Retry
+Paus
+Pausa
+Pausad
+Pauses the
+Pausar
+Betala
+nyttolast
+Betalning
+Paz
+Peer
+PeerConnectionID
+PeerConnection
+Pending
+Penh
+Personer
+Percent
+Perform a
+Genomför
+Prestanda
+Perhaps the
+Perhaps you &apos
+kanske
+Period of Validity
+Period of
+Period
+Periodisk
+Permanent
+Permanently
+Permission
+Rättigheter
+Permit
+Farsi
+Personligt
+Personality
+Peru
+Perwebsite
+Fas
+Filippinerna
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+Telefon
+Telefoner
+Phonetic Name
+Phonetic
+Photo
+Photograph
+Phrase
+Physical
+Pick
+Picture
+Pierre
+Pilot
+PIN
+Ping
+Fäst
+offentlig
+Pipelining
+Pitcairnöarna
+Pitcairn
+Pixel
+Plain
+Planner
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Platform
+Play a
+Spela
+Spela upp
+Playing audio
+Spelar
+Please advance
+Please authenticate
+Please consider
+Please enter
+Förkorta
+Specificera
+Plug a
+Koppla
+PlugIns
+Plugin
+Insticksmoduler
+Plus
+Pocket
+Podsändning
+PoiQA
+Pointer Lock API
+Points
+Polen
+Pole
+Policies
+policyrestriktioner
+policymappningar
+Policymappning
+Policy
+Polska
+Polynesien
+Popup Blocking
+Popup
+Popupfönster
+Port
+Portable Document
+Portable
+Porto
+Stående
+Portugal
+Portugisiska
+Position
+Posse
+Possible
+Post
+Postal Code
+Postal
+Posting
+Postpone
+Power
+Powered by
+levereras
+Powershare
+Practice Statement pointer
+Practice
+Pre
+Precondition
+hellre
+Preference
+Alternativ
+Inställningar
+Inställningar…
+Preferred
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Prefix
+Prefixed
+Preformat
+tidigt
+Prepackage
+Prepackaging
+Preparing
+Förbereder…
+Present
+Presentation Mode
+Presentation
+Preserve
+Preserves
+förval
+Förval
+Förvalda
+Tryck
+Pressing F
+Pressing
+Snygga
+Pretty Print
+Pretty
+Prevent
+Förhandsgranska
+Förhandsgranskning
+Previewed
+Previewing
+Preview…
+Previous Session
+Föregående
+Pris
+Primary Email
+Primed cache
+Primed
+Primetime Content
+Primetime
+Princes
+huvudanvändarnamn
+Principal
+Príncipe
+Skriv ut
+Printed
+Skrivare
+Skriver ut
+Skriver ut…
+Skriv ut…
+Priority changed
+Prioritet
+Privacy Policy
+Integritet
+Sekretess
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+Privat
+Privata
+Privilegierad
+Privileges
+Privileges…
+Pro
+Troliga
+Probably
+Probing
+Problem
+Proceed
+Proceeding will
+Proceeding
+Process
+Processing
+Bearbetar…
+Prodigy
+Producer
+Product
+ProductName
+ProductNameInternal
+ProductShortName
+Profil
+Profiler
+Profiler
+programikoner
+Program
+Programs Folder
+Programs
+Progress Window
+Förlopp
+Project Lead
+Projekt
+Projekt
+Promise Debugger
+Promise
+Fråga
+Egenskaper
+Egenskaper…
+egenskapsdeklaration
+Property Value
+Egenskap
+Variabel bredd
+Propose a
+Propose
+spårningsskyddet
+Protocol Request
+protokoll
+ProtocolSpecific
+Protocols
+Proudlybr
+Provider
+Province
+Proxies
+Proxy
+Pseudoelements can
+Pseudoelements ‘
+Pseudoelement
+Psst using
+Psst
+Public
+PublicKeyPins
+Publish
+Publishing Pages
+Publishing
+Publishing…
+Publish…
+Puerto Rico
+Puerto
+Punjabi
+Purchase for
+Syften
+Push Endpoint
+Skicka
+QA UI
+QA
+QName
+QQ
+QR Scan
+QR
+Qatar
+Qualified Subordination
+villkorad
+Quechua
+fråga
+Question
+Köad
+Quick Filter
+Quick Launch bar
+Quick Launch
+Quick
+Quickly
+Quirks mode
+Tolerant
+Quirky doctype
+Quirky
+Avsluta
+QuitS
+Quitting
+Quota
+Quotation
+Quote
+Quotes
+RAM
+RC
+RDN
+POSTER
+REMOVE
+RETR command
+RETR
+RETURN
+RFC
+RGBA
+RSAkryptering
+RSA
+RSASSAPSSsignatur
+RSASSAPSS
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+RTP
+Radio Button
+Alternativknappar
+Radio
+Rainy
+Raise
+Range
+Rankin
+Rate
+Betyg
+Ratio
+Raw
+Re
+Reached
+Read
+ReadMark
+Reader &apos
+Läsare
+Reading
+Ready to
+Klar
+Jättesnabbt
+Really
+Rearrange
+Orsak
+Reasons
+Rebuild Summary
+Rebuild
+Räkna
+Receipt denied
+Receipt
+Receipts
+Receive
+Mottaget
+Mottar
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+Senaste
+nyligen
+Recheck
+Recipient
+Recipients
+Recommended Components
+Rekommenderade
+Rekommenderas
+Reconfirm
+Reconnect
+Spela
+Recording Performance
+Inspelning
+Spelar in …
+Recover
+återställningsnyckelhtml
+Återställningsnyckeln
+Recur
+Recurrence pattern
+Recurrence
+trädrekursion
+Redirect Loop
+Redirect
+RedirectMode
+Omdirigeringsgränsen
+Redirection
+Rediscover the
+Rediscover
+Redisplay
+Gör om
+Reducing the
+Reducing
+Reduction
+Reef
+Reenter
+Reference
+References
+Referrer
+Referring URL
+Anvisande
+Återflöden
+Reformat
+Uppdatera
+Refused
+Register Locale
+Registerserver
+Register
+Registered
+Registering
+Regular Attachment
+Reguljära
+Reject
+Rejoin
+Related
+Relation
+Relative positioning of
+Relativ
+Relaunch
+versionsfakta
+Release
+Releases
+Ladda om
+Uppdatera
+Remaining
+Kom ihåg
+Spara
+Remind Me
+Remind
+Reminder
+Reminders
+Remote Debugging
+Remote debugging
+Fjärr
+Remove channel
+Rensa bort
+Ta bort
+Removed
+Removes
+Ta bort…
+Removing
+Renaissance
+Byt namn
+Rename…
+Renaming
+Render Mode
+Render
+Renderer
+Renderar
+Renewal
+Återöppna
+Repair
+Repeat
+Repeating
+Upprepningar
+Replace
+Replacement
+Replaces in
+Ersätter
+Replace…
+Replacing
+Replicating directory entry
+Replicating
+Replication failed
+Replication
+Replied
+Reply
+ReplyTo
+Replying
+Replyto Address
+Replyto
+Rapportera
+ReportOnly
+Reporter
+Reports
+republiken
+Request the
+Request
+RequestMode
+Efterfrågad
+Önskemål
+Required
+Kräver
+Reread mozcmd
+Reread
+Skicka igen
+Resending
+ResentCC
+ResentComments
+ResentDate
+ResentFrom
+ResentMessageID
+ResentSender
+ResentTo
+Reserved
+Ta bort
+Återställ
+Resets
+Resolution/Quality
+Resolution
+Lös fel
+Resource
+Resources
+Responder
+Svar
+Responseclone
+Responsive Design
+följsamt
+Rest
+Starta om
+Restarting
+Startar om…
+Återställ
+Begränsar
+Begränsade
+Restyletips
+Restyle
+Results
+Resume &apos
+Återuppta
+Återupptar
+Retained
+Retention Policy
+Retention
+Retest
+Retrieving quota
+Retrieving
+Hämtar…
+Försök igen
+Retrying
+Retur
+Retweet
+Reunion
+Reverse
+Reversed
+Ångra
+Återgå
+Återgå…
+Granska
+Revision
+återupplivad
+Revocation
+Revoked
+Spola
+Rewrap
+Rewriting oldstyle
+Omskrivning
+Rätoromanska
+Rica
+Rich Text
+Rich
+Rico
+Right Click
+Höger
+Rightclick
+Rights
+Righttoleft direction
+Righttoleft
+Ringing…
+Rio
+Rioja
+Risks
+River
+Roaming
+Robot
+Robots
+Roku
+Role
+Rumänien
+Romanian ISO
+Rumänska
+Room
+Root
+rotmodul
+roten
+Rotera
+Row
+Rows
+Rule
+Regler
+Ruleset
+Kör
+RunAppX
+Running
+Runtime
+Ryssland
+Russian Federation
+Rysk
+Ryska
+Rwanda
+S &apos
+S Object
+Sleverantör
+S Sbild
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+Processinstruktionen
+SASL bind
+SASL
+SD
+SDP
+Sydost
+SECG elliptic curve sectr
+SECG
+SECURITY
+SEE THIS STRING
+SEE THIS
+SEE
+SETTINGS
+SFailed to
+Misslyckades
+SHA Digest
+SHA Fingerprint
+SHA
+SHOULD
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+SKB
+SMB
+SMB
+SMTP &apos
+SMTP&apos
+SMTP
+SMTPAUTH
+SOCKSvärd
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+SPONSRAD
+SQLsatser
+SQL
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+STRING
+STouch
+FÖRESLAGEN
+SVG clipping
+SVG
+SW Asian
+och
+BYT
+SYSTEM
+Sfiler
+L
+Saba
+Sad
+Safari
+Safe Mode
+Säker
+SafeBrowsing
+SafeMode
+Sahara
+SaintBarthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+SaintMartin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+Sankta
+Salaam
+Salem
+Salvador
+Samma
+Sami
+Samoa
+Samoanska
+Sampled
+Prover
+San Marino
+San
+Sandbox
+Sandboxing
+Sandwich
+Sango
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+Sans
+Sanskrit
+Sansserif
+Santa
+Santo
+Sao Tome and
+Sao Tome
+São
+Sardiska
+Sass
+Lör
+Lördag
+Saudiarabien
+Saudi
+Save Permissions
+Spara
+Sparade
+Spara…
+Saving
+Sparar
+Sparar…
+fann
+Skalärer
+Scale …
+Skala
+Scaled
+skalning
+Scam Warning Take
+Scam
+Scams
+Skanna
+Scanner app
+streckkodsläsning
+Scanning for
+Scanning
+Scheduling
+Scheme
+Omfattning
+Score Origin
+Score
+Scots
+Scottish Gaelic
+Skotsk
+Scratchpad Enter some
+Kladdblocket
+Screen Orientation
+Screen reader
+Skärm
+Screenname
+Skärmdump
+Skärmdump
+Script
+Scripts
+Scroll
+ScrollLinkedEffects
+Scrolling
+Sd
+Sdays
+Sea
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Sök
+Searches
+Searching &apos
+Searching
+Söker…
+Sök…
+Seccomptrådsynkronisering
+Seccomp Thread
+Seccomp
+SeccompBPF System
+SeccompBPF
+Second
+Secondary Email
+Secondary
+Seconds
+Sections
+Secure
+Securing connection
+Säkrar
+Security Exception
+Säkerhet
+Se
+Markera
+Välj
+Selected Frame
+Selected Tabs
+Markerad
+SelectedRemove Selected
+SelectedRemove
+Selecting
+Markering
+selektor
+Selectors
+Select…
+Självkostnad
+Self Sampled
+Self Time
+Självsamplade
+Selfclosing syntax
+Självstängande
+Selfposting
+Send Verification
+Send a
+Skicka
+Sender
+Skickar
+Sends a
+Sends
+Senegal
+Sensor
+Sent &quot
+Skickat
+Sep
+Separate _
+Separate tags
+separat
+Separated
+Avskiljare
+Avgränsare
+Sepia
+September
+Serbien
+Serbiska
+Serial Number
+Serial
+Serialisera
+Serif
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+Server settings&apos
+Server
+Servrar
+Service
+ServiceWorker
+ServiceWorkerAllowed
+Tjänster
+Session
+Sessions
+Set Up Sync &quot
+Set this channel &apos
+Ange
+Ställ in
+Setting
+Settings &#124
+Inställningar
+SettingsA
+Inställningar…
+Installation
+Seven
+Severy
+Seychellerna
+St
+Shader
+Shading
+Ytlig
+Dela
+delad
+Delningsindikator
+Sharing
+Sheet
+Shift _ JIS
+Shift _
+Skift
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+SkiftRetur
+ShiftTab
+Shona
+Shopping
+Short
+Shortcut
+Shortcuts
+Shot
+bör
+Show/Hide
+Visa
+Showing
+Shrink To Fit
+krymp
+Stäng av
+Shutting Down
+Shutting
+SiInEfate
+Syskon
+Sichuan Yi
+Sichuan
+Sidofält
+Sidofält
+Sierra Leone
+Sierra
+Sign
+signatur
+Signed
+Signer
+Signering
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Simple
+förenklad
+Förenkla
+Simply
+Simulate touch
+Simulera
+Simulation
+Simulator
+Simuleringar
+Since
+Sindhi
+Singapore
+Singalesiska
+Sinhala
+Sint
+Siswati
+Plats
+Webbplats
+Platser
+Storlek
+tema
+hoppar över
+Slovakiska
+Slovakien
+Slovenien
+Slovenska
+Sm
+Liten
+smartkortsinloggning
+S ms
+Sms
+skärmbilder
+Sockets
+Mjuka
+Programvara
+Solomonöarna
+Pettersson
+Somaliska
+Somalia
+Vissa
+Songhai
+Sorbiska
+Sortera
+Stigande
+Sotho
+Sotho
+Källor
+Sydafrika
+Sydgeorgien
+Sydsandwichöarna
+Sydsudan
+sydterritorierna
+Mellanrum
+Space
+Spanien
+Spanska
+Specifikation
+Speculative
+snabbar
+Hastighet
+stavningsförslag
+stavning
+Spratlyöarna
+Spx
+Sri
+Ss
+Stack
+Standard
+Börja
+Start
+Starta
+Startar…
+Vid start
+Status
+Sats
+stater
+staterna
+statistik
+statistik
+Status Protocol
+Status
+Fortsätt
+Stopp
+Stoppa
+Stoppad …
+Lagring
+Överflödig
+Dra ut
+Strict
+StrictTransportSecurity
+Sträng
+Strukturerad
+stileditor
+Stilar
+S
+Subkommandon
+Innehavare
+Ämne
+Datum
+underordning
+Prenumerera
+Efterföljande
+KortleverantörsID
+Klart
+Lyckades
+Sudan
+Filändelse
+Förslag
+Sammanfattning
+Sön
+Sundanesiska
+Söndag
+Ersatt
+Supplement
+Support
+stödda
+Surinam
+Efternamn
+Misstänkt
+Svalbard
+Swahili
+Swaziland
+Sverige
+Svenska
+Byt
+Växla
+Schweiz
+stavelseskrift
+symmetriska
+Sync
+Synk
+Synkroniserar…
+Synopsis
+Syrien
+Systemanropsfiltrering
+Systems
+S×
+S×S
+FLIK
+TCP
+TCVN
+TIS
+TV
+TVs
+Tabb
+Tabeller
+Surfplattor
+Flikar
+innehållsflikarOm
+Etikett
+Tagalog
+Etiketter
+Tahitiska
+Taiwan
+Tadzjikiska
+Tadzjikistan
+Tamil
+Tanzania
+Tryck
+Mål
+Tatariska
+Tech
+Telemetrilogg
+Telemetri
+Telugu
+Tillfälligt
+avslutar
+oceanen
+textriktning
+Text
+T
+Thai
+Thailändska
+Thailand
+Tack
+Utfärdaren
+Tema
+Teman
+Dessa
+Detta
+Tor
+Miniatyr
+Miniatyrer
+Torsdag
+Tibetanska
+Tigre
+Tigrinska
+Sida vid sida
+Tilt
+Tid
+Tidslinje
+Tidsstämpel
+Tider
+TimorLeste
+Pytteliten
+Tips
+Titel
+Toasters
+Tobago
+Idag
+Växla
+Togo
+Tokelauöarna
+Informationsbärare
+Tomé
+Tonga
+Passade
+Verktygsfält
+verktygsknappar
+Webbläsarverktyg
+Verktyg
+Sidhuvud
+Tryck
+Spårningar
+Spårningsförsök
+Spårning
+traditionell
+avslutande
+Överfört
+Övergång
+Översätt
+Översättning
+Översättningar
+Översättare
+Transport
+Trinidad
+Tristan
+Tromelinön
+Felsökning
+Trunkera
+signering
+Tsonga
+Tswana
+T
+Tis
+Tisdag
+Tunisien
+Turkiet
+Turkisk
+Turkiska
+Turkmeniska
+Turkmenistan
+Turks
+vägledning
+Tuvalu
+Twi
+Typ
+Typer
+UAdetektering
+UID
+ÅNGRA
+OKÄND
+UNSUPPORTED
+URI
+URIer
+URL
+webbadresser
+SE
+ligger
+USB
+UTFkodning
+UTFBE
+UTFLE
+Uganda
+Ojdå
+Uiguriska
+Ukraina
+Ukrainsk
+Ukrainska
+Kan
+Avmarkera
+Stryk
+förstår
+Ångra
+Unescape
+konverterat
+avmarkera
+Unicode
+Enhetlig
+Ej initierad
+Avinstallera
+Avinstallerar
+unika
+OU
+Förenade arabemiraten
+Storbritannien
+Förenta
+Enhetslösa
+Universal
+Okänd
+Okänt
+Avregistrera
+Inaktivera
+Ljud på
+Lösgör
+Avregistrera
+Avregistrerar
+Opåverkbart
+Obegränsade
+Osignerad
+Osorterade
+Otillförlitlig
+Oanvänd
+Overifierad
+Obesökta
+Uppåt
+Uppdatera
+Uppdatering
+Uppdateringar
+uppdatering
+uppdaterade
+Uppgradera
+Uppgraderade
+Ladda upp
+Högsorbiska
+Urdu
+Uruguay
+oss
+använd
+Användarnamn
+Using
+Uzbekiska
+Uzbekistan
+VALID Giltig
+VERSION
+VISCII
+VK_F
+VK_QUOTE
+VK_SEMICOLON
+VK_SLASH
+VPS
+Giltig
+Giltigt
+validera
+Validation
+Giltighet
+Värde
+Värden
+Vanuatu
+variabelträd
+Variabler
+Vatikanstaten
+Venda
+Venezuela
+Verde
+hårdvarudrivrutin
+Verifierar
+Verifierar…
+Verisign
+Version
+Vertexshader
+Videoavkodare
+Video
+Vietnam
+Vietnamesisk
+Vietnamesiska
+Visa
+visningsprogram
+Visar
+Viewport
+Vyer
+Visa…
+Vincent
+Besök
+Vista
+visuell
+Visualisera
+Röst
+Volapük
+Volym
+VARNING
+WARNINGS Varningar
+WS
+Vänta
+Väntar
+Väntar…
+Wakeön
+Wallis
+Vallonska
+Varna
+Varna
+Varning
+Varningar
+Bevaka
+Klockor
+Waterfall
+O
+WeakMap
+Web
+WebGLrenderare
+WebGL
+WebIDE
+WebIDL
+WebRTCinternt
+WebRTC
+WebSockets
+Webmaker
+Webbplats
+Ons
+Onsdag
+Vecka
+Välkommen
+Walesiska
+Västbanken
+Västsahara
+Västeuropeisk
+Vad
+Vid
+Även
+blanka
+Who
+WiFianslutning
+Widevine
+width
+Win
+Fönster
+Windowopen
+Windowsgenväg
+Windows
+Utan
+Skapa
+Wolof
+Arbeta
+Lösningar
+Worker
+Arbetare
+Hela dokumentet
+skrivning
+skrivningar
+skriftsystem
+X
+XContentTypeOptions
+XHR
+XML
+XMLHttpRequest
+XP
+XPCOM
+XPConnect
+XSLTomvandlingen
+XSLT
+XULboxen
+XUL
+Xhosa
+YandexTranslate
+Jemen
+Ja
+Igår
+Yi
+Jiddisch
+Yoruba
+Dig
+Du
+Your
+Z
+Zambia
+Zeeland
+Zhuang
+Zimbabwe
+Zoom
+Zooma
+Zulu
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+a scam
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+a surprised
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+a week
+a windowed
+a wink
+a year
+a yelling
+uppvisar
+aVälj
+aFrames
+aKnow
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+avskydde
+abilities
+able
+abort
+aborted
+about About
+about Networking
+about Us
+about brandShorterName
+väg
+aboutconfig
+aboutcredits
+aboutrights
+aboutwebrtc
+ovanför
+aboveAllow
+abruptly
+absence
+absolute positioning
+absolut
+accel
+accelalt
+acceleration on
+acceleration
+accelshift
+accented
+godtar
+acceptabel
+formelementet
+accepterades
+accepting site &apos
+accepterande
+access Key
+access multimedia
+åtkomst
+åtkomligt
+accessibility support
+tillgänglighetsverktyget
+accessibility
+åtkomlig
+accessing
+accidental breakage
+oavsiktliga
+medföljande
+accomplished
+accordance
+according
+account &apos
+account Actions
+account connected
+account name
+Kontot
+accountManagernewAccountlabel
+accounts
+precisionen
+accurate
+acknowledges
+across
+act
+action
+actions
+aktivera
+aktiverad
+active Logins
+aktiv
+activity Indicator
+Aktivitetsflöde
+activity
+actual Size
+actual
+actualDate &apos
+actualDate
+actuarial
+adaptive
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+lägga
+addEventListener method
+addEventListener
+lagt
+lägger
+ytterligare
+additivesymbols descriptor
+additivesymbols
+addon &apos
+addon
+addons gallery
+tillägg
+addonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+värdserver
+addressbook
+addressbr
+addresses
+addressing area
+addressing
+adjacent
+adjust
+admin
+administrator
+adult supervision
+målsmans
+advance
+advanced JavaScript
+avancerade
+advanced_pref_installation
+advancelabel
+advertise
+advertised
+annonserar
+påverka
+affected
+affecting
+after Sending
+after
+again
+age
+agent
+aggregerad
+aggregat
+aggregera
+aggregator
+sedan
+samtycka
+avtalet
+airplane
+aka NIST
+alias
+asenaste
+larmbeskrivning
+alarm
+avisering
+algorithb
+Algoritmparametrar
+algoritm
+algorithmhash value
+algorithmhash
+algorithms
+alignment
+alined
+liv
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+alla
+allokera
+allokerade
+allokering
+allocations Rate
+objektallokeringar
+allow dialogs
+allow immediate
+godkänna
+tilläts
+allowfullscreen
+allowing
+allows
+allowsameorigin
+allowscripts
+almost
+along the Y
+vrids
+alphabetical
+already bookmarked
+redan
+also gives
+also skip
+också
+altKeylabel
+ändrar
+alteration
+altered
+alternativa
+alternatives
+always Ask
+always Block
+always prefer
+alltid
+am &#124
+am
+amount
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+an
+analysis
+analyze
+ancestor elements
+överordnade
+ancestors
+anchor &apos
+anchor
+anchors
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+and Herzegovina
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+and
+angle
+animeringsbar
+animerade
+animation cycle
+animation
+animationer
+annually
+anonymous box
+anonymous
+another
+answers
+antivirus software
+antivirus
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+utförd
+anymore
+anyone
+anypolicy
+anything
+allafall
+anywhere
+apart
+app &apos
+appbidrag
+appens
+appName
+appear
+appearance wrong
+appearance
+appears
+lägg
+applicable service
+applicable
+Programfakta
+application Details
+application doesn &apos
+program
+applications
+tillämpade
+applies
+verkställas
+applying update
+applying
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+sakna
+approx
+approximate line
+ungefärliga
+approximation
+apps &apos
+appar
+apr &#124
+apr
+april
+godtyckligt
+archive
+archived folders
+archived
+archives
+archiving
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+följs
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+svaren
+area shape
+area
+areas in
+områden
+aren &apos
+aren
+argument
+arguments for
+arguments
+arising out
+arising
+arjo
+armscii ISO ISO ISO
+armscii
+around
+arrive
+kommit
+arrives
+uppåt
+arsa
+article summary
+artikel
+artiklar
+artwork
+as &apos
+as Authored
+as broken
+as cURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+modifierade
+ordning
+ascii
+ash
+
+befintligt
+ask me
+ask
+asked questions tips
+instruerat
+asking
+asks that
+ber
+aspect ratio
+aspect
+aspects
+assets
+assist you
+assist
+assistance
+associerade
+association
+assume
+assured
+asterisk
+async touch
+async
+asynchronous Pan
+asynchronous entity
+asynkron
+laddat
+at S
+at least
+at span id &apos
+återupplivades
+atchMore than
+atregeln
+attach
+attached
+attaching
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+attachment
+attachmentDo
+attachments
+attack An
+attack pages
+angripande
+attacker could
+angripare
+attackers
+attacks
+attempt
+attempted old
+attempted
+försöket
+attempts
+attend
+attendance
+attendee
+attendees
+attention
+attribute Type
+DOMException
+attributes &apos
+attribut
+Ljudgränssnitt
+ljud
+aug &#124
+aug
+august
+authenticate to
+styrka
+authenticates
+authentication mechanism
+autentiseringen
+äktheten
+author
+authorities
+authority is
+authority
+authorization
+behörig
+authors whom
+skapare
+auto Increment
+auto Prettify
+auto Save
+auto discover
+auto
+autoAddOnsUpdateslabel
+autocomplete
+autocompletion
+autodetection
+autofill
+automated updates
+automatiska
+automatic updates
+automatiska
+automatically Black
+automatically detects
+automatically prefill
+automatically so it &apos
+automatiskt
+automation
+uppspelning
+autorullning
+available &quot
+available Commands
+tillgängligt
+genomsnitt
+medel
+undvika
+aware
+away
+zaxeln
+b
+bÄven
+bS
+back facing
+tillbaka
+backed up
+backed
+backfacevisibility hidden
+backfacevisibility
+background
+eftersläpande
+backslashes
+säkerhetskopia
+backups
+backwards
+bad parameter
+dåliga
+badge
+baggage object
+baggage
+ban
+banks stores
+banker
+banned
+banner
+bråkstreck
+barada
+basen
+baserad
+baseline
+basic Page
+grundskydd
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+åtgärdas
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+bestå
+bear the
+bär
+vilddjuret
+beasts brought emfire
+vilddjuren
+beautifier
+JSfilen
+became full
+blev
+eftersom
+become
+becomes damaged
+becomes
+been deactivated
+been navigated
+been reestablished
+ersatts
+been revoked
+överförts
+been translated
+initierats
+beep
+förut
+began
+påbörja
+beginning
+begins with
+begins
+uppdrag
+behavior
+behaviour
+behavioural
+being incompletely transferred
+being redirected
+being reparsed
+bli
+believe
+believed
+tillhör
+belongs
+nedan
+benefit
+benefits
+beside
+best Match
+best accomplished
+bästa
+better
+mellan
+bfor Android
+bgt
+bidirectional
+big
+bigger
+billing
+binära
+bind DN
+bind
+binding shadows
+binding
+bindings tag
+bindings
+bird
+birdcage …
+birdcage
+birth
+bit keys
+bitars
+bitrate
+bitar
+bitten
+svart
+inget
+Blockeringslistor
+block padding
+block
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+blockerat
+blocking
+blocks parts
+blocks
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+grundinnehållet
+book
+bookmark updated
+bookmark
+bokmärkt
+bokmärken
+books
+boolesk
+bootloader
+border &apos
+border radius
+ram
+borders
+botten
+både
+botten
+bundet
+boundaries
+bounds
+Boxmodell
+box model region
+box model
+ruta
+boxcom
+boxed
+boxes
+lådan
+br
+brace
+klammerparenteser
+hakparenteser
+brand new
+brand profile
+helt
+brandFullName Credits
+brandFullName
+s
+brandShortName Preferences
+brandShortNamelogo
+brandShortName
+brandShorterNameguide
+brandShorterName
+brandShortname
+break
+breakage
+brytning
+brytpunkt
+brytpunkter
+breaks
+brighter
+bring
+bred
+knäckt
+bringade
+surfar
+browser &apos
+browser Hangs
+webbläsarkonfigurationer
+Webbläsaren
+browsercachediskenable to
+browsercachediskenable
+browsers
+browsing
+brulliIf
+knapp
+buddy list
+buddy
+budget
+Buffertkapacitet
+Buffer
+bugg
+bugs visit
+bugs
+bugzillamozillaorg
+Byggkonfiguration
+build
+building summary
+built
+builtin Roots
+builtin tools
+Inbyggd
+bulleted list
+bulleted
+arbete
+upptaget
+but we
+men
+button button
+knapp
+buttons
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+genom
+bynbspdesign
+byte
+byte
+c
+kSrS
+cURL
+cache management
+cacheutrymmet
+cachecontrol set
+cachecontrol
+cachad
+cachemanifest
+caching of
+cachning
+calendar Weeks
+calendar
+calendaring information
+calendaring
+calendars
+calendartimezonesxpi
+Anropsstack
+call calls
+efterfråga
+callUrl
+motringningen
+called &apos
+kallad
+anropade
+caller
+calling detach
+Anropet
+anropar
+kamera
+can &apos
+can analyze
+can collect
+can often
+can ’
+can
+cancel
+canceled Occurrences
+avbröt
+cancellation
+cancelled
+cancelledAddon
+kandidatresurser
+candidate
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+cannot
+Canvasfelsökaren
+canvas an
+canvas
+capabilities
+capable
+capacity
+capitalization
+rubrik
+Fånga
+captureEvents
+captured log
+captured
+card
+cards copied
+cards etc
+cards
+care
+vaksam
+carefully
+caret
+carriage return
+carriage
+carrier
+case sensitivity
+versal
+skiftlägesokänslig
+cases
+cast
+kategorierna
+categorize and
+categorize
+category
+categorySource
+orsak
+caused
+causes
+causing stability
+omtolkning
+försiktighet
+caveats
+kk
+cd
+cell border
+cell was
+cell
+cells
+datatrafikplatsen
+cellular
+census
+Mittensidfot
+center header
+center
+centered
+centerxcenteryradius
+centimeters
+cert AIA
+cert Library
+cert validation
+cert
+brandShortNamehämtar
+certificSian
+Certifikatfält
+Certifikathierarki
+Certifikatpolicyer
+Certifikatinnehavarens
+Certifikatvisaren
+certifikatets
+certifierade
+ch
+kedja
+bytt
+ändringarna
+Flamegrafen
+markera
+kryssrutor
+markerad
+Kontrollerar
+mozillacentral
+Barnets
+val
+valde
+Chromeregistrering
+chrome
+cirkel
+cirkel
+cirkulär
+klassen
+rent
+Töm
+rensats
+klickar
+klickad
+clicktoplay
+Klientidentifiering
+Klientens
+klienter
+urklipp
+klippning
+hparentes
+stängd
+högerparantes
+kod
+codebreakpadreportURL
+codec
+colgroup
+collapse
+infälld
+samla
+insamlad
+insamling
+samlade
+krävde
+Färgnamn
+färgkomponent
+färgväljaren
+färg
+färger
+kolumn
+kolumner
+kolumnmed
+com
+kombinator
+kombinationsruta
+come
+kommandotips
+kommandon
+komman
+kommentar
+kommentarer
+
+commit
+gemensamma
+gemenskap
+kompakt
+jämföra
+kompatibelt
+komplement
+komplementärt
+slutförande
+fullständigt
+följa
+komponent
+tråden
+fullständiga
+komprimerade
+komprimering
+kompromissa
+komprometterade
+dator
+supportsvillkor
+villkorssatser
+configurable
+konfiguration
+preferenser
+konfigurerats
+bekräftar
+konflikt
+anslut
+anslutna
+verkligen
+anslutningar
+ansluter
+efterföljande
+påföljande
+överväg
+consoleerror
+consolewarn
+sökvägslängden
+samman
+Willchange
+ägarna
+methodpost
+telefoner
+inlagd
+innehållande
+innehåller
+innehåll
+redigerbart
+kontexten
+kontexter
+fortsätta
+började
+stödja
+medarbetarna
+kontroll
+konvertera
+konverteras
+kakan
+Kakans
+kakor
+koordinaten
+coords
+kopierad
+kopior
+kopiera
+riktiga
+motsvarande
+trasigt
+skadat
+kunde
+antal
+räknare
+loppet
+kraschrapportDu
+s
+krasch
+kraschat
+krascher
+skapa
+skapats
+skapandet
+kreditkort
+kritiska
+crossorigin
+css
+aktuell
+närvarande
+markör
+kurvconbv
+kurvcpnbv
+kurvcpnbw
+kurvctnbr
+kurvctnbv
+kurvprimev
+kurvsecpk
+kurvsecpr
+kurvsectk
+kurvsectr
+anpassade
+anpassningar
+anpassa
+Klipp
+Cykelreferens
+cykel
+omväxlad
+d
+da
+skadestånd
+farliga
+mörker
+darrinhenein
+streckad
+Datachiffer
+dataöverföringen
+data
+databasen
+datareporting
+datum
+dag
+dagdagar
+dagar
+de
+Död
+felsöka
+avlusning
+vilseledande
+valt
+Beslutslogg
+beslut
+deklaration
+deklarera
+deklarerat
+avvisa
+avkoda
+decodeAudioData
+dekodrar
+avkodning
+uppackning
+minska
+dekryptering
+standard
+defaultPrevented
+standardS
+definitionslista
+definition
+grader
+fördröjning
+Radera
+leverans
+belastning
+tälj
+nekad
+nämnare
+föråldrade
+ordning
+beskrivs
+beskrivning
+teckensnittsdeskriptor
+utformade
+skrivbordswebbläsare
+datorwebbplats
+förstörde
+detach
+detaljerad
+detaljer
+upptäckas
+avgöra
+developermozillaorg
+utvecklare
+s
+enhet
+enhetoch
+enheter
+diagnostisera
+snett
+diagram
+dialogruta
+dialogrutor
+ordlistor
+t leave an application data file
+skillnader
+svårt
+digitalt
+digitallysigned
+siffror
+storlek
+riktning
+direktivet
+hand
+Katalogsökväg
+Mappens
+inaktivera
+inaktiverat
+Inaktivering
+frånkopplad
+disk
+särskilja
+framstående
+medvetet
+distributörer
+distributörer
+misstror
+Stör
+div
+division
+do
+dokument
+doctype
+Dokumentegenskaper
+dokument
+dokumentationen
+documentcreateAttribute
+documentcreateAttributeNS
+documentdomainS
+documentexecCommand
+documentload
+orsakade
+dollar
+domän
+dominators
+dominatorsrapport
+t
+dopplerFactor
+dot
+prickad
+Nedåtpil
+nedgraderas
+filhämtning
+hämtningenTa
+nerladdade
+hämtar
+hämtningar
+ritning
+grafikdrivrutinens
+drivrutiner
+Tappade
+pga
+duplikat
+streck snett nedåt
+e
+isär
+ivriga
+lätthet
+underlätta
+lätt
+redigera
+redigerade
+redigerar
+editor
+effekt
+strävan
+eight
+eightbit
+eighteen
+eighteenth
+eighth
+either
+förflutit
+elea reime
+element
+elementdataset instead
+elementdataset
+elements
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+eleven
+eleventh
+eligible
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+elliptisk
+else contact
+else
+em
+emMammon
+email Recipient
+email Scams
+email address
+Epostadresser
+email correspondent
+epost
+emailI &apos
+emailI
+emailed
+emailexamplecom
+emails
+emand
+embarrassed face
+embarrassed
+embarrassing
+Flashinbäddad
+embedded PDF
+embedded
+embeds
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributor
+emcontributorJoe Solon
+emcontributorLuna
+emcontributorAndreas
+emeld
+emgreat
+emnytt
+emother
+emoticons
+arbetsgivare
+empty Trash
+empty slots
+tomt
+emptying
+emreborn
+emrenewed
+emsnabbare
+emthunder
+emtvillingar
+emulate a
+emulera
+emulating a
+emulating
+emulation
+sv
+enUS en
+svSE
+enable brandShortName &apos
+enable others
+enable worker
+aktivera
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+aktiverad
+enables
+enbz
+innesluten
+koda
+encoded
+encoder
+kodningen
+encodings
+påträffade
+encrypt this
+kryptera
+encrypted you
+krypterat
+kryptering
+enctype instead
+enctype
+enctypeS
+enctypemultipart
+s experience
+änden
+ended
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+ändar
+enforced
+engage
+engine
+engines
+utseendet
+enjoy
+enlarging the
+förstora
+enough
+ensure
+ensures that
+ensures
+enter
+angavs
+entering
+enters
+entire
+entirely
+entities
+entity in
+entity reference
+entitet
+Posterna
+post
+enumerable
+enus
+environment Data
+miljö
+environments
+ephemeral DiffieHellman
+kortlivad
+equals sign
+equals
+ekvation
+equestAnimationFrame
+era of
+erase
+error console
+error creating
+error refiling
+fel
+errorCode
+errorfree
+fel
+erver
+es Salaam
+es
+esES
+esc
+konvertera
+escaped
+escaping
+upprätta
+established
+estimates only
+estimates
+osv
+eval
+evaluate selected
+evalueras
+evaluating a
+evaluating an
+Utvärderar
+evaluation
+even
+Event Handler
+händelsen
+eventThe
+events
+någonsin
+every dayevery
+every weekevery
+every
+everyone
+everything inbetween
+emellan
+överallt
+exact
+exactly
+examf
+examine your app &apos
+undersöka
+exempel
+examplecom rather
+examplecom
+examplenet
+exceed five
+exceed the
+exceed
+överskred
+exceeds
+except
+exception
+exceptions Cookies
+exceptions
+exchange
+excluded
+excluding
+uteslutande
+executable
+exekvera
+executed to
+exekveras
+Exekverar
+körning
+preventiva
+exist can &apos
+exist
+döljs
+exists
+existsWould
+avslut
+exited
+exits
+expand panes
+expandera
+expanded to
+utfälld
+expanding out
+expanding
+expands to
+expands
+expandstrict
+expect anonymous
+expect
+expectations
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+väntade
+expecting
+experience
+erfarna
+experiences
+utsatt
+experiment
+experimentell
+experiments
+förfaller
+förfallit
+expires Seconds
+expires
+expiry
+explicit
+uttryckligt
+explicitly
+exploit
+explore a
+utforska
+export regulations
+Exporterar
+exporteras
+expose
+exposedProps
+express
+mediafrågeuttryck
+expressions
+utöka
+extended
+extending the
+utökar
+extends system
+extends
+extensible
+extension extensions
+utökningen
+utökningar
+external Editors
+external storage
+externt
+extra Large
+extra requirements
+extra
+extract error
+Extraherar
+uppackningsfel
+extraction
+extreme
+f
+face
+facing camera
+facing
+factory
+fail
+misslyckade
+fails treat
+angivit
+XPathanalys
+fallback
+false
+familiar
+family addressbr
+typsnittsfamiljer
+far
+fast
+snabbare
+faves
+faxed
+feature
+features
+feb &#124
+feb
+february
+feed &quot
+feed Subscriptions
+flöde
+feedImported
+återkoppling
+feeds
+känsla
+feels great
+feels
+fell
+fence
+Använts
+fetch
+fetched from
+använt
+fetching individuals
+fetching more
+fetching
+par
+fewer
+ff &quot
+ff
+field Value
+fältet
+fields
+fifteen
+fifteenth
+fifth
+fig
+figur
+file &quot
+file Attach
+Filöverföring
+file vcf
+file }
+fil
+filename
+filerna
+filsystemet
+filing
+fill out
+Fyll
+fillStyle
+filled
+filling
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+filter
+filtered
+filtering
+filters
+final
+financial
+find In
+find exactly what you &apos
+find out what &apos
+finner
+findbar
+finding
+finetuned
+finish
+finished evaluating
+slutförde
+finishing
+fire
+firefox
+firefoxapps
+brandvägg
+firewalls
+first option
+first party
+första
+ändamålsenliga
+fem
+fixa
+fixed Width
+fixed width font
+fixed
+fixvideoaudioproblemsfirefoxwindows
+flagga
+flagged
+flame
+flash
+flashing
+flat equation
+flat
+flexibility and security so you &apos
+flexibilitet
+flexiblebr
+floating &quot
+floating
+floor
+floppy
+flr
+focus Variables
+focus
+fokus
+folder &apos
+folder &quot
+folder subscriptions
+folder
+mappar
+follow
+followed by
+followed
+followers
+following protocols S isn &apos
+following
+follows
+followup
+font Control
+font size
+font
+fontface rule
+fontface
+regeln
+fonts for
+typsnitt
+fontvariant property
+fontvariant
+footer text
+fot
+sidfot
+footinmouth face
+footinmouth
+for &apos
+for &quot
+for Clearing
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+for recipients &apos
+for signing
+for writing
+for
+förbjudet
+tvinga
+tvingades
+tvång
+forcing all
+tvingade
+främmande
+forgeries
+forgery
+glömt
+forgetting
+glömmas
+form Field
+Formulärpost
+formulärfält
+form userhost
+formulär
+format
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+formatSNy
+formaten
+formatted as
+formaterat
+formatting
+formdata on
+formdata
+utformat
+forms are
+formelement
+forth and
+åstad
+forums
+forward slashes
+framåt
+forwarded
+forwardmsg
+forwards
+hittad
+foundout of
+foundout
+founds
+four
+fourteen
+fourteenth
+fourth
+fox jumps over your expectations with
+fox jumps
+fox
+fps
+frFR
+bråk
+bråk
+Fragmentshader
+fragment
+frame &apos
+frame
+framed
+framerate
+ramarna
+frameset
+framesets
+framing
+bedrägeri
+falska
+free
+frequently
+fresh
+friday &#124
+friday
+fridays
+friend
+friends
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+från
+front facing
+framsidan
+frown face
+frown
+frozen
+ftp
+ftpmyispcom
+full
+fullfeatured
+full
+fullskärm
+fully
+function
+functional
+funktionalitet
+functions
+further
+future scans by
+framtida
+fxp Available
+fxp
+gain
+gallery
+garbage Collection
+garbage collection
+Skräp
+garbled text
+förvrängd
+gateway
+gathering
+gazed
+gb
+gdiplus
+kugghjulsikonen
+gear
+general Notification
+general
+generally
+generate a
+generera
+genererats
+generation
+generator
+generic Photo
+generiskt
+geoenabled preference
+geoenabled
+geolocation
+geometriska
+geometrivisibilitet
+geometry
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+get
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+getAttributeNode
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+getting
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+give
+visst
+gives you
+gives
+giving
+buggar
+glob
+global Composing
+global community
+globalt
+globals
+go Back
+vägen
+goes
+going online
+going
+gone
+good news
+goda
+goodwill
+gopher
+gorithm Identifier
+got it
+got
+governed by
+governed
+grace
+grant
+beviljat
+grants you
+grants
+grafik
+graphics
+great
+greater than
+större
+greeting
+grew more
+växte
+grid
+rutnätscell
+grepp
+gruppera
+grupperade
+grupper
+gt
+gtgt
+guarantee that
+garanterar
+guaranteed
+guess
+guessed
+guessing
+guest is
+Gäst
+guide you
+guide
+hjälplinjer
+h
+hTraduction
+ha
+hacking
+had its
+hade
+half an
+half past
+half
+handverktyg
+hand
+handle S
+handle
+handled
+handler command
+handler
+handles
+hanterar
+hands
+Exchangehandskakning
+handshakes
+Hängrapport
+hang stacks
+hängda
+hangs
+hände
+happens
+hard drive
+hard
+hardware H
+hardware acceleration
+maskinvara
+harm
+harmful
+has Attachments
+has bookmarked
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+har
+hashfunktioner
+hashes in
+hashes
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+have
+haven &apos
+haven
+haves
+having trouble
+having
+head
+huvud
+sidhuvud
+rubriker
+rubriknivå
+överskrift
+headings
+health
+heap
+höra
+height
+held
+hello extension
+TLS
+hjälpa
+helper
+hjälpsamma
+helping make
+helping
+helps ma
+helps
+her
+här
+dold
+hide Statistics
+hide Toolbars
+göm
+hiding
+Högnivå
+high
+higher level
+higher
+höggradig
+highlight
+markeras
+highlightedS nodes
+markeradS
+highlighter
+highlighters
+highly recommended
+användbar
+hightailcom
+him
+hints press
+hints
+his or her
+his
+history window
+history&apos
+historik
+hold
+holds
+home City
+home Country
+home Phone
+home directory don &apos
+home
+homepage
+hop limit
+hop
+horizontal lines
+horizontal
+horror
+värd
+hosted
+hosting service
+hosting
+hostname
+värdnamnport
+hostnames
+hostport
+hosts
+hotspots
+hour
+timmetimmar
+timmar
+hur
+however
+href
+hrink
+hrpd
+streck vågrät
+htm
+html &apos
+html
+htmlstrong
+htmlstrongkakorna
+htmlstronghistoriken
+htmlstrongflikar
+htmlstrongfönster
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http
+https//developermozillaorg/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad
+https
+färgton
+human
+bindestreck
+iOS
+ikonen
+icons
+id
+identifikation
+identifierare
+identifiera
+inaktiv
+ifall
+iframe
+ignorerades
+image
+bildgif
+bildjpeg
+bildpng
+bilder
+imgmap
+imgur
+imgurcom
+omedelbart
+utge
+implementerade
+underförstådda
+import
+important
+importerade
+Importerar
+importerat
+omöjligt
+oriktig
+bättre
+i
+oåtkomlig
+inaction
+otillräcklig
+tum
+tillfälliga
+inkl
+innefatta
+includeSubDomains
+included
+inkluderat
+inklusive
+inkommande
+inkompatibelt
+felaktig
+Incremental
+indentera
+indentering
+index
+indirekta
+indirekt
+individuella
+individer
+ined
+ineffektivt
+oändlig
+info
+informera
+metod
+inherit
+initial
+initiera
+initierad
+infogas
+injure
+inline
+inlineblock
+input
+osäkert
+inuti
+inspektera
+inspekterar
+kontrollerare
+installera
+installerade
+installerar
+instansen
+omedelbar
+istället
+heltal
+integrerad
+avsedda
+avsiktligt
+sprider
+intresserad
+användargränssnitt
+gränssnitt
+mellanliggande
+interna
+Otillräckliga
+ogiltiga
+utvecklad
+underhåll
+utsätts
+utfärdats
+utfärdarens
+programfix
+dess
+javascript
+Arbetsnamn
+delta
+förflyttad
+skräp
+kb
+fortsätt
+Nyckelkompromettering
+Nyckelchiffer
+Nyckelgenerering
+Nyckelanvändningar
+Nyckelanvändningen
+Tangentbordskommandon
+tangentbordet
+Nyckelbildrutor
+säkerhetskopierats
+nyckelordet
+vet
+kännedom
+känd
+etikett
+märkta
+bristen
+stort
+större
+strukturerna
+förra
+Sena
+senare
+motstridig
+layout
+läs
+lämna
+Vänsterpil
+vänster
+felkodade
+längden
+låta
+nivå
+vänster
+li
+liKontrollera
+liOm
+liKontakta
+liKlicka
+liSidan
+liDetta
+liFörsök
+liWebbadresser
+liDu kan
+skadeståndsskyldigheten
+Biblioteksversioner
+licensinformationen
+licensgivare
+ljus
+ljusstyrka
+liliKan
+liliKlicka
+liliTillåter
+liliFinns
+liliVissa
+liliemNOTERA
+gränsen
+begränsningar
+line
+rader
+länk
+länkar
+lista
+listad
+listen
+litteral
+länk
+load
+laddad
+laddar
+lokala
+språket
+lokalt
+lokalisera
+ställen
+pekarlås
+låst
+logg
+anrop
+login
+inloggningar
+logotyp
+logotyper
+loggning
+lång
+lång division
+längre
+långtrycka
+Leta
+letar
+loop
+scope
+glädjen
+Lågt
+Lågsorbiska
+lt
+ltlt
+ltr
+görs
+madruwb
+förstorar
+Huvudprocess
+allmänt
+huvudinnehåll
+vanskapt
+illasinnad
+malmware
+hantera
+obligatoriskt
+Manifestvisaren
+manifestet
+manifestjson
+manifestwebapp
+manipulera
+handbok
+manuellt
+map
+
+marginal
+mark the
+marked
+marking a
+marking
+märkspråk
+marquee
+maskering
+master
+matcha
+matched by
+matched
+matcheleatchMore than
+träffar
+matching
+matchutomatically
+material
+mattetabell
+matematik
+matrix
+max
+maxålder
+maximum Length
+maximum permissible
+maximalt
+may discontinue
+may update
+may
+maybe
+mb of
+mb
+mbox
+me out of here
+mig
+mean slower message
+mean
+means you &apos
+betyder
+measure a portion
+measure a
+mäta
+measurements
+measuring
+mechanism
+mechanisms
+media Sharing
+media
+medium
+meet
+familjemedlemar
+members
+membersonly
+memory map
+memory measurements
+minne
+mentioning
+menu Bar
+menu bar
+meny
+menuPath
+menus
+funktionella
+merge Warning
+merge all
+slås
+modell
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+message
+messageDone
+messageIndexing
+messageS
+messagebr
+messagebrIn
+messageeml
+messagegt
+messageid
+messages Reopen
+felmeddelanden
+messaging
+meta
+metadata
+metal posteriors
+metal
+metaviewporttagg
+metaviewport
+Kvalitetsmätare
+method &apos
+metoden
+methodGET
+methodPOST and
+methodPOST
+methodpost
+methods
+mikrofon
+microsummary
+middle Eastern
+middle
+might
+migrate to
+migrate your
+migrera
+migrated
+millimeter
+millisecondPing
+milliseconds
+mimetype of
+mimetype
+min
+mind
+minheight
+minimonth
+minimalt
+minjs
+minor
+mins
+minute minutes
+minut
+minuteEvery
+minutminuter
+minutes ago
+minutes …
+minuterna
+minwidth em
+minwidth
+misconfiguration
+felkonfigurerade
+misencoded
+obalans
+mismatched tag
+felmatchad
+missed reminders
+missed
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+saknat
+misspelled word
+misspelled words
+misspelled
+mistake
+mistakes
+felskriven
+mix
+blandat
+mmultiscripts
+mobila
+mode and can &apos
+mode
+modegt
+model
+modelview
+moderated
+moderator
+modern
+modes
+modified
+modifier
+modifiers
+modifiera
+module returned
+modulen
+modules
+moduli
+ögonblick
+momentarily
+moments
+monday
+mondays
+moneymouth face
+moneymouth
+övervaka
+månaden
+monthS of
+monthS
+monthevery
+monthly
+månader
+more bookmarks
+more powerful
+more savings
+fler
+moreand
+morex
+mer…
+most Visited
+most accurate
+most popular
+mesta
+mostrecently
+mouse Wheel
+musen
+move Down
+move Up
+move away
+move emswiftly
+flytta
+flyttbar
+moved renamed or deleted
+moved renamed
+flyttat
+movedS
+movemail
+moving
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescription
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+mozVisibilityState &apos
+mozVisibilityState
+mozcmdkatalog
+mozcmdfiler
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+checkout
+mozillacom/plugincheck
+mozillaorg netnz
+Mozillasv
+mozillaorg
+mozinlinebox display
+mozinlinebox
+mprescripts
+ms
+msf
+msgFilterRulesdat file
+msgFilterRulesdat
+much
+multiline
+multimedia
+multiple links &quot
+multiple
+multiplied And
+multiplied by
+förökade
+multiprocessläge
+multiweek
+musik
+must involve
+ändå
+my &quot
+my Cert
+my Projects
+my Quick
+my Task
+my Yahoo
+my windows
+mitt
+mypagehtml &quot
+mypagehtml
+myusername&apos
+n
+nWhen your
+nNär
+name &quot
+name
+nameSource
+named anchor
+named either
+named
+names
+namnrymd
+namespaces
+narrowing
+native code
+nativ
+natively
+navigate
+navigated
+navigerar
+Navigeringsfältet
+navigation
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+nära
+närliggande
+nearest
+necessary
+need
+nödvändig
+needing to
+needing
+needs
+negate
+negated
+negation
+negativ
+negotiate an inadequate
+fram
+negotiating a
+negotiating
+förhandling
+varken
+nested Table
+nästlad
+mot
+netnz /
+sunetse
+netscape
+netscapepublicmozillamailnews&apos
+Nätverksövervakning
+network Timeout
+network drive
+network section
+kränkning
+never Show
+aldrig
+new Caledonia
+new Separator
+new Tab
+new Zealand
+new home
+new word
+nya
+nyare
+news client
+nyheterna
+newsexamplenet
+newsgroup subscriptions
+newsgroup
+newsgroups
+newsrc File
+newsrc file
+newsrc
+next gt
+next
+nicer
+nick
+kortnamn
+nicknamegt Change
+nicknamegt
+nicknames
+nicks
+nightly
+nikto
+nine
+nineteen
+nineteenth
+ninth
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+nej
+noMac
+noWin
+nocors&apos
+nocors
+noden
+nodeShow all
+nodVisa
+nodeValue
+nodlås
+noder
+nominative
+non Participant
+non
+nonASCII
+nonFORTEZZA Certificate
+nonFORTEZZA
+nonGregoriancalendar
+nonResponse
+ickeUTFkodning
+nonUTF
+nonascii character
+nonascii
+noncesource
+noncharacter
+ingen
+nonempty
+nonfunction pseudoclass
+ickefunktions
+ickegenerisk
+nonincremental Cause
+Nonincremental
+nonleaf
+ickemultiprocess
+nonnavigation
+ickenegativ
+nonparticipant
+nonprintable character
+nonprintable
+nonprofit Mozilla Foundation
+organisationen
+nonspace in
+ickeblanktecken
+ickestandardiserade
+icketextbaserade
+nonvoid
+noon
+nor
+normally
+noscript
+nosniff
+nostore
+not After
+not Before
+not Connected
+not Critical
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+not Installed
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+omarkerad
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+not
+notation be unescaped
+notation be
+notation
+note Slow
+anteckning
+notes
+nothing
+notice
+noticed
+notification Permissions
+notification _
+notification
+Notifieringar
+notified
+notifier or
+notifier
+notify me
+notify
+notering
+nounclass
+nov &#124
+nov
+november
+now doesn &apos
+satts
+npmmailnews&apos
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+nsIWindowMediator
+nsIWritablePropertyBag
+nämn
+nummer
+numbered
+numbers negative
+numbers
+täljare
+numerisk
+nursery Collection
+nursery Eviction
+Avlägsning
+obj Properties
+obj
+Objektlager
+object
+object
+obscured
+uppmärksammande
+observers
+erhålla
+ske
+inträffat
+uppstått
+occurrence of
+förekomst
+förekomster
+occurs
+oct &#124
+oct
+october
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+of Man
+of Office
+of Operation
+of Sync
+of Validity
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+av
+ofbr
+off paint
+av
+offer
+offered
+offering
+offerings
+offers
+offerxA »
+offline
+offline_apps
+offsets
+oftast
+ok
+old
+older than
+older version of Sync
+äldre
+oldstyle YouTube
+oldstyle
+omitted
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+på
+När
+one Level
+one moreand
+one
+oneoff
+ones
+oneshot
+oneubuntucom
+ongoing
+uppkopplat
+only reloads
+only supports
+only transmitted
+bara
+syftenbr
+opacity in
+opacity
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opcode
+open Web
+open WebIDE
+vparentes
+öppnad
+vänsterparentes
+öppnande
+opensource
+operating system
+operating
+operation command
+operation failed
+Åtgärdens
+operations error
+operationer
+operator expected
+operator
+operators
+opportunity
+opposed
+Optimering
+optimeringar
+bortoptimerad
+optimized
+optin No
+optin
+option Group
+alternativ
+optional defaultS
+valfri
+eventuellt
+alternativen
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+sin
+or lost
+or setTimeout
+or&apos
+eller
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+ordning
+organization
+organisationer
+organizer
+origin
+originAttributes
+original
+originally
+originals
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+externa
+andras
+otherwise it
+otherwise
+our geolocation
+our partners
+våran
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+s
+följd
+avbrott
+outdated
+outgoing
+disposition
+kontur
+outlook
+outofdate
+output folder
+utdata
+utanför
+over other apps &apos
+över
+overhead
+overlay
+overridden
+override the viewer &apos
+åsidosätta
+overriding
+element över
+översikt
+overwrite
+overwritten
+own
+owned
+owner of
+owner
+ownerElement
+owners
+ownership
+p pIf
+p
+pA secure
+pEn
+pAdditional information
+pYtterligare
+pAttack pages
+pAngripande
+pDeceptive sites
+pVilseledande
+pEntering any
+pEntering
+pOm
+pThe browser
+pThe page
+pThe requested
+pDet
+pThese types
+pThese
+pÄven
+pOönskade
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pDu
+pYour
+package
+paketerade
+paket
+utfyllnad
+page &apos
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+page translation
+page }
+page
+pageCount
+pageload
+pages &apos
+sidorbr
+ve
+alls
+ritbelysning
+paint
+painted area
+ritat
+pair a
+para
+panel
+panel
+paneler
+panorering
+Pappersstorlek
+paper
+paragraph Marks
+paragraf
+parameter
+parameterentitet
+parametern
+parametrar
+paranoid
+Föräldramatchning
+parent Payload
+Föräldraprefix
+Förälders
+parse XML
+parse failure
+tolka
+Tolkat
+tolkningsstatus
+parser
+Utvärderingen
+part of
+part
+partial Update
+partial character
+partial
+delvis
+participant
+participants from
+participants
+participate
+particular purposes
+särskild
+parties
+partner You
+partner
+partners We
+partners work
+partners
+partnership
+parts
+party
+partÄr
+pass
+passed to
+skickade
+passive ’
+passive
+passwdtxt
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+password&apos
+lösenordet
+passwordLeave
+passwordStored
+passwordprotected
+passwords
+past
+klistring
+patch apply
+patch
+secure
+paths starting
+sökvägar
+S
+placeras
+pausa
+paused —
+pausat
+payload
+payment provider
+payment
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+peace
+peer &apos
+parten
+peers &apos
+peers
+pending dump
+pågår
+people &apos
+people wouldn &apos
+personers
+per
+procent
+procentuella andelen
+procentuella
+percnt Completed
+percnt
+perform caseinsensitive
+perform querySelectorAll
+utföra
+prestandan
+performed Trying
+utförde
+performgt
+performing
+periodically
+permanent exception
+ett permanent
+permanently deleted
+permanently
+permissible length
+permissible
+permission denied
+rättighet
+permissions
+permit
+permitted
+persistent logs
+konstant
+person &apos
+person who holds
+persons
+personal Card
+personlig
+personalhttp//wwwmozillaok
+personlighet
+phasang
+phasor
+pin
+ping
+pinuppsättningen
+Pixelförhållande
+bildpunkter
+placerar
+plan
+avspelning
+vänlig
+plugins
+insticksmoduler
+png
+podsändningen
+policy
+popup
+populära
+popupfönster
+porten
+delarna
+portar
+position
+positionering
+möjlig
+postmessage
+Potentiell XSSsårbarhet
+ppAtt uppge
+ppAtt
+ppVissa
+pprint
+pref
+inställnings
+preferonline
+prefix
+förbereder
+förhandsgranskningen
+preserved
+SxS
+förinställningar
+enter
+nedtryckt
+vnedsänkt
+vänster nedsänkt
+vupphöjt
+vänster upphöjt
+förhindra
+preventDefault
+hindrat
+förhindrar
+föregående
+pris
+förhandsgranskning
+skrivbara
+Skrivarebeskrivning
+Skrivaregenskaper
+skrivaren
+skrivare
+Integritetsinfo
+sekretessläge
+Sekretess
+privata
+privilegierade
+förmodligen
+problemet
+uppstår
+tillvägagångssätt
+processa
+processer
+behandling
+processor
+producera
+produkt
+produkter
+profilens
+inspelade
+profileraren
+profiler
+profileringen
+projekt
+promise
+egenskaper
+egenskap
+skydda
+skyddat
+skydden
+skyddar
+protokollförhandlingstillägg
+förmedla
+givits
+presenterat
+lagstiftning
+proxyer
+proxy
+pseudoklassen
+pseudoklasser
+pseudoelementet
+pspan
+publik
+publicera
+dra
+pulliKan
+pulliHar
+pulliÄr
+pulliKontakta
+straffrättsliga
+köpa
+syfte
+syften
+pushmeddelande
+px
+q
+qmozillaorg
+qstrongww
+qstrongwww
+kvalitén
+querySelectorAll
+köad
+kö
+Snabbsök
+Snabbt
+avslutats
+kvotinformation
+citat
+qwxyz
+rad
+rot
+alternativknapp
+radie
+betyg
+Rå
+nå
+nåbara
+Nådde
+når
+Läser
+läsbar
+QRkodläsning
+läsningar
+skrivskyddad
+realtids
+realtid
+skäl
+motta
+mottagit
+mottagarna
+igenkännbart
+rekommenderad
+återansluta
+inspelad
+inspelningen
+återskapa
+rektangel
+rekursion
+rekursiv
+Omdirigeringsslinga
+omdirigera
+referens
+refererar
+hänvisningar
+reflow
+avslagit
+nekat
+regexp
+region
+registrerat
+Registrerar
+existerar
+registret
+återskapad
+förkastade
+relaterade
+relativt
+Döljer
+releaseEvents
+relevanta
+omladdade
+ladda om
+laddar om
+återstår
+ihåg
+minnas
+Fjärrkandidat
+Fjärrkörmiljö
+fjärr SDP
+fjärr
+removeAttribute
+removeAttributeNode
+borttaget
+fått
+Renderingsläge
+visas
+renderats
+renderingsobservatörer
+omförhandling
+upprepa
+repeatautofill
+repeatautofit
+upprepningar
+ersätta
+Ersättningssträng
+ersättare
+svar
+Rapportinnehåll
+rapportera
+rapporterade
+reportonly
+rapporterar
+reporturi
+representerar
+Förfråganinnehåll
+begära
+requestAnimationFrame
+begärde
+förfrågningar
+kräva
+begärd
+nödvändig
+krav
+kräver
+åter
+sampla
+reserverat
+återställer
+resurs
+resurser
+anpassar
+respondWith
+svara
+Svarsinnehåll
+svar
+Återställ
+återställa
+begränsade
+resultera
+resultatSe
+resultat
+återuppta
+Behållen
+behållande
+återlämna
+återvände
+återanvända
+avslöja
+recension
+recensioner
+återkallat
+rgb
+höger
+rik
+Högerpil
+höger
+risk
+riskVarning
+riskabla
+rundad ruta
+root
+rot
+roten
+Rotera
+rotation
+rundad
+rad
+radoch
+rader
+rr
+rtl
+öppet
+fontfeaturevalues
+linjaler
+inkapslingsreglerna
+Runtimeinformation
+runtime
+s
+trygg
+samma
+sameorigin
+prov
+samplade
+prover
+sandbox
+mättnad
+spara
+sparad
+sparare
+sparande
+säger
+skalad
+scanna
+skanner
+Scanning
+genomsökningar
+schemat
+tillämpningsområdet
+kladdblocket
+Skärmläsare
+skärm
+skärmavbild
+Skripttagg
+skript
+skriven
+scriptsrc
+rullningslist
+rullning
+rullningsbunden
+sealed
+sökförslags
+sökförslag
+sök
+sökbart
+sökningar
+sek
+sekundTid
+sekund
+sekundsekunder
+secpr
+secret
+sektion
+säkrare
+säkert
+Säkerhetsmoduler
+säkerhetsbibliotek
+säkerhetsinställningar
+säkerhets
+seeing doctype
+seek
+söker
+seem
+tycks
+seen but
+seen
+select &quot
+select camera
+select
+selected line &apos
+vald
+valet
+Säkerhet
+selections above
+selections
+selectlabel
+selektor
+selectors separated
+selektorer
+selects
+självsignerat
+semicolon
+send Feedback
+send For
+send
+sender &apos
+sender message
+sender
+sending
+sends
+känsligt
+sensitivity
+sent Cookie
+sänt
+sep &#124
+sep
+separate tags
+separate
+separerade
+separately
+separating
+separator character
+avgränsare
+sept
+september
+sequentially as a waterfall
+sekventiellt
+serienummer
+serienummer
+serie
+series
+serif
+server &apos
+Serverkvot
+server SMTP&apos
+server incorrectly
+genomgår
+server that can &apos
+server
+servers Maybe
+servrar
+serves
+service providers
+service worker
+service
+services
+serving
+session ID
+session Id
+Sessionsstatistik
+session cache
+SSLsession
+sessions
+set Priority
+set browsercachediskenable
+set strokeStyle
+satta
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+setTimeout
+setUserData
+setVelocity
+uppsättningar
+setting
+settings &#124
+settings&apos
+settings
+setup options
+setup
+seven
+seventeen
+seventeenth
+seventh
+several ways
+flera
+shader Editor
+Shaderkompileringsstatus
+shader compile
+shader
+shadows variable
+skuggar
+shall control
+shall
+shape &quot
+shape
+dela
+shared Workers
+Delade
+sharedLongDesc
+shares
+delning
+sheet
+sheets
+shell
+skölden
+shiftKeylabel
+skift
+shiny metal posteriors which
+shiny
+shopping
+användargenererad
+genväg
+genvägar
+shorten this
+shorten
+shorter file
+kortare
+shortly
+shortname
+should keep
+should make
+should
+shouldn &apos
+shouldn
+show Cookies
+show resultShow
+show through
+dyka
+showall &apos
+showall
+showing repairing
+showing
+shown
+shownReplies
+shows
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+shutdown
+shutting down
+shutting
+sibiling
+side
+sidorad
+sidebarName
+sidopanel
+sign in
+signera
+signal
+signaturalgoritmer
+signatur
+signatureAlgorithm
+signatures
+signerade
+signer &apos
+signer
+signers found
+signers
+significant
+signeringscertifikatet
+signing
+signup
+output
+silently authenticates
+silently
+similar
+simple Measurements
+simple XLink
+enkel
+förenklade
+simply need
+simply
+simulation
+simulator installed
+simulatorn
+since
+enskilt
+singlesignon
+s
+site doesn &apos
+sajt
+sitename &apos
+sitename
+sitenat
+hemsidor
+six
+sixteen &#124
+sixteen
+sixteenth
+sixth
+size
+storlekar
+skip Integration
+skip this
+skip
+överhoppade
+skips
+slashoperatorer
+slash
+slashes ie
+framåtlutande
+slice
+skjutreglage
+slot
+slots
+slow Motion
+slow SQL
+slow down
+slow ×
+Långsamma
+tynga
+slowly
+liten
+smaller
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+smiley
+smooth scrolling
+mjuk
+smtpexamplenet
+ögonblicksbild
+ögonblicksbilder
+snews
+so it &apos
+so it can &apos
+so you &apos
+so
+soap
+socket
+programutvecklare
+mjukvara
+solid Border
+solid circle
+fylld
+solution
+solutions
+solve a
+solve
+some cool
+some printing
+some sample
+some unspecified
+some
+somebody &apos
+somebody
+someone isn &apos
+someone
+something
+ibland
+somewhere earlier
+somewhere
+snart
+sorry BrandShortName can &apos
+sorry we &apos
+Förlåt
+sort
+sound file
+sound
+sounds like
+sounds
+source software
+källa
+källor
+space Fantasy
+space between
+blanktecken
+spaces
+spam
+span class &apos
+span
+spanThis
+spanbrandShortName
+spaninaktiverad
+spanaktiverad
+omfattar
+spanspan
+speak now
+Prata
+speaking
+spec in
+spec
+special incidental
+special kinds
+speciellt
+specific command
+specifikt
+specifically
+specification
+specificerat
+specifies
+specify preferred
+specify
+specifying a
+specifying acceptcharsetutf
+specificera
+snabbhet
+speedOfSound
+spell checking
+spell
+spellchecker
+spelling
+spendera
+tillbringade
+rotationsknapp
+spin
+delad
+sponsras
+spool
+spionprogram
+roten
+kvadratroten
+square
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+stabilitets
+stabil
+Stackspårning
+stack
+stackar
+självständigt
+standard time
+standard toBlob
+standard
+standards mode
+standards
+star rating
+star
+starred
+start Debug
+start Simulator
+börja
+started finding
+startad
+starting with &apos
+starten
+startlabel
+startmozillaorg
+starts
+startup
+staten
+sats
+satserna
+statistics about
+statistics
+stats
+status &apos
+status bar
+status
+stay
+stjäla
+step Over
+stega
+stepped through
+stegas
+stegningar
+steps out
+Stegar
+fortfarande
+stulet
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+stop
+stoppad
+borttagning
+stops
+storage quotas
+lagring
+storages
+lagra
+Lagrat
+stores information
+butiker
+storing
+strömma
+strength
+strict protection
+strikt
+vågrät
+string literal
+sträng
+strings or
+strängar
+strokeStyle
+strong
+strongAppar
+strongEnhet
+strongThe Book of
+strongThe Book
+strongThe
+stronger Emphasis
+starkare
+strongexamplecom
+stronghttp
+strongly recommends
+strongly
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+structure
+structures
+studies
+study Findings
+study
+style Editor
+style Inspector
+style endexpand
+style sheet
+style
+styles
+stylesheet
+stylesheets
+stylesrc
+nedsänkt
+subdirectory
+subdocument
+subdomän
+subdomains
+subfolder
+subfolders
+underrutnät
+undergrupper
+subject Reminder
+subject
+submission to
+Inskickningen
+submit Query
+submit bugs
+submit information that &apos
+submit
+submits
+submitted
+submitting your
+skickandet
+subresource
+subscribe Calendars
+prenumerera
+subscribed
+subscribedImported
+subscribing
+nedsänkt
+subscription
+subscriptions
+undersessionsdata
+subsession
+ersatta
+subthread
+subthreads
+subtree
+succeed
+succeeded
+successful
+successfully Transmitted
+successfully
+sådana
+suddenly
+sufficient
+suggest
+suggested Contribution
+suggested Tags
+föreslås
+suggestion
+suggestions
+föreslår
+suit
+suitable
+chiffersviten
+suites are
+suites
+summa
+summary file
+sammanfattning
+summoned
+sunday
+sundays
+upphöjt
+superscriptpar
+upphöjd
+superseded by
+superseded
+sällskap
+supplied
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+stöd
+supported
+stöda
+supportmozillaorg
+supports
+sure
+surface area
+yta
+surprised face
+surprised
+surrogate
+surrounding environment
+surrounding
+survey is
+survey
+susceptible
+suspected
+suspicious
+sutomatically
+svSE
+svg
+switch to
+ändra
+ändrad
+switching
+symbol
+Gecko
+sync them
+synkroniseras
+syncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+synkroniserade
+synkroniseringen
+synchronize
+synkront
+synkningen
+synctitlepairlabel
+Syntaxmarkering
+syntax
+system Integration
+system beep
+system
+systemDate &apos
+systemDate
+systems this
+systems
+t believe
+t delete
+t
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+flik
+flikDela
+tabdelimited tab
+tabdelimited
+table &apos
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+tabellrader
+tabell
+surfplattor
+flikar
+tabtxt
+tagg
+tagged
+taggnamn
+taggar
+take up
+take
+taken
+tar
+taking too
+taking
+talk
+tampering
+tapping
+Målet
+targeted document
+targeted
+task
+taskThe
+aktivitetsfält
+tasks
+tastes
+tabell
+technical Details
+teknisk
+technique
+techniques
+technology
+telefon
+tell websites
+skilja
+tells
+mall
+mallar
+temporarily
+temporary outage
+temporary
+ten
+tename &apos
+tentatively
+tenth
+tenured objects
+ordinarie
+ter Lock API
+term &quot
+term
+terminate a
+terminate
+terminated by xslmessage
+terminated
+termination
+villkor
+testet
+testics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+textutrymme
+text field
+text
+textContent attribute
+textContent
+textonly
+texturekälltyp
+texture
+th
+than minimum
+än
+thank
+thanks for
+tack
+s because BrandShortName
+that can &apos
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+that
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+Grenadinerna
+HTMLMediaElement
+the Inspector &apos
+KRLen
+the Kerberos
+the LIST
+MediaStream
+the Mouse
+Online
+the Privacy
+the RETR
+riskerna
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+adressen
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+budgeten
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+konsolen
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+dimensioner
+the duration
+Mammons emtvillingar
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+hjälplinjerna
+the image &apos
+implementationen
+the latest
+gränsen
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+s
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+profileraren
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+sambanden
+the requested
+resurserna
+the rest
+säkerheten
+the screen
+the server &apos
+the shield
+the signer &apos
+Signeraren
+the spec
+the standard
+stilarna
+subresource
+Summan
+omgivande
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+visualiseringen
+the webapp manifest isn &apos
+Webbappens
+the wildcard
+the windowconsole
+ägarens
+theft
+their defaults
+deras
+dem
+temat
+themed
+themes
+then touching
+tabellen
+there &apos
+there
+därför
+these organizations
+dessa
+they &apos
+they expire
+they require query
+they
+things you
+things
+think I &apos
+tror
+thinkers
+tro
+thinks
+third Party
+third parties
+tredje
+tredjepartskakor
+tredjepartsprogram
+thirdparty
+thirteen &#124
+thirteen
+thirteenth
+thirtieth
+thirty &#124
+thirty first
+thirty one
+thirty
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+detta
+thisIf
+thisa
+those
+fast
+tänkt
+thousands
+thread &quot
+thread Hangs
+thread killed
+thread watched
+compositor
+threads
+three
+skickade
+through inaction
+through
+thunderbird
+thursday &#124
+thursday
+thursdays
+ticket was
+ticket
+ties
+til &#124
+til
+tile replacing
+tile
+tiles
+till
+Tidsstämpling
+time These
+time Zone
+kommunikation
+time secondTime
+time sender
+time }
+helst
+timeOccurs
+timed Out
+tidsgräns
+timedout
+tidslinje
+timelines
+löpte
+Timernamn
+timer started
+timer
+timers in
+timers
+gånger
+tidsbesparande
+timestamp
+tidsstämplar
+timezone &quot
+timezone
+timezonepersonalg
+timezoner message doesn &apos
+Namnfältet
+title
+till
+växla
+växlat
+symboliskt
+passade
+verktygsfält
+verktygslådan
+verktygstips
+överst
+totala
+touchsimulering
+petar
+spårningar
+spårar
+spårad
+spårare
+spårningselement
+spår
+varumärken
+transform
+transformationer
+transformstyle
+översätta
+översatt
+Översätter
+betrakta
+trädet
+lura
+utlöste
+Felsökningsinformation
+troubleshooting
+true
+betror
+tillförlitligt
+försöka
+två
+txtarea
+type
+innebär
+typografiska
+typografiska
+u
+uAvsluta
+ulliDen
+ul
+ulliDet
+Förhindrad
+oacceptabla
+obehörig
+otillgänglig
+Obalanserad klammerparentes
+obalanserat
+avblockerad
+omarkerad
+oavslutad
+ovanlig
+okomprimerad
+odefinierad
+under
+underliggande
+element under
+förstår
+okrypterad
+skall
+oväntade
+ej initierad
+avinstallera
+avinstalleras
+avinstallationsprogram
+oavsiktligt
+unikt
+okänt
+osannolikt
+obegränsat
+upplåst
+onödiga
+unprefixed
+ociterat
+oigenkännlig
+ohjälpligt
+avregistrera
+olösta
+osparade
+ej vald
+ospecificerade
+ostabil
+kombination
+teknik
+Hashalgoritmen
+tills
+opålitlig
+oanvänd
+overifierat
+Oönskade
+packa
+pil
+Uppdateringskanal
+Uppdateringens
+uppdaterat
+uppdateringar
+pil snett uppåt
+streck snett uppåt
+uppgradera
+Uppgraderar
+uppladdningsströmmen
+Uppladdad
+aktuella
+url
+urlprefix
+oss
+användningen
+vana
+Användbara
+Användardefinierad
+Användarnamnområden
+användarens
+userjsinställningar
+användarrelaterad
+tillämpningar
+valts
+utomatically
+v
+giltig
+validerades
+valideringskontroller
+value
+värdena
+variabelbindning
+variabel
+variabler
+flertal
+diverse
+LeverantörsID
+vendorShortName
+verifierat
+verifiera
+verifierar
+version
+versioner
+vertikala
+väldigt
+sker
+vibrera
+videokodekar
+videopodsändningar
+videokvaliteten
+video
+videos
+inkräkta
+bryter
+nätverksprotokollet
+överträdelser
+visibilityState
+synligt
+visit
+besökt
+besökare
+besök
+visuella
+visualisering
+förbättrat
+röstdiktering
+streck lodrät
+sårbara
+waitUntil
+varningen
+varningar
+garantier
+garanti
+fästes
+införd
+förväntades
+vattenfall
+nätverksförfrågan
+sätt
+We
+svag
+svagheter
+väderrapportör
+webbkanaler
+föredrar
+webbsidans
+supportwebbplats
+vecka
+Welcome Humans
+välkommen
+välformat
+s
+hjulinmatning
+när
+Vart
+uttryckliga
+utskriftsjobbet
+varför
+jokerkällor
+kommer
+willchange
+win
+window
+windowconsole
+windowcontrollers
+fönsterbaserad
+windowopen
+kasseras
+windowshowModalDialog
+with
+inom
+utan
+guide
+ord
+fungera
+worker
+workers
+världen
+wouldn
+omslutna
+bindning
+wrappers
+writable
+skrivning
+fel
+wwwexamplecom
+wwwopenhorg
+xNNtecken
+xhrspecwhatwgorg
+xjavascript
+xml
+xmlns
+xpi
+xslmessage
+xuserdefined
+xwestern
+xyxy
+ja
+ännu
+you
+nyaste
+överraska
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+säkerhetskäl
+yourself
+yousenditcom
+zero
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+zooma
+zooma

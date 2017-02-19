@@ -1,0 +1,9012 @@
+ rights …
+/Galapagos
+A ServiceWorker
+NÍ
+AB _
+AB
+ACL
+ADB
+BREISEÁIN
+AEC Logging
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AGUS
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ASN
+ATT Mail
+ATT
+AUS
+AVA
+AaÁa
+Aaiun
+Ababa
+Abandon unsaved changes
+Abbreviate
+Giorrúchán
+Abcáisis
+Tobscoir
+Tobscortha
+About Your
+Maidir Leis
+Thuas
+Accelerated
+Accent Lowercase
+Accent Uppercase
+hAiceann
+Glac Leis
+Acceptance
+Glactha
+Access
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+AccessControlAllowMethods
+AccessControlAllowOrigin
+Inrochtaineacht
+Account &quot
+Account Settings &#124
+Cuntas
+Accountquot
+Cuntais
+Accountspecific
+Account…
+Acrainm
+Gníomh
+Sa
+Gníomhachtaigh
+Gníomhachtaithe
+Activations Directory
+Sóisialta
+Gníomhach
+Actively block
+Gníomhaíocht
+Actual Size
+Adak
+Adapter
+Adapters
+Adb
+Cuir Leis
+Scagaire Nua
+Cruthaithe
+Addis Ababa
+Addis
+Additional Tools
+Additional
+Bhreiseán
+Addons Installed
+Breiseáin
+Addr
+Address Book
+Address Books
+Seoladh
+AddressBook
+Addressbook
+Seoltaí
+Seoladh
+Adds
+Cuir Leis…
+Athraigh
+Administer
+Administrative Assistant
+Administrative limit
+Administrative
+Administrator
+Adobe Flash
+Adobe
+Advance
+Advanced Property Editor
+Ardeolas
+Ardroghanna
+Casta
+Ardroghanna…
+Casta…
+Afárais
+Affects multiple
+Affects
+Affiliation Changed
+Affiliation
+An Afganastáin
+An Afraic/Abidjan
+An Afraic/Accra
+An Afraic/Cathair na hAilgéire
+An Afraic/Asmara
+An Afraic/Bamako
+An Afraic/Bangui
+An Afraic/Banjul
+An Afraic/Bissau
+An Afraic/Blantyre
+An Afraic/Brazzaville
+An Afraic/Bujumbura
+An Afraic/Caireo
+An Afraic/Casablanca
+An Afraic/Ceuta
+An Afraic/Conakry
+An Afraic/Dacár
+An Afraic/Djibouti
+An Afraic/Douala
+An Afraic/Freetown
+An Afraic/Gaborone
+An Afraic/Harare
+An Afraic/Johannesburg
+An Afraic/Juba
+An Afraic/Kampala
+An Afraic/Cartúm
+An Afraic/Kigali
+An Afraic/Cinseasa
+An Afraic/Lagos
+An Afraic/Libreville
+An Afraic/Lome
+An Afraic/Luánda
+An Afraic/Lubumbashi
+An Afraic/Lusaka
+An Afraic/Malabo
+An Afraic/Maputo
+An Afraic/Maseru
+An Afraic/Mbabane
+An Afraic/Mogaidisiú
+An Afraic/Monrovia
+An Afraic/Nairobi
+An Afraic/Ndjamena
+An Afraic/Niamey
+An Afraic/Nouakchott
+An Afraic/Ouagadougou
+An Afraic/PortoNovo
+An Afraic/Tripilí
+An Afraic/Túinis
+An Afraic/Windhoek
+Afraic
+African Republic
+hAfraice
+Afracáinis
+Tar éis
+Again &quot
+Iarracht
+Aois
+Gníomhaire
+Comhiomlán
+Ago
+Agree
+Comhaontas
+Aires
+Acáinis
+Akrotiri
+Alarm
+An Albáin
+Albáinis
+Alert dialog
+Alert record
+Airdeall
+An Ailgéir
+Algorithm Parameters
+Algorithm
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+Ailias
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Ailínigh
+Ailíniú
+Uile
+Allman
+Allocated
+Allocation Trigger
+Allocation
+Leithdháilte
+Allow First
+Allow autoplay
+Ceadaigh
+Tá
+Allowed
+Fós
+Allows
+Ceadaigh…
+Almost done
+Almost
+Alpha
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Although
+I gCónaí
+Meiriceá/Adak
+Meiriceá/Anchorage
+Meiriceá/Anguilla
+Meiriceá/Antigua
+Meiriceá/Araguaina
+Meiriceá/An Airgintín/Catamarca
+Meiriceá/An Airgintín/Cordoba
+Meiriceá/An Airgintín/Jujuy
+Meiriceá/An Airgintín/Mendoza
+Meiriceá/An Airgintín/Salta
+Meiriceá/An Airgintín/Tucuman
+Meiriceá/An Airgintín/Ushuaia
+Meiriceá/Aruba
+Meiriceá/Asunción
+Meiriceá/Atikokan
+Meiriceá/Bahia
+Meiriceá/Barbadós
+Meiriceá/Belem
+Meiriceá/An Bheilís
+Meiriceá/BlancSablon
+Meiriceá/Bogotá
+Meiriceá/Boise
+Meiriceá/Cancún
+Meiriceá/Caracas
+Meiriceá/Cayenne
+Meiriceá/Oileáin na gCadhman
+Meiriceá/Chicago
+Meiriceá/Chihuahua
+Meiriceá/Creston
+Meiriceá/Cuiaba
+Meiriceá/Curaçao
+Meiriceá/Danmarkshavn
+Meiriceá/Dawson
+Meiriceá/Denver
+Meiriceá/Detroit
+Meiriceá/Doiminice
+Meiriceá/Edmonton
+Meiriceá/Eirunepe
+Meiriceá/Fortaleza
+Meiriceá/Godthab
+Meiriceá/Grenada
+Meiriceá/Guadalúip
+Meiriceá/Guatamala
+Meiriceá/Guayaquil
+Meiriceá/An Ghuáin
+Meiriceá/Halifax
+Meiriceá/Havána
+Meiriceá/Hermosillo
+Meiriceá/Indiana/Indianapolis
+Meiriceá/Indiana/Knox
+Meiriceá/Indiana/Marengo
+Meiriceá/Indiana/Petersburg
+Meiriceá/Indiana/Vevay
+Meiriceá/Indiana/Vincennes
+Meiriceá/Indiana/Winamac
+Meiriceá/Inuvik
+Meiriceá/Iqaluit
+Meiriceá/An Iamáice
+Meiriceá/Juneau
+Meiriceá/Kentucky/Louisville
+Meiriceá/Kentucky/Monticello
+Meiriceá/Kralendijk
+Meiriceá/Líoma
+Meiriceá/Maceio
+Meiriceá/Managua
+Meiriceá/Manaus
+Meiriceá/Marigot
+Meiriceá/Martainíc
+Meiriceá/Matamoros
+Meiriceá/Mazatlan
+Meiriceá/Menominee
+Meiriceá/Merida
+Meiriceá/Metlakatla
+Meiriceá/Micilín
+Meiriceá/Moncton
+Meiriceá/Monterrey
+Meiriceá/Montevideo
+Meiriceá/Montréal
+Meiriceá/Montsarat
+Meiriceá/Nassau
+Meiriceá/Nipigon
+Meiriceá/Nome
+Meiriceá/Noronha
+Meiriceá/Ojinaga
+Meiriceá/Panama
+Meiriceá/Pangnirtung
+Meiriceá/Paramaribo
+Meiriceá/Phoenix
+Meiriceá/PortauPrince
+Meiriceá/Recife
+Meiriceá/Regina
+Meiriceá/Resolute
+Meiriceá/Santarem
+Meiriceá/Saintiagó
+Meiriceá/Scoresbysund
+Meiriceá/Shiprock
+Meiriceá/Sitka
+Meiriceá/Tegucigalpa
+Meiriceá/Thule
+Meiriceá/Tijuana
+Meiriceá/Toronto
+Meiriceá/Tortola
+Meiriceá/Vancouver
+Meiriceá/Whitehorse
+Meiriceá/Winnipeg
+Meiriceá/Yakutat
+Meiriceá/Yellowknife
+Meiriceá
+American Samoa
+Samó
+Amáiris
+An
+Analysis …
+Fheidhmíocht
+Déan Anailís
+Ancaire
+Anchorage
+Ancairí
+gCarachtar
+Andóra
+Android tablets
+Android&apos
+Android
+Android™
+Angeles
+Angóla
+Anguilla
+Animate app
+Beoigh
+Beochan
+Beochan
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+LaeBreithláGnóGlaonnaCliaintIomaitheoiríCustaiméirCeanáinLe
+Anótáil
+Announces
+Annoyances
+Another
+Answer
+Answers
+Antarctic Lands
+Antartacha
+An tAntartach/Casey
+An tAntartach/Davis
+An tAntartach/Dumont DUrville
+An tAntartach/Macquarie
+An tAntartach/Mawson
+An tAntartach/McMurdo
+An tAntartach/Palmer
+An tAntartach/Rothera
+An tAntartach/Syowa
+An Antartaice/Troll
+An tAntartach/Vostok
+An Antartaice
+AntiVirus
+Antigua and Barbuda
+Antigua
+Antilles
+FrithVíreas
+Any
+AnyText
+Anywhere
+App can &apos
+Aip
+AppCache
+AppCacheUtils
+Feidhmchláir
+AppName Uninstall
+AppName
+Appcache validated
+Appcache
+Cuma
+Appendices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+Feidhmchlár
+Feidhmchláir
+Cuir i bhFeidhm
+Applying update
+Applying
+Coinne/Coinní
+CeadaitheAg
+Feidhmchláir
+Aib
+Aibreán
+nÉimíríochtaí
+Araib
+Arabic MacArabic
+Arabic Windows
+Arabach
+Araibis
+Aragóinis
+Cuir sa Chartlann
+Cuir sa chartlann
+Archived
+Cartlanna
+Cartlannú
+Arctic/Longyearbyen
+Are
+Limistéir
+An Airgintín
+Arial
+An Airméin
+Airméanach
+Airméinis
+Saighead
+Ailt
+Artist
+Aruba
+As Laid Out
+As Quotation
+Mar
+Ag dul suas
+Ascension and
+Deascabhála
+Ashmore
+An Áise/Áidin
+An Áise/Almaty
+An Áise/Amman
+An Áise/Anadyr
+An Áise/Aqtau
+An Áise/Aqtobe
+An Áise/Ashgabat
+An Áise/Bagdad
+An Áise/Bairéin
+An Áise/Baku
+An Áise/Bancác
+An Áise/Barnaul
+An Áise/Béiriút
+An Áise/Bishkek
+An Áise/Brúiné
+An Áise/Chita
+An Áise/Choibalsan
+An Áise/Chongqing
+An Áise/Colombo
+An Áise/An Damaisc
+An Áise/Dhaka
+An Áise/Dili
+An Áise/Dubai
+An Áise/Dushanbe
+An Áise/Gaza
+An Áise/Harbin
+An Áise/Hebron
+An Áise/Hovd
+An Áise/Irkutsk
+Áise/Iostanbúl
+An Áise/Iacárta
+An Áise/Jayapura
+An Áise/Iarúsailéim
+An Áise/Cabúl
+An Áise/Kamchatka
+An Áise/Karachi
+An Áise/Kashgar
+An Áise/Kathmandu
+An Áise/Khandyga
+An Áise/Kolkata
+An Áise/Krasnoyarsk
+An Áise/Kuching
+An Áise/Cuáit
+An Áise/Macao
+An Áise/Magadan
+An Áise/Makassar
+An Áise/Mainile
+An Áise/Muscat
+An Áise/Nicosia
+An Áise/Novokuznetsk
+An Áise/Novosibirsk
+An Áise/Omsk
+An Áise/Oral
+An Áise/Pontianak
+An Áise/Pyongyang
+An Áise/Catar
+An Áise/Qyzylorda
+An Áise/Rangún
+An Áise/Riyadh
+An Áise/Sakhalin
+An Áise/Samarkand
+An Áise/Seoul
+An Áise/Shanghai
+An Áise/Singeapór
+An Áise//Srednekolymsk
+An Áise/Taipei
+An Áise/Taiscint
+An Áise/Tbilisi
+An Áise/Tehran
+An Áise/Thimphu
+An Áise/Tóiceo
+An Áise/Ulaanbaatar
+An Áise/Urumqi
+An Áise/UstNera
+An Áise/Vientiane
+An Áise/Vladivostok
+An Áise/Iacútsc
+An Áise/Yekaterinburg
+An Áise/Yerevan
+Áise
+hÁise
+Díom
+Asks how
+Asks
+Asaimis
+Assembling mail
+Assembling messageDone
+cóimeáil
+Assistant
+Associated
+Assurance
+Astúiris
+Asionc
+Asynchronous Pan
+Asynchronous
+An tAtlantach/Na hAsóir
+An tAtlantach/Beirmiúda
+An tAtlantach/Oileáin Chanáracha
+An tAtlantach/Oileáin Fharó
+An tAtlantach/Maidéara
+An tAtlantach/Réicivíc
+An tAtlantach/Stanley
+tAtlantach
+Palmyra
+Atom
+Ceangail
+Iatán
+Attached
+Iatán
+IatánBain
+Iatáin
+Attack Site
+Ionsaithe
+Attempt to
+Attempt
+Iarrachtaí
+Tinreamh
+Attendee
+Rannpháirtithe
+Attention
+Aitreabúid
+Aitreabúidí
+Attribution
+Auckland
+Fuaim
+athshampláil
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+AudioNode
+AudioParam does
+AudioParam
+AudioParams
+Lún
+Lúnasa
+Aurora
+An Astráil/Adelaide
+An Astráil/Brisbane
+An Astráil/Currie
+An Astráil/Darwin
+An Astráil/Eucla
+An Astráil/Hobart
+An Astráil/Lindeman
+An Astráil/Melbourne
+An Astráil/Perth
+An Astráil/Sydney
+An Astráil
+An Ostair
+Authenticated
+Á Fhíordheimhniú
+Authentication method &apos
+Fíordheimhniú
+Údar
+Authored
+Údaráis
+Authority unnamed
+Authority
+Údaraigh
+Authors
+Auto Increment
+Auto Update
+Uathoibríoch
+AutoA
+AutoConfig Alert
+uathchumraíochta
+UathBhrathadóireacht
+Uathoibríoch
+cainéil Uathoibríocha
+AutoJoined
+Uathlíonadh
+Braith go hUathoibríoch
+Braith go huathoibríoch
+Uatheangú
+Uathoibríoch
+hUathoibríoch
+Uathoibriú
+Autosync
+Ar Fáil
+Avairis
+Aivéistis
+Meánam
+Meánráta
+Aware
+Amuigh
+Aidhmiris
+An Asarbaiseáin
+Asarbaiseáinis
+B
+Bcc
+BEolas
+COISCTHE
+BPB
+BSÍNITHE
+Siar
+Cúlra
+Firefoxbmp
+Backspace
+Chúltaca
+Cúltaca…
+Go Dona
+Bahámaí Na
+Bahámaí
+Bahia
+An Bhairéin
+Baker
+Baltach
+Bambáiris
+Banderas
+An Bhanglaidéis
+Bruach
+Baincéireacht
+Barbadós
+Barbúda
+Barthélemy
+bunaidh
+Bonnlíne
+Baiscíris
+Bhunúsacha
+Buntús
+Bascais
+Bassas
+Cadhnra
+Bay
+Bcc
+Be
+Becky
+Roimh
+An Bhílearúis
+Bealarúisis
+An Bheilg
+An Bheilís
+Thíos
+Beangáilis
+Beangálach
+Beinin
+Beirmiúda
+Beulah
+An Bhútáin
+Big
+BigHKSCS
+Níos Mó
+Bihairis
+BiquadFilterNode
+Bhreithe
+Lá Breithe
+Bioslamais
+Giotán
+Coicísiúil
+Coisc
+Coiscthe
+blocála
+Blaganna
+Boa
+Corp
+Bokmål
+Trom
+An Bholaiv
+Bonaire
+Seoltaí
+Leabharmharc
+LeabharmharcBain
+Leabharmharcanna
+Boole
+Imlíne
+Teorainn
+Boisnia
+Boisnis
+Róbat
+An Bhotsuáin
+Ag bun
+Bun
+Bouvet
+Craobh
+Branco
+BrandFullName
+BrandFullNameDA
+BrandShortName
+An Bhrasaíl
+Brazzaville
+Grabhróga
+Brisphointe
+Briotáinis
+Bhriotanacha
+Broken
+Brabhsáil
+Brabhsálaí
+Brabhsáil…
+Brabhsáil
+Brúiné
+Boilgearnach
+dromchla
+Buenos
+An Bhulgáir
+Bulgáiris
+toirte
+Urchar
+Le hUrchair
+Urchair
+Cuachta
+Buircíne
+Burma
+Burmais
+An Bhurúin
+Gnóthach
+Cnaipe
+Cnaipí
+Ag
+Bearta
+C
+údaráis
+CACHE
+idirmheánacha
+Cc
+CCBY
+CCBYSA
+CD
+CDSA
+LEA
+CKR
+CLICK
+CMS
+CN
+COLNAME
+CORS
+CP
+Pointí
+LTC
+CSS
+CTCP
+SF
+CYPHER
+Taisce
+Caicos
+CalDAV
+Féilire
+Féilire…
+California
+Glaoigh
+An Chambóid
+Cambridge
+Ceamara
+Camarún
+Campo
+Ceanada
+Siollóir
+Canary
+Cealaigh
+Cealaithe
+chealaítear
+Á Chealú…
+Iarrthóir
+Canbhás
+Rinn
+Foscríbhinn
+Gabháil
+Carbon
+Cárta
+Cartier
+Catalóinis
+Catagóirí
+Catagóir
+Cúis
+Cayman
+Cc
+Cill
+Cealla
+Cill/Cealla
+Ceilteach
+Lár
+Láraithe
+Lárphointe
+LárEorpach
+Theastas
+Teastas
+Teastais
+Deimhnithe
+Sead
+Cathaoirleach
+Seamóróis
+CharServ
+Athraigh
+Athruithe
+Athraigh…
+Cainéal
+Carachtar
+Bhladhmchairt
+Comhrá
+Seisnis
+Ticeáil
+Chi
+Siséivis
+mhacnód
+An tSile
+An tSín
+Síneach
+Sínis
+Roghnaigh…
+Nollag
+Chrome
+Chromecast
+Chromium
+Slaivis
+Suvaisis
+Cisco
+Lua
+Cathair
+Aicme
+Clasaiceach
+Aicmiú
+Bánaigh
+Glan
+Á Ghlanadh
+Bánaíonn
+Cliceáil
+Mhalartú
+gCliant
+Gearrthaisce
+Clipperton
+deiseal
+Dún
+Dúnta
+Cmd
+CmdOrCtrl
+CmdOrCtrlF
+CmdOrCtrlPlus
+CmdOrCtrlR
+CmdOrCtrlShiftD
+CmdOrCtrlShiftO
+CmdOrCtrlShiftR
+CmdOrCtrlShiftU
+CmdOrCtrlW
+Cód
+caoinchead
+Colún
+Laghdaigh
+Leacaithe
+An Cholóim
+Dath
+Dathanna
+Dathanna…
+Colún
+Colúin
+Camóg
+Nóta
+Tráchtála
+Oileáin Chomóra
+Dlúthaigh
+Comparáid
+Chomhoiriúnacha
+Críochnaithe
+Críochnaithe
+Roghnacha
+Cumadóir
+Cumadóireacht
+Sraitheanna Ilchodacha
+Ilchodach
+Cumasc
+Cumadh
+amhras
+Ríomhairithe
+Ríomhaire
+ríomh
+dírigh
+Críoch
+Coinníollach
+Faoi Rún
+Rúndacht
+Cumraigh…
+Dearbhaigh
+Cinntithe
+Deimhnithe
+Congó
+Comhghairdeas
+Ceangail
+Ceangailte
+Ceangal
+Ag ceangal…
+Ceangal
+Ceangail…
+Consól
+Cuir Iallach Air
+Teagmháil
+Teagmhálaí
+Teagmhálaithe
+Coimeádán
+Coimeádáin
+Coinneála
+Ábhar
+ContentSecurityPolicy le
+ContentSecurityPolicyReportOnly
+ContentType
+Ábhar
+Ar Aghaidh
+Lean ar aghaidh
+Tabharfar
+Ardchodarsnachta
+Glac Páirt
+Cuiditheoirí
+Ctrl
+Rialtáin
+gComhrá
+Comhráite
+dtiontú
+Cook
+Fianán
+Fianáin
+Snasta
+Cóip
+Cóipeáil
+Coirnis
+Comhfhreagraithe
+ndíchomhbhrú
+Corsaicis
+Costas
+Cósta
+Líon
+tuathal
+Tír
+Courier
+Cuimsiú
+Tuairisceoir
+Cruthaigh
+Cruthaitheoir
+Aistreofar
+Admhálacha
+Craíais
+Creek
+Criticiúil
+An Chróit
+Cróitis
+Gol
+Ctrl
+CtrlL
+CtrlShiftL
+Cúba
+CuforceGC
+Cunha
+Curaçao
+Cúrsóir
+Cuair
+Saincheapadh
+Saincheaptha
+Sainshuiteáil
+CustomEvent
+Customization
+Saincheap
+Saincheap…
+an Saincheapadh
+Saincheaptha…
+Saincheap…
+Gearr
+Ciogal
+An Chipir
+Coireallach
+Seicis
+DB
+DC
+Díchódóir
+DECDSA
+DEVICE
+DISPLAYNAME
+DLL
+DN
+DNS
+DOCTYPE
+DOM
+DOMParser
+DOMWindow
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+DRM
+DTLS
+DVemer
+Laethúil
+Dakota
+Comhcheanglóir
+Danmhairgis
+Dorcha
+Sonraí
+Dáta/Am
+Dáta
+Dawson
+Lá
+DayCrash Reports
+DayCrash
+Lá
+Debug Mode
+Dífhabhtaigh
+DebugALIGNCENTERerver
+Dífhabhtóir
+Debugging
+Nol
+Nollaig
+Decide
+Fógra
+Diúltaigh
+Diúltaithe
+Díchódóir
+Decoding error
+CruaEarraí
+Clómhéid Níos Lú
+Decrypted
+Decryption
+Deer
+Réamhshocrú
+Defaults
+Defer Account
+athlá
+Define
+Defined
+Sainmhíniú
+Definitions
+Del
+Moill
+Delete Message
+Scrios
+Deleted
+Scrios…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Scriosadh
+Teormharcáilte
+Delivery Format
+Delivery Status Notification
+Seachadta
+An Danmhairg
+Denver
+Diúltaigh
+Roinn
+Ag dul síos
+Describe Problem
+Describe
+Cur Síos
+Díshrathaigh
+Design Mode
+Design View
+Design
+Desktop Backgroundbmp
+Desktop Open &quot
+Deasc
+Destination Folder
+Destination
+Destroy
+Detach
+Díscoir…
+Detail
+Details of
+Mionsonraí
+Sonraí
+Mionsonraí…
+Detect indentation
+Braith
+Determining which
+Determining
+DevTools
+Déiveanágrach
+Developed
+Developer Edition
+Developer Tools
+Forbróir
+Forbróirí
+Development
+Device &quot
+Gléas
+RoghnaitheComhroinn
+Gléasanna
+Devicex
+Dhekelia
+Diagnóisic
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+Foclóirí
+Foclóir
+Did
+Diego
+Different
+DiffieHellman key
+DiffieHellman
+Digest function
+Digest was
+Digest
+Digg Reader
+Digg
+Digital
+Toisí
+Direct
+DirectD
+DirectWrite
+Treo
+Directive
+Eolairí
+Directory &apos
+Directory Servers
+Comhadlann
+Disability access
+Disability
+Díchumasaigh
+Díchumasaithe
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Paicéid
+Disconnect from
+Dícheangail
+Dícheangailellipsis
+Á Dhícheangal…
+Disconnectme strict
+Bunchosaint
+Dícheangail…
+Discontinue Link
+Discontinue
+Discover
+Discussions
+Spás
+Díbir
+Ruaig
+Display a
+Ainm Taispeána
+Taispeáin
+Taispeáint
+Displays the
+Displays
+Distinguished
+Distribution Points
+Dáileadh
+Distrust
+Divéihis
+Djibouti
+Déanamh
+Dock
+cáipéisíocht
+Document Outline
+Cáipéis
+Cáipéisí
+Doe
+Doing
+Domain GUID
+Fearann
+Domains
+Domestic
+Mursaire
+Mursairí
+Domingo
+Dominice
+Dhoiminiceach
+Don &apos
+Don
+Críochnaithe
+Déanta
+Double click
+Double
+Doublecheck
+Doubleclick
+Síos
+Download Link
+Íosluchtaigh
+DownloadRestart
+Íosluchtaithe
+Íosluchtú
+Á Íosluchtú…
+Íosluchtuithe
+Íosluchtú
+Draft Message
+Dréacht
+Dréachtaí
+Tarraing
+Draw draws
+Draw repainted
+Deartha
+Driver Verification
+Thiománaí
+Tiománaithe
+Drives
+Drop a
+Drop
+Dropping a
+Dropping
+DuckDuckGo
+Sprioc
+Spriocdháta
+Dump
+Duplicate name
+Duplicate
+Duraterver
+Aga
+Ollainnis
+Seoinicis
+ECDSA Signature
+ECDSA
+EDI Party Name
+EDI Party
+EDI
+EHLO
+EMail Certificates
+RPhost
+Ríomhphost
+ERROR
+EARRÁIDÍ
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+EXTRACTION_FAILED
+Each
+Eager
+Earlier
+East Asian
+East European
+Oirthear
+Eastern
+Eacuadór
+Edge
+Edit Conditional
+Eagar
+Eagarthóireacht
+Leagan
+Eagarthóir
+Editors
+Eagar…
+An Éigipt
+Either
+El Aaiun
+El Salvador
+El
+Elapsed
+Eilimint
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+glaoch
+ElementrequestPointerLock
+Eilimintí
+Email Address
+Ríomhphost
+Seoladh Ríomhphoist
+Aiféaltas
+Neadaigh
+Embedded
+Arabacha
+Béim
+Emptied Trash
+Folmhaíodh
+Folamh
+Gan Sonrú
+Emulate
+Cumasaigh
+Cumasaithe
+Enables
+Encipherment
+Ionchódóir
+Encoding While
+Ionchódú
+Ionchóduithe
+Encrypt
+Encrypted password&apos
+Criptithe
+Encrypting File
+Encrypting
+Criptiúchán
+Deireadh
+End
+EndUser Rights
+EndUser
+Críochnaithe
+Endian
+Críochphointe
+Enforce
+tInneall
+Engineering
+Engines
+English US
+English USASCII
+English language
+Béarla
+Enhanced
+Enlarge
+Enter &apos
+Enter Full
+Enter that
+Enter
+Entered
+Entering
+Iontrálacha
+Entry
+Enumerable Properties
+Ináirithe
+Timpeallacht
+Epiphany
+Equatorial Guinea
+Mheánchiorclach
+An Eiritré
+Earráid
+Earráidí
+Esc
+Esperanto
+An Eastóin
+Eastóinis
+An Aetóip
+Aetópach
+Eudora Nicknames
+Eudora Settings
+Eudora mail
+Eudora
+Europa Island
+Europa
+An Eoraip/Amstardam
+An Eoraip/Andóra
+An Eoraip/An Astracáin
+An Eoraip/An Aithin
+An Eoraip/Béalgrád
+An Eoraip/Beirlín
+An Eoraip/Bratasláiv
+An Eoraip/An Bhruiséil
+An Eoraip/Búcairist
+An Eoraip/Búdaipeist
+An Eoraip/Busingen
+An Eoraip/Chisinau
+An Eoraip/Cóbanhávan
+An Eoraip/Baile Átha Cliath
+An Eoraip/Giobráltar
+An Eoraip/Geansaí
+An Eoraip/Heilsincí
+An Eoraip/Iostanbúl
+An Eoraip/Geirsí
+An Eoraip/Kaliningrad
+An Eoraip/Cív
+An Eoraip/Liospóin
+An Eoraip/Liúibleána
+An Eoraip/Londain
+An Eoraip/Lucsamburg
+An Eoraip/Maidrid
+An Eoraip/Málta
+An Eoraip/Mariehamn
+An Eoraip/Minsc
+An Eoraip/Monacó
+An Eoraip/Moscó
+An Eoraip/Nicosia
+An Eoraip/Osló
+An Eoraip/Páras
+An Eoraip/Podgorica
+An Eoraip/Prág
+An Eoraip/Ríge
+An Eoraip/An Róimh
+An Eoraip/Samara
+An Eoraip/Sairéavó
+An Eoraip/Simferopol
+An Eoraip/Skopje
+An Eoraip/Sóifia
+An Eoraip/Stócólm
+An Eoraip/Tallinn
+An Eoraip/Tirane
+An Eoraip/Ulyanovsk
+An Eoraip/Uzhgorod
+An Eoraip/Vaduz
+An Eoraip/Vatacáin
+An Eoraip/Vín
+An Eoraip/Vilnius
+An Eoraip/Volgograd
+An Eoraip/Vársá
+An Eoraip/Ságrab
+An Eoraip/Zaporozhye
+An Eoraip/Zürich
+Eoraip
+hEorpa
+Eustatius and
+Eustatius
+Eval
+Luacháil
+Evaluated JavaScript
+Evaluated
+Evaluating
+Evangelism
+Even
+Imeacht
+Imeachtaí
+Imeacht…
+Every Time
+Gach
+Gach Uile Rud
+Eviction
+Éivéis
+Sampla
+Excellent
+Except
+Exception …
+Eisceacht
+Eisceachtaí
+Eisceachtaí…
+Malartú
+ExecShell &quot
+blaosc
+Executable
+Execute Menu
+Rith
+Executing s
+Executing
+Execution stopped
+Execution
+Executive
+Existing
+Cheana
+Scoir
+Exited
+Exiting
+Expand/Collapse
+Leathnaigh
+Fairsingithe
+Bhíothas
+Turgnaimh
+As Dáta
+Expires On
+Expires Seconds
+As Feidhm
+As feidhm
+Explorer
+Easpónant
+Easpórtáil
+Easpórtáil…
+Exposing chrome
+Exposing
+Express
+Expression
+Expressions
+Expunge &quot
+Glan
+Extended Telemetry
+Extended
+Extending
+Eisínteacht
+Eisínteachtaí
+External
+Extra Components
+Comhpháirteanna
+Extract
+Extracting s
+Extracting
+Extracting…
+Dathphiocaire
+F GB
+F turns
+F/Esc
+F
+FAILED
+FALLBACK section
+FALLBACK
+Ceisteanna Coitianta
+FAQs feedback
+CCanna
+FCC
+FHR data
+FHR
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTP Proxy
+FTP
+FUNCTION
+FW Version
+FW
+FYR
+Facebook Chat
+Facebook
+Faeroese
+Teipthe
+Failure
+Failures
+Falkland Islands Islas Malvinas
+Falkland Islands
+na hOileáin
+Fallback Character
+Fallback
+Falling back
+Falling
+False
+Clann
+Fantasy
+Faroe Islands
+Faroe
+Faróis
+Peirseach
+Fasó
+Fast
+Fatal
+Favorite Folder
+Favorite Folders
+Mo Rogha Fillteán
+Ceanáin
+Fax Number
+Facs
+Feature
+Gnéithe
+Fea
+Feabhra
+Federated States of
+Federated States
+Federated
+Federation
+Feed Location
+Léitheoir
+Feedback Agent
+Feedback …
+Aiseolas
+Feedly
+Fothaí
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+Á gabháil…
+Fewer
+Field
+Fields
+Cúigiú
+Fidsí
+Fidsis
+File System
+Comhad
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Ainm comhaid
+gComhaid
+Comhaid…
+Comhad…
+Filing Cabinet
+Líon
+Filter Box
+Filter Execution
+Scag
+Filtering
+Scagairí
+Finalizing
+Aimsigh
+Aimsitheoir
+Findings
+Aimsigh…
+Méarlorg
+Méarloirg
+Finish Customizing
+Críochnaigh
+Críochnaithe
+An Fhionlainn
+Fionlainnis
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+Ainm
+Oiriúnaigh
+Five
+Fix Table
+Fix
+Fixed
+Flag
+Flagged
+Bladhmchairt
+Flame
+Flash embed
+Flash
+Leacaigh
+Flexible Space
+Flexible
+Focus
+Fillteán
+Fillteáin
+Fillteán…
+Lean
+Leantóirí
+Á Leanúint
+Leanúint
+LeanúintChuig
+Fond
+Cló
+Clófhoirne
+Buntásc
+Buntásca
+Cos sa bhéal
+movemail
+Force
+Go Brách
+Forge
+Forgery
+Déan Dearmad
+Form History
+Foirm
+Formáid
+Formáidiú
+Forms
+Fort
+Fortezza
+Forum
+Forums
+Ar Aghaidh
+Cuir Ar Aghaidh
+Curtha ar aghaidh
+Forwarding
+Aimsiú
+Foundation
+Four Hours
+Ceithre
+Cheathrú
+A
+Frakkin &apos
+Frakkin
+Fhráma
+Ráta
+Frames painted
+Frames parsed
+Frames presented
+Frámaí
+An Fhrainc
+Saor
+Saor in aisce
+French Southern
+Fraincis
+Frequency
+Go Minic
+Aoin
+Aoine
+Freaslainnis
+Friúilis
+From History
+From List
+Ó
+Front facing
+Front
+Púicín
+Fulfuildis
+Full
+Fullscreen
+Fun To
+Fun
+Feidhm
+Futúna
+Todhchaí
+GB
+GBK
+GC Event
+GC Slice
+GC
+GCLI is
+GCLI
+GDI Library
+GDI
+GData
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+An Ghabúin
+Gaelic
+Gaia
+Galeon
+Gailísis
+Gallegos
+Gambia The
+Gambia
+Ceap cluiche
+Consóil chluichíochta
+Gaming
+Gandais
+Gap from edge of paper to Margin
+Bearna
+Gap
+Garbage Collector Roots
+Fhréamhacha
+Garcia
+Gated Crypto
+Gated
+Gaza Strip
+Stráice
+Gecko
+Geckoreg
+Geckotrade
+General Notification
+Ginearálta
+Generate a
+Generate
+Gineadh
+Generating A Private
+Generating A
+Generating aggregate
+Generating
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+An tSeoirsia
+Seoirseach
+Seoirsis
+Gearmáinis
+An Ghearmáin
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+Gána
+Giobráltar
+Gives
+Glace
+Global Revived
+Comhchoiteann
+Glorioso Islands
+Glorioso
+Glossary
+Gmail
+Go back
+Go forward
+Ar Aghaidh
+Gabh
+Go Maith
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+Grab
+Grade
+Gradient is
+Gradient
+Grand
+Grande
+Bronn
+Graph Reduction
+Bhailiúcháin
+Grafaic
+Gravatar
+GrayScale
+Liathscála
+An Ghréig
+Greek Windows
+Gréagach
+Gréigis
+An Ghraonlainn
+Graonlainnis
+Grenada
+Grenadines
+Greille
+Group List
+Grúpa
+Grouped By
+Grouped
+Grouping
+Ghrúpaí
+Grow
+An Ghuadalúip
+Guam
+Guaráinis
+gCosantóir
+Guatamala
+Geansaí
+Guess
+Guest browsing
+Guest
+Guiana
+An Ghuine
+Guine Bhissau
+Gúisearáitis
+Gúisearátach
+Gurmukhi MacGurmukhi
+Gurmúcaíoch
+An Ghuáin
+H Line
+H
+HAR
+HEarráid
+Líne Ch
+HPKP
+HREF
+HSLA
+cinntiú
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HW Version
+HW
+HZ
+HZGB
+Hack the
+ríomhéachtaí
+Háití
+Criól Háítíoch
+Halifax
+Lámhseálaí
+Handling
+Handshake record
+Cumarsáid
+Hang Report
+Reoite
+Happy
+Crua
+Hardware Driver Verification
+Hardware Driver
+Cruaearra
+Has
+Hásais
+Have an
+Have
+Haváis
+Ceanntásc
+Ceanntásca
+Ceannteideal
+Ceannteidil
+Health Report
+Thuairisc
+Heard Island
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+Eabhrach
+Eabhrais
+Airde
+Héilin
+Hello World
+Hello
+Help Start
+Cabhair
+Helper Application
+Helper Applications
+Helper Threads
+Shnáithe
+Helps
+Helvetica
+Here
+Heiréiróis
+Heirseagaivéin
+Heics
+I bhFolach
+Hide Statistics
+Hide Toolbars
+Folaigh
+Ordlathas
+High Contrast
+Ard
+Is Airde
+Highgrade
+Highlight
+Highlighting
+Aibhsíonn
+Hightail
+Hiligionóinis
+Hill
+Hiondúis
+Leid
+HíríMótúis
+Hiri
+Histograms Collected
+Histeagraim
+Stair
+Amais
+Hnewsgroup server
+HD
+Ho Chi Minh
+Ho
+Fionraíocht
+Saoire
+Baile
+Home
+Homepage Get back
+Leathanach Baile
+Hondúras
+Hong Kong
+Hong
+Honolulu
+Cothrománach
+Óstach
+Óstáilte
+Hostname Entered
+Óstainm
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+Hour
+Hours
+Housekeeping
+How
+Howe
+However we
+áfach
+Howland Island
+Howland
+Http
+Ollmhór
+Humans
+Ungáiris
+An Ungáir
+I &apos
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+I don &apos
+I ii
+I submit information that &apos
+I think I &apos
+I understand
+Ío
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+Aitheantas
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAP Flag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+IP
+IPC
+IPanna
+IRC Nick
+IRC Operator
+IRC
+ACH
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+Sholáthraí
+IV
+Iaposm
+An Íoslainn
+Íoslainnis
+Deilbhín
+Deilbhíní
+Aitheantas
+Identification
+Identifier
+Identities …
+Aitheantais
+Aitheantas
+Díomhaoin
+Ido
+Mura
+Íogbóis
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Déan neamhaird de
+Ná Bac Leis
+Tabhair neamhaird air
+Ignoring
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+Íomhá
+Íomhánna
+Íomhá…
+Import your
+Iompórtáil
+Importance
+Tábhachtach
+Iompórtáil
+Á nIompórtáil…
+Iompórtáil
+Iompórtáil…
+In Days
+In EHLO reponse
+In Finder
+In Use
+dhíroghnú
+InAutoon
+InBrowserElement
+Neamhghníomhach
+míoiriúnach
+Bosca Isteach
+bhuí
+Isteach
+Neamhiomlána
+Clómhéid Níos Mó
+Eangaigh
+Indexed DB
+Innéacsaíodh
+IndexedDB
+tInneacsóir
+Innéacsanna
+ninnéacsú
+An India
+An tAigéan Indiach/Antananarivo
+An tAigéan Indiach/Chagos
+An tAigéan Indiach/Oileán na Nollag
+An tAigéan Indiach/Oileáin na gCócónna
+An tAigéan Indiach/Na Comóir
+An tAigéan Indiach/Kerguelen
+An tAigéan Indiach/Mahe
+An tAigéan Indiach/Na Maildíví
+An tAigéan Indiach/Oileán Mhuirís
+An tAigéan Indiach/Máigheat
+An tAigéan Indiach/Réunion
+Indiana
+Duine Aonair
+An Indinéis
+Indinéisis
+Eolas
+Tagtha
+Inlet
+Inlíne
+Istigh
+Soineanta
+Ionchur
+Ins
+Ionsáigh
+Scrúdaigh
+s
+Scrúdaitheoir
+Suiteáil
+Suiteáilte
+Á Shuiteáil
+Instructions
+Ganntanas
+Slánuimhir
+Comhtháthú
+Sláine
+Idirghníomhaíocht
+Interface
+Idirtheanga
+Idirtheanga iartharach
+Idirlíon
+Réamhrá
+Ionúitis
+Iniúipiacais
+Neamhbhailí
+Inbhéartaigh
+Iniúch
+Dofheicthe
+Cuirí
+An Iaráin
+An Iaráic
+Éire
+Gaeilge
+Isabel
+Oileán
+Oileáin
+Islas
+Iosrael
+Eisithe
+Eisitheoir
+Iodáilis
+Iodálach
+An Iodáil
+Mír
+Míreanna
+atrialla
+JIS
+JIT
+JS
+JSM
+JSON
+JSONP
+JSONparse
+JSONstringify
+MARCÁLAÍ
+Jabber
+An Iamáice
+Ean
+Eanáir
+An tSeapáin
+Seapáinis
+Seapánach
+Jarvis
+JavaScript
+Iávais
+Jaxivo
+Geirsí
+Giodam
+ghiodammhaoláin
+Tadhg
+Johns
+Déancomhráliom
+An Iordáin
+Juan
+Iúi
+Iúil
+Léim
+Mei
+Meitheamh
+Dramhphost
+Comhfhadaithe
+Comhfhadaigh
+Comhfhadaithe
+K
+kB
+KOIR
+KOIU
+Cannadach
+Cannadais
+Canúiris
+Caismíris
+Caisiúibis
+Casaicis
+An Chasacstáin
+gCócónna
+Coinnigh
+An Chéinia
+Kerberos GSSAPI
+ticéad
+Eochair
+Aicearraí
+Aicearraí Méarchláir
+Méarchlár
+Eochraithe
+keyframe
+Keyhtml
+Lorgfhocal
+Eochairfhocail
+Lorgfhocail…
+Ciméarach
+Ciméiris
+Ciocúis
+Saghas
+Ríocht
+Sceir
+Cinseasa
+Cinearuáindis
+Cirgisis
+Cireabaití
+Ciriúindis
+Póg
+Críostóir
+Klaatu
+Klingon
+Coimí
+Cong
+Congóis
+Concáinis
+Chóiré
+Cóiréach
+Cóiréis
+An Chosaiv
+Kuala
+Cuainiáimis
+Coirdis
+An Chuáit
+An Chirgeastáin
+LDAP
+LDIF
+La
+LaTeX
+Lipéad
+Sainchomharthaí
+Tírdhreach
+Teanga
+Teangacha
+Lanca
+Láóis
+Laos
+Ríomhairí Glúine
+Mór
+Níos Mó
+Sloinne
+Ar Ball
+Níos Déanaí
+Laidin
+Laidineach
+An Laitvia
+Laitvis
+Gáire
+Mearlainseála
+Sraith
+Ilchodacha
+Leagan Amach
+LdapDwim
+Fág
+An Liobáin
+Ar Chlé
+Ar chlé
+Clégodeas
+Cúrsaí Dlí
+Eochair Eolais
+Leon
+Leosóta
+Níos Lú
+Litir
+An Libéir
+Libpkix
+Leabharlann
+An Libia
+Lichtinstéin
+Saolré
+Geal
+Sorcha
+Lightning
+Liombuirgis
+Líne
+Linen
+Línte
+Liongáilis
+Nasc
+Naisc
+Nasc…
+Glas ar an teanga
+Liosta
+Liostaithe
+Éisteacht
+Liostaí
+An Liotuáin
+Liotuáinis
+Live
+Luchtaigh
+Á Luchtú
+Á Luchtú
+Á Luchtú…
+Áitiúil
+Logchaighdeán
+Áit
+Suíomh
+LocationAware
+nÍomhánna
+Logáil
+Logáil
+Focail Fhaire
+Focail fhaire
+Lógó
+Fada
+Cuardaíodh
+Cuardach
+Lúb
+Lord
+Los
+Caillte
+Íseal
+Banphrionsa
+Íochtair
+Is Ísle
+LúbaCataingis
+Lúisia
+Áiféiseach
+Luis
+Lumpur
+Lucsamburg
+Lucsambuirgis
+Chód
+MANIFEST
+MB
+MD
+MDN
+MIME
+LeaganMIME
+MSN
+Maarten
+Mac
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomanian
+MacTurkish
+MacUkrainian
+Macau
+An Mhacadóin
+Macadóinis
+Madagascar
+Post
+Ríomhphost
+Chothabhála
+Malagáisis
+An Mhaláiv
+Malaeis
+Mailéalaimis
+Mailéalamach
+An Mhalaeisia
+Oileáin Mhaildíve
+Mailí
+Málta
+Máltais
+Malvinas
+Mammon
+Bainistigh
+dtuilleamaí
+De Láimh
+Déantóir
+Manainnis
+Maorais
+Mapa
+Már
+Maraitis
+Márta
+Mhariana
+Mairíne
+Marcáil
+Margadh
+Marshall
+Marascailis
+Martin
+Martainíc
+Príomhfhocal
+Comhoiriúnaithe
+mata
+MathML
+Matamaitic
+Mata…
+An Mháratáin
+Oileán Mhuirís
+Uasmhéadaigh
+Bea
+Bealtaine
+Mayen
+Mayotte
+McDonald
+Mise
+Meáin
+MediaStreamTrack
+MediaStreamTrackstop
+MediaStreamstop
+Meánach
+Measartha
+MemoServ
+Cuimhne
+Roghchlár
+Teachtaireacht
+AitheantasTeachtaireachta
+MessagePort
+Teachtaireachtaí
+Teachtaireacht…
+Meta
+Modh
+Metro
+Meicsiceo
+gcluaisínMicreafón
+Microsoft
+Lár
+Meán Oíche
+Midway
+tiontú
+MinSupportedVer
+Minh
+MionLá
+Mionmhí
+Íoslaghdaigh
+Micilín
+Scáthánú
+Mícheart
+L
+Fón Póca
+Fón Siúil
+Soghluaiste
+Athraithe
+Athraigh
+Modúl
+Modúil
+Modal
+An Mholdóiv
+Luan
+Monacó
+Luan
+Béal airgid
+An Mhongóil
+Mongóilis
+Monatóir
+Cló Aonleithid
+Montainéagró
+Mí
+Míosúil
+Mí
+Montsarat
+Níos Mó
+Tuilleadh
+Tuilleadhellipsis
+Moresby
+Maracó
+Luch
+Movemail
+Bog…
+Mósaimbíc
+Mozilla
+MozillaCalEvents
+Mozillaorg
+Amharc Ilseachtaine
+Athrú
+MutationObserver
+Gan Fuaim
+Gan fuaim
+Mo
+FothaiSSopml
+N/A/F
+NET
+TEAGHRÁN
+NIST
+NNTP
+NO
+NPN
+NS
+NSS
+NTLM
+seannós
+Ainm
+Comhlánú Ainmneacha
+Ainmspásanna
+An Namaib
+Léigh
+Nárúis
+Navachóis
+Navassa
+Nascleanúint
+Ndebele
+Ndongais
+Nelson
+Neipeal
+Neipeailis
+Líonra
+An Ísiltír
+Netscapecfg
+Líonra
+Líonrú
+Choíche
+Riamh
+Phapua
+Nua
+Nuacht
+GrúpaNuachta
+GrúpaíNuachta
+Nua…
+Ar Aghaidh
+Ar aghaidh
+Nicearagua
+leasainm IRC
+NickServ
+Leasainm
+leasainmneacha Eudora
+An Nígir
+An Nigéir
+Niue
+Ná hÍosluchtaigh
+Níl
+Nód
+shlonn
+Ainmnithe
+Gan Briseadh
+Dada
+Gan sonrú
+Neamhní
+Neamhdhiúltú
+Meán Lae
+Nordach
+Norfolc
+
+Gnách
+Gnáth
+Gnáthluas
+Gnáthmhéid
+North
+An Iorua
+Ioruais
+Nóta
+Nótaí
+Fógraí
+Sam
+Nova
+Samhain
+Anois
+u
+Uimhir
+Uimhrithe
+Uimhreacha
+Nynorsk
+Organization
+OAuth
+OCSP
+OID
+OK
+OLE
+OMTC
+OPML
+CO
+OU
+OVERLAP
+Réad
+Naíolainne
+Ocatáinis
+DFó
+Deireadh Fómhair
+Oiríseach
+Oirísis
+Odnoklassniki
+As
+Múchta
+
+As Líne
+As Líne…
+Ochón
+Óisibvis
+Níos Sine
+Oman
+hoibriú
+Ann
+Ar
+aonchlic
+As Líne
+Amháin
+Úps
+Anfhollas
+Oscail
+OpenGL
+OpenPGP
+nOscailt
+OperServ
+chomhoiriúnaíonn
+oibreoir IRC
+Oibreoirí
+Optamuithe
+Optimizing
+Rogha
+Roghanna
+Thús
+Eagras
+Eagraíocht
+Organizational
+Eagraigh
+Eagraigh
+Eagraí
+Treoshuíomh leathanaigh
+Foinse
+Bunteanga
+Oiríseach
+Oraimis
+Óiséitis
+Eile
+Cinn Eile
+Nó
+Eile…
+Bosca Amach
+Bog faoi chlé
+Amuigh
+Amach
+Creatlach
+Outlook
+Samplach
+Thart
+Déanacha
+Úinéir
+P/Galapagos
+P
+PDF
+PDFjs
+PEM
+PKCS
+CHEART
+POP
+POP
+POST
+SAINROGHANNA
+PUBLIC
+inbheoite
+PacifDebug/Galapagos
+An tAigéan Ciúin/Apia
+An tAigéan Ciúin/Auckland
+An tAigéan Ciúin/Bougainville
+An tAigéan Ciúin/Chatham
+An tAigéan Ciúin/Chuuk
+An tAigéan Ciúin/Oileán na Cásca
+An tAigéan Ciúin/Efate
+An tAigéan Ciúin/Enderbury
+An tAigéan Ciúin/Fakaofo
+An tAigéan Ciúin/Fidsí
+An tAigéan Ciúin/Funafuti
+An tAigéan Ciúin/Galápagos
+An tAigéan Ciúin/Gambier
+An tAigéan Ciúin/Guadalcanal
+An tAigéan Ciúin/Guam
+An tAigéan Ciúin/Honolulu
+An tAigéan Ciúin/Johnston
+An tAigéan Ciúin/Kiritimati
+An tAigéan Ciúin/Kosrae
+An tAigéan Ciúin/Kwajalein
+An tAigéan Ciúin/Majuro
+An tAigéan Ciúin/Marquesas
+An tAigéan Ciúin/Midway
+An tAigéan Ciúin/Nárú
+An tAigéan Ciúin/Níué
+An tAigéan Ciúin/Norfolc
+An tAigéan Ciúin/Noumea
+An tAigéan Ciúin/Palau
+An tAigéan Ciúin/Pitcairn
+An tAigéan Ciúin/Pohnpei
+An tAigéan Ciúin/Ponape
+An tAigéan Ciúin/Rarotonga
+An tAigéan Ciúin/Saipan
+An tAigéan Ciúin/Taihítí
+An tAigéan Ciúin/Tarawa
+An tAigéan Ciúin/Tongatapu
+An tAigéan Ciúin/Truk
+An tAigéan Ciúin/Wake
+An tAigéan Ciúin/Bhailís
+tAigéan
+Pack
+Package s
+Package xpi
+Pacáiste
+Pacáistithe
+Packs
+Stuáil
+Page Direction
+Page Selection
+Leathanach
+Pagequot
+Pager Number
+Glaoire
+Leathanaigh
+Pago
+Péinteáil
+Pair a Device &quot
+Pair a
+Péireáil
+An Phacastáin
+Pal Who &apos
+Pal
+Palau
+Palestinian Territory
+Palestinian
+Pailéad
+Páilis
+Palmyra Atoll
+Palmyra
+Zúmáil
+Panama
+pána
+Painéal
+Painéil
+Panes on Startup
+Panes
+PannerNode
+Papua New Guinea
+Papua New
+NuaGhuine
+Paracel Islands
+Paracel
+Paragraph format
+Alt
+Paragua
+Paraiméadair
+Paraiméadair
+Parcel
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+Tuismitheoirí
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+PartS
+Partial
+páirtchriptithe
+Partially
+Participant
+Rannpháirtithe
+Chorp
+Party Name
+Páirtí
+Paistis
+Password Change
+Password Manager
+Focal Faire
+PasswordIf
+Focail Fhaire
+Focal Faire
+Paste Go
+Greamaigh
+Pastel Gradient
+Pastel
+Paste…
+Patch
+Patching s
+Patching
+Conair
+Paths from
+Paths
+Paulo
+Pause on
+Pause/Resume/Retry
+Cuir ar Shos
+Sos
+Curtha ar Shos
+Pauses the
+Pauses
+Íoc
+Pálasta
+Íocaíocht
+Paz
+Peer
+PeerConnection ID
+PeerConnection
+Pending
+Penh
+Daoine
+Percent
+Perform a
+Perform
+Feidhmíocht
+Perhaps the
+Perhaps you &apos
+Perhaps
+Period of Validity
+Period of
+Period
+Periodic
+Buan
+Permanently
+Permission
+Ceadanna
+Permit
+Peirsis
+Pearsanta
+phearsantacht
+Peiriú
+Perwebsite
+Céim
+Na hOileáin Fhilipíneacha
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+Fón
+Gutháin
+Phonetic Name
+Foghrach
+Grianghraf
+Photograph
+Phrase
+Fisiceach
+Pick
+Picture
+Naofa
+Pilot
+Phearsanta
+Ping
+Feistithe
+Pinning
+Pipelining
+Pitcairn Islands
+Pitcairn
+Pixel
+Plain
+Seachtainiúil
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Platform
+Play a
+Seinn
+Playing audio
+Ag Seinm
+Please advance
+Please authenticate
+Please consider
+Please enter
+Giorraigh
+comhaontú
+Plug a
+Plug
+PlugIns
+Forlíontán
+Forlíontáin
+Plus
+Pocket
+Podchraoladh
+PoiQA
+Pointer Lock API
+Points
+An Pholainn
+Mhol
+Policies
+Policy Constraints
+Policy Mappings
+Policy mapping
+Slándala
+Polainnis
+Polynesia
+Popup Blocking
+Popup
+Preabfhuinneoga
+Port
+Portable Document
+Doiciméad
+Porto
+Portráid
+An Phortaingéil
+Portaingéilis
+Suíomh
+Posse
+Possible
+Postáil
+Postal Code
+Postal
+postáil
+Athlá
+Power
+Powered by
+Powered
+Powershare
+Practice Statement pointer
+Practice
+Pre
+réamhchoinníoll
+Preferably
+Preference
+Sainroghanna
+Sainroghanna…
+Preferred
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Prefix
+Prefixed
+Réamhfhormáidiú
+Premature
+Prepackage
+Prepackaging
+Preparing
+Á Ullmhú…
+Present
+Presentation Mode
+Presentation
+Preserve
+Coimeádann
+Preset
+Réamhshocruithe
+Brúigh
+Pressing F
+Pressing
+Prettify
+DeaPhriontáil
+Pretty
+Prevent
+Réamhamharc
+Previewed
+Previewing
+Preview…
+Previous Session
+Roimhe Seo
+Roimhe seo
+Siar
+Praghas
+Primary Email
+Primed cache
+Primed
+Primetime Content
+Primetime
+Íochtarach
+Principal Name
+Príomhaí
+Príncipe
+Priontáil
+Printed
+Printéir
+Á Phriontáil
+Á Phriontáil…
+Priontáil…
+Priority changed
+Tosaíocht
+Privacy Policy
+Príobháideachas
+Príobháideacht
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+Príobháideach
+Faoi Phribhléid
+Privileges
+Ceadanna…
+Pro
+Is
+Probably
+Probing
+Problem
+Oibriú
+Proceeding will
+Proceeding
+Process
+Á Phróiseáil
+Á Phróiseáil…
+Prodigy
+Cruthaitheoir
+Product
+ProductName
+ProductNameInternal
+ProductShortName
+Próifíl
+Profiler
+Próifílí
+Deilbhíní
+Program
+Programs Folder
+Ríomhchláir
+Progress Window
+Dul Chun Cinn
+Dul chun cinn
+Project Lead
+Tionscadal
+Projects
+Promise Debugger
+Promise
+Leid
+Airíonna
+Airíonna…
+Property Declaration
+Property Value
+Airí
+Cló IlLeithid
+Propose a
+Propose
+múchta
+Protocol Request
+fhograíonn
+ProtocolSpecific
+Protocols
+Proudlybr
+Provider
+Province
+Proxies
+Proxy
+Pseudoelements can
+Pseudoelements ‘
+Bréageilimintí
+Psst using
+Cogar
+Public
+PublicKeyPins
+Foilsigh
+Publishing Pages
+Foilsiú
+Á fhoilsiú…
+Foilsigh…
+Puerto Rico
+Portó
+Painseáibis
+Purchase for
+Aidhmeanna
+Push Endpoint
+Brúigh
+QA UI
+QA
+QName
+QQ
+QR Scan
+QR
+Catar
+Qualified Subordination
+Qualified
+Ceatsuais
+Fiosrú
+Question
+Queued
+Quick Filter
+Quick Launch bar
+Quick Launch
+Bharra
+Quickly
+Quirks mode
+leithleachais
+Quirky doctype
+shiarghabhálach
+Scoir
+QuitS
+Quitting
+Cuóta
+Quotation
+Luaigh
+Quotes
+RAM
+RC
+RDN
+TAIFID
+REMOVE
+RETR command
+RETR
+RETURN
+RFC
+RGBA
+RSA Encryption
+RSA
+RSASSAPSS Signature
+RSASSAPSS
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+RTP
+Radio Button
+Radio buttons
+Raidió
+Rainy
+Raise
+Range
+Rankin
+Rate
+Rátáil
+Picteilíní
+Raw
+Re
+Reached
+Léite
+LéiteMarcáil
+Reader &apos
+Léitheoireachta
+Léamh
+Ready to
+Réidh
+Really fast
+Really
+Rearrange
+Reason
+Reasons
+Rebuild Summary
+Atóg
+Atháirigh
+Receipt denied
+Receipt
+Receipts
+Receive
+Faighte
+Fáil
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+Le Déanaí
+Recently
+Recheck
+Faighteoir
+Faighteoirí
+Recommended Components
+Molta
+Deimhnigh arís
+Reconnect
+Record
+Recording Performance
+Feidhmíocht
+Ag taifeadadh…
+Athshlánaigh
+Recovery Keyhtml
+Recovery
+Recur
+Recurrence pattern
+Atarlú
+Chrann
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+Redirection
+Rediscover the
+Rediscover
+Ataispeáin
+Athfheidhmigh
+Reducing the
+ninneachair
+Thimtriallaigh
+Kingman
+Reenter
+Reference
+Tagairtí
+Tagróra
+Referring URL
+Referring
+Athsruthú
+Reformat
+Athnuaigh
+Refused
+Register Locale
+Register Server
+Register
+Cláraithe
+Registering
+Gnáthiatán
+Gnáth
+Reject
+Rejoin
+Related
+Relation
+Relative positioning of
+Relative
+Relaunch
+Release Notes
+Nótaí
+Releases
+Athluchtaigh
+Remaining
+Meabhraigh
+Remind Me
+Remind
+Meabhrúchán
+Meabhrúcháin
+CianDífhabhtú
+Remote debugging
+I gCéin
+Remove channel
+Bain
+Removed
+Removes
+Bain…
+Removing
+Renaissance
+Athainmigh
+Athainmnigh
+Athainmnigh…
+á athainmniú
+Render Mode
+Render
+Rindreálaí
+Rendering
+Renewal
+Reopen
+Repair
+Athdhéan
+Athdhéanta
+Athdhéanta
+Ionadaigh
+Replacement
+Replaces in
+Ionadaithe
+Ionadaigh…
+Replacing
+Replicating directory entry
+Replicating
+Replication failed
+mhacasamhlú
+Freagartha
+Freagair
+FreagraChuig
+Replying
+Replyto Address
+Replyto
+Tuairisc
+ReportOnly
+Reporter
+Chlistí
+Seice
+Request the
+Iarratas
+RequestMode
+Requested
+Iarratais
+Required
+Requires
+Reread mozcmd
+Athléigh
+Athsheol
+Resending
+AthsheoltaCc
+NótaíAthsheolta
+DátaAthsheolta
+AthsheoltaÓ
+AitheantasTeachtaireachtaAthsheolta
+SeoltóirAthsheolta
+AthsheoltaChuig
+Reserved
+Athshocraigh
+Bánaigh
+Resets
+Resolution/Quality
+Resolution
+Réitigh
+Acmhainn
+Resources
+Responder
+Freagra
+Responseclone
+Responsive Design
+Freagraíonn
+Rest
+Atosaigh
+Restarting
+Á Atosú…
+Athchóirigh
+Restrict
+Teoranta
+Restyle Hint
+Restyle
+Torthaí
+Resume &apos
+Lean
+Resumes
+Retained
+Retention Policy
+Coinneáil
+Tástáil Arís
+Retrieving quota
+íosluchtúNuashonruithe
+Á Fháil…
+Atriail
+Retrying
+Return
+Atuíteáil
+Réunion
+Reverse
+Reversed
+Fill
+Cealaigh…
+Review
+Revision
+Revived
+Revocation
+Cúlghairthe
+Rewind
+Timfhill Arís
+Rewriting oldstyle
+Rewriting
+RaetaRómáinsis
+Ríce
+MéithThéacs
+Rich
+Ríce
+Right Click
+Ar Dheis
+Ar dheis
+Rightclick
+Chearta
+Deasgoclé
+Righttoleft
+Ringing…
+Rio
+Rioja
+Contúirtí
+River
+Roaming
+Robot
+Robots
+Roku
+Role
+An Rómáin
+Romanian ISO
+Rómáinis
+Seomra
+Root
+Roots Module
+Insuite
+Rothlaigh
+Ró
+Rónna
+Riail
+Rialacha
+Ruleset
+Rith
+RunAppX
+Running
+Am rite
+An Rúis
+Russian Federation
+Rúiseach
+Rúisis
+Ruanda
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+S
+SASL bind
+Ceangailt
+SD
+SDP
+SE
+SECG elliptic curve sectr
+SECG
+SECURITY
+SEE THIS STRING
+SEE THIS
+SEE
+SETTINGS
+SFailed to
+SFailed
+SHA Digest
+SHA Fingerprint
+SHA
+AN
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+SKB
+SMB of
+SMB
+SMTP &apos
+
+SMTP
+SMTPAUTH
+SOCKS Host
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+URRAITHE
+SQL Statements
+SQL
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+RIAMH
+STouch
+MOLTA
+ciorrú
+SVG
+SW Asian
+SW
+ATHRAIGH
+SYSTEM
+S_comhaid
+S
+Saba
+Sad
+Safari
+Safe Mode
+Sábháilteachta
+SafeBrowsing
+SafeMode
+Sahára
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+Peadar
+Salaam
+Salem
+tSalvadóir
+Same
+Sáimis
+Samó
+Samóis
+Samplaithe
+Samplaí
+San Marino
+San
+Bosca gainimh
+Gainimh
+Sandwich
+Sangóis
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+Sans
+Sanscrait
+Sansserif
+Santa
+Santo
+Sao Tome and
+Sao Tome
+São
+Sairdínis
+Sass
+Sath
+Satharn
+Saudi Arabia
+Shádach
+Save Permissions
+Sábháil
+Saved
+Sábháil…
+Saving
+Á Shábháil…
+Á Sábháil…
+Saw
+Scálaigh
+Scale …
+Scála
+Scaled
+scálú
+Scam Warning Take
+Scam
+Scams
+Scan
+Scanner app
+Scanner
+Scanning for
+Scanning
+Scheduling
+Scheme
+Scóip
+Score Origin
+scóir
+Scots
+Scottish Gaelic
+Scottish
+Scratchpad Enter some
+Ceap Breacaireachta
+Screen Orientation
+Screen reader
+Scáileán
+Screenname
+Seat den Scáileán
+Seatanna Scáileáin
+Script
+Scripteanna
+Scroll
+ScrollLinkedEffects
+Scrollú
+Sl
+Slaethanta
+Mara
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Cuardach
+Cuardaigh
+Searches
+Searching &apos
+Ag Cuardach
+Á Chuardach…
+Cuardaigh…
+Seccomp Thread Synchronization
+Seccomp Thread
+Seccomp
+SeccompBPF Scagadh
+SeccompBPF
+Dara
+Secondary Email
+Fosheoladh
+Seconds
+Sections
+Secure
+Securing connection
+dhaingniú
+Security Exception
+Slándáil
+Féach
+Roghnaigh
+Selected Frame
+Selected Tabs
+Roghnaithe
+SelectedRemove Selected
+RoghnaitheBain
+Selecting
+Rogha
+Roghnúchán
+Roghnóir
+Selectors
+Roghnaigh…
+Féinchostas
+Self Sampled
+FéinAm
+Self
+Selfclosing syntax
+fhéindúnta
+teicníc
+deimhniúchán
+Send a
+Seol
+Seoltóir
+Seoladh
+Sends a
+Sends
+An tSeineagáil
+Braiteoir
+Sent &quot
+Seolta
+MFó
+Separate _
+Separate tags
+Separate
+Camóga
+Deighilteoir
+Deighilteoirí
+Dúch Cudail
+Meán Fómhair
+An tSeirbia
+Seirbis
+Serial Number
+Serial
+Srathaigh
+Serif
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+Server settings&apos
+Freastalaí
+Freastalaithe
+Service
+ServiceWorker
+ServiceWorkerAllowed
+Seirbhísí
+Seisiún
+Sessions
+Set Up Sync &quot
+Set this channel &apos
+Socraigh
+Socraithe
+Setting
+Settings &#124
+Socruithe
+SettingsA
+Socruithe…
+Setup
+seachtú
+Severy
+Na Séiséil
+Su
+Stuaice
+Shading
+Éadomhain
+Comhroinn
+Roinn
+Shared
+Sharing Indicator
+Comhroinnt
+Sheet
+Shift _ JIS
+Shift _
+Shift
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+Seoinis
+Siopadóireacht
+Gearr
+Shortcut
+Shortcuts
+Shot
+Dhéanamh
+Show/Hide
+Taispeáin
+Taispéain
+Showing
+Shrink To Fit
+Shrink
+Múch
+Shutting Down
+Shutting
+SiInEfate
+Deartháirnóid
+Sichuan Yi
+Íais
+Barra Taoibh
+Barraí Taoibh
+Sierra Leone
+Siarra
+Sign
+Shíniú
+Signed
+sínitheora
+Á síniú
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Simplí
+Simplithe
+Simpligh
+Simply
+Simulate touch
+Ionsamhlaigh
+TV
+Ionsamhlóra
+Ionsamhlóirí
+Since
+Sindis
+Singeapór
+Siolóinis
+Siolóinis
+Siolónach
+Sint
+Suaisis
+Suíomh
+Suímh
+Méid
+Skype
+Slóvaicis
+An tSlóvaic
+An tSlóivéin
+Slóivéinis
+Sn
+Beag
+Níos Lú
+Miongháire
+Straoiseog
+Sms
+Grianghraf
+néil
+So
+Soicéid
+Bog
+Bogearra
+Sholamóin
+Scannell
+Somáilis
+An tSomáil
+Some
+Songais
+Sorbais
+Sórtáil
+Sórtáilte
+Seipidis
+Foinse
+Foinsí
+Deisceart
+Deisceartacha
+Space
+Spás
+Spásáil
+An Spáinn
+Spáinnis
+Bhí
+Speculative
+Luas
+Litriú
+Litriú
+Spotsolas
+Spratly
+Spct
+Srí
+Ss
+Cruach
+Stampáil
+Caighdeánach
+Gnáthshuiteáil
+Réiltín
+Marcáilte
+Tosach
+Tosaigh
+Tús
+Tosú
+Á Tosú…
+Tosú
+Stát/Cúige
+Staid
+Ráiteas
+Mhalla
+Stáit
+Staitisticí
+Stádas
+Fan
+Stad
+Stop
+Stoptha…
+Stóras
+fhánach
+Sráid
+Sínte
+Aistrithe
+StrictTransportSecurity
+Línte Trí
+Teaghrán
+Gaza
+Struchtúrtha
+Stíl
+Stíleanna
+D
+Foorduithe
+Fofhillteán
+FoFhillteán…
+Ábhar
+Seol
+Seolta
+Ísliú
+Liostáil
+Liostáil…
+Foscript
+Síntiús
+Fhotha
+Fochórais
+bhFoshnáithe
+Fochrann
+D'éirigh leis
+D'éirigh linn
+Seo linn
+An tSúdáin
+Iarmhíreanna
+Moltaí
+Achoimre
+Domh
+Sundais
+Domhnach
+Forscript
+Ionadaithe
+Tacaíocht
+Cineál
+Suranam
+Sloinne
+Iontas
+Oileánra Svalbard
+Svahaílis
+An tSuasalainn
+An tSualainn
+Sualainnis
+Swift Current
+Swift
+Athraigh
+An Eilvéis
+Cheanadach
+Siombailí
+shiméadrach
+Sync
+Sioncronú
+Sioncronaigh
+Shioncronú
+Á Shioncronú…
+Á sioncronú
+Achoimre
+An tSiria
+Systems
+S×
+S×S
+CLUAISÍNÍ
+TCP
+thapáil
+easnamh
+TOP
+Ionsamhlúchán
+Teilifíseáin
+Tab
+Tábla
+Táblaí
+Táibléid
+Tábla…
+Cluaisíní
+Clib
+Tagálaigis
+Clibeanna
+Taihítis
+An Téaváin
+Táidsícis
+An Táidsíceastáin
+Talk
+Tamailis
+Tamalach
+An Tansáin
+Tapáil
+Sprioc
+Tasc
+Tascanna
+Tasc…
+Tatairis
+Tech
+Teiliméadracht
+Tell City
+Tell
+Teileagúch
+Teileagúis
+Teimpléad
+Teimpléid
+Sealadach
+Sealadach
+Téarma
+Indiaigh
+Téacs
+D
+Téalainnis
+Téalannach
+An Téalainn
+Go raibh maith agat
+Rithfear
+Their
+Téama
+Téamaí
+Ansin
+There
+These
+They
+Tríú
+This
+Thomas
+Snáithe
+Snáithithe
+Snáitheanna
+Déar
+Mionsamhail
+mhionsamhail
+Mionsamhlacha
+Thunder
+Thunderbird
+Déardaoin
+Tibéadach
+Tibéidis
+Tígréis
+Tigrínis
+Tíleanna
+Am
+Amlíne
+Thar
+Times
+Stampa ama
+Crios Ama
+Criosanna
+Uainiú
+TimorLeste
+Anbheag
+Teideal
+Chuig
+Go
+Toasters
+Tobága
+s Events
+Inniu
+Scoránaigh
+Tóga
+Oileáin Tócalá
+Ceadchomhartha
+Tomé
+Amárach
+Tongais
+Teanga amach
+Tapaíodh
+Barraí Uirlisí
+Uirlisí
+Leid Uirlise
+Ag barr
+Barr
+Iomlán
+Tadhall
+Loirg
+Mé
+Lorgaireacht
+Traidisiúnta
+Aistrithe
+Trasdul
+Aistrigh
+tAistriúchán
+Aistritheoirí
+Dhian
+Bruscar
+Caitheadh
+nGlaonna
+Truicear
+Tríonóide
+Tristan
+Tromelin
+Fabhtcheartú
+Teasctha
+Muiníne
+Songais
+Suáinis
+M
+Máir
+Máirt
+An Túinéis
+Turk
+An Tuirc
+Tuircis
+Turcach
+Tuircméinis
+An Tuircméanastáin
+Turks
+Díchumasóidh
+Teagaisc
+Tuvalu
+Mionathraigh
+Tuít
+Tuíteanna
+Tiuíais
+Twitter
+Cineál
+Cineálacha
+UID
+UIDL
+CEALAIGH
+ANAITHNID
+UNSUPPORTED
+URI
+URL
+URLanna
+SAM
+USA
+USB
+AUL/MAG
+AULS
+UTF
+UTFBE
+UTFLE
+Uganda
+Ochón
+Úígiúiris
+An Úcráin
+Úcráinis
+Úcránach
+Níl ar fáil
+Díthiceáil
+Idir Dhá Chomhairle
+Idir dhá chomhairle
+Díscrios
+Faoi
+Líne Faoi
+Cealaigh
+dhíéalú
+Dífholaigh
+taibhsiú
+Unicode
+Aontaithe
+Gan túsú
+Díshuiteáil
+Á Dhíshuiteáil
+Unit
+Aontas
+Uilechoiteann
+Anaithnid
+nathraítear
+Dínasc
+Díluchtaigh
+Le Fuaim
+Le fuaim
+Neamhuimhrithe
+Dífheistigh
+Gan Léamh
+Díchláraigh
+Díchlárú
+srian
+Gan Sórtáil
+Díliostáil
+dhíliostálann
+Gan tacaíocht
+Chlibeanna
+Neamhshnáithithe
+Go dtí
+Gan Teideal
+Neamhúsáidte
+Gan fíorú
+Suas
+Le teacht
+Nuashonraigh
+Nuashonrú
+Nuashonruithe
+Nuashonrú
+Uasghrádú
+uasghrádaithe
+Uasluchtaigh
+Uachtarach
+Uachtair
+Urdúis
+Uragua
+Linn
+Úsáid
+Úsáid
+s
+UserAgent
+Úsáideoir
+ClárRíomhphoist
+Ainm an Úsáideora
+Ainm úsáideora
+
+tuairimíochta
+Using
+Úisbéicis
+An Úisbéiceastáin
+Sionc
+BAILÍ
+VERSION
+VK_F
+VK_QUOTE
+VK_RETURN
+VK_SEMICOLON
+VK_SLASH
+Bailí
+Bailíochtaigh
+Earráidí
+Bailíocht
+Luach
+Luachanna
+Vanuatú
+Athróg
+Athróga
+Vatacáine
+Velho
+Veindis
+Veiniséala
+Verde
+Fíoraigh
+Á Fhíorú
+Á Dheimhniú…
+Leagan
+Ingearach
+Fís
+Vítneam
+Vítneamais
+Amharc
+Féach air
+Radharc
+Amharcán
+tag
+Amhairc
+Amharc…
+Vincent
+Fíorúil
+Oscail
+Vista
+Infheicthe
+Léiriú
+Guth
+Volapük
+Airde
+RABHADH
+RABHAIDH
+WCAP
+WHOIS
+Faisnéis
+WS
+Fan
+Feitheamh
+Ag Feitheamh…
+Wake
+Vailís
+Vallúnais
+Rabhadh
+Rabhaidh
+Déan faire
+Uaireadóirí
+Eas
+Waveform Audio
+Waveform
+C
+WeakMap
+Web
+WebBased Information
+WebBased
+WebGL
+WebIDE
+WebIDL
+WebRTC
+WebSockets
+Webmaker
+Leathanach Gréasáin…
+Suíomh Gréasáin
+Céad
+Céadaoin
+Seachtain
+Seachtainiúil
+Seachtain
+Fáilte
+Breatnais
+Iartharach
+Cathain
+Liosta Bán
+WiFi
+Leathan
+Leithead
+Win
+Fuinneog
+Windowopen
+bhFuinneoga
+Caoch
+Caochadh
+With
+Threoraí
+Volaifis
+Obair
+Seifteanna
+Oibrí
+Oibrithe
+Laethanta Oibre
+dhomhain
+Timfhill
+Scríobh
+x
+XContentTypeOptions
+XHR
+XHTML
+XML
+XMLHttpRequest
+XP
+XPCOM
+XPConnect
+XSLT
+XTND
+XUL
+Cóisis
+Y
+DUIT
+Yahoo
+YandexTranslate
+Bliain
+Bliantúil
+Bliain
+Béic
+An Éimin
+Tá
+Íosluchtaigh
+Inné
+Shisiuánach
+Giúdais
+Eabhrac
+Iarúibis
+Tusa
+shioncronóidh
+Z
+An tSaimbia
+Siuáingis
+An tSiombáib
+poist
+ZoneInfo
+Súmáil
+Súlúis
+catagóir
+fógra
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+a scam
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+miongháire
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+a surprised
+a surrogate
+syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+a week
+a windowed
+a wink
+a year
+a yelling
+measartha
+aChoose
+aFrames
+aKnow
+abcdefghijklmnopqrstuvwxyzáéíóúABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚ
+abhorred
+abilities
+ghrúpáil
+thobscor
+aborted
+about About
+about Networking
+about Us
+about brandShorterName
+about
+aboutconfig
+aboutcredits
+aboutrights
+aboutwebrtc
+above
+aboveAllow
+abruptly
+absence
+Dearbhshuí
+dearbhURL
+accel
+accelalt
+acceleration on
+acceleration
+accelshift
+accented
+accept
+acceptable
+acceptcharsetutf
+accepted
+accepting site &apos
+réitithe
+access Key
+access multimedia
+rochtain
+accessed
+accessibility support
+accessibility tools
+accessibility
+accessible
+accessing
+accidental breakage
+accidental
+accompanying
+accomplished
+accordance
+according
+s
+account Actions
+account connected
+account name
+gcuntas
+accountManagernewAccountlabel
+accounts
+accuracy
+accurate
+acknowledges
+trasna
+acht
+action
+actions
+nGníomh
+curtha i bhfeidhm
+active Logins
+Ghníomhaigh
+activity Indicator
+activity Stream
+Gníomhaíochta
+Fíormhéid
+actual
+actualDate &apos
+actualDate
+achtúireach
+oiriúnaithigh
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+slánDá
+addEventListener method
+addEventListener
+added
+gcuir
+Bhreis
+additivesymbols descriptor
+additivesymbols
+addon &apos
+addon
+addons gallery
+breiseáin
+addonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+address
+Diúltaíodh
+addressbr
+addresses
+addressing area
+addressing
+adjacent
+adjust
+admin
+riarthóir
+adult supervision
+adult
+advance
+advanced JavaScript
+advanced
+advanced_pref_installation
+advancelabel
+advertise
+advertised
+fhógraíonn
+affect
+affected
+affecting
+after Sending
+after
+again
+aoise
+gníomhaire
+aggregate
+aggregates
+aggregating
+comhbhailitheoir
+shin
+agree
+uilig
+airplane
+aka NIST
+i
+ana
+alert description
+foláireamh
+algorithb
+algorithm Parameters
+algartam
+algorithmhash value
+algorithmhash
+algorithms
+ailíniú
+alined
+alive
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+ngach
+allocate
+Dháil
+allocation
+allocations Rate
+allocations
+allow dialogs
+allow immediate
+Ceadaigh
+Ceadaíodh
+allowfullscreen
+allowing
+allows
+allowsameorigin
+allowscripts
+beagnach
+along the Y
+along
+alphabetical
+already bookmarked
+cheana
+also gives
+also skip
+sheoltóirí
+altKeylabel
+alter
+alteration
+altered
+mhalairt
+alternatives
+always Ask
+always Block
+always prefer
+always
+am &#124
+am
+amount
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+anfhollas
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+Iompórtálann
+anailís
+analyze
+ancestor elements
+ancestor
+ancestors
+anchor &apos
+anchor
+anchors
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+and Herzegovina
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+agus
+huillinne
+séadaithe
+animated
+animation cycle
+beochan
+beochain
+go bliantúil
+anonymous box
+gan ainm
+bhfearann
+answers
+antivirus software
+antivirus
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+any
+anymore
+thógfadh
+anypolicy
+anything
+scéal
+anywhere
+apart
+app &apos
+app submission
+hAipe
+appName
+Cuirtear
+appearance wrong
+appearance
+ndealraíonn
+iarcheangail
+applicable service
+applicable
+application Basics
+application Details
+application doesn &apos
+feidhmchlár
+applications
+applied
+applies
+apply
+applying update
+applying
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+approved
+approx
+approximate line
+approximate
+meastachán
+apps &apos
+aipeanna
+apr &#124
+aib
+aibreán
+arbitrary
+archive
+archived folders
+bhfillteáin
+cartlanna
+gcartlannú
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+speedOfSound
+area shape
+cheantar
+areas in
+areas
+t
+aren
+argument
+arguments for
+argóintí
+arising out
+arising
+arjo
+armscii ISO ISO ISO
+armscii
+around
+theacht
+arrived
+arrives
+arrow
+arsa
+article summary
+alt
+altanna
+artwork
+as &apos
+as Authored
+as broken
+as cURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+heolas
+ardaitheach
+ascii
+ash
+asis &quot
+asis
+ask me
+fiafraigh
+asked questions tips
+asked
+díot
+asks that
+leanúnach
+aspect ratio
+treoíochta
+aspects
+assets
+assist you
+assist
+cabhrach
+chomhcheangailte
+association
+assume
+assured
+dhóigh
+async touch
+aisioncronach
+asynchronous Pan
+asynchronous entity
+peanáil
+asynchronouslyloaded
+at S
+at least
+at span id &apos
+chnaipe
+atchMore than
+atrule
+iamh
+attached
+attaching
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+tiatán
+attachmentDo
+iatáin
+attack An
+attack pages
+attack
+attacker could
+attacker
+attackers
+gcruthaíonn
+attempt
+attempted old
+intíre
+attempting
+attempts
+attend
+attendance
+attendee
+attendees
+attention
+attribute Type
+haitreabúide
+attributes &apos
+haitreabúidí
+audio Backend
+Roinnfear
+aug &#124
+lún
+lúnasa
+authenticate to
+authenticate
+authenticates
+authentication mechanism
+Fhíordheimhnithe
+authenticity
+author
+húdaráis
+authority is
+núdarás
+údaraithe
+authorized
+authors whom
+húdair
+Uathincrimint
+auto Prettify
+auto Save
+auto discover
+uathcheilt
+autoAddOnsUpdateslabel
+autocomplete
+uathlíonadh
+autodetection
+autofill
+automated updates
+automated
+automatic updates
+Uathchumraíocht
+automatically Black
+Braitheann
+automatically prefill
+automatically so it &apos
+huathoibríoch
+uathoibrithe
+uathsheinm
+uathscrollú
+available &quot
+available Commands
+ar fáil
+meán
+meán
+avoid
+aware
+amuigh
+haise
+b
+bFiú
+bS
+cúil
+cúl
+backed up
+backed
+backfacevisibility hidden
+backfacevisibility
+chúlra
+backlogged
+backslashes
+chúltaca
+backups
+gcúl
+bad parameter
+Drochpharaiméadar
+badge
+baggage object
+bagáiste
+ban
+banks stores
+siopaí
+banned
+meirge
+bar
+barada
+bun
+based
+mbunlíne
+basic Page
+basic
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+feidir
+bear the
+bear
+beast
+beasts brought emfire
+beasts
+Maisitheoir
+maisiú
+became full
+became
+toisc
+become
+becomes damaged
+becomes
+Díghníomhachtaíodh
+been navigated
+been reestablished
+been replaced
+cúlghairthe
+been transferred
+been translated
+been
+beep
+roimh
+began
+begin
+shroicheann
+begins with
+begins
+comhpháirtí
+behavior
+behaviour
+behavioural
+being incompletely transferred
+being redirected
+being reparsed
+being
+t
+mionearráid
+belongs to
+belongs
+thíos
+benefit
+benefits
+beside
+best Match
+best accomplished
+best
+better
+between
+bfor Android
+bgt
+bidirectional
+dhéarfar
+bigger
+billing
+dénártha
+bind DN
+SASL
+binding shadows
+binding
+bindings tag
+bindings
+bird
+birdcage …
+birdcage
+birth
+bit keys
+giotán
+giotán
+bits
+bitten
+black
+bán
+block Lists
+block padding
+thuairisciú
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+Bactha
+baic
+blocks parts
+blocks
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+rithfear
+book
+bookmark updated
+bookmark
+Leabharmharcáilte
+leabharmharcanna
+books
+Boole
+bootloader
+border &apos
+border radius
+imlíne
+imlínte
+bun
+araon
+bun
+bound
+boundaries
+bounds
+box Model
+box model region
+box model
+bosca
+boxcom
+boxed
+teaglama
+boxing
+br
+lúibín cúbach
+braces
+brackets
+brand new
+brand profile
+brand
+brandFullName Credits
+brandFullName
+brandShortName &apos
+brandShortName Preferences
+brandShortName logo
+brandShortName
+brandShorterName Tour
+brandShorterName
+brandShortname
+break
+breakage
+breaking
+brisphointe
+breakpoints
+breaks
+brighter
+bring
+ginearálta
+SSLv
+brought
+browse
+browser &apos
+browser Hangs
+browser configurations
+bhrabhsálaí
+browsercachediskenable to
+browsercachediskenable
+mbrabhsálaithe
+browsing
+brulliMá
+cnp
+buddy list
+deo
+budget
+buffer capacity
+maolán
+fhabht
+bugs visit
+bugs
+bugzillamozillaorg
+build Configuration
+build
+building summary
+built
+builtin Roots
+builtin tools
+insuite
+bulleted list
+hurchair
+business
+gnóthach
+but we
+ach
+button button
+cnaipe
+cnaipí
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+túdarás
+bynbspdesign
+byte
+beart
+c
+cSrS
+cURL
+cache management
+taisce
+cachecontrol set
+cachecontrol
+i dtaisce
+cachemanifest
+caching of
+caching
+calendar Weeks
+fhéilire
+calendaring information
+calendaring
+féilirí
+calendartimezonesxpi
+call Stack
+call calls
+ghlaoch
+callUrl
+taisghlao
+called &apos
+called
+glaoite
+caller
+calling detach
+calling
+nglao
+cheamara
+t
+can analyze
+can collect
+can often
+can ’
+can
+cancel
+canceled Occurrences
+canceled
+cancellation
+cancelled
+cancelledAddon
+candidate resources
+candidate
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+chineálach
+canvas Debugger
+canvas an
+canbhás
+capabilities
+capable
+capacity
+ceannlitir
+foscríbhinn
+capture
+captureEvents
+captured log
+ghafa
+cárta
+cards copied
+cards etc
+cards
+care
+careful
+carefully
+caret
+carriage return
+carráiste
+carrier
+case sensitivity
+case
+caseinsensitive
+cases
+cast
+categories
+categorize and
+Catagóirigh
+catagóir
+categorySource
+cause
+caused
+causes
+causing stability
+causing
+caution
+caveats
+ccccc
+cd
+cell border
+cell was
+cill
+cealla
+cellular location
+cellular
+census
+center footer
+center header
+láir
+centered
+lárphointexlárphointeyga
+centimeters
+cert AIA
+cert Library
+cert validation
+cert
+certain
+certificSian
+teastas
+ch
+slabhra
+chathaoirleach
+change
+hathruithe
+chainéil
+charachtair
+charset
+S
+marcáil
+ticeáilte
+mozillacentral
+Macphálasta
+imíonn
+chrome//messenger/content/msgAccountCentralxul
+chrome
+shifir
+ciorc
+ciorcal
+mhaíonn
+class
+aicmitheoir
+glan
+cliceáil
+cliceáilte
+client
+fhrithvíris
+ghearrthaisce
+dúnadh
+dúnta
+Dúnann
+ndúnadh
+furtla
+cóid
+colgroup
+leacaithe
+Bailigh
+loirg
+collective
+éiligh
+dath
+ndathanna
+colún
+gcolún
+gcolúnle
+teaglaim
+liobarna
+teaglama
+come
+ordú
+horduithe
+camóga
+tráchta
+commit
+chumarsáide
+community
+Saorfaidh
+gcomparáid
+chomhoiriúnacht
+tiomsaithe
+comhlántach
+chríochnaithe
+completely
+comhlánaithe
+oiriúna
+sonraíocht
+comhpháirte
+Cum
+chumadóir
+eagraí
+comprehensive
+comhbhrú
+nganfhios
+s
+computer
+riomhairí
+conbv
+coinníoll
+coinníollach
+comhdhála
+Cumraíochta
+inchumraithe
+chumraíocht
+mbrabhsálái
+Cumraigh
+cumraithe
+conflict
+Úsáidtear
+ceangailte
+ndeachaigh
+cheanglófar
+consequential
+gconsól
+consolelog
+S
+iallach
+teagmhálaíCóipeáladh
+dteagmhálaithe
+Coimeádán
+ina bhfuil
+ábhar
+contenteditable
+contents
+context
+comhthéacsanna
+contributors
+rialaíonn
+rialtáin
+gcomhrá
+Tiontaigh
+fhianán
+fianáin
+comhordanáidí
+coords
+cóipeáilte
+gcóipeanna
+copy
+cóipeála
+chúinne
+chomhfhreagraí
+comhfhreagraithe
+corresponding
+truaillithe
+dtruaillfear
+could
+t
+líon
+áiritheoir
+cuimsithe
+cpnbv
+cpnbw
+gcliseadh
+chlis
+comhéadan
+createMediaStreamSource
+Cruthaíonn
+chrúthú
+creidmheasa
+ríthábhachtach
+trasfhoinse
+css
+csv
+ctnbr
+ctnbv
+reatha
+éilipseach
+saincheaptha
+shaincheapadh
+cut
+ciogal
+timthriallta
+da
+go laethúil
+bhfeicfidh
+damages
+darkness
+darrinhenein
+daiseanna
+sonraí
+mbunachar
+datareporting
+dáta
+lá
+lálálálálá
+lágach
+sholas
+lá anuas
+de
+marbh
+spriocam
+Dífhabhtaigh
+Dífhabhtóra
+dífhabhtú
+nollag
+nollaig
+cealgach
+cinneadh
+bhloc
+xuserdefined
+dhíchriptithe
+díchriptiúcháin
+réamhshocraithe
+réamhshocrú
+defaultPrevented
+réamhshocrúS
+sainmhíniú
+céim
+scrios
+scriosta
+sheachadtar
+sheachadadh
+ainmn
+ghiniúint
+ainmneoir
+éifeachta
+léig
+dhíthagartha
+shliocht
+íslitheach
+described
+siós
+tuarascálaí
+Scríbe
+Díscoir
+Bhraith
+dheontas
+developersmozillaorg
+forbróirí
+s
+Ghléis
+ghléasanna
+tástála
+thrasnánach
+léaráid
+dialóg
+dhialóga
+foclóirí
+fhoclóir
+t leave
+andeacair
+treo
+reporturi
+comhadlanna
+t include filename
+séard
+díchumasaigh
+díchumasaithe
+Disabling
+caillfidh
+disclaim
+disclaimer
+Dícheangail
+dícheangailte
+discontinue
+difríochtaí
+discretion
+bhealach
+diosca
+dispatched
+taispeána
+niatáin
+hidirdhealú
+distribute
+dáilte
+distributors
+div
+shíneadh
+docpdfxlspptrtfppsattachmentattachattachedattachingenclosedCViatániatáinhiatánhiatáinceangaltánceangaltáingceangaltángceangaltáincheangaltáncheangaltáiniamh
+cáipéisí
+doctype
+cáipéis
+doiciméadú
+documentdomainS
+cut
+documentexecCommand
+fianaise
+documentwrite
+does
+t match
+dollars
+bhfearainn
+ghrád
+mursaire
+t allow
+lorgfar
+oibreoirí
+oibreoirí
+poncanna
+chúngú
+Íoslódáil
+íosluchtúScrios
+dteachtaireachtÍosluchtaíodh
+á íosluchtú
+íosluchtuithe
+tarraing
+uairDeartha
+Tiomántán
+tiománaí
+dumpa
+dhúblach
+stríocthrasanuas
+e
+leithligh
+eagarthóireacht
+eagarthóir
+effect
+héifeacht
+drochéifeachtaí
+msh
+ochtú
+eightbit
+ocht
+eighteenth
+hochtú
+either
+elapsed
+elea reime
+eilimint
+elementdataset instead
+elementdataset
+eilimintí
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+eleven
+eleventh
+incháilithe
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+cuar
+else contact
+else
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+ríomhphost
+ve linked files
+emailI
+emailed
+seoladhexamplecom
+emails
+emand
+embarrassed face
+embarrassed
+embarrassing
+embed
+embedded PDF
+leabaithe
+embeds
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributor
+emcontributorJoe Solon
+emcontributorSéamus
+emcontributorKevin
+emfire
+emgreat
+emnew
+emseachas
+straoiseoga
+employer
+empty Trash
+empty slots
+folmha
+emptying
+emreborn
+emrenewed
+emswiftly
+emthunder
+emtwins
+emulate a
+haithris
+emulating a
+emulating
+emulation
+en
+enUS en
+gaIE
+enable brandShortName &apos
+enable others
+enable worker
+cumasaigh
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+Cumasaíodh
+enables
+enbz
+iniata
+encode
+encoded
+encoder
+iochódú
+encodings
+encountered
+encrypt this
+chriptiú
+encrypted you
+Chriptigh
+criptiúcháin
+enctype instead
+enctype
+enctypeS
+enctypemultipart
+end user &apos
+end
+ended
+endexpand
+ending with
+ending
+chríochphointe
+ends up
+ends with
+chríochnaíonn
+enforced
+engage
+engine
+ninneall
+enhanced
+enjoy
+enlarging the
+enlarging
+enough
+ensure
+ensures that
+ensures
+enter
+bha
+entering
+enters
+iomláin
+entirely
+éalú
+entity in
+entity reference
+entity
+hiontrálacha
+iontráil
+ináirithe
+enus
+environment Data
+timpeallacht
+environments
+ephemeral DiffieHellman
+ghearrshaolach
+equals sign
+equals
+cothromóid
+equestAnimationFrame
+era of
+erase
+error console
+error creating
+error refiling
+error
+errorCode
+errorfree
+earráidí
+erver
+es Salaam
+es
+esES
+esc
+escape
+escaped
+escaping
+establish
+established
+estimates only
+estimates
+etc
+eval
+evaluate selected
+evaluate
+evaluating a
+evaluating an
+evaluating
+luachála
+fiú
+event Handler
+theagmhas
+eventThe
+imeachtaí
+ever
+every dayevery
+every weekevery
+cuairte
+everyone
+everything inbetween
+everything
+everywhere
+Clóscríobh
+exactly
+examf
+examine your app &apos
+examine
+tagróirí
+examplecom rather
+examplecom
+examplenet
+exceed five
+exceed the
+exceed
+uasmhéid
+exceeds
+Except
+eisceacht
+exceptions Cookies
+heisceachtaí
+malartú
+excluded
+nach bhfuil ann
+exclusion
+executable
+execute
+executed to
+executed
+executes
+execution
+exemplary
+exist can &apos
+exist
+atá ann
+bheo
+existsWould
+exit
+exited
+exits
+expand panes
+Leathnaigh
+expanded to
+leathnaithe
+expanding out
+expanding
+expands to
+Déanann
+expandstrict
+expect anonymous
+expect
+expectations
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+bhíothas
+expecting
+experience
+taithí
+experiences
+experiencing
+turgnamh
+turgnamhacha
+experiments
+expire
+as feidhm
+expires Seconds
+éaga
+expiry
+explicit
+explicitly specify
+explicitly
+exploit
+explore a
+explore
+export regulations
+easpórtála
+exported
+expose
+exposedProps
+express
+expression
+expressions
+sín
+Bhreisithe
+extending the
+extending
+extends system
+extend
+inbhreisithe
+extension extensions
+iarmhír
+eisínteachtaí
+external Editors
+external storage
+external
+anmhór
+extra requirements
+bhreise
+extract error
+extract
+extraction error
+extraction
+extreme
+f
+face
+facing camera
+facing
+factory
+fail
+nuashonrúTheip
+fails treat
+fails
+teist
+tacachumas
+false
+familiar
+family addressbr
+family
+far
+fast
+tapúla
+faves
+faxed
+ngné
+features
+feb &#124
+feabh
+feabhra
+feed &quot
+feed Subscriptions
+bhfotha
+nuaIompórtáladh
+feedback
+fhothaí
+feel
+feels great
+feels
+fell
+fál
+fetch count
+fetch
+fetched from
+fetched
+fetching individuals
+fetching more
+ngabháil
+few
+fewer
+ff &quot
+ff
+field Value
+Réimse
+fields
+cúig
+fifteenth
+gcúigiú
+pic
+fíor
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+comhad
+filename
+files
+filesystem
+filing
+fill out
+líonta
+fillStyle
+filled
+filling
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+scag
+filtered
+filtering
+scagairí
+final
+financial
+find In
+find exactly what you &apos
+s
+aimsigh
+findbar
+finding
+finetuned
+finish
+finished evaluating
+finished
+finishing
+fire
+firefox
+firefoxapps
+balla
+firewalls
+first option
+first party
+haonú
+fit
+five
+fix
+Aonleithead
+fixed width font
+fixed
+fixvideoaudioproblemsfirefoxwindows
+bratach
+flagged
+flame
+flash
+péinteála
+flat equation
+cothromóid
+flexibility and security so you &apos
+flexibility
+flexiblebr
+
+floating
+floor
+floppy
+flr
+focus Variables
+focus
+bhfócas
+folder &apos
+folder &quot
+folder subscriptions
+fhillteáin
+fillteáin
+follow
+followed by
+followed
+followers
+following protocols S isn &apos
+ónar
+follows
+followup
+font Control
+font size
+font
+fontface rule
+fontface
+fontfeaturevalues
+fonts for
+míionchódaithe
+fontvariant property
+fontvariant
+footer text
+buntásc
+footinmouth face
+footinmouth
+for &apos
+for &quot
+for Clearing
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+for recipients &apos
+for signing
+for writing
+fháthanna
+forbidden
+force
+éigean
+forcibly
+forcing all
+forcing
+foreign
+forgeries
+forgery
+Dearmad
+forgetting
+forgotten
+form Field
+form Post
+form fields
+form userhost
+foirm
+path
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+PríobháideachformatS
+formats
+formatted as
+formatted
+formáidiú
+formdata on
+formdata
+formed
+forms are
+forms
+forth and
+forth
+forums
+forward slashes
+forward
+curtha ar aghaidh
+forwardmsg
+forwards
+Mheas
+foundout of
+foundout
+founds
+four
+ceathair
+fourteenth
+gceathrú
+fox jumps over your expectations with
+fox jumps
+fox
+fss
+frFR
+codán
+codán
+fragment Shader
+blúire
+frame &apos
+fráma
+frámaithe
+framerate
+frámaí
+frameset
+Composer
+bhfeicfí
+calaois
+fraudulent
+shaor
+frequently
+fresh
+friday &#124
+aoine
+haoine
+friend
+friends
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+ó
+front facing
+front
+frown face
+frown
+reoite
+ftp
+ftpmyispcom
+full
+fullfeatured
+fullpage
+fullscreen
+fully
+function
+functional
+functionality
+na feidhmeanna
+further
+future scans by
+todhchaí
+fxp Available
+fxp
+gain
+gallery
+garbage Collection
+garbage collection
+garbage
+garbled text
+garbled
+gateway
+gathering
+gazed
+gb
+gdiplus
+gear icon
+gear
+general Notification
+general
+generally
+generate a
+generate
+generated
+generation
+ghineadóir
+generic Photo
+generic
+geoenabled preference
+geoenabled
+geoshuíomh
+geometric
+geometry visibility
+geometry
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+get
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+getAttributeNode
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+Fháil
+getwebglorg
+gif jpg
+gif
+
+git
+give feedback
+give
+Argóint
+gives you
+gives
+giving
+glitches
+bpatrún
+Comhchoiteanna Cumtha
+global community
+uilíocha
+globals
+go Back
+go
+goes
+going online
+going
+gone
+good news
+good
+goodwill
+gopher
+gorithm Identifier
+got it
+got
+governed by
+governed
+grace
+grant
+granted
+grants you
+grants
+grafaic
+graphics
+chroí
+greater than
+greater
+greeting
+grew more
+grew
+grid
+cill ghreille
+greim
+grúpáil
+Grúpáilte
+groups
+gt
+gtgt
+guarantee that
+guarantee
+guaranteed
+guess
+guessed
+á tomhas
+guest is
+guest
+guide you
+guide
+treoirlínte
+h
+hTraduction
+ha
+hacking
+had its
+had
+half an
+half past
+half
+hand tool
+uirlis
+handle S
+handle
+handled
+handler command
+handler
+láimhseálann
+FetchEvent
+hands
+tionscantaí
+handshakes
+hang Report
+hang stacks
+hang
+hangs
+happened
+happens
+hard drive
+hard
+hardware H
+hardware acceleration
+cruaearraí
+harm
+aonturas
+has Attachments
+has bookmarked
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+rindreála
+hash
+hashes in
+haiseanna
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+úsáideoiróstach
+haven &apos
+haven
+haves
+having trouble
+having
+head
+ceanntásc
+ceanntásca
+heading level
+ceannteideal
+headings
+health
+tionachta
+hear
+height
+held
+hello extension
+hello
+help
+chabhraigh
+helpful
+helping make
+helping
+helps ma
+helps
+her
+anseo
+here
+folaithe
+hide Statistics
+hide Toolbars
+folaigh
+hiding
+high Grade
+high
+higher level
+higher
+highgrade
+highlight
+aibhsithe
+highlightedS nodes
+aibhsitheS
+taibhsitheoir
+highlighters
+highly recommended
+highly
+hightailcom
+him
+hints press
+hints
+his or her
+his
+history window
+history&apos
+stair
+hold
+holds
+home City
+home Country
+home Phone
+home directory don &apos
+home
+bhaile
+hop limit
+bpreab
+horizontal lines
+cothrománacha
+horror
+tóstríomhaire
+óstáilte
+hosting service
+óstála
+hostname
+óstainmport
+hostnames
+hostport
+óstríomhairí
+hotspots
+hour
+uairuairuairenuaireuair
+uaire
+conas
+however
+href
+hrink
+hrpd
+stríoc chothrom
+htm
+html &apos
+html
+htmlstrong
+htmlstrongCookies
+htmlstrongStair
+htmlstrongCluaisín
+htmlstrongFuinneog
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http//wwwseamonkeyprojectorg/
+http
+https//developermozillaorg/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad
+https
+lí
+human
+hundred
+iCalendar
+iOS
+deilbhín
+icons
+id
+haitheantóir
+aitheantóirí
+dteideal
+shainaithint
+taitheantas
+díomhaoin
+ghlanfaidh
+iframe
+timpisteach
+iii
+neamhdhleathach
+s
+image
+picgif
+picjpeg
+picpng
+luchtófar
+mapa
+phearsanú
+dtábla
+intuigthe
+iompórtála
+tábhachtach
+Iompórtáilte
+neamhdhíreach
+gcuid
+i
+doshroichte
+hoibríochta
+orlach
+incidental
+Iarthar
+áireamh
+including
+neamhchomhoiriúnacha
+incorporates
+Eangaigh
+eangaithe
+index
+innéacs
+indirect
+ined
+éigríochta
+bhfaisnéis
+inherit
+initial
+thúsaithe
+Túsaigh
+túsú
+injure
+inlíne
+nuálacha
+ionchur
+neamhshláin
+Ionsaigh
+nionsá
+láimhseálaí
+iniúchadh
+suiteáil
+tsuiteáil
+bhreiseánD
+á shuiteáil
+háit
+instructions
+slánuimhir
+intended
+spéis
+ID
+comhéadain
+inmheánaigh C
+inmheánach
+into
+neamhbhailí
+chuireadh
+comhdhálacha
+páirteach
+©
+atá
+isindex
+t
+nach bhfuil
+eisiúint
+eisithe
+eisitheora
+pacáiste
+Míre
+mhír
+míreanna
+atriallta
+mhacnóid
+ean
+eanáir
+javascript
+jab
+tadhgorodaiexamplecom
+Comhcheangail
+jpg
+tadhgor
+iúil
+léimte
+meith
+meitheamh
+raiméis
+jurisdictions
+kb
+coinneáil
+eochrach
+méarchlár
+Eochairfhrámaí
+lorgtha
+stoptha
+know
+lipéad
+leagtha
+language
+mhór
+caite
+roimhe
+later
+thosaithe
+law
+laws
+ldi
+foghlaim
+fág
+ar chlé
+lefttoprightbottom
+oidhreachta
+fhaid
+oiread
+oiriúnú
+leibhéal
+clé
+li
+liScrúdaigh
+liMá
+liBí
+liTéigh
+liBrúigh
+liNí
+liUaireanta
+liBain
+liability
+liable
+leabharlann
+licenses
+licensing information
+licensing
+licensors and
+licensors
+light
+gile
+liliMura
+liliemLEID
+limit
+limitation
+line
+nasc
+linked
+nascanna
+liosta
+listed
+litriúil
+nsc
+luchtaigh
+luchtaithe
+á luchtú
+logánta
+logchaighdeáin
+locations
+glais
+faoi ghlas
+logchomhad
+tháirgeadh
+comhéadán
+shábhálfar
+logo
+leanúnacha
+long
+roinntfhada
+lúb
+chailliúint
+caillte
+lt
+ltCtrlKgt
+ltCtrlShiftKgt
+ltgníomh
+ltbgttromlt
+ltcainéalgt
+ltordúgt
+ltheadgt
+ltjidgtltteachtaireachtgt
+ltteachtaireachtgt
+ltainmgt
+ltmód
+ltleasainmgt
+ltleasainmgtltleasainmgt
+ltfocal
+ltr
+ltseomragtltfreastalaígt
+ltspriocgt
+ltainm
+ltxExKgt
+ltxKgt
+lu
+modhnaithe
+made available
+made
+madruwb
+mhánna
+post
+boscaí
+maildir
+mailexamplenet
+Postála
+príomh
+make
+SHAa
+mhídhéanta
+mailíseach
+bainistigh
+bainistíocht
+lastliosta
+manifestjson
+manifestwebapp
+lámhleabhar
+mapa
+már
+márta
+
+imeall
+Imill
+mark the
+marcáil
+marked
+marking a
+marking
+Marcála
+suaitheantas
+mascadh
+master
+meaitseálann
+aimsitheNíos
+matched by
+meaitseáilte
+matcheleatchMore than
+a mheaitseálann
+chomhoiriúnacha
+matchutomatically
+material
+math table
+mata
+matrix
+uas
+uasta
+maximum Length
+maximum permissible
+maximum
+may discontinue
+may update
+bealtaine | bea | bea | beal | beal
+maybe
+mb of
+mb
+mbox
+me out of here
+me
+mean slower message
+gciallaíonn
+means you &apos
+means
+measure a portion
+measure a
+measure
+tomhas
+measuring
+mechanism
+mechanisms
+media Sharing
+meáin
+medium
+meet
+member
+muinteartha
+baill
+memory map
+memory measurements
+cuimhne
+luann
+menu Bar
+menu bar
+roghchláir
+menuPath
+menus
+merchantable
+merge Warning
+merge all
+Cumaisc
+mesh
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+teachtaireachtÍosluchtaíodh
+messageDone
+messageIndexing
+messageS
+seobr
+messagebrIn
+tchteml
+messagegt
+messageid
+messages Reopen
+teachtaireacht is déanaí
+messaging
+Meitea
+metadata
+metal posteriors
+metal
+metaviewport tag
+metaviewport
+meter
+method &apos
+mhodh
+methodGET
+methodPOST and
+methodPOST
+methodpost
+methods
+mhicreafón
+microsummary
+middle Eastern
+middle
+chriosanna
+migrate to
+migrate your
+Ascain
+migrated
+milliméadar
+millisecondPing
+milliseconds
+mimetype of
+mimetype
+íos
+mind
+minheight
+mionmhí
+minimum
+minjs
+minor
+nóim
+minute minutes
+minute
+nóiméadGach
+nóiméadnóiméadnóiméadnóiméadnóiméad
+minutes ago
+minutes …
+nóiméad
+minwidth em
+minwidth
+misconfiguration
+míchumraithe
+misencoded
+mismatch
+mismatched tag
+mismatched
+missed reminders
+missed
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+missing
+misspelled word
+misspelled words
+misspelled
+mistake
+mistakes
+bhriste
+mix
+measctha
+mmultiscripts
+Soghluaiste
+mode and can &apos
+mhód
+modegt
+model
+modelview
+labhairt
+mhodhnóir
+nuaaimseartha
+modes
+modified
+modifier
+modifiers
+modify
+module returned
+mhodúl
+díchriptithe
+ionchóduithe
+moment
+momentarily
+moments
+luan
+luain
+moneymouth face
+moneymouth
+monitor
+month
+monthS of
+míS
+mígach
+go míosúil
+months
+more bookmarks
+more powerful
+more savings
+nódTaispeáin
+moreand
+eolaisx
+tuilleadh…
+most Visited
+most accurate
+most popular
+most
+mostrecently
+mouse Wheel
+luch
+move Down
+move Up
+move away
+move emswiftly
+bog
+inbhogtha
+moved renamed or deleted
+moved renamed
+moved
+movedS
+movemail
+moving
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+mozVisibilityState &apos
+mozVisibilityState
+mozcmd directory
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+mozillaorg
+mozinlinebox display
+mozinlinebox
+mprescripts
+ms
+msf
+msgFilterRulesdat file
+msgFilterRulesdat
+mhoille
+multiline
+ilmheáin
+multiple links &quot
+iomadúla
+multiplied And
+multiplied by
+multiplied
+ilphróisis
+Ilseachtaine
+ceoil
+must involve
+Caithfear
+my &quot
+my Cert
+my Projects
+my Quick
+my Task
+my Yahoo
+my windows
+mo
+mypagehtml &quot
+moleathanachhtml
+
+n
+nWhen your
+nNuair
+name &quot
+tainm
+nameSource
+ancaire
+named either
+named
+hainmneacha
+ainmspás
+hainmspásanna
+narrowing
+native code
+dúchasach
+natively
+navigate
+navigated
+nascleanúint
+navigation Toolbar
+nascleanúint
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+ngar
+nearby
+nearest
+necessary
+mhúineadh
+lei
+needing to
+needing
+needs
+negate
+negated
+shéanta
+diúltach
+ndearna
+negotiate
+negotiating a
+negotiating
+negotiation
+neither
+nested Table
+Neadaithe
+nesting
+netnz /
+netnz
+Netscape
+netscapepublicmozillamailnews&apos
+network Monitor
+network Timeout
+network drive
+network section
+líonra
+never Show
+choíche
+new Caledonia
+new Separator
+new Tab
+new Zealand
+new home
+new word
+nua
+newer
+news client
+news
+newsexamplenet
+newsgroup subscriptions
+ngrúpa
+newsgroups
+newsrc File
+newsrc file
+newsrc
+next gt
+chugainn
+chéad
+nicer
+leasainm
+leasainm
+nicknamegt Change
+nicknamegt
+nicknames
+logainmneacha
+oíchiúil
+nikto
+naoi
+naoi
+nineteenth
+naoú
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+níl
+noMac
+noWin
+nocors&apos
+nocors
+node
+nodeShow all
+nodeShow
+nodeValue
+díghlasáil
+nodes
+nominative
+Neamhrannpháirtí
+non
+nonASCII
+nonFORTEZZA Certificate
+nonFORTEZZA
+neamhGhréagórach
+neamhfhreagrach
+nonUTF encoding
+nonUTF
+nonascii character
+dophriontáilte
+noncesource
+noncharacter
+faic
+neamhní
+neamhfholamh
+nonfunction pseudoclass
+nonfunction
+neamhghinearálta
+nonincremental Cause
+neamhbhreisíoch
+neamhdhuilleog
+nonmultiprocess
+nonnavigation
+neamhdhiúltach
+nonparticipant
+nonprintable character
+nonprintable
+nonprofit Mozilla Foundation
+eagraíocht
+nonspace in
+neamhspáis
+dheasca
+nontext
+nonvoid
+meán lae
+nor
+ghnáthshlí
+noscript
+nosniff
+cachecontrol
+not After
+not Before
+not Connected
+NeamhChriticiúil
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+not Installed
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+not checked
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+not
+notation be unescaped
+notation be
+notation
+note Slow
+nóta
+eisiúna
+nothing
+notice
+noticed
+notification Permissions
+notification _
+notification
+fógraí
+seolfaí
+notifier or
+fogróir
+notify me
+notify
+noting
+nounclass
+nov &#124
+samhna
+samhain
+now doesn &apos
+anois
+npmmailnews&apos
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+nsIWindowMediator
+nsIWritablePropertyBag
+uimh
+nUimhreacha
+huimhreacha
+numbers negative
+numbers
+uimhreoir
+numeric
+nursery Collection
+nursery Eviction
+naíolann
+obj Properties
+obj
+object Stores
+réad
+oibiachtaí
+obscured
+observed
+observers
+obtain
+occur
+occured
+occurred
+occurrence of
+occurrence
+occurrences
+Tarlóidh
+oct &#124
+dfómh
+deireadh fómhair
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+of Man
+of Office
+of Operation
+of Sync
+of Validity
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+atarlaithe
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+as
+de
+ofbr
+off paint
+as
+offer
+offered
+offering
+offerings
+offers
+offerxA »
+as líne
+offline_apps
+offsets
+often
+ok
+seanfhocal
+older than
+older version of Sync
+older
+oldstyle YouTube
+oldstyle
+omitted
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+ann
+ar
+once
+one Level
+one moreand
+thoradhFéach
+oneoff
+ones
+oneshot
+oneubuntucom
+ongoing
+online
+only reloads
+only supports
+only transmitted
+only
+onlybr
+opacity in
+teimhneacht
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opcode
+open Web
+open WebIDE
+oscail
+oscailte
+opening fence
+opening
+opensource
+operating system
+chomhoiriúint
+operation command
+operation failed
+oibríocht
+operations error
+oibríochtaí
+operator expected
+oibreora
+operators
+opportunity
+opposed
+optamú
+optamuithe
+optimized away
+optimized
+optin No
+optin
+option Group
+rogha
+optional defaultS
+roghnach
+optionally
+options
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+nó
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+tord
+organization
+heagrais
+organizer
+origin
+originAttributes
+bunúsach
+originally
+bunchóipeanna
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+eile
+others
+otherwise it
+otherwise
+gheoshuímh
+our partners
+our
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+out
+outage
+ainneoin
+outgoing
+imlíne
+outlook
+outofdate
+output folder
+aschurtha
+amuigh
+over other apps &apos
+osscr
+forchostas
+forleagain
+sáraithe
+override the viewer &apos
+Sáraigh
+overriding
+osscript
+overview
+bhforscríobhfaidh
+overwritten
+own
+owned
+owner of
+chumragh
+ownerElement
+ghréasáin
+úinéirí
+p pIf
+p
+pA secure
+pA
+pAdditional information
+pAdditional
+pAttack pages
+pDéanann
+pDeceptive sites
+pDeartar
+pEntering any
+pEntering
+pMá
+pThe browser
+pThe page
+pThe requested
+pTá
+pThese types
+pThese
+pCé
+fabhtacha
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pYou
+pSíleann
+incrimintigh
+pacáistithe
+paicéid
+stuáil
+s
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+nascleanúint
+page translation
+page }
+leathanach
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+pages they &apos
+pages
+paint flashing
+aibhsiú
+painted area
+péinteáilte
+pair a
+pair
+pána
+phainéal
+pánaí
+panning
+Páipéarmhéid
+paper
+paragraph Marks
+alt
+param
+parameter entity
+paraiméadar
+pharaiméadair
+paranoid
+parent Match
+parent Payload
+parent prefix
+parent
+parse XML
+parse failure
+Pársáil
+parsáilte
+parser state
+parsálaí
+parsála
+part of
+part
+páirtnuashonrú
+partial character
+partial
+inrochainteachta
+participant
+participants from
+participants
+participate
+particular purposes
+particular
+parties
+partner You
+partner
+partners We
+partners work
+partners
+gcomhar
+chodanna
+party
+partyAre
+pass
+passed to
+passed
+passive ’
+passive
+ff
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+
+modhanna
+passwordLeave
+passwordStored
+passwordprotected
+cártaí
+past
+greamú
+patch apply
+phaiste
+chonair
+paths starting
+paths
+pattern &apos
+pattern
+pause
+paused —
+Shos
+payload
+payment provider
+íocaíochta
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+peace
+peer &apos
+comhghleacaí
+peers &apos
+peers
+pending dump
+feitheamh
+people &apos
+people wouldn &apos
+people
+per
+céatadán
+percentage of
+céatadán
+percnt Completed
+percnt
+perform caseinsensitive
+perform querySelectorAll
+perform
+thuiscint
+néireodh
+performed
+performgt
+performing
+rialta
+permanent exception
+bhuan
+permanently deleted
+permanently
+permissible length
+permissible
+permission denied
+núinéirí
+gCeadanna
+smacht
+permitted
+persistent logs
+logchomhaid
+person &apos
+person who holds
+person
+personal Card
+personal
+personalhttp//wwwmozillaok
+uilphas
+uillinn phasach
+uillinn
+bréagbhrandáil
+Abairtín
+phictiúr
+Feistigh
+pingithe
+picteilíní
+placeholder
+plan
+ardáin
+sheinm
+fhorlíontán
+forlíontáin
+plunged the
+plunged
+pm
+hiarmhír
+Podchraoladh
+podchraoltaí
+pointe
+policies
+poly
+éilimh
+poirt
+portions
+position
+Cinnteoidh
+postMessage
+posteriors
+Consóil
+powerful
+ppTá
+pp
+ppScaipeann
+réamhchumraíocht
+pref
+Sainrogha
+preferences
+preferonline
+fhormáide
+réimír
+réamhiarratais
+á ullmhú
+réamhscanadh
+caomhnú
+choimeád
+press
+brúite
+réamhfho
+réamhfoscript
+réamhfhor
+réamhforscript
+preventDefault
+preabfhuinneog
+praghais
+príomhsheoladh
+primev
+principal
+priontáil
+printed
+printéir
+phrintéirí
+tosaíochtaí
+tosaíocht
+privacy
+phríobháideach
+phribhléid
+phróisis phribhléideacha
+phróisis
+pribhléidí
+fhadhb
+deacracht
+mhodhanna
+próiseas
+processed
+próiseála
+product
+bpróifíl
+próifíleoir
+phróifílí
+próifíliú
+ríomhchlár
+ríomhchláir
+shiúl
+Tionscadail
+réamhfhocal
+lnit Geallta
+gealltanas
+proper
+tharlaíonn
+hairíonna
+tairí
+cosanta
+cosaint
+phrótacail
+bprotacail
+provide
+provided
+s
+sholáthraí
+providers
+provisions
+bhfíordheimhniú
+tseachoibiacht
+mbréagaicme
+bréagaicmí
+bréageiliminte
+súdcheanntásc
+pÚsáideann
+Poiblí
+tá nótaí
+Foilsigh
+Foilsíodh
+Fhoilsithe
+pulliMura
+pulliMar
+pulliD
+pulliTéigh
+amháinbr
+purposes
+lúibín
+px
+q
+qmozillaorg
+quality
+quarrelled
+scuaine
+quotRoghannaquot
+quotPéireáil
+quotSainroghannaquot
+quotSocraigh
+chuóta
+tathfhriotal
+thimpeall
+quotsyncBrandshortNamelabelquot
+qwxyz
+fréamh
+fréamh
+raidió
+ga
+raon
+athseinte
+raw
+insroichte
+Shroich
+Léadh
+léitheoireachta
+FoinseAmháin
+inléite amháin
+Fíorord
+Antapa
+hidircheapadh
+bhfíoram
+reason
+receipt
+fuair
+glactha
+s
+recipient
+
+molta
+athcheangal
+tathcheangal
+taifead
+shaoradh
+Nuair
+rect
+dronuilleog
+cruth
+nathdhíriú
+athstiúradh
+samplacha
+heochrach
+regexp
+réigiún
+chlárú
+Cláraithe
+gClárlann
+athdheartha
+Gaolta
+relating
+gaol
+coibhneasta
+releaseEvents
+ábharthacht
+malartach
+athluchtaigh
+á athluchtú
+athluchtaíonn
+bogtha
+remain
+remaining
+meabhródh
+mheabhrúcháin
+i gcéin
+baint
+removeAttribute
+removeEventListener
+Bainfear
+Bhaint
+Athainmnigh
+Rindreála
+athidirbheartaíocht
+athoscail
+Deisigh
+athdhéanamh
+athrá
+athráuathlíon
+ionaid
+pictiúir
+freagartha
+amháinFreagra
+chumadh
+bhacadh
+s
+tuairiscithe
+deir
+reporturi
+Údarás
+tiarratas
+setTimeout
+iarrtha
+Amlínte
+riachtanach
+éilíonn
+reserve
+coimeádta
+hathshocrú
+Réıteach
+áis
+acmhainní
+shofhreagracha
+fhreagair
+freagróir
+freagracht
+Atosaigh
+hathchóirigh
+result
+dtoradh
+toradh
+atosaíonn
+Coimeádta
+gcosáin
+aisghabhann
+hatriail
+return
+returned
+atuíteála
+léirmheas
+rgb
+deas
+ar dheis
+deaschliceáil
+rights
+risk
+contúirtí
+risky
+bosca cr
+seomra
+seomraí
+fréamh
+Rothlaigh
+rothlú
+garbha
+ró
+róagus
+rrrrr
+rtl
+ruby
+rialach
+rialóirí
+bainteacha
+Tobscoireadh
+gcuirfear
+ritheann
+rite
+Update
+safe
+céanna
+ndearnadh
+samplaí
+gainimh
+sáithiú
+satharn
+sathairn
+choigilt
+sábhaladh
+spárálaí
+say
+scálaithe
+camscéim
+Scan
+bhfeiceann
+scóip
+scór
+gCeap
+Pictiúr
+script
+scriptithe
+scrollbharra
+tarraingt
+séalaithe
+cuardach
+cuardaigh
+soic
+soicindAm
+soicind
+soicindshoicindshoicindsoicindsoicind
+secpk
+secpr
+secret
+rannóg
+sectk
+sectr
+daingean
+slándála
+amháinFéach
+doctype
+seek
+cuardach
+seem
+cosúlacht
+seen but
+seen
+select &quot
+select camera
+select
+selected line &apos
+roghnaithe
+trína
+selection
+selections above
+selections
+selectlabel
+roghnóir
+selectors separated
+roghnóirí
+selects
+selfsigned
+leathstad
+send Feedback
+send For
+send
+s
+sender message
+seoltóir
+sending
+sends
+rúnda
+sensitivity
+sent Cookie
+sent
+sep &#124
+mf
+separate tags
+Scar
+separated
+separately
+separating
+separator character
+deighilteoir
+mfómh
+september
+sequentially as a waterfall
+sequentially
+serial Number
+serial number
+serial
+series
+serif
+server &apos
+server Quota
+
+server incorrectly
+server maintenance
+server that can &apos
+bhfreastalaí
+servers Maybe
+fhreastalaithe
+serves
+service providers
+service worker
+service
+services
+serving
+session ID
+session Id
+session Statistics
+session cache
+tSeisiúin
+sessions
+set Priority
+set browsercachediskenable
+set strokeStyle
+shocraíonn
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+requestAnimationFrame
+setUserData
+PannerNode
+sets
+setting
+settings &#124
+
+shocruithe
+setup options
+setup
+seven
+Seacht
+seventeenth
+sheachtú
+several ways
+several
+shader Editor
+shader compile status
+shader compile
+Scáthlínitheoirí
+shadows variable
+shadows
+shall control
+shall
+shape &quot
+shape
+Fheiceáil
+shared Workers
+shared
+sharedLongDesc
+shares
+sharing
+sheet
+sheets
+blaosc
+sciath
+shiftKeylabel
+Shiftcliceáil
+shiny metal posteriors which
+shiny
+shopping
+short
+aicearra
+aicearraí
+shorten this
+shorten
+shorter file
+shorter
+shortly
+shortname
+should keep
+should make
+éifeachtach
+shouldn &apos
+shouldn
+show Cookies
+show resultShow
+show through
+taispeáin
+showall &apos
+showall
+showing repairing
+showing
+shown
+shownReplies
+hoibríochtaí
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+shutdown
+shutting down
+shutting
+sibiling
+side
+taoibh
+sidebarName
+barraí taoibh
+sign in
+cothroime
+signal
+signature algorithms
+tsínithe
+signatureAlgorithm
+signatures
+signed
+signer &apos
+signer
+signers found
+sínitheoirí
+significant
+signing certificate
+signing
+signup
+thiocfaidh
+silently authenticates
+silently
+similar
+simple Measurements
+simple XLink
+Simplí
+simplithe
+simply need
+simply
+ionsamhlú
+simulator installed
+tionsamhlóir
+since
+single
+singlesignon
+site &apos
+site doesn &apos
+tSuímh
+sitename &apos
+sitename
+sitenat
+barrshuíomh
+séú
+ sixteenth
+sixteen
+sixteenth
+shéú
+size
+náireamh
+skip Integration
+skip this
+skip
+skipped
+skips
+poncponcslais
+slais
+slashes ie
+slashes
+slice
+sleamhnán
+sliotán
+shliotán
+slow Motion
+slow SQL
+slow down
+slow ×
+slow
+slowing
+slowly
+small
+smaller
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+smiley
+mínscrollú
+smooth
+smtpexamplenet
+roghbhlúire
+roghbhlúirí
+snews
+so it &apos
+so it can &apos
+so you &apos
+ea
+soap
+soicéad
+software makers
+software
+solid Border
+solid circle
+neamhbhriste
+solution
+solutions
+solve a
+solve
+some cool
+some printing
+some sample
+some unspecified
+some
+somebody &apos
+somebody
+someone isn &apos
+someone
+dainséarach
+sometimes
+somewhere earlier
+somewhere
+soon
+sorry BrandShortName can &apos
+sorry we &apos
+brón
+sort
+sound file
+fhuaim
+sounds like
+fhuaimnítear
+source software
+source
+fhoinsí
+space Fantasy
+space between
+spás
+spásanna
+spam
+span class &apos
+span
+spanThis
+spanbrandShortName
+spandisabled
+spanenabled
+spans
+spanspan
+speak now
+speak
+speaking
+spec in
+spec
+special incidental
+special kinds
+special
+specific command
+specific
+specifically
+chomhlíonadh
+sonrú
+pSonraíonn
+specify preferred
+specify
+specifying a
+specifying acceptcharsetutf
+specifying
+speed
+speedOfSound
+spell checking
+spell
+spellchecker
+spelling
+gcaitear
+caite
+caschnaipe
+spin
+split
+sponsored
+spólála
+spiaireachta
+fréamh ch
+square root
+chearnach
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+chobhsaíocht
+cobhsaí
+stack trace
+stack
+cruacha
+standalone
+standard time
+standard toBlob
+standard
+standards mode
+standards
+star rating
+star
+marcáilte
+start Debug
+start Simulator
+start
+started finding
+tosaíodh
+starting with &apos
+starting
+startlabel
+startmozillaorg
+thús
+startup
+staid
+ráiteas
+statements
+statistics about
+statistics
+stats
+status &apos
+status bar
+stádas
+stay
+steal
+step Over
+chéimníonn
+stepped through
+chéimneofar
+céimniú
+steps out
+steps
+still
+stolen
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+stop
+stopped
+dtógáil
+stops
+storage quotas
+stóras
+storages
+store
+stóráilte
+stores information
+Sábhálann
+storing
+sruthú
+strength
+strict protection
+strict
+stríoc
+string literal
+teaghrán
+strings or
+strings
+strokeStyle
+tréan
+strongApps
+strongGléas
+strongThe Book of
+strongThe Book
+strongThe
+stronger Emphasis
+stronger
+strongexamplecom
+stronghttp
+strongly recommends
+strongly
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+struchtúr
+structures
+studies
+study Findings
+study
+style Editor
+style Inspector
+style endexpand
+stílbhileog
+pct
+stíleanna
+stylesheet
+stylesheets
+stylesrc
+fo
+fhochomhadlann
+focháipéis
+saoróg
+subdomains
+subfolder
+nDramhphost
+subgrid
+subgroups
+subject Reminder
+subject
+submission to
+submission
+submit Query
+submit bugs
+submit information that &apos
+submit
+submits
+submitted
+submitting your
+submitting
+subresource
+subscribe Calendars
+liostáil
+subscribed
+subscribedImported
+subscribing
+foscript
+subscription
+Shíntiúis
+subsession data
+fosheisiúin
+substituting
+fhoshnáithe
+subthreads
+subtree
+succeed
+succeeded
+successful
+successfully Transmitted
+successfully
+such
+suddenly
+sufficient
+suggest
+suggested Contribution
+suggested Tags
+mholta
+suggestion
+moltaí
+suggests
+suit
+suitable
+suite
+suites are
+suites
+suim
+summary file
+achomair
+summoned
+domhnach
+domhnaigh
+for
+superscript pair
+forscript
+superseded by
+superseded
+fásta
+soláthraíodh
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+Tacaigh
+selector
+supporting
+supportmozillaorg
+supports
+lánchinnte
+surface area
+surface
+surprised face
+surprised
+surrogate
+surrounding environment
+máguaird
+survey is
+survey
+susceptible
+suspected
+suspicious
+sutomatically
+svSE
+svg
+switch to
+athraigh
+athraithe
+switching
+siombail
+siombailí
+sync them
+sioncrónú
+Criptímid
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+péireáil
+Sioncronaithe
+synchronization
+Siocrónaigh
+sioncrónach
+siocrónú
+synctitlepairlabel
+syntax Highlighting
+chomhréire
+system Integration
+system beep
+córas
+systemDate &apos
+systemDate
+systems this
+systems
+t believe
+t delete
+t
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+cluaisín
+gcluaisínCeamara
+tabdelimited tab
+teormharcáilte
+s
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+table rows
+tábla
+tháibléid
+tabs
+tabtxt
+Clibe
+clibeáilte
+leis an gclib
+tagname
+tags
+take up
+take
+taken
+takes
+taking too
+taking
+talk
+tampering
+tapping
+sprioc
+targeted document
+targeted
+taisc
+taskThe
+tascbharra
+dtascanna
+tastes
+tbl
+technical Details
+Teicniúla
+technique
+cleasanna
+technology
+teileafón
+tell websites
+tell
+tells
+template
+dteimpléad
+temporarily
+temporary outage
+shealadach
+deich
+tename &apos
+tentatively
+deichiú
+tenured objects
+tenured
+ter Lock API
+term &quot
+téarma
+terminate a
+chríoch
+terminated by xslmessage
+terminated
+termination
+terms
+tástáil
+testics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+téacs
+textContent attribute
+textContent
+textonly
+texture source
+texture
+th
+than minimum
+Amhrasacha
+thank
+thanks for
+thanks
+that &apos
+that can &apos
+that is no
+that isn &apos
+réitigh
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+shlánuimhir
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+Grenadines
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+gcatagóirí ginearálta
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+the emtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+the visualization
+the webapp manifest isn &apos
+the webapp
+the wildcard
+the windowconsole
+eocharfhocail
+theft
+their defaults
+niarracht
+theipeann
+theme
+themed
+themes
+then touching
+ansin
+there &apos
+fhórsáil
+therefore
+these organizations
+these
+they &apos
+they expire
+they require query
+they
+things you
+things
+think I &apos
+think
+thinkers
+thinking
+Síleann
+third Party
+third parties
+thríú
+thirdparty cookies
+thirdparty software
+thirdparty
+ thirteenth
+thirteen
+thirteenth
+thirtieth
+ thirtieth
+thirty first
+thirty one
+thirty
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+tinneachar
+thisIf
+thisa
+dopplerFactor
+though
+thought
+thousands
+thread &quot
+thread Hangs
+thread killed
+thread watched
+shnáithe
+leacaithe
+thrí
+luacháladh
+through inaction
+through
+thunderbird
+ thursdays
+thursday
+thursdays
+ticket was
+ticket
+ties
+
+til
+tile replacing
+tile
+tíleanna
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+time
+timeOccurs
+timed Out
+timed
+timedout
+hAmlíne
+timelines
+timeout
+timer Name
+timer started
+amadóir
+timers in
+timers
+times
+timesaving
+stampa
+stampaí
+timezone &quot
+timezone
+timezonepersonalg
+timezoner message doesn &apos
+anaithnide
+teideal
+chuig
+go
+toBlob
+inniu
+scoránaithe
+Téacschomhartha
+amárach
+rómhór
+Thapaigh
+barra uirlisí
+huirlisí
+leid uirlise
+barr
+barrléibhéil
+total
+tadhaill
+thapálann
+Druid
+bhailithe
+traic
+lorgairí
+rian
+trademark
+trademarks
+eireaball
+thraenáil
+traenála
+aistrithe
+fhéilire
+transform
+trasfhoirmiú
+haistrigh
+translated
+crainn
+neamhincriminteach
+fabhtcheartú
+troubleshooting
+true
+Teasc
+muiníne
+bain
+thriail
+ twelfth
+fichiú
+ twenty sixth
+fiche
+txt
+lmstrtcs
+type geoenabled
+chineál
+iondúil
+chosúla
+u
+uScoir
+ul
+ulliAn
+unacceptable you
+unacceptable
+neamhúdaraithe
+gafa
+gnóthach
+níl ar fáil
+Díthiceáil
+gan tic
+unchecking
+neamhdhúnta
+neamhchomhbhrúite
+gan sainmhíniú
+Díscrios
+bun
+bunscript
+s going on
+understood
+faighteoirineamhnochtaithe
+dhíchódú
+gan túsú
+díshuiteáil
+díshuiteáilte
+anaithnid
+gan teorainn
+dhínascadh
+Léamh
+díchláraigh
+unsafe
+díroghnaithe
+neamhsheolta
+dhíshocrú
+éagobhsaí
+díliostáil
+Díliostáladh
+gcliceálann
+gan teideal
+ganteidealS
+suas
+SaoireSmaointeFadhbannaCruinniúÉagsúilPearsantaTionscadailLá
+update
+nuashonruithe
+sghdtrasaníos
+stríocthrasaníos
+nuashonraigh
+Uasluchtaigh
+nuasluchtófá
+uptodate
+url
+urlprefix
+úsáideanna
+usd
+Beaga
+use
+used
+úsáideoir
+úsáideoirfearann
+úsáideoiróstríomhaire
+úsáideoira
+húsáideoirí
+uses
+utomatically
+v
+vChárta
+bailí
+Bailíochtaigh
+bailíochta
+mbailíocht
+value
+luachanna
+athróg
+thástáil
+vcf
+Murar
+tSoláthraí
+vendorShortName may
+vendorShortName
+leagan
+versions of
+versions
+ingearacha
+chlónna
+via
+crith
+díchomhbhrúiteoir
+físe
+féachaint
+s
+tamharcphort
+Sáraíodh
+geoiméadrachta
+visibilityState
+Comhroinnfear
+visit
+cuairt déanta air
+gcuairt
+radharcach
+léirshamhlú
+Amharcléiritheoir
+labhartha
+stríoc ing
+fabhtanna
+leochaileach
+waitUntil
+want
+rabhadh
+rabhaidh
+warranties
+bharánta
+warring
+marcáladh
+t understood
+way
+bhealaí
+re
+t remember
+we
+laige
+spárálann
+webbased information
+webbased
+webdav
+website
+dé céadaoin
+seachtaingach
+go seachtainiúil
+sheachtain
+meáchan
+welcome Humans
+welcome
+Bhuel
+went
+s
+rotha
+nuair
+gcaitheann
+cibé
+bhfaighidh
+t
+fiafraíodh
+aisti
+aonleithid
+tsaoróg
+léirscriosfar
+thacófar
+inathraitheach
+win
+window
+windowcontent
+windowcontrollers
+windowopen
+fhuinneoga
+windowshowModalDialog
+wish
+with
+without
+treorú
+t see
+príobháidí
+work
+obair
+world
+imní
+chláir
+wouldn
+timfhill
+clúdaithe
+wrappers
+inscríofa
+scríobhbhactha
+written
+scríobh
+wwwexamplecom
+wwwmyservercom
+wwwopenhorg
+xNN
+xNN
+xS
+xhrspecwhatwgorg
+xjavascript
+xpi
+Chríochnaigh
+xwestern
+xyxy
+y
+bliain
+tá
+inné
+IndexedDB
+you
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+phróiseas
+yourself
+yousenditcom
+náid
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+súmáil
+zooming

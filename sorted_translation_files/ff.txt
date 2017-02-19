@@ -1,0 +1,8040 @@
+ rights …
+/Galapagos
+A ServiceWorker
+koolningol
+AB _
+AB
+ACL
+ADB
+ADDONS
+AEC Logging
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ATT Mail
+ATT
+AUS
+AVA
+Aa
+Aaiun
+Ababa
+Abandon unsaved changes
+Abbreviate
+Abbreviation
+Abkhazian
+Abort
+Haaytii
+tiiɗaa
+Baɗte
+Above
+Accelerated
+Accent Lowercase
+Accent Uppercase
+Accent
+Accept
+Acceptance
+Accepted
+Access
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+AccessControlAllowMethods
+AccessControlAllowOrigin
+Weeɓitaare
+Account &quot
+Account Settings &#124
+Konte
+Accountquot
+Konte
+Accountspecific
+Account…
+Acronym
+Baɗal
+Actions
+Hurmin
+Hurminaama
+Activations Directory
+Runggere
+Ena hurmi
+Actively block
+Dille
+Actual Size
+Adak
+Adapter
+Adapters
+Adb
+Ɓeydu
+Ɓeydaa
+Addis Ababa
+Additional Tools
+haaɗi
+Ɓeyditere
+Addons Installed
+Ɓeyditte
+Addr
+Address Book
+Address Books
+Ñiiɓirde
+AddressBook
+Addressbook
+Ñiiɓirɗe
+Addressing
+Adds
+Add…
+Adjust
+Administer
+Administrative Assistant
+Administrative limit
+Administrative
+Administrator
+Adobe Flash
+Adobe
+Advance
+Advanced Property Editor
+Advanced info
+Ceeɓtore
+Ceeɓtore…
+Afar
+Affects multiple
+Affects
+Affiliation Changed
+Affiliation
+Afghanistaan
+Africa/Abidjan
+Africa/Accra
+Africa/Algiers
+Africa/Asmara
+Africa/Bamako
+Africa/Bangui
+Africa/Banjul
+Africa/Bissau
+Africa/Blantyre
+Africa/Brazzaville
+Africa/Bujumbura
+Africa/Cairo
+Africa/Casablanca
+Africa/Ceuta
+Africa/Conakry
+Africa/Dakar
+Africa/Djibouti
+Africa/Douala
+Africa/Freetown
+Africa/Gaborone
+Africa/Harare
+Africa/Johannesburg
+Africa/Juba
+Africa/Kampala
+Africa/Khartoum
+Africa/Kigali
+Africa/Kinshasa
+Africa/Lagos
+Africa/Libreville
+Africa/Lome
+Africa/Luanda
+Africa/Lubumbashi
+Africa/Lusaka
+Africa/Malabo
+Africa/Maputo
+Africa/Maseru
+Africa/Mbabane
+Africa/Mogadishu
+Africa/Monrovia
+Africa/Nairobi
+Africa/Ndjamena
+Africa/Niamey
+Africa/Nouakchott
+Africa/Ouagadougou
+Africa/PortoNovo
+Africa/Tripoli
+Africa/Tunis
+Africa/Windhoek
+Worgo
+African Republic
+Santar
+Afrikaans
+Caggal
+Again &quot
+Kadi
+duuɓi
+Agent
+Aggregate
+Ago
+Agree
+Agreement
+Aires
+Akan
+Akrotiri
+Alarm
+Albaniya
+Albaneere
+Alert dialog
+Alert record
+Jeertino
+Alaseri
+Algorithm Parameters
+Algorithm
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+Maƴ
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Align
+Alignment
+Fof
+Allman
+Allocated
+Allocation Trigger
+Allocation
+Allocations
+Allow First
+Allow autoplay
+Yamir
+Allowed
+Yamirde
+Allows
+Yamir…
+Almost done
+Almost
+Alpha
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Although
+Sahaa kala
+America/Adak
+America/Anchorage
+America/Anguilla
+America/Antigua
+America/Araguaina
+America/Argentina/Catamarca
+America/Argentina/Cordoba
+America/Argentina/Jujuy
+America/Argentina/Mendoza
+America/Argentina/Salta
+America/Argentina/Tucuman
+America/Argentina/Ushuaia
+America/Aruba
+America/Asuncion
+America/Atikokan
+America/Bahia
+America/Barbados
+America/Belem
+America/Belize
+America/BlancSablon
+America/Bogota
+America/Boise
+America/Cancun
+America/Caracas
+America/Cayenne
+America/Cayman
+America/Chicago
+America/Chihuahua
+America/Creston
+America/Cuiaba
+America/Curacao
+America/Danmarkshavn
+America/Dawson
+America/Denver
+America/Detroit
+America/Dominica
+America/Edmonton
+America/Eirunepe
+America/Fortaleza
+America/Godthab
+America/Grenada
+America/Guadeloupe
+America/Guatemala
+America/Guayaquil
+America/Guyana
+America/Halifax
+America/Havana
+America/Hermosillo
+America/Indiana/Indianapolis
+America/Indiana/Knox
+America/Indiana/Marengo
+America/Indiana/Petersburg
+America/Indiana/Vevay
+America/Indiana/Vincennes
+America/Indiana/Winamac
+America/Inuvik
+America/Iqaluit
+America/Jamaica
+America/Juneau
+America/Kentucky/Louisville
+America/Kentucky/Monticello
+America/Kralendijk
+America/Lima
+America/Maceio
+America/Managua
+America/Manaus
+America/Marigot
+America/Martinique
+America/Matamoros
+America/Mazatlan
+America/Menominee
+America/Merida
+America/Metlakatla
+America/Miquelon
+America/Moncton
+America/Monterrey
+America/Montevideo
+America/Montreal
+America/Montserrat
+America/Nassau
+America/Nipigon
+America/Nome
+America/Noronha
+America/Ojinaga
+America/Panama
+America/Pangnirtung
+America/Paramaribo
+America/Phoenix
+America/PortauPrince
+America/Recife
+America/Regina
+America/Resolute
+America/Santarem
+America/Santiago
+America/Scoresbysund
+America/Shiprock
+America/Sitka
+America/Tegucigalpa
+America/Thule
+America/Tijuana
+America/Toronto
+America/Tortola
+America/Vancouver
+America/Whitehorse
+America/Winnipeg
+America/Yakutat
+America/Yellowknife
+America
+American Samoa
+Samowa
+Amharic
+An
+Analysis …
+Analysis
+Analyze
+Anchor
+Anchorage
+Mooliije
+Tee
+Anndoora
+Android tablets
+Android&apos
+Androis
+Android™
+Angeles
+Anngolaa
+Anguilla
+Animate app
+Animate
+Jirwino
+jirwitere
+Jirwitte
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+Siiftannde
+Announces
+Annoyances
+Another
+Answer
+Jaabte
+Antarctic Lands
+Antarctic
+Antarctica/Casey
+Antarctica/Davis
+Antarctica/DumontDUrville
+Antarctica/Macquarie
+Antarctica/Mawson
+Antarctica/McMurdo
+Antarctica/Palmer
+Antarctica/Rothera
+Antarctica/Syowa
+Antarctica/Troll
+Antarctica/Vostok
+Antarctikaa
+AntiVirus
+Antigua and Barbuda
+Antiguwa
+Antilles
+Antivirus
+Any
+AnyText
+Anywhere
+t
+Jaaɓngal
+AppCache
+AppCacheUtils
+AppMenu
+AppName Uninstall
+AppName
+Appcache validated
+Appcache
+Mbaydi
+Appendices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+Jaaɓnirgal
+Jaaɓnirɗe
+Apply
+Applying update
+tabitina
+Appointments
+ApprovedBy
+Jaaɓirɗe
+Jaaɓɗe
+See
+Seeɗto
+Arab
+Arabiya
+Arabic MacArabic
+Arabic Windows
+Aarabeere
+Aragonese
+Archive
+Archived
+Archives
+Archiving
+Arctic/Longyearbyen
+Are
+Area
+Arjentiina
+Arial
+Armeniya
+Armeniire
+Laañal
+Articles
+Artist
+Aruba
+As Laid Out
+As Quotation
+As
+Ascending
+Ascension and
+Ascension
+Ashmore
+Asia/Aden
+Asia/Almaty
+Asia/Amman
+Asia/Anadyr
+Asia/Aqtau
+Asia/Aqtobe
+Asia/Ashgabat
+Asia/Baghdad
+Asia/Bahrain
+Asia/Baku
+Asia/Bangkok
+Asia/Barnaul
+Asia/Beirut
+Asia/Bishkek
+Asia/Brunei
+Asia/Chita
+Asia/Choibalsan
+Asia/Chongqing
+Asia/Colombo
+Asia/Damascus
+Asia/Dhaka
+Asia/Dili
+Asia/Dubai
+Asia/Dushanbe
+Asia/Gaza
+Asia/Harbin
+Asia/Hebron
+Asia/Hovd
+Asia/Irkutsk
+Asia/Istanbul
+Asia/Jakarta
+Asia/Jayapura
+Asia/Jerusalem
+Asia/Kabul
+Asia/Kamchatka
+Asia/Karachi
+Asia/Kashgar
+Asia/Kathmandu
+Asia/Khandyga
+Asia/Kolkata
+Asia/Krasnoyarsk
+Asia/Kuching
+Asia/Kuwait
+Asia/Macau
+Asia/Magadan
+Asia/Makassar
+Asia/Manila
+Asia/Muscat
+Asia/Nicosia
+Asia/Novokuznetsk
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Oral
+Asia/Pontianak
+Asia/Pyongyang
+Asia/Qatar
+Asia/Qyzylorda
+Asia/Rangoon
+Asia/Riyadh
+Asia/Sakhalin
+Asia/Samarkand
+Asia/Seoul
+Asia/Shanghai
+Asia/Singapore
+Asia/Srednekolymsk
+Asia/Taipei
+Asia/Tashkent
+Asia/Tbilisi
+Asia/Tehran
+Asia/Thimphu
+Asia/Tokyo
+Asia/Ulaanbaatar
+Asia/Urumqi
+Asia/UstNera
+Asia/Vientiane
+Asia/Vladivostok
+Asia/Yakutsk
+Asia/Yekaterinburg
+Asia/Yerevan
+Asia
+Asian
+Ask
+Asks how
+Asks
+Aasameere
+Assembling mail
+Assembling messageDone
+Assembling
+Assistant
+Associated
+Assurance
+Asturian
+Async
+Asynchronous Pan
+Asynchronous
+Atlantic/Azores
+Atlantic/Bermuda
+Atlantic/Canary
+Atlantic/Faroe
+Atlantic/Madeira
+Atlantic/Reykjavik
+Atlantic/Stanley
+Atlantic
+Atoll
+Atom
+Attach
+Attached
+Attachment
+AttachmentRemove
+Ɗisanɗe
+Attack Site
+Njangu
+Attempt to
+Attempt
+Attempts
+Attendance
+Attendee
+Attendees
+Attention
+Attribute
+Attributes
+Attribution
+Auckland
+Ojoo
+AudioBufferSourceNode
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+AudioNode
+AudioParam does
+AudioParam
+AudioParams
+Juk
+Juko
+Aurora
+Australia/Adelaide
+Australia/Brisbane
+Australia/Currie
+Australia/Darwin
+Australia/Eucla
+Australia/Hobart
+Australia/Lindeman
+Australia/Melbourne
+Australia/Perth
+Australia/Sydney
+Ostaraliya
+Otiriis
+Authenticated
+Authenticating
+Authentication method &apos
+TLS
+Binnduɗo
+Authored
+Hohowɓe
+Authority unnamed
+Authority
+Authorize
+Authors
+Auto Increment
+Auto Update
+Jaajo
+Jaajol
+AutoA
+AutoConfig Alert
+Jeertino
+Ejto e Jaajol
+Ejto e jaajol
+AutoJoined Channels
+AutoJoined
+Ejto e jaajol
+Kesɗitinal
+Wultin
+Autosync
+Woodi
+Awaric
+Awestan
+Avg
+Aymara
+Ajerbayjaan
+Ajerbayjaani
+B
+BG
+BLOCKED
+Caggal
+Rutto
+Cakkital
+Backgroundbmp
+Backspace
+Ndannditaa
+Dannditol…
+Danndito…
+Moƴƴaani
+Bahrain
+Baltiire
+Bammbara
+Bangladees
+Barbados
+Barbuda
+Base
+Bashkiir
+Basic
+Baskere
+Batiri
+Sabu
+Hade
+Fuɗɗotoo
+Belaruus
+Belarusiire
+Belsik
+Beliise
+Benngali
+Benee
+Bermudaa
+Betaa
+Bhutaan
+Big
+BigHKSCS
+Bihari
+Bing
+Bislama
+Bite
+Ɓolo
+Falo
+Ko daaƴaaɗo
+Falorde
+Palagol
+Ɓanndu
+Norwees
+Boliviya
+Maantorol
+MaantorolMomtu
+Ɓooyaani
+Maantore
+Maantore am
+Buleaare
+Ŋorol
+Bosnii
+Bosniire
+Botswanaa
+Les
+BrandFullName
+BrandFullNameDA
+BrandShortName
+Beresiil
+toddol
+Bereton
+British
+Wanngorde
+Weɗɗit…
+Yiylo…
+Nana feeroo
+Bulgariya
+Bulgariire
+Korwal
+Burkiana
+Burmesre
+Burunndi
+Nebbi
+Bite
+C
+CA
+CAs
+CCBY
+CCBYSA
+CD
+CDSA
+CLICK
+CN
+COLNAME
+CP
+CRL
+CRLs
+CSP
+CSS
+Kaasol
+hiisoo
+Kaledonii
+Noddu
+Kammboodiya
+Kameraa
+Kameruun
+Kanadaa
+Canadian
+Haaytu
+Haaytinaama
+Keertol
+CanvasGradient
+Carbon
+Card
+Ena
+Katalaare
+Wejnorde
+Kaymaa
+Celtic
+Hakkunde
+Central
+Seedamfaagu
+Seedamfaaji
+Seedamfaaji
+Certification
+Seedtaama
+Cessation
+Caad
+Camorro
+Waylu
+Changed
+Bayle
+Charis
+Ceccen
+Labo
+Chichewa
+Cile
+Cayna
+Cayniire
+Suɓo
+Suɓo…
+Chrome
+Chromecast
+Slawik
+Chuvash
+City
+Gaadanteejo
+Momtu
+Nana momta
+Dobo
+kiliyaan
+Ñaamo
+Uddu
+Uddaaɗe
+Dokkol
+OpenH
+Darol
+Wertu
+Kolommbia
+Goobol
+Goobu
+Noonde
+Nooneeji
+Nooneeji…
+Darol
+Dari
+bakane
+Commercial
+Komoore
+Compact
+Jaaɓduɗe
+Timmii
+Timmii
+Komponne
+Compromise
+Jiibii
+Tonngirka
+sarɗi
+Teeltannde
+Teeŋtin
+Jokko
+Seŋo
+Seŋondir
+Seŋiima
+Nana seŋoo…
+Seŋaade
+Seŋorde
+Seŋondir…
+Ginorde
+Constraints
+Jokkondire
+Mooftirde
+Loowdi
+Loowdi
+Jokku
+wonat
+Addu ballal
+Basiyaaɗe
+Wallitooɓe
+Jinnaaɓe
+Cook
+Cookie
+Kukiije
+Tummbittte
+Natto
+Korniis
+Jiibnngal
+Korseere
+Kosta
+Limoore
+Nano
+Jaŋtorde
+Sos
+Cosɗo
+Wuneeji
+Kerey
+Gaannuɗum
+Korowasii
+Korowasiire
+Crypto
+Cryptographic
+Ctrl
+Kuuba
+Wonaango
+Jamngel
+Curve
+Peŋtoro
+CustomEvent
+Heertin
+Heertin…
+Peŋtoro…
+Dottu
+Yirlo
+Yirlu
+Saypruus
+Sirillik
+Cekiire
+DC
+DECDSA
+DISPLAYNAME
+DLL
+DN
+DNS
+DOM
+s code
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+DPI
+DSA
+DVemer
+Daniire
+Niɓɓo
+Keɓe
+Ñalngu/Waktu
+Ñalngu
+Day
+DayCrash Reports
+battiniinguJaŋtol
+ÑalnguBalɗe
+Debug Mode
+Buggito
+Sellin
+DebugALIGNCENTERerver
+Buggitorde
+Debugging
+Bow
+Bowte
+Decide
+Declaration
+Decline
+Declined
+Decoder
+Decoding error
+Decoding
+Ustu
+Decrypted
+Decryption
+Deer
+Goowaaɗo
+Goowaaɗe
+Defer Account
+Defer
+Define
+Suɓii
+Definition
+Definitions
+Del
+Delay
+Delete Message
+Momtu
+Deleted
+Momtu…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Deletion
+Delimited
+Delivery Format
+Delivery Status Notification
+Delivery
+Denmarka
+Denver
+Haɗ
+Department
+Descending
+Describe Problem
+Describe
+Cifagol
+Deserialize
+Design Mode
+Design View
+Ŋeñto
+Desktop Backgroundbmp
+Desktop Open &quot
+Biro
+Destination Folder
+Destination
+Destroy
+Detach
+Detach…
+Detail
+Details of
+Cariiɗe
+Cariiɗe…
+Detect indentation
+Detect
+Determining which
+sifoo
+DevTools
+Dewanagari
+Developed
+Developer Edition
+Developer Tools
+Topaajo
+Topayɓe
+Development
+Device &quot
+masiŋel
+DeviceShare
+Kaɓirɗi
+Devicex
+Dhekelia
+Diagnostics
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+Caggitorɗe
+Saggitorde
+Did
+Diego
+Yiytindorde
+DiffieHellman key
+DiffieHellman
+Digest function
+Digest was
+Digest
+Digg Reader
+Digg
+Digital
+Ɓetanɗe
+Direct
+DirectD
+DirectWrite
+Tiindol
+Kuulal
+Directories
+Directory &apos
+Directory Servers
+Directory
+Disability access
+Disability
+Daaƴ
+Daaƴaama
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Discarded
+Disconnect from
+Seŋto
+Seŋtondir
+Disconnectellipsis
+Nana seŋtoo…
+Disconnectme strict
+Disconnectme
+Seŋtondir
+Discontinue Link
+Discontinue
+Discover
+Jeewte
+Disk
+Dismiss
+Display a
+Jaytin
+Jaytono
+Displays the
+Displays
+Distinguished
+Distribution Points
+Distribution
+Hoolkiso
+Divehi
+Jibutti
+Waɗde
+Dock
+Docs
+Document Outline
+Document
+Documents
+Doe
+Doing
+Domain GUID
+Domen
+Domains
+Domestic
+Dominator
+Dominators
+Domingo
+Dominika
+Dominican
+Don &apos
+Don
+Gasii
+Double click
+Double
+Doublecheck
+Doubleclick
+Les
+Download Link
+Aawto
+DownloadRestart
+Aawtaama
+Nana aawtoo
+Nana aawtoo…
+Gaawte
+Draft Message
+Draft
+Drafts
+Drag
+Draw draws
+Draw repainted
+Draw
+Driver Verification
+Driver
+Drivers
+Drives
+Drop a
+Drop
+Dropping a
+Dropping
+DuckDuckGo
+Due
+Dump
+Duplicate name
+Sowto
+Duraterver
+Juuteendi
+Holanndeere
+Dzongkha
+ECDSA Signature
+ECDSA
+EDI Party Name
+Parti EDI
+EDI
+EHLO
+EMail Certificates
+EMail
+ERROR
+ERRORS
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+EXTRACTION_FAILED
+Each
+Eager
+Earlier
+East Asian
+East European
+East
+Hakkundere
+Ekuwador
+Edge
+Edit Conditional
+Taƴto
+Editing
+Edition
+Juɓɓirgel
+Editors
+Edit…
+Ejipt
+Either
+El Aaiun
+Salwadoor
+El
+Elapsed
+Element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Elements
+Email Address
+Iimail
+Iimeel
+Embarrassed
+Soomtor
+Embedded
+Emirates
+Emphasis
+Emptied Trash
+Emptied
+Meho
+Emulate
+Daaƴtu
+Daaƴtaaɗo
+Enables
+Encipherment
+Encoder
+Encoding While
+Dokkitol
+Goodɗi
+Encrypt
+Encrypted password&apos
+Gannangol
+Encrypting File
+Encrypting
+Encryption
+End
+EndUser Rights
+Jojjanɗe
+Gasii
+Endian
+Endpoint
+Enforce
+Engine
+Engineering
+Engines
+Pulaar Fulfulde
+English USASCII
+English language
+Engeleere
+Ƴellitaama
+Enlarge
+Enter &apos
+Enter Full
+Enter that
+Naatnu
+Entered
+Entering
+Naatanɗe
+Entry
+Enumerable Properties
+Enumerable
+Sato
+Epiphany
+gine Ekaatoriyaal
+Equatorial
+Eritareya
+Juumre
+Juume
+Esc
+Esperanto
+Estonii
+Estoniire
+Ecoppi
+Ecioppiŋkoore
+Eudora Nicknames
+Eudora Settings
+Eudora mail
+Eudora
+Europa Island
+Europa
+Europe/Amsterdam
+Europe/Andorra
+Europe/Astrakhan
+Europe/Athens
+Europe/Belgrade
+Europe/Berlin
+Europe/Bratislava
+Europe/Brussels
+Europe/Bucharest
+Europe/Budapest
+Europe/Busingen
+Europe/Chisinau
+Europe/Copenhagen
+Europe/Dublin
+Europe/Gibraltar
+Europe/Guernsey
+Europe/Helsinki
+Europe/Istanbul
+Europe/Jersey
+Europe/Kaliningrad
+Europe/Kiev
+Europe/Lisbon
+Europe/Ljubljana
+Europe/London
+Europe/Luxembourg
+Europe/Madrid
+Europe/Malta
+Europe/Mariehamn
+Europe/Minsk
+Europe/Monaco
+Europe/Moscow
+Europe/Nicosia
+Europe/Oslo
+Europe/Paris
+Europe/Podgorica
+Europe/Prague
+Europe/Riga
+Europe/Rome
+Europe/Samara
+Europe/Sarajevo
+Europe/Simferopol
+Europe/Skopje
+Europe/Sofia
+Europe/Stockholm
+Europe/Tallinn
+Europe/Tirane
+Europe/Ulyanovsk
+Europe/Uzhgorod
+Europe/Vaduz
+Europe/Vatican
+Europe/Vienna
+Europe/Vilnius
+Europe/Volgograd
+Europe/Warsaw
+Europe/Zagreb
+Europe/Zaporozhye
+Europe/Zurich
+Europe
+Hakkundeewo
+Eustatius and
+Eustatius
+Eval
+Ƴeewto
+Evaluated JavaScript
+Evaluated
+Evaluating
+Evangelism
+Even
+Event
+Events
+Event…
+Every Time
+Every
+Fofof
+Eviction
+Ewe
+Example
+Woyyoo
+mbaawoytaa
+Exception …
+Faltoore
+Paltooje
+Palooje…
+Paltooje…
+Exchange
+ExecShell &quot
+ExecShell
+Hurmoore
+Execute Menu
+Hurmito
+Executing s
+hurmitoo
+Execution stopped
+Execution
+Executive
+Existing
+Exists
+Yaltu
+Exited
+Exiting
+Expand/Collapse
+Wertu
+Yaajtin
+Expanded
+Expected
+Dawtinde
+Hiiɗtii
+Expires On
+Expires Seconds
+Maa gaas
+Explorer
+Exponent
+Jiggito
+Jiggito…
+Weerde piije
+Exposing
+Express
+Expression
+Expressions
+Expunge &quot
+Expunge
+Extended Telemetry
+Extended
+Extending
+Timmitere
+Timmitte
+External
+Extra Components
+Extra
+Aafto
+Extracting s
+Extracting
+Extracting…
+Toɓɓitorde
+F GB
+F turns
+F/Escape
+F
+FAILED
+FALLBACK section
+FALLBACK
+FAQ
+FAQs feedback
+FAQs
+FCC
+FHR data
+FHR
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTP Proxy
+FTP
+FUNCTION
+FW Version
+FW
+FYR
+Facebook Chat
+Facebook
+Faeroese
+Woorii
+Failure
+Failures
+Falkland Islands Islas Malvinas
+Falkland Islands
+Falkland
+Ɓartorde
+Fallback
+Falling back
+Falling
+False
+Galle
+Fantasy
+Faroe Islands
+Ferowee
+Faroese
+Farsi
+Faso
+Fast
+Fatal
+Favorite Folder
+Favorite Folders
+Favorite
+Cuɓaɗe
+Fax Number
+Fax
+Feature
+seedtino
+Col
+Colte
+Federated States of
+Federated States
+Federated
+Federation
+Feed Location
+Balol
+Feedback Agent
+Feedback …
+Miijooji
+Feedly
+Bale
+Feel
+Festival
+Afftoyo
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+Fetching…
+Fewer
+Field
+Fields
+Fifth
+Fijji
+Fijjiire
+File System
+Fiilde
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Filename
+Piillde
+Files…
+File…
+Filing Cabinet
+Hebbin
+Filter Box
+Filter Execution
+Ceɗol
+Filtering
+Filters
+Finalizing
+Yiytu
+Yiytirde
+Jiytanɗe
+Yiytu…
+Temmbelol
+Temmbelle
+Gasnu heertannde
+Gaynu
+Gasii
+Finlannda
+Finlandeere
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+adango
+Heƴnu
+Five
+Fix Table
+Fix
+Fixed
+Flag
+Flagged
+Flame Chart
+Flame
+Flash embed
+Flash
+Flatten
+boowal Baylotoongal
+Flexible
+Toɓɓu
+Runngere
+Folders
+Folder…
+Rewindo
+Followers
+Following
+Followup
+FollowupTo
+Fond
+Font
+Ponte
+Yaɓɓorde
+Jaɓɓorɗe
+FootinMouth
+For
+Force
+Forever
+Forge
+Maawol
+Yejjit
+Form History
+Form
+Mbaydi
+Formatting
+Forms
+Fort
+Fortezza
+Forum
+Forums
+Yeeso
+Forwarded
+Forwarding
+Njiytaa
+ngalu
+Four Hours
+Nay
+Fourth
+Md
+ Toasters
+Frakkin
+Kaarewol
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+Kaareeje
+Farayse
+Free
+French Southern
+Farayseere
+Gartugol
+Wayrataa
+Mde
+Mawnde
+Firisiire
+Friuliire
+From History
+From List
+Iwde
+Front facing
+Front
+Frown
+Fulfulde
+Ɓoggi
+Fullscreen
+Fun To
+belɗi
+Function
+Futuna
+Future
+GB
+GBK
+GC Event
+GC Slice
+GC
+GCLI is
+GCLI
+GDI Library
+GDI
+GData
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+Gaboo
+Ekoos
+Gaia
+Galeon
+Galician
+Gallegos
+Gambia The
+Gambia
+Gamepad
+Gaming consoles
+Gaming
+Ganda
+Gap from edge of paper to Margin
+Gap from
+Yolnde
+Garbage Collector Roots
+Garbage
+Garcia
+Gated Crypto
+Gated
+Gaza Strip
+Gaza
+Gecko
+Geckoreg
+Geckotrade
+General Notification
+Kuuɓal
+Sosto
+Generate
+Generated
+Generating A Private
+Generating A
+Generating aggregate
+Generating
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+Jorjiya
+Gergoriŋkoore
+Jorjiire
+Docce
+Doccelandda
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+fuɗɗo Ɗoo
+Getting
+Ganaa
+Jibraltaar
+Gives
+Glace
+Global Revived
+Kuuɓal
+Glorioso Islands
+Glorioso
+Glossary
+Gmail
+Go back
+Go forward
+Yah
+Moƴƴii
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+Grab
+Grade
+Gradient is
+Gradient
+Grand
+Grande
+Grant
+Graph Reduction
+Graph
+Jaytinooje
+Gravatar
+GrayScale
+Purɗungol
+Gerees
+Greek Windows
+Gerek
+Gorwenlannda
+Greenlandic
+Garnadaa
+Grenadines
+Grid
+Group List
+Renndin
+Grouped By
+Grouped
+Grouping
+Groups
+Grow
+Gwaadaluppe
+Guwaam
+Guarani
+Guard
+Guwaatemalaa
+Gerrnsey
+Guess
+Guest browsing
+Naatannde
+Farayse
+Gine
+GineBisaawo
+Gujarati
+Gujaratiŋkoore
+Gurmukhi MacGurmukhi
+Gurmukki
+Gayaana
+H Line
+H
+HAR
+HError
+HLine
+HPKP
+HREF
+HSLA
+HSTS
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HW Version
+HW
+HZ
+HZGB
+Hack the
+Hack
+Haytii
+Haytiire
+Halifax
+Handler
+Handling
+Handshake record
+Handshake
+Hang Report
+Hangs
+Weltiniikam
+Hard
+Hardware Driver Verification
+Hardware Driver
+Hardware
+Has
+Hawsa
+Have an
+Have
+Hawayeere
+Tiitoore
+Headers
+Heading
+Tiitoonɗe
+Health Report
+Health
+Heard Island
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+Eburu
+Hebruŋkoore
+Height
+Helena
+Hello World
+Hello
+Help Start
+Ballal
+Helper Application
+Helper Applications
+Helper Threads
+Ballal
+Helps
+Helvetica
+Here
+Herero
+Herzegovina
+Hex
+Hidden
+Hide Statistics
+Hide Toolbars
+Suuɗ
+Hierarchy
+High Contrast
+High
+Highest
+Highgrade
+Jalbin
+Lelngo
+Highlights
+Hightail
+Hiligaymon
+Hill
+Hinndi
+jamminde
+Hiri Motu
+Hiri
+Histograms Collected
+Histograms
+Aslol
+Yilliiɓe
+Hnewsgroup server
+Hnewsgroup
+Ho Chi Minh
+Ho
+Hold
+HolidayStatusSuppliersTravelVacation
+Damal
+Home
+Jaɓɓorgo
+Homepage Get back
+Hello jaɓɓorgo
+Honnduraas
+Hong Kong
+Hong
+Honolulu
+Horizontal
+Koɗnoowo
+Koɗol
+koɗnaaɗo
+Hostname Entered
+Innde mooftoowo
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+Hour
+Ɓennuɗi
+Housekeeping
+How
+Howe
+However we
+However
+Howland Island
+Howland
+Http
+Huge
+Humans
+Hungariire
+Hunngarii
+I &apos
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+I don &apos
+I ii
+I submit information that &apos
+I think I &apos
+I understand
+miɗo
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+ID
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAP Flag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+Ƴiiɓirde
+IPC
+IPs
+IRC Nick
+IRC Operator
+IRC
+IS
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+ISP
+IV
+Iaposm
+Islannda
+Islanndiire
+Maandel
+Maankon
+Id
+Identification
+Piiol
+Identities …
+Identities
+Identity
+Aami
+Ido
+So
+Igbo
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Faalkiso
+Faalkisiima
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+Natal
+Nate
+Image…
+Import your
+Import
+Importance
+Important
+jiggoo
+Nana jiggoo…
+Jiggito…
+Jiggo…
+In Days
+In EHLO reponse
+In Finder
+In Use
+Wonnde
+InAutoon
+InBrowserElement
+Cisco
+Ceŋannde
+Teelɗe
+Ɓeydu
+cooɗtondiral
+Enndiya
+Indian
+Jooporde
+Individual
+Indonesii
+Indonesiire
+Humpito
+Ɓeydoro
+Nderndero
+Naatnal
+Ins
+Yuurnito
+Ƴeewtitorde
+Aaf
+Aafaama
+Nana aafa
+Nana aafa…
+Timmunde
+Gollondiral
+Interlingwa
+Interlingge
+ndernderde
+Internet
+Famminaade
+Dartiima
+Naatirka
+Inuktitut
+Inupiaq
+Iraan
+Iraak
+Irlannda
+Irlanndeere
+Mbar
+Norfolk
+Marshall
+Duunde
+Israel
+Bayyinɗo
+Issuers
+Yaawnirtee
+Italiire
+Itali
+ngoɗkon
+JIS
+JOHAB
+chrome JS
+JS
+JSON
+JSONparse
+JSONstringify
+Jamayka
+Sii
+Siilo
+Sapoo
+Saponeere
+JavaScript
+Sawaneere
+Jaxivo
+Jeysey
+Jordaan
+Mor
+Morso
+Diw
+Kor
+Korse
+K
+KB
+KOIR
+KOIU
+ngonaangu
+Kannada
+Kannadaŋkoore
+Kanuri
+Kashmiri
+Kashubiyaare
+Kasakre
+Kasakstaan
+Cocos
+Mooftu
+Keñaa
+Key
+Tappirde
+Keyed
+Firefoxhtml
+Keys
+Helmere yiylorde
+Kelmekele jiytirɗe
+Kemer
+Kmeere
+Kikuyuure
+UK
+Kinyarwanda
+Kirghiz
+Kiribati
+Kirundi
+Kitts
+Klaatu
+Klingon
+Komi
+Kong
+Kongo
+Konkani
+Koreyaŋkoore
+Koreyre
+Kuanyama
+Kurdiire
+Kuwayti
+Kirgistaan
+Ɗakkol
+Labs
+Maatinooje
+Wertiingo
+Ɗemngal
+Ɗemɗe
+Lanka
+Lawoore
+Lawoos
+Mawnde
+Syncaa wattan
+wattindiigo
+Ɓooyii
+Lateŋ
+Lettonii
+Lettoniire
+Hurmino Yaango
+Yaltu
+Lubnaan
+Nano
+Laawol
+Baŋke
+Losoto
+Ustu
+Lineriyaa
+Deftordu
+Libi
+License
+Liechtenstein
+Nguurndam
+Light is
+Leerɗo
+Limburgan
+Gorol
+Linen
+Juutɗi
+Lingala
+Jokkol
+Jokke
+Doggol
+Heɗo
+Doggi
+Lituanii
+Lituaniire
+Tolbecce
+Loow
+Nana loowa
+Nana loowa…
+Nokkuwal
+Nokkuure
+ganndungol
+Ko cokaaɗo
+Logo
+Logon
+Logotype
+Gori
+Yiyliima
+Ɓenningol
+laggii
+LubaKatanga
+Lusiya
+Mumaa
+Luksemmbuur
+Luxembourgish
+MB
+MD
+MIME
+MOZ
+Alias
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomanian
+MacTurkish
+MacUkrainian
+Masedoniire
+Madagaskaar
+Weltiniikam
+Iimeel
+Duumnu
+Feewnitorde
+Malgaasre
+Malaawi
+Malayre
+Malayalam
+Malesiya
+Maldiiwe
+Maali
+Malta
+Maltesre
+quarrelled
+Toppito
+yiilde
+Topitorde
+Junngol
+Peewnuɗo
+Manx
+Maworiire
+Mappings
+Mbo
+Marathiire
+Mbooy
+Ŋorol
+Ŋori
+Marino
+Jehre
+Duuɗee
+Marshallese
+Martin
+Martinikke
+Baabaare
+Yummol
+Ena jaaɓdi
+Ɗadol MathML
+Ɗadol
+Muritani
+Moriis
+Duu
+Duujal
+Maataw
+Mayoot
+Sabu
+Beeɓtinaaɗe
+Mejaaje
+Hakindiinde
+Dosol
+Ɓatakuuje Kuuɓɗe
+Ɓatakuuje
+Ɓatakuje
+Ɓatakuuje
+Metaa
+Metro
+Meksik
+Mibbit
+Mikkoroo
+Microsoft
+Minwii
+MinSupportedVer
+Taggu
+Mikelon
+Daartin
+Ŋakki
+Aa
+Cinndel
+Nootorol
+Baylaaɗo
+Waylu
+Wulnde
+Modulus
+Moldowaa
+Aaɓ
+Monaako
+Aaɓnde
+Monngolii
+Monngoliire
+Monospace
+Montenegoro
+Monseraat
+Teelte goɗɗe
+Ɓeydu
+Goɗɗiellipsis
+Maruk
+Ɓurɗo
+Motu
+Jamngel
+Dirtin…
+MozTestPilot
+Mosammbik
+Mozilla
+Mozillaorg
+Cili
+Baklagol
+MutationObserver
+Muumɗin
+N/A
+NIST
+NOTE
+ngooli
+Innde
+Namibiya
+Nauru
+Navajo
+Peeragol
+Ndebele
+Ndonga
+Nepaal
+Nepaliire
+Laylaytol
+Nederlannda
+Netscape
+Netscapecfg
+Laylaytol
+Hay sahaa
+Newis
+Kesum
+Jokku
+Payɗo
+Yeeso
+Nikaraguwaa
+Nijeer
+Nijeriyaa
+Niue
+Alaa
+Siifannde
+Hay baɗte
+Hay ndiga
+Ndiga
+Wonacalagol
+Midi
+Nordic
+Potɗum
+North
+Northern
+Norwees
+Norweesre
+Yiytaaka
+Ƴeewtaaka
+Tesko
+Bayyinol
+Notice
+Notices
+Huuɓnungo
+Tintine
+Tintin
+Jol
+Jolal
+Jooni
+dewindol
+Norswees
+O
+OCSP
+Binnditiiɗo
+OK
+OLE
+OS
+OU
+Piiyol
+Occitaanre
+Ocean
+Yar
+Yarkomaa
+Ñifol
+Ojibwa
+Omaan
+Kuɓɓol
+henorɗe
+Ndo
+Uddit
+Kodek
+Operation
+Baɗe
+Optimizing
+Cuɓe
+Leemto
+Goomu
+Yuɓɓitin
+Kuccitol
+iwdiji
+Oriyaŋkoore
+Oromo
+Ossetian
+Goɗɗe
+Woɗɓe
+Goɗɗum…
+longel
+Booweejo
+jelogal
+to loŋgel
+Winndit
+Jeyɗo
+P/Galapagos
+P
+PDF
+PDFjs
+PEM
+PKCS
+PSM
+PacifDebug/Galapagos
+Pacific/Enderbury
+Pacific/Fakaofo
+Pacific/Fiji
+Pacific/Funafuti
+Pacific/Gambier
+Pacific/Guadalcanal
+Pacific/Guam
+Pacific/Honolulu
+Pacific/Johnston
+Pacific/Kiritimati
+Pacific/Kosrae
+Pacific/Kwajalein
+Pacific/Majuro
+Pacific/Marquesas
+Pacific/Midway
+Pacific/Nauru
+Pacific/Niue
+Pacific/Norfolk
+Pacific/Noumea
+Pacific/Palau
+Pacific/Pitcairn
+Pacific/Pohnpei
+Pacific/Ponape
+Pacific/Rarotonga
+Pacific/Saipan
+Pacific/Tahiti
+Pacific/Tarawa
+Pacific/Tongatapu
+Pacific/Truk
+Pacific/Wake
+Pacific/Wallis
+Pack
+Package s
+Package xpi
+Pakkannde
+Tiraama
+Packs
+Padding
+Page Direction
+Page Selection
+Hello
+Pagequot
+Pager Number
+Pager
+Kelle
+Pago
+Paint
+Pair a Device &quot
+Pair a
+Seŋondir
+Pakistaan
+s
+Pal
+Palawu
+Palestinian Territory
+Palestinian
+Palette
+Paliire
+Palmyra Atoll
+Palmyra
+Pan
+Panama
+Pane
+Panel
+Alluuje
+Panes on Startup
+Panes
+PannerNode
+Papua New Guinea
+Papua New
+Papuwa
+Paracel Islands
+Paracel
+Paragraph format
+Paragraph
+Paraguwaay
+Parameters
+Params
+Parcel
+Parent Payload
+Parent frame
+Jahdol
+Parental Controls
+Parental
+Paris
+Park
+Farsorde
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+PartS
+Partial
+Partially Encrypted
+Partially
+Participant
+Participants
+Parts
+Party Name
+EDI
+Pastoore
+Password Change
+Password Manager
+Finnde
+PasswordIf
+Finndeeji
+Paste Go
+Ɗakku
+Pastel Gradient
+Pastel
+Paste…
+Patch
+Patching s
+ɓastoo
+Laawol
+Paths from
+Paths
+Paulo
+Pause on
+Pause/Resume/Retry
+Sabbo
+Ena sabbii
+Pauses the
+Pauses
+Yoɓ
+Payload
+Njoɓdi
+Paz
+Peer
+PeerConnection ID
+PeerConnection
+Sabbii
+Penh
+Yimɓe
+Percent
+Perform a
+Perform
+Performance
+Perhaps the
+Perhaps you &apos
+Perhaps
+Period of Validity
+Period of
+dumunna
+Periodic
+Permanent
+Permanently
+Permission
+Jamirooje
+Permit
+Persiire
+Personal
+Personality
+Peru
+Perwebsite
+Phase
+Filipiine
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+Cinndel
+Phones
+Phonetic Name
+Phonetic
+Photo
+Photograph
+Phrase
+Physical
+Pick
+Picture
+Pieer
+Ƴeewndo
+Ñippu
+Ping
+Ñippaaɗe
+Pinning
+Pipelining
+Pitcairn Islands
+Pitcairn
+Pixel
+Plain
+Planner
+Plastic Pal Who &apos
+mon
+Platform COM
+Platform
+Play a
+Tar
+Playing audio
+Ena tara
+Please advance
+Please authenticate
+Please consider
+Please enter
+Please shorten
+Tinno
+Plug a
+Plug
+PlugIns
+Plugin
+Ceŋe
+Plus
+Pocket
+Podkaste
+PoiQA
+Pointer Lock API
+Doombel
+Points
+Polannda
+Pole
+Policies
+Policy Constraints
+Policy Mappings
+Policy mapping
+Policy
+Poloneere
+Farayse
+Popup Blocking
+Cuppitte
+Cuppitte
+Poor
+Portable Document
+Portable
+Porto
+Dariingo
+Purtugaal
+Purtugeesre
+Dartorde
+Posse
+Possible
+Post
+Postal Code
+Postal
+Posting
+Postpone
+Power
+Powered by
+Powered
+Powershare
+Practice Statement pointer
+Practice
+Pre
+Precondition
+dañaama
+Cuɓoranɗe
+Cuɓoraaɗe
+Cuɓoraaɗe…
+Preferred
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Prefix
+Prefixed
+Preformat
+Premature
+Prepackage
+Prepackaging
+Preparing
+Nana heboo…
+Present
+Presentation Mode
+Presentation
+Preserve
+Preserves
+Preset
+Presets
+Ñoƴƴu
+Pressing F
+Ñoƴƴude
+Prettify
+Pretty Print
+Pretty
+Prevent
+Yiytindo
+Previewed
+Previewing
+Preview…
+Yillannde Ɓennunde
+Ɓennuɗo
+Njaru
+Primary Email
+Primed cache
+Primed
+Primetime Content
+Primetime
+Princes
+Principal Name
+Principal
+prinsipe
+Waanjito
+Winndito
+Printed
+Winnditorde
+Nana winnditoo
+Printing…
+Winndito…
+Priority changed
+Priority
+Privacy Policy
+Suturo
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+Cuuriɗum
+Ɓurnaaɗo
+Privileges
+Privileges…
+Pro
+Probable
+suɓaande
+Probing
+Problem
+Proceed
+Proceeding will
+waɗa
+dowrowal
+Processing
+Processing…
+Prodigy
+Paggiiɗo
+Product
+ProductName
+ProductNameInternal
+ProductShortName
+Heftinirde
+Profiler
+Profiles
+Program Icons
+Program
+Programs Folder
+Programs
+Progress Window
+Ɗo yahrata
+Project Lead
+Project
+Projects
+Promise Debugger
+Promise
+Hirjin
+Keeroeaaɗi
+Keeroeaaɗi…
+Property Declaration
+Property Value
+Heeroraango
+Pottondirɗe
+Propose a
+Jolnu
+Protection
+Protocol Request
+Jaɓɓitorde
+ProtocolSpecific
+Protocols
+Proudlybr
+Dokkiroowo
+Province
+Proxiije
+Proksi
+Pseudoelements can
+Pseudoelements ‘
+Annamageɗe
+Psst using
+Heee
+Public
+PublicKeyPins
+Publish
+Publishing Pages
+Publishing
+Publishing…
+Publish…
+Puerto Rico
+Porto
+Punjabiire
+Purchase for
+Purposes
+Push Endpoint
+Push
+QA UI
+QA
+QName
+QQ
+QR Scan
+QR
+Kataar
+Qualified Subordination
+Qualified
+Kesuwaare
+Ɗaɓɓitannde
+Question
+Nana sabbii
+Quick Filter
+Quick Launch bar
+Quick Launch
+jaawngol
+Quickly
+Quirks mode
+Quirks
+Quirky doctype
+Quirky
+Yaltu
+QuitS
+Quitting
+Kotaa
+Quotation
+Quote
+Quotes
+RAM
+RC
+RDN
+RECORDS
+REMOVE
+RETR command
+RETR
+RETURN
+RFC
+RGBA
+RSA Encryption
+RSA
+RSASSAPSS
+RSASSAPSS
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+RTP
+Radio Button
+Radio buttons
+Radio
+Rainy
+Toownu
+Taaɓal
+Rankin
+Rate
+Ɓetagol
+Ratio
+Ɓeɓe
+Re
+Reached
+Read
+ReadMark
+Reader &apos
+Bale
+Tara
+Ready to
+Hebiima
+Really fast
+Really
+Rearrange
+Daliilu
+Reasons
+Rebuild Summary
+Rebuild
+Recalculate
+Receipt denied
+Receipt
+Receipts
+Receive
+Keɓaaɗe
+Receiving
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+Sakket
+Recently
+Recheck
+Recipient
+Recipients
+Recommended Components
+Basiyaaɗi
+Ena wasiyaa
+Reconfirm
+Reconnect
+Record
+Recording Performance
+Recording
+Recording…
+Recover
+Recovery Keyhtml
+Recovery
+Recur
+Recurrence pattern
+Recurrence
+Recursion
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+Kaaɗol
+Rediscover the
+Rediscover
+Redisplay
+Waɗtu
+Reducing the
+Reducing
+Reduction
+Reef
+Reenter
+Reference
+References
+Referrer
+Referring URL
+Referring
+Reflows
+lonngaama
+Hesɗitin
+Wultin
+Saliima
+Register Locale
+Register Server
+Siifto
+Registered
+Registering
+Regular Attachment
+Regular
+Reject
+Rejoin
+Related
+Relation
+Relative positioning of
+Relative
+Fuɗɗitoo
+Release Notes
+Konngol
+Releases
+Hesɗitin
+Loowtu
+Remaining
+Siiftor
+Remind Me
+Remind
+Reminder
+Reminders
+Remote Debugging
+Remote debugging
+Remote
+Remove channel
+Ittu
+Momtu
+Momtaama
+gasɗe
+Ittu…
+Removing
+Ƴellitaare
+Inntit
+Rename…
+Renaming
+Render Mode
+Render
+WebGL
+Rendering
+Renewal
+Reopen
+Repair
+Repeat
+Repeating
+Reftooji
+Replace
+Replacement
+Replaces in
+Replaces
+Replace…
+Replacing
+Replicating directory entry
+Replicating
+Replication failed
+Replication
+Replied
+Reply
+ReplyTo
+Replying
+Replyto Address
+Replyto
+Jaŋto
+ReportOnly
+Kookɗ
+Reports
+Dominika
+Request the
+Boowol
+RequestMode
+Requested
+Requests
+Waɗɗii
+Requires
+Reread mozcmd
+Reread
+Neltir
+korinooɗe
+ResentCC
+ResentComments
+ResentDate
+ResentFrom
+ResentMessageID
+ResentSender
+ResentTo
+Reserved
+Artir
+Firlit
+Resets
+Resolution/Quality
+Resolution
+Resolve
+Resource
+Resources
+Responder
+Feewaani
+Responseclone
+Responsive Design
+Responsive
+Rest
+Hurmitin
+Restarting
+Restarting…
+Artir
+Restrict
+Restricted
+Restyle Hint
+Restyle
+Kesiri
+Resume &apos
+Jokku
+Resumes
+Retained
+Retention Policy
+Retention
+Retest
+Retrieving quota
+balloo
+Nana aaftoo…
+Eto goɗngol
+Fuɗɗito
+Retrying
+Return
+Retweet
+Rewiñoon
+Reverse
+Reversed
+Waklit
+Revert…
+logre
+Revision
+Revived
+Revocation
+Revoked
+Rewind
+Rewrap
+Rewriting oldstyle
+Rewriting
+RhaetoRomanic
+Rika
+Rich Text
+Rich
+Riko
+Right Click
+Ñaamo
+Rightclick
+Kuutorooɗo
+Righttoleft direction
+Righttoleft
+Ringing…
+Rio
+Rioja
+Risks
+River
+Roaming
+Robot
+Keeceeje
+Roku
+Role
+Rumanii
+Romanian ISO
+Romaniire
+Room
+Root
+Roots Module
+Roots
+Yiiltu
+Row
+Rows
+Rule
+Rules
+Ruleset
+Hurmito
+RunAppX
+Running
+Runtime
+Russia
+Russian Federation
+Riisiŋkoore
+Russian
+Ruusiire
+Ruwannda
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+ndiiS
+SASL bind
+SASL
+kartal
+SDP
+SE
+SECG elliptic curve sectr
+SECG
+SECURITY
+SEE THIS STRING
+SEE THIS
+SEE
+SETTINGS
+SFailed to
+SFailed
+SHA Digest
+SHA Fingerprint
+SHA
+SHOULD
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+SKB
+SMB of
+SMB
+SMTP &apos
+SMTP&apos
+SMTP
+SMTPAUTH
+SOCKS Host
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+ƁAŊŊINO
+SQL Statements
+SQL
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+STRING
+STouch
+SUGGESTED
+SVG clipping
+SVG
+SW Asian
+SW
+SWITCH
+SYSTEM
+S_piille
+Ho
+Saba
+Mettiniikam
+Safari
+Safe Mode
+Mbayka
+SafeBrowsing
+SafeMode
+Saharaa
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+Saint
+Salaam
+Salem
+Salvador
+Same
+Sami
+Samowaa
+Samoan
+Sampled
+Samples
+San Marino
+San
+Seenorde
+Sandboxing
+Sandwich
+Sango
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+Sans
+Sanskrit
+Saaserif
+Santa
+Santo
+Sao Tome and
+Sao Tome
+Sawo
+Sardineere
+Sass
+Hoo
+Hoorebiir
+Saudi Arabia
+Sawudi
+Save Permissions
+Danndu
+Daɗndu
+Saved
+Danndu…
+Saving
+Saving…
+Saw
+Scalars
+Scale …
+Werngo
+Scaled
+Scaling
+Scam Warning Take
+Scam
+Scams
+Scan
+Scanner app
+Scanner
+Scanning for
+Scanning
+Scheduling
+Scheme
+Scope
+Score Origin
+Score
+Scots
+Scottish Gaelic
+Gayelikre
+Scratchpad Enter some
+Siiforde
+Screen Orientation
+Screen reader
+Yaynirde
+Screenname
+Leƴƴannde kuurgal
+Screenshots
+Script
+Scripts
+Scroll
+ScrollLinkedEffects
+Scrolling
+Sd
+Sdays
+Sea
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Yiylo
+Dootere
+Searching &apos
+Searching
+Nana yiyloo…
+Yiylo…
+Seccomp Thread Synchronization
+Seccomp Thread
+Seccomp
+SeccompBPF System
+SeccompBPF
+Second
+Secondary Email
+Secondary
+Maje
+Sections
+Secure
+Securing connection
+hisna
+Security Exception
+Kisal
+Ƴeew
+Labo
+Suɓo
+Selected Frame
+Selected Tabs
+Labaaɗe
+SelectedRemove Selected
+LabaaɗoMomtu
+Selecting
+Labannde
+Suɓorde
+Selectors
+Select…
+Self Cost
+Self Sampled
+Self Time
+Self
+Selfclosing syntax
+Selfclosing
+Selfposting
+Send Verification
+Send a
+Neldu
+Sender
+Neldude
+Sends a
+Sends
+Sengaal
+Sensor
+Sent &quot
+Nelaaɗe
+Sto
+Separate _
+Separate tags
+Separate
+Separated
+Ceerndirgal
+Ceerndirɗe
+Sepiyaa
+Siilto
+Serbii
+Serbiire
+Serial Number
+Serial
+Serialize
+Serif
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+Server settings&apos
+Sarworde
+Carworɗe
+Carwol
+ServiceWorker
+ServiceWorkerAllowed
+Carwe
+Carworɗe
+Naatal
+Sessions
+Set Up Sync &quot
+Set this channel &apos
+Suɓo
+Setting
+Settings &#124
+Teelte
+SettingsA
+Teelte…
+Teeltaade
+Seven
+Severy
+Seysel
+Sh
+Shader
+Shading
+Shallow
+Lollin
+Simmin
+Renndaande
+Sharing Indicator
+Lollingol
+Sheet
+Shift _ JIS
+Shift _
+Shift
+Sift
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+Shona
+Shopping
+Short
+Shortcut
+Codorɗe
+Shot
+Should
+Show/Hide
+Hollu
+Showing
+Shrink To Fit
+famɗin
+Shutdown
+Shutting Down
+Shutting
+SiInEfate
+Siblings
+Sichuan Yi
+Sichuan
+Palal sawndo
+Pale sawndo
+Sarliyon
+Sierra
+Sign
+Signature
+Signed
+Signer
+Nana siifa
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Ɓete
+Weeɓtinaande
+Simplify
+daasgol
+Simulate touch
+Simulate
+Simulation
+ñemmbirde
+Simulators
+Since
+Sindhi
+Sinngapoor
+Singhalese
+Sinhalaa
+Siswati
+Lowre
+Lowe
+Ɓeto
+Ɓetol
+Wutte
+Diwaama
+diwa
+Egilis
+Slowakiire
+Slowakii
+Slowenii
+Sloweniire
+Buggitagol
+Sm
+Tokoosum
+Smart
+Sms
+Tummbitol
+Ceŋirɗe
+Solomon
+Solon
+Somaliire
+Somalii
+Won
+Sonngay
+Sorbiire
+Ɗaccu hakke
+Leemto
+Leemtiraa
+Soto
+Ɗaɗol
+Iwdeele
+South
+Southern
+Boowal
+Space
+Boowe
+Espaañ
+Español
+Speculative
+Taro
+Miijtanɗe
+Spx
+Sri
+Ss
+Taakre
+Ñippugol
+Gaadanteejo
+Hoodere
+Fokkitde
+Fuɗɗo
+fuɗɗaade
+Nana fuɗɗoo…
+Kurmital
+Ngonka
+Statement pointer
+Wowlaandu
+Leelɗi
+Dentuɗi
+limlimtooje
+Ngonka
+Heddo
+Yawtu
+Dartin
+Mooftol
+Lir
+Ɓoggol
+Jaddol
+De
+Gine jokkiiɗe
+Toɓɓere
+Naatnu
+Neldaaɗe
+Subordination
+Lulno
+Subsys
+Moƴƴii
+Moƴƴii
+Sudaan
+Timminol
+Ballitte
+Wasiyaaji
+Tonngol
+Dew
+Sundaniire
+Dewo
+Superseded
+Wallitorde
+Surinaam
+Innde
+Tuumaama
+Swaahili
+Swaasilannda
+Suweed
+Suwediire
+Gostirgel
+Waɗtu
+Swiis
+Sillabari
+Sanngoɗin
+Sync
+Canngoɗinal
+Nana synca…
+Jalbingol
+Siriya
+System
+TCP
+TCVN
+TIS
+goongɗitinol
+Tab
+Kaatumeeje
+Tabbe
+Tagere
+Tagalog
+Tage
+Tahitiire
+Taywaan
+Tajikre
+Tajikistaan
+Tamil
+Tamiliŋkoore
+Tansanii
+Tatar
+Telemeetiri
+Telugu
+Teluguŋkoore
+Template Name
+Template
+Temporary
+Kuule
+Territory
+Binndol
+Na
+Taayaŋkoore
+Taayiŋkoore
+Thaayi
+Tayilannda
+A jaaraama
+Jaaraama
+PDF
+naateede
+Siŋkoore
+Ciŋkooje
+Oo
+Garwanol
+Naa
+Dooɓre
+Dooɓe
+Naasaande
+Tibetaŋkoore
+Tibetere
+Tigere
+Tigrinya
+Heeɗo
+Waktu
+jot
+TimorLeste
+Pamarum
+Tiitoonde
+To
+Tobaago
+Hannde
+Toggilo
+Togo
+Tokelau
+Token
+Tome
+Tonga
+Tonnga
+Pale kuutorɗe
+Boyet
+Kuutorɗe
+Dow
+Momto
+Rewindagol
+Traditional
+Deertinol
+Fir
+Firo
+Firooɓe
+Transport
+Trinidad
+Loftugol
+Trust List
+Trust
+jaawnowal
+Tsonga
+Tswana
+Ma
+Maw
+Mawbaare
+Tunisii
+Turkmenii
+Turkeere
+Turkmeniire
+Turkmenistaan
+Turks
+Ekkitorɗe
+Tuvalu
+Tuwii
+Twitter
+Ɗiɗi
+Fannu
+ejtagol
+UID
+UNDO
+URI
+URIs
+URL
+Fulfulde
+Dowla
+USASCII
+UTF
+UTFBE
+UTFLE
+Ugannda
+Ndo
+Uighur
+Ukereen
+Ukereneere
+Ukrainian
+Horiima
+Heɓotaako
+Daaƴtu
+Labto
+diidlesol
+Faami
+Firtu
+gasaani
+Kono
+Suuɗtu
+Unicode
+Unified
+Fuɗɗinaaka
+Aaftu
+Momtu
+Nana aafta
+Keeriiao
+Yuɓɓinirgu
+Laamateeri
+Winndere fof
+Anndaaka
+Unknown
+Seŋtu
+Loowtu
+Soktaama
+Ittu muumɗinal
+Ŋiptu
+jaabaaki
+Siifaaka
+Leemtaaaka
+Tammbaaka
+Ngo
+Huutoraaka
+Dow
+Hesɗitin
+Hesɗitii
+Hesɗitin…
+Hesɗitin
+Nana yolla…
+Serbiire
+Urdu
+Uruguwaay
+Amen
+Usage
+Huutoro
+Huutoraa
+Innde kuutoro
+Usbek
+Usbekistaan
+VISCII
+VK_F
+VPS
+Valid
+Validation
+Moƴƴugol
+Kiisol
+Wanuwatu
+Baylotooɗe
+Vatikaan
+Wannda
+Wenesuwella
+Ƴeewtagol
+Ƴeewtaama
+Nana ƴeewtoo
+Nana ƴeewtoo…
+Verisign
+Yamre
+Widewo
+Widewoo
+Wiyetnam
+Wiyetnamiire
+Hollir
+Jiytol
+Kolloowo
+Viewport
+Jiyte
+Hollu…
+Vincent
+Limoore
+Yilleede
+jiyotooɗum
+Volapük
+Daande
+Nana sabbii…
+Wallis
+Walloonre
+Reentin
+Reentino
+Deentine
+konguɗi
+Nj
+WeakMap
+Jammingol
+Geese
+Mooftiiɗe
+Yoŋkitirde
+WebIDE
+GeeseSoket
+Lowre geese
+Nje
+Njeslaare
+Galliire
+Western
+Waɗii
+Wifi
+width
+Win
+Henorde
+Windowopen
+Kenorɗe
+With
+Ɗoworde
+Wolof
+Soom
+suro
+Sakket
+Winndii
+X
+XHTML
+XML
+canngoɗinɗo
+XPConnect
+Poottiiɗo
+Koosa
+Yahoo
+Yemen
+Eey
+Haŋki
+Yi
+Yiddiire
+Yoruba
+ll
+Aan
+maajogii
+Sammbi
+Sealannda
+Zhuang
+Simbaabwe
+Lonngo
+Sulu
+Kaɓirgolx
+yeewtere
+formatSTabbere
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+a scam
+a searchable
+ɗiɗaɓo
+reɓɓiɗinaande
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+ɓurbnde ŋisde
+a subgrid
+a suggestion
+a surprised
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+Goofol
+mboros
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+yontere
+a windowed
+a wink
+a year
+a yelling
+kaatimel
+aSuɓo
+aFrames
+aAnndu
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abhorred
+abilities
+able
+abort
+aborted
+about About
+about Networking
+about Us
+About brandShorterName
+laborde
+aboutconfig
+aboutcredits
+baɗtehakkeeji
+aboutwebrtc
+above
+aboveAllow
+abruptly
+absence
+absolute positioning
+absolute
+accel
+accelalt
+acceleration on
+moylinol
+accelshift
+accented
+njaɓaa
+acceptable
+acceptcharsetutf
+wallitoreede
+accepting site &apos
+accepting
+access Key
+access multimedia
+yetteede
+accessed
+accessibility support
+accessibility tools
+accessibility
+udditaade
+accessing
+accidental breakage
+accidental
+accompanying
+accomplished
+accordance
+according
+account &apos
+account Actions
+account connected
+account name
+sokloy
+accountManagernewAccountlabel
+accounts
+accuracy
+ngoongɗi
+acknowledges
+across
+act
+baɗal
+actions
+activate
+kurminaaɗo
+active Logins
+njillundi
+activity Indicator
+activity Stream
+activity
+actual Size
+actual
+actualDate &apos
+actualDate
+actuarial
+adaptive
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+Ɓeeydu
+addEventListener method
+addEventListener
+Ɓeydit
+adding
+additional
+additivesymbols descriptor
+additivesymbols
+addon &apos
+ɓeydital
+addons gallery
+ɓeyditte
+addonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+udditirtee
+addressbook
+addressbr
+addresses
+addressing area
+addressing
+adjacent
+adjust
+admin
+jiiloowo
+adult supervision
+mawɗo
+advance
+advanced JavaScript
+Ceeɓtore
+advanced_pref_installation
+advancelabel
+advertise
+advertised
+advertises
+affect
+affected
+affecting
+after Sending
+caggal
+ɗimmit
+age
+agent
+aggregate
+aggregates
+aggregating
+aggregator
+Gila
+agree
+agreement
+airplane
+aka NIST
+aka
+afannuuji
+alert description
+jeertino
+algorithb
+algorithm Parameters
+algorithmhash value
+algorithmhash
+algoriritmol
+alignment
+alined
+alive
+all candidate
+all current
+htmlstrongTabbe
+cili
+fof
+allocate
+allocated
+allocation
+allocations Rate
+allocations
+allow dialogs
+allow immediate
+yamire
+sosaa
+allowfullscreen
+allowing
+allows
+allowsameorigin
+allowscripts
+almost
+along the Y
+yanta
+alphabetical
+already bookmarked
+already
+also gives
+also skip
+also
+altKeylabel
+alter
+alteration
+altered
+alternate
+alternatives
+always Ask
+always Block
+always prefer
+always
+am &#124
+am
+amount
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+etagol
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+Ƴeewndoro
+analysis
+analyze
+ancestor elements
+ancestor
+ancestors
+anchor &apos
+anchor
+anchors
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+Hersegowiin
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+Njaltaa
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+ñiiɓi
+angle
+animatable
+dillinangal
+animation cycle
+jirwitere
+jirwere
+annually
+anonymous box
+anndaaka
+ngonɗngu
+jaabte
+antivirus software
+antivirus
+any applicable
+any arguments
+any article
+any automation
+any indirect
+jaaɓɗuɗe
+pawotooɗe
+anymore
+anyone
+anypolicy
+anything
+tan
+anywhere
+apart
+app &apos
+app submission
+ceŋingol
+appName
+appear
+appearance wrong
+appearance
+appears
+append
+applicable service
+applicable
+application Basics
+application Details
+application doesn &apos
+jaaɓnirgala
+applications
+applied
+applies
+ɓasre
+applying update
+applying
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+approved
+approx
+approximate line
+approximate
+approximation
+apps &apos
+apps
+apr &#124
+apr
+april
+arbitrary
+archive
+archived folders
+archived
+archives
+archiving
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+woowaani
+area shape
+area
+areas in
+areas
+aren &apos
+aren
+Daliiju
+arguments for
+arguments
+arising out
+arising
+arjo
+armscii ISO ISO ISO
+armscii
+around
+arrive
+arrived
+arrives
+arrow
+arsa
+article summary
+article
+articles
+artwork
+as &apos
+as Authored
+as broken
+as cURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+ŋarɗol
+ascending
+ascii
+ash
+asis &quot
+ngoniri
+ask me
+Naamndo
+asked questions tips
+asked
+naamnaadema
+asks that
+asks
+aspect ratio
+aspect
+aspects
+assets
+assist you
+assist
+ɗaɓɓude
+associated
+association
+assume
+assured
+asterisk
+async touch
+async
+asynchronous Pan
+asynchronous entity
+asynchronous
+asynchronouslyloaded
+at S
+at least
+at span id &apos
+at
+atchMore than
+hevtinaaka
+attach
+attached
+attaching
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+attachment
+attachmentDo
+attachments
+attack An
+attack pages
+yande
+attacker could
+attacker
+attackers
+attacks
+attempt
+attempted old
+attempted
+attempting
+attempts
+attend
+attendance
+attendee
+attendees
+attention
+attribute Type
+gonal
+attributes &apos
+attributes
+audio Backend
+ojoo
+aug &#124
+aug
+august
+goongɗitin to
+goongɗitin
+goongɗitinma
+authentication mechanism
+goongɗitinol
+goongɗugol
+author
+hohowɓe
+authority is
+authority
+authorization
+authorized
+authors whom
+tapayɓe
+auto Increment
+auto Prettify
+auto Save
+auto discover
+auto
+autoAddOnsUpdateslabel
+autocomplete
+autocompletion
+autodetection
+autofill
+automated updates
+automated
+automatic updates
+jaajal
+automatically Black
+automatically detects
+automatically prefill
+automatically so it &apos
+automatically
+automation
+autoplay
+ŋaylogol
+available &quot
+available Commands
+keɓoo
+hakindo
+avg
+avoid
+aware
+away
+axis
+b
+bEven
+bS
+back facing
+back
+backed up
+backed
+backfacevisibility hidden
+backfacevisibility
+cakkital
+backlogged
+backslashes
+restorde
+backups
+backwards
+bad parameter
+ñawɗe
+badge
+baggage object
+baggage
+ban
+dewɗe
+banks
+banned
+beywal
+bar
+barada
+base
+tugnaade
+baseline
+basic Page
+basic
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+nafde
+be validated
+be very careful
+waasi
+bear the
+bear
+beast
+beasts brought emfire
+beasts
+beautifier
+beautify
+became full
+became
+because
+become
+becomes damaged
+becomes
+been deactivated
+been navigated
+been reestablished
+been replaced
+been revoked
+been transferred
+been translated
+been
+beep
+hademaa
+began
+begin
+beginning
+begins with
+begins
+behalf
+behavior
+behaviour
+behavioural
+being incompletely transferred
+being redirected
+being reparsed
+yolleede
+believe
+believed
+belongs to
+belongs
+les
+benefit
+benefits
+beside
+best Match
+best accomplished
+ñawndiraa
+better
+between
+bfor Android
+bgt
+bidirectional
+wooroo
+bigger
+billing
+binary
+bind DN
+bind
+binding shadows
+binding
+bindings tag
+bindings
+bird
+birdcage …
+birdcage
+birth
+bit keys
+kelon
+bitrate
+bits
+bitten
+black
+blank
+block Lists
+block padding
+block
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+paliɗaa
+palogol
+blocks parts
+blocks
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+body
+book
+bookmark updated
+maantorol
+bookmarked
+maatore
+books
+buleyaare
+bootloader
+border &apos
+border radius
+ŋori
+borders
+bot
+both
+bottom
+bound
+boundaries
+bounds
+box Model
+box model region
+box model
+box
+boxcom
+boxed
+pawondiɗe
+boxing
+br
+brace
+braces
+brackets
+brand new
+brand profile
+brand
+brandFullName Credits
+brandFullName
+brandShortName &apos
+brandShortName Preferences
+brandShortName logo
+brandShortName
+brandShorterName Tour
+brandShorterName
+brandShortname
+break
+breakage
+breaking
+dartorde
+breakpoints
+breaks
+brighter
+bring
+broad
+goofɗungal
+brought
+mbanngotoɗaa
+browser &apos
+browser Hangs
+browser configurations
+wanngorde
+browsercachediskenable to
+browsercachediskenable
+browsers
+peeraagol
+brulliIf
+btŋ
+buddy list
+buddy
+budget
+buffer capacity
+buffer
+bug
+bugs visit
+bugs
+bugzillamozillaorg
+Taf Teeltannde
+build
+building summary
+built
+builtin Roots
+builtin tools
+Wulde
+bulleted list
+bulleted
+njulaagu
+jaggi
+but we
+faalkise
+button button
+butoŋ
+rajo
+by Added
+by COLNAME
+Ndeenka
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+roɓindii
+bynbspdesign
+byte
+bite
+c
+cSrS
+cURL
+cache management
+moggi
+cachecontrol set
+moggiingo
+waylaaka
+cachemanifest
+caching of
+caching
+calendar Weeks
+calendar
+calendaring information
+calendaring
+calendars
+calendartimezonesxpi
+call Stack
+call calls
+noddu
+callUrl
+callback
+called &apos
+called
+callees
+caller
+calling detach
+calling
+calls
+kamaraa
+t
+can analyze
+can collect
+can often
+can ’
+can
+cancel
+canceled Occurrences
+haaytini
+cancellation
+haaytaama
+cancelledAddon
+candidate resources
+kanndiaaji
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+cannot
+canvas Debugger
+canvas an
+keertol
+capabilities
+capable
+capacity
+capitalization
+ciforgol
+capture
+captureEvents
+captured log
+captured
+SD
+cards copied
+cards etc
+cards
+care
+careful
+carefully
+caret
+carriage return
+carriage
+carrier
+case sensitivity
+darnde
+caseinsensitive
+cases
+cast
+categories
+categorize and
+categorize
+category
+categorySource
+gaddooje
+caused
+causes
+causing stability
+ngadda
+caution
+caveats
+cc
+cd
+cell border
+cell was
+hoolgu
+kaarol
+cells
+cellular location
+cellular
+census
+center footer
+center header
+center
+centered
+centerxcenteryradius
+centimeters
+cert AIA
+cert Library
+cert validation
+cert
+certain
+certificSian
+certificate
+saadafaaje
+ch
+waylaade
+wayliima
+wayletee
+t
+ceen
+aljule
+charset
+jeewte
+Ƴeewto
+labaaɗo
+Ƴeewtaaɗo
+kesɗitina
+cuɓol
+suɓo
+cuɓagol
+waɗmaa
+cipher
+heɗitinde
+Clear Sans
+Mumtu
+momteede
+ndoboɗaa
+dobaaɗo
+dobaade
+njamdi
+uddol
+uddiiɗo
+uddaama
+uddo
+kod
+codebreakpadreportURL
+mabbuɗo
+taggiiɗo
+ndoɓindaa
+noonde
+darol
+dati
+Ginol
+jowe
+huuɓngo
+jaaɓdugol
+njaaɓii
+timmitoorde
+timmitorde
+timmude
+tugno
+jokkita
+komponal
+komponne
+tiɗɗo
+nganndi
+conbv
+Ina teeltoo
+Teeltu
+teeltaa
+teeŋtin
+kumaandi
+jolii
+nganii
+ceŋangol
+seŋorde
+waɗetee
+gannaaɗe
+seŋortoo
+consolelo
+jokkondir
+soomde
+mbaɗi
+Dokkitannde
+loowdi
+weeyre
+uddudeɗe
+ñiiɓngol
+wallitooɓe
+Ɗow
+ɗowirɗe
+Kukii
+kujiije
+nattaama
+yeruuji
+tummbitaade
+peewi
+moƴƴiri
+corresponding
+jiibnngal
+cpnbv
+cpnbw
+hookre
+ll
+hooki
+cabbiiɗe
+sosande
+created
+cosgol
+innitorɗe
+ctnbr
+ctnbv
+wonaango
+belgol
+jamngel
+curve
+peŋtorol
+Heerto
+keertingol
+jiilnaaɗo
+d
+bonna
+darkness
+darrinhenein
+keɓe
+ruttorde
+datareporting
+Ñalngu
+ñalawmabalɗe
+balɗe
+goɗɗungol
+Leelɗo
+kuugal
+dewngal
+gannitde
+decodeAudioData
+dokkitaaɗe
+tiɗɗitgol
+goowaaɗo
+cakkal
+ciforgol
+momtol
+momtaaka
+salaaama
+lesre
+woppaa
+cifaaɗi
+Diidngo
+ummooraade
+teelɗe
+yiytaama
+UA
+developermozillaorg
+kaɓitgol
+kaɓirɗi
+jaatumere
+haaldorde
+firta
+t
+tumaraŋkeewal
+pune
+Ñif
+ko ko daaƴaa
+daaaƴde
+ndiiwta
+dartaade
+jaytinde
+jaytinoore
+weeɗooɓe
+hoolkisiima
+hoybitin
+docs
+fiilannde
+defterdu
+documentdomain
+documentdomainS
+doondiiɗe
+documentwrite
+methodpost
+t know
+dolaar
+domen
+t
+luutndere
+taƴngol
+ngaawtiɗaa
+gaawtolMomtu
+aawtaamaKesɗitine
+ngaawtoɗaa
+gaawte
+daasde
+pilot
+goppangal
+juppol
+during
+e
+ŋoral
+Taƴto
+nana taƴtoo
+luural
+eight
+eightbit
+eighteen
+eighteenth
+eighth
+either
+ɓennii
+elea reime
+geɗel
+elementdataset
+elementdataset
+elements
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+eleven
+eleventh
+eligible
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+elliptic
+else contact
+else
+em
+emMammon
+Email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+Imeel
+emailI &apos
+emailI
+emailed
+emailexamplecom
+iimeeluuji
+emand
+embarrassed face
+embarrassed
+haawnii
+embed
+embedded PDF
+coomtoraaɗe
+embeds
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributor
+emcontributorJoe Solon
+emcontributorJoe
+emcontributorSuzy
+emfire
+emgreat
+emnew
+emngonaa
+emoticons
+employer
+empty Trash
+empty slots
+mehol
+emptying
+emreborn
+emrenewed
+emswiftly
+emthunder
+emtwins
+emulate a
+emulate
+emulating a
+emulating
+emulation
+en
+enUS en
+ff
+enable brandShortName &apos
+enable others
+enable worker
+Feññin
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+hurminaa
+enables
+enbz
+enclosed
+encode
+encoded
+encoder
+encoding
+encodings
+encountered
+encrypt this
+encrypt
+encrypted you
+ganninaa
+gaannugol
+enctype instead
+enctype
+enctypeS
+enctypemutipart
+end user &apos
+battanno
+ended
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+ends
+enforced
+engage
+engine
+engines
+feewniti
+enjoy
+enlarging the
+enlarging
+enough
+ensure
+ensures that
+ensures
+naatnu
+naatnande
+entering
+enters
+entire
+entirely
+entities
+entity in
+entity reference
+entity
+entries
+naatol
+Ina tonngoo
+enus
+environment Data
+environment
+environments
+ephemeral DiffieHellman
+ephemeral
+equals sign
+equals
+hiistannde
+equestAnimationFrame
+era of
+erase
+error console
+error creating
+error refiling
+juumredaawal
+errorCode
+errorfree
+errors
+erver
+es Salaam
+es
+esES
+esc
+escape
+escaped
+escaping
+establish
+established
+estimates only
+estimates
+ekn
+eval
+ƴeewndaade
+evaluate
+evaluating a
+evaluating an
+evaluating
+evaluation
+wanngeede
+event Handler
+event
+eventThe
+events
+ever
+every dayevery
+every weekevery
+every
+everyone
+everything inbetween
+everything
+everywhere
+exact
+nannda
+examf
+examine your app &apos
+examine
+Yeru
+examplecom rather
+examplecom
+examplenet
+exceed five
+exceed the
+exceed
+exceeded
+exceeds
+except
+exception
+exceptions Cookies
+paltooje
+exchange
+excluded
+excluding
+njamirtaa
+executable
+Siynu
+executed to
+executed
+executes
+execution
+exemplary
+exist can &apos
+exist
+existing
+exists
+existsWould
+yaltyde
+exited
+exits
+expand panes
+expand
+expanded to
+bertiiɗo
+expanding out
+expanding
+expands to
+expands
+expandstrict
+expect anonymous
+expect
+expectations
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+Ɗamuya
+expecting
+dawtol
+experienced
+experiences
+experiencing
+experiment
+ƴeewndorde
+experiments
+expire
+gasii
+expires Seconds
+expires
+expiry
+explicit
+explicitly specify
+explicitly
+exploit
+explore a
+explore
+export regulations
+export
+exported
+expose
+exposedProps
+express
+expression
+tuuforɗi
+extend
+extended
+extending the
+extending
+extends system
+extends
+extensible
+extension extensions
+Timmitere
+timmitte
+external Editors
+external storage
+external
+extra Large
+extra requirements
+Ɓeydo
+extract error
+extract
+extraction error
+extraction
+extreme
+f
+face
+facing camera
+facing
+factory
+fail
+wooriikesɗitine
+fails treat
+fails
+failure
+fallback
+false
+Daartorde
+family addressbr
+family
+far
+yaawngo
+faster
+faves
+faxed
+ƴeewndoɗaa
+moƴƴinaaɗi
+feb &#124
+feb
+february
+feed &quot
+feed Subscriptions
+balol
+feedImported
+duttinal
+bale
+feel
+feels great
+feels
+fell
+fence
+fetch count
+fetch
+fetched from
+fetched
+fetching individuals
+fetching more
+maalle
+few
+fewer
+ff &quot
+ff
+field Value
+field
+fields
+fifteen
+fifteenth
+fifth
+tong
+ayaawu
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+file
+filename
+files
+filesystem
+filing
+fill out
+fill
+fillStyle
+filled
+filling
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+filter
+filtered
+filtering
+filters
+final
+yowitiinde
+find In
+find exactly what you &apos
+find out what &apos
+Yiytu
+findbar
+finding
+finetuned
+gas
+finished evaluating
+gaynii
+finishing
+fire
+firefox
+firefoxapps
+ɓalaljaynge
+firewalls
+first option
+heftinaaɓe
+heddoo
+kaaɗi
+joy
+ñawnduɗe
+fixed Width
+fixed width font
+fixed
+fixvideoaudioproblemsfirefoxwindows
+flag
+flagged
+flame
+flash
+flashing
+flat equation
+hiistannde
+flexibility and security so you &apos
+flexibility
+flexiblebr
+floating &quot
+floating
+floor
+floppy
+flr
+focus Variables
+focus
+focused
+folder &apos
+folder &quot
+folder subscriptions
+folder
+folders
+follow
+followed by
+followed
+followers
+following protocols S isn &apos
+following
+follows
+followup
+font Control
+font size
+lesol
+fontface rule
+fontface
+fontfeaturevalues
+fonts for
+ponte
+fontvariant property
+fontvariant
+footer text
+yaɓɓorde
+footinmouth face
+footinmouth
+for &apos
+for &quot
+Momtugol
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+for recipients &apos
+for signing
+for writing
+hollo
+forbidden
+Forsu
+forced
+forcibly
+forcing all
+forcing
+foreign
+maawe
+forgery
+yejjitii
+forgetting
+forgotten
+form Field
+form Post
+form fields
+form userhost
+formere
+format
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+formatSNew
+formats
+formatted as
+formatted
+formatting
+formdata on
+formdata
+formed
+forms are
+forms
+forth and
+forth
+forums
+forward slashes
+yeeso
+forwarded
+forwardmsg
+forwards
+yiyaa
+foundout of
+foundout
+founds
+four
+fourteen
+fourteenth
+fourth
+fox jumps over your expectations with
+fox jumps
+amin
+fps
+frFR
+frac
+heltere
+fragment Shader
+fragment
+frame &apos
+frame
+framed
+framerate
+kaareeje
+frameset
+framesets
+framing
+jamfe
+fraudulent
+yummbit
+frequently
+fresh
+friday &#124
+friday
+fridays
+friend
+friends
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+from
+tuggi
+wonnde to
+front facing
+front
+frown face
+frown
+frozen
+ftp
+ftpmyispcom
+heddi
+fullfeatured
+fullpage
+fullscreen
+fully
+function
+functional
+fannuuju
+huutortoongu
+further
+future scans by
+future
+fxp Available
+fxp
+gain
+gerngal
+garbage Collection
+garbage collection
+garbage
+garbled text
+garbled
+gateway
+renndinde
+gazed
+gb
+gdiplus
+gear icon
+gear
+general Notification
+general
+generally
+generate a
+generate
+generated
+generation
+generator
+generic Photo
+Generic
+geoenabled preference
+geoenabled
+tolnitagol
+geometric
+geometry visibility
+geometry
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+Ɗaɓɓu
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+getAttributeNode
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+getting
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+hokka
+rokkaa
+gives you
+gives
+giving
+glitches
+glob
+global Composing
+global community
+global
+huuɓtidinnde
+go Back
+Yay
+goes
+going online
+hahii
+gone
+good news
+good
+goodwill
+gopher
+gorithm Identifier
+got it
+got
+governed by
+governed
+grace
+grant
+dokkaaɗi
+grants you
+grants
+jaytino
+jaytino
+Ɗuun
+greater than
+greater
+greeting
+grew more
+grew
+grid
+kaarol tigilde
+tamre
+gurup
+grouped
+mooɓe
+gt
+gtgt
+guarantee that
+aadande
+guaranteed
+guess
+guessed
+guessing
+guest is
+naatanɗe
+guide you
+guide
+guides
+h
+hTraduction
+ha
+hacking
+had its
+had
+half an
+half past
+half
+hand tool
+kuutorgal
+handle S
+tammbaade
+handled
+handler command
+handler
+handles
+handling
+hands
+handshake
+handshakes
+hang Report
+take
+hang
+hangs
+happened
+happens
+hard drive
+hard
+hardware H
+hardware acceleration
+gollorɗe
+bonnude
+harmful
+has Attachments
+has bookmarked
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+wufta
+dodre
+hashes in
+hashes
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+ɓeydii
+haven &apos
+beyditere
+haves
+having trouble
+waɗɗanaakima
+head
+hoorewol
+headers
+heading level
+tiitoonde
+headings
+health
+heap
+hear
+height
+held
+hello extension
+hello
+walle
+toɗɗangal
+helpful
+helping make
+helping
+helps ma
+helps
+her
+ɗoo
+Cuuɗaaɗo
+hide Statistics
+hide Toolbars
+suuɗ
+cuuɗgol
+High Grade
+high
+higher level
+higher
+highgrade
+highlight
+highlighted
+highlightedS nodes
+highlightedS
+highlighter
+highlighters
+highly recommended
+highly
+hightailcom
+him
+hints press
+hints
+his or her
+heftinirde
+history window
+history&apos
+daartol
+hold
+holds
+home City
+home Country
+home Phone
+home directory don &apos
+home
+homepage
+hop limit
+hop
+horizontal lines
+horizontal
+horror
+host
+hosted
+hosting service
+hosting
+hostname
+hostnameport
+hostnames
+hostport
+hosts
+hotspots
+hour
+waktuwaktuuji
+hours
+how
+however
+href
+hrink
+hrpd
+hstrike
+htm
+html &apos
+html
+htmlstrong
+htmlstrongKukiije
+htmlstrongAslol
+htmlstrongTabs
+htmlstrongKenorɗe
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http
+https//boxescom/external/widgetreferffurls
+https//composemailyahoocom/Tos
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//mailgooglecom/mail/extsrcmailtourls
+https//wwwmibbitcom/urls
+https
+deeƴii
+id
+koolangal
+innitorta
+keftingol
+jaaɓduɗi
+sanngolɗinal
+natal
+nate
+ktlnatal
+ñemmbitaade
+cuwaa
+maandinaa
+jiggo
+Daaƴaaɗe Teeŋtuɗe
+Ina himmi
+jiggeede
+ƴellitede
+ƴellitaama
+yahdema
+peɗeeli
+Waɗor
+yantude
+njaaɓaani
+soomi
+teeltiraa
+Incremental GC
+aawtii
+Enndekse
+inndekse
+wowlu
+ined
+suuriingo
+gaañde
+nderol
+kisi
+naatnal
+LoAaf
+aafwgol
+loowaaɗe
+Aaforgal
+Aafol
+waylaani
+timmunde
+Naatondirgal
+timmugol
+mbaɗiraaka
+njaaɓtordi
+intermediate
+enternet
+taƴii
+tappaaɗi
+ñawndi
+noni
+t redirecting
+isoutfxgbkbigisojpshift_jiseucjp
+Issued
+issuer
+s easy customize your
+ɗoon
+ɗem
+temre
+teme
+seenorde
+javascript
+diwaaɗo
+dañal
+kb
+udditanoo
+key
+Tappirde
+kele
+damal
+tintineede
+jeyɗoɗe
+ganndiraaɗi
+ɗakkol
+daranii
+hurmin
+hurmineede
+hurmina
+luure
+naatnunoɗa
+nano
+length
+jaasi
+s go
+suɓoo
+suumo
+li
+liƳeewto
+liJokkondir
+liSo
+liTiiɗno
+liÑoƴƴu
+liNdee
+liƊee
+liFuɗɗito
+liEna
+yamirooɓe
+light
+liliDobo
+liliMbar
+liliWon
+liliemNOTE
+Haaɗnu
+kaaɗnugol
+line
+jokkol
+jokke
+doggol
+limteede
+lnk
+mejaa
+loowaama
+nana loowa
+lokaale
+localhost
+ñiiɓiɗe
+nokkuuje
+cokaaɗo
+logo
+waccoore
+ɓurti
+long
+NodeIterator
+majjunde
+lesɗin
+lt
+ltr
+masiŋaaji
+nndito
+dowrowre
+gadano
+weeɓnandema
+feewaani
+mbonnateeri
+toppitaade
+maayngo
+manifestwebapp
+teyre
+dobirgal
+koolte
+mark the
+marked
+marking a
+marking
+markup
+marquee
+masking
+baabaare
+njaaɓdi
+matched by
+matched
+matcheleatchMore than
+ɓurtii
+matching
+matchutomatically
+material
+math table
+math
+matrix
+max
+maxage
+maximum Length
+maximum permissible
+Maximum
+may discontinue
+may update
+keɓi
+maybe
+mb of
+mb
+mbox
+me out of here
+me
+mean slower message
+firde
+re
+means
+measure a portion
+measure a
+measure
+measurements
+measuring
+mechanism
+mechanisms
+media Sharing
+media
+medium
+meet
+member
+members
+membersonly
+memory map
+memory measurements
+teskorde
+mentioning
+menu Bar
+menu bar
+mawngol
+menuPath
+menus
+njuloree
+merge Warning
+merge all
+merge
+mesh
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+Ɓatakuure
+messageDone
+messageIndexing
+messageS
+messagebr
+messagebrIn
+messageeml
+messagegt
+messageid
+messages Reopen
+Ɓatakuuji
+messaging
+meta
+metadata
+metal posteriors
+metal
+metaviewport tag
+metaviewport
+meter
+method &apos
+woppaama
+Naatnoytee
+methodPOST and
+methodPOST
+methodpost
+methods
+mikkoroo
+microsummary
+middle Eastern
+middle
+might
+migrate to
+migrate your
+migrate
+migrated
+milimeete
+millisecondPing
+milliseconds
+mymetype
+mimetype
+min
+mind
+minheight
+minimonth
+minimum
+minjs
+minor
+mins
+minute minutes
+minute
+minuteEvery
+hojomhojomaaji
+minutes ago
+minutes …
+hojomaaji
+minwidth em
+minwidth
+misconfiguration
+misconfigured
+misencoded
+mismatch
+mismatched tag
+mismatched
+missed reminders
+luutaama
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+laañal
+misspelled word
+misspelled words
+misspelled
+mistake
+mistakes
+mistyped
+mix
+mixed
+mmultiscripts
+mobile
+mode and can &apos
+mode
+modegt
+model
+modelview
+moderated
+moderator
+modern
+modes
+sakket
+modifier
+modifiers
+modify
+module returned
+Wulnde
+modules
+moduli
+moment
+momentarily
+ɓooyaani
+monday
+mondays
+moneymouth face
+moneymouth
+monitor
+lewru
+monthS of
+monthS
+monthevery
+monthly
+months
+more bookmarks
+more powerful
+more savings
+ɓeyditoraade
+moreand
+humpitox
+more…
+most Visited
+most accurate
+most popular
+ngolloo
+mostrecently
+mouse Wheel
+mouse
+move Down
+move Up
+move away
+move emswiftly
+move
+moveable
+moved renamed or deleted
+moved renamed
+dirtinaa
+movedS
+movemail
+moving
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+mozVisibilityState &apos
+mozVisibilityState
+mozcmd directory
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+goomu mozillaorg
+goomu pulaarfulfuldeorg
+mozillaorg
+mozinlinebox display
+mozinlinebox
+mprescripts
+ms
+msf
+msgFilterRulesdat file
+msgFilterRulesdat
+much
+multiline
+multimedia
+multiple links &quot
+uddeede
+multiplied And
+multiplied by
+multiplied
+multiprocess
+multiweek
+music
+must involve
+forti
+my &quot
+my Cert
+my Projects
+my Quick
+my Task
+my Yahoo
+my windows
+Am
+mypagehtml &quot
+mypagehtml
+myusername&apos
+n
+nWhen your
+nWhen
+name &quot
+name
+nameSource
+named anchor
+named either
+innaade
+names
+namespace
+namespaces
+narrowing
+native code
+cinndel
+natively
+navigate
+navigated
+nana feeroo
+navigation Toolbar
+peeragol
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+near
+nearby
+nearest
+necessary
+naatndude
+soklaande
+needing to
+needing
+needs
+negate
+negated
+riiwtordi
+negative
+negotiate an inadequate
+negotiate
+negotiating a
+negotiating
+negotiation
+neither
+nested Table
+nested
+nesting
+netnz /
+netnz
+netscape
+netscapepublicmozillamailnews&apos
+network Monitor
+network Timeout
+network drive
+network section
+laylaytol
+never Show
+gal
+Nuwel Kaledonii
+new Separator
+new Tab
+new Zealand
+new home
+new word
+kesel
+newer
+news client
+news
+newsexamplenet
+newsgroup subscriptions
+newsgroup
+newsgroups
+newsrc File
+newsrc file
+newsrc
+next gt
+next
+nicer
+nick
+waccoore
+nicknamegt Change
+nicknamegt
+nicknames
+nicks
+jammawol
+nikto
+nine
+nineteen
+nineteenth
+ninth
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+alaa
+noMac
+noWin
+nocors&apos
+nocors
+node
+nodeShow all
+nodeShow
+nodeValue
+nodelock
+nodes
+nominative
+non Participant
+non
+nonASCII
+nonFORTEZZA Certificate
+nonFORTEZZA
+nonGregoriancalendar
+nonResponse
+nonUTF encoding
+nonUTF
+nonascii character
+nonascii
+noncesource
+noncharacter
+none
+nonempty
+nonfunction pseudoclass
+nonfunction
+nongeneric
+nonincremental Cause
+nonincremental
+nonleaf
+nonmultiprocess
+nonnavigation
+nonnegative
+nonparticipant
+nonprintable character
+nonprintable
+nonprofit Mozilla Foundation
+jalankeere
+nonspace in
+nonspace
+nonstandard
+nontext
+nonvoid
+noon
+hokkooɓe
+potɗo
+noscript
+nosniff
+mooftaaka
+not After
+not Before
+not Connected
+Aannaani
+not Defined
+not Deleted
+not Downloaded
+daaƴtaaka
+not Installed
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+labaaka
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+rewaani
+notation be unescaped
+notation be
+notation
+note Slow
+ciifol
+bayyinol
+nothing
+notice
+noticed
+notification Permissions
+notification _
+notification
+tintine
+notified
+notifier or
+notifier
+notify me
+notify
+noting
+nounclass
+nov &#124
+nov
+november
+now doesn &apos
+jooni
+npmmailnews&apos
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+nsIWindowMediator
+nsIWritablePropertyBag
+num
+number
+numbered
+numbers negative
+numbers
+dowre
+numeric
+nursery Collection
+nursery Eviction
+nursery
+obj Properties
+obj
+object Stores
+object
+cuuɗiiɗe
+obscured
+observed
+observers
+obtain
+occur
+occured
+occurred
+occurrence of
+occurrence
+occurrences
+occurs
+oct &#124
+oct
+october
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+Man
+of Office
+of Operation
+of Sync
+Moƴƴugol
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+kaayitol
+of qstrongwww
+of reachable
+of recurrence
+releaseEvents
+removeAttributeNode
+of service
+setAttributeNode
+setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+e nder
+ofbr
+off paint
+koko ñifi
+ñifi
+offer
+offered
+offering
+offerings
+offers
+offerxA »
+ceŋtol
+offline_apps
+offsets
+often
+ok
+ɓooyngol
+older than
+older version of Sync
+Hecci
+oldstyle YouTube
+oldstyle
+omitted
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+huɓɓi
+once
+one Level
+one moreand
+wooto
+oneoff
+ones
+oneshot
+oneubuntucom
+taaɓagol
+online
+only reloads
+only supports
+only transmitted
+only
+onlybr
+opacity in
+Tekkeendi
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opkod
+open Web
+open WebIDE
+udditɗaa
+udditiiɗo
+opening fence
+udditgol
+opensource
+operating system
+operating
+operation command
+operation failed
+hobii
+operations error
+operations
+operator expected
+operator
+operators
+opportunity
+opposed
+optimization
+optimizations
+optimized away
+optimized
+optin No
+optin
+option Group
+suɓre
+optional defaultS
+Cuɓorgel
+optionally
+cuɓtorɗe
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+walla
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+teeŋtinol
+organization
+organizations
+organizer
+origin
+originAttributes
+iwdiiji
+originally
+originals
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+ngalɗoon
+others
+otherwise it
+otherwise
+our geolocation
+our partners
+kuutorto
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+yaajngo
+outage
+hiiɗtunde
+outgoing
+ŋorol
+outlook
+outofdate
+output folder
+jaltal
+outside
+over other apps &apos
+over
+overhead
+overlay
+overridden
+override the viewer &apos
+fawtitaade
+overriding
+overscript
+overview
+overwrite
+overwritten
+own
+owned
+owner of
+owner
+ownerElement
+jeyɓe
+jeyal
+p pIf
+p
+pA secure
+pA
+pHumpito ɓeydorɗo
+pHumpito
+pAttack pages
+pLowe
+pDeceptive sites
+pDeceptive
+pEntering any
+pNaatnude
+pIf
+pThe browser
+pThe page
+pThe requested
+pLowre
+pThese types
+pThese
+pKo
+pUnwanted
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pA
+pYour
+package
+tiraaɗe
+packets
+padding
+page &apos
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+page translation
+page }
+hello
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+pages they &apos
+kello
+paint flashing
+paint
+painted area
+nataaɗe
+pair a
+pair
+alluwal
+alluwal
+alluuje
+panning
+paper Size
+paper
+paragraph Marks
+lelnannde
+param
+parameter entity
+parameter
+parameters
+paranoid
+parent Match
+parent Payload
+parent prefix
+parent
+parse XML
+parse failure
+parse
+parsitaaɗe
+parser state
+parser
+Parsugol
+part of
+part
+partial Update
+partial character
+partial
+partially
+participant
+participants from
+participants
+participate
+particular purposes
+particular
+woɗɗitiiɓe
+partner You
+partner
+Min
+partners work
+partners
+partnership
+parts
+party
+woɗɓeAɗa
+pass
+passed to
+ɓenninaama
+passive ’
+passive
+bdolfinnde
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+password&apos
+seedamfaagua
+passwordLeave
+passwordStored
+passwordprotected
+mooftaaɗi
+past
+pasting
+patch apply
+jammingol
+lappol
+paths starting
+paths
+pattern &apos
+pattern
+pause
+paused —
+darniima
+payload
+payment provider
+payment
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+peace
+peer &apos
+peer
+peers &apos
+peers
+pending dump
+taƴaaɗo
+people &apos
+people wouldn &apos
+people
+naatnunde
+percent
+percentage of
+percentage
+percnt Completed
+percnt
+perform caseinsensitive
+perform querySelectorAll
+perform
+ñisgol
+performed Trying
+performed
+performgt
+performing
+periodically
+permanent exception
+duumiinde
+permanently deleted
+bada
+permissible length
+permissible
+permission denied
+yamiroore
+permissions
+permit
+permitted
+persistent logs
+persistent
+person &apos
+person who holds
+person
+personal Card
+personal
+personalhttp//wwwmozillaok
+Konngi
+piksele
+tiiɗno
+jokkel
+podkastol
+point order
+point
+dobirde
+ɓurnorde
+suppitere
+cuppitte
+poor
+position
+ppNaatnude
+pprint
+cuɓoraade
+moƴƴuɗo
+kolliraaɗe
+ñoƴƴaaɗo
+haɗ
+haɗii
+kaɗowol
+njaru
+primev
+rowrowngo
+Waanjito
+binnditorɗe
+yiytindaade
+suturo
+sirluuje
+sellinde
+woɗɗungo
+faggoore
+heftinirde
+keftinirɗe
+Loowngo
+eɓɓaande
+ñolɗo
+suurde
+danndaango
+suuraare
+jaɓɓondire
+ngaddaneɗaa
+hokkiri
+ɗaɓɓugol
+proksiiji
+Sawrorde
+riiwordi
+pseudoelement
+njiyee
+fooɗ
+pulliNgam
+pulliMaa
+pulliMbar
+ordianteer
+pulliTiiɗno
+soodde
+tambii
+px
+q
+qmozillaorg
+qstrongww
+qstrongwww
+Ɓetirɗe
+Ɗaɓɓitere
+ganndaaɗe
+Yantu
+qwxyz
+rajo
+kecce
+Targol
+tarirde
+tarol tan
+reende
+jaaɓtol
+Maantoraaɗe
+potngal
+heɓtude
+pirlittoongal
+Loopol Ɓenningol
+ɓennitinde
+regexp
+OID Binnditiiɗo
+winnditoo
+jowitiiɗe
+bonanndeeeji
+toɗɗondiral
+yahdoore
+Loowtu
+nana loowta
+heddii
+siiftor
+XUL Poottiiɗo
+woodngo woɗɗungo
+Woɗɗunde
+ittudende
+removeAttribute
+omtaama
+momtaa
+innitaa
+yoŋkittoo
+lomtin
+nokitol
+fadde
+Jaŋto
+jaŋtaaɗe
+warii
+Jaŋtaade
+Request
+naamnaaɗo
+waɗɗinaani
+ena waɗɗii
+ɓeydore
+naamnii
+naamnitoɗaa
+seedtaade
+neltirde
+waklitde
+waylu ɓetol
+ɓultooje
+jaabaade
+tijjinooka
+jaabitte
+kurmitinɗaa
+hurmitii
+artirtu
+suraande
+wuftude
+kesiri
+ballaade
+aaftaaɗo
+aaftiima
+nduttoɗaa
+Njiilawu
+ƴeewtol
+reviewinfo
+ƴeewte
+revoked
+joopagol
+yummaare
+gorol
+palol
+gori
+rr
+dogoore
+ɗowirde
+Wanngo
+jubbitte
+ndanndaa
+danndaaɗi
+wiyi
+werannde
+werannde
+eɓɓoore
+Kattanɗe
+maaɗa
+ciiftol
+eskiriptuuji
+wororde
+teeyngol
+njiylawu
+maj
+majaangomajaali
+secpk
+secpr
+taƴre
+sectk
+sectr
+hisi
+kisniraaɗe
+kisnal
+puɗɗorɗe
+seeing doctype
+seek
+ena yiyloo
+seem
+ɗeɓii
+seen but
+seen
+select &quot
+select camera
+Labu
+selected line &apos
+Cuɓaaɗo
+cuɓaaɗo
+goɗe
+labannde
+selections above
+selections
+selectlabel
+suɓorde
+selectors separated
+selectors
+selects
+selfsigned
+semicolon
+send Feedback
+send For
+Deldu
+sender &apos
+sender message
+sender
+danndaani
+sends
+hiisaa
+jaaɓgol
+sent Cookie
+neldaaɗo
+sep &#124
+sep
+separate tags
+Seerndir
+separated
+separately
+separating
+separator character
+ceerndirgal
+sept
+september
+sequentially as a waterfall
+sequentially
+serial Number
+serial number
+tonngoode
+series
+serif
+server &apos
+server Quota
+server SMTP&apos
+server incorrectly
+server maintenance
+server that can &apos
+sarwirde
+servers Maybe
+carworɗe
+serves
+service providers
+service worker
+saɗiiji
+services
+serving
+session ID
+session Id
+session Statistics
+session cache
+session
+bismo
+set Priority
+set browsercachediskenable
+set strokeStyle
+teelto
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+setTimeout
+setUserData
+setVelocity
+sets
+teeltal
+settings &#124
+settings&apos
+teele
+setup options
+ɓurɗaa
+seven
+seventeen
+seventeenth
+seventh
+several ways
+several
+shader Editor
+shader compile status
+shader compile
+shader
+shadows variable
+shadows
+shall control
+shall
+shape &quot
+shape
+lollinol
+shared Workers
+shared
+sharedLongDesc
+shares
+denndauo
+sheet
+sheets
+shell
+shield
+shiftKeylabel
+shiftclick
+shiny metal posteriors which
+shiny
+shopping
+wurɗi
+sodorde
+shortcuts
+shorten this
+shorten
+shorter file
+shorter
+shortly
+shortname
+should keep
+should make
+should
+t
+shouldn
+show Cookies
+show resultShow
+show through
+Hollit
+showall &apos
+showall
+showing repairing
+showing
+shown
+shownReplies
+shows
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+shutdown
+shutting down
+shutting
+sibiling
+side
+sawndo
+sidebarName
+pale sawndo
+sign in
+siif
+signal
+signature algorithms
+siifannde
+signatureAlgorithm
+signatures
+signed
+signer &apos
+signer
+signers found
+signers
+significant
+signing certificate
+signing
+signup
+silence
+silently authenticates
+silently
+similar
+simple Measurements
+simple XLink
+simple
+simplified
+simply need
+simply
+simulation
+simulator installed
+ñemmborde
+since
+single
+singlesignon
+site &apos
+site doesn &apos
+lowre
+sitename &apos
+sitename
+sitenat
+sites
+six
+sixteen &#124
+sixteen
+sixteenth
+sixth
+size
+sizes
+skip Integration
+skip this
+diwde
+skipped
+skips
+slash operators
+slash
+kn
+slashes
+slice
+daasorde
+slot
+slots
+Leeltino
+slow SQL
+slow down
+slow ×
+Gowlaali
+slowing
+slowly
+tambaade
+smaller
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+smiley
+smooth scrolling
+woragol
+smtpexamplenet
+nokitannde
+snapshots
+snews
+s
+so it can &apos
+so you &apos
+so
+soap
+socket
+software makers
+Software
+solid Border
+solid circle
+solid
+solution
+solutions
+solve a
+solve
+some cool
+some printing
+jubbannde
+some unspecified
+Wone
+s Email certificate
+somebody
+someone isn &apos
+someone
+something
+sometimes
+somewhere earlier
+somewhere
+soon
+sorry BrandShortName can &apos
+sorry we &apos
+Ɗaccu
+leemtaade
+sound file
+sound
+sounds like
+sounds
+source software
+ɗaɗi
+sources
+Space Fantasy
+space between
+boowal
+spaces
+spam
+span class &apos
+span
+spanThis
+spanbrandShortName
+spandisabled
+spanenabled
+boowal gori
+spanspan
+speak now
+speak
+speaking
+spec in
+spec
+special incidental
+special kinds
+special
+specific command
+specific
+specifically
+specification
+specified
+specifies
+specify preferred
+joopaade
+specifying a
+specifying acceptcharsetutf
+specifying
+speed
+speedOfSound
+spell checking
+spell
+spellchecker
+mbinndiin
+spend
+spent
+spin button
+jiilo
+split
+sponsored
+spool
+ñukkiñoŋko
+sqrt
+square root
+square
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+jamɗugol
+stable
+stack trace
+stack
+stacks
+standalone
+standard time
+standard toBlob
+tuugorde
+standards mode
+standards
+star rating
+star
+starred
+start Debug
+start Simulator
+ñemmbitorde
+started finding
+fuɗɗiima
+starting with &apos
+kurminal
+startlabel
+startmozillaorg
+starts
+startup
+state
+statement
+statements
+statistics about
+statistics
+imlimte
+status &apos
+status bar
+status
+stay
+suraango
+step Over
+step
+stepped through
+stepped
+stepping
+steps out
+steps
+still
+stolen
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+dartinde
+stopped
+stopping
+stops
+storage quotas
+storage
+storages
+mooftude
+danndaaɗe
+stores information
+mooftat
+storing
+siiɓoraade
+strength
+strict protection
+strict
+strike
+string literal
+ɓoggol
+strings or
+timmuɗi
+strokeStyle
+strong
+strongJaaɓɗe
+strongKaɓirgol
+strongDeftere
+strongThe Book
+strongThe
+stronger Emphasis
+ŋisde
+strongyerucom
+stronghttp
+strongly recommends
+noo
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+structure
+structures
+juurnitte
+study Findings
+artata
+style Editor
+style Inspector
+style endexpand
+style sheet
+ƴeewtotaako
+styles
+stylesheet
+stylesheets
+stylesrc
+sub
+subdirectory
+subdocument
+subdomain
+subdomains
+subfolder
+subfolders
+subgrid
+subgroups
+subject Reminder
+subject
+submission to
+Naatnoygol
+submit Query
+submit bugs
+submit information that &apos
+naatnoyde
+naatnoytu
+neldiraama
+submitting your
+submitting
+subresource
+subscribe Calendars
+Lulno
+subscribed
+subscribedImported
+subscribing
+subscript
+subscription
+subscriptions
+subsession data
+subsession
+substituting
+subthread
+subthreads
+subtree
+succeed
+succeeded
+successful
+successfully Transmitted
+moƴƴirta
+such
+suddenly
+sufficient
+wasiyo
+suggested Contribution
+suggested Tags
+suggested
+suggestion
+wasiyaaji
+suggests
+suit
+suitable
+suite
+suites are
+suites
+ɓooɓre
+summary file
+summary
+summoned
+sunday
+sundays
+sup
+superscript pair
+superscript
+superseded by
+superseded
+tawaaka
+supplied
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+jaɓataa
+wallitoraande
+tammbitaade
+supportmozillaorg
+supports
+yenanaa
+surface area
+surface
+surprised face
+surprised
+surrogate
+surrounding environment
+surrounding
+survey is
+survey
+susceptible
+suspected
+suspicious
+sutomatically
+svSE
+svg
+switch to
+faytude
+kurmuɗo
+switching
+maannde
+symbols
+sync them
+sanngoɗinde
+syncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+wattan
+synchronization
+synchronize
+mabyka
+synk
+synctitlepairlabel
+syntax Highlighting
+syntax
+system Integration
+system beep
+yiɓɓo
+systemDate &apos
+systemDate
+systems this
+systems
+t believe
+t delete
+t
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+tabbere
+Nana
+tabdelimited tab
+tabdelimited
+table &apos
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+table rows
+haatumeere
+tablets
+tabbe
+tabtxt
+tag
+tagged
+tagname
+tagge
+take up
+naw
+taken
+takes
+taking too
+leeli
+talk
+tampering
+tapping
+toɓɓaande
+targeted document
+targeted
+task
+taskThe
+taskbar
+tasks
+tastes
+tbl
+technical Details
+Cariiɗo
+technique
+techniques
+kiiɗɗo
+Telefoŋ
+tell websites
+wiyde
+tells
+template
+templates
+temporarily
+temporary outage
+juutataa
+ten
+tename &apos
+tentatively
+tenth
+tenured objects
+tenured
+ter Lock API
+term &quot
+helmere
+terminate a
+terminate
+terminated by xslmessage
+terminated
+termination
+sarɗiiji
+test
+testics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+text
+textContent attribute
+textContent
+textonly
+texture source
+texture
+th
+than minimum
+than
+thank
+thanks for
+yaafiima
+that &apos
+that can &apos
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+timminaaka
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+the Grenadines
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+ɓarakke
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+the emtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+the visualization
+t valid
+the webapp
+the wildcard
+the windowconsole
+toh
+theft
+their defaults
+goobuuji
+them
+theme
+themed
+ciŋkooje
+then touching
+then
+there &apos
+toon
+therefore
+these organizations
+these
+they &apos
+they expire
+they require query
+eɗi
+things you
+things
+think I &apos
+think
+thinkers
+thinking
+thinks
+Goɗɗitiiɗi
+third parties
+third
+thirdparty cookies
+thirdparty software
+jiggaaɗi
+thirteen &#124
+thirteen
+thirteenth
+thirtieth
+thirty &#124
+thirty first
+thirty one
+thirty
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+lowwdi
+ɗto
+thisa
+those
+though
+thought
+ujunnaaje
+thread &quot
+thread Hangs
+thread killed
+thread watched
+ɓoogol
+threads
+three
+threw
+woppa
+through
+thunderbird
+thursday &#124
+thursday
+thursdays
+ticket was
+ticket
+ties
+til &#124
+til
+tile replacing
+heelde
+keeɗe
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+time
+timeOccurs
+timed Out
+honii
+timedout
+timeline
+timelines
+timeout
+timer Name
+timer started
+hojomoore
+timers in
+timers
+laabi
+timesaving
+timestamp
+timestamps
+timezone &quot
+timezone
+timezonepersonalg
+timezoner message doesn &apos
+title
+Neldu
+gannagol
+heɓde
+pooftorgel
+haa
+to
+toBlob
+hannde wektu
+hannde
+toggilaade
+mbo
+raɓɓiɗi
+junngo
+palal kuutorɗe
+pale kuutorɗe
+trace from
+trace
+roɓaade
+falorde
+curaaɗe
+coodondiral
+waanjitoo
+firat
+fira
+yaaɓoowo
+jaggir
+calte
+tuufaade
+ñawndugol
+true
+hoolo
+hoolaade
+etotoo
+naatnde
+gallolbin
+type
+tappo
+ul
+ulliMbar
+koro
+njaɓotaako
+heɓaaki
+labtoɗaa
+Ƴeewtaaka
+faami
+feewniteede
+firtu
+tijjaaka
+bettere
+Aaftu
+aafteede
+momtirgol
+njogiingu
+anndaaka
+unlimited
+seŋtude
+puɗɗoraaka
+tumaraŋkeewe
+ñawndaaka
+Suɓaaka
+yamɗude
+tiɗɗinol
+until
+untrusted
+up
+hesɗitinal
+yesɗitineede
+Keɗitine
+hesɗitinta
+hesɗitin
+yolla
+url
+urlprefix
+urls
+saka
+huutorte
+huutorɓe
+laase
+utomatically
+v
+valid for
+valid
+silsila
+teeŋtina
+baylotooɗe
+Julanke
+vendorShortName
+ƴeewtindol
+ƴeewteere
+yamre
+widewordu
+widewooji
+yiyande
+taƴoo
+mboros
+mborocce
+visibilityState
+peñcu
+njillotoɗaa
+yillaama
+njilluuji
+kañum
+boynude
+jaafgol
+yaafnde
+sabbo
+deentine
+gaadane
+gaaranti
+waɗaama
+was
+timmataa
+njaafoɗaa
+gudde
+tintinorde
+jaaɓaama
+Eh
+went
+ɗaminanooki
+njiggoraama
+holɗum
+so
+which
+ɓolal
+haɗi
+will
+win
+window
+windowconsole
+windowcontent
+windowcontrollers koko
+windowcontrollers
+Use
+kenorɗe
+wujjitaade
+yiyaama
+aldaa
+t remember any
+mooftaani
+gollaade
+wongo
+wrappers
+winndeede
+binndugol
+winndaama
+wwwyerucom
+wwwstopbadwareorg
+xJokkondir
+xTeelto
+xhrspecwhatwgorg
+xwestern
+annomineede
+ve been
+miijiɗaa
+ɓurɗi
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+ɗerewol
+yourself
+yousenditcom
+zero
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+Lonngo
+zooming

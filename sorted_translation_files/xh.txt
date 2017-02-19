@@ -1,0 +1,9324 @@
+ rights …
+/Galapagos
+A ServiceWorker
+A
+AB _
+AB
+iACL
+ADB
+ADDONS
+AEC Logging
+Ukuloga
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+weANSI
+AOL Screenname
+AOL
+yeskrini
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ATT Mail
+ATT
+AUS
+iAVA
+Aa
+Aaiun
+Ababa
+Abandon unsaved changes
+Ulahla
+Shunqulela
+Isiqhunqulelo
+IsiAbkhazian
+uPhelisa
+lunqanyulwe
+About Your
+Malunga
+Ongentla
+Accelerated
+Accent Lowercase
+Accent Uppercase
+Accent
+Yamkela
+Acceptance
+Accepted
+Ufikelele
+AccessControlAllowCredentials&apos
+AccessControlAllowOriginCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+Methods
+AccessControlAllowOrigin
+Ufikeleleko
+Ufikelelo
+Account &quot
+Account Settings &#124
+Iakhawunti
+Yomsebenziquot
+Iiakhawunti
+Accountspecific
+Account…
+iAcronym
+Inyathelo
+ezongelelekileyo
+Yenza isebenze
+Yenza ukusebenza kokuthile
+Ihlaziyiwe
+Activations Directory
+Esebenzayo
+Iyasebenza
+Actively block
+Bhloka
+Umsebenzi
+Actual Size
+Adak
+Adapter
+Adapters
+UADB
+Fakela
+Yongeza
+Okongeziweyo
+Okufakelweyo
+Addis Ababa
+Additional Tools
+Okufakelweyo
+Addon
+Addons Installed
+Izongezelelo
+zongezelelo
+Idilesi
+Address Book
+Address Books
+Idilesi
+AddressBook
+Addressbook
+Iidilesi
+Kufakwa iidilesi
+yeProductName
+Fakela…
+lusebenze
+Administer
+Administrative Assistant
+Administrative limit
+Administrative
+Administrator
+Adobe Flash
+zeAdobe
+Ugqithela
+Advanced Property Editor
+Advanced info
+Ihambele phambili
+Ihambelle phambili
+Kwinqanaba Eliphambili
+Kwinqanaba Eseliphambili
+Kwinqanaba eliphambili
+Kwinqanaba eseliphambili
+Kwinqanaba Eseliphambili…
+IsiAfar
+Affects multiple
+Affects
+Affiliation Changed
+Affiliation
+IAfghanistan
+Africa/Abidjan
+Africa/Accra
+Africa/Algiers
+Africa/Asmara
+Africa/Bamako
+Africa/Bangui
+Africa/Banjul
+Africa/Bissau
+Africa/Blantyre
+Africa/Brazzaville
+Africa/Bujumbura
+Africa/Cairo
+Africa/Casablanca
+Africa/Ceuta
+Africa/Conakry
+Africa/Dakar
+Africa/Djibouti
+Africa/Douala
+Africa/Freetown
+Africa/Gaborone
+Africa/Harare
+Africa/Johannesburg
+Africa/Juba
+Africa/Kampala
+Africa/Khartoum
+Africa/Kigali
+Africa/Kinshasa
+Africa/Lagos
+Africa/Libreville
+Africa/Lome
+Africa/Luanda
+Africa/Lubumbashi
+Africa/Lusaka
+Africa/Malabo
+Africa/Maputo
+Africa/Maseru
+Africa/Mbabane
+Africa/Mogadishu
+Africa/Monrovia
+Africa/Nairobi
+Africa/Ndjamena
+Africa/Niamey
+Africa/Nouakchott
+Africa/Ouagadougou
+Africa/PortoNovo
+Africa/Tripoli
+Africa/Tunis
+Africa/Windhoek
+Africa
+African Republic
+African
+IsiAfrikansi
+Wangasemva
+Again &quot
+Again
+Age
+Wekhastom
+Umlinganiselo
+Ezidlulileyo
+Agree
+Agreement
+Aires
+IsiAkan
+IAkrotiri
+Alarm
+IAlbania
+IsiAlbanian
+Alert dialog
+Alert record
+Isilumkiso
+Lumka
+IAlgeria
+Algorithm Parameters
+Yokwenza
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+Alias
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Lungelelanisa
+Ulungelelwaniso
+Konke
+Allman
+Allocated
+Allocation Trigger
+Okukhulu
+Izinto ezabelweyo
+Allow First
+Allow autoplay
+Vumela
+Allowed
+Allowing
+Allows
+Vumela…
+Almost done
+Phantse
+Alpha
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Ukubuyela
+Although
+Qho
+America/Adak
+America/Anchorage
+America/Anguilla
+America/Antigua
+America/Araguaina
+America/Argentina/Catamarca
+America/Argentina/Cordoba
+America/Argentina/Jujuy
+America/Argentina/Mendoza
+America/Argentina/Salta
+America/Argentina/Tucuman
+America/Argentina/Ushuaia
+America/Aruba
+America/Asuncion
+America/Atikokan
+America/Bahia
+America/Barbados
+America/Belem
+America/Belize
+America/BlancSablon
+America/Bogota
+America/Boise
+America/Cancun
+America/Caracas
+America/Cayenne
+America/Cayman
+America/Chicago
+America/Chihuahua
+America/Creston
+America/Cuiaba
+America/Curacao
+America/Danmarkshavn
+America/Dawson
+America/Denver
+America/Detroit
+America/Dominica
+America/Edmonton
+America/Eirunepe
+America/Fortaleza
+America/Godthab
+America/Grenada
+America/Guadeloupe
+America/Guatemala
+America/Guayaquil
+America/Guyana
+America/Halifax
+America/Havana
+America/Hermosillo
+America/Indiana/Indianapolis
+America/Indiana/Knox
+America/Indiana/Marengo
+America/Indiana/Petersburg
+America/Indiana/Vevay
+America/Indiana/Vincennes
+America/Indiana/Winamac
+America/Inuvik
+America/Iqaluit
+America/Jamaica
+America/Juneau
+America/Kentucky/Louisville
+America/Kentucky/Monticello
+America/Kralendijk
+America/Lima
+America/Maceio
+America/Managua
+America/Manaus
+America/Marigot
+America/Martinique
+America/Matamoros
+America/Mazatlan
+America/Menominee
+America/Merida
+America/Metlakatla
+America/Miquelon
+America/Moncton
+America/Monterrey
+America/Montevideo
+America/Montreal
+America/Montserrat
+America/Nassau
+America/Nipigon
+America/Nome
+America/Noronha
+America/Ojinaga
+America/Panama
+America/Pangnirtung
+America/Paramaribo
+America/Phoenix
+America/PortauPrince
+America/Recife
+America/Regina
+America/Resolute
+America/Santarem
+America/Santiago
+America/Scoresbysund
+America/Shiprock
+America/Sitka
+America/Tegucigalpa
+America/Thule
+America/Tijuana
+America/Toronto
+America/Tortola
+America/Vancouver
+America/Whitehorse
+America/Winnipeg
+America/Yakutat
+America/Yellowknife
+America
+American Samoa
+IAmerican
+IsiAmharic
+An
+koHlalutyo
+Analysis
+Hlalutya
+Ankile
+Iankile
+Anchorage
+Iiankile
+beasts
+IAndorra
+Android tablets
+Android&apos
+IAndroid
+Android™
+Angeles
+IAngola
+IAnguilla
+Animate app
+njengokuphilayo
+Uhombiso
+Uhombiso
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+Ubhalonqaku
+Yazisa
+Annoyances
+Another
+Mpendulo
+iimpendulo
+Antarctic Lands
+Antarctic
+Antarctica/Casey
+Antarctica/Davis
+Antarctica/DumontDUrville
+Antarctica/Macquarie
+Antarctica/Mawson
+Antarctica/McMurdo
+Antarctica/Palmer
+Antarctica/Rothera
+Antarctica/Syowa
+Antarctica/Troll
+Antarctica/Vostok
+IAntarctica
+Isitshabalalisi Sevayirasi
+Antigua and Barbuda
+IAntigua
+Antilles
+Antivirus
+Naziphi
+Nasiphi Isiqendu
+Anywhere
+App can &apos
+Iapp
+AppCache
+AppCacheUtils
+AppMenu
+AppName Uninstall
+IAppName
+Appcache validated
+Appcache
+Imbonakalo
+Appendices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+iApplelink
+Applet
+Inkqubo
+Iiaplikheshini
+Iinkqubo
+Sebenzisa
+Applying update
+Applying
+Appointments
+KwamkelweNgako
+IiApps
+Epr
+Epreli
+Arab
+Arabia
+Arabic MacArabic
+Arabic Windows
+IsiArab
+NgokwesiArab
+ngokwesiArab
+IsiAragonese
+Archive
+elondoloziweyo
+Archives
+Archiving
+Arctic/Longyearbyen
+Are
+Area
+IArgentina
+Arial
+IArmenia
+IsiArmenian
+NgokwesiArmenia
+ngokwesiArmenian
+elijonge
+Amanqaku
+Artist
+IAruba
+As Laid Out
+Njengesicatshulwa
+Njengo
+Kuyanyukwa
+Ascension and
+Ascension
+IAshmore
+Asia/Aden
+Asia/Almaty
+Asia/Amman
+Asia/Anadyr
+Asia/Aqtau
+Asia/Aqtobe
+Asia/Ashgabat
+Asia/Baghdad
+Asia/Bahrain
+Asia/Baku
+Asia/Bangkok
+Asia/Barnaul
+Asia/Beirut
+Asia/Bishkek
+Asia/Brunei
+Asia/Chita
+Asia/Choibalsan
+Asia/Chongqing
+Asia/Colombo
+Asia/Damascus
+Asia/Dhaka
+Asia/Dili
+Asia/Dubai
+Asia/Dushanbe
+Asia/Gaza
+Asia/Harbin
+Asia/Hebron
+Asia/Hovd
+Asia/Irkutsk
+Asia/Istanbul
+Asia/Jakarta
+Asia/Jayapura
+Asia/Jerusalem
+Asia/Kabul
+Asia/Kamchatka
+Asia/Karachi
+Asia/Kashgar
+Asia/Kathmandu
+Asia/Khandyga
+Asia/Kolkata
+Asia/Krasnoyarsk
+Asia/Kuching
+Asia/Kuwait
+Asia/Macau
+Asia/Magadan
+Asia/Makassar
+Asia/Manila
+Asia/Muscat
+Asia/Nicosia
+Asia/Novokuznetsk
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Oral
+Asia/Pontianak
+Asia/Pyongyang
+Asia/Qatar
+Asia/Qyzylorda
+Asia/Rangoon
+Asia/Riyadh
+Asia/Sakhalin
+Asia/Samarkand
+Asia/Seoul
+Asia/Shanghai
+Asia/Singapore
+Asia/Srednekolymsk
+Asia/Taipei
+Asia/Tashkent
+Asia/Tbilisi
+Asia/Tehran
+Asia/Thimphu
+Asia/Tokyo
+Asia/Ulaanbaatar
+Asia/Urumqi
+Asia/UstNera
+Asia/Vientiane
+Asia/Vladivostok
+Asia/Yakutsk
+Asia/Yekaterinburg
+Asia/Yerevan
+Asia
+eseMpuma
+Ask
+Asks how
+Asks
+IsiAssamese
+Assembling mail
+Assembling messageDone
+Ukuhlanganiselwa
+Kwezolawulo
+Ezinxulumene
+Assurance
+IsiAsturian
+Async
+Asynchronous Pan
+Asynchronous
+Atlantic/Azores
+Atlantic/Bermuda
+Atlantic/Canary
+Atlantic/Faroe
+Atlantic/Madeira
+Atlantic/Reykjavik
+Atlantic/Stanley
+Atlantic
+Atoll
+Iathom
+Qhoboshela
+Attached
+Isiqhoboshelo
+AttachmentRemove
+Iziqhoboshelo
+Attack Site
+Attack
+Attempt to
+Attempt
+Imigudu
+Attendance
+Attendee
+Attendees
+Ingqalelo
+Uphawu loyelelwano
+Iimpawu
+Attribution
+Auckland
+Enesandi
+isampulu
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+weAudioNode
+AudioParam does
+AudioParam
+AudioParams
+Agas
+Agasti
+iAurora
+Australia/Adelaide
+Australia/Brisbane
+Australia/Currie
+Australia/Darwin
+Australia/Eucla
+Australia/Hobart
+Australia/Lindeman
+Australia/Melbourne
+Australia/Perth
+Australia/Sydney
+IAustralia
+IAustria
+Iiseshoni
+Authenticating
+Authentication method &apos
+Authentication
+Umbhali
+Authored
+Oogunyaziwe
+Authority unnamed
+uthembe
+Authorize
+Authors
+Auto Increment
+Auto Update
+Ezisebenzelayo
+Iyazenzekela
+AutoA
+AutoConfig Alert
+AutoConfig
+IAutoDetect
+Ukuboniswa Kweenguquko Okuzenzekelayo
+Ukuboniswa kweenguquko okuzenzekelayo
+AutoJoined Channels
+AutoJoined
+Fumana ngokuzenzekelayo
+Okuzenzekelayo
+ntsha
+Autosync
+luyaFumaneka
+IsiAvaric
+IsiAvestan
+IAvg
+IsiAymara
+IAzerbaijan
+IsiAzerbaijani
+yesikrin
+BBS
+BCC
+BUlwazi Ngoxwebhu
+BUlwazi
+BOLUNTSONKOTHILEYO
+BFONT
+yeBG
+ITSHIXIWE
+BORDER
+BYimibhalo
+BPMhlawumbi
+BQ
+BUSAYINIWE
+BLo
+BKushunqulwe
+Emva
+Backend
+Indawo yangaphambili
+Okungasemva eskrinini
+Oluseskrininibmp
+okungemva
+Umabuyamva
+Eyogcino…
+Ilalela…
+Kubi
+IBahamas
+IBahrain
+IBaker
+iBaltic
+ngokwesiBaltic
+IsiBambara
+IBangladesh
+Bank
+Ukubhankisha
+Sesimo
+IBarbados
+ukuyixokomezela
+Barthélemy
+iBase
+Isiseko
+IsiBashkir
+esisisiseko
+Ezisisiseko Sesatifikethi
+IsiBasque
+IBassas
+Ibhetri
+Bcc
+Kukhutshwa
+Yangaphambili
+IBelarus
+IsiBelarusian
+IBelgium
+IBelize
+Ongezantsi
+IsiBengali
+NgokwesiBengali
+ngokwesiBengali
+IBenin
+IBermuda
+kweBeta
+IBhutan
+Big
+BigHKSCS
+Obuthe chatha ngobukhulu
+IsiBihari
+Bing
+Unyaka
+Usuku lokuzalwa
+IsiBislama
+ukweNziwa Mnyama kweBhokisi
+Black
+Okungenanto kuko
+Nqanda
+Thintela
+Iblokiwe
+Kuthintelwe
+Okuthintelweyo
+zeZithinteli
+Okuzivelelayo
+Nqanda isicatshulwa
+Blogs
+Isiqu
+Bokmål
+Ngqindilili
+IBolivia
+IBonaire
+Yeedilesi
+Ibhukhmakhi
+Isalathisi esiphawulayo
+ibhukhmakhiSusa
+linebhukhmakhi
+Iibhukhmakhi
+Iibhukmakhi
+Izalathisi eziphawulayo
+Yokuthatha
+Boolean
+IBoolean
+Umda
+IBosnia
+IsiBosnian
+IBotswana
+Emazantsi
+Phantsi
+IsiQithi seBouvet
+IsiQithi
+kweBhokisi
+Isebe
+useto
+iBrandFullNameDA
+iBrandShortName
+IBrazil
+Brazzaville
+Qhawuqhawula
+yeXhomekeko
+IsiBreton
+British
+Ngesiza
+Khangela
+Ibhrawuza
+Bhrawuza…
+Bhrwuza…
+Khangela…
+Ukubhrawuza
+IBrunei
+Ukuba ngamaqamza
+webhajethi
+IBulgaria
+IsiBulgarian
+Imbumbulu
+Kufakwe iimbumbulu
+Iimbumbulu
+Botshelelwe
+IBurkina
+IBurma
+IsiBurmese
+IBurundi
+Iqhosha
+Amaqhosha
+Ngu
+Iibyte
+CA
+CACHE
+CC
+Cc
+CCBY
+CCBYSA
+CD
+leCDATA
+CDSA
+CENTER
+iCKR
+CLICK
+CN
+COLOR
+yeCOM
+ENTSHA
+CP
+yamaxa
+ICRL
+iiCRL
+CSP
+CSS
+CYPHER
+ICabo
+Ikhatshe
+Uvimba wethutyana
+Ibala
+Caledonia
+ilawulwa
+Tsala umnxeba
+Ukuphinda
+ICambodia
+ngekhamera
+ICameroon
+Unako
+IKhanada
+Canadian
+Canary
+Rhoxisa
+Irhoxisiwe
+kurhoxiswa
+Kuyarhoxiswa
+Wasekuhlaleni
+Awukwazi
+Ikhanvasi
+Inkcazelo ngomfanekiso
+Bamba
+Imoto
+ICarbon
+Kukotshwe
+Iikhadi
+Cartier
+IsiCatalan
+Ikhathalogi
+Uluhlu
+Izinkxaxhi
+Unobangela
+Cc
+Iseli
+Iiseli
+ICeltic
+Embindini
+Esizikithini
+Umbindi
+EyoMbindi
+Isatifikethi
+Izatifikethi
+Iqinisekisiwe
+IChad
+IsiChamorro
+Tshintsha
+Itshintshwe
+olwenzekileyo
+Guqula…
+Ukutshintsha oku
+Ukutshintsha
+iTshaneli
+Umbhalo onjengonobumba
+ICharis
+Itshati
+IsiChechen
+Khangela
+Kuqwalaselwe
+IsiChichewa
+IChile
+ITshayina
+IsiTshayina
+kwengcombolo
+Khetha
+Khetha…
+Chrome
+IChromecast
+Chromium
+IsiChurch
+IsiChuvash
+ICipher
+iiciphers
+yiCisco
+Ucaphulo
+IsiXeko
+Isixeko
+Udidi
+Cima
+Sula
+Susa
+Ukususa
+Cofa
+Nqakraza
+Nqomfa
+yoMthengi
+iClipboard
+IClipperton
+ngasekunene
+Vala
+ezivalwe
+Cmd
+CmdOrCtrlF
+Ikhowudi
+Codec
+olwehlayo
+Fihla
+Manya
+Yenesari
+weNkunkuma
+IColombia
+Umbala
+Imibala
+Imibala…
+Ikholam
+Umqolo owehlayo
+Imiqolo Eyehlayo
+Imiqolo eyehlayo
+Ikoma
+Yekhowudi
+Ukuzibophelela
+Commons
+ICommunicator
+IComoros
+kwiIziqulathi
+Inkampani
+ICompanyName
+Uthelekiso
+Zongezelelo
+Gqibezela
+Igqityiwe
+Lwesimbo
+Iinxalenye
+IcomponentsutilsforceGC
+Qamba
+Umhlanganiseli
+Ukuyila
+Uhlanganiselo
+Ukwakhiwa
+Umyili
+KweCA
+iCompuserve
+Isiphelo
+iBreakpoint
+njengehlebo
+uLungiselelo
+Misela inkqubo
+Kubunjwa is
+Kubunjwa
+Qinisekisa
+IKhongo
+Halala
+Sivuyisana nawe
+Sivuyisana
+Yemfonomfono
+Nxibelela
+Inxityelelwe
+Umdibaniso
+Iyanxibelelana
+Iyanxibelelana…
+Umdibaniso…
+Umdibaniso
+Umdibaniso…
+Qhagamshela…
+Iihayifeni
+Ikhonsoli
+Isithintelo
+Ukwenyeliswa komqathango
+Ukwenyeliswa
+Qhagamshelana
+Kuqhagamshelwana Nesixwexwe Sasecaleni
+Nesixwexwe
+Ikhonteyina
+Iikhonteyina
+enento
+Isiqulatho
+UmthethoWokhuseleko
+ContentType
+Iziqulatho
+Context
+Qhuba
+Qhubeka
+Uchasiso
+Yenza igalelo
+elicingwayo
+Abanikeli
+Ulawulo
+iiKhontroli
+neCookie
+IiCookies
+Iicookies
+Iikhukhi
+Iikhuki
+Ikhukhi
+Kupholile
+Okubonwa
+Iikopi
+Khuphela
+Kopa
+ICoral
+iqela Elingundoqo
+IsiCornish
+IsiCorsican
+indleko
+ICosta
+Bala
+ngasekhohlo
+Ilizwe
+iCourier
+iiNgxelo
+Qulunqa
+wokwenziwa
+kwiCreative
+Umntu oyenzileyo
+Amatyala
+IsiCree
+Imiqathango
+Okuxhalabisayo
+ICroatia
+IsiCroatian
+Nqumla
+ICrossOrigin
+Lila
+zeCryto
+Ctrl
+Imijikelo
+ICuba
+Cu forceGC
+Cunha
+ICuraçao
+Langoku
+Ikheza
+Ikhastom
+Khastom
+Lungiselela
+iCustomEvent
+Customization
+Lungiselela
+Lungiselela…
+Lungiselela…
+Sika
+Yomjikelo
+Umjikelo
+ICyprus
+NgokwesiCyrillic
+ngokwesiCyrillic
+IsiCzech
+ICôte
+lomhloli
+DB
+DC
+DECDSA
+DEVICE
+DHE
+DISPLAYNAME
+iDLL
+DN
+IDNS
+DOCTYPE
+iDOM Event
+DOM
+yeDOMException
+DOMWindow
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+iDRM
+neDSA
+DVemer
+Isidibanisi
+IsiDanish
+Kumnyama
+Ubumnyama
+Idatha
+Iingcombolo
+Oovimba
+Umhla/Ixesha
+Umhla
+Day
+DayCrash Reports
+kwezu
+Iintsuku
+Debug Mode
+Cokisa
+Khupha Ibhagi
+Khupha ibhagi
+DebugALIGNCENTERerver
+sebhagi
+Debugging
+Dis
+Disemba
+Decide
+Lwepropati
+Yala
+Declined
+Dikhoda
+Decoding error
+Decoding
+Nciphisa
+Decrypted
+Decryption
+Deer
+Idifolti
+Isiseko
+Okuhlala kukho
+iZiseko
+Defer Account
+Ubambezela
+Chaza
+uchaziwe
+Inkcazo
+Definitions
+Cima
+Del
+Ulibaziseko
+Delete Message
+Cima
+Cima 
+Deleted
+Delete…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Sohlobo
+Asiqingqwanga
+Delivery Format
+Delivery Status Notification
+Delivery
+IDenmark
+Denver
+Khanyela
+Isebe
+Kuyehliwa
+Describe Problem
+Describe
+Ingcaciso
+Inkcazelo
+Inkcazo
+Deserialize
+Design Mode
+Design View
+Wokuyila
+Desktop Backgroundbmp
+Desktop Open &quot
+Idesktop
+Idesktophu
+Ulwazi oluseskrinini
+Destination Folder
+Destination
+Tshabalalitsa
+Ahlula
+Detach…
+Detail
+Details of
+Iinkcukacha
+Iinkcukacha…
+Detect indentation
+Detect
+Determining which
+Determining
+DevTools
+NgokwesiDevanagari
+ngokwesiDevanagari
+Iphuhliswe
+Developer Edition
+Developer Tools
+Umphuhlisi
+Abaphuhlisi
+Development
+Device &quot
+Isixhobo
+ezikhethiweyoYabelana
+Izixhobo
+Devicex
+IDhekelia
+Iidayagnostiki
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+Izichazimagama
+Samagama
+Did
+IDiego
+Different
+DiffieHellman key
+DiffieHellman
+Digest function
+Digest was
+Digest
+Digg Reader
+Digg
+Digital
+Amacala okuthile
+Imilinganiselo
+Direct
+DirectD
+DirectWrite
+Icala
+Directive
+Oovimba beefayili
+Directory &apos
+Directory Servers
+Uvimba weefayili
+Disability access
+Disability
+Qhwalelisa
+Valela
+Yekisa
+ayikathunyelwa
+Ezivaliweyo
+Ivaliwe
+Kwaphulwe isakhono
+Yenziwe ukuba ingasebenzi
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Iipakethi
+Disconnect from
+Khupha kunxibelelo
+Khupha uqhagamshelo
+Disconnectellipsis
+Khupha kuqhagamshelo…
+Disconnectme strict
+Disconnectme
+Khupha kuqhagamshelo…
+Discontinue Link
+Discontinue
+Discover
+neengxoxo
+Esikwidisk
+Gxotha
+Display a
+Bonisa
+Displays the
+Displays
+Distinguished
+Distribution Points
+Usasazo
+Ungathembi
+IsiDivehi
+IDjibouti
+Do
+Dock
+Docs
+Document Outline
+Document
+Kuvumelekile
+Doe
+Doing
+Domain GUID
+Idomeyini
+Ithambeka
+Ummandla wolwazi
+Domains
+Okwasekhaya
+Isilawuli
+Izilawuli
+Domingo
+IDominica
+IDominican
+Don &apos
+Don
+Kugqityiwe
+Kwenziwe
+Ugqibile
+Yenzekile
+Yenziwe
+Double click
+Double
+Doublecheck
+Doubleclick
+Phantsi
+Download Link
+Khuphela
+Thoba umthwalo
+DownloadRestart
+Kukhutshiwe
+Uthotyiwe umthwalo
+Iyakhuphela
+Kuthotywa Umthwalo
+Kuthotywa umthwalo
+Ukuthoba umthwalo
+Kuthotywa umthwalo…
+Okukhutshelwayo
+Okukhutshelweyo
+Ukhuphelo
+Draft Message
+Uyilo
+Imiyilo
+Rhuqa
+draw draws
+Draw repainted
+Zoba
+Driver Verification
+Driver
+Iidrayivazi
+Izikhululo
+Drop a
+Ushiye
+Dropping a
+Dropping
+DuckDuckGo
+Due
+Dump
+Duplicate name
+Duplicate
+Duraterver
+Ubude bexesha
+IsiDatshi
+IsiDzongkha
+ECDSA Signature
+ECDSA
+EDI Party Name
+Lepati YeEDI
+EDI
+EHLO
+EMail Certificates
+EMail
+IMPOSISO
+IIMPOSISO
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+UKUCAPHULA_AKUPHUMELELANGA
+Each
+IEager
+Earlier
+East Asian
+East European
+East
+eseMbindini
+IEcuador
+Edge
+Edit Conditional
+Hlela
+Kuyahlelwa
+woHlelo
+Umhleli
+Bangaphandle
+Edit…
+IYiphutha
+Either
+El Aaiun
+El Salvador
+IEl
+Elapsed
+iElementi
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Iielementi
+Email Address
+Iimeyile
+Imeyile
+Ukuba neentloni
+Zinzisa
+Ezizinzisiweyo
+Emirates
+Ugxininiso
+Emptied Trash
+Emptied
+Ayinanto
+Okungenanto
+lwemidiya
+Vumela
+Yenza isebenze
+Ezenziwe yasebenza
+Ezenziwe zasebenza
+Ezivuliweyo
+Ezivunyelweyo
+Kunikwe isakhono
+Enables
+Yombhalo
+Enkhoda
+Encoding While
+Kufakwa iikhowudi
+Encodings
+Encrypt
+Encrypted password&apos
+Okuguqulwe kwayikhowudi
+Ziguqulelwa ngokuntsonkothileyo
+Encrypting File
+Encrypting
+Uguqulelo oluntsonkothileyo
+Isiphelo
+EndUser Rights
+EndUser
+Yaphela
+Endian
+esekugqibeleni
+Enforce
+yokuKhangela
+Iinkokeli
+zesiseko
+IsiXhosa
+IsiNgesi USASCII
+English language
+IsiNgesi
+Enhanced
+Enlarge
+Enter &apos
+Enter Full
+Enter that
+Ngenisa
+Entered
+Ukungeniswa
+Okufakelweyo
+Lwegama
+Enumerable Properties
+Iipropati
+Okusingqongileyo
+Epiphany
+Equatorial Guinea
+IEquatorial
+IEritrea
+Impazamo
+Imposiso
+Iimpazamo
+Iimposiso
+Phuma
+IsiEsperanto
+IEstonia
+IsiEstonian
+ITopiya
+NgokwesiTopiya
+ngokwesiEthiopic
+AmagamaEziqhulo eEudora
+Eudora Settings
+Eudora mail
+iEudora
+Europa Island
+IEuropa
+Europe/Amsterdam
+Europe/Andorra
+Europe/Astrakhan
+Europe/Athens
+Europe/Belgrade
+Europe/Berlin
+Europe/Bratislava
+Europe/Brussels
+Europe/Bucharest
+Europe/Budapest
+Europe/Busingen
+Europe/Chisinau
+Europe/Copenhagen
+Europe/Dublin
+Europe/Gibraltar
+Europe/Guernsey
+Europe/Helsinki
+Europe/Istanbul
+Europe/Jersey
+Europe/Kaliningrad
+Europe/Kiev
+Europe/Lisbon
+Europe/Ljubljana
+Europe/London
+Europe/Luxembourg
+Europe/Madrid
+Europe/Malta
+Europe/Mariehamn
+Europe/Minsk
+Europe/Monaco
+Europe/Moscow
+Europe/Nicosia
+Europe/Oslo
+Europe/Paris
+Europe/Podgorica
+Europe/Prague
+Europe/Riga
+Europe/Rome
+Europe/Samara
+Europe/Sarajevo
+Europe/Simferopol
+Europe/Skopje
+Europe/Sofia
+Europe/Stockholm
+Europe/Tallinn
+Europe/Tirane
+Europe/Ulyanovsk
+Europe/Uzhgorod
+Europe/Vaduz
+Europe/Vatican
+Europe/Vienna
+Europe/Vilnius
+Europe/Volgograd
+Europe/Warsaw
+Europe/Zagreb
+Europe/Zaporozhye
+Europe/Zurich
+Europe
+Yurophu
+Eustatius and
+Eustatius
+Enkulu
+Vavanya
+Evaluated JavaScript
+Evaluated
+Evaluating
+Evangelism
+Even
+Event
+Iziganeko
+Event…
+Every Time
+Ngamaxesha
+Yonke into
+Eviction
+IsiEwe
+Example
+Excellent
+ababhaleli
+Exception …
+Exception
+Izinxaxhi
+Ezikhethekileyo…
+Izinxaxhi…
+Yomthengi
+ExecShell &quot
+ExecShell
+ezisebenzisekayo
+Execute Menu
+Phumeza
+Executing s
+Iyahambisa
+Execution stopped
+Execution
+IExecutive
+Olukhoyo
+Yinto
+Phuma
+Exited
+Kokususa
+Yandisa/Hlanganisa
+Yandisa
+Expanded
+Elindelekileyo
+Imiboniso
+Iphelelwe lixesha
+Expires On
+Iyaphelelwa Imizuzwana
+Iphelelwa lixesha
+Kuphelelwa lixesha
+Explorer
+IEksponenti
+Okuthunyelwa ngaphandle
+Thumela ngaphandle
+Okuthunyelwa ngaphandle…
+Thumela ngaphandle…
+Exposing chrome
+kwezinto
+Express
+yokuJonga
+zokuJonga
+Expunge &quot
+Expunge
+Ukurekhodwa kweThelemetri
+Ukurekhodwa
+Extending
+Isandiso
+Isolulo
+Izandiso
+Izolulo
+External
+Extra Components
+Extra
+Extract
+Kucatshulwa is
+Kucatshulwa
+Kuyacatshulwa…
+Isiwisaliso
+F GB
+F turns
+F/Escape
+uF
+FAILED
+leFALLBACK
+kuMbhalo
+IFAQ
+FAQs feedback
+IiFAQ
+FCC
+FHR data
+IFHR
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+womlingane
+FTP Proxy
+yeFTP
+FUNCTION
+FW Version
+FW
+FYR
+Facebook Chat
+lweFacebook
+Faeroese
+Akuphumelelanga
+Ayiphumelelanga
+Failure
+Zangaphambili
+Falkland Islands Islas Malvinas
+Falkland Islands
+Falkland
+Fallback Character
+Fallback
+Falling back
+Falling
+False
+Usapho
+Fantasy
+Faroe Islands
+Faroe
+IsiFaroese
+IsiFarsi
+Faso
+Yokubekelwa
+Etshabalalisayo
+Favorite Folder
+Favorite Folders
+Favorite
+Okuthandwayo
+Fax Number
+Ifeks
+Feature
+Iifitsha
+Iimpawu
+Feb
+Febhuwari
+Federated States of
+Federated States
+iFederated
+Federation
+Feed Location
+iFido
+Wengxelo Yomgangatho
+Feedback …
+Ingxelo
+Feedly
+Iifidi
+Feel
+WeMozilla
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+ngokutsalela
+FetchEventrequest
+FetchEventrespondWith
+Iyalanda…
+Kumbalwa noko
+Ummiselo
+Fields
+Fifth
+IFiji
+IsiFiji
+File System
+Ifayile
+Ifayili
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Igama lefayili
+Iifayili
+Files…
+File…
+Filing Cabinet
+Zalisa
+Filter Box
+Filter Execution
+Hluza
+Isihluzi
+Filtering
+Izihluzi
+Finalizing
+Fumana
+Fumanisa
+Finder
+ngemfunalwazi
+Fumana…
+lweminwe
+Izishicilelo zeminwe
+Finish Customizing
+Gqiba
+Kuyagqitywa
+Kugqityiwe
+IFinland
+IsiFinnish
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+IFirefox
+Ekuqaleni
+Linganisa
+Five
+Fix Table
+Fix
+obusisigxina
+Isiphene
+Kuphawulwe isiphene
+Flame Chart
+zetshati
+Flash embed
+Ifleshi
+Sicaba
+Flexible Space
+Iimodeli
+weZinto
+Ifolda
+Isiqulathi Seefayili
+Isiqulathi seefayili
+Iziqulathi zeefayili
+Folder…
+Landela
+Followers
+Following
+Followup
+LandelisaUkuya
+Fond
+Ifonti
+Iifonti
+ifutha
+neefutha
+UnyawoEmlonyeni
+For
+Force
+Forever
+Tyhalela
+Forgery
+Libala
+Ulibele
+Form History
+Ifom
+Fomatha
+Ifomati
+Ufomatho
+Ulungiselelo
+Kwenziwa ulungiselelo
+Forms
+Fort
+Fortezza
+Forum
+Amaqonga
+Gqithisela phambili
+Phambili
+Kugqithiselwe phambili
+Kugqithiselwa
+Found
+Foundation
+ezinezokugqibela
+Four
+Fourth
+Lweshl
+Frakkin &apos
+IFrakkin
+iSakhelo
+yeFreyimu
+Frames painted
+Frames parsed
+Frames presented
+Izakhelo
+IFransi
+Free
+French Southern
+IsiFrentshi
+Frequency
+Kaninzi
+Lwesihl
+Lwesihlanu
+IsiFrisian
+IsiFriyuliyeni
+From History
+From List
+Ukusuka
+Front facing
+Umphambili
+Finga
+IsiFulah
+Yamaxesha
+iAPI
+Fun To
+Fun
+Umsebenzi
+Futuna
+Future
+IGB
+GBK
+GC Event
+GC Slice
+IGC
+IGCLI
+GCLI
+GDI Library
+iGDI
+GData
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+IGabon
+Gaelic
+Gaia
+Galeon
+IsiGalician
+Gallegos
+IGambia
+Gambia
+IGamepad
+Gaming consoles
+IGaming
+IsiGanda
+Gap from edge of paper to Margin
+Gap from
+Gap
+Garbage Collector Roots
+zoMqokeleli
+Garcia
+Gated Crypto
+Gated
+Gaza Strip
+IGaza
+IGecko
+iGecko
+Geckoreg
+Geckotrade
+General Notification
+Jikelele
+Generate a
+Generate
+iiveriyebhuli
+Generating A Private
+Generating A
+Generating aggregate
+Kudalwa
+Generation
+Generator
+Generic
+indawo Ngokwezelizwe
+Geographic
+Georgia and
+IGeorgia
+IsiGeorgia
+NgokwesiGeorgia
+ngokwesiGeorgia
+IsiJamani
+IJamani
+Get Involved
+Get started
+Get
+GetProcAddress of
+iGetProcAddress
+iGetSystemDirectory
+iGetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+IGhana
+IGibraltar
+Gives
+Glace
+Efileyo Ibuyiselwe
+Kuquka konke
+Glorioso Islands
+IGlorioso
+Glossary
+Gmail
+Go back
+Go forward
+Hamba
+Kuhle
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Ulawulo
+Yithi hlasi
+Yithi
+Grade
+Gradient is
+Grandient
+Grand
+Grande
+Grant
+Graph Reduction
+Graph
+Iigrafikhi
+Gravatar
+GrayScale
+IGreysikali
+IGreece
+Greek Windows
+IsiGrike
+ngokwesiGrike
+IGreenland
+IsiGreenlandic
+IGrenada
+Grenadines
+Lwemigca
+Group List
+Iqela
+Grouped By
+Grouped
+Ngokwamaqela
+iBhukmakhi
+Khulisa
+IGuadeloupe
+IGuam
+IsiGuarani
+Guard
+IGuatemala
+IGuernsey
+esingumthombo
+Guest browsing
+Kwiseshoni
+Guiana
+IGuinea
+IGuineaBissau
+IsiGujarati
+NgokwesiGujarati
+ngokwesiGujarati
+Gurmukhi MacGurmukhi
+NgokwesiGurmukhi
+ngokwesiGurmukhi
+IGuyana
+H Line
+H
+HAR
+HImposio
+Umgca oxwesileyo
+HPKP
+HREF
+HSLA
+HSTS
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+iHTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HW Version
+HW
+HZ
+HZGB
+Hack the
+zoMphuhlisi
+IHaiti
+IsiHaitian
+Halifax
+Sesiganeko
+Ukuphatha okuthile
+Handshake record
+Handshake
+Hang Report
+iyajinga
+Happy
+Okulukhuni
+Hardware Driver Verification
+Hardware Driver
+Ihadwe
+Has
+IsiHausa
+Have an
+Have
+IsiHawaiian
+Umbhalo Ongasentla Kwekhasi
+Imibhalo ephezulu ephepheni
+Okubhalwe ngasentla kwekhasi
+Umbhalo ophezulu ephepheni
+Isihloko
+Izihloko
+Health Report
+iNgxelo
+Heard Island
+IHeard
+IsiHebheru MacHebrew
+Hebrew Visual
+IsiHebhere
+NgokwesiHebheru
+ngokwesiHebheru
+Ukuphakama
+Helena
+Bhota Hlabathi
+Molo
+Help Start
+Nceda
+Uncedo
+Helper Application
+Helper Applications
+Helper Threads
+Helper
+Helps
+iHelvetica
+Apha
+IsiHerero
+Herzegovina
+IHex
+Kufihliwe
+Hide Statistics
+ufihle iithulbha
+Fihla
+Ezatifikethi
+High Contrast
+Phezulu
+Okona kuphezulu
+Highgrade
+Highlight
+Ukukhanyisa
+Ibalaselisa
+Hightail
+IsiHiligaynon
+Hill
+IsiHindi
+Icebiso
+Hiri Motu
+IsiHiri
+Histograms Collected
+eziqhotyoshelweyo
+Imbali
+Ezisencotsheni
+Hnewsgroup server
+Hiseva
+Ho Chi Minh
+Ho
+Hold
+HolidayStatusSuppliersTravelVacation
+Ekhaya
+Homepage Get back
+Ikhasi lasekhaya
+Iphepha elisekuqaleni
+IHonduras
+Hong Kong
+IHong
+Honolulu
+Ngokobubanzi
+Umamkeli
+Umsindleki
+Ihlinzekiwe
+Hostname Entered
+Igama lomamkeli
+Hotspot Properties
+Hotspot Target
+enomtsalane
+Hour &#124
+iyure
+Hours
+Housekeeping
+How
+Howe
+However we
+However
+Howland Island
+IHowland
+Http
+Huge
+Humans
+IsiHungarian
+IHungary
+m not
+I Do
+I II
+Endibaziyo
+I Understand
+I am currently away
+I close brandShortName
+t
+I ii
+I submit information that &apos
+I think I &apos
+I understand
+ndiqalisa
+IBM
+IBMI
+ICE State
+ICE Stats
+IStati
+ICQ
+ICS
+ID
+weIDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAP Flag
+weIMAP
+INADEQUATE
+iINBOXmsf
+INI
+IP Address
+IP address
+yeIP
+IIPC
+IPs
+IRC Nick
+IRC Operator
+IRC
+SISIBAMBI
+ISDN
+ISO ISO ISO
+ISO
+UTF
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+ISP
+IV
+Maposna
+IIceland
+IsiIcelandic
+Umqondiso wokuqulathiweyo
+Iiayikhon
+IId
+Somsebenzisi
+Sento
+Identities …
+Iimpawu Zokuchonga
+Uphawu lokuchonga
+Ihleli nje
+IsiIdo
+Ukuba
+IsiIgbo
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Sukuhoya
+Ungakuhoyi
+Ayiyihoyi
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+Umfanekiso
+Umfuziselo
+Imifanekiso
+Imifuziselo
+Image…
+Import your
+Thatha ngaphandle
+Thumela ngaphakathi
+Importance
+Okubalulekileyo
+Kuthathwa ngaphandle
+Kuthathwa ngaphandle…
+Okuthathwa ngaphandle…
+Thatha ngaphandle…
+Thumela ngaphakathi…
+In Days
+In EHLO reponse
+In Finder
+In Use
+uNgene
+InAutoon
+IElementi
+Ungqinelwaniso
+Phakathi ebhokisini
+Inc
+youSusa
+Yandisa
+Umjikelo Owandayo
+SeGC
+Suka
+Ushiyashiywno lwangaphakathi
+Indeksiwe
+IndexedDB
+INdiya
+Indian
+IIndonesia
+IsiIndonesian
+Ulwazi
+Ulwazi
+EzibuthathakaUmphathi
+Yesakhiwo
+IInit
+kundululwa
+Emgceni
+Ukuba msulwa
+Senzelabr
+Igalelo
+Faka
+Faka
+Hlola
+Umhloli
+Fakela
+Hlohla
+Ukuhlohla
+Ifakelwe
+seMozilla
+Kuyahlohlwa
+Kuyahlohlwa…
+Endaweni
+Inani elipheleleyo
+Uhlomele
+Intembeko
+Ukudibaniselana
+Umdla
+Interface
+IsiInterlingua
+IsiInterlingue
+zeWebRTC
+Okwehlabathi
+Unxibelelwano
+Intshayelelo
+IsiInuktitut
+IsiInupiaq
+Ayisebenzi
+Buyisa
+Ibuyisa
+Phanda
+IIran
+IIraq
+IIreland
+IsiIrish
+Uguqulelwe
+Kuyathumeleka Ngaphandle
+Island
+Islands
+IIsle
+IIsrael
+Inikelwe Ngu
+Ikhutshwe
+Umnikeli
+isantya
+IsiTaliyane
+Ubhalo olukekeleyo
+IItaly
+Elikhethiweyo
+zethulbha
+Ivoire
+JIS
+IJIT
+JOHAB
+JS
+Engeyiyo
+JSON
+JSONP
+iJSONparse
+iJSONstringify
+SENDAWO
+IJamaica
+Jan
+Januwari
+IJaphane
+IsiJaphane
+NgokwesiJapan
+NgokwesiJaphane
+ngokwesiJapan
+IJarvis
+IJavaScript
+IsiJava
+Jaxivo
+IJersey
+Jita
+ulibaziseko lwejitabhafa
+IJohnston
+Zimanye
+NgenelakumkuleNcoko
+IJordan
+IJuan
+Jul
+Julayi
+Tsiba
+UJun
+UJuni
+Ingxubevange
+Macala
+Lungelelanisa macala
+IKB
+iKB
+KOIR
+KOIU
+iKRL
+IsiKannada
+IsiKanuri
+IsiKashmiri
+IsiKashubian
+IsiKazakh
+IKazakhstan
+Gcina
+IKenya
+Ikhi
+Iqhosha
+Iikhibhodi
+Lokhuseleko
+Igama eliphambili
+Igama elisentloko
+Amagama aphambili
+Amagama asentloko
+IsiKhmer
+NgokwesiKhmer
+ngokwesiKhmer
+IsiKikuyu
+IKingman
+Kinshasa
+IsiKinyarwanda
+IsiKirghiz
+IKiribati
+IsiKirundi
+Ukwanga
+Kitts
+Klaatu
+IsiKlingon
+IsiKomi
+Kong
+IsiKongo
+IsiKonkani
+IKorea
+IsiKorea
+NgokwesiKorea
+ngokwesiKorea
+IKosovo
+IsiKuanyama
+IsiKurdish
+IKuwait
+IKyrgyzstan
+yokundululwa kweLDAP
+LDIF
+nobukhulu
+Ileyibhile
+Labs
+Iimpawu zomhlaba
+Lands
+Imbonakalomhlaba
+Ulwimi
+Iilwimi
+Lanka
+IsiLao
+ILaos
+Iilaptops
+Nkulu
+Kukhulu kunokunye
+Ekugqibeleni
+mva
+Emva Kwethuba
+IsiLatin
+ILatvia
+IsiLatvian
+Kuyahlekwa
+Umaleko
+Okhompozithi
+Ubeko
+Ukumiswa kakuhle
+ILdapDwim
+Ukhokelo
+Zobunjineli
+Funda
+Hamba
+Kushiywa
+ILebanon
+Ekhohlo
+Isemthethweni
+Ilivo
+Bukhulu
+eneLenientThis
+Leone
+ILusuthu
+Kungaphantsi
+Okuncinci
+Unobumba
+Inqanaba
+ILiberia
+Ilayibhrari
+ILibya
+yempephamvume
+ILiechtenstein
+Kuyakhanya
+Ukukhanya
+IsiLimburgan
+Umgca
+ILinen
+Imigca
+IsiLingala
+Ikhonkco
+Unxulumano
+Amakhonkco
+Iilinki
+ImilebeItywiniwe
+Uludwe
+Uluhlu
+Ukumamela
+Dwelisa
+ILithuania
+IsiLithuanian
+eziphilayo
+Kuyalayishwa
+Iyalayisha…
+Kuyalayishwa…
+Ezasekuhlaleni
+Indawo
+Indawo
+Indawo Yokuthile
+Indawo yokuthile
+Iindawo zokuthile
+kweSalathi
+Okutshixiweyo
+Ilog
+Iyaloga
+Ukungena
+ziLogini
+IiLogini
+Iilogin
+Iilogini
+Izinto zokuNgena ekhompyutheni
+Izinto zokungena ekhompyutheni
+Ilogo
+Okukhangelweyo
+Funa
+Isiqhoboshi
+Ilahlekile
+Ezantsi
+Omncinci
+Okona kusezantsi
+IsiLubaKatanga
+Lucia
+Ehlekisayo
+ILuxembourg
+IsiLuxembourgish
+MAC
+MANIFEST
+IMB
+MD
+leMDN
+Uguqulelo lweMIME
+MS Bold
+MS
+Maarten
+kwiMac
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomanian
+MacTurkish
+MacUkrainian
+IMacau
+IMacedonia
+IsiMacedonian
+IMadagascar
+Imeyile/Iindaba
+Imeyile
+Lwebhokisi
+Umnini wemeyile
+yoLondolozo
+IsiMalagasy
+IMalawi
+IsiMalay
+IsiMalayalam
+NgokwesiMalayalam
+ngokwesiMalayalam
+IMalaysia
+IMaldives
+IMali
+IMalta
+IsiMaltese
+ixabene
+Man
+Lawula
+Oyilwayo
+Womphathi
+Ebonakalayo
+IManifests
+Umenzi wokuthile
+IsiManx
+iiByte
+IsiMaori
+Imephu
+UMatsh
+IsiMarathi
+Matshi
+Marino
+Phawula
+Intengiso
+neMarike
+Zomhlathi
+Iimbono zemarkup
+Iimbono
+IsiMarshallese
+Martin
+IMartinique
+Kuphele
+Olungcono
+yeMathML
+Imathematika
+IMauritania
+IMauritius
+Meyi
+Mayen
+IMayotte
+Linganisa
+Imidiya
+Izilondolozi
+IMediaStreamTrack
+iMediaStreamTrackstop
+IMediaStreamstop
+Phakathi
+iMemori
+Imenyu
+Umyalezo
+UmyalezoID
+IPort Yomyalezo
+Imiyalezo
+kaFacebook
+Meta
+Indlela
+Indlela yokusebenza
+IMetro
+IMexico
+IMibbit
+IMicronesia
+Nemayikhrofoni
+iMicrosoft
+Kwindawo ephakathi
+Ezinzulwini zobusuku
+IMidway
+Thutha
+MinSupportedCPU
+MinSupportedVer
+Minified Sources
+Minified
+Nciphisa
+okufana
+Ngeentlobo
+Kusilelwe
+Okulahlekileyo
+Mv
+Ehambayo
+Imfonomfono Ephathwayo
+Okuphatheka esandleni
+Yesixwexwe
+iModem
+wokulungiswa
+Uhlengahlengisiwe
+Hlengahlengisa
+Imodyuli
+IModulus
+IMoldova
+Mv
+IMonaco
+Mvulo
+UmlomoWemali
+IMongolia
+IsiMongolian
+Isithuba esihamba sodwa
+Isithuba esisodwa
+IMontenegro
+Yokuzalwa
+IMontserrat
+Ngaphezulu
+Okuninzi
+Yongezaellipsis
+IMorocco
+Motu
+IMouse
+Shenxisa
+yeUnix
+Hambisa…
+Shenxisa…
+MozTestPilot
+IMozambique
+Mozilla
+Inguquko
+iMutationObserver
+Thulisa isandi
+Lwam
+Izondlo zeThunderbird yamopml
+N/A
+weNAME
+NET
+NIST
+NO
+AKUKHO
+NS
+savunyelwa
+Igama
+Ukugqitywa Kwegama
+Iiankile
+leIMAP
+oMsebenzisi
+INamibia
+kokunikwa
+INauru
+IsiNauru
+IsiNavajo
+INavassa
+Ufuniselo
+inezilungelelanisi
+IsiNdebele
+IsiNdonga
+INepal
+IsiNepali
+Inethi
+INetherlands
+INetscapecfg
+Inethiwekhi
+nokunethwekha
+Nakanye
+Ungaze
+Nevis
+Okutsha
+Iping
+Iindaba
+Iqela leendaba
+Amaqela eendaba
+Okutsha…
+Okulandelayo
+INicaragua
+Igama lesiqhulo
+eEudora
+INiger
+INigeria
+INiue
+Hayi
+Inowudi
+Etyunjiweyo
+Akuqhawuqhawuki
+Akukho
+Akukho nanye
+iNones
+Akukho kukhanyela
+Imin'emaqanda
+INordic
+INorfolk
+Okuqhelekileyo
+North
+IsiSami
+INorway
+IsiNorwegian
+Ukuguqulela
+Phawula
+Iingongoma
+Izaziso
+Nov
+Nova
+Novemba
+Ngoku
+salathi
+esinyanisekileyo
+Kufakwe amanani
+Iinombolo
+Nynorsk
+IOCSP
+KULUNGILE
+Kulungile
+OLE
+OMTC
+yeOPML
+OS
+OU
+OVERLAP
+Into
+Zenesari
+IsiOccitan
+izehlo
+Ocean
+Okhth
+Okhthobha
+Odia
+Akukho kwimo yokusebenza
+Icimile
+Kwimo engeyo yakusebenza
+Imo engeyo yakusebenza
+Oh
+IsiOjibwa
+IOman
+Ivulile
+Layitile
+layitile
+Nye
+Ziifayili
+Oops
+Opaque
+Vula
+IOpenGL
+IOpenH
+Esisebenzayo
+Abasebenzi
+Opt
+lweJIT
+Optimizing
+Ekukhethwa kuko
+Ayinyanzelisi
+Ekukhethwa kuko
+Ekunokukhethwa kuko
+Iindlela zokhetho
+Ukhetho
+lweZ
+Umbutho
+icandelo
+Ququzelela
+Uqhelaniso
+eyokuqala
+IsiOromo
+IsiOssetian
+Okunye
+ezinye
+Kungenjalo
+Okunye…
+Kudana
+Ushiyashiywano lwangaphandle
+yesishwankathelo
+IOutlook
+iOutlook
+Sesampulu
+Ngapha
+Amavandlakanya
+Sekukho
+Umnini
+P/Galapagos
+P
+PCENTERTABLE
+Umvelisi wePDF
+yePDF
+IPDFjs
+IPKCS
+Kwiseva
+IPOST
+PREFS
+iPSM
+PUBLIC
+PacifDebug/Galapagos
+Pacific/Enderbury
+Pacific/Fakaofo
+Pacific/Fiji
+Pacific/Funafuti
+Pacific/Gambier
+Pacific/Guadalcanal
+Pacific/Guam
+Pacific/Honolulu
+Pacific/Johnston
+Pacific/Kiritimati
+Pacific/Kosrae
+Pacific/Kwajalein
+Pacific/Majuro
+Pacific/Marquesas
+Pacific/Midway
+Pacific/Nauru
+Pacific/Niue
+Pacific/Norfolk
+Pacific/Noumea
+Pacific/Palau
+Pacific/Pitcairn
+Pacific/Pohnpei
+Pacific/Ponape
+Pacific/Rarotonga
+Pacific/Saipan
+Pacific/Tahiti
+Pacific/Tarawa
+Pacific/Tongatapu
+Pacific/Truk
+Pacific/Wake
+Pacific/Wallis
+Pack
+iphakejis
+iPakeji xpi
+iPakeji
+Ipakishiwe
+Yolwimi
+Kongezwa iinkcukacha
+Page Direction
+Page Selection
+Ikhasi
+Iphepha
+Lothungelwanoquot
+Pager Number
+Isityhili samakhasi
+Amaphepha
+Pago
+Peyinta
+Pair a Device &quot
+Pair a
+Ngqamanisa
+IPakistan
+Pal Who &apos
+Pal
+IPalau
+Palestinian Territory
+Palestinian
+Izixhobo zokusebenzisa imibala
+IsiPali
+Palmyra Atoll
+IPalmyra
+Pan
+IPanama
+Ngokufanayo
+iPhaneli
+Iiphanele
+Panes on Startup
+iiPanes
+PannerNode
+Papua New Guinea
+Papua New
+IPapua
+Paracel Islands
+IParacel
+Paragraph format
+Paragraph
+IParaguay
+iiParamitha
+IParam
+IParams
+Ipasile
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+zikanozala
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+PartS
+Partial
+Partially Encrypted
+Unoguqulelo
+Participant
+Participants
+Parts
+Party Name
+YeEDI
+IsiPashto
+Password Change
+Password Manager
+IPassword
+Igama lokugqithisa
+Ipasiwedi
+Iphaswedi
+nolubuthathaka
+Amagama okugqithisa
+Iipasiwedi
+Iiphaswedi
+Paste Go
+Ncamathelisa
+Pastel Gradient
+IPastel
+Paste…
+Patch
+Patching s
+Ukulapha
+Indlela yothungelwano
+Paths from
+Paths
+Paulo
+Pause on
+Pause/Resume/Retry
+Isiqabu
+Nqumama
+Inqumamile
+Pauses the
+Pauses
+Hlawula
+Yomzali
+Intlawulo
+Paz
+Peer
+PeerConnection ID
+PeerConnection
+lusalindelekile
+Penh
+People
+Percent
+Perform a
+Perform
+Ukusebenza
+Perhaps the
+Perhaps you &apos
+Perhaps
+Period of Validity
+Period of
+Period
+Isilayi
+Permanent
+Permanently
+Permission
+Iimvume
+Permit
+IsiPersian
+Ezobuqu
+Okobuqu bomntu
+Personality
+IPeru
+Perwebsite
+Icala
+IPhilippines
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+Ifowuni
+Umnxeba
+Iifowuni
+Iminxeba
+Phonetic Name
+Phonetic
+Photo
+Ifoto
+Phrase
+Okuphathekayo
+Pick
+Picture
+Pierre
+iPilot
+Pin
+Iping
+Okuqhotyoshelweyo
+luka
+Pipelining
+Pitcairn Islands
+IPitcairn
+Pixel
+Plain
+Planner
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Iqonga
+Play a
+Dlala
+Playing audio
+Ukudlala
+Please advance
+Please authenticate
+Please consider
+Please enter
+Please shorten
+Sicela
+Plug a
+Plug
+IiPlugIn
+Plugin
+Iiplagini
+Iisoftwe ezincedisayo
+Izifakelo
+Plus
+IPokotho
+IPodcast
+PoiQA
+Pointer Lock API
+Points
+IPoland
+Pole
+Policies
+Policy Constraints
+Policy Mappings
+Policy mapping
+wobungasese
+IsiPolish
+Polynesia
+Popup Blocking
+iZikhethwa
+Ezizivelelayo
+Ifestile ezivelelayo
+Isiqhagamshelisi
+Portable Document
+Portable
+Porto
+Iphotreyithi
+Umfanekiso
+IPortugal
+IsiPhuthukezi
+Indawo
+Wophuhliso
+Kuyenzeka
+Posa
+Postal Code
+Malunga nokuposa
+Posting
+Postpone
+Power
+Powered by
+Powered
+Ulwabelwano lwamandla
+Practice Statement pointer
+Practice
+Ngaphambi
+Precondition
+Preferably
+Isikhethwa
+Iipreferensi
+Iiprefrensi
+Iipriferensi
+Izikhethwa
+Okukhethwayo
+Izikhethwa…
+Okukhethwayo
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Isimaphambili
+IPrefixed
+Phambi kolungiselelo
+Premature
+Prepackage
+Prepackaging
+amalungiselelo
+Kwenziwa amalungiselelo…
+Present
+Presentation Mode
+Presentation
+Preserve
+Preserves
+Ukusetwa
+Ezisetwe Kwangaphambili
+Cinezela
+Pressing F
+Ukucinezela
+Prettify
+Pretty Print
+Pretty
+Prevent
+IPreview
+Ukujonga kwangaphambili
+Zajongwa
+Wokujonga
+Preview…
+Previous Session
+Okwangaphambili
+Ixabiso
+Primary Email
+Iprimed chache
+Iprimed
+Primetime Content
+Primetime
+Princes
+Principal Name
+Principal
+Principe
+Printa
+Shicilela
+Printed
+Iprinta
+Kuyashicilelwa
+Iyaprinta
+Printa…
+Shicilela…
+Priority changed
+Ebalulekileyo
+Ngokokubaluleka
+Okwakuqala
+Umgaqonkqubo wangasese
+Okwabucala
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+Ngasese
+Ilungelo elilodwa
+Amalungelo awodwa
+Privileges…
+Pro
+esenokuba
+Probably
+Probing
+Ingxaki
+Qhubeka
+Proceeding will
+Ukuqhubeleka
+Process
+Processing
+Iyaprosesa…
+Okumangalisayo
+wePDF
+Imveliso
+ProductName
+kwiProductNameInternal
+lweProductShortName
+Kwinkangeleko
+zeplatfomu
+Iiprofayile
+Program Icons
+iiAyikhoni
+Programs Folder
+Programs
+Progress Window
+Inkqubela
+Project Lead
+Project
+Projects
+Promise Debugger
+Ithembisa
+Khumbuza
+Ngxala
+Qalisa
+Iinkcazelo ngeempawu
+Iipropati
+Iinkcazelo ngeempawu…
+Iipropati…
+Property Declaration
+Property Value
+Impahla
+Ipropati
+Ngolwalamano
+Propose a
+Ceba
+Lokutreka
+Protocol Request
+Protocol
+ProtocolSpecific
+Protocols
+Sinebhongobr
+Yonxibelelwano
+Province
+Lwabameli
+Mmeli
+Oosingaziqalelo abakwazi
+Pseudoelements ‘
+Oosingaziqalelo
+Psst using
+Psst
+Weqhosha
+Iipin
+Papasha
+Publishing Pages
+Kuyapapashwa
+Publishing…
+Publish…
+Puerto Rico
+IPuerto
+IsiPunjabi
+Purchase for
+Iinjongo
+Push Endpoint
+Tyhala
+QA UI
+QA
+QName
+QQ
+QR Scan
+yeQR
+IQatar
+Qualified Subordination
+Qualified
+IsiQuechua
+Query
+Umbuzo
+Ukroziso
+Quick Filter
+Quick Launch bar
+Quick Launch
+yeLontshi
+Quickly
+Quirks mode
+Quirks
+Quirky doctype
+Quirky
+Phuma
+Yeka
+QuitS
+Quitting
+Umlinganiselo
+Quotation
+Caphula
+Yezicatshulwa
+iRAM
+RC
+RDN
+IINGXELO
+KWAPHELA
+RETR command
+RETR
+RETURN
+RFC
+RGBA
+RSA Encryption
+Oluntsonkothileyo
+RSASSAPSS Signature
+RSASSAPSS
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+RTP
+Radio Button
+Radio buttons
+Radio
+Rainy
+Raise
+Range
+Rankin
+Rate
+Ukulinganisa umyinge
+Ratio
+Raw
+Re
+Reached
+Funda
+ReadMark
+Reader &apos
+woMntu
+Reading
+Ready to
+Ukulungele
+Really fast
+Really
+Rearrange
+Isizathu
+Reasons
+Rebuild Summary
+Rebuild
+Ubale
+Receipt denied
+Sokubuyisa
+Ezibuyiswayo
+Ufumana
+Ifunyenwe
+Iyamkela
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+Kutshanje
+Ibhukmakhi
+Uqwalasele
+Umamkeli
+Abamkeli
+Recommended Components
+Okucetyisiweyo
+Reconfirm
+Reconnect
+ezithathwa
+Recording Performance
+Recording
+Recording…
+Recover
+Recovery Keyhtml
+linokusetyenziswa
+Recur
+Recurrence pattern
+Recurrence
+Komthi
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+Redirection
+Rediscover the
+Rediscover
+Redisplay
+Phinda wenze
+Yenza kwakhona
+Reducing the
+Reducing
+YeCC
+Reef
+Reenter
+Reference
+Izalathisi
+Referrer
+Referring URL
+Ebhekisayo
+Reflows
+Fomatha
+Hlaziya
+Yenza ntsha
+Yale
+Register Locale
+Register Server
+lweeWindows
+Registered
+Registering
+Regular Attachment
+ebonisiweyo
+Khaba
+Rejoin
+Related
+Unxulumano
+Relative positioning of
+Relative
+Lontsha
+Release Notes
+Ukhulule
+Kweenkqubo
+Khuphela kwakhona
+Layisha kwakhona
+Phinda ulayishe
+Okuseleyo
+Khumbula
+Remind Me
+Remind
+Reminder
+Reminders
+Remote Debugging
+Remote debugging
+Kude
+Remove channel
+Shenxisa
+Susa
+Lisusiwe
+Ishenxisa
+Susa…
+Ukususa
+Renaissance
+Phinda unike igama
+Yinike igama kwakhona
+Phinda unike igama…
+Renaming
+Render Mode
+Render
+Renderer
+Rendering
+Renewal
+Reopen
+Repair
+Repeat
+Repeating
+Phinda
+Susa Ngokubeka Okunye
+Susa Ngokubeka okunye
+Susa ngokubeka okunye
+Replacement
+Replaces in
+Replaces
+Replace…
+Replacing
+Replicating directory entry
+Replicating
+Replication failed
+uphindaphindo Lwencwadi
+Kuphendulwe
+Phendula
+ImpenduloUkuya
+PhendulaUkuya
+Replying
+PhendulaKwidilesi
+Replyto
+Ingxelo
+ReportOnly
+Umnikingxelo
+zomonakalo
+yaseCzech
+Request the
+Request
+RequestMode
+Ikhonkco
+Izicelo
+Kuyafuneka
+Ifuna
+Reread mozcmd
+Reread
+Thumela kwakhona
+Resending
+Kuthunyelwe KwakhonaCC
+Kuthunyelwe KwakhonaCc
+Kuthunyelwe KwakhonaOkuphawulweyo
+Kuthunyelwe Kwakhona Umhla
+Kuthunyelwe KwakhonaKuvela
+Kuthunyelwe KwakhonaUmyalezoID
+Kuthunyelwe KwakhonaKumthumeli
+Kuthunyelwe Kwakhona Ukuya
+Reserved
+Phinda umisele
+Seta kwakhona
+Seta ngokutsha
+Resets
+Resolution/Quality
+Resolution
+Combulula
+Resource
+Resources
+Responder
+Impendulo
+iResponseclone
+Responsive Design
+Yemowudi
+Rest
+Phinda uqalise
+Qalisa kwakhona
+Kuqaliswa
+Iyaqala kwakhona…
+Buyisela
+Buyisela isimo
+Restrict
+Ithintelwe
+Restyle Hint
+Khumbuza
+Iziphumo
+Resume &apos
+Buyela enkomeni
+Buyela kobekuphazamisekile
+Buyela kwakhona
+Resumes
+Retained
+Retention Policy
+Retention
+Retest
+Retrieving quota
+Ibuyisela
+Izama ukufumana…
+Phinda uzame
+Kuyazanywa
+Buya
+Retweet
+IReunion
+Reverse
+Reversed
+Buyela kweyangaphambili
+Buyisela Umva
+Buyisela umva
+Tshintshela…
+Review
+Uphindaphindo
+Ibuyiselwe
+Revocation
+Kuyabuyelelwa
+Wubuyise
+Qhubela kumgca ongezantsi kwakhona
+Rewriting oldstyle
+Rewriting
+IsiRhaetoRomanic
+Rica
+Rich Text
+Rich
+Rico
+Right Click
+Ekunene
+Rightclick
+Amalungelo
+Righttoleft direction
+Righttoleft
+Ringing…
+Rio
+Rioja
+Risks
+River
+Roaming
+Robot
+Iirobhothi
+IRoku
+Indima
+IRomania
+Romanian ISO
+IsiRomanian
+Room
+Amandla
+Roots Module
+zeGC
+Jikelezisa
+Umqolo oxwesileyo
+Imiqolo exwesileyo
+Wokukopa
+Rules
+Ruleset
+Qhuba
+RunAppX
+Running
+Ixesha lokuhambisa
+iRussia
+Russian Federation
+IsiRashiya
+IRwanda
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+koonobumba
+SASL bind
+Isibophelelo
+SD
+SDP
+eseMzantsi
+SECG elliptic curve sectr
+ISECG
+SECURITY
+SEE THIS STRING
+SEE THIS
+LO
+SETTINGS
+SFailed to
+SFailed
+SHA Digest
+SHA Fingerprint
+SHA
+SHOULD
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+ngeSKB
+SMB of
+SMB
+SMTP &apos
+SMTP&apos
+kwiSMTP
+SMTPAUTH
+SOCKS Host
+SOCKS v
+iSOCKS
+SOccurs
+ISPDY
+Ixhaswa ngezimali
+SQL Statements
+zeSQL
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+ISSL/TLS
+ISSL
+iSSL
+iSSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+MTYA
+STouch
+ECETYISIWEYO
+SVG clipping
+iSVG
+SW Asian
+neseMzantsiNtshona
+ISWITSHI
+SYSTEM
+Iifayile ze_S
+Iifayili ze_S
+Mgq
+Saba
+Sad
+ISafari
+Safari
+Safe Mode
+yokuSebenza
+SafeBrowsing
+SafeMode
+Sahara
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+ISaint
+Salaam
+Salem
+Salvador
+WeSame
+saseMntla
+ISamoa
+IsiSamoan
+Sampled
+Iisampuli
+San Marino
+ISan
+Ibhokisi yesanti
+olwahlula
+Sandwich
+IsiSango
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+iiSans
+IsiSanskrit
+Isansserif
+iSansserif
+Santa
+Santo
+Sao Tome and
+Sao Tome
+ISao
+IsiSardinian
+Sass
+Mgq
+Mgqibelo
+Saudi Arabia
+ISaudi
+Save Permissions
+Gcina
+iiLogini
+Gcina…
+Iyagcina
+Kuyagcinwa
+Iyagcina
+Iyagcina…
+Saw
+Iscalars
+Scale …
+Isikali
+Scaled
+ukukalisha
+Scam Warning Take
+Scam
+Scams
+Skena
+Scanner app
+Scanner
+Scanning for
+Ihlola
+Scheduling
+Scheme
+Iskopu
+Umkhamo
+Score Origin
+Score
+Scots
+Scottish Gaelic
+IScottish
+Scratchpad Enter some
+Iphedi esisiqalo
+Iskretshiphedi
+Iskretshpedi
+Screen Orientation
+Screen reader
+Isikrini
+Screenname
+Iskrinshot
+Izikrinshoti
+Script
+iziKripthi
+Scroll
+ScrollLinkedEffects
+Scrolling
+Sd
+Sdays
+Sea
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Khangela
+Khangela…
+Zingela
+Searches
+Searching &apos
+Kuyazingelwa
+Iyakhangela…
+Khangela…
+Zingela…
+Seccomp Thread Synchronization
+Seccomp Thread
+Seccomp
+SeccompBPF System
+SeccompBPF
+Second
+Secondary Email
+Elandela
+Imizuzwana
+Sections
+Secure
+Ifunisa ngonxibelelwano
+Ifunisa
+Security Exception
+Ukhuseleko
+Bona
+Khetha
+Selected Frame
+Selected Tabs
+Ekhethiweyo
+Okukhethiweyo
+SelectedRemove Selected
+ezikhethiweyoSusa
+Selecting
+Okukhethwayo
+Ukhetho
+Selector
+Selectors
+Select…
+Self Cost
+Self Sampled
+Self Time
+Ukuzijongela
+Selfclosing syntax
+Selfclosing
+Iifom
+Send Verification
+Send a
+Thumela
+Umthumeli
+Iyathumela
+Sends a
+Sends
+ISenegal
+Umenzi woluvo
+Sent &quot
+Ithunyelwe
+Kuthunyelwe
+Sep
+Separate _
+Separate tags
+Separate
+Yahlukanisa
+Isihlukanisi
+Izihlukanisi
+ISepia
+Sepia
+Septemba
+ISerbia
+IsiSerbian
+Serial Number
+Serial
+Serialize
+ISerif
+Iserifu
+iSerif
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+Server settings&apos
+Iseva
+Seva
+Servers
+Nabasebenzi
+iServiceWorker
+ServiceWorkerAllowed
+Iinkonzo
+Iseshoni
+Ezinyanisekisiweyo
+Set Up Sync &quot
+Set this channel &apos
+Iseti
+Kuyo
+Settings &#124
+Iisetingi
+Imimiselo
+SettingsA
+Imimiselo…
+Isetingi…
+Umiselo
+Seven
+Severy
+ISeychelles
+Sh
+Shader
+Kwemibala
+Shallow
+Yabelana
+Shared
+Sharing Indicator
+Ukwabelana
+Lesimbo
+Shift _ JIS
+Shift _
+Shift
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+IsiShona
+Ukuthenga
+Short
+weeWindows
+Shortcuts
+Shot
+Should
+Show/Hide
+Bonisa
+Showing
+Shrink To Fit
+Finyeza
+Cima
+Shutting Down
+Shutting
+SiInEfate
+Abantwana bakokwenu
+Sichuan Yi
+IsiSichuan
+Ibha yasecaleni
+Isixwexwe somgca osecaleni
+Iibha ezisecaleni
+Sierra Leone
+ISierra
+Sign
+Signature
+Signed
+Wempendulo
+Kuyasayinwa
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Simple
+isiTshayina
+Simplify
+Simply
+Simulate touch
+Fanisa
+Sethivi
+ukulinganisa
+Simulators
+Since
+IsiSindhi
+ISingapore
+IsiSinghalese
+ISinhala
+ISint Maarten
+Sint
+IsiSwati
+Isayithi
+Isiza
+Iisayithi
+Isayizi
+Ubukhulu
+Ubungakanani
+isikhumbas
+Tsiba
+Iyatsiba
+Slavic
+Samaxesha
+IsiSlovak
+ISlovakia
+ISlovenia
+IsiSlovenian
+ISQL
+Sm
+Ncinci
+Kuncinci kunokunye
+Ichubekile
+Ncuma
+uSmiley
+Mthembuquot
+Sms
+Sokwenza
+isnepshothi
+Iisokethi
+Okuthambileyo
+Isoftwe
+Iskweri
+Solon
+IsiSomali
+ISomalia
+Ezinye
+IsiSonghay
+IsiSorbian
+Uxolo
+Landelelanisa
+Akuhlelalwanga kuyanyukwa
+Akuhlelwanga kuyehliwa
+IsiSuthu
+Isandi
+Intsusa
+Kwimenyu
+Imithombo
+UMzantsiAfrika
+ISouth Sudan
+South
+Southern
+Isithuba
+Space
+Izikhewu ezahlukanisayo
+Ukushiywa kwezikhewu
+ISpain
+Lomqolo
+IsiSpanish
+SeSkripti
+Speculative
+Isantya
+Pela amagama
+Upelo
+ISpratly
+Spx
+ISri
+Ss
+Ucazululo
+leMicrosoft
+Gqama
+Eqhelekileyo
+Umgaqo
+Inkwenkwezi
+Qala
+Kuqalisiwe
+Iyaqalisa…
+Qalisa
+Iphondo
+Ilizwe
+Umbuso
+Unikongxelo
+ezicothayo
+iistetistik
+ZeRTP
+Isimo
+Ubume
+Hlala
+Nqumama
+Yeka
+Yima
+Kunqunyanyisiwe
+Kunqunyanyisiwe…
+Isigcini
+Yalapha
+Amaxabiso
+Ezihambelayo
+Isitalato
+Twabulula
+olungongqo
+UkhuselekoOlungqingqwaLwesithuthi
+Cima ngokukrwela umgca
+Umtya
+Strip
+Yakhelwe
+Isimbo
+Izimbo
+Ca
+Imiyelelwana
+Isiqulathi Seefayili Esonganyelweyo
+Intloko
+Umbandela
+Unikezelo
+Nikela
+Nikezela
+Ithunyelwe
+Nikela Ngomrhumo
+Rhuma
+Umbhalwana obhalwa ngezantsi kombhalo
+Imirhumo
+yeSubsys
+Umthi olihlumela
+Kuphumelele
+Impumelelo
+ISudan
+Isimamva
+Izimamva
+Amacebiso
+Iingcebiso
+Suites
+Isishwankathelo
+Caw
+IsiSundanese
+Cawa
+Umbhalwana obhalwa phezu kombhalo
+Supplement
+Inkxaso
+ISuriname
+Ifani
+Ukumangaliswa
+Survey
+Inkohliso
+ISvalbard
+IsiSwahili
+ESwazini
+ISweden
+IsiSwedish
+Tshintsha
+Vula ucime
+ngesiza
+ISwitzerland
+Syllabary
+Ungqamaniso
+Zebha
+Thread
+iNgqamanisa
+Iyangqamanisa
+Isinopsisi
+ISiriya
+System
+Systems
+S×
+S× S
+TABLE
+ITCP
+TCVN
+TD
+weTEMP
+TIS
+iTLS
+TR
+TRTD
+Isivuseleli
+TVs
+Ithebhu
+Itheyibhile
+Iitafile
+Iitheyibhile
+Iithebhu
+Ithebhu
+Izilungelelanisi zemigca
+Ileyibhile eyitag
+Ileyibhile yetag
+Ithegi
+IsiTagalog
+Iithegi
+IsiTahitian
+ITaiwan
+IsiTajik
+ITajikistan
+IsiTamil
+NgokwesiTamil
+ngokwesiTamil
+ITanzania
+Cinezela
+Ekujoliswe kuko
+weWindows
+IsiTatar
+Tech
+Ithelemetri
+ITelex
+IsiTelugu
+Isakhelo seenkcukacha
+Izakhelo zeenkcukacha
+Inqaku
+iMiqathango
+Territory
+lweTest
+Ubungqina
+Isiqendu
+Umbhalo
+Lwesn
+IsiThai
+NgokwesiThai
+ngokwesiThai
+IThailand
+Ngombulelo
+Siyabulela
+Oko
+kis
+Umxholo
+Imixholo
+eyimfungumfungu
+Ngesi
+Umtya
+Kufakwe umtya
+Imitya enoQhaqha
+Imitya
+Lwesin
+Ukrobiso kumfanekiso
+Thunderbird
+IiThunderbird
+Lwesine
+IsiTibetan
+IsiTigre
+IsiTigrinya
+Ithayili
+Ixesha
+ITimeline
+Ugqithelwe
+Amaxesha
+Isibalulixesha
+ukulawula ukwenzeka kwento
+ITimorLeste
+Ncinane kakhulu
+Ingcebiso
+Isibizo sakho
+Isihloko
+Umxholo
+Ukuya
+Toasters
+Namhla
+Namhlanje
+Isixhobo esitshintshwa ngokufanayo
+ITogo
+ITokelau
+Ingxoxo
+Tome
+ITonga
+IsiTonga
+Ulwimingaphandle
+Isixwexwe sezixhobo zemiyalelo
+Iithulbha
+Izixwexwe Zezixhobo Zemiyalelo
+Izixwexwe zezixhobo zemiyalelo
+yeBhrawuza
+Izixhobo
+Izixhobo zemiyalelo
+Icebiso ngesixhobo somyalelo
+Ngaphezulu
+Phezulu
+Isixa esipheleleyo
+Chukumisa
+Ukhenketho
+Imikhondo
+Ukulanda umkhondo
+Traditional Big
+somthonyama
+iSithuba Sokutreyila
+iSithuba
+Uqeqesho
+lweJS
+Uthutho
+Edluliselweyo
+Utshintsho
+Guqulela
+Abaguquleli
+Transport
+Inkunkuma
+Trebuchet
+eziTshintshayo
+Trigger
+ITrinidad
+yeDES
+Tristan
+ITromelin
+Kulawulwa iinkathazo
+Ukusombulula ingxaki
+Ungayithembi
+Zama
+Ukuzama
+IsiTsonga
+IsiTswana
+Lwesb
+Lwesib
+Lwesibini
+uthe
+ITunisia
+ITurkey
+IsiTurkish
+NgokwesiTurkish
+iTurkish
+ngokwesiTurkish
+IsiTurkmen
+ITurkmenistan
+Ukujija
+ITuvalu
+Tsweba
+IsiTwi
+ezimbini zokugqibela
+Chwetheza
+Isimbo
+Udidi
+Isimbo sokuchwetheza
+Iintlobo
+Yokuthula
+UID
+yeUIs
+JIKA ISENZO
+UNSUPPORTED
+yeURI
+IURIs
+IURL
+URL
+iURL
+yeeURLs
+US
+yimithetho
+USASCII
+uqhagamshelle
+nguUTF
+UTFBE
+UTFLE
+IUganda
+Hayi khona
+IsiUighur
+IUkraine
+IUkrainian
+IsiUkrainian
+Unable
+Ayifumaneki
+Esinganqandwayo
+Sukukhangela
+Kususwe uqwalaselo
+Akuqinisekwanga ngesigqibo
+Phantsi
+Krwela umgca ngezantsi
+Lungisa okwenzileyo
+Qhaqha Okwenzileyo
+Qhaqha okwenzileyo
+Rhoxisa okwenzekileyo
+Sukwenza
+Ungazisusi
+umxeli
+ezingafihlwanga
+Ukungaqaqanjiswa
+Ikhowudi engunonye
+iUnicode
+ngokwesiUnified
+Awundululwanga
+Khupha okufakelweyo
+Khupha okufakiweyo
+Susa okuhlohliweyo
+Ikhupha okufakelweyo
+Yodwa
+Lombutho
+INgilane
+IMelika
+IUnited
+Okwehlabathi liphelele
+Akwaziwa
+Ayaziwa
+Engaziwayo
+Khulula ikhonkco
+Okungatshixwanga
+Buyisela isandi
+Vuselela isandi
+Yincothule
+Akufundwanga
+Yekisa ubhaliso
+Ayibhalisi
+asiniki
+Okungathunyelwayo
+Akusayinwanga
+Akuhlelahlelwanga
+Utshintshwano
+Unganikeli ngomrhumo
+Akufakwanga mtya
+Akukho sihloko
+Ayiqinisekiswanga
+Phezulu
+Hlaziya
+Uhlaziyo
+Ihlaziywe
+Iziganeko zohlaziyo
+Hlaziya…
+Hlaziya
+Nyusa umgangatho
+Kunyuswa
+iyakhuphela…
+IsiUrdu
+IUruguay
+Nathi
+Ukusebenza
+Ukusetyenziswa
+Yisebenzise
+UmsebenzisiUmthunywa
+Umthunywa ongumsebenzisi
+Igama lomsebenzisi
+IsiUzbek
+IUzbekistan
+VERSION
+VISCII
+VK_F
+VK_LEFT
+VK_QUOTE
+VK_RIGHT
+VK_SEMICOLON
+VK_SLASH
+VPS
+Iyasebenza
+Ukunyanisekiswa
+Ukunyaniseka
+Ixabiso
+Amaxabiso
+IVanuatu
+Ixabiso eliguquguqukayo
+Amaxabiso otshintshatshintsho
+IVatican City
+IVatican
+IsiVenda
+IVenezuela
+Verde
+Ukunyanisekiswa
+Verify
+Iyaqinisekisa
+Iyaqinisekisa…
+Uguqulelo
+Ngokobude
+Ngokugqitha
+Ividiyo
+IVietnam
+IsiVietnamese
+NgokwesiVietnamese
+Buka
+Imboniselo
+Jonga
+Umbukeli
+Viewport
+Iimbono
+Jonga…
+Vincent
+IVirgin
+Okuyelelanisiweyo
+Tyelela
+esityelelweyo
+Utyelelo
+Vista
+Visual
+Thelekelela
+Ilizwi
+IsiVolapük
+Umqulu
+IZILUMKISO
+WS
+Linda
+Kulindiwe
+Kulindiwe…
+IWake
+IWallis
+IsiWalloon
+Lodonga
+Isilumkiso
+Izilumkiso
+Bukela
+Kuqwalaselwe
+Abajongi
+IWaterfall
+Lwesth
+iWeakMap
+ukubhloka
+zenkcazelo
+umnikezeli weWebGL
+IWebIDE
+WebIDE
+IWebIDL
+Zothungelwano
+Ezingaphakathi zeWebRTC
+WebRTC
+IiSokethi ZeWebhu
+UMenziwebhu
+Iwebhusayithi
+Lwesith
+Lwesithathu
+Iveki
+Wamkelekile
+IsiWelsh
+eyaseNtshona
+Ngokwasentshona
+ngokwaseNtshona
+icothe
+Nanini
+usakhetha
+lweWiF
+iWidevine
+Ububanzi
+Iza
+Win
+Ifestile
+Windowopen
+iiWindows
+Qhwanyaza
+Kunye
+Wizard
+IsiWolof
+Umsebenzi
+Ukusebenza
+Umsebenzi
+Benkonzo ababhalisiweyo
+Abasebenzi
+Hlabathi
+Qhuba ngokuzenzekela kumgca olandelayo
+Rhangqa
+Bhala
+ibhala
+iisistim zokubhala
+iisistim
+X
+XHR
+iXHTML
+IXML
+s
+XMLHttpRequest
+XP
+XPCOM
+XPConnect
+XPath
+lenguquko
+yokuthintela
+IsiXhosa
+Yahoo
+Wokuzalwa
+Khala
+IYemen
+Ewe
+Izolo
+Yi
+IsiYiddish
+IsiYoruba
+Wena
+Your
+ngakwiZ
+IZambia
+zokukhupha
+Zealand
+IsiZhuang
+IZimbabwe
+Ikhowudi
+Yexesha
+Sondeza kufutshane
+Yandisa / Nciphisa
+Yandisa Unciphise
+Yandisa unciphise
+Yandisa/nciphisa
+IsiZulu
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+a scam
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+a surprised
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+iveki
+a windowed
+a wink
+a year
+a yelling
+ukuqhutywa
+aChoose
+aFrames
+engenzinzuzo
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abhorred
+abilities
+ukudebug
+abort
+aborted
+about About
+about Networking
+about Us
+about brandShorterName
+ngesoftwe
+aboutconfig
+malunga nolungiselelo
+aboutcredits
+mayela namalungelo
+malungawebrtc
+ongentla
+aboveAllow
+abruptly
+komsayino
+absolute positioning
+absolute
+accel
+accelalt
+yeegrafiki
+lwehadiwe
+accelshift
+accented
+Yamnkela
+acceptable
+acceptcharsetutf
+accepted
+accepting site &apos
+ukwamkelwa
+access Key
+access multimedia
+ukufumaneka
+ukufikelelwa
+accessibility support
+accessibility tools
+accessibility
+ukuzifikelela
+kwimposiso
+accidental breakage
+accidental
+accompanying
+accomplished
+accordance
+according
+account &apos
+account Actions
+account connected
+account name
+account
+accountManagernewAccountlabel
+neeakhawunti
+oqinisekisa
+ngeenkonzo
+acknowledges
+Ngokhuseleko
+isenzo
+nyathelo
+actions
+bug
+ihlaziyiwe
+active Logins
+active
+activity Indicator
+activity Stream
+activity
+actual Size
+actual
+actualDate &apos
+actualDate
+iaktshwariyali
+ukuchongwa
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+Kongezwe
+addEventListener method
+addEventListener
+zongeziwe
+adding
+additional
+additivesymbols descriptor
+bumele
+addon &apos
+yongezelelweyo
+addons gallery
+zongezelelo
+Iaddonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+zincwadi
+kwencwadi
+addressbr
+iidilesi
+weedilesi
+addressing
+adjacent
+adjust
+admin
+administrator
+adult supervision
+adult
+advance
+advanced JavaScript
+zisisixhobo
+advanced_pref_installation
+advancelabel
+advertise
+advertised
+advertises
+umthwal
+affected
+affecting
+after Sending
+after
+again
+age
+agent
+aggregate
+aggregates
+aggregating
+aggregator
+olugqithileyoiintsuku
+agree
+mvumelwano
+airplane
+aka NIST
+aka
+alatest
+alert description
+lumka
+algorithb
+algorithm Parameters
+olungachananga
+algorithmhash value
+algorithmhash
+algorithms
+alignment
+alined
+ziphila
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+wayo
+ukubekela
+sifumene
+allocation
+allocations Rate
+kweNto
+allow dialogs
+allow immediate
+vumela
+obuvumelekileyo
+allowfullscreen
+allowing
+Zivumela
+allowsameorigin
+enovumela
+almost
+ngakwiY
+nomda
+alphabetical
+already bookmarked
+lukwiskrini
+also gives
+also skip
+ekwaziwa
+altKeylabel
+kwizinto
+alteration
+altered
+Ungakhangela
+alternatives
+always Ask
+always Block
+always prefer
+soloko
+am &#124
+am
+weepixels
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+isiqaphelisi
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+uvakaliso
+analysis
+ukuhlalutya
+ancestor elements
+ancestor
+ancestors
+s
+anchor
+zinikwe
+neAntarctic
+and Authentication
+neBarbuda
+and Bottom
+and Caicos
+and Drop
+uze Ufumane
+and Footer
+neFutuna
+neHerzegovina
+and Indexer
+and Jan
+neMcDonald
+neMiquelon
+and Nevis
+nePrincipe
+and Quit
+and Spacing
+and Symbols
+and Templates
+neTobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+yaza yanyanzelisa
+and grew
+and htmlstrongWindows
+and light
+ve visited
+and prioritize
+kwaye kufunyanwe
+and rowand
+nobugcisa
+and treating
+and you shouldn &apos
+kunye
+engile
+animatable
+ehonjisiweyo
+animation cycle
+uhombiso
+umhombiso
+oopopayi
+annually
+anonymous box
+engachazwanga
+engaziwayo
+wenye
+answers
+antivirus software
+abaxumi
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+nayiphina
+anymore
+anyone
+anypolicy
+anything
+sinjalo
+anywhere
+apart
+s
+app submission
+app
+appName
+livele
+appearance wrong
+nesingaxutywanga
+sibukeka
+append
+applicable service
+kuyenzeka
+application Basics
+application Details
+application doesn &apos
+Iiaplikheshini
+iiaplikheshini
+applied
+applies
+lopetsho
+applying update
+applying
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+approved
+approx
+approximate line
+ngokusonela
+approximation
+apps &apos
+apps
+apr &#124
+apr
+april
+arbitrary
+archive
+archived folders
+archived
+yezisele
+archiving
+are compromised
+are correct
+are doing
+ziintelekelelo
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+zishiyiwe
+are publicly
+are ready
+are trademarks
+are you sure
+zilinganiselwe
+area shape
+area
+areas in
+areas
+aren &apos
+aren
+sokuyalela
+arguments for
+arguments
+arising out
+arising
+arjo
+armscii ISO ISO ISO
+armscii
+around
+arrive
+ivela
+arrives
+lwedayagonali
+arsa
+article summary
+inqaku
+wamanqaku
+weAndroid
+as &apos
+as Authored
+as broken
+njengecURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+yimfitshimfitshi
+as strongww
+njengomzamo
+kuyanyukwa
+ascii
+ash
+asis &quot
+zinjengoko
+ask me
+kucela
+asked questions tips
+asked
+asking
+asks that
+ingekho
+aspect ratio
+aspect
+aspects
+ezibonakalayo
+assist you
+yokuqinisekiseni
+assistance
+ezinxulumeneyo
+yomncedi
+buyela
+assured
+asterisk
+async touch
+async
+asynchronous Pan
+asynchronous entity
+asynchronous
+asynchronouslyloaded
+at S
+at least
+at span id &apos
+somsayino
+atchMore than
+atrule
+Qhoboshela
+attached
+kuqhotyoshelwa
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+Seziqhoboshelo
+attachmentDo
+Zeziqhoboshelo
+attack An
+attack pages
+attack
+unokuthi
+attacker
+attackers
+attacks
+kubekelwa
+attempted old
+izame
+ekuzameni
+yokutreka
+attend
+attendance
+attendee
+attendees
+attention
+attribute Type
+lwehtml
+attributes &apos
+zoyelelwano
+IAudio Backend
+yeodiyo
+aug &#124
+aug
+august
+authenticate to
+ugunyaze
+authenticates
+authentication mechanism
+kweRSA
+authenticity
+Umbhali
+bezatifikethi
+authority is
+authority
+yogunyaziso
+wentsabelo
+authors whom
+authors
+auto Increment
+IAuto Prettify
+auto Save
+auto discover
+auto
+autoAddOnsUpdateslabel
+autocomplete
+autocompletion
+nokuboniswa
+autofill
+automated updates
+automated
+automatic updates
+automatic
+automatically Black
+automatically detects
+automatically prefill
+automatically so it &apos
+ngokuzenzekela
+automation
+ngokuzenzelayo
+ukusikrola
+available &quot
+available Commands
+iyafumaneka
+umyinge
+avg
+avoid
+aware
+away
+axis
+kwib
+bEven
+bS
+back facing
+Ibuyela
+backed up
+ixhaswa
+backfacevisibility hidden
+backfacevisibility
+nekhasi
+backlogged
+backslashes
+sikhusela
+backups
+ubuya
+bad parameter
+okungalunganga
+badge
+baggage object
+baggage
+ban
+banks stores
+banks
+banned
+ibhena
+usenyusa
+barada
+isiseko
+based
+baseline
+basic Page
+olusisiseko
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+zinokungasuswa
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+njengequbayo
+bear the
+kubuthathela
+beast
+beasts brought emfire
+beasts
+ibentle
+ntle
+became full
+became
+kuba
+zinokusuka
+becomes damaged
+becomes
+been deactivated
+been navigated
+wasekwa
+been replaced
+been revoked
+been transferred
+been translated
+zigciniwe
+beep
+phambi
+began
+begin
+Kuqalwa
+begins with
+Luqala
+behalf
+behavior
+behaviour
+behavioural
+being incompletely transferred
+being redirected
+being reparsed
+kokugcinwa
+believe
+believed
+belongs to
+belongs
+olungezantsi
+benefit
+benefits
+beside
+best Match
+best accomplished
+uhambelwano
+bhetele
+eliphakathi
+bkwiAndroid
+bgt
+bidirectional
+big
+bigger
+nokumisela
+okuhamba
+Bophelela iDN
+seSASL
+binding shadows
+binding
+bindings tag
+bindings
+bird
+birdcage …
+birdcage
+birth
+bit keys
+iikhi
+bitrate
+bits
+bitten
+efakwe
+akubhalwanga nto
+block Lists
+block padding
+yiFirefox
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+uzithintele
+Tshintsa
+blocks parts
+blocks
+blue &quot
+blue
+bm
+bmp
+neqela
+yokuphendula
+isiqu
+zedilesi
+bookmark updated
+yokuphawula
+ibhukmakhiwe
+iibhukhmakhi
+zeedilesi
+iboolean
+bootloader
+border &apos
+border radius
+umda
+imida
+eza
+zombini
+ezantsi
+bound
+boundaries
+kwemida
+box Model
+box model region
+box model
+ibhokisi
+boxcom
+ibifakwe
+Ezingama
+kwebhokisi
+br
+brace
+braces
+brackets
+brand new
+brand profile
+zebrand
+brandFullName Amatyala
+IbrandFullName
+brandShortName &apos
+brandShortName Preferences
+brandShortName logo
+IbrandShortName
+brandShortName
+brandShorterName Tour
+nebrandShorterName
+brandShortname
+break
+breakage
+breaking
+yokuqhawuka
+zonqumamo
+breaks
+brighter
+Zisa
+broad
+broken
+brought
+browse
+browser &apos
+browser Hangs
+browser configurations
+kwebhrawza
+browsercachediskenable to
+ibhrawuzacachediskenable
+izikhangeli
+wokubhrawuza
+Izisombululo
+ibtn
+buddy list
+buddy
+kwebhajethi
+buffer capacity
+Jikeleza
+bug
+bugs visit
+bugs
+bugzillamozillaorg
+build Configuration
+build
+Kwakhiwa
+olungamawaka
+yeBuiltin Roots
+builtin tools
+elinokukhangela
+bulleted list
+bulleted
+business
+ixakekile
+but we
+kodwa
+button button
+iqhosha
+maqhosha
+ngokongeziweyo
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+yikoma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+ngokwexabiso
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+zizo
+ngokwenbspyilo
+byte
+iibhayithi
+c
+cSrS
+cURL
+cache management
+ikhatshe
+yecachecontrol
+cachecontrol
+ikhetshiwe
+cachemanifest
+caching of
+caching
+calendar Weeks
+calendar
+calendaring information
+calendaring
+calendars
+calendartimezonesxpi
+Ukubizwa Kobekelelo Lwamaxabiso
+call calls
+ukubiza
+callUrl
+callback
+called &apos
+olubizwa
+lweObjekthi
+caller
+calling detach
+Ukutsalela
+weminxeba
+ikhamera
+t open
+can analyze
+can collect
+can often
+can ’
+ziqinisekiswe
+kurhoxiseka
+canceled Occurrences
+okuS
+cancellation
+lurhoxisiwe
+cancelledAddon
+candidate resources
+candidate
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+ukuphumeza
+canvas Debugger
+canvas an
+ikhanvasi
+capabilities
+capable
+capacity
+konoobumba
+ikhepshini
+capture
+captureEvents
+captured log
+captured
+card
+cards copied
+cards etc
+iikhadi
+care
+careful
+carefully
+caret
+carriage return
+carriage
+carrier
+case sensitivity
+bukanobumba
+caseinsensitive
+cases
+cast
+categories
+categorize and
+ngokwezintlu
+luhlu
+categorySource
+ngunobangela
+caused
+causes
+causing stability
+causing
+ubunono
+caveats
+cc
+cd
+cell border
+cell was
+iseli
+kweeseli
+cellular location
+cellular
+census
+center footer
+center header
+leemfihlo
+esisembindini
+centerxcenteryradius
+iisentimitha
+cert AIA
+cert Library
+cert validation
+cert
+certain
+certificSian
+IsatifikethiImimandla
+Amabakala Ezatifikethi
+seOCSP
+zatifikethi
+eziqiniseksiweyo
+ch
+uguqule
+izitshintshile
+siqulatho
+kokuguqula
+ukwitshaneli
+kwimibhalo
+imibhalo enjengoonobumba
+ngokokubona
+wecharset
+yangephanyazo
+qwalasela
+ihloliwe
+ukuqwalasela
+yokuhlola
+esinxibelelanisiweyo
+ndim
+zikhethwayo
+chrome//messenger/content/msgAccountCentralxul
+chrome//messenger/content/startxhtml
+yekhromu
+alikhuselekanga
+isangq
+isangqa
+class
+nembonakalo
+sula
+kokusula
+unqomfe
+cofiweyo
+idlale
+luboniwe
+evaliweyo
+valiweyo
+ivala
+ndiivala
+code
+codebreakpadreportURL
+yecodec
+uwise
+idilikile
+ziqokelelweyo
+umbala
+ikholam
+eyehlayo
+com
+zilandelayos
+esilengalengayo
+Ikoma
+ukudlula
+miyalelo
+iintlobo
+kumagqabaza
+Izihlomlo neengxoxo
+
+commit
+neentlobo
+lokunxibelelana
+yonxibelelwano
+abaziingcali
+uqukanise
+ukuqukaniswa
+uthelekise
+kuthelekiswa
+zesiza
+njengesipho
+nokugqitywa
+ekhutshelwayo
+ukumcima
+ikhomponenti
+zinxalenye
+engafunyenwanga
+lokuhlangabeza
+ikhompyutha
+kweekhompyutha
+conbv
+yexeshana
+oluyimfihlelo
+okunokuqwalaselwa
+olwenziwa
+Bumba
+iwebhsayithi
+ebilithathile
+uziqhagamshele
+iqhagamshelwe
+Kudityaniswa
+uqhagamshelwano
+wekhowudi
+enxibelela
+ucinge ngokusebenzisa
+ucinge
+consoles
+luphezulu
+zidibanise
+nabantu oqhagamshelana nabo
+ziqulethe
+sombhalo
+ezisiwa
+kuqulethe
+isiqulatho
+context
+kungaqhubeka
+oluqhubayo
+kokuqhubeka
+ngegalelo
+elinegalelo
+abanikeli
+abenze igalelo
+ngezabo
+kwekhukhi
+iikuki
+c
+coords
+ezikotshiweyo
+iikopi
+ukope
+ukukopela
+lokukopa
+engasezantsi
+imvelaphe
+besingalunganga
+eyonakalisiweyo
+Ihesh
+zinokuba
+t open Sent
+yikwazi
+bala
+lwesalathiso
+lofikelelo
+conbv
+cpnbw
+konakala
+yonakala
+okuxela
+udale
+Imiqondiso
+ezinganyanisekiswanga
+ikhredith
+eMozilla chwetheza
+eMozilla
+Iqonga elixwesileyo iCOM
+css
+ezahlulwengekoma
+ctnbv
+cpnbv
+yinjini
+khevu
+yesiqhelo
+izicwangciso
+ulungiselele
+uziqhelanise
+jikelezisiweyo
+yed
+dKB
+dMB
+da
+ukonakalisa
+ebumnyameni
+darrinhenein
+ngenkcukacha
+datareporting
+umhla
+usuku
+usuku iintsuku
+iintsuku
+dd Umyili
+IDD
+de
+deDE
+Iglobhu
+sedebug
+isikhuphibhagi
+kwerimoti
+ukukhohlisa
+sigqibo
+vakaliso
+sesibhengezwayo
+ukhabe
+eziceliweyo
+ekwandiseni
+ukuntsonkotha
+okuhlala kukho
+idefaultPrevented
+okwendaloS
+zendalo
+ezichazwe
+inkcaza
+inkcazelo
+amaqondo
+usicima
+icinyiwe
+kokucima
+bekusisiwa
+den
+sikhatyiwe
+isahluli
+lixabiso
+kuyehliwa
+nkcazelo
+yedesktopi
+ekuyiwa
+itshabalalise
+idetach
+Yahlukanisa
+Ungazibona
+zifunyanisiwe
+eziqhelanisayo
+ichonga
+kuqikelela
+ebonakala
+baqinisekiswe
+developermozillaorg
+bewebhu
+sisixhobo
+idivayisi
+zezixhobo
+sedayagonali
+idayagram
+ingxoxo
+ingxoxo 
+iidayalogu
+lokuyalelwa
+sonxibelelwano
+t leave an application
+mahluko
+owahlukileyo
+wahlule
+ngokwahlukileyo
+Akufuneki
+dir
+Ukuhlawulisa
+esingesiso
+eziphindaphindiweyo
+lithatha
+directory
+yenza ingasebenzi
+Iyekiswe ngenkani
+kuqhwalelisiwe
+ngokuqhwalelisa
+engavunyelwanga
+kwibango
+alunxulunyaniswanga
+ngokufumanisa
+yedisk
+esithunyelweyo
+ubonise
+bubonisiwe
+ebonisa
+ipathi
+ungayinikezela
+nabasasazi
+div
+eside
+do
+docs
+yedokyumenti
+uxwebhu
+Ulwenziwo lwamaxwebhu
+yoxwebhuS
+cut
+ayiniki
+t know
+ingayixhasi
+eedola
+yedomeyini
+t Share
+nazimpawu
+nakwi
+nemigca
+uthobe
+kukhutshelwayoCima
+sidawnlowude
+Iyadawnlowuda
+ozidawnlowudileyo
+dpi
+Nezakhelo
+Yitsalele
+weMvume
+draws
+neentengiso
+esiphembelelayo
+silahliwe
+Nyengeza
+oluphindwe
+elininzi
+istrayiki esiseza sedaya
+e
+IeWorld
+ngamnye
+eyenziweyo
+zithandwayo
+uhlele
+ukuhlela
+ezikunceda
+ukukunceda
+umzk
+eight
+eightbit
+eighteen
+eighteenth
+eighth
+ethiywe
+ekugqithiswe
+elea reime
+ielementi
+elementdataset instead
+ielementdataset
+iielementi
+elementsetAttribute instead
+ielementsetAttribute
+elementsetAttributeNS instead
+ielementsetAttributeNS
+eleven
+eleventh
+eligible
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+ielliptik
+else contact
+qhagamshelana
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+iimeyile
+emailI &apos
+emailI
+emailed
+emailexamplecom
+iiimeyili
+emand
+embarrassed face
+embarrassed
+embarrassing
+embed
+zePDF ezincanyathelisiweyo
+zePDF
+embeds
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributor
+emcontributorJoe Solon
+emcontributorJoe
+emcontributorSuzy
+emfire
+emgreat
+emnew
+emiinjongo
+emoticons
+weIntanethi
+empty Trash
+izlothi ezingenanto
+ichache
+ukhuphe
+emreborn
+emrenewed
+emswiftly
+emthunder
+emtwins
+emulate a
+emulate
+emulating a
+emulating
+emulation
+en
+enUS en
+enUS
+xh
+enable brandShortName &apos
+enable others
+enable worker
+vumela isebenze
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+lunikwe
+yeplatfomu
+enbz
+evaliweyo
+encode
+ezienkhowudwe
+encoder
+wezinto
+encodings
+ihlangabezene
+encrypt this
+encrypt
+encrypted you
+yikhowudi
+zeenkripshini
+enctype instead
+enctype
+enctypeS
+neenctypemultipart
+end user &apos
+phelisa
+ended
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+iphela
+enforced
+engage
+engine
+Unezi
+enhanced
+enjoy
+enlarging the
+enlarging
+sokuyifakela
+anokubakho
+ensures that
+ensures
+uzingenisele
+kuqulethe
+ukungenisa
+enters
+ubungozi
+entirely
+entities
+entity in
+entity reference
+entity
+zisuka
+ufakelo
+okunokubalwa
+enus
+environment Data
+esingqongileyo
+environments
+ephemeral DiffieHellman
+ephemeral
+equals sign
+ilingana
+ulinganiselo
+ulingano
+equestAnimationFrame
+lokutyhutyha
+kuyicima
+error console
+error creating
+error refiling
+ngempazamo
+errorCode
+iyinasiphoso
+Iimpazamo
+erver
+es Salaam
+es
+esES
+esc
+escape
+escaped
+escaping
+establish
+established
+estimates only
+estimates
+njl
+eval
+evaluate selected
+zivavanya
+evaluating a
+evaluating an
+evaluating
+evaluation
+noba
+Isibambi Sesiganeko
+kwiluphu
+eventThe
+events
+ever
+every dayevery
+every weekevery
+ngeentsuku
+everyone
+everything inbetween
+everything
+oyisebenzisa
+Chwetheza
+exactly
+examf
+examine your app &apos
+ukucaca
+example
+examplecom
+examplecom
+umzekelonet
+exceed five
+exceed the
+zigqithise
+ugqithisiwe
+kobukhulu
+except
+exception
+exceptions Cookies
+zikhethekileyo
+exchange
+excluded
+kwamaqela
+exclusion
+executable
+Phumeza
+executed to
+executed
+executes
+olqhagamshelwe
+exemplary
+exist can &apos
+exist
+olukhoyo
+lukhona
+existsWould
+uphume
+exited
+exits
+expand panes
+wandise
+expanded to
+yandisiweyo
+expanding out
+expanding
+expands to
+yandela
+expandstrict
+expect anonymous
+expect
+expectations
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+kulindelekile
+expecting
+experience
+experienced
+eeapps
+experiencing
+onokusetyenziselwa
+kumboniso
+experiments
+expire
+yavuselelwa
+expires Seconds
+expires
+wokuphelelwa
+explicit
+explicitly specify
+explicitly
+exploit
+explore a
+iinyawo
+export regulations
+Fudusa
+exported
+expose
+exposedProps
+zivakalisa
+expression
+Iimbonakalo
+extend
+extended
+extending the
+extending
+extends system
+extends
+ezinokolulwa
+extension extensions
+isolulo
+zezolulo
+Abahleli Bangaphandle
+external storage
+external
+extra Large
+extra requirements
+yeMicrosoft
+extract error
+extract
+extraction error
+Ukucatshulwa
+extreme
+f
+face
+facing camera
+facing
+factory
+fail
+ukuwudibanisa
+fails treat
+fails
+failure
+fallback
+asiyonyaniso
+ngeyonyani
+familiar
+family addressbr
+amalungu
+ukuza
+fast
+yokubekelwa
+faves
+faxed
+nkalo
+features
+feb &#124
+feb
+february
+feed &quot
+feed Subscriptions
+iYondla
+feedImported
+feedback
+kwiifido
+wesithathu
+uyaneliseka
+feels
+fell
+yokuvula
+fetch count
+Landa
+fetched from
+fetched
+fetching individuals
+fetching more
+kusiziswa
+few
+Noko
+ff &quot
+ff
+field Value
+field
+iifildi
+fifteen
+fifteenth
+fifth
+inani
+inani
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+file
+filename
+zifayile
+filesystem
+filing
+fill out
+zalisa
+ifillStyle
+filled
+filling
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+sihluzo
+filtered
+filtering
+izihluzi
+kokugqibela
+financial
+find In
+find exactly what you &apos
+find out what &apos
+kusifumana
+findbar
+zophindaphindo
+finetuned
+ukugqiba
+finished evaluating
+finished
+finishing
+fire
+firefox
+ifirefoxapps
+firewall
+firewalls
+first option
+first party
+okokuqala
+zizilungele
+emihlanu
+ulungise
+fixed Width
+fixed width font
+fixed
+fixvideoaudioproblemsfirefoxwindows
+ngesiphene
+flagged
+yetshati
+flash
+yotoggle
+flat equation
+ulingano
+flexibility and security so you &apos
+ubuvotyovotyo
+kwiimeko
+floating &quot
+floating
+floor
+floppy
+flr
+focus Variables
+ugxile
+sijolisiwe
+folder &apos
+folder &quot
+folder subscriptions
+siqulathi
+zeefayili
+ulandele
+followed by
+followed
+followers
+following protocols S isn &apos
+esilandela
+OCSP
+followup
+font Control
+font size
+mlinganiselo
+fontface rule
+fontface
+yefemeli
+fonts for
+fonts
+fontvariant property
+fontvariant
+footer text
+okubhalwa emazantsi ephepha
+footinmouth face
+emlonyeni
+for &apos
+for &quot
+zokususa
+for DTLS
+kwabaphuhlisi
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+ certificates
+sokusayina
+for writing
+ukwenzela
+eliyintloko
+Nyanzela
+yanyanzelisa
+ngenkani
+forcing all
+forcing
+foreign
+forgeries
+forgery
+Yilibale
+forgetting
+forgotten
+form Field
+form Post
+form fields
+form userhost
+ifomu
+exhaswayo
+zeformatD
+formatI icon
+lweformatI
+formatS formatS
+formatS
+formatSNew
+formats
+olunje
+formatted
+Lwesixwexwe
+formdata on
+formdata
+formed
+forms are
+iifom
+forth and
+forth
+forums
+zaphambili
+forward
+forwarded
+gqithisela phambilimsg
+forwards
+sifunyenweyo
+foundout of
+foundout
+founds
+four
+fourteen
+fourteenth
+fourth
+fox jumps over your expectations with
+fox jumps
+fox
+fps
+frFR
+iqhezu
+iqhezu
+fragment Shader
+fragment
+frame &apos
+ngokuzahlula
+framed
+uprofayile
+zekhromu
+frameset
+yezakhelo
+framing
+ubuqhophololo
+obuqhetseba
+free
+esiguquguquka
+fresh
+friday &#124
+friday
+fridays
+friend
+friends
+from Garbage
+from edge of paper to Margin
+kwezijingayo
+from strongThe
+from the viewer reader &apos
+from visited
+ukusuka
+ukususela
+front facing
+front
+frown face
+obufingwe
+imile
+ftp
+ftpmyispcom
+ukungqubana
+fullfeatured
+fullpage
+fullscreen
+kumphathi
+zisebenza
+nesistim
+functionality
+functions
+further
+future scans by
+zekamva
+fxp Available
+fxp
+gain
+gallery
+ukuqokelelwa Kwenkunkuma
+garbage collection
+ukuqokelelwa
+garbled text
+garbled
+gateway
+Iqokelela
+gazed
+gb
+gdiplus
+gear icon
+lokukhetha
+general Notification
+general
+generally
+generate a
+generate
+ekhutshwa
+generation
+generator
+generic Photo
+iinkonzo Eziqhelekileyo
+geoenabled preference
+geoenabled
+yegeolocation
+geometric
+geometry visibility
+geometry
+geostd
+Bandakanyeka
+get Map
+get involved
+get me
+get started
+fumana
+getAttribute instead
+igetAttribute
+getAttributeNS instead
+igetAttributeNS
+getAttributeNode
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers instead
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+ufumana
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+zikunika
+enikezele
+gives you
+gives
+giving
+glitches
+glob
+global Composing
+global community
+global
+globals
+go Back
+Go
+goes
+going online
+usiya
+gone
+good news
+good
+goodwill
+gopher
+gorithm Identifier
+got it
+got
+governed by
+governed
+grace
+grant
+anikezelwe
+grants you
+grants
+igrafikhi
+leegrafikhi
+great
+greater than
+kunobona
+greeting
+grew more
+namandla
+uphinyephinye
+iseli yegridi
+igriphu
+Iiaythem
+grouped
+ethebhu
+gt
+gtgt
+guarantee that
+ukuluqinisekisa
+guaranteed
+guess
+guessed
+guessing
+guest is
+guest
+guide you
+sakwaMozilla
+izikhokelo
+h
+hTraduction
+ha
+nehacking
+had its
+had
+half an
+half past
+half
+hand tool
+hand
+handle S
+kuphatha
+iphathwe
+handler command
+handler
+ephatha
+uphethe
+ichubekile
+yoxhawulo
+handshakes
+hang Report
+hang stacks
+hang
+hangs
+Siyaxolisa
+happens
+seqokobhe lekhompyutha
+seqokobhe
+hardware H
+hardware acceleration
+ukhawuleziso
+nabungozi
+harmful
+has Attachments
+has bookmarked
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+yaphule
+yeheshi
+hashes in
+hashes
+ihashsource
+hasn &apos
+usayino
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+zokuchongwa
+haven &apos
+haven
+nes
+having trouble
+having
+head
+isihloko
+mibhalo
+heading level
+Isihloko
+headings
+nempilo
+Bekufuneka
+hear
+height
+held
+hello extension
+hello
+incede
+helper
+helpful
+helping make
+ngokunceda
+ncedos
+likunceda
+her
+apha
+fihliweyo
+hide Statistics
+hide Toolbars
+ukufihla
+hiding
+high Grade
+Umlinganiselo
+higher level
+higher
+highgrade
+Balaselisa
+ngomyalelo
+highlightedS nodes
+eqaqanjsiweyoS
+seDOM
+ezikhoyo
+highly recommended
+highly
+hightailcom
+him
+hints press
+amacebiso
+his or her
+his
+history window
+history&apos
+imbali
+hold
+holds
+home City
+home Country
+home Phone
+home directory don &apos
+laseKhaya
+lekhaya
+hop limit
+hop
+horizontal lines
+horizontal
+horror
+mamkeli
+hosted
+hosting service
+eyamkela
+hostname
+hostnameport
+hostnames
+hostport
+hosts
+ezingumtsalane
+hour
+iyure iiyure
+hours
+njani
+however
+href
+hrink
+hrpd
+istrayiki esize
+htm
+html &apos
+html
+htmlstrong
+htmlstrongAmaqebengwana
+htmlstrongImbali
+htmlstrongIithebhu
+htmlstrongIWindows
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http//wwwmozillaorg/products/thunderbird/messagegroupinghtml
+http//wwwmozillaorg/products/thunderbird/privacyprotectionhtml
+http//wwwmozillaorg/products/thunderbird/releases/
+http//wwwmozillaorg/products/thunderbird/releases/Shtml
+http//wwwmozillaorg/products/thunderbird/rsshtml
+http//wwwmozillaorg/products/thunderbird/searchfoldershtml
+http//wwwmozillaorg/projects/firefox/help/
+http//wwwmozillaorg/projects/seamonkey/
+http//wwwmozillaorg/releases/
+http//wwwmozillaorg/support/thunderbird/
+http//wwwmozillaorg/wallet/samples/
+http//wwwmozillaorg/wallet/tables/
+http
+https//ausmozillaorg/update/firefox/enUSrdf
+https//boxescom/external/widgetreferffurls
+https//composemailyahoocom/Tos
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//mailgooglecom/mail/extsrcmailtourls
+https//wwwmibbitcom/url s
+https
+ibala
+amahlanu
+ lt
+iHlola
+iTyhalela
+iZimanye
+iJonga
+iOS
+wokuqulathiweyo
+ongumqondiso
+id
+awachongwanga
+zokuphawula
+lichongeke
+lokuchonga
+ayisebenzi
+okt
+zikakho
+oluyi
+kungawahoyi
+Ukungayihoyi Imitya
+igt
+iii
+mthethweni
+s
+mfanekisongqondweni
+nemifanekiso
+yeimap
+imgmaphu
+kuphunyezwe
+ngokusebenzayo
+zingathunyelwa
+okubalulekileyo
+ithathe
+ingenisa
+ngokungangqalanga
+kungenzeki
+siphucule
+emva kwa
+ayinakulayishwa
+iiintshi
+quka
+includeSubDomains
+equke
+liquka
+okuquka
+efikayo
+zokungahambelani
+Uthanda
+ibandakanya
+seXML
+yandisa
+olwandayo
+lwangaphakathi
+isalathi
+ngokungqalileyo
+yokufakwa
+shishino
+ined
+lenetwork
+kwenode
+nenkcazelo
+nabenzi
+kweLDAP
+Okwakuqala Okuqwalaselweyo
+yakule
+kwilayini
+yobude
+olungakhuselekanga
+izibiyeli
+ufaka
+umhloli
+fakela
+yofakelo
+zifakelo
+Iyafakela
+yaso
+nemiyalelo
+minyaka
+olunganelanga
+ingachukunyiswanga
+inani elipheleleyo
+wangenelela
+abanomdla
+umdla
+oluqhelekileyo
+ayizithumeli
+lunxibelelwano
+sachazwa
+somsebenzisis
+kuqhutywa
+IJSMI Engeyiyo
+Isiphumezi sokuyalela asinyanisekiswanga
+Ulandelelwaniso olunganyanisekanga kwisivakalisa
+sosayino
+ira
+lilungelo lokukopa
+wenziwe
+yile
+t in
+asyiyo
+isoutfxgbkbigisojpshift_jiseucjp
+Uxela
+sisatifikethi
+s OK close
+Uthatha
+sisayinwe
+itIT
+iayithem
+okuzingela
+iindeksi yeitareyshini
+iindeksi
+sawo
+ngokwalo
+jaJP
+kwiwindo
+imowudi
+tsityiweyo
+kobukulindele
+yingxubvange
+ukulahlekelwa
+kb
+kbd
+kbdCtrl/kbd
+kbdShift/kbd
+kbdkbd
+Ligcine
+Asiyigcini
+ezigcinwe
+labucala
+enqumlayo
+zebit
+igama elisentloko
+wazi
+kolwazi
+koKR
+ileyibhile
+eyandlalwe
+Ubekelelo Lolwimi
+Imiqulu Yolwimi
+kolwimi
+IEval Enkulu
+kukhulu
+iibloko
+Kwiveki Ephelileyo
+Ungamaniso
+kamva
+yamvanje
+ukundulula
+indululwa
+kokusemthethweni
+ld
+ldi
+ldildif
+ufunde
+buncinci
+ongasekhohlo
+ekhohlo
+lwase
+bomgca
+oluhlangeneyo
+ikwenza
+nakufutshane
+ekho
+li
+likhangela
+liQhagamshelana
+liUkuba
+liNceda
+liCinezela
+liIkhasi
+liIsayithi
+liOku
+liZama
+liIidilesi
+obudibeneyo
+yexpistub
+yelayisensi
+oluvulekileyo
+ubukhaphukhaphu
+njengezinto
+engathi
+liliingaba
+kwiayithem
+liliemQAPHELA
+limit
+kwezithintelo
+kwiimpawu
+s
+Uqhawulo Lomgca
+line
+kwemigca
+s
+ikhonkco
+zodwa
+uluhlu
+besiganeko
+ngokucacileyo
+zobomi
+linki
+lns
+Lowuda
+layishiweyo
+iyalayisha
+waloo
+localhost
+kwalapho
+location
+yokutsixa
+okutshixiweyo
+Ilog
+ilogini
+iipasiwedu
+logo
+Iilogo
+isahlulo eside
+long
+isahlu eside
+kumaxwebhu
+Kukhangelea
+isolotya
+kokulahlekelwa
+ngumdibaniso
+Isorbian esezantsi
+zeltheadgt
+ltlt
+ltr
+lu
+mac
+madruwb
+mifuziselo
+nemeyile
+zeemeyile
+Ethunyelwayo
+phambili
+zoguqulelo
+ekhohliweyo
+yiWebhu
+engayilwanga
+eziyingozi
+imalwane
+Lawula
+ezenzekelayo
+zeapp
+ijson
+Ukwenza ngaphandle komatshini
+kwiiobjekti
+imephu
+
+umda
+Iimajini
+mark the
+Phawula
+ephawulwe
+marking a
+marking
+markup
+imarquee
+masking
+elingumalathindlela
+zingqinelana
+ingqameneNgaphezu
+matched by
+leemeko
+matcheleatchMore than
+ngqinelwano
+siyeke
+matchutomatically
+material
+math table
+imath
+yomboniso
+eyona nkulu
+maxage
+maximum Length
+maximum permissible
+elilelona
+may discontinue
+may update
+ungayisebenzisa
+maybe
+mb of
+mb
+mbox
+me out of here
+me
+mean slower message
+isenokuthetha
+means you &apos
+kuthetha
+measure a portion
+measure a
+measure
+measurements
+measuring
+mechanism
+mechanisms
+media Sharing
+media
+kuphakathi ngobukhulu
+uhlangabezane
+lwelungu
+malungu
+membersonly
+memory map
+memory measurements
+wokusetyenziswa
+mentioning
+menu Bar
+menu bar
+imenyu
+menuPath
+yimbi
+merchantable
+merge Warning
+merge all
+kumanyanisa
+mesh
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+yemibhalo
+komyalezoKwenziwe
+messageIndexing
+messageS
+messagebr
+messagebrIn
+umyalezoeml
+messagegt
+messageid
+messages Reopen
+imiyalezo
+messaging
+meta
+egunyaziweyo
+metal posteriors
+metal
+metaviewport tag
+thegi
+wegama
+method &apos
+ayaziwa
+methodGET
+methodPOST
+methodPOST
+methodpost
+methods
+umboko
+microsummary
+middle Eastern
+middle
+kungasiphuthisa
+migrate to
+migrate your
+migrate
+migrated
+iimilimitha
+millisecondPing
+milliseconds
+mimetype of
+mimetype
+unciphiso
+Usengatshintsha
+minheight
+minimonth
+Owona
+minjs
+kwinesari
+mins
+minute minutes
+umzuzu
+minuteEvery
+umzuzu imizuzu
+minutes ago
+minutes …
+imizuzu
+minwidth em
+minwidth
+asigqibekanga
+misconfigured
+misencoded
+okungafaniyo
+mismatched tag
+engangqanyaniswanga
+missed reminders
+missed
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+ilahlekile
+misspelled word
+misspelled words
+misspelled
+mistake
+mistakes
+mistyped
+mix
+okuxutyiweyo
+mmultiscripts
+zemobhayile
+mode and can &apos
+yeintanethi
+modegt
+yemodeli
+kwimatrix
+moderated
+moderator
+modern
+modes
+ukulungiswa
+modifier
+modifiers
+kulungisa
+module returned
+Igam
+modules
+moduli
+moment
+momentarily
+moments
+monday
+mondays
+moneymouth face
+moneymouth
+monitor
+nyanga
+monthS of
+monthS
+monthevery
+monthly
+months
+more bookmarks
+more powerful
+more savings
+zidebuggers
+moreand
+ngakumbix
+ngakumbi…
+most Visited
+most accurate
+most popular
+eyimfungunfungu
+mostrecently
+mouse Wheel
+yathiwa
+move Down
+move Up
+move away
+move emswiftly
+shenxela
+moveable
+moved renamed or deleted
+moved renamed
+yasiwa
+movedS
+zokutshixa
+Kushenxiselwa
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+mozVisibilityState &apos
+mozVisibilityState
+mozcmd directory
+mozcmd files
+zemozcmd
+mozdevorg
+wemozdocument
+mozdocument
+mozelement
+lemozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+Translateorgza
+mozinlinebox display
+mozinlinebox
+mprescripts
+ims
+msf
+msgFilterRulesdat file
+yemsgFilterRulesdat
+much
+multiline
+kwimalthimidiya
+multiple links &quot
+izihlandlo
+multiplied And
+multiplied by
+multiplied
+yeenkqubo
+multiweek
+kumculo
+must involve
+ixmlns
+my &quot
+my Cert
+my Projects
+my Quick
+my Task
+my Yahoo
+my windows
+kweyam
+mypagehtml &quot
+mypagehtml
+myusername&apos
+n
+nWhen your
+nXa
+name &quot
+name
+nameSource
+named anchor
+named either
+ziankile
+eqela
+senamespace
+namespaces
+narrowing
+native code
+yendalo
+ngokomthonyama
+navigate
+laya
+iyafunisela
+navigation Toolbar
+ufuniselo
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspNgaphakathi
+nd
+kufutshane
+nearby
+nearest
+necessary
+kudingeka
+needed
+needing to
+needing
+Iimfuno
+negate
+negated
+uchasiso
+negative
+negotiate an inadequate
+negotiate
+negotiating a
+negotiating
+negotiation
+namnye
+nested Table
+nested
+nesting
+netnz /
+netnz
+iNetscape
+network Monitor
+network Timeout
+network drive
+network section
+lenkcazelo
+never Show
+ingaze
+INew Caledonia
+new Separator
+new Tab
+INew Zealand
+new home
+new word
+nkangeleko
+kokutsha
+news client
+beendaba
+newsexamplenet
+newsgroup subscriptions
+leendaba
+wamaqela
+newsrc File
+newsrc file
+yenewsrc
+next gt
+kwibreakpoint
+mahle
+nick
+lesiteketiso
+nicknamegt Change
+nicknamegt
+nicknames
+nicks
+ngobusuku
+nikto
+nine
+nineteen
+nineteenth
+ninth
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+hayi
+noMac
+noWin
+nocors&apos
+nocors
+yinode
+nodeShow all
+nodeShow
+nodeValue
+nodelock
+ziinodes
+nominative
+non Participant
+non
+nonASCII
+nonFORTEZZA Certificate
+nonFORTEZZA
+nonGregoriancalendar
+nonResponse
+nonUTF encoding
+nonUTF
+nonascii character
+nonascii
+noncesource
+noncharacter
+akukho
+nakanye
+nonempty
+nonfunction pseudoclass
+nonfunction
+nongeneric
+Unobangela Ongandiyo
+Engandiyo
+nonleaf
+nonmultiprocess
+nonnavigation
+nonnegative
+nonparticipant
+nonprintable character
+nonprintable
+nonprofit Mozilla Foundation
+nonprofit
+nonspace in
+nonspace
+nonstandard
+nontext
+nonvoid
+noon
+nor
+edla
+noscript
+nosniff
+kwinostore
+not After
+not Before
+Ayinxulunyaniswanga
+Okungaxhalabisiyo
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+Ayifakwanga
+not Present
+Akukaqaliswa
+not Stored
+Ayithembakali
+not accepted
+not accessible
+not be saved
+ayikhangelwanga
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+ukungabi
+notation be unescaped
+notation be
+noteshini
+note Slow
+Qaphela
+iingongoma
+Akhonto
+notice
+noticed
+notification Permissions
+notification _
+zezaziso
+izaziso
+notified
+notifier or
+semozulu
+Ndazise
+notify
+noting
+nounclass
+nov &#124
+nov
+november
+now doesn &apos
+ngoku
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+insIJSONdecode
+nsIJSONencode is
+insIJSONencode
+nsIProtocolHandleridl
+yensIWindowMediator
+insIWritablePropertyBag
+num
+senani
+numbered
+numbers negative
+numbers
+isibali
+yesilawuli
+nursery Collection
+nursery Eviction
+inesari
+obj Properties
+obj
+object Stores
+injalo
+iiobjekthi
+obscured
+observed
+observers
+obtain
+occur
+occured
+yavela
+occurrence of
+occurrence
+izenzeko
+occurs
+oct &#124
+oct
+october
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+of Man
+of Office
+of Operation
+of Sync
+of Validity
+of XMLHttpRequest &apos
+kweXPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+yamanani
+of of
+of paper
+yeqstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+okwe
+nobuchwepheshebr
+off paint
+Icimile
+icimile
+off
+offer
+offered
+offering
+iminikelo
+inoku
+offerxA »
+engeyo
+offline_apps
+zizifezekisi
+often
+ok
+endala
+older than
+older version of Sync
+indala
+oldstyle YouTube
+oldstyle
+omitted
+on Main
+umzobo
+on Top
+kuTwitter
+on boxcom
+on shutdown
+on tenured
+Ilayitile
+kwimo yokusebenza
+ngaphezulu
+wakuba
+one Level
+one moreand
+ozithanda
+oneoff
+ones
+oneshot
+oneubuntucom
+ongoing
+olukwiintanethi
+only reloads
+only supports
+only transmitted
+kuphela
+kuphelabr
+opacity in
+ukungaboni
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opcode
+open Web
+open WebIDE
+vula
+vuliweyo
+opening fence
+wokuvula
+opensource
+operating system
+operating
+operation command
+operation failed
+operation
+operations error
+operations
+operator expected
+operator
+ezikekeleyo
+opportunity
+opposed
+Uoptimayizo
+optimizations
+optimized away
+zioptimayiziwe
+optin No
+ilukhetho
+option Group
+ukhetho
+optional defaultS
+unokukhetha
+ezihluzwe
+eHTML
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+okanye
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+ulandelelwano
+Umbutho
+organizations
+organizer
+origin
+chanileyoAttributes
+oovimba
+originally
+originals
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+obunye
+basebenze
+otherwise it
+otherwise
+our geolocation
+our partners
+eyethu
+out BrandShortName &apos
+brkwisihlwele
+out sequentially
+out what &apos
+ngolungelelwano
+outage
+obuphelelwe
+elikhutshwayo
+isishwankathelo
+iOutlook
+outofdate
+output folder
+Yesiphumo
+outside
+
+ngaphezu
+overhead
+ongaphezulu
+kubhalwe ngaphezulu kwayo
+s browser settings
+usiondeze
+nawuphi
+iovaskripti
+sithethayo
+overwrite
+overwritten
+othotyiweyo
+enomnini
+owner of
+owner
+ownerElement
+owners
+Ukuthathela
+p pIf
+p
+pA secure
+pUqhagamshelo
+pAdditional information
+pInkcazelo
+pAttack pages
+pAmakhasi
+pDeceptive sites
+pDeceptive
+pEntering any
+pEntering
+pUkuba
+pThe browser
+pThe page
+pThe requested
+pUxwebhu
+pThese types
+pEzi
+pNangona
+pUnwanted
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pUmele
+pYour
+package
+packaged
+iipakethi
+Inyusela ukumila
+s original
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+page translation
+page }
+phepha
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+ve visited
+angafuneki
+paint flashing
+paint
+painted area
+zipeyintiwe
+pair a
+pair
+ipheyini
+yephaneli
+ipanes
+panning
+paper Size
+paper
+Iziphawulo Zomhlathi
+umhlathi
+Iparam
+parameter entity
+wenkcazelo
+iipharamitha
+paranoid
+Umetshiso Lwabazali
+parent Payload
+parent prefix
+semiyalelo
+parse XML
+parse failure
+IParse
+zihlahlelwe
+parser state
+parser
+ohlahlela
+part of
+yesiqu
+partial Update
+partial character
+partial
+neefitsha
+participant
+participants from
+participants
+nenxaxheba
+particular purposes
+particular
+parties
+partner You
+partner
+partners We
+partners work
+angakumbi
+partnership
+parts
+party
+partyAre
+pass
+passed to
+idlule
+passive ’
+passive
+ipasswdtxt
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+password&apos
+phaswedi
+elingumalathindlelaShiya
+zikhuseleke
+passwordprotected
+kwiipasiwedi
+past
+ukupeyista
+patch apply
+patch
+yothungelwano
+paths starting
+paths
+pattern &apos
+pattern
+Phumla
+paused —
+kunqunyanyisiweyo
+sepayload
+payment provider
+zokukhetha
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pibrandShortName
+peace
+peer &apos
+peer
+peers &apos
+peers
+pending dump
+yathumela
+people &apos
+people wouldn &apos
+labantu
+per
+ipesenti
+percentage of
+ipesenti
+percnt Completed
+percnt
+perform caseinsensitive
+perform querySelectorAll
+perform
+nomgangatho
+performed Trying
+performed
+performgt
+yibhrawza
+periodically
+permanent exception
+esisigxinya
+permanently deleted
+umphelo
+permissible length
+permissible
+permission denied
+mvume
+Akunayo
+permit
+permitted
+persistent logs
+persistent
+person &apos
+person who holds
+kwabo
+personal Card
+zobuqu
+personalhttp//wwwmozillaok
+ezikuvumela
+phasang
+ifeyiza
+zefowuni
+zeefoto
+lamagama
+Chonga
+Qhobosha
+iping
+amachaphaza omfanekiso
+amachokoza eskrinini
+kungaphambili
+kwesiqendu
+platfom
+nala
+udlale
+gabalala
+nakwaziwa
+softwe
+zifakiweyo
+yabeka
+png
+podcast
+kwiipodcast
+Ukutshixwa kweSalathi
+nomgaqonkqubo
+poly
+oluzivelelayo
+Isiqhagamshelanisi Sithintelwe
+nolwazi
+isikhundla
+nokunokwenzeka
+inokwenzeka
+ngokungathi
+yokususwa
+lwakudala
+yaqhuba
+ppUkufaka nayiphi na
+ppUkufaka
+ppError
+ukuchana
+pref
+uyithandayo
+iipreferensi
+preferonline
+zeziqendu
+mozRTCPeerConnection
+isimaphambili
+bekuskenwa
+zinikezelwe
+lweSxS
+ezisetwe
+ulikucofa
+cinezelweyo
+ukukwenzela
+prisabhu
+iprisabskripti
+prisaph
+iprisupaskripti
+kuthintela
+ilithintele
+koshicilelo
+sangaphambili
+ezithotywe
+primev
+prinsipali
+nemigaqo
+uprinte
+okushicelelekayo
+ubushicilelwe
+Zezishicileli
+ziprinta zifumanekayo
+ziprinta
+uprinta
+ilayishwe
+ngokokubaluleka
+obupheleleyo
+zabucala
+okubhala
+ngxaki
+kwengxaki
+zokuqhuba
+kuqhutywe
+esiqhutyelwe
+bekusenziwa
+seso
+mveliso
+eziphathwayo
+profayili
+iprofayila
+zesimo
+uprofayila
+iprogram
+iinkqubo
+inkqubela
+projects
+Thembisa
+ngeeapp
+yeeAplikheyishini
+Isamkelo
+zinkcazelo
+ipropati
+ukhusele
+okukugqithisa
+luphezuluKhetha
+likhusela
+olwaphukileyo
+zomthetho
+okuluncedo
+ukunikeza
+ezinikiweyo
+weintanethi
+iziboneleli
+nomthetho
+ngenzolo
+zommeli
+wolwimi
+oosingaklasi
+owongezelekileyo
+pspan
+ptPT
+zikawonkewonke
+yokupapashela
+zipapashiwe
+upapasha
+engumsindleki
+pulliNceda
+osisohlwayo
+Intengo
+nokuthenga
+sisza
+iinjongo
+px
+umzqimozillaorg
+qstrongww
+Umphumezi
+wokukhangela
+yethebhu
+ekhawulezayo
+oyifunayo
+uyeka
+quot
+quotImiyiloquot
+quotExpungequot
+quotHTML
+quotSipho
+sequotImfungumfunguquot
+quotIkhasi
+kwiquotSithunyelwequot
+seenkcukachaquot
+quotXquot
+yobuninzi
+quotoblowuquot
+caphula
+ecatshulweyo
+quotffquot
+iquotimeyileumzekelonetquot
+quotikhasilamhtmlquot
+iquotiindabaumzekelonetquot
+quotquot
+quotsmtpexamplenetquot
+qwxyz
+rad
+iradikali
+kanomathotholo
+elindelelekileyo
+nemilembelele
+koluhlu
+Yokudlala
+ezibhalwe
+Ufike
+kuwufunda
+Ifunda
+funda kuphela
+ikulungele
+kuyiqwalasela
+kwiiprefrensi
+reason
+ungayivulanga
+ezibuyiswayo
+enolungiselelo
+ifumene
+kufunyanwe
+s
+zinyanisekisiweyo
+onikele
+uyihlaziyele
+kucetyiswa oko
+incomela
+Qhagamshelanisa
+yigcine
+esirekhodiweyo
+bokurekhoda
+kwesithuba
+rect
+ingapheliyo
+luyavela
+esiphindaphinda
+eliyilwe
+iphe
+zefom
+sakhe
+mfuneko
+kubalo
+sokukhoyo
+ezalathwe
+Lufunyenwe
+flowa
+ngokwala
+ingakanani
+regexp
+inkolo
+ababhalisiweyo
+ekubhaliseni
+lweChrome
+unofikelelo
+esikhabe
+lobudlelwane
+kokunokuthelekiswa
+ekulayishweni
+ulilayitshe
+Kuplhela
+yalayisha kwakhona
+ilowuda
+yona
+oluseleyo
+iyikhumbule
+IRemote Runtime
+kude
+ukuzishenxisa
+iremoveAttribute
+esusiweyo
+kokuyishenxisa
+Unike
+bekunikezelwa
+usiodole
+okungenakulungiseka
+zenithiweki
+ephindwayo eziphindwayo
+eziphindwayo
+okunye
+ezithatha
+izinto zokutshintsha
+uphindaphinde
+Kuphindaphindwa
+Ukuphindaphinda
+ngempendulo
+uphendula
+reponse
+yokukhresha
+yepolisi
+reports
+simele
+isicelo
+irequestAnimationFrame
+eceliweyo
+sicela
+zicelo
+unokuba
+t send
+funekayo
+lufuna
+ukucela
+agciniwe
+Umisele
+uzisayize
+resolutiondpi
+esisombuluke
+iphendule
+zeOCSP
+ukusabela
+impendulo
+oseleyo
+uqalele
+ubuyisela
+zokhuselo
+icutha
+t what
+akunokwenzeka
+esinyeJonga
+iziphumo Bonisa
+iziphumo
+ubuy
+ngesiqulathi
+sobumbeko
+iphinga
+yokubuyisa
+zibuyisiweyo
+aveze
+ukutyhila
+kwiZalathisi
+hlola hlola
+uvuselele
+lwezatifikethi
+ekunene
+nephepha
+ongasekunene
+ekunene
+obunokuvela
+isenokungazichongi
+rndbox
+iruti
+ruta
+Jikelisa
+iisayizi
+seLDAP
+irowu
+rr
+mmiselo
+yeekopi
+Qhubela
+luqhuba
+kweJavaScript
+wes
+sIkhona
+sIyafuneka
+zikhuselekile
+ofanayobr
+nomthombo
+iisampuli
+ukuhluthisa
+Gcinela
+zingelo
+ugcina
+wonga
+lithi
+ngesikali
+Ifoto
+seQR
+lugunyazise
+Isiskopu silahlekile
+scope
+skretshphedi
+Uqhelaniso lwesikrin
+Iskrishoti
+ISpeki SeSkripti
+yescript
+ifakwe kwiskripti
+iscripts
+noncesource
+wokuhlisa
+utsalo
+okugudileyo
+ivalwe ngci
+Zingela Iidilesi
+khangela
+ukhangelo
+sec
+yesibini
+umzuzwanoIxesha
+imizuzwana
+umzuzwana imizuzwana
+secpk
+secpr
+icandelo
+anegama
+sectk
+sectr
+unxibelelo
+ekhuselwe
+ngokukhuselekileyoNgokomphumo
+sokungakhuseleki
+bokhuseleko
+ubone
+seeing doctype
+seek
+ukufuna
+seem
+ikhangeleka
+seen but
+lunokubonwa
+select &quot
+select camera
+zikhethele
+selected line &apos
+okukhethiweyo
+iiOpshin
+okukhethileyo
+selections above
+selections
+selectlabel
+umkhethi
+selectors separated
+selectors
+selects
+selfsigned
+semicolon
+send Feedback
+send For
+bethumela
+sender &apos
+sender message
+umthumeli
+sending
+sends
+ezibuthathaka
+sensitivity
+sent Cookie
+sent
+sep &#124
+sep
+separate tags
+ukwahlukanisa
+ezahlulwe
+yokuqhuba
+separating
+separator character
+isihlukanisi
+sept
+september
+njengengxangxasi
+sequentially
+serial Number
+serial number
+serial
+series
+serif
+server &apos
+server Quota
+server SMTP&apos
+server incorrectly
+server maintenance
+server that can &apos
+server
+servers Maybe
+servers
+unikezela
+service providers
+service worker
+service
+services
+serving
+session ID
+session Id
+Iztatistiki Zeseshoni
+session cache
+seshoni
+sessions
+set Priority
+set browsercachediskenable
+set strokeStyle
+zomboniso
+setAttribute instead
+isetAttribute
+setAttributeNS instead
+isetAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+yesetTimeout
+setUserData
+setVelocity
+sets
+ukusetwa
+settings &#124
+settings&apos
+settings
+setup options
+zimbo
+seven
+seventeen
+seventeenth
+seventh
+several ways
+several
+shader Editor
+shader compile status
+shader compile
+lwesheyida
+shadows variable
+shadows
+shall control
+shall
+shape &quot
+area
+Share
+shared Workers
+shared
+sharedLongDesc
+wabelane
+sharing
+oluselayinini
+sheets
+Iqokobhe
+shield
+shiftKeylabel
+shiftclick
+shiny metal posteriors which
+shiny
+shopping
+seziganeko
+yebhodi
+shortcuts
+uwufinyeze lo
+uwufinyeze
+shorter file
+Izama
+shortly
+shortname
+should keep
+should make
+ekungafanelanga
+t continue
+shouldn
+show Cookies
+show resultShow
+show through
+Boisa
+showall &apos
+showall
+showing repairing
+showing
+ukuboniswa
+shownReplies
+shows
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+shutdown
+shutting down
+shutting
+sibiling
+side
+osecaleni
+sidebarName
+iibha
+sign in
+usayine
+ongafuniyo
+signature algorithms
+msayino
+signatureAlgorithm
+sokwenza
+Kusayinwe
+signer &apos
+kwisatifikethi
+signers found
+signers
+significant
+signing certificate
+signing
+signup
+silence
+silently authenticates
+cwaka
+similar
+simple Measurements
+simple XLink
+sikasingaludidi
+simplified
+simply need
+nesimaphambili
+simulation
+simulator installed
+sokulinganisa
+ubuwusayinile
+single
+lwesignon
+site &apos
+site doesn &apos
+sayithi
+sitename &apos
+sitename
+sitenat
+namaphepha
+six
+sixteen &#124
+sixteen
+sixteenth
+sixth
+yetreki
+zobukhulu
+skip Integration
+skip this
+uyitsibe
+ziyaqaliswa
+skips
+slash operators
+kwizisebenzisi
+slashes ie
+slashes
+seGC
+isilayida
+esingenanto
+ezingenanto
+slow Motion
+slow SQL
+slow down
+slow ×
+slow
+slowing
+slowly
+kuncinci
+smaller
+nesmart
+smartcard please
+smartcard
+smartlabel
+enobuchwepheshe
+smiley face
+smiley
+smooth scrolling
+ukuhambahamba
+smtpexamplenet
+snephu
+iznephu
+snews
+so it &apos
+so it can &apos
+so you &apos
+ngoko
+soap
+socket
+software makers
+software
+solid Border
+solid circle
+solid
+solution
+solutions
+solve a
+solve
+some cool
+some printing
+some sample
+some unspecified
+zeenkcubabuchopho
+somebody &apos
+esithathwa
+someone isn &apos
+mntu
+ukukuqhathela
+wambi
+somewhere earlier
+somewhere
+soon
+sorry BrandShortName can &apos
+sorry we &apos
+Uxolo
+uhlelahlele
+sound file
+sound
+sounds like
+kuvakala
+source software
+yemvelaphi
+zithombo
+ISpace Fantasy
+space between
+kwidsk
+spaces
+spam
+span class &apos
+spanisebenzisa
+spanThis
+ispanibrandShortName
+spankwenziwe
+yasebenza
+spans
+spanspan
+speak now
+thetha
+speaking
+spec in
+spec
+special incidental
+special kinds
+sohlobo
+specific command
+Engqalileyo
+specifically
+specification
+sibaluliweyo
+icacise
+specify preferred
+ucacise
+specifying a
+specifying acceptcharsetutf
+iacceptcharsetutf
+speed
+speedOfSound
+spell checking
+usachwethezayo
+iguqulele
+upelo
+spend
+spent
+iqhosa lokujikelezisa
+iqhosa
+Canda
+zixhaswe
+yokulindisa
+isipayiwe
+sqrt
+iskwe ruti
+iskwe
+src
+wesrcdir
+iisrcs
+ssl
+st
+stability issues
+stability update
+ukungazinzi
+izinzile
+stack trace
+zifreyim
+zomnxeba
+standalone
+standard time
+standard toBlob
+standard
+standards mode
+standards
+weenkwenkwezi ezi
+star
+starred
+start Debug
+start Simulator
+qalisa
+started finding
+kuqalisiwe
+starting with &apos
+ngoseto
+startlabel
+startmozillaorg
+iqalisa
+startup
+kwemo
+statement
+statements
+statistics about
+statistics
+stats
+status &apos
+status bar
+isimo
+stay
+zisebenzise
+step Over
+step
+stepped through
+stepped
+stepping
+steps out
+Iyaphuma
+zisaya
+stolen
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+nqumamisa
+kumisiwe
+ekuyekiseni
+stops
+storage quotas
+storage
+storages
+ulondoloze
+lulondolozwa
+stores information
+stores
+storing
+stream
+strength
+strict protection
+strict
+esize
+string literal
+umtya
+strings or
+izitringi
+istrokeStyle
+strong
+strongApps
+strongDevice
+strongThe Book of
+strongThe Book
+strongThe
+Ugxininiso Olomeleleyo
+stronger
+strongexamplecom
+stronghttp
+strongly recommends
+strongly
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+structure
+sikhulu
+studies
+Okufumanisekileyo ngemfunalwazi
+ngokwazisa
+style Editor
+style Inspector
+style endexpand
+style sheet
+olunxulunyaniswa
+styles
+seXSLT
+stylesheets
+stylesrc
+sabhu
+sikavimba
+olucela
+subdomain
+subdomains
+subfolder
+ezonganyelweyo
+subgrid
+angaphantsi
+subject Reminder
+intloko
+submission to
+submission
+submit Query
+submit bugs
+submit information that &apos
+submit
+submits
+enguUTF
+submitting your
+ngokufakwa
+subresource
+subscribe Calendars
+Rhuma
+ezikhutshelwa
+subscribedImported
+Kunikelwa
+isabskripti
+Sowunawo
+yesiqulathi
+subsession data
+subsession
+substituting
+subthread
+subthreads
+subtree
+succeed
+kuphumelele
+yimpumelelo
+successfully Transmitted
+ngempumelelo
+zokuchwetheza
+suddenly
+sufficient
+suggest
+suggested Contribution
+suggested Tags
+okucetyiswayo
+suggestion
+okukhangela
+suggests
+nokujoliswe
+suitable
+yesuite
+suites are
+suites
+isixa
+summary file
+senqaku
+summoned
+sunday
+sundays
+saphu
+superscript pair
+isupaskripti
+superseded by
+superseded
+supervision
+supplied
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+kwenkxaso
+kuyaxhaswa
+supporting
+supportmozillaorg
+supports
+uwotshi
+surface area
+wesona
+surprised face
+surprised
+surrogate
+surrounding environment
+surrounding
+survey is
+phando
+susceptible
+suspected
+suspicious
+sutomatically
+svSE
+svg
+tshintshela
+tshintsha
+tshintshiweyo
+switching
+symbol
+symbols
+sync them
+ungqamanise
+yesyncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+ezingqamanisiweyo
+synchronization
+synchronize
+synchronous
+lingqamanisa
+synctitlepairlabel
+syntax Highlighting
+kwisivakalisi
+system Integration
+system beep
+isixokelelwano
+systemDate &apos
+systemDate
+systems this
+systems
+t believe
+t delete
+t
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+ithebhu
+tabUkwabelana
+tabdelimited tab
+tabdelimited
+table &apos
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+table rows
+itafile
+zeAndroid
+zithebhu
+tabtxt
+tag
+tagged
+tagname
+zeetag
+take up
+ulithathe
+taken
+takes
+taking too
+taking
+talk
+tampering
+tapping
+ekujoliswe
+targeted document
+targeted
+task
+taskThe
+taskbar
+tasks
+tastes
+tbl
+technical Details
+technical
+esikwinqanaba
+techniques
+technology
+ifowuni
+tell websites
+uxelele
+tells
+template
+templates
+okwethutyana
+temporary outage
+zexeshana
+ten
+tename &apos
+tentatively
+tenth
+tenured objects
+tenured
+ter Lock API
+term &quot
+igama
+terminate a
+terminate
+terminated by xslmessage
+terminated
+termination
+terms
+vavanyo
+testics
+babaPhuhlisi
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+text
+textContent attribute
+textContent
+textonly
+texture source
+texture
+th
+kunobuncinane
+ngokwendlela
+thank
+thanks for
+thanks
+s difficult
+t be found
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+that
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+the Grenadines
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+Ibhafa
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+Iemtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+the visualization
+the webapp manifest isn &apos
+the webapp
+the wildcard
+the windowconsole
+zingafumaneka
+theft
+their defaults
+nokhokho
+them
+theme
+themed
+zemixholo
+then touching
+uyiqale
+there &apos
+bekukho
+therefore
+these organizations
+la
+they &apos
+ziphelelwe
+they require query
+zifunekaOlu
+things you
+things
+think I &apos
+think
+abasebenza
+thinking
+icinga
+third Party
+third parties
+third
+thirdparty cookies
+thirdparty software
+zomntu
+thirteen &#124
+thirteen
+thirteenth
+thirtieth
+thirty &#124
+thirty first
+thirty one
+thirty
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+oku kukhutshelwayoCima
+this exclusion
+t
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+olu vavanyo
+this tweet &quot
+this tweet
+this website
+this
+obusikhangela
+thisa
+ekrokreleka
+though
+thought
+thousands
+thread &quot
+thread Hangs
+thread killed
+thread watched
+eyintloko
+imisonto
+three
+threw
+ngokungasebenzi
+through
+thunderbird
+thursday &#124
+thursday
+thursdays
+ticket was
+ticket
+ties
+til &#124
+til
+tile replacing
+tile
+tiles
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+elichanileyo
+timeOccurs
+timed Out
+igqithelwe
+lokuzama
+timeline
+timelines
+timeout
+timer Name
+timer started
+isibalixesha
+timers in
+timers
+ama
+timesaving
+timestamp
+timestamps
+timezone &quot
+timezone
+timezonepersonalg
+timezoner message doesn &apos
+title
+titlequot
+ukukurhoxisa
+Ukubuyiseleka kwesithuba
+ukushunqula
+ukuya
+namhlanje
+Togola ngebha eseCaleni
+Togla oosingaklasi
+utogole
+ziyilwe
+engagunyaziswanga
+Zininzi
+ithulbha
+zomphuhlisi
+itooltip
+entla
+phezulu
+Zizonke indleko
+sobukhulu
+abaphulaphuli
+ucofa
+sondela
+umzila
+eziqokelelweyo
+ukubrawuza
+iitreka
+zokulandwa
+ophawu
+uqeqeshe
+zoqeqesho
+lweFTP
+yeXSLT
+uyiguqulele
+inkunkuma
+behamba
+womthi
+ngumzamo
+izamile
+luvuselelwe
+ekubuyiseleni
+yinyaniso
+kushunqulwa
+Thembela
+ziyathembeka
+kokuyithemba
+ulinge
+kokuzama
+ukukufaka
+neyokungasebenzi
+neWebhu
+ziintlobo
+txt
+itxtarea
+chwetheza geoenabled
+zesimbo
+okwimiyalezo
+zomiselo
+ngokoqobo
+ubuchwetheza
+iu
+ulliKhangela
+ulliingaba
+nako
+ayifumaneki
+Sukuzithintela
+akuqwalaselwanga
+akuvalwanga
+engayiqukanisiyo
+esingabhengezwayo
+ayichazwanga
+Okucinyiweyo
+ngaphantsi
+iandaskripti
+uziqondile
+abamkeliabangaxelwanga
+Qhaqha
+engenakuqhaqhwa
+olungantsonkothanga
+engenakusetyenziswa
+olungalindelekanga
+ngequbuliso
+awundululwanga
+khupha okufakiweyo
+uMsebenzi
+esiqulethe
+unix
+Akwaziwa
+ayaziwa
+ngaphandleni
+ayinagama
+visibilityState
+engafundwanga
+elinikiweyo
+yekisa ubhaliso
+ezingacelwanga
+zedrayiva
+engakhethwanga
+engathunyelwanga
+ayizinzanga
+zeziqulathi
+engaxhaswayo
+zide
+akukho sihloko
+engafunwayo
+uyinyuse
+hlaziyo
+zihlaziyi
+ihlaziya
+utolo oluphe lwedaya
+istrayiki esiphe sedaya
+hlaziya
+ukuphuhlisa
+ziyalayishwa
+zithotywe
+IsiUpper
+ezisulungekileyo
+url
+urlprefix
+urls
+urlsneFirefox
+urlsFunda
+urlsBona
+urlsabalawuli
+eRunAppX
+ukusetyenziswa
+esisetyenziswe
+luncedo
+Sokuchongeka Somsebenzisi
+umsebenzisi
+nomsebenzisi
+bomsebenzi
+iteknoloji
+ngokusebenzisa
+utomatically
+vCard
+val
+iyasebenza
+unyanisekise
+kokunyanisekisa
+uqinisekiso
+ukuthembe
+xabiso
+zixabisekileyo
+ebelilindelekile
+zitshintshayo
+VImiylelo
+IVendor
+IvendorShortName
+lesiqinisekiso
+iiaddons
+verify
+inguqulelo
+uguqulelo
+via
+ivayibhrethe
+vidiyo
+neevidiyo
+uonge
+kokujonga
+yenyelise ubomi
+yenyelise
+iphazamisa
+kodidi
+ijonge
+nokwandisa
+
+ebonakalyo
+tyelela
+tyelelweyo
+ngokuthi
+tyelela
+lelizwi
+litshantliziyo
+istrayiki esive
+wokulinda
+zilindile
+oluseskrinini
+want
+Ndilumkise
+silumkiso
+Izilumkiso
+iziqinisekiso
+waranti
+yavalwa
+wav
+yokusinceda
+bevela
+re sorry
+t confirm
+t
+t
+siziingcali
+siqukiwe
+isazisi
+onokusebenziselwa
+webScriptAccess
+zenkcukacha
+ezingekho
+sothungelwanoIngaba
+neewebhusayithi
+ngabunye
+Wamkelekile
+wemo
+bezingenaluguqulelo
+s
+nento
+lwevili
+zisakuba
+ziziphi
+ngelixa
+ngubani
+ogama
+liblokwe
+WIDTH
+yewildcard
+kuya kungawahoyi
+luya
+uyakulangazelela
+win
+onokuzikhethela
+windowu
+windowcontent
+iwindowcontrollers
+iplagini
+iwindowopen
+ngeefestile
+ngokoonobumba
+ngeekhoma
+with
+neebyte
+iwizadi
+t work
+Siyimozilla
+acetyiswayo
+Sebenza
+yabasebenzi
+uzazi
+ungazikhathazi
+ngokulinda
+sento
+wrappers
+yeNkongolo
+okubhalekayo
+awodwa
+ukubhalela
+elingelilo
+ibhalile
+ibhaleP
+wwwexamplecom
+wwwmozillaorg
+wwwopenhorg
+x in
+x
+xNN
+xSeta
+xeuctw
+xgbk
+xhrspecwhatwgorg
+xjohab
+kukhulu kakhulu
+xmacarabic
+xmacce
+xmaccroatian
+xmaccyrillic windows
+xmaccyrillic
+xmacdevanagari
+xmacfarsi
+xmacgreek
+xmacgujarati
+xmacgurmukhi
+xmachebrew
+xmacicelandic
+xmacroman windows
+xmacroman
+xmacromanian
+xmacturkish windows
+xmacturkish
+xmacukrainian
+xpi
+lwexpistub
+kuncinci kakhulu
+xviettcvn
+xvietvps windows
+xvietvps
+xwestern
+xwindows
+kukhulu kakhulu kakhulu
+kuncinci kakhulu kakhulu
+xyxy
+ewe
+re always in
+t remove
+t want
+Uyiphosile
+zenza
+Ozithandayo
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+your
+yourself
+yousenditcom
+zero
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+Sondeza
+zooming

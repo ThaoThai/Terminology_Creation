@@ -1,0 +1,8288 @@
+ rights …
+/Galapagos
+A ServiceWorker
+Oñemondo
+AB _
+AB
+ACL
+ADB
+ADDONS
+AEC Logging
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+omoherakuãháicha
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ASN
+ATT Mail
+ATT
+AUS
+AVA
+Aa
+Aaiun
+Ababa
+Abandon unsaved changes
+Abbreviate
+Abbreviation
+Abjasia
+Ejarei
+Aborted
+About Your
+Rehegua
+Above
+Accelerated
+Accent Lowercase
+Accent Uppercase
+Accent
+Accept
+Acceptance
+Accepted
+Access
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+AccessControlAllowMethods
+AccessControlAllowOrigin
+Jeikekuaa
+Account &quot
+Account Settings &#124
+Mab'ete
+Accountquot
+etekuéra
+Accountspecific
+Account…
+Acronym
+Jeku'e
+Ñemongu'e
+Actions
+Myandy
+Myandypyre
+Activations Directory
+Hendýva
+Myandy
+Myandypyre
+Actively block
+Tembiapo
+Actual Size
+Adak
+Adapter
+Adapters
+Adb
+Emoĩve
+Mbojoapy
+Mbojuaju
+Mbojoapypyre
+Addis Ababa
+Additional Tools
+Additional
+Addon
+Addons Installed
+Joajurã
+Moĩmbaha
+Moĩmbahakuéra
+Addr
+Address Book
+Address Books
+Tape
+AddressBook
+Addressbook
+Kundaharape
+Addressing
+Adds
+Add…
+evahína
+Administer
+Administrative Assistant
+Administrative limit
+Administrative
+Administrator
+Adobe Flash
+Adobe
+Advance
+Advanced Property Editor
+Advanced info
+Opanungáva
+Opapotáva
+Opanungáva…
+Mombyry
+Affects multiple
+Affects
+Affiliation Changed
+Jeikepy
+Afganistán
+Africa/Abidjan
+Africa/Accra
+Africa/Algiers
+Africa/Asmara
+Africa/Bamako
+Africa/Bangui
+Africa/Banjul
+Africa/Bissau
+Africa/Blantyre
+Africa/Brazzaville
+Africa/Bujumbura
+Africa/Cairo
+Africa/Casablanca
+Africa/Ceuta
+Africa/Conakry
+Africa/Dakar
+Africa/Djibouti
+Africa/Douala
+Africa/Freetown
+Africa/Gaborone
+Africa/Harare
+Africa/Johannesburg
+Africa/Juba
+Africa/Kampala
+Africa/Khartoum
+Africa/Kigali
+Africa/Kinshasa
+Africa/Lagos
+Africa/Libreville
+Africa/Lome
+Africa/Luanda
+Africa/Lubumbashi
+Africa/Lusaka
+Africa/Malabo
+Africa/Maputo
+Africa/Maseru
+Africa/Mbabane
+Africa/Mogadishu
+Africa/Monrovia
+Africa/Nairobi
+Africa/Ndjamena
+Africa/Niamey
+Africa/Nouakchott
+Africa/Ouagadougou
+Africa/PortoNovo
+Africa/Tripoli
+Africa/Tunis
+Africa/Windhoek
+Africa
+African Republic
+African
+Africano
+After
+Again &quot
+ãjeýpe
+Arykuaa
+Agent
+Mbojoaju
+Ago
+Agree
+jokupyty
+Aires
+Akan
+Akrotiri
+Alarm
+Albania
+Albanés
+Alert dialog
+Alert record
+Ñangareko
+Argelia
+Algorithm Parameters
+Algorithm
+Alias dereferencing problem
+Alias dereferencing
+Alias problem
+Alias
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Align
+Alignment
+Opavave
+Allman
+Allocated
+Allocation Trigger
+Allocation
+Tembiaporãme'ẽ
+Allow First
+Allow autoplay
+Moneĩ
+Ñemoneĩ
+Allowed
+Allowing
+Allows
+Moneĩ…
+Oĩmbapotáva
+Almost
+Alpha
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Although
+Akóinte
+Katui
+Tapia
+Tapiaite
+America/Adak
+America/Anchorage
+America/Anguilla
+America/Antigua
+America/Araguaina
+America/Argentina/Catamarca
+America/Argentina/Cordoba
+America/Argentina/Jujuy
+America/Argentina/Mendoza
+America/Argentina/Salta
+America/Argentina/Tucuman
+America/Argentina/Ushuaia
+America/Aruba
+America/Asuncion
+America/Atikokan
+America/Bahia
+America/Barbados
+America/Belem
+America/Belize
+America/BlancSablon
+America/Bogota
+America/Boise
+America/Cancun
+America/Caracas
+America/Cayenne
+America/Cayman
+America/Chicago
+America/Chihuahua
+America/Creston
+America/Cuiaba
+America/Curacao
+America/Danmarkshavn
+America/Dawson
+America/Denver
+America/Detroit
+America/Dominica
+America/Edmonton
+America/Eirunepe
+America/Fortaleza
+America/Godthab
+America/Grenada
+America/Guadeloupe
+America/Guatemala
+America/Guayaquil
+America/Guyana
+America/Halifax
+America/Havana
+America/Hermosillo
+America/Indiana/Indianapolis
+America/Indiana/Knox
+America/Indiana/Marengo
+America/Indiana/Petersburg
+America/Indiana/Vevay
+America/Indiana/Vincennes
+America/Indiana/Winamac
+America/Inuvik
+America/Iqaluit
+America/Jamaica
+America/Juneau
+America/Kentucky/Louisville
+America/Kentucky/Monticello
+America/Kralendijk
+America/Lima
+America/Maceio
+America/Managua
+America/Manaus
+America/Marigot
+America/Martinique
+America/Matamoros
+America/Mazatlan
+America/Menominee
+America/Merida
+America/Metlakatla
+America/Miquelon
+America/Moncton
+America/Monterrey
+America/Montevideo
+America/Montreal
+America/Montserrat
+America/Nassau
+America/Nipigon
+America/Nome
+America/Noronha
+America/Ojinaga
+America/Panama
+America/Pangnirtung
+America/Paramaribo
+America/Phoenix
+America/PortauPrince
+America/Recife
+America/Regina
+America/Resolute
+America/Santarem
+America/Santiago
+America/Scoresbysund
+America/Shiprock
+America/Sitka
+America/Tegucigalpa
+America/Thule
+America/Tijuana
+America/Toronto
+America/Tortola
+America/Vancouver
+America/Whitehorse
+America/Winnipeg
+America/Yakutat
+America/Yellowknife
+America
+American Samoa
+Samoa
+Amharic
+jejvy
+Analysis …
+Analysis
+Tesa'ỹijo
+Anchor
+Anchorage
+Joajuha pypegua
+And
+Andorra
+Android tablets
+Android&apos
+Android
+Android™
+Angeles
+Angola
+Anguilla
+Animate app
+Animate
+Ñemokyre'ỹ
+Ñemokyre'ỹ
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+Annotation
+Announces
+Annoyances
+Another
+Answer
+Answers
+Antarctic Lands
+Antárticas
+Antarctica/Casey
+Antarctica/Davis
+Antarctica/DumontDUrville
+Antarctica/Macquarie
+Antarctica/Mawson
+Antarctica/McMurdo
+Antarctica/Palmer
+Antarctica/Rothera
+Antarctica/Syowa
+Antarctica/Troll
+Antarctica/Vostok
+Antártida
+AntiVirus
+Antigua and Barbuda
+Antigua
+Antilles
+Antivirus
+Any
+AnyText
+Anywhere
+App can &apos
+Tembipuru'i
+AppCache
+AppCacheUtils
+AppMenu
+AppName Uninstall
+AppName
+Appcache validated
+Appcache
+Hechapy
+Appendices
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+Application
+Tembipuru'i
+Apply
+Applying update
+Applying
+Appointments
+ApprovedBy
+Tembipuru'i
+Abr
+Jasyrundy
+Arab
+Saudita
+Arabic MacArabic
+Arabic Windows
+Árabe
+Aragonés
+Archive
+Archived
+Archives
+Archiving
+Arctic/Longyearbyen
+Remboguetese
+Area
+Argentina
+Arial
+Armenia
+Armenio
+Arrow
+Marandukuéra
+Artist
+Aruba
+As Laid Out
+As Quotation
+As
+Ascending
+Ascension and
+Ascension
+Ashmore
+Asia/Aden
+Asia/Almaty
+Asia/Amman
+Asia/Anadyr
+Asia/Aqtau
+Asia/Aqtobe
+Asia/Ashgabat
+Asia/Baghdad
+Asia/Bahrain
+Asia/Baku
+Asia/Bangkok
+Asia/Barnaul
+Asia/Beirut
+Asia/Bishkek
+Asia/Brunei
+Asia/Chita
+Asia/Choibalsan
+Asia/Chongqing
+Asia/Colombo
+Asia/Damascus
+Asia/Dhaka
+Asia/Dili
+Asia/Dubai
+Asia/Dushanbe
+Asia/Gaza
+Asia/Harbin
+Asia/Hebron
+Asia/Hovd
+Asia/Irkutsk
+Asia/Istanbul
+Asia/Jakarta
+Asia/Jayapura
+Asia/Jerusalem
+Asia/Kabul
+Asia/Kamchatka
+Asia/Karachi
+Asia/Kashgar
+Asia/Kathmandu
+Asia/Khandyga
+Asia/Kolkata
+Asia/Krasnoyarsk
+Asia/Kuching
+Asia/Kuwait
+Asia/Macau
+Asia/Magadan
+Asia/Makassar
+Asia/Manila
+Asia/Muscat
+Asia/Nicosia
+Asia/Novokuznetsk
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Oral
+Asia/Pontianak
+Asia/Pyongyang
+Asia/Qatar
+Asia/Qyzylorda
+Asia/Rangoon
+Asia/Riyadh
+Asia/Sakhalin
+Asia/Samarkand
+Asia/Seoul
+Asia/Shanghai
+Asia/Singapore
+Asia/Srednekolymsk
+Asia/Taipei
+Asia/Tashkent
+Asia/Tbilisi
+Asia/Tehran
+Asia/Thimphu
+Asia/Tokyo
+Asia/Ulaanbaatar
+Asia/Urumqi
+Asia/UstNera
+Asia/Vientiane
+Asia/Vladivostok
+Asia/Yakutsk
+Asia/Yekaterinburg
+Asia/Yerevan
+Asia
+Asian
+Ask
+Asks how
+Asks
+Assamese
+Assembling mail
+Assembling messageDone
+Assembling
+Assistant
+Associated
+Assurance
+Asturiano
+Ndojuehéiva
+Asynchronous Pan
+Asynchronous
+Atlantic/Azores
+Atlantic/Bermuda
+Atlantic/Canary
+Atlantic/Faroe
+Atlantic/Madeira
+Atlantic/Reykjavik
+Atlantic/Stanley
+Atlantic
+Atoll
+Mba'echu'i
+Attach
+Attached
+Attachment
+AttachmentRemove
+Moirũha
+Attack Site
+Attack
+Attempt to
+ojepurusékuri
+Ñeha'ã
+Attendance
+Attendee
+Attendees
+Attention
+Attribute
+Tekome'ẽ
+Attribution
+Auckland
+Hendupyrã
+Mba'epu
+AudioBufferSourceNode
+AudioChannel
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+AudioNode
+AudioParam does
+AudioParam
+AudioParams
+Ago
+Jasypoapy
+Aurora
+Australia/Adelaide
+Australia/Brisbane
+Australia/Currie
+Australia/Darwin
+Australia/Eucla
+Australia/Hobart
+Australia/Lindeman
+Australia/Melbourne
+Australia/Perth
+Australia/Sydney
+Australia
+Austria
+Authenticated
+Authenticating
+Authentication method &apos
+Authentication
+Apohára
+Authored
+Moakãhára
+Authority unnamed
+mboajehárava
+Authorize
+Authors
+Auto Increment
+Auto Update
+Jehegui
+AutoA
+AutoConfig Alert
+AutoConfig
+Ijehegui ojuhúva
+AutoJoined Channels
+AutoJoined
+Autoclose
+Moĩmbajehegui
+Autoindent
+Ijeheguitéva
+Ñemoĩporãme
+Available
+Avaric
+Avestan
+Avg
+Aymara
+Azerbayán
+Azerbaiyán
+B
+JOKOPYRE
+Atukupe
+Mboyvegua
+Tapykue
+Tapykuegua
+Tapykuevegua
+Tapykuévo
+Huguapegua
+Mba'erugua
+Tugua
+Jujey
+Ñongatuguy
+Mbokuatia
+Ivai
+Bahrain
+Baker
+Báltico
+Bambara
+Bangladesh
+Oeste
+Virurendagua
+Barbados
+Barbuda
+Bartolomé
+Topyta
+Bashkir
+Vasco
+Bassas
+Bateria
+Eñepyrũ
+Belarús
+Bielorruso
+Bélgica
+Belice
+Bengalí
+Benin
+Bermuda
+Bhutan
+Bihari
+BiquadFilterNode
+Bislama
+Bits
+Box
+Joko
+Jokoha
+Jokopyre
+ãreíva
+Bokmål
+Bolivia
+Bonaire
+Techaukaha
+ramóva
+Techaukaha
+Techaukahakuéra
+Voole
+hẽe/nahániri
+Tembe'y
+BosniaHerzegovina
+Bosnio
+Botswana
+Michĩvéva
+Bouvet
+variables
+Takã
+BrandFullName
+BrandFullNameDA
+BrandShortName
+Brasil
+Brazzaville
+Ñembojoapy
+Bretón
+Británicas
+Poravópe
+Kundahára
+Poravo…
+Kundaha
+Brunei
+Opululúva
+Bulgaria
+Búlgaro
+Ta'ãngamirĩ
+mohendaypýva
+Burkina
+Burma
+Burmese
+Burundi
+Votõ
+Oñemondóta
+Bytes
+C
+guenohẽmby
+CACHE
+CCBYSA
+CD
+CDSA
+CKLgui
+CKR
+CLICK
+CMS
+CN
+CORS
+CRL
+oñemondóma
+CSS
+CYPHER
+Cabo
+Kache
+Caicos
+Caledonia
+Ñehenói
+ehenoitaha
+Camboya
+Ta
+Camerún
+Canadá
+Canary
+Heja
+Hejapyre
+Lienso
+Ejapyhy
+Carbono rendy
+Ashmore
+Catalán
+Mba'ére
+Caimán
+Mombyte
+mombyte
+Centroafricana
+Mboajepyre
+Mboajepyréva
+Mboajepyréva
+Mboajepyréva
+Chad
+Chamorro
+Emoambue
+Ñemoambue
+moambuepyre
+Emoambuéramo
+mbohapeha
+Checheno
+Mongurusu
+Chichewa
+Chile
+China
+Chino
+Poravo
+Poravo…
+Navidad
+Chrome
+Chromecast
+Chromium
+Church
+Chuvash
+Cisco
+Vaticano
+Mopotĩ
+ClearType
+Oñemopotĩ
+oñemboguejypámava
+Eikutu
+Client
+Kuatiajokoha
+Clipperton
+Aravóicha
+Ag̃ui
+Emboty
+Mboty
+CmdOrCtrl
+CmdOrCtrlF
+CmdOrCtrlPlus
+CmdOrCtrlR
+CmdOrCtrlShiftD
+CmdOrCtrlShiftO
+CmdOrCtrlShiftR
+CmdOrCtrlShiftU
+CmdOrCtrlW
+Keeling
+Ayvu
+Yta
+Momichĩ
+Ñemomichĩ
+Colombia
+Sa'y
+Sa'y
+Sa'y…
+Yta
+jehaipyeta
+Comoras
+Ñembojoja
+Emoĩmba
+Opámava
+ComponentsutilsforceGC
+Hetepyete
+Hetepy
+Compositor
+Mohu'ã
+Emboheko…
+Ñemoneĩ
+Congo
+Jeike
+Mbojoaju
+Jeikepyre
+Oikehína
+Oikehína
+Oikehína…
+Oñembojoajuhína
+Jeike
+Jeikeha
+Jeike…
+Mba'e'okarupa
+Tapejoko
+Tyru
+Mba'eryru
+oguerekóvape
+Momichĩmbyre
+Pypegua
+Tetepy
+HetepyTekorosãPurureko
+HetepyTekorosãPururekoMaranduPeteĩ
+Pypegua
+jeregua
+Jejapojeyjey 
+Jeku'ejey
+Ku'ejey
+Ku'ejey 
+Pytyvõ
+Pytyvõhára
+Cook
+Kookie
+Mboheta
+Emomokõi
+Emonguatia
+Mbohasarã
+Mbokuatia
+Monguatia
+Sea
+Cornish
+Corso
+Jepapa
+Mba'ete
+rapykue
+Moheñói
+Teñoihague
+Apo'ypyha
+Jepurupyrã
+Cree
+Oĩvaíva
+Croacia
+Croata
+Ctrl
+CtrlL
+CtrlShiftL
+Cuba
+CuforceGC
+Cunha
+Curaçao
+Hekaha
+Ñemomba'epyre
+CustomEvent
+Customization
+Ñemomba'e
+Ñemomba'e…
+Ñemomba'epyre…
+Kytĩ
+Jehove
+Chipre
+Cirílico
+Cheko
+D
+DC
+DD Compositor
+DD
+DECDSA
+DER
+DEVICE
+DISPLAYNAME
+DLL
+DN
+DNS jeheka
+DNS
+DOCTYPE
+DOM
+DOMException
+DOMelementaddEventListener
+DOMelementremoveEventListener
+Mokõi
+DRM
+DVemer
+Danés
+Ypytũ
+Mba'ekuaarã
+Arange/aravo
+Day
+DayCrash Reports
+DayCrash
+Days
+Debug Mode
+Emopotĩ
+Mopotĩ
+DebugALIGNCENTERerver
+Debugger
+DebuggerServer
+Debugging
+Dic
+Jasypakõi
+Decide
+Declaration
+Decline
+Declined
+Mbopapapy'oha
+Decoding error
+Decoding
+Momichĩ
+Decrypted
+hekojerámava
+Deer
+Ijypykue
+Jepokokuaa'ỹha
+Yjypykuéva
+Defaults
+Defer Account
+Defer
+Define
+Defined
+Definition
+Definitions
+Del
+Joko
+Delete Message
+Embogue
+Mbogue
+Mboguete
+Deleted
+Mboguete…
+Deleting a
+Deleting component
+Emboguetérõ
+Deletion Error
+Deletion
+Delimited
+Delivery Format
+Delivery Status Notification
+Delivery
+Dinamarca
+Denver
+Mbotove
+Ñembotove
+Department
+Descending
+Describe Problem
+Describe
+Moha'ãnga
+Ñemoha'ãnga
+Deserialize
+Design Mode
+Design View
+Design
+Desktop Backgroundbmp
+Desktop Open &quot
+Mba'erechaha
+Destination Folder
+rendarãite
+Embyai
+Detach
+Detach…
+Detail
+Details of
+Mba'emimi
+Mba'emimi
+Mba'emimi…
+Detect indentation
+Detect
+Determining which
+Determining
+DevTools
+Devanagari
+Developed
+Developer Edition
+Developer Tools
+Mboguatahára
+Mboguatahára
+Development
+Device &quot
+Mba'e'oka
+Mba'eporurã
+seleccionadoEmoherakuã
+Mba'e'oka
+Devicex
+Dhekelia
+Jehechakuaaite
+Dial
+Dialog Preference
+Dialog
+Dialogs
+Dictionaries …
+Ñe'ẽryru
+Dictionary
+Did
+Diego
+Different
+DiffieHellman key
+DiffieHellman
+Digest function
+Digest was
+Digest
+Digg Reader
+Digg
+Digital
+Jepysokue
+Direct
+DirectD
+DirectWrite
+Kundaharape
+Directive
+Directories
+Directory &apos
+Directory Servers
+Directory
+Disability access
+Disability
+Mbogue
+Monge
+Oguepyréva
+Ojeiporuve'ỹva
+Ojepuruve'ỹva
+Oĩmbaporã'ỹva
+Oĩporã'ỹva
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+mboykepyre
+Disconnect from
+Ñesẽte
+Disconnectellipsis
+Osẽhína
+Disconnectme strict
+Disconnectme
+Ñesẽte…
+Discontinue Link
+Discontinue
+ñeguenohẽ
+Discussions
+Disk
+Mosẽ
+Display a
+Hechapy
+Hechauka
+Displays the
+Displays
+Distinguished
+myasãiha kyta
+Distribution
+anive
+Divehi
+Djibouti
+ypyveguáva
+Dock
+Docs
+Document Outline
+kuatia
+Documents
+Doe
+Doing
+Domain GUID
+Tendatee
+Domains
+Domestic
+Dominator
+Dominators
+Domingo
+Dominica
+Dominicana
+Don &apos
+Don
+Apopyre
+Japopa
+Japopyre
+Mohu'ã
+Double click
+mokõijey
+Doublecheck
+Doubleclick
+Yvy gotyo
+Download Link
+Mboguejy
+DownloadRestart
+Ñemboguejypyre
+Oñemboguejyhína
+Emboguejyhína…
+Oñemboguejyhína
+Omboguejy
+Ñemboguejy
+Draft Message
+Draft
+Drafts
+Drag
+Draw draws
+Draw repainted
+oñembosa
+Driver Verification
+Driver
+Drivers
+Drives
+Drop a
+epoi
+Dropping a
+Dropping
+DuckDuckGo
+Due
+Dump
+Duplicate name
+Duplicate
+Duraterver
+Pukukue
+Holandés
+Dzongkha
+ECDSA reraguapy
+ECDSA
+EDI Party Name
+EDI
+EDI
+EHLO
+EMail Certificates
+EMail
+ERROR
+JEJAVY
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+EXTRACTION_FAILED
+Mayma
+Eager
+Earlier
+East Asian
+East European
+East
+Eastern
+Ecuador
+Edge
+Edit Conditional
+Mbosako'i
+Editing
+Edition
+Mbosako'iha
+Editors
+Edit…
+Egipto
+Either
+El Aaiun
+el Salvador
+El
+Elapsed
+Element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+mbykýva
+ElementrequestPointerLock
+Elements
+Email Address
+Ñanduti veve
+Embarrassed
+Jupapo
+Embedded
+Emirates
+Emphasis
+Emptied Trash
+Emptied
+Empty
+Nandi
+Emulate
+Myandy
+Ijurujámava
+Myandypyre
+Myendypyre
+Enables
+Encipherment
+Mopapapyha
+Encoding While
+Encoding
+Encodings
+Encrypt
+Encrypted password&apos
+mbopapapýva
+Encrypting File
+Encrypting
+RSA
+Paha
+EndUser Rights
+EndUser
+Opámava
+Endian
+Endpoint
+Enforce
+Engine
+Engineering
+Engines
+English US
+English USASCII
+English language
+Guarani
+Inglés
+Enhanced
+embotuichave
+Enter &apos
+Enter Full
+Enter that
+Enter
+Entered
+Entering
+Jeikeha
+Entry
+Enumerable Properties
+Enumerable
+Jeregua
+Epiphany
+Equatorial Guinea
+Ecuatorial
+Eritrea
+Javy
+Oĩvaíva
+Javy
+Javypyre
+Jejavy
+Esc
+Esperanto
+Estonia
+Estonio
+Etiopía
+Etiope
+Eudora Nicknames
+Eudora Settings
+Eudora mail
+Eudora
+Europa Island
+Europa
+Europe/Amsterdam
+Europe/Andorra
+Europe/Astrakhan
+Europe/Athens
+Europe/Belgrade
+Europe/Berlin
+Europe/Bratislava
+Europe/Brussels
+Europe/Bucharest
+Europe/Budapest
+Europe/Busingen
+Europe/Chisinau
+Europe/Copenhagen
+Europe/Dublin
+Europe/Gibraltar
+Europe/Guernsey
+Europe/Helsinki
+Europe/Istanbul
+Europe/Jersey
+Europe/Kaliningrad
+Europe/Kiev
+Europe/Lisbon
+Europe/Ljubljana
+Europe/London
+Europe/Luxembourg
+Europe/Madrid
+Europe/Malta
+Europe/Mariehamn
+Europe/Minsk
+Europe/Monaco
+Europe/Moscow
+Europe/Nicosia
+Europe/Oslo
+Europe/Paris
+Europe/Podgorica
+Europe/Prague
+Europe/Riga
+Europe/Rome
+Europe/Samara
+Europe/Sarajevo
+Europe/Simferopol
+Europe/Skopje
+Europe/Sofia
+Europe/Stockholm
+Europe/Tallinn
+Europe/Tirane
+Europe/Ulyanovsk
+Europe/Uzhgorod
+Europe/Vaduz
+Europe/Vatican
+Europe/Vienna
+Europe/Vilnius
+Europe/Volgograd
+Europe/Warsaw
+Europe/Zagreb
+Europe/Zaporozhye
+Europe/Zurich
+Europe
+European
+Eustatius and
+Eustaquio
+Eval
+Ñeha'ã
+Evaluated JavaScript
+Evaluated
+Evaluating
+Evangelism
+Even
+Rembiaporã
+Tembiaporã
+Event…
+Every Time
+Every
+Opavave
+ñemosẽ
+Ewe
+Example
+Excellent
+Except
+Exception …
+Exception
+Ta'ãnga ñangarekoha
+Oĩ'ỹva
+Oĩ'ỹva…
+Exchange
+ExecShell &quot
+ExecShell
+Executable
+Execute Menu
+Jeku'e
+Executing s
+Executing
+Execution stopped
+Execution
+Executive
+Existing
+Exists
+Ñesẽ
+Exited
+Exiting
+Expand/Collapse
+Myasãi
+Expanded
+Oñeha
+Mba'epyahu
+Expired
+Expires On
+Expires Seconds
+Ndoikovéima
+Paha
+Explorer
+Mombe
+Export
+Jeguerahauka…
+Exposing chrome
+Exposing
+Express
+Expression
+Expressions
+Expunge &quot
+Expunge
+Extended Telemetry
+Extended
+Extending
+Jepysokue
+Ipikukue
+Pukukue
+External
+Extra Components
+Extra
+Extract
+Extracting s
+Extracting
+Extracting…
+Michĩmimi
+F GB
+F turns
+F/Kañyha
+F
+FAILED
+FALLBACK section
+FALLBACK
+FAQ
+FAQs mongarumeme
+FAQs
+FCC
+FHR data
+FCF
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZApe
+FTP Proxy
+FTP
+FUNCTION
+FW Version
+FW
+FYR
+Facebook Chat
+Facebook
+Faeroese
+Javypyre
+Jejavy
+Failure
+Failures
+Falkland Islands Islas Malvinas
+Falkland Islands
+Falkland
+Fallback Character
+Fallback
+Falling back
+Falling
+False
+Pehẽngue
+hechapýnteva
+Faroe Islands
+Faroe
+Feroés
+Farsi
+Faso
+Fast
+Fatal
+Favorite Folder
+Favorite Folders
+Favorite
+Takate'ỹha
+Fax Number
+Fax
+Feature
+Reheguáva
+Feb
+Jasykõi
+Federated States of
+Federated States
+Federated
+Federation
+Feed Location
+Feed
+Feedback Agent
+Feedback …
+Feedback
+Feedly
+Mbohapeha
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWith
+Hecharamóva…
+Fewer
+Field
+reheguaite
+Fifth
+Fiji
+Fiji
+File System
+Marandurenda
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Filelink
+Filelink…
+Filename
+Files
+Files…
+File…
+Filing Cabinet
+Myanyhẽjey
+Filter Box
+Filter Execution
+Mbogua
+Mboguaha
+Filtering
+Filters
+Finalizing
+Eheka
+Heka
+Finder
+Findings
+Heka…
+kuã
+Kuã rapykuere
+Finish Customizing
+Mbopaha
+Opámava
+Finlandia
+Finlandés
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+First
+Ñemoĩporã
+Five
+Fix Table
+Fix
+Fixed
+Flag
+Flagged
+Flame Chart
+Flame
+Flash embed
+Mba'erendy
+Flatten
+Flexible Space
+nungáva
+Focus
+Ñongatuha
+Folders
+Folder…
+Follow
+Followers
+Following
+Followup
+FollowupTo
+Fond
+Font
+Taity
+Footer
+Footers
+FootinMouth
+Techapyrã
+Force
+Forever
+Forge
+Forgery
+Eguereko hag̃ua
+Ñembyesarái
+Form History
+Form
+Ysaja
+Formatting
+Forms
+Fort
+Fortezza
+Forum
+Forums
+Tenonde
+Tenondeve
+Tenondevegua
+Upeigua
+Forwarded
+Forwarding
+Found
+Fundación
+Four Hours
+Four
+Fourth
+Vi
+Frakkin &apos
+Hovereha
+Frame
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+Kora
+Francia
+Free
+French Southern
+Francés
+Frequency
+Jepigua
+Vie
+Arapoteĩ
+Frisiano
+Friulano
+From History
+From List
+Guive
+Front facing
+Front
+Frown
+Fulah
+avorenda
+Fullscreen
+Fun To
+Fun
+Tembiapoite
+Futuna
+Future
+GB
+GBK
+GC Event
+GC Slice
+GC
+GCLI is
+GCLI
+GDI Library
+GDI
+GData
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+Gabón
+escocés
+Gaia
+Galeon
+Gallego
+Gallegos
+Gambia
+Gambia
+Ñembosarái mboguataha
+Gaming consoles
+Gaming
+Ganda
+Gap from edge of paper to Margin
+Gap from
+Gap
+Garbage Collector Roots
+Garbage
+García
+Gated Crypto
+Gated
+Gaza Strip
+Franja
+Gecko
+Geckoreg
+Geckotrade
+General Notification
+Opavavetépe
+Tuichakue
+Generate a
+Generate
+Generated
+Generating A Private
+Generating A
+Generating aggregate
+Generating
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+Georgia
+Georgiano
+Alemán
+Alemania
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+Ghana
+Gibraltar
+Gives
+Glace
+Global Revived
+Hetakue
+Glorioso Islands
+Glorioso
+Glossary
+Gmail
+Go back
+Go forward
+Ho
+Iporã
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+añe
+Governance
+Grab a
+Grab
+Kokatu
+Gradient is
+ivéva
+Grand
+Grande
+Grant
+Graph Reduction
+Graph
+Ta'ãnga
+Gravatar
+GrayScale
+Jupiha isa'ykangýva
+Grecia
+Greek Windows
+Griego
+Groenlandia
+Groenlandés
+Granada
+Granadinas
+Grid
+Group List
+Aty
+Grouped By
+Grouped
+Grouping
+Jechauka
+Grow
+Guadalupe
+Guam
+Guarani
+Guard
+Guatemala
+Guernsey
+Guess
+Guest browsing
+Guest
+Guayana
+Guinea
+GuineaBissau
+Gujarati
+Gurmukhi MacGurmukhi
+Gurmukhi
+Guyana
+H Line
+H
+HAR
+HError
+HLine
+HPKP
+HREF
+HSLA
+HSTS
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+HTMLMediaElement
+HTML…
+HTTP Cache
+HTTP Networking
+HTTP Strict Transport
+HTTP
+HTTPS URI
+HTTPS
+HW Version
+HW
+HZ
+HZGB
+Hack the
+Hack
+Haití
+Haití
+Halifax
+Handler
+Handling
+Handshake record
+Handshake
+Hang Report
+opytaite
+Happy
+Hard
+Hardware Driver Verification
+Hardware Driver
+Hardware
+Has
+Hausa
+Have an
+Have
+Hawaiano
+Header
+Myakãha
+Heading
+Myakãha
+Health Report
+Health
+Heard Island
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+Hebreo
+Height
+Helena
+Hello World
+Maitei
+Help Start
+Pytyvõ
+Ñepytyvõ
+Helper Application
+Helper Applications
+Helper Threads
+Pytyvõhára
+Helps
+Helvetica
+Here
+Herero
+Herzegovina
+Mba'evai
+Hidden
+Hide Statistics
+Hide Toolbars
+Moñemi
+Moñeni
+Sãmbyhyhareko
+High Contrast
+High
+Highest
+Highgrade
+Highlight
+Highlighting
+Ta'ãngarei
+Hightail
+Hiligainón
+Hill
+Hindú
+Ñemoñe'ẽ
+Hiri Motu
+Hiri
+Histograms Collected
+Histograma
+Tembiasakue
+Jejapoporã
+Hnewsgroup server
+Hnewsgroup
+Ho Chi Minh
+Ho
+rupytypy
+HolidayStatusSuppliersTravelVacation
+Ñepyrũ
+Ñepyrũha
+Óga
+Homepage Get back
+Kuatiarogue mba'eguasuvéva
+Kuatiarogue ñepyrũ
+Kuatiarogue ñepyrũha
+Honduras
+Hong Kong
+Hong
+Honolulu
+Horizontal
+Mohendaharuvicha
+Mohendahavusu
+Moĩmbyre
+Hostname Entered
+Mohendahavusu réra
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+Hour
+aravóntema
+Housekeeping
+How
+Howe
+However we
+However
+Howland Island
+Howland
+Http
+Huge
+Humans
+Húngaro
+Hungría
+m not near
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+t have
+I ii
+I submit information that &apos
+I think I &apos
+I understand
+I
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+ID
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAP Flag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+IP
+IPC
+IPs
+IRC Nick
+IRC Operator
+IRC
+IS
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+ISP
+IV
+Iaposm
+Islandia
+Islandés
+Ta'ãnga'i
+Ta'ãngachu'i
+Id
+Identification
+Identifier
+Identities …
+Identities
+Identity
+okéva
+Ido
+If
+Igbo
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Hejarei
+mamópa
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+Ta'ãnga
+Ta´ãnga
+Ta'ãngakuéra
+ta´ãngakuéra
+Image…
+Import your
+Mba'ereru
+Importance
+Important
+Importing
+Jegueruhína…
+Mba'ereruha…
+Mba'egueru…
+Mba'ereru
+Mba'ereru…
+In Days
+In EHLO reponse
+In Finder
+In Use
+In
+InAutoon
+InBrowserElement
+Inc
+marcado
+Incorporated
+oĩvaíva
+Mbotuicha
+Incremental
+IndexedDB
+Mbopapapy
+India
+Britania
+Hechaukaha
+Indonesia
+Indonesio
+Marandu
+Hejapy
+Init
+Jeikeha
+Ins
+Ma'ẽ'ag̃ui
+Mbohekoha
+Emoañete
+Mohenda
+Oñemohendapyréva
+Oñemohendahína
+Oñemohenda
+Oĩmbáva
+oĩmbáva
+Tekoite
+Ñomongu'e
+Interface
+Interlingua
+Interlingue
+pypeguáva
+Internet
+Eikumbývo
+osóva
+Moñepyrũ
+Inuktitut
+Inupiaq
+Ñemyenyhẽvo
+Irán
+Irak
+Irlanda
+Irlandés
+Isla
+Islas
+Malvinas
+Israel
+Ñohëhára
+nohẽhára
+Chupe
+Italiano
+Italia
+remimoĩ
+Japojey
+JIS
+JIT
+JS
+JSM
+JSON
+JSONP
+Eipurúna
+Jamaica
+Ene
+Jasyteĩ
+Japón
+Japonés
+Jarvis
+JavaScript
+Javanés
+Jaxivo
+Jersey
+Jitter
+Jitterbuffer itapykue
+Jitterbuffer
+Johnston
+Jordania
+Jul
+Jasypokõi
+Jehasa
+jehasa ambuépe
+Jun
+Jasypoteĩ
+K
+KB
+KOIR
+KOIU
+Kannada
+Kanuri
+Kashmiri
+Casubio
+Kazajo
+Kazajstán
+Cocos
+Ñongatuete
+Kenia
+Pe'aha
+Ñe'ẽñemi
+Jehaiha mbojopyru
+Tairenda
+Jehero
+Ñe'ẽ ñemi
+Jehero
+Camboyano
+Khmer
+Kikuyu
+Unido
+Arrecife
+Kinshasa
+Kinyarwanda
+Kirghiz
+Kiribati
+Kirundi
+Kitts
+Klingon
+Komi
+Kong
+Kongo
+Konkani
+Corea
+Coreano
+Kosovo
+Kuanyama
+Kurdo
+Kuwait
+Kirguistán
+Teramoĩ
+Kyta jekuaaukaha
+Francesas
+Oñenóva
+Ñe'ẽ
+Ñe'ẽita
+Ñe'ẽita ha tai mbopapapy
+Lanka
+Lao
+Laos
+Mohendahachu'i
+Tuicha
+Irundy
+Ipaha
+Latín
+Letonia
+Letón
+Ñuaha
+Moha'ãnga
+Ñesẽte
+Líbano
+Asu
+Añetegua
+Leona
+Lesotho
+Sa'ive
+Liberia
+Mba'erysýi
+Libia
+Liechtenstein
+ñemboherapy tapiaiteguáva
+Pururã ára
+Tendy
+Limburgan
+Tairenda
+pukúva
+Lingala
+Joajuha
+Joajuhakuéra
+Tysýi
+Tysýi
+Lituania
+Lituano
+Myenyhẽ
+Oñemyenehẽhína
+Oñemyenyhẽhína
+Omyanyhẽhína…
+Oñemyanyhína…
+Oñemyanyhẽhína…
+Oñemyenyhẽhína
+Oñemyenyhẽhína…
+Pypeguáva
+Ñe'ẽ
+Kundaharape
+Tendaite
+Tendaréra
+Hu
+Tembiapo ñepyrũ
+Hasapy
+Emoñepyrũ tembiapo
+Tembiapo moñepyrũ
+Tembiapo ñepyrũ
+Ta'ãngachaukaha
+tairenda pukúva
+Oñemyesakãma
+Mosãha
+Kañymbyre
+LubaKatanga
+Lucía
+Luxemburgo
+Luxemburgués
+MAC
+MANIFEST
+MB
+MD
+MDN
+Martín
+Macao
+Macedonia
+Macedonio
+Madagascar
+Ñandutiveve
+Malagasy
+Malawi
+Malayo
+Malajo
+Malayalam
+Malasia
+Maldivas
+Malí
+Malta
+Maltés
+oñorairõkuri
+Ñangareko
+ñangarekohápe
+Manifest
+tembiaporenda
+Apohára
+Manx
+Maori
+Mar
+Marathi
+Jasyapy
+rembe
+Tembe
+Marianas
+Marshall
+Marshallese
+Martinica
+Ojueheguaitéva
+Matemática
+Mauritania
+Mauricio
+Jasypo
+May
+Mayen
+Mayotte
+McDonald
+Hupytyha
+Momaranduha
+MediaStream
+MediaStreamstop
+Mbytegua
+Poravorã
+Ñe'ẽmondo
+MessagePort
+Ñe'ẽmondo
+Hupityséva
+Tapereko
+México
+ãnganohẽ
+Microsoft
+Pyharepyte
+Midway
+MinSupportedCPU
+MinSupportedVer
+Momichĩ
+Miquelón
+Lu
+Mobile
+Moambuepyréva
+Moambue
+Ha'ãha
+Moldavia
+Lun
+Mónaco
+Arakõi
+Mongolia
+Mongol
+Rechaharã
+Taijoja
+Montenegro
+Montserrat
+Hetave
+Moreellipsis
+Marruecos
+Motu
+Anguja
+Gueraha…
+Mozambique
+Mozilla
+Mozillaorg
+Jeva
+hekovia
+Kirirĩ
+Mokirirĩ
+Che
+N/A
+NET
+NIST
+NO
+NPN
+NSS
+ẽséva
+Téra
+Namibia
+Mombe'u
+Nauru
+Navajo
+Navassa
+Kundaha
+Ndebele
+Ndonga
+Nepal
+Nepalí
+Ñanduti
+Holanda Países Bajos
+Netscape
+Netscapecfg
+Network
+Ñanduti
+Araka'eve
+Nevis
+Pyahu
+Pyahu
+Tenonde
+Upeigua
+Nicaragua
+Níger
+Nigeria
+Niue
+Nahániri
+Mohendaha
+NodeSet
+Poravopyrãva
+Avave
+Mba'evete
+Ani emboykese
+Asaje
+Norfolk
+Ha'etéva
+Hekoitépeva
+Norte
+Northern Sami
+Norte
+Noruega
+Noruego
+Kuaarã
+ñomi
+Marandu'i
+Ñemomarandu
+Nov
+Jasypateĩ
+Nynorsk
+O
+OCSP
+AMONEĨ
+MONEĨ
+Moneĩ
+OK
+OLE
+OMTC
+OS
+OU
+OVERLAP
+Mba'e
+Ka
+Occitano
+iñambuetaha
+Océano
+Oct
+Jasypa
+Mboguepyre
+Mongepyre
+Nahániri
+Ojibwa
+Omán
+Hẽe
+jeiképe
+Omoneĩ
+Ndi
+Oops
+Ijurujáva
+Jeike
+Juruja
+OpenGL
+Openh
+Puruhakuéra
+jepuruporã
+Optimizing
+jeporavokuaáva ijypykuévaS
+jeporavokuaáva
+Jeiporavorãnguéra
+Jeporavorã
+atyguasu
+OU
+Mohenda
+Jehesape'a
+Ñepyrũha
+Oromo
+Osetio
+ambue
+Ambue
+Ambue…
+Haijo
+Mba'ejára
+P/Galapagos
+P
+PDF
+PDFjs
+PEM
+PKCS
+MONDO
+PREFS
+hekopy
+PacifDebug/Galapagos
+Pacific/Enderbury
+Pacific/Fakaofo
+Pacific/Fiji
+Pacific/Funafuti
+Pacific/Gambier
+Pacific/Guadalcanal
+Pacific/Guam
+Pacific/Honolulu
+Pacific/Johnston
+Pacific/Kiritimati
+Pacific/Kosrae
+Pacific/Kwajalein
+Pacific/Majuro
+Pacific/Marquesas
+Pacific/Midway
+Pacific/Nauru
+Pacific/Niue
+Pacific/Norfolk
+Pacific/Noumea
+Pacific/Palau
+Pacific/Pitcairn
+Pacific/Pohnpei
+Pacific/Ponape
+Pacific/Rarotonga
+Pacific/Saipan
+Pacific/Tahiti
+Pacific/Tarawa
+Pacific/Tongatapu
+Pacific/Truk
+Pacific/Wake
+Pacific/Wallis
+Pack
+Package s
+Package xpi
+mbohyrupy
+Mbohyrupyre
+Packs
+Padding
+Page Direction
+Page Selection
+Kuatiarogue
+Pagequot
+Pager Number
+Pager
+Kuatiarogue
+Pago
+Mbosa'y
+Pair a Device &quot
+Pair a
+Embojoja
+Pakistán
+Pal Who &apos
+Pal
+Palau
+Palestinian Territory
+Palestinian
+Palette
+Pali
+Palmyra Atoll
+Palmyra
+Pan
+Panamá
+Pane
+Panel
+Ta'ãngarupa
+Panes on Startup
+Panes
+PannerNodepe
+Papua New Guinea
+Papua New
+Papúa
+Paracel Islands
+Paracel
+Paragraph format
+Paragraph
+Paraguái
+Parameters
+Mba'aporã
+Parcel
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+Parental
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+PartS
+Partial
+Partially Encrypted
+Partially
+Participant
+Participants
+Parts
+Party Name
+Party
+Pashto
+Password Change
+Password Manager
+Ñe'ẽñemi
+PasswordIf
+Ñe'ẽñemi
+Paste Go
+Emboja
+Mboja
+Pastel Gradient
+mbopo
+Paste…
+Patch
+Patching s
+Patching
+Tape
+Paths from
+Paths
+Paulo
+Pause on
+Pause/Resume/Retry
+Emombegue
+Mombegue
+Mombyta
+Ñemombyta
+Mombytapyre
+mombytapyre
+Pauses the
+Pauses
+Pay
+Payload
+Tepyme'ẽ
+Paz
+jeroviaitépe
+PeerConnection ID
+jeikekõiha
+Pending
+Penh
+Yvypóra
+Percent
+Perform a
+Perform
+Mba'eaporã
+Perhaps the
+d like to
+Perhaps
+Period of Validity
+Period of
+Period
+kuatiahaipyre
+Tapiaitéva
+Permanently
+Permission
+Moneĩ
+Ñemoneĩkuéra
+Permit
+Persa
+Mba'etéva
+Personality
+Perú
+Perwebsite
+Hasapy
+Filipinas
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+Pumbyry
+Pumbyry
+Phonetic Name
+Phonetic
+Photo
+Photograph
+Phrase
+Physical
+Pick
+Picture
+Pedro
+Pilot
+Pin
+Ping
+Mbojapyre
+Ñesa
+Pipelining
+Pitcairn Islands
+Pitcairn
+Pixel
+Plain
+Planner
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Platform
+Play a
+Mboheta
+Ñembosarái
+Playing audio
+Ñemboheta
+Please advance
+Please authenticate
+Please consider
+Please enter
+Please shorten
+mavaite
+Plug a
+Plug
+PlugIns
+Plugin
+Mba'ejoajurã
+Mboguejyrã'i
+Plus
+Voko'i
+Podcast
+PoiQA
+Pointer Lock API
+Points
+Polonia
+Pole
+Policies
+Policy Constraints
+Policy Mappings
+Policy mapping
+Policy
+Polaco
+Polinesia
+Popup Blocking
+Popup
+Ovetã apysẽ
+Popups
+Mbojuajuhaite
+Portable Document
+Portable
+Porto
+Oñembo'ýva
+Portugal
+Portugués
+Tendaite
+Posse
+Possible
+Post
+Postal Code
+Postal
+Posting
+Postpone
+Power
+Powered by
+Powered
+Powershare
+Practice Statement pointer
+Practice
+Pre
+Precondition
+Preferably
+Preference
+Jererohoryvéva
+Jerohoryvéva
+Ojeguerohoryvéva
+Ojehecharamovéva
+Ojererohoryvéva
+Ojerohoryvéva
+Jerohoryvéva…
+Preferred
+Prefers to
+Prefers
+Prefetch
+Prefetching
+Prefix
+Prefixed
+Preformat
+Premature
+Prepackage
+oñembohyrupyréva
+Preparing
+Oñembosako'i…
+Ñembosako'i…
+Present
+Presentation Mode
+Presentation
+Preserve
+Preserves
+Preset
+Presets
+Jopy
+Pressing F
+Pressing
+Prettify
+Pretty Print
+Pretty
+Prevent
+Jehecha ypyguáva
+Previewed
+Previewing
+Preview…
+Previous Session
+Mboyvegua
+Tepy
+Primary Email
+Primed cache
+ipyre
+Primetime
+Primetime
+Princes
+Principal Name
+Principal
+Príncipe
+Embokuatia
+Mbokuatia
+Monguatia
+Ñemonguatia
+Printed
+Mbokuatiaha
+Oñembokuatiahína
+Ñemonguatia…
+Mbokuatia
+Mbokuatia…
+Priority changed
+Peteĩháva
+Privacy Policy
+Añoguáva
+Ñemigua
+Ñemiguáva
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+Ñemigua
+Oñembojeroviavéva
+Privileges
+Privileges…
+Pro
+ére
+Probably
+Probing
+Problem
+ijapytépe
+Proceeding will
+Proceeding
+Process
+Processing
+Mbohekoite…
+Prodigy
+Producer
+Product
+ProductName
+ProductNameInternal
+ProductShortName
+Mba'ete
+Profiler
+Mba'etekuéra
+Program Icons
+Program
+rembiaporape
+Ñepyrũha
+Progress Window
+Akãrapu'ã
+Project Lead
+Apopyrã
+apopyrãnguéra
+Promise Debugger
+Promesa
+Ejerure
+Prompt
+Mba'ejára
+Mba'etee
+Mba'etee…
+Property Declaration
+Property Value
+Mba'etee
+Kakuaakue
+Propose a
+Propose
+Protection
+Protocol Request
+Protocol
+ProtocolSpecific
+Protocols
+Proudlybr
+Provider
+Province
+proxies
+Proxy
+Pseudoelements can
+Pseudoelements ‘
+Mba'epuru gua'úva
+Psst using
+Psst
+Public
+PúblicoKeyPins
+Publish
+Publishing Pages
+Publishing
+Publishing…
+Publish…
+Puerto Rico
+Puerto
+Punjabi
+Purchase for
+Aposéva
+Push Endpoint
+Myaña
+QA UI
+QA
+QName
+QQ
+QR Scan
+QR
+Qatar
+ykeregua oikoitéva
+Qualified
+Quechua
+Query
+Question
+Queued
+Quick Filter
+Quick Launch bar
+Quick Launch
+Quick
+Quickly
+Quirks mode
+Quirks
+Quirky doctype
+ambuechagua
+Esẽ
+Mboty
+Ñesẽ
+QuitS
+ombotypaitéta
+Quota
+Quotation
+Quote
+Quotes
+RAM
+RC
+RDN
+ÑONGATU
+REMOVE
+RETR command
+RETR
+RETURN
+RFC
+RGBA
+RSA Encryption
+ipapapýva
+Teraguapt RSASSAPSS
+Teraguapt
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+RTP
+Radio Button
+Radio buttons
+Radio
+Rainy
+Raise
+rekochagua
+Rankin
+Rate
+Ñehepyme'ẽ
+Ratio
+Raw
+Re
+Reached
+Read
+ReadMark
+Reader &apos
+Reader
+Reading
+Ready to
+Oĩma
+Really fast
+Really
+Rearrange
+Ndojuhúi
+Reasons
+Rebuild Summary
+Rebuild
+Recalculate
+Receipt denied
+Receipt
+Receipts
+Receive
+G̃uahẽpyre
+Japyhypyre
+Ojapyhyhína
+htmlstrongCookie
+htmlstrongTembiasakue
+Angete
+Recently
+Recheck
+Recipient
+Recipients
+Recommended Components
+Jeroviaha
+Jeroviaháva
+Reconfirm
+Reconnect
+Record
+Recording Performance
+Recording
+Jehechapaite…
+Recover
+Recovery Keyhtml
+ñembojevyjey
+Recur
+Recurrence pattern
+Recurrence
+Recursion
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+Redirection
+Rediscover the
+Rediscover
+Redisplay
+Apojey
+Japojey
+Jejapojey
+Reducing the
+Reducing
+Reduction
+Kingman
+Reenter
+Reference
+References
+Referrer
+Referring URL
+Referring
+Yguejy
+Reformat
+Mbopiro'y
+Refused
+Register Locale
+Register Server
+Register
+Registered
+Registering
+Regular Attachment
+ojehechaukapyréva
+Reject
+Rejoin
+Related
+Relation
+Relative positioning of
+Relative
+Relaunch
+Release Notes
+Release
+Releases
+Jehupi jey
+Myanyhẽjey
+Myenyhẽjey
+Remaining
+Mandu'a
+Mandu'arã
+Nemandu'ápa
+Remind Me
+Remind
+Reminder
+Reminders
+Remote Debugging
+Remote debugging
+Okaygua
+Remove channel
+Embogue
+Emboguete
+Mbogue
+Mboguete
+Pe'a
+Ñemboguete
+Oñemboguepyréva
+Removes
+Mboguete…
+Removing
+Renaissance
+Mboherajey
+Ñemboherajey
+Rename…
+Renaming
+Render Mode
+Render
+renderizador
+Rendering
+Renewal
+Reopen
+Repair
+Repeat
+Repeating
+Japojey
+Replace
+Replacement
+Omyengovia
+Replaces
+Replace…
+Replacing
+Replicating directory entry
+Replicating
+Replication failed
+Replication
+Replied
+Reply
+ReplyTo
+Replying
+Replyto Address
+Replyto
+Momarandu
+ReportOnly
+Reporter
+Reports
+República
+Request the
+Request
+RequestMode
+Requested
+Mba'ejerure
+Required
+Requires
+Reread mozcmd
+Reread
+Mondojey
+Ñemondojey
+Resending
+ResentCC
+ResentComments
+ResentDate
+ResentFrom
+ResentMessageID
+ResentSender
+ResentTo
+Reserved
+Mbojevy
+Mbojevyjey
+Moñepyrũ
+Ñepyrũha
+Resets
+Resolution/Quality
+Resolution
+Japopa
+Resource
+Resources
+Responder
+Mbohovái
+Ñembohovái
+Responseclone
+Responsive Design
+Responsive
+Rest
+Moñepyrũjey
+ñemoñepyrũ
+Restarting…
+Mbojevy
+Restrict
+Chi'ĩmbyre
+Restyle Hint
+Restyle
+Results
+Resume &apos
+Ehorei hese
+Ku'ejey
+Resumes
+Retained
+Retention Policy
+Retention
+Retest
+Ehupytyhína
+Retrieving
+Ñemboguejy
+Eñeha'ã jey
+Ha'ãjey
+Retrying
+Guevi
+Retweet
+Atyguasu
+Reverse
+Reversed
+Mboguevi
+Mbojevyjey
+Guevijey…
+Review
+Revision
+Revived
+Revocation
+Revoked
+Rewind
+Rewrap
+Rewriting oldstyle
+Ojehaijey
+RhaetoRomanic
+Rica
+Rich Text
+Rich
+Rico
+Right Click
+Akatúa
+Rightclick
+Rights
+Righttoleft direction
+Righttoleft
+Ringing…
+Rio
+Rioja
+Risks
+River
+Roaming
+Robot
+avara
+Roku
+Role
+Rumanía
+Romanian ISO
+Rumano
+Room
+Root
+Roots Module
+Roots
+Mbojere
+Row
+Rows
+Rule
+Rules
+Ruleset
+Jepuru
+RunAppX
+Running
+Aravo noñemongu'e
+Rusia
+Russian Federation
+Rusiagua
+Ruso
+Ruanda
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+S
+SASL bind
+SASL
+SD
+SPD
+SE
+SECG elliptic curve sectr
+SECG
+SECURITY
+SEE THIS STRING
+SEE THIS
+SEE
+SETTINGS
+SFailed to
+SFailed
+SHA Digest
+SHA Fingerprint
+SHA
+SHOULD
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+SKB
+SMB of
+SMB
+SMTP &apos
+SMTP&apos
+SMTP
+SMTPAUTH
+SOCKS Host
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+PYTYVÕPYRE
+SQL Statements
+SQL
+SQLite
+SRV
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+STRING
+STouch
+ÑEKUÃ
+SVG clipping
+SVG
+SW Asian
+SW
+MOAMBUE
+SYSTEM
+S_marandurenda
+Sa
+Saba
+Sad
+Safari
+Safe Mode
+Safe
+SafeBrowsing
+SafeMode
+Sáhara
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+Santa
+Salaam
+Salem
+Salvador
+Same
+Sami
+Samoa
+Samoano
+Sampled
+Techarã
+San Marino
+San
+Sandbox
+Sandboxing
+Sandwich
+Sango
+Sangro
+Sanitize
+Sanitizing
+Sans Serif
+Sans
+Sánscrito
+Sans Serif
+Sansserif
+Santa
+Santo
+Sao Tome and
+San Tome
+Sao
+Sardinian
+Sass
+Sáb
+Arapokõi
+Saudi Arabia
+Arabia
+Save Permissions
+Eñongatu
+Ñongatu
+Saved
+Ñongatu
+Saving
+Mbyatykuaa…
+Oñeñongatuhína
+Ñongatu…
+Ojejuhúma
+Jejupi
+Scale …
+Jupiha
+Scaled
+Scaling
+Scam Warning Take
+Scam
+Scams
+Moha'ãnga
+Scanner app
+várra
+Scanning for
+Scanning
+Scheduling
+Scheme
+Hupytyha peve
+Score Origin
+Score
+Scots
+Scottish Gaelic
+Gaélico
+Scratchpad Enter some
+Jehaipy rendag̃ua
+Mbogueha
+Screen Orientation
+Screen reader
+Mba'erechaha
+Screenname
+Mba'erechaha japyhy
+Mba'erechaha japyhypy
+Ta'ãnga japyhy
+Ta'ãngakuéra
+Script
+Scripts
+Scroll
+ScrollLinkedEffects
+Scrolling
+Sd
+Sdays
+Coral
+SeaMonkey
+SeanMartell Available
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Heka
+Jeheka
+Searches
+Searching &apos
+Searching
+Ehekahína…
+Heka
+Heka…
+Seccomp Thread Synchronization
+Seccomp Thread
+Seccomp
+SeccompBPF System
+SeccompBPF
+Second
+Secondary Email
+Secondary
+Seconds
+Sections
+Secure
+Securing connection
+Securing
+Security Exception
+Tekorosã
+Hecha
+Poravo
+eiporavo
+Selected Frame
+Selected Tabs
+poravopyre
+SelectedRemove Selected
+SelectedRemove
+Selecting
+Jeporavo
+Selector
+Selectors
+Select…
+Tepyete
+Self Sampled
+Self Time
+Mboherapy
+Selfclosing syntax
+Selfclosing
+Selfposting
+Send Verification
+Send a
+Mondo
+Sender
+Omondohína
+Sends a
+Sends
+Senegal
+Ñanduha
+Sent &quot
+Mondopyre
+Sep
+Separate _
+Separate tags
+Separate
+Separated
+Mopa'ũha
+Mopa'ũha
+Sepia
+Jasyporundy
+Serbia
+Serbio
+Serial Number
+Serial
+ojuapykueriguáva
+Serif
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+Server settings&apos
+Mohendahavusu
+Mohendahavusu
+epuruguáva
+ServiceWorker
+ServiceWorkerAllowed
+Mba'epytyvõrã
+Tembiapo
+Sessions
+Set Up Sync &quot
+Set this channel &apos
+Mboheko
+Setting
+Settings &#124
+Ñemboheko
+Ñemyatyrõ
+SettingsA
+Ñemboheko…
+ñemohendágui
+Seven
+Severy
+Seychelles
+Sh
+moypytũha
+Shading
+Shallow
+Moherakuã
+Shared
+Sharing Indicator
+Emoherakuã
+Sheet
+Shift _ JIS
+Shift _
+Mayús
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+Shona
+Ñemuhaguasu
+Short
+Shortcut
+Shortcuts
+Shot
+epa
+Show/Hide
+Chaukaha
+Hechauka
+Techauka
+Showing
+Shrink To Fit
+Shrink
+Mboty
+opapotaitémava
+Shutting
+SiInEfate
+Joyke'y
+Sichuan Yi
+Sichuan
+Ta'ãngarupa yke
+Tenda yke
+Varrakuéra yke peguáva
+Sierra Leone
+Sierra
+Sign
+Signature
+Signed
+oñemboheraguapyva
+Oñemboheraguapy
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Simple
+mombykypyre
+Simplify
+Simply
+Simulate touch
+Simulate
+Ra
+ãngahára
+Ta'ãngahára
+Since
+Sindhi
+Singapur
+Cingalés
+Sinhala
+Siswati
+Tenda
+Tendakuéra
+Tuichakue
+Slavic
+Slice
+Eslovaco
+Eslovaquia
+Eslovenia
+Esloveno
+I
+Sm
+Michĩ
+Sms
+Moingeha
+Soft tabs
+Soft
+Software
+Salomón
+Solon
+Somalí
+Somalia
+Heta
+Songhay
+Serbio
+Mohenda
+Sotho
+Teñoiha
+Sudáfrica
+Sur
+Sur
+Pa'ũ
+Space
+España
+Español
+Change
+Speculative
+Pya'ekue
+Spratly
+x
+Spx
+Sri
+Ss
+Mbojo'apy
+Heseguaite
+Eñepyrũ
+Moñepyrũ
+Ñepyrũ
+Oñepyrũ
+Oñepyrũhína…
+Ñemoñepyrũ…
+Ñepyrũha
+Tekotee
+Je'etepyre
+Estados
+mbopapapykuaa
+Tekotee
+Epytaite jeiképe
+Pytaite
+Epyta
+Jejoko
+Joko
+Pyta
+Jokopyre…
+Ñongatuha
+okañypyréva
+Pyso
+Tekorosãite
+StrictTransportSecurity
+Jokuaha
+Sã
+juajuha
+Gaza
+Oñembohetepyre
+Mba'eichaguápa
+D
+Je'epohyivore
+Mba'egua
+Mba'eregua
+Mondopyre
+Eñemboheraguapy
+Mboheraguapy
+Subsys
+Po'aite
+Tandepo'aite
+¡Hu'ãporãma
+Sudán
+Ñe'ẽpehẽ mboyvegua
+Ñemoñe'ẽ
+Mombyky
+Dom
+Sudanés
+Arateĩ
+Myengoviapyre
+Supplement
+Ñepytyvõ
+Suriname
+Terajoapy
+Svalbard
+Swahili
+Swazilandia
+Suecia
+Sueco
+Jehasa pe
+Moambue
+jehasape
+Suiza
+Canadá
+Mbojuehe
+Sync
+Oñembojuehehína
+Pe ñembojuehete…
+Momirĩ
+Siria
+Systems
+S×
+S×S
+TCP
+TIP Embojuaju
+TIP
+Jehechakuaaite
+TVs
+Tendayke
+Mba'erenda
+Mohendahachu'i
+Tendayke
+Tendaykekuéra
+Teramoĩ
+Tagalog
+Teramoĩ
+Tahití
+Taiwán
+Tajik
+Tayikistán
+Tamil
+Tanzania
+epoko
+Hupytyrã
+Tatar
+Tech
+Telemetry
+Telugu
+plantilla
+Sapy'aguáva
+Oñembopahahína
+Índicope
+Moñe'ẽrã
+Ju
+Tailandés
+Tailandia
+Aguyje
+rehasa
+Mokõivéva
+Kuaapyrã
+Mba'erehegua
+Téma
+Kóva
+Jue
+Mba'emirĩ
+Arapo
+Tibetano
+oikoporã
+Tigre
+Tigrinya
+Verapy
+Ára
+Tairenda aravo rehegua
+Ára papaha
+Ára rehegua mbosa'y
+Ára
+Timor Oriental
+Michĩva
+ẽkuaa
+Teratee
+Tobago
+Ko árape
+Moambue
+Mongu'eha
+Togo
+Tokelau
+Hecharãnte
+Tonga
+ojapóvo
+Renda
+Tembiporu renda
+herramientasKundaha
+Tembipuru
+Yvatevéva
+Jepoko
+rehe jeguata
+Jehaipy
+Tapykuereho
+Mbohasapyréva
+aréiva
+Ñe'ẽasa
+Ñe'ẽasahára
+Transport
+Trinidad
+Tristán
+Tromelin
+Apañuái ñemyatyrõ
+aréitava
+Tsonga
+Tswana
+Ma
+Mar
+Araapy
+Túnez
+Turquía
+Turco
+Turkmen
+Turkmenistán
+Turcas
+Emyendývo
+Tuvalu
+Twi
+Mba'eichagua
+Peteĩchagua
+Peteĩchagua
+UID
+MBOGUEVI
+OJEKUAA'ỸVA
+URI
+Kundaharape
+URL
+poguýpe
+USB
+mbopapapýpe
+Uganda
+Uighur
+Ucrania
+Ucraniano
+Mongurusu'o
+Jojuha Jehaiguy
+Jojuha
+Mboguevi
+Mbojevy
+Unescape
+momaranduhára
+Unicode
+Emoñepyrũ'ỹre
+Jeipe'aite
+Ojepe'aitehína
+ñembohekokatu
+Reino Unido
+Ojeikuaa'ỹva
+Ojekuaa'ỹva
+Unknown
+Jehejaite
+Mboguejy
+Kirirĩ'ỹva
+Mba'epu mbojevy
+mondoho
+Haipy hejarei
+Jehechapaite jeheja
+Mohenda'ỹva
+ndojokupytýiva
+Ojepuru'ỹva gueteri
+Ndojehechajeýiva
+Yvate
+Mbohekopyahu
+Mbopyahu
+Ñembohekopyahu
+Mbohekopyahu
+ñemyenyhẽ
+Serbio superior
+Serbio
+Urdu
+Uruguay
+há
+Puruhára réra
+Using
+Uzbek
+Uzbekistán
+V
+OIKÓVA
+VERSION
+VK_F
+VK_QUOTE
+VK_SEMICOLON
+VK_SLASH
+Oĩporãva
+mboaje
+Ñemboaje
+Oikóva
+Hepykue
+Tepy
+Tepykue
+Tepykue
+Vanuatu
+Moambueha
+Ciudad
+Venda
+Venezuela
+Verde
+jehechajey
+reha
+Jehechajey
+Ojehechajeyhína
+Ojehechajey
+Apopy
+Peteïchagua
+Peteĩchagua
+joajuhápe moypytũha
+Ta'ãngamýi
+Ta´ãngamyi
+Vietnam
+Vietnamita
+Hecha
+kuaapyre
+Tapichakuéra
+Viewport
+Hechaha
+Hecha…
+Vicente
+Vírgenes
+Jeho
+hechapy
+Jurupu
+Volapük
+Mbopuha
+Jesarekorã
+WS
+Eha'ãrõ
+Oha'ãrõhína
+Oha'arõhína…
+Oha'ãrõhína…
+Wake
+Wallis
+Valón
+Emomarandúrõ
+Jesarekorã
+Jesarekorã
+Jesareko
+Aravopapaha
+Yje'a
+Mi
+WeakMap
+Web
+WebGL
+WebIDE
+WebIDL
+WebRTC
+WebSockets
+Webmaker
+Ñanduti renda
+Mié
+Ararundy
+Arapokõindy
+Tereg̃uahẽporãite
+Galés
+Banco
+Occidental
+oñemoñondivekuévo
+karéi
+WiFipe
+Widevine
+width
+Win
+Ovetã
+Windowopen
+Windows
+ipapapýva
+Rupive
+pytyvõhápe
+Wolof
+Mba'eapo
+Ñemyatyrõ sapy'agua
+Mba'apohára
+Mba'apoharakuéra
+Mba'apohára
+Heta tairendápe ñeime moneĩ
+sistemas
+Ojehaíma
+X
+oikovaíva
+XHR
+XHTML
+XML
+XMLHttpRequestpe
+XPCOM
+XPConnect
+XPath
+XSLT
+XUL
+Xhosa
+Yemen
+Héẽ
+Hẽe
+Kuehe
+Yi
+Judío
+Yoruba
+Nde
+angirũ
+Zambia
+Zelanda
+Zhuang
+Zimbabue
+Tuichakue
+Zulú
+momichĩpyre
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+requestAnimationFrame
+a rich
+a scam
+a searchable
+mokõiha
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+a surprised
+a surrogate
+syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+a week
+a windowed
+a wink
+a year
+a yelling
+pete
+reipotahaichaite
+aFrames
+aEikuaáke
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+ndohayhúi
+abilities
+nderesaráiramo
+abort
+aborted
+about About
+about Networking
+about Us
+about brandShorterName
+ãvare
+aboutconfig
+aboutcredits
+aboutrights
+aboutwebrtc
+above
+aboveAllow
+abruptly
+absence
+absolute positioning
+absolute
+accel
+accelalt
+acceleration on
+acceleration
+accelshift
+accented
+accept
+acceptable
+acceptcharsetutf
+ndoguerekovéima
+accepting site &apos
+accepting
+access Key
+access multimedia
+oikévo
+accessed
+accessibility support
+accessibility tools
+accessibility
+oikekuaahápe
+accessing
+accidental breakage
+accidental
+accompanying
+accomplished
+accordance
+according
+account &apos
+account Actions
+account connected
+account name
+etáva
+accountManagernewAccountlabel
+accounts
+accuracy
+accurate
+acknowledges
+across
+apopy
+action
+actions
+activate
+oñemyandy
+active Logins
+active
+activity Indicator
+activity Stream
+su
+actual Size
+actual
+
+actualDate
+actuarial
+adaptive
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+Embojoapysépa
+addEventListener method
+addEventListener
+mbojoapypyre
+embojuapykuévo
+ykepeguáva
+additivesymbols descriptor
+mbojahápe
+addon &apos
+addon
+addons gallery
+poreka
+addonsmozillaorg
+address Autocompletion
+address Fields
+address isn &apos
+address wasn
+ikatáma
+addressbook
+addressbr
+addresses
+addressing area
+addressing
+adjacent
+adjust
+admin
+administrator
+adult supervision
+adult
+advance
+advanced JavaScript
+opátamava
+advanced_pref_installation
+advancelabel
+advertise
+advertised
+advertises
+affect
+affected
+affecting
+after Sending
+ãramo
+omboguejývo
+age
+agent
+aggregate
+aggregates
+aggregating
+aggregator
+iojapóma
+agree
+agreement
+airplane
+aka NIST
+térã
+alatest
+alert description
+cháke
+jesareko
+algorithb
+algorithm Parameters
+algoritmo
+algorithmhash value
+algorithmhash
+algorithms
+alignment
+alined
+alive
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+opaite
+allocate
+ombohéra
+pyrusu
+allocations Rate
+mboherapyre
+allow dialogs
+allow immediate
+Emoneĩse
+Emoĩporã
+allowfullscreen
+Emoambuesépa
+allows
+allowsameorigin
+allowscripts
+almost
+along the Y
+along
+alphabetical
+Mongurusupyre
+oñemoguahẽma
+also gives
+also skip
+License
+altKeylabel
+alter
+alteration
+altered
+hagua
+alternatives
+always Ask
+always Block
+always prefer
+Araka
+am &#124
+am
+amount
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+Oĩvaerã
+analysis
+analyze
+ancestor elements
+ancestor
+ancestors
+anchor &apos
+anchor
+anchors
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+and Herzegovina
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+and can &apos
+and compact
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+and
+angle
+oñemoingovekuaáva
+tetia
+animation cycle
+ñemokyre'ỹ
+animations
+annually
+anonymous box
+jekuaa'ỹva
+another
+answers
+antivirus software
+antivirus
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+kuaáiramo
+anymore
+anyone
+anypolicy
+anything
+anyway
+anywhere
+apart
+s
+app submission
+gotyove
+appName
+appear
+appearance wrong
+appearance
+appears
+emoirũ
+applicable service
+oñembohysýi
+application Basics
+application Details
+application doesn &apos
+rembipuru'i
+applications
+oñemopyendáva
+applies
+apply
+applying update
+applying
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+approved
+approx
+approximate line
+reime
+approximation
+apps &apos
+ndoipe
+apr &#124
+apr
+april
+arbitrary
+archive
+archived folders
+archived
+archives
+archiving
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+remba
+area shape
+ërä
+areas in
+areas
+aren &apos
+aren
+ehakotyrãnguéva
+arguments for
+arguments
+arising out
+arising
+arjo
+armscii ISO ISO ISO
+armscii
+around
+arrive
+arrived
+arrives
+arrow
+arsa
+article summary
+pehẽngue
+articles
+artwork
+as &apos
+Apoháraramo
+as broken
+CURLramo
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+ỹháramo
+ascending
+ascii
+ash
+asis &quot
+asis
+ask me
+ndéva
+asked questions tips
+asked
+neñesẽ
+asks that
+asks
+aspect ratio
+aspect
+aspects
+assets
+assist you
+assist
+assistance
+avave
+ñemoirũ
+assume
+assured
+asterisk
+async touch
+async
+asynchronous Pan
+asynchronous entity
+asynchronous
+asynchronouslyloaded
+at S
+at least
+at span id &apos
+jajuhu
+atchMore than
+atrule
+attach
+attached
+attaching
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+attachment
+attachmentDo
+attachments
+attack An
+attack pages
+attack
+attacker could
+attacker
+omondávo
+attacks
+neñeha
+attempted old
+omyenyhẽsemo
+attempting
+attempts
+attend
+attendance
+attendee
+attendees
+attention
+attribute Type
+eporurã
+ textContent
+attributes
+audio Backend
+henduha
+aug &#124
+aug
+august
+authenticate to
+omboajete
+proxiespe
+authentication mechanism
+authentication
+authenticity
+author
+moaka
+authority is
+omboajepyrekuaáva
+authorization
+authorized
+authors whom
+authors
+auto Increment
+auto Prettify
+auto Save
+auto discover
+auto
+autoAddOnsUpdateslabel
+autocomplete
+ñemoĩmbajehegui
+autodetection
+autofill
+automated updates
+Embogue
+automatic updates
+automatic
+Black Box
+automatically detects
+automatically prefill
+automatically so it &apos
+automatically
+automation
+autoplay
+autoscrolling
+available &quot
+available Commands
+ekuaarãme
+mbytegua
+avg
+avoid
+aware
+mombyrýgui
+axis
+bpe
+bEven
+bS
+back facing
+Tapykuévo
+backed up
+backed
+backfacevisibility hidden
+backfacevisibility
+background
+backlogged
+backslashes
+ñongatuguypyrépe
+backups
+backwards
+bad parameter
+uahẽkuri
+badge
+baggage object
+baggage
+ban
+banks stores
+banks
+banned
+marandurã
+bar
+barada
+topyta
+hekorosãrã
+baseline
+basic Page
+basic
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+ẽveve
+bear the
+bear
+beast
+beasts brought emfire
+beasts
+moporãha
+beautify
+became full
+became
+ndaikatúigui
+become
+becomes damaged
+becomes
+been deactivated
+been navigated
+been reestablished
+been replaced
+been revoked
+been transferred
+been translated
+nerembiapo
+beep
+before
+began
+iñembojuehe
+beginning
+begins with
+begins
+epyahúva
+omyaty
+behaviour
+Nepytyvõ
+being incompletely transferred
+being redirected
+being reparsed
+tapicháre
+believe
+believed
+belongs to
+isevahína
+reipurukuévo
+benefit
+benefits
+beside
+Ojueheguaitevéva
+best accomplished
+iporã
+iporãveháicha
+between
+bfor Android
+bgt
+bidirectional
+big
+bigger
+billing
+binary
+bind DN
+bind
+binding shadows
+binding
+bindings tag
+bindings
+bird
+birdcage …
+birdcage
+birth
+bit keys
+bit
+bitrate
+bits
+bitten
+yru
+nandi
+block Lists
+block padding
+tendaitépe
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+ojejokómakuri
+blocking
+blocks parts
+Tapykuerigua
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+body
+book
+bookmark updated
+bookmark
+bookmarked
+techaukahakuéra
+books
+hẽe/nahániri
+bootloader
+border &apos
+border radius
+Tembe'y
+borders
+bot
+both
+tugua
+bound
+boundaries
+oikétarõ
+box Model
+box model region
+box model
+mba'yru
+tyru
+boxcom
+oñembohasáva
+boxes
+hũramo
+br
+brace
+braces
+brackets
+brand new
+brand profile
+brand
+brandFullName Credits
+brandFullName
+brandShortName &apos
+brandShortName Preferences
+brandShortName logo
+brandShortName
+brandShorterName Tour
+brandShorterName
+brandShortname
+break
+oikoreíva
+breaking
+osokuaaha
+osokuaahápe
+ojoapykueriguávagui
+iporãve
+bring
+broad
+broken
+brought
+tembiasakuéva
+browser &apos
+browser Hangs
+browser configurations
+ysyry
+browsercachediskenable to
+browsercachediskenable
+browsers
+kundahakue
+brulliIf
+bot
+buddy list
+buddy
+budget
+buffer capacity
+búfer
+bug
+bugs visit
+bugs
+bugzillamozillaorg
+build Configuration
+ñemono
+building summary
+oĩhápe
+builtin Roots
+builtin tools
+oñemyenyhẽma
+bulleted list
+bulleted
+tembiapohápe
+busy
+but we
+hákatu
+button button
+votõ
+buttons
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+by integrating
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+ehóvo
+bynbspdesign
+byte
+bytes
+c
+cSrS
+cURL
+cache management
+kache
+cachecontrol set
+cachecontrol
+cache
+cachemanifest
+caching of
+caching
+calendar Weeks
+calendar
+calendaring information
+calendaring
+calendars
+calendartimezonesxpi
+call Stack
+call calls
+ñehenói
+callUrl
+oñemboguétama
+called &apos
+puruhárante
+callees
+caller
+calling detach
+calling
+Ñahenói
+ãnganohẽha
+t confirm that
+can analyze
+can collect
+can often
+can ’
+can
+cancel
+canceled Occurrences
+ohejarei
+cancellation
+cancelled
+cancelledAddon
+candidate resources
+purupykuaáva
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+cannot
+canvas Debugger
+canvas an
+aorã
+capabilities
+capable
+capacity
+porãrã
+teratee'i
+capture
+captureEvents
+captured log
+captured
+ãngávape
+cards copied
+cards etc
+cards
+care
+careful
+carefully
+caret
+carriage return
+carriage
+carrier
+case sensitivity
+taimichĩre
+caseinsensitive
+cases
+cast
+categories
+categorize and
+categorize
+category
+categorySource
+cause
+caused
+causes
+causing stability
+kuaágui
+caution
+caveats
+cc
+cd
+cell border
+cell was
+mba'e'i
+tenda'i
+cells
+cellular location
+Locación
+census
+center footer
+center header
+mbytépe
+centered
+centerxcenteryradius
+centimeters
+cert AIA
+cert Library
+cert validation
+ojeikeha
+rekovia
+certificSian
+ẽhare
+oñemboúva
+ch
+oñemoambuévo
+t
+taípe
+ojepuruva
+jehechajey
+jeporavopyre
+poravopyre
+heñoipyréva
+reiporavóre
+eiporavóva
+chrome
+suite
+circ
+mboapu'a
+hostname
+class
+Hesakã
+mopotĩpyre
+ojejopy
+ñemboajete
+ag̃ui
+oñemboty
+ñemboty
+ijayvu
+codebreakpadreportURL
+codec
+codecs
+colgroup
+momichĩmbyre
+oñemomichïva
+embyaty
+Noñembyatýi
+ono
+ñembyatypy
+sa´y
+tee
+yta
+ytakuéra
+ẽiramo
+ẽpohýi
+temimo
+commit
+Hetáva
+ojoajukuaa
+rekoha
+emoñondive
+Oñembohepyahúta
+moĩmbaharä
+noĩmbamo
+ypegua
+ndoguerekokuaaiha
+reikévo
+Oñembojuaju
+Mbohekokuaáva
+mbohekorã
+ñembohekpyre
+ejoguarã
+iháicha
+ejeroviaguasu
+ojoapykueriguáva
+Ikatýpiko
+okarupáre
+consolewarn
+consolelog
+rehegua
+consoleinfo
+ijyvateterei
+ẽmína
+guerekoha
+pypegua
+tetepy
+jereguávare
+Pururãva
+rehoreihese
+ojeku
+reku
+okueve
+pytyvõharakuéra
+ñandutiguáva
+urãbr
+cookie
+mbohasapyréva
+Ñembohasapy
+rireve
+ndaijeroviakatúi
+t move crash
+Papa
+Jekuaaukarã
+rechapýva
+cpnbv
+cpnbw
+peguávaMarandu
+ombeti
+emoheñói
+createMediaElementSource
+createMediaStreamSource
+Heñoipyre
+Mbohapeha
+terachaukaha
+na
+CrossOrigin Request
+CrossOrigin
+css
+agagua
+SECG
+ombojurujávo
+Kytĩ
+jereguágui
+oñemoambue
+d
+da
+ombyai
+kyhyjerãva
+pytũetépe
+Jeroviaha
+ekuaarã
+datareporting
+arange
+áraára
+ohasaramovéva
+Juan
+Dead Global
+ñemyesakä
+ãiha
+ojepyta
+Oñeikumby
+pyre
+okuévo
+ojepapapy
+Ndaipóri
+osévo
+emomichĩve
+omyesakãse
+ijypykuépe
+ijypykuévaS
+repykuépe
+he'iséva
+oĩmbyréva
+grados
+reñongatusérõ
+omboguetéta
+ñemboguepyréva
+kañyha
+hetavéva
+ojepuruve
+emimíme
+tembipurukuéra
+developersmozillaorg
+okaguáre
+okakuéra
+ta'ãnga'apo
+ñomongeta
+ndeguerahátava
+ẽpu
+ẽryru
+Ikatumba
+t
+apañuai
+omohendáva
+heraguapy
+apete
+Jepe'aite
+ñemongepyréva
+ndoikopái
+ndoku
+discope
+Oñembohekova
+ñembogua
+ẽnguéra
+oñemyasãi
+myasãiharakuéra
+div
+Repe
+docs
+doctype
+kuatia
+Kuatiaita
+Kuatiaita
+documentdomainS
+cut
+documentexecCommand
+rendaguápe
+t know
+ekuaajey
+tendatee
+árbol dominador
+árbol
+t
+reikũmby
+oñemboguejyhína
+Ñemboguejy
+embotyryry
+fotograma
+momokõiva
+dwndiagstrike
+e
+peteĩteĩva
+ndahasyive
+ítava
+ñembosako'íva
+Eñepytyvõve
+eight
+eightbit
+eighteen
+eighteenth
+eighth
+either
+elapsed
+elea reime
+mba'epuru
+elementdataset
+elementdataset
+elements
+elementsetAttribute instead
+elementsetAttribute
+elementsetAttributeNS instead
+elementsetAttributeNS
+eleven
+eleventh
+eligible
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+primev
+elliptic curve
+elliptic
+else contact
+else
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+ñandutiveve
+emailI &apos
+emailI
+emailed
+emailexamplecom
+emails
+emand
+embarrassed face
+embarrassed
+embarrassing
+embed
+embedded PDF
+embedded
+embeds
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributor
+emcontributorJoe Solon
+emcontributorMozilla
+emcontributorSuzy
+emtata
+emgreat
+emnew
+emother
+emoticons
+employer
+empty Trash
+empty slots
+monandi
+emptying
+emreborn
+emrenewed
+emswiftly
+emthunder
+emikõiva
+emulate a
+emulate
+emulating a
+emulating
+emulation
+en
+enUS en
+gn
+enable brandShortName &apos
+enable others
+enable worker
+mbojuruja
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+Hendypyre oñemboykehápe
+hendýmava
+enables
+enbz
+moirũmby
+ndivegua
+encode
+encoded
+mbopapapyha
+encoding
+encodings
+encountered
+encrypt this
+encrypt
+encrypted you
+guerahakuaa
+encryption
+enctype instead
+enctype
+enctypeS
+enctypemultipart
+end user &apos
+mbotyguáva
+ended
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+ends
+jejapoite
+engage
+ojuajúma
+engines
+enhanced
+vy
+enlarging the
+enlarging
+enough
+ehechaporãke
+ensures that
+ensures
+moinge
+entered
+entering
+enters
+nerembiaporãme
+entirely
+entities
+entity in
+entity reference
+entidad
+entries
+jeikeha
+Ipapapykuaáva
+enus
+environment Data
+environment
+environments
+ñemigua DiffieHellman
+ephemeral
+equals sign
+equals
+ekuasiõ
+equestAnimationFrame
+era of
+erase
+error console
+error creating
+error refiling
+javy
+errorCode
+errorfree
+jejavy
+erver
+es Salaam
+es
+esES
+esc
+nokañýiva
+escaped
+escaping
+establish
+established
+estimates only
+oñemboujeýva
+etc
+eval
+evaluate selected
+evaluate
+evaluating a
+evaluating an
+ỹijose
+evaluation
+even
+event Handler
+ojapova
+eventThe
+oikotevẽkuaa
+ever
+every dayevery
+every weekevery
+ipype
+everyone
+everything inbetween
+everything
+everywhere
+exact
+ẽsetévante
+examf
+examine your app &apos
+iguypeguápe
+techapyrã
+examplecom rather
+examplecom
+examplenet
+exceed five
+exceed the
+exceed
+exceeded
+exceeds
+except
+exception
+exceptions Cookies
+exceptions
+exchange
+jehechahágui
+oñemboykehápe
+ñomoneĩriva
+executable
+execute
+executed to
+executed
+executes
+execution
+exemplary
+exist can &apos
+exist
+oĩvavoi
+exists
+existsWould
+exit
+exited
+exits
+expand panes
+myasãi
+expanded to
+myasãimbyre
+oñemyasãiva
+expanding out
+expanding
+expands to
+expands
+expandstrict
+expect anonymous
+expect
+expectations
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+arõkuri
+arõi
+iñakãpu
+experienced
+experiences
+experiencing
+experiment
+experimental
+experiments
+expire
+Ndoikovéimava
+expires Seconds
+iñarange
+ndoikoveitaha
+explicit
+explicitly specify
+explicitly
+ombokapukuaa
+explore a
+explore
+export regulations
+export
+exported
+expose
+exposedProps
+express
+expression
+uíva
+extend
+extended
+Embopuku
+Jepyso
+extends system
+extends
+ipukuvekuaáva
+extension extensions
+jepysokue
+extensions
+external Editors
+external storage
+ojepurúramo
+Tuicharasáva
+extra requirements
+extra
+extract error
+Guenohẽ
+extraction error
+extraction
+extreme
+f
+face
+facing camera
+facing
+factory
+DevToolspe
+oikovai
+fails treat
+úiva
+ỹijópe
+ijyvatevehápe
+Gua'u
+añete'ỹva
+gua'u
+familiar
+family addressbr
+rogayguakuérape
+far
+fast
+faster
+faves
+faxed
+ẽrãre
+features
+feb &#124
+feb
+february
+feed &quot
+feed Subscriptions
+ñemongaru
+feedImported
+feedback
+feeds
+feel
+feels great
+feels
+fell
+fence
+fetch count
+fetch
+fetched from
+fetched
+fetching individuals
+fetching more
+fetching
+few
+fewer
+ff &quot
+ff
+field Value
+Ñu
+fields
+fifteen
+fifteenth
+fifth
+yva
+hetakue
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+marandurenda
+filename
+files
+filesystem
+filing
+fill out
+fill
+fillStyle
+filled
+noimbái
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+Mboguaha
+filtered
+filtering
+filters
+final
+financial
+find In
+find exactly what you &apos
+find out what &apos
+juhu
+findbar
+finding
+finetuned
+jejopýpe
+finished evaluating
+finished
+finishing
+fire
+firefox
+firefoxapps
+firewall
+firewalls
+first option
+first party
+eñongaturaẽ
+fit
+five
+romyatyrõ
+fixed Width
+fixed width font
+display
+fixvideoaudioproblemsfirefoxwindows
+flag
+flagged
+flame
+flash
+flashing
+flat equation
+ekuasiõ
+flexibility and security so you &apos
+flexibility
+flexiblebr
+floating &quot
+floating
+floor
+floppy
+flr
+focus Variables
+focus
+focused
+folder &apos
+folder &quot
+folder subscriptions
+folder
+folders
+ndohapykuehomo
+followed by
+followed
+followers
+following protocols S isn &apos
+upeiguágui
+follows
+followup
+font Control
+font size
+font
+fontface rule
+fontface
+fontfeaturevaluespe
+fonts for
+oñembopapapypyréva
+fontvariant property
+fontvariant
+pýva
+kuatiarogue guy gotyo
+kuatiarogueguy pegua
+footinmouth face
+footinmouth
+for &apos
+for &quot
+for Clearing
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+momichĩmbyre
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+for privileged
+for quotbm
+for recipients &apos
+for signing
+for writing
+ãrõhína
+forbidden
+oñehenói APIpe mbaretépe ombyaty
+oñembyatyjey
+forcibly
+forcing all
+forcing
+foreign
+forgeries
+forgery
+Eñembyesarái
+forgetting
+forgotten
+form Field
+form Post
+form fields
+form userhost
+ysaja
+ysajápe
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+formatSNew
+formats
+formatted as
+formatted
+formatting
+formdata on
+formdata
+formed
+forms are
+myanyhẽha
+forth and
+mombyryve
+forums
+forward slashes
+forward
+forwarded
+forwardmsg
+forwards
+ojejuhu
+foundout of
+foundout
+founds
+four
+fourteen
+fourteenth
+fourth
+fox jumps over your expectations with
+fox jumps
+fox
+fps
+frFR
+frac
+pehẽngue
+Pehẽngue moypytũha
+fragment
+frame &apos
+frame
+framed
+framerate
+frames
+frameset
+framesets
+framing
+fraud
+fraudulent
+ẽreíva
+frequently
+fresh
+friday &#124
+friday
+fridays
+friend
+friends
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+pe
+pegua
+re
+front facing
+front
+frown face
+frown
+opytaitéva
+ftp
+ftpmyispcom
+full
+fullfeatured
+fullpage
+fullscreen
+fully
+évagui
+functional
+functionality
+functions
+further
+future scans by
+future
+fxp Available
+fxp
+gain
+oĩháme
+garbage Collection
+garbage collection
+yty
+garbled text
+garbled
+gateway
+gathering
+gazed
+gb
+gdiplus
+gear icon
+gear
+general Notification
+general
+generally
+generate a
+generate
+generated
+generation
+generator
+generic Photo
+generic
+geoenabled preference
+geoenabled
+geolocation
+geometric
+geometry visibility
+geometry
+geostd
+get Involved
+get Map
+eiképy
+get me
+get started
+rupity
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNS
+getAttributeNode
+getAttributeNodeNS
+getElementByIdpe
+getPreventDefault
+getReceivers
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+ohóvo
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+omoĩ
+ẽpyenda
+gives you
+Opavaveguáva
+giving
+glitches
+glob
+global Composing
+global community
+oñeimo
+globals
+go Back
+go
+goes
+going online
+gueraha
+gone
+good news
+hekohápe
+goodwill
+gopher
+gorithm Identifier
+got it
+got
+governed by
+tetãpehẽ
+ẽmbýre
+grant
+Nome
+grants you
+grants
+ta'ãnga
+graphics
+great
+greater than
+greater
+greeting
+grew more
+ẽreíre
+grid
+gridcell
+jejopy
+group
+grouped
+ñesë
+gt
+gtgt
+guarantee that
+guarantee
+guaranteed
+guess
+guessed
+guessing
+guest is
+guest
+guide you
+guide
+guides
+h
+hTraduction
+ha
+hacking
+had its
+oguerekókuri
+half an
+half past
+half
+hand tool
+hand
+handle S
+Joajuha
+handled
+handler command
+handler
+handles
+handling
+hands
+aguaiteguáva
+handshakes
+hang Report
+hang stacks
+hang
+hangs
+happened
+happens
+hard drive
+hard
+hardware H
+hardware acceleration
+hardware
+harm
+oipotaitégui
+has Attachments
+omongurusu
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+oñemomarandu
+ojavypyréva
+hashes in
+hashes
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+rejepy
+haven &apos
+haven
+haves
+having trouble
+having
+head
+myakãha
+myakãhápe
+myakäha
+teratee
+headings
+hesãi
+heap
+hear
+height
+Oimeraẽva
+hello extension
+hello
+peime
+helper
+helpful
+helping make
+helping
+helps ma
+nepytyvõkuaa
+her
+ko'ápe
+ápe
+ñemigua
+hide Statistics
+hide Toolbars
+Emoñemi
+hiding
+high Grade
+tekoku
+higher level
+higher
+highgrade
+highlight
+highlighted
+highlightedS nodes
+epyrévaS
+highlighter
+oñemoñemi
+highly recommended
+tembiapopyahu
+hightailcom
+him
+hints press
+hints
+his or her
+his
+history window
+history&apos
+ñemandu
+hold
+holds
+home City
+home Country
+home Phone
+home directory don &apos
+home
+homepage
+hop limit
+hop
+horizontal lines
+horizontal
+horror
+ẽpyrévape
+hosted
+hosting service
+hosting
+hostname
+hostnameport
+hostnames
+hostport
+hosts
+hotspots
+hour
+aravoaravo
+hours
+how
+however
+href
+hrink
+hrpd
+hstrike
+htm
+html &apos
+html
+htmlstrongramoguáva
+htmlstrongCookies
+htmlstrongHistory
+htmlstrongTabs
+htmlstrongOvetã
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http
+https//developermozillaorg/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad
+https
+mbosa'y
+posa
+iOS
+icons
+supportLink
+id
+ojuhúvo
+ojepuruve'ỹva
+ie
+tekotevẽtaramo
+image
+ta'ãngagif
+ta'ãngajpeg
+ta'ãngapng
+imgmap
+omyengoviaseha
+ereru
+momba'eguasu
+jeguerupyre
+ndereipurukuaaivoi
+jeroviapyrãva
+pe
+okañyetéma
+ha'ãha
+oikopyréva
+Europeo
+ojokupyty
+oikéramo
+ndojepuruporãi
+embotuichave
+mopererĩmbyre
+mbopapapy
+ombohapévo
+ojehúva
+omoinge
+ined
+inherit
+initial
+emog
+oikéva
+inlineblock
+tairenda mbytépe
+input
+naherosãi
+oñemoinge
+noscript
+Mohenda
+mohendapyréva
+Oñemohendahína
+qstrongwww
+hendaguépe
+aiteva
+oĩmbáva
+ohapejoko
+pypeguávape
+arapýpe
+oĩporãva
+t
+ime
+
+eñongatuguy
+Pururã
+ijehekaha
+javascript
+Opóva
+kb
+Erekotapia
+nimigua
+ombosa
+rérarã
+noñemo
+oimérô
+teramoĩ
+amie
+asu
+oipotaguivoi
+tohónte
+lft
+li
+liEhechajey
+liEikéramo
+liIkatúmakuri
+liEhecha
+liIkatúpiko
+liEjopy
+liKuatiarogue eikeseha
+liPe
+liKóva
+liIkatu
+tesakã
+tesakã
+jepi
+nomyatyrõi
+tendarupi
+Ñeha
+liliOguerekópa
+mohendahápa
+liliemNOTE
+ñemomichĩ
+line
+joajuha
+chaguávare
+tysýi
+rehendu
+renduhára
+roimo
+enl
+overlay
+emyenyhẽte
+henyhëva
+oñemyenyhẽ
+tenda
+localhost
+location
+jokopyre
+momaranduha
+jeikehápe
+áke
+long
+longdiv
+ãngáva
+oñehundi
+Sorbio inferior
+emoñepyrũjeykuaaha
+lt
+ltcanvasgt
+ltr
+madruwb
+ha'etéva
+péicharamo
+iñañáva
+malware
+ñangareko
+ñangarekoháre
+manifest
+manifestjson
+manifestwebapp
+jepokorasa
+popeguáva
+ndepoite
+opaha
+mark the
+marked
+marking a
+marking
+markup
+jehaipyremýi
+masking
+master
+ohekáva
+ojojáva
+matched
+matcheleatchMore than
+ojojoguaha
+matching
+matchutomatically
+material
+math table
+papapykuaa
+matrix
+max
+maxage
+maximum Length
+maximum permissible
+maximum
+may discontinue
+may update
+rejuhukuaa
+maybe
+mb of
+mb
+mbox
+me out of here
+emína
+mean slower message
+omyesakã
+means you &apos
+means
+measure a portion
+measure a
+measure
+measurements
+measuring
+mechanism
+mechanisms
+media Sharing
+media
+medium
+meet
+member
+oikundahávo
+membersonly
+memory map
+memory measurements
+memory
+mentioning
+menu Bar
+menu bar
+menu
+menuPath
+menus
+eikuave
+merge Warning
+merge all
+Embojehe
+mesh
+message Grouping
+message I &apos
+message Summary
+message flag
+message panel
+message preview
+message templates
+message }
+message
+messageDone
+messageIndexing
+messageS
+messagebr
+messagebrIn
+messageeml
+messagegt
+messageid
+messages Reopen
+messages
+messaging
+teramoĩetéva
+metadata
+metal posteriors
+metal
+metaviewport tag
+metaviewport
+meter
+method &apos
+Taperekópe
+methodGET
+methodPOST and
+methodPOST
+methodpost
+methods
+atãha
+microsummary
+middle Eastern
+middle
+ñemboguevipyre
+migrate to
+migrate your
+migrate
+migrated
+ha'ãha'i
+millisecondPing
+milliseconds
+mimetype of
+mimetype
+min
+mind
+minheight
+minimonth
+minimum
+minjs
+Minor
+mins
+minute minutes
+ojapóma aravo
+minuteEvery
+aravo'iaravo'i
+minutes ago
+minutes …
+minutes
+minwidth em
+minwidth
+misconfiguration
+misconfigured
+misencoded
+mismatch
+mismatched tag
+mismatched
+missed reminders
+missed
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+missing
+misspelled word
+misspelled words
+misspelled
+mistake
+mistakes
+mistyped
+mix
+jehechapy
+mmultiscripts
+Pumbyry
+mode and can &apos
+mode
+modegt
+model
+modelview
+moderated
+moderator
+modern
+modes
+modified
+modifier
+modifiers
+modify
+module returned
+module
+modules
+moduli
+Ikatúpa
+momentarily
+moments
+monday
+mondays
+moneymouth face
+moneymouth
+monitor
+jasýpe
+monthS of
+monthS
+monthevery
+monthly
+rasami
+more bookmarks
+more powerful
+more savings
+rehechakuaa
+moreand
+morex
+hetave…
+most Visited
+most accurate
+most popular
+ñandutígui
+mostrecently
+mouse Wheel
+anguja
+move Down
+move Up
+move away
+move emswiftly
+move
+yséramo
+moved renamed or deleted
+moved renamed
+moved
+movedS
+movemail
+moving
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescription
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+ are
+mozVisibilityState
+mozcmd directory
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+mozillaorg
+mozinlinebox display
+mozinlinebox
+peteĩgui
+ms
+msf
+msgFilterRulesdat file
+msgFilterRulesdat
+much
+multiline
+multimedia
+multiple links &quot
+multiple
+multiplied And
+multiplied by
+multiplied
+ñemboguataita
+multiweek
+music
+must involve
+eguerekova
+my &quot
+my Cert
+my Projects
+my Quick
+my Task
+my Yahoo
+my windows
+che
+mypagehtml &quot
+mypagehtml
+myusername&apos
+n
+nWhen your
+ñepepirũmbyre
+name &quot
+hendaite
+nameSource
+named anchor
+named either
+named
+names
+namespace
+namespaces
+narrowing
+native code
+native
+natively
+navigate
+navigated
+oikundaháva
+navigation Toolbar
+kundaha
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal
+nd
+near
+nearby
+nearest
+necessary
+need
+needed
+needing to
+ikundaha
+needs
+negate
+negated
+negation
+negative
+negotiate an inadequate
+negotiate
+negotiating a
+negotiating
+negotiation
+itasã
+nested Table
+mboyvatavéva
+mbohupa
+netnz /
+netnz
+netscape
+netscapepublicmozillamailnews&apos
+network Monitor
+network Timeout
+network drive
+network section
+network
+never Show
+araka
+new Caledonia
+new Separator
+new Tab
+new Zealand
+new home
+new word
+pyahuIjuruja
+ite
+news client
+news
+newsexamplenet
+newsgroup subscriptions
+newsgroup
+newsgroups
+newsrc File
+newsrc file
+newsrc
+next gt
+upeigua
+nicer
+nick
+nickname
+nicknamegt Change
+nicknamegt
+nicknames
+nicks
+pyharegua
+nikto
+nine
+nineteen
+nineteenth
+ninth
+nnn
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+Nahániri
+noMac
+noWin
+nocors&apos
+nocors
+node
+nodeShow all
+nodeShow
+nodeValue
+nodelock
+nodes
+nominative
+non Participant
+non
+nonASCII
+nonFORTEZZA Certificate
+FORTEZZA
+nonGregoriancalendar
+nonResponse
+JSONpe
+nonUTF
+nonascii character
+nonascii
+noncesource
+noncharacter
+Avave
+nonempty
+nonfunction pseudoclass
+nonfunction
+nongeneric
+nonincremental Cause
+ndatuichaiva
+nonleaf
+nonmultiprocess
+nonnavigation
+nonnegative
+nonparticipant
+nonprintable character
+nonprintable
+nonprofit Mozilla Foundation
+nonprofit
+nonspace in
+nonspace
+nonstandard
+nontext
+nonvoid
+noon
+rome
+Oñemo
+noscript
+nosniff
+nostore
+not After
+not Before
+not Connected
+not Critical
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+Noñemohendáiva
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+not checked
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+yvýpe
+notation be unescaped
+notation be
+notation
+note Slow
+kuaaukaha
+marandu'i
+notes
+nothing
+Nderehechamo
+noticed
+notification Permissions
+notification _
+notification
+notifications
+notified
+notifier or
+notifier
+notify me
+notify
+noting
+nounclass
+nov &#124
+nov
+november
+now doesn &apos
+ágã
+npmmailnews&apos
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridl
+nsIWindowMediator
+nsIWritablePropertyBag
+num
+number
+numbered
+numbers negative
+numbers
+Mbopapaha
+numeric
+nursery Collection
+Nursery ñemosẽ
+avoreñoiha
+obj Properties
+obj
+object Stores
+object
+ekuéra
+obscured
+observed
+observers
+obtain
+occur
+occured
+occurred
+occurrence of
+occurrence
+occurrences
+occurs
+oct &#124
+oct
+october
+of DOMException &apos
+of DataContainerEvent
+of Mammon
+of Man
+of Office
+of Operation
+of Sync
+of Validity
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of ohasapyréva
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+of type gif jpg
+of unresolved
+of windowshowModalDialog
+pe
+ofbr
+off paint
+mongepyre
+ñemongepyre
+offer
+ẽmoãi
+offering
+offerings
+offers
+offerxA »
+ỹme
+offline_apps
+offsets
+often
+ok
+Ymaguare
+older than
+older version of Sync
+Poteĩ
+YouTube
+oldstyle
+omitted
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+pe
+once
+one Level
+one moreand
+one
+oneoff
+ones
+oneshot
+oneubuntucom
+ongoing
+sido
+only reloads
+only supports
+only transmitted
+uapype
+añóntebr
+opacity in
+opacity
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opcode
+open Web
+open WebIDE
+juruvy
+ijuruja
+opening fence
+tojeipe
+opensource
+operating system
+operating
+operation command
+operation failed
+operation
+operations error
+operations
+operator expected
+puruha
+operators
+opportunity
+opposed
+jepuruporãme
+optimizations
+ojepuruporã mombyrýgui
+optimized
+optin No
+optin
+option Group
+jeporavorã
+poravopyrã
+optional defaultS
+jeporavokuaáva
+optionally
+Porãvopyrã
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+térã
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange
+order Received
+ñemonei
+organization
+organizations
+organizer
+origin
+originAttributes
+original
+originally
+originals
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+ambuekuéra
+ẽñemíramo
+otherwise it
+otherwise
+our geolocation
+our partners
+our
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+ohu
+ndahi
+ndoikovéimava
+outgoing
+jereguáva
+outlook
+outofdate
+output folder
+ñesẽva
+outside
+
+ári
+overhead
+overlay
+jehaijo'a
+override the viewer &apos
+íntema
+ehejareihápe
+overscript
+overview
+ohaijo
+overwritten
+own
+owned
+owner of
+owner
+ownerElement
+jarakuéra
+ownership
+p pIf
+p
+pA secure
+pA
+pAdditional information
+pAdditional
+pAttack pages
+pUmi
+pDeceptive sites
+pDeceptive
+pEntering any
+pEntering
+pIf
+pThe browser
+pThe page
+pThe requested
+pPe
+pThese types
+pThese
+pThough
+pUnwanted
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pYou
+pYour
+package
+packaged
+pakete
+Purukuaáva
+page &apos
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+page translation
+page }
+toguépegua
+pageCount
+pageload
+pages &apos
+pages conveniencebr
+pages they &apos
+pages
+paint flashing
+paint
+painted area
+painted
+pair a
+pair
+mba'evera
+ígui
+panes
+panning
+paper Size
+paper
+paragraph Marks
+haipyvo
+param
+parameter entity
+ãháramo
+aporã
+paranoid
+parent Match
+parent Payload
+parent prefix
+parent
+parse XML
+parse failure
+Parse
+ỹjóiva
+parser state
+parser
+eikumbykuévo
+part of
+part
+partial Update
+partial character
+partial
+partially
+participant
+participants from
+participants
+participate
+particular purposes
+particular
+ỹtamava
+partner You
+irũ
+partners We
+partners work
+partners
+partnership
+parts
+party
+partyAre
+pass
+passed to
+passed
+passive ’
+passive
+passwdtxt
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+password&apos
+ẽñemíre
+passwordLeave
+passwordStored
+passwordprotected
+ẽñeminguéra
+ymave
+iguyve
+patch apply
+patch
+path
+paths starting
+paths
+S
+pattern
+jopy
+paused —
+mombytapyre
+payload
+payment provider
+payment
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+peace
+peer &apos
+ñomongetaha
+peers &apos
+peers
+pending dump
+aporã
+people &apos
+people wouldn &apos
+people
+per
+percent
+percentage of
+savore
+percnt Completed
+percnt
+perform caseinsensitive
+perform querySelectorAll
+Ejeporeka
+rembiapokue
+performed Trying
+performed
+performgt
+performing
+periodically
+permanent exception
+permanent
+permanently deleted
+permanently
+permissible length
+permissible
+permission denied
+permission
+permissions
+oikéva
+permitted
+persistent logs
+persistent
+person &apos
+person who holds
+ndohechakuamo
+personal Card
+oikuaaséva
+personalhttp//wwwmozillaok
+phasang
+phasor
+emoingejey
+ãga
+ping
+píxeles
+hetaichagua
+Nog
+ejoajurãpa
+porukuaa
+podcastpe
+podcastspe
+oñembohysyiva
+ñembyai
+poly
+ovetä apysë
+ovetä
+apysẽ
+ñemoingeha
+oñemboajetéta
+position
+ppOimeraẽva
+ppAyvu
+tuijakue
+pref
+jerohoryvévape
+oikótava
+ñembosako'i
+ýijóva
+Eñongatueteva
+ojopýma Heja
+jepysopyre
+orejopy
+presub
+presubscript
+presub
+presuperscript
+emboyke
+preventDefault
+ndohejái
+koichaguáva
+aje
+Mbonguatiapy rekochagua
+noñemyenyhẽmbáiti
+remiñemi
+oñeñongatuguy
+techaramovéva
+eñeme
+apañuãigui
+Emoingeva
+profile
+Upevarã
+oñembohape
+s
+Rembiaporape
+apopyrã
+ẽñepyrũgui
+Aporãite Init
+Promise
+mboajére
+Ojejeruréta
+mburuvicháramo
+ỹiva
+ãrã
+nahekorosãiva
+ẽsetégui
+proxi
+ehakotyrãnguépe
+pspan
+opavavegua
+pulliIkatu
+ehaikuévo
+pulliEguerekópa
+pulliOĩporã
+pulliIkatúpiko
+ejogua
+evetaha
+px
+q
+qmozillaorg
+qstrongww
+ñorairõ
+Porandupyre
+ruguái
+hetaveháicha
+oimerãe
+ejuhujey
+taikõiva
+qwxyz
+rad
+hapóva
+píxel
+akýva
+Ojehupyty
+ohupytývo
+ẽmava
+ẽvo
+moñe'ẽrã año
+etévape
+hasyve
+og
+web
+tenondevegua
+ñepyrũguávape
+erekojey
+rect
+mbojojohaguáva
+Avakua jeguerahajey
+Yguejy
+regexp
+vore
+Ojejavy
+mbojoajurã
+Jehechapaite
+omboguevijey
+omyenyhẽsejeýramo
+jehupijey
+hemby
+momangu
+mombyrygua
+aitemo
+removeAttribute
+mboguepyréva
+Rembogue
+pyahujeýra
+reparsed
+ejeyñemyanehẽ
+japojeyjey
+ũnguéra
+omyengoviáva
+eju
+úma
+s settings
+ndoikoiha
+ndaikatuiva
+ejerurépe
+oñemyenehẽ
+rejeruréva
+ejeruréi
+oñeikotevẽva
+tekotevẽva
+oikotevẽ
+ejerurejey
+jehechajeyrãva
+mboajepy
+mbohovaiha
+ñembohovái
+responseType
+Ñepyrüjey
+ndoguerahauka
+Emboguevijey
+ojevyjeývo
+ĩmbyre
+osẽva
+jeguevi
+oujeýma
+tekoñaña
+oikuaauka
+Reguerusejeýpa
+kuaara
+rght
+akatúa
+oñemonge
+opytaJesarekorã
+rndbox
+rapo
+tapo
+tysýi'i
+rr
+rtl
+mbojojahápe
+ãjeýi
+omoñepyrũva
+épiko
+ú
+oñangareko
+ojapyhýramoguare
+jehechaukarã
+sandbox
+heñyhẽtéva
+Eñongatúma
+ẽkuaái
+ãngaiva
+mbogueha
+hembiapóta
+itaikýva
+Sripts
+noncesource
+Jerova
+mbotyetepyre
+heka
+jeheka
+sec
+secondTime
+aravo'ivearavo'ive
+secpk
+secpr
+secret
+pehẽ
+pehẽ'i
+sectk
+sectr
+secure Browser
+secure
+jeroviápe
+ikatuvahína
+eikemi
+seeing doctype
+seek
+ohekahína
+seem
+seems
+seen but
+seen
+select &quot
+select camera
+oñemongue
+selected line &apos
+jeporavóva
+poravopyre
+oguerahaukáta
+selection
+selections above
+selections
+selectlabel
+poravoha
+selectors separated
+omopa
+selects
+selfsigned
+semicolon
+send Feedback
+send For
+send
+sender &apos
+sender message
+sender
+sending
+sends
+Ojesarekóva
+taimichĩ
+sent Cookie
+sent
+sep &#124
+sep
+separate tags
+separate
+separated
+eñónte
+separating
+separator character
+mopa'ũha
+sept
+september
+sequentially as a waterfall
+sequentially
+serial Number
+serial number
+serial
+series
+serif
+server &apos
+server Quota
+server SMTP&apos
+server incorrectly
+server maintenance
+server that can &apos
+mohendavusúpe
+servers Maybe
+servers
+serves
+service providers
+service worker
+oikeva
+services
+serving
+session ID
+session Id
+session Statistics
+session cache
+session
+sessions
+set Priority
+set browsercachediskenable
+set strokeStyle
+oñemoheñóiva
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNS
+setAttributeNode
+setAttributeNodeNS
+setTimeoutpe
+setTimeout
+setUserData
+setVelocity
+sets
+setting
+settings &#124
+settings&apos
+jeroviaveha
+setup options
+setup
+seven
+seventeen
+seventeenth
+seventh
+several ways
+several
+shader Editor
+shader compile status
+shader compile
+shaderpe
+shadows variable
+shadows
+shall control
+hagueichaite
+
+coords
+guarãva
+shared Workers
+shared
+sharedLongDesc
+shares
+Emoherakuãhína
+sheet
+sheets
+shell
+shield
+shiftKeylabel
+shiftclick
+shiny metal posteriors which
+ojepytekuaa
+shopping
+ryepýgui
+shortcut
+shortcuts
+shorten this
+shorten
+shorter file
+shorter
+aitépe
+shortname
+should keep
+should make
+porãvape
+t continue
+shouldn
+show Cookies
+show resultShow
+show through
+Chembo
+showall &apos
+showall
+showing repairing
+showing
+shown
+shownReplies
+shows
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+shutdown
+shutting down
+shutting
+sibiling
+Ndojeikekuaái
+ykeguáva
+sidebarName
+sidebars
+sign in
+sign
+signal
+signature algorithms
+signature
+signatureAlgorithm
+signatures
+signed
+signer &apos
+signer
+signers found
+signers
+significant
+signing certificate
+signing
+signup
+silence
+silently authenticates
+kirirĩme
+similar
+simple Measurements
+simple XLink
+simple
+simplified
+simply need
+megua
+simulation
+simulator installed
+simulator
+since
+ndaipóriva
+singlesignon
+site &apos
+site doesn &apos
+tendáramo
+
+sitenat
+rekóva
+six
+sixteen &#124
+sixteen
+sixteenth
+sixth
+size
+hetáichagua
+skip Integration
+skip this
+epo
+hete
+skips
+slash operators
+slash
+slashes ie
+slashes
+ohasahague
+jesyryryha
+keha
+slots
+slow Motion
+slow SQL
+slow down
+slow ×
+rehoseve
+slowing
+slowly
+small
+smaller
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+smiley
+smooth scrolling
+smooth
+smtpexamplenet
+snapshot
+snapshots
+snews
+so it &apos
+so it can &apos
+so you &apos
+so
+soap
+socketpe
+software makers
+software
+solid Border
+solid circle
+solid
+solution
+solutions
+solve a
+emyatyrõse
+some cool
+some printing
+some sample
+some unspecified
+ndahetái
+somebody &apos
+somebody
+someone isn &apos
+ombyaiséva
+something
+sometimes
+somewhere earlier
+somewhere
+soon
+sorry BrandShortName can &apos
+sorry we &apos
+Rombyasy
+sort
+sound file
+sound
+sounds like
+sounds
+source software
+source
+sources
+space Fantasy
+space between
+space
+spaces
+spam
+span class &apos
+span
+spanThis
+spanbrandShortName
+spanjejokopyre
+spanjurujapyre
+ohupyty
+spanspan
+speak now
+speak
+speaking
+spec in
+spec
+special incidental
+special kinds
+oikónteva
+specific command
+specific
+specifically
+specification
+eñopyréva
+specifies
+specify preferred
+ojeikuaaite
+specifying a
+specifying acceptcharsetutf
+íva
+speed
+speedOfSound
+spell checking
+spell
+spellchecker
+spelling
+spend
+añoiténte
+spin button
+mbojereha
+split
+sponsored
+spool
+spyware
+sqrt
+square root
+square
+src
+srcdir
+srcs
+ssl
+st
+stability issues
+stability update
+tekopyta
+opytáva
+stack trace
+stack
+stacks
+standalone
+standard time
+standard toBlob
+standard
+standards mode
+standards
+star rating
+star
+starred
+start Debug
+start Simulator
+ñepyrũguávaa
+started finding
+ñepyrũpyre
+
+ñepyrũngue
+startlabel
+startmozillaorg
+jajapose
+startup
+oñembotýramo
+uivévape
+statements
+statistics about
+statistics
+stats
+status &apos
+status bar
+ojehechajeýta
+stay
+omonda
+step Over
+step
+stepped through
+stepped
+jeguata
+steps out
+steps
+still
+stolen
+stop Debug
+stop Mirror
+stop Wearing
+stop the
+rejoko
+ípa
+noñembohasáigui
+stops
+storage quotas
+storage
+storages
+Ñemu
+uarãOĩ
+stores information
+stores
+storing
+stream
+strength
+strict protection
+strict
+strike
+string literal
+joajuha
+strings or
+strings
+strokeStyle
+strong
+strongApps
+strongDevice
+strongThe Book of
+strongThe Book
+strongThe
+stronger Emphasis
+stronger
+strongexamplecom
+stronghttp
+strongly recommends
+strongly
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+structure
+structures
+studies
+study Findings
+study
+style Editor
+style Inspector
+style endexpand
+style sheet
+style
+styles
+jeguarã
+stylesheets
+stylesrc
+sub
+subdirectory
+isaja
+subdomain
+subdomains
+subfolder
+subfolders
+subgrid
+subgroups
+subject Reminder
+subject
+submission to
+submission
+submit Query
+submit bugs
+submit information that &apos
+nomondokuaái
+submits
+orepytyvõ
+submitting your
+submitting
+subresource
+subscribe Calendars
+subscribe
+subscribed
+subscribedImported
+subscribing
+mbopapapy'i
+subscription
+subscriptions
+subsession data
+subsession
+substituting
+subthread
+subthreads
+subtree
+succeed
+succeeded
+successful
+successfully Transmitted
+successfully
+rekorosãrãgui
+suddenly
+sufficient
+suggest
+suggested Contribution
+suggested Tags
+ẽmby
+suggestion
+ndojekuaamo
+suggests
+suit
+rogaygua
+suite
+suites are
+suites
+mbojo'a
+summary file
+summary
+summoned
+sunday
+sundays
+sub
+mbopapapyguasu
+jehai jo'a
+superseded by
+superseded
+supervision
+ẽpyréva
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+jokoha
+akáva
+supporting
+supportmozillaorg
+supports
+sure
+surface area
+surface
+surprised face
+surprised
+surrogate
+ijerereguápe
+surrounding
+survey is
+survey
+susceptible
+suspected
+suspicious
+sutomatically
+svSE
+svg
+switch to
+mbohueha
+oñemyandy
+switching
+symbol
+symbols
+sync them
+sincr
+syncBrandfullNamelabel
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+ñembojuehepyre
+synchronization
+synchronize
+synchronous
+syncing
+synctitlepairlabel
+syntax Highlighting
+ẽjoajungatu
+system Integration
+system beep
+apopyvusu
+
+systemDate
+systems this
+systems
+t believe
+t delete
+t
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+tenda
+tendayke
+tabSharing
+tabdelimited tab
+tabdelimited
+table &apos
+table Alignment
+table Insert
+table Select
+table borders
+table layout
+table rows
+térarenda
+guáva
+rendayképe
+tabtxt
+Ojepurúkuri
+tagged
+tagname
+tags
+take up
+take
+taken
+takes
+taking too
+taking
+talk
+tampering
+tapping
+oñembotáma
+targeted document
+targeted
+task
+taskThe
+taskbar
+tasks
+tastes
+tbl
+technical Details
+aporekogua
+technique
+techniques
+va
+pumbyry
+tell websites
+rejopy
+tells
+kuatiaite
+templates
+temporarily
+temporary outage
+ñekytĩ
+ten
+tename &apos
+tentatively
+tenth
+tenured objects
+tenured
+ter Lock API
+term &quot
+ñe'ẽ
+ñe'ẽkuaa
+ñe'ẽrã
+terminate a
+oñembopaha
+terminated by xslmessage
+terminated
+termination
+ohave
+test
+testics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+text
+textContent attribute
+textContent
+textonly
+texture source
+Image
+th
+than minimum
+ykeko
+thank
+aguyje
+thanks
+that &apos
+t be found
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+oñehundikuaáva
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+the Grenadines
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+the emtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+the visualization
+the webapp manifest isn &apos
+the webapp
+the wildcard
+the windowconsole
+ẽta
+theft
+their defaults
+their
+nemyangekoireínte
+Kuaapyrã
+themed
+themes
+then touching
+upéicharamo
+there &apos
+there
+therefore
+these organizations
+ẽasapyréva
+they &apos
+they expire
+they require query
+they
+things you
+things
+think I &apos
+think
+thinkers
+thinking
+oimo
+Mbohapyháva
+third parties
+third
+thirdparty cookies
+thirdparty software
+thirdparty
+thirteen &#124
+thirteen
+thirteenth
+thirtieth
+thirty &#124
+thirty first
+thirty one
+thirty
+this &quot
+this Computer
+this channel &apos
+épepa ojepyta
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+Kóvaniko
+thisIf
+thisa
+omboguetétama
+though
+eréva
+thousands
+thread &quot
+thread Hangs
+thread killed
+thread watched
+thread
+threads
+three
+threw
+through inaction
+through
+thunderbird
+thursday &#124
+thursday
+thursdays
+ticket was
+ticket
+ties
+til &#124
+til
+tile replacing
+tile
+tiles
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+time
+timeOccurs
+timed Out
+timed
+timedout
+timeline
+timelines
+timeout
+timer Name
+timer started
+aravo
+timers in
+timers
+times
+timesaving
+timestamp
+timestamps
+timezone &quot
+timezone
+timezonepersonalg
+timezoner message doesn &apos
+title
+a
+g̃uarã
+moambuekuaaha
+myandyha
+ijapyraite
+mombegue
+Tembiporu renda
+tembipuru renda
+marandu tembipuru rehegua
+iñapysẽva
+yvatete
+jurujapyre
+moag
+pila
+ñema
+nderapykuehoséva
+ñemoambuete
+emondóva
+ñẽasa
+ohechávo
+rehotaha
+okuesejey
+onohẽ
+ñemyatyrõ
+Añetéva
+true
+embogueranguékuri
+areatxt
+type
+ijehaípe
+uQuit
+ul
+ulliIkatúpa
+Ikatuhína
+ndojepurukuaáiva
+embosa
+ndojeporavóiva
+guy
+underscript
+nderejerurekuaái
+ãrõ
+ñepyrũ'ỹre
+Jeipe'aite
+jeipe'aite
+ojekuaa'ỹva
+peichahágui
+hasýta
+Ijapyra'ÿva
+imbotovepyré
+itaikõi
+Haipyre jehejarei
+okañykuaáva
+ndojeporavóiva
+opyta'ỹva
+tembipurupyahu
+ndaijeroviahái
+mbojoapyha
+hembiapovaíva
+hyrúgui
+pepe
+embohekopyahúkena
+erãha
+ipyahúvare
+Embohekopyahuhína
+updiagarrow
+updiagstrike
+mbohekopyahu
+upload stream
+url
+urlprefix domain
+urlprefix
+omoheñoikuaáva
+
+eipurukuevohína
+ñembojopyru
+opurúvo
+tapiaguáva
+utomatically
+v
+oikóva
+ñemoañete
+tepykuére
+Moambuekuaa
+japohare
+vendorShortName
+érõ
+Ojohechajey
+Peteĩchagua
+omomarã
+ikatuve
+jehekapy
+uáme
+Ehechami MDN
+jeho jeho
+ojehechapyre
+oikévape
+oikeha
+vstrike
+oĩvaikuaáva
+ojepa
+ãróva
+eguerekose
+mbokyhyjerãgui
+kyhyjerã
+Jerovia
+peteĩháme
+opave
+re sorry
+t keep any
+oresãso
+ipyendáva
+roguépe
+guivépa
+arapokõindy
+mboyveguávagui
+Tereg
+paneo
+oho
+s going on
+embojueheséva
+oñehesa
+mamoitépa
+eipurútava
+wildcard
+strongmba
+win
+ndovaléiva
+oñemombyte
+windowopen
+windowshowModalDialog
+tekojekupytýre
+Emyenyhẽ
+scriptsrc
+resê
+t work on
+ë
+ojejapova
+ñamba
+javeve
+uiguáva
+ita
+wrappers
+jehaikuaáva
+Ndererekói
+shaderpe
+wwwexamplecom
+wwwopenhorg
+xhrspecwhatwgorg
+xjavascript
+xpi
+Upéicharõ
+xwestern
+xyxy
+hẽe
+t
+t have sufficient
+s
+peẽ
+s
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+ỹgui
+yourself
+yousenditcom
+renoiha
+zone policy
+zone
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+zoom
+zooming

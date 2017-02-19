@@ -1,0 +1,9429 @@
+ rights …
+/Galapagos
+A ServiceWorker
+hivatalos
+AB _
+AB
+ACL
+ADB
+KIEGÉSZÍTŐK
+AEC Logging
+AEC
+AES
+AIA
+AIM
+ALIGNCENTERA
+ALIGNCENTERFONT
+ALPN
+AND
+ANSI
+AOL Screenname
+AOL
+API
+APIEncryption
+APP
+ARMSCII
+ASN encoder
+ATT Mail
+ATT
+AUS
+AVA
+Aa
+Aaiun
+Ababa
+Elveti
+Rövidített
+Rövidítés
+abház
+Kilépés
+Aborted
+About Your
+Névjegy
+felülre
+Accelerated
+Accent Lowercase
+Accent Uppercase
+Accent
+Elfogadás
+Acceptance
+elfogadva
+elérhetősége
+AccessControlAllowCredentials&apos
+AccessControlAllowCredentials
+AccessControlAllowHeaders&apos
+AccessControlAllowHeaders
+AccessControlAllowMethods&apos
+AccessControlAllowMethods
+AccessControlAllowOrigin
+Akadálymentesítés
+Kisegítő lehetőségek
+Account &quot
+Account Settings &#124
+Fiók
+Kiszolgáló
+Postafiók
+Accountquot
+Postafiókok
+Accountspecific
+Postafiók…
+Mozaikszó
+Művelet
+Actions
+Aktiválja
+Ka lekw'tsiy
+Aktiválva
+Activations Directory
+Aktív
+Actively block
+Tevékenység
+Actual Size
+Adak
+Adapter
+Adapters
+Adb
+Hozzáadás
+Hozzáadva
+Addis Ababa
+Addis
+Additional Tools
+Additional
+Addon
+Addons Installed
+Kiegészítők
+Un putuntal
+Addr
+Address Book
+Address Books
+Cím
+URL
+AddressBook
+Addressbook
+Címek
+Címzés
+Adds
+Hozzáadás…
+Adjust
+adminisztrálása
+Administrative Assistant
+Adminisztratív korlát
+Adminisztratív
+Administrator
+Adobe Flash
+Adobe
+Advance
+Advanced Property Editor
+Advanced info
+Haladó
+Speciális
+Haladó…
+Speciális…
+afar
+Affects multiple
+Affects
+Affiliation Changed
+Affiliation
+Afganisztán
+Afrika/Abidjan
+Afrika/Accra
+Afrika/Algiers
+Afrika/Asmara
+Afrika/Bamako
+Afrika/Bangui
+Afrika/Banjul
+Afrika/Bissau
+Afrika/Blantyre
+Afrika/Brazzaville
+Afrika/Bujumbura
+Afrika/Kairó
+Afrika/Casablanca
+Afrika/Ceuta
+Afrika/Conakry
+Afrika/Dakar
+Afrika/Dzsibuti
+Afrika/Douala
+Afrika/Freetown
+Afrika/Gaborone
+Afrika/Harare
+Afrika/Johannesburg
+Afrika/Juba
+Afrika/Kampala
+Afrika/Khartoum
+Afrika/Kigali
+Afrika/Kinshasa
+Afrika/Lagos
+Afrika/Libreville
+Afrika/Lome
+Afrika/Luanda
+Afrika/Lubumbashi
+Afrika/Lusaka
+Afrika/Malabo
+Afrika/Maputo
+Afrika/Maseru
+Afrika/Mbabane
+Afrika/Mogadishu
+Afrika/Monrovia
+Afrika/Nairobi
+Afrika/Ndjamena
+Afrika/Niamey
+Afrika/Nouakchott
+Afrika/Ouagadougou
+Afrika/PortoNovo
+Afrika/Tripoli
+Afrika/Tunis
+Afrika/Windhoek
+Afrika
+African Republic
+African
+búr
+Mögé
+Again &quot
+tsan
+Kor
+Életkor
+ügynök
+Összetett
+Ago
+Agree
+Agreement
+Aires
+akan
+Akrotíri
+Alarm
+Albánia
+albán
+Alert dialog
+Alert record
+Figyelmeztetés
+Algéria
+Algorithm Parameters
+Algorithm
+Alias dereferencing problem
+Álnévfeloldási
+Álnévprobléma
+Álnév
+Align Justified
+Align Left
+Align Legend
+Align text centered
+Igazítás
+Igazítás
+Mind
+Minden
+Összes
+Allman
+Allocated
+Allocation Trigger
+lefoglalás
+Foglalások
+Allow First
+Allow autoplay
+Engedélyezés
+Ka jila'
+Ka jila' 
+Allowed
+Allowing
+Allows
+Engedélyezés…
+Ka jila'
+Almost done
+Almost
+Alpha
+Already
+Also
+Alt Name
+Alt
+AltDown
+AltUp
+Alternate Text
+Alternate
+Alternatively
+Noha
+Mindig
+Amerika/Adak
+Amerika/Anchorage
+Amerika/Anguilla
+Amerika/Antigua
+Amerika/Araguaina
+Amerika/Argentína/Catamarca
+Amerika/Argentína/Cordoba
+Amerika/Argentína/Jujuy
+Amerika/Argentína/Mendoza
+Amerika/Argentína/Salta
+Amerika/Argentína/Tucuman
+Amerika/Argentína/Ushuaia
+Amerika/Aruba
+Amerika/Asuncion
+Amerika/Atikokan
+Amerika/Bahia
+Amerika/Barbados
+Amerika/Belem
+Amerika/Belize
+Amerika/BlancSablon
+Amerika/Bogota
+Amerika/Boise
+Amerika/Cancun
+Amerika/Caracas
+Amerika/Cayenne
+Amerika/Cayman
+Amerika/Chicago
+Amerika/Chihuahua
+Amerika/Creston
+Amerika/Cuiaba
+Amerika/Curacao
+Amerika/Danmarkshavn
+Amerika/Dawson
+Amerika/Denver
+Amerika/Detroit
+Amerika/Dominica
+Amerika/Edmonton
+Amerika/Eirunepe
+Amerika/Fortaleza
+Amerika/Godthab
+Amerika/Grenada
+Amerika/Guadeloupe
+Amerika/Guatemala
+Amerika/Guayaquil
+Amerika/Guyana
+Amerika/Halifax
+Amerika/Havana
+Amerika/Hermosillo
+Amerika/Indiana/Indianapolis
+Amerika/Indiana/Knox
+Amerika/Indiana/Marengo
+Amerika/Indiana/Petersburg
+Amerika/Indiana/Vevay
+Amerika/Indiana/Vincennes
+Amerika/Indiana/Winamac
+Amerika/Inuvik
+Amerika/Iqaluit
+Amerika/Jamaica
+Amerika/Juneau
+Amerika/Kentucky/Louisville
+Amerika/Kentucky/Monticello
+Amerika/Kralendijk
+Amerika/Lima
+Amerika/Maceio
+Amerika/Managua
+Amerika/Manaus
+Amerika/Marigot
+Amerika/Martinique
+Amerika/Matamoros
+Amerika/Mazatlan
+Amerika/Menominee
+Amerika/Merida
+Amerika/Metlakatla
+Amerika/Miquelon
+Amerika/Moncton
+Amerika/Monterrey
+Amerika/Montevideo
+Amerika/Montreal
+Amerika/Montserrat
+Amerika/Nassau
+Amerika/Nipigon
+Amerika/Nome
+Amerika/Noronha
+Amerika/Ojinaga
+Amerika/Panama
+Amerika/Pangnirtung
+Amerika/Paramaribo
+Amerika/Phoenix
+Amerika/PortauPrince
+Amerika/Recife
+Amerika/Regina
+Amerika/Resolute
+Amerika/Santarem
+Amerika/Santiago
+Amerika/Scoresbysund
+Amerika/Shiprock
+Amerika/Sitka
+Amerika/Tegucigalpa
+Amerika/Thule
+Amerika/Tijuana
+Amerika/Toronto
+Amerika/Tortola
+Amerika/Vancouver
+Amerika/Whitehorse
+Amerika/Winnipeg
+Amerika/Yakutat
+Amerika/Yellowknife
+Amerika
+American Samoa
+Amerikai
+amhara
+An
+Analysis …
+Analysis
+Elemzés
+Horgony
+Anchorage
+Horgonyok
+And
+Andorra
+Android tablets
+Android&apos
+Android
+Android™
+Angeles
+Angola
+Anguilla
+Animate app
+animálása
+Animáció
+Animációk
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+ÉvfordulóSzületésnapÜzletHívásokÜgyfelekVersenytársakVevőkKedvencekNyomon
+megjegyzés
+Announces
+Annoyances
+Another
+Answer
+Answers
+Antarctic Lands
+antarktiszi
+Antarktisz/Casey
+Antarktisz/Davis
+Antarktisz/DumontDUrville
+Antarktisz/Macquarie
+Antarktisz/Mawson
+Antarktisz/McMurdo
+Antarktisz/Palmer
+Antarktisz/Rothera
+Antarktisz/Syowa
+Antarktisz/Troll
+Antarktisz/Vosztok
+Antarktisz
+AntiVirus
+Antigua and Barbuda
+Antigua
+Antilles
+Antivírus
+Any
+AnyText
+Anywhere
+App can &apos
+Alkalmazás
+AppCache
+AppCacheUtils
+Alkalmazásmenü
+AppName Uninstall
+AppName
+Appcache validated
+Appcache
+Megjelenés
+Függelékek
+Apple Mail
+Apple
+AppleSingle extraction error
+AppleSingle extraction
+AppleSingle
+Applelink
+Applet
+Application
+Alkalmazások
+Alkalmaz
+Alkalmazás
+Applying update
+Applying
+Találkozók
+Elfogadta
+Alkalmazások
+Appok
+Ápr
+Április
+Arab
+Arabia
+Arabic MacArabic
+Arabic Windows
+Arab
+arab
+aragóniai
+Archive
+Archiválás
+Archived
+Archívum
+Archiválás
+Arktisz/Longyearbyen
+levőkre
+Terület
+Argentína
+Arial
+Örményország
+Örmény
+örmény
+Arrow
+Cikkek
+Artist
+Aruba
+As Laid Out
+idézetként
+várakozásait
+Növekvő sorrendben
+Ascension and
+Ascension
+Ashmore
+Ázsia/Aden
+Ázsia/Almaty
+Ázsia/Amman
+Ázsia/Anadyr
+Ázsia/Aqtau
+Ázsia/Aqtobe
+Ázsia/Ashgabat
+Ázsia/Bagdad
+Ázsia/Bahrain
+Ázsia/Baku
+Ázsia/Bangkok
+Ázsia/Barnaul
+Ázsia/Bejrút
+Ázsia/Biskek
+Ázsia/Brunei
+Ázsia/Csita
+Ázsia/Choibalsan
+Ázsia/Chongqing
+Ázsia/Colombo
+Ázsia/Damaszkusz
+Ázsia/Dhaka
+Ázsia/Dili
+Ázsia/Dubai
+Ázsia/Dusanbe
+Ázsia/Gáza
+Ázsia/Harbin
+Ázsia/Hebron
+Ázsia/Hovd
+Ázsia/Irkutszk
+Ázsia/Isztambul
+Ázsia/Jakarta
+Ázsia/Jayapura
+Ázsia/Jeruzsálem
+Ázsia/Kabul
+Ázsia/Kamcsatka
+Ázsia/Karachi
+Ázsia/Kashgar
+Ázsia/Katmandu
+Ázsia/Khandyga
+Ázsia/Kolkata
+Ázsia/Krasznojarszk
+Ázsia/Kuching
+Ázsia/Kuvait
+Ázsia/Macau
+Ázsia/Magadan
+Ázsia/Makassar
+Ázsia/Manila
+Ázsia/Muscat
+Ázsia/Nicosia
+Ázsia/Novokuznyeck
+Ázsia/Novoszibirszk
+Ázsia/Omszk
+Ázsia/Oral
+Ázsia/Pontianak
+Ázsia/Pyongyang
+Ázsia/Katar
+Ázsia/Qyzylorda
+Ázsia/Rangoon
+Ázsia/Rijád
+Ázsia/Szahalin
+Ázsia/Szamarkand
+Ázsia/Szöul
+Ázsia/Sanghaj
+Ázsia/Szingapúr
+Ázsia/Szrednyekolimszk
+Ázsia/Tajpej
+Ázsia/Taskent
+Ázsia/Tbiliszi
+Ázsia/Teherán
+Ázsia/Thimphu
+Ázsia/Tokió
+Ázsia/Ulánbátor
+Ázsia/Urumqi
+Ázsia/UstNera
+Ázsia/Vientiane
+Ázsia/Vlagyivosztok
+Ázsia/Jakutszk
+Ázsia/Jekatyerinburg
+Ázsia/Jereván
+Ázsia
+Asian
+Ask
+Asks how
+Asks
+asszámi
+Assembling mail
+Assembling messageDone
+összeállítása
+Assistant
+Associated
+Assurance
+asztúriai
+Async
+Asynchronous Pan
+Asynchronous
+Atlanti óceán/Azoriszigetek
+Atlanti óceán/Bermuda
+Atlanti óceán/Kanáriszigetek
+Atlanti óceán/Feröerszigetek
+Atlanti óceán/Madeira
+Atlanti óceán/Reykjavik
+Atlanti óceán/Stanley
+óceán
+atoll
+Atom
+Melléklet
+Attached
+Melléklet
+Mellékletként
+AttachmentRemove
+Mellékletek
+Van melléklet
+Attack Site
+Attack
+Attempt to
+Kísérlet
+Próbálkozások
+Részvétel
+Attendee
+Résztvevők
+Attention
+Attribútum
+Attribútumok
+Attribution
+Auckland
+Hang
+AudioBufferSourceNode
+AudioChannelhez
+AudioListener and speedOfSound and dopplerFactor on
+AudioListener
+AudioListenerDeprecated
+AudioNode Inspector
+AudioNode
+AudioParam does
+AudioParam
+tulajdonsággal
+Aug
+Augusztus
+Aurora
+Ausztrália/Adelaide
+Ausztrália/Brisbane
+Ausztrália/Currie
+Ausztrália/Darwin
+Ausztrália/Eucla
+Ausztrália/Hobart
+Ausztrália/Lindeman
+Ausztrália/Melbourne
+Ausztrália/Perth
+Ausztrália/Sydney
+Ausztrália
+Ausztria
+Authenticated
+Hitelesítés
+Authentication method &apos
+Hitelesítés
+Szerző
+Authored
+Hitelesítésszolgáltatók
+Authority unnamed
+Authority
+Engedélyezés
+Szerzők
+Auto Increment
+Auto Update
+Automatikus
+AutoA
+AutoConfig Alert
+AutoConfig
+Automatikus felismerés
+AutoJoined Channels
+AutoJoined
+Automatikus kiegészítés
+Automatikus felismerés
+Automatikus behúzás
+Automatikus
+Automatizálás
+Elérhető
+avar
+avestan
+Átlagos
+Aware
+Távol
+aymara
+Azerbajdzsán
+azeri
+B
+VISSZA
+BCC
+BDokumentum
+Btitkosított
+BG
+BLOKKOLVA
+BPLehet
+Bdigitálisan
+Hátra
+Kit wichiy
+Vissza
+háttérprogram
+Háttér
+escritoriobmp
+hátterek
+Backspace
+Mentés…
+Rossz
+Bahamák
+Bahia
+Bahrein
+Bakersziget
+Balti
+bambara
+kitiltása
+Banderas
+Banglades
+Bankolás
+sávja
+Barbados
+Barbuda
+Barthélemy
+Base
+Alapvonal
+baskír
+alapadatai
+baszk
+Bassas
+Akkumulátor
+Bay
+Rejtett másolat
+Rejtett másolatot kap
+Becky
+Elé
+viselkedése
+Fehéroroszország
+belorusz
+Belgium
+Belize
+alulra
+Bengáli
+bengáli
+Benin
+Bermuda
+Beulah
+Bhután
+Big
+BigHKSCS
+Nagyobb
+bihari
+BiquadFilterNode
+Születési
+Születési dátum
+Születésnap
+bislama
+Kéthetente
+Üres
+Tiltás
+Blokkolt
+Blokkolva
+fenntartása
+Boa
+Levéltörzs
+Zavaros
+bokmål
+Félkövér
+Bolívia
+Bonaire
+Könyvjelző
+Könyvjelzőzés
+punudh
+Axi lej exbadh
+Könyvjelző
+Könyvjelzők
+Logikai
+Logikai érték
+Szegély
+BoszniaHercegovina
+bosnyák
+Bot
+Botswana
+Aljára
+Lent
+Bouvetsziget
+Ág
+Branco
+BrandFullName
+BrandFullNameDA
+programról
+Brazília
+Brazzaville
+Kenyérmorzsák
+töréspont
+breton
+aktualizálása
+brit
+Broken
+Megtekintés
+Tallózás
+Böngészés
+Böngésző
+Kiválasztás…
+Tallózás…
+Böngészés
+Brunei
+Buborékolás
+Buenos
+Build
+eszközkészletének
+Bulgária
+bolgár
+Felsorolásjel
+Számozatlan felsorolás
+Felsorolás
+Burkina
+Myanmar
+burmai
+Burundi
+Elfoglalt
+Gomb
+Gombok
+termékei
+Bájtok
+C
+CAkibocsátók
+CAtanúsítvánnyal
+CACHE
+CAk
+CC
+CD
+CDSA
+CKLt
+CLICK
+CMS
+CN
+COLNAME
+VEZÉRLŐELEMEI
+CORS
+IBM
+CRLaláíró
+CRL
+CSP
+CSS
+NH
+CYPHER
+Zöldfokiszigetek
+Gyorsítótár
+Caicosszigetek
+CalDAV
+
+Calendar
+Naptár
+naptárakra
+Naptár…
+Kalifornia
+Hívás
+visszahívás
+Kambodzsa
+Cambridge
+Kamerun
+Campo
+Kanada
+Canary
+Megszakítás/Eltávolítás
+Ka pakuw
+Mégse
+Megszakítva
+Megszakítás…
+Érvénytelenítés…
+jelölt
+Vászon
+CanvasGradient
+Zöldfokiszigetek
+Cím
+Rögzítés
+Szénfény
+Cartier
+katalán
+Kategóriák
+Kategória
+Elkapott
+Ok
+Kajmánszigetek
+Másolat
+Másolatot kap
+Másolatot kapott
+Cella
+Cellák
+kelta
+Középen
+Középre
+KözépAfrikai
+Középeurópai
+Tanúsítvány
+Tanúsítványok
+CPS
+Tanúsított
+Csád
+Elnök
+chamorro
+Változtatás
+Módosítás…
+Kötetek
+Karakter
+Charis
+Csevegés
+ChatZilla
+csecsen
+Jelölje be
+Kiválasztva
+Checking
+Chi
+chichewa
+Chile
+Kína
+Kínai
+kínai
+elérhetőek
+Tallózás…
+Karácsonyszigetek
+Chrome
+Chromecast
+Chromium
+egyházi
+csuvas
+Cipher
+Cisco
+Idézet
+Város
+Osztály
+Klasszikus
+Alaphelyzet
+Tartalom törlése
+Törlés
+ClearTypeparaméterek
+Törlés
+kw'ajat in pakuwal
+Kattintson
+Kattintás
+Client
+Vágólap
+Clipperton
+egyezően
+Bezárás
+Ka mapuy
+Zárja be
+xoweykíj
+bezárásának
+Cmd
+CmdOrCtrl
+CmdOrCtrlF
+CmdOrCtrlPlus
+CmdOrCtrlR
+CmdOrCtrlShiftD
+CmdOrCtrlShiftO
+CmdOrCtrlShiftR
+CmdOrCtrlShiftU
+CmdOrCtrlW
+Cocos
+Kód
+Csukja fel
+Összecsukás
+Felcsukva
+Összecsukott
+gyűjteményben
+Kolumbia
+Szín
+Színes
+Színek
+színek használata minden alkalommal
+Színek…
+Oszlop
+Oszlopok
+Legördülő
+vessző
+Megjegyzés
+kereskedelmi
+Közösség
+Comoroszigetek
+Tömörítés
+Összehasonlítás
+kompatibilitásának
+Teljes
+Befejezve
+Elkészült
+Kész van
+Components
+Meghívták
+Új üzenet
+HTMLszerkesztő
+Szerkesztés
+Composite
+Kompozitálás
+Szerkesztés
+kompozitáló
+Számított
+számítása
+Befejezés
+Bizalmas
+Beállításkönyvtár
+Beállítás…
+Megerősítés
+Megerősített
+ütközés
+Kongó
+Gratulálunk
+Kapcsolódás
+Kapcsolódva van
+Csatlakozás
+Csatlakozás…
+Punchidh
+Kapcsolat
+Kapcsolódás…
+Konzol
+Rögzített méretarány
+megszorításai
+segítséget
+Kapcsolat
+Névjegy
+Kapcsolatok
+Partnerek
+Névjegykártya…
+Névjegy…
+Tároló
+Konténerek
+Tartalom
+ContentSecurityPolicy
+ContentSecurityPolicyReportOnly
+ContentType
+Tartalom
+Folytatás
+Tovább
+ContinueOpening
+kontrasztú
+Támogatás
+hozzájárulás
+Közreműködők
+abatna
+Beszélgetések
+Cookszigetek
+sütiről
+Sütik
+Laza
+Példányok
+Ka copiariy
+Másolás
+Copyright
+cornish
+Szerkesztők
+kicsomagolásakor
+korzikai
+Costa
+Darab
+ellentétesen
+Ország
+Courier
+elemzést
+fogadnak
+Létrehozás
+Létrehozta
+Közreműködők
+cree
+Creek
+Kritikus
+Horvátország
+horvát
+Síró
+Cryptographic
+Ctrl
+CtrlEnter
+CtrlL
+CtrlShiftL
+lépked
+Ctrlkattintás
+Kuba
+CuforceGC
+Cunha
+Curaçao
+Current
+Kurzív
+Kurzor
+görbéjű
+Egyéni
+Customization
+Ka alabmedha'
+Testreszabás
+Ka alabmedha'
+Testreszabás…
+Egyedi…
+Egyéni…
+Ka kotoy
+Kivágás
+Váltogasson
+Ciprus
+Cirill
+cseh
+Elefántcsontpart
+D
+DB
+DC
+DD
+DECDSA
+DELE
+DER
+DERkódolt
+DEVICE
+DISPLAYNAMEfrissítés
+regisztrálásakor
+DN
+DNSfeloldás
+DNS
+DOCTYPE
+DOM
+DOMWindow
+DOMelementaddEventListener
+DOMelementremoveEventListener
+DOS
+korlátozhatja
+DSA
+DVemer
+Naponta
+Fityegő
+dán
+Dar
+Sötét
+Adatok
+URLjének
+adatbázisa
+tárolása
+Dátum/idő
+Dátum
+Dawson
+Dátum
+Nap
+DayCrash Reports
+DayCrash
+nap
+naponként
+Debug Mode
+Hibakeresés
+DebugALIGNCENTERerver
+Hibakereső
+DebuggerServer
+Debugging
+Dec
+December
+Decide
+Declaration
+Elvetés
+Declined
+Dekódoló
+Decoding error
+Decoding
+Csökkentés
+Decrypted
+Decryption
+Deer
+Alapbeállítás
+Alapértelmezett
+Default
+Alapértelmezések
+Defer Account
+átirányítása
+Define
+Defined
+Definíció DD
+Definitions
+Del
+Késleltetés
+Üzenettörlés
+Delete
+Ka pakuw
+Törlés
+Deleted
+Törlés…
+Deleting a
+Deleting component
+Deleting
+Deletion Error
+Deletion
+Delimited
+Delivery Format
+Delivery Status Notification
+Kézbesítési
+Dánia
+Denver
+Letiltás
+Tiltás
+Yab ka jila'
+Osztály
+Részleg
+Csökkenő sorrendben
+Describe Problem
+Describe
+Leírás
+visszaalakítása
+Design Mode
+Design View
+tajk
+Desktop Backgroundbmp
+Desktop Open &quot
+Asztal
+Destination Folder
+Destination
+Destroy
+Detach
+Leválasztás…
+Detail
+Details of
+Részletek
+Részletek
+Részletek…
+Tin kwentaj
+Detect indentation
+Detect
+Determining which
+Determining
+DevTools
+Devanagari
+Developed
+Developer Edition
+Developer Tools
+Fejlesztő
+Fejlesztők
+Development
+Device &quot
+Eszköz
+DeviceShare
+Eszközök
+Devicex
+Dekélia
+Diagnosztika
+Dial
+Párbeszédablakbeállítás
+Dialog
+Dialogs
+Dictionaries …
+Szótárak
+szótárhoz
+Did
+Diego
+Different
+DiffieHellman key
+DiffieHellman
+Digest function
+Digest was
+kivonatoló
+Digg Reader
+Digg
+Digital
+Méretek
+Direct
+DirectD
+DirectWrite
+Keresés iránya
+Directive
+Címtárak
+Directory &apos
+Directory Servers
+Directory
+Disability access
+Disability
+Letiltás
+Tiltva
+Disables
+Disabling
+Discard closed
+Discard
+Discarded packets
+Discarded
+Leválás
+Leválás
+Leválásellipsis
+Szétkapcsolás…
+Disconnectme strict
+Disconnectme
+Bontás…
+Discontinue Link
+Discontinue
+Discover
+Discussions
+Disk
+Eltüntetés
+Display a
+Becenév
+Megjelenítendő név
+Megjelenítés
+Displays the
+Megjeleníti
+Distinguished
+Distribution Points
+Terjesztés
+Distrust
+divehi
+Dzsibuti
+Értesíti
+aljához
+dokumentumok
+Document Outline
+Dokumentum
+Dokumentumok
+Doe
+Doing
+Domain GUID
+Tartomány
+Domains
+Domestic
+Dominátor
+Dominátorok
+Domingo
+Dominikai Közösség
+Dominikai
+Don &apos
+Don
+Befejezés
+Ka putumedha'
+Kész
+Nyomtatás kész
+Double click
+kétszeres
+Doublecheck
+Doubleclick
+Lefelé
+Download Link
+ 
+Letöltés
+DownloadRestart
+Letöltve
+Letöltés
+Letöltés…
+Axi u pa’bamal
+Letöltések
+Draft Message
+Piszkozat
+Piszkozatok
+Húzás
+Draw draws
+Újrarajzolt
+Draw
+Driver Verification
+Driver
+Illesztőprogramok
+Drives
+Drop a
+vidd
+Dropping a
+Dropping
+DuckDuckGo
+Határidő
+Dump
+Duplicate name
+Duplicate
+Duraterver
+Hossz
+holland
+dzongkha
+ECDSA Signature
+ECDSAaláírás
+EDI Party Name
+EDI Party
+EDI
+EHLO
+EMail Certificates
+Email
+Levelezés
+ERROR
+HIBÁK
+ES
+ESC
+EUCJP
+EUCKR
+EUCTW
+EV
+EXTRACTION_FAILED
+Each
+Eager
+Earlier
+Keletázsiai
+East European
+East
+Eastern
+Ecuador
+Edgeből
+Edit Conditional
+Ka tsab ts'ejka'
+Szerkesztés
+Szerkesztés
+Edition
+Szerkesztő
+Editors
+Szerkesztés…
+Egyiptom
+Either
+El Aaiun
+El Salvador
+El
+eltelt
+Element
+ElementmozRequestFullScreen
+ElementrequestFullscreen was
+ElementrequestFullscreen
+ElementrequestPointerLock
+Elements
+Email Address
+Email
+Zavarban lévő
+Beágyazott
+Beágyazott
+Emírségek
+Hangsúly
+Emptied Trash
+kiürítve
+Üres
+Emulate
+Engedélyezés
+Lekw'tsiy 
+Engedélyezve
+Enables
+Encipherment
+Kódoló
+Encoding While
+Kódolás
+Encodings
+Encrypt
+
+Titkosított
+Encrypting File
+Encrypting
+Titkosítás
+Befejezés
+End
+Vége
+EndUser Rights
+uchbil
+Vége
+Endian
+végpont
+kikényszerítése
+Engine
+Engineering
+Engines
+English US
+English USASCII
+English language
+Magyar
+angol
+Enhanced
+érintésekor
+Enter &apos
+Enter Full
+Enter that
+Enter
+Entered
+Entering
+Bejegyzések
+Entry
+Enumerable Properties
+felsorolható
+Környezet
+Epiphany
+Equatorial Guinea
+Egyenlítői
+Eritrea
+Hiba
+Hibák
+Esc
+eszperantó
+Észtország
+észt
+Etiópia
+Etióp
+Eudorabecenevek
+Eudorabeállítások
+Eudora mail
+Eudora
+Európasziget
+Europa
+Európa/Amszterdam
+Európa/Andorra
+Európa/Asztrahán
+Európa/Athén
+Európa/Belgrád
+Európa/Berlin
+Európa/Pozsony
+Európa/Brüsszel
+Európa/Bukarest
+Európa/Budapest
+Európa/Busingen
+Európa/Chisinau
+Európa/Koppenhága
+Európa/Dublin
+Európa/Gibraltár
+Európa/Guernsey
+Európa/Helsinki
+Európa/Isztambul
+Európa/Jersey
+Európa/Kalinyingrád
+Európa/Kijev
+Európa/Lisszabon
+Európa/Ljubljana
+Európa/London
+Európa/Luxemburg
+Európa/Madrid
+Európa/Málta
+Európa/Mariehamn
+Európa/Minszk
+Európa/Monaco
+Európa/Moszkva
+Európa/Nicosia
+Európa/Oslo
+Európa/Párizs
+Európa/Podgorica
+Európa/Prága
+Európa/Riga
+Európa/Róma
+Európa/Szamara
+Európa/Szarajevó
+Európa/Szimferopol
+Európa/Szkopje
+Európa/Szófia
+Európa/Stockholm
+Európa/Tallinn
+Európa/Tirana
+Európa/Uljanovszk
+Európa/Ungvár
+Európa/Vaduz
+Európa/Vatikán
+Európa/Bécs
+Európa/Vilnius
+Európa/Volgográd
+Európa/Varsó
+Európa/Zágráb
+Európa/Zaporozsje
+Európa/Zürich
+Európa
+European
+Eustatius and
+Eustasius
+kiértékelés
+Kiértékelés
+Evaluated JavaScript
+kiértékelt
+Evaluating
+Evangelism
+Even
+Esemény
+Események
+Esemény…
+Every Time
+Minden
+Minden
+kiürítése
+ewe
+Példa
+Excellent
+Except
+Exception …
+kivétel
+Axi u awil ka eyendha'
+Engedélyezett webhelyek
+Kivételek
+Axi u awil ka eyendha'
+Kivételek…
+Exchange
+ExecShell &quot
+Héjvégrehajtás
+Executable
+Execute Menu
+Végrehajtás
+Executing s
+Executing
+Execution stopped
+végrehajtásának
+Executive
+Existing
+Exists
+Kilépés
+Kit kalej
+Exited
+Exiting
+Expand/Collapse
+Nyissa le
+Kinyitott
+Lenyitva
+Expected
+Kísérletek
+Lejárt
+Expires On
+Expires Seconds
+Lejár
+Lejárat
+Explorer
+Exponens
+Exportálás
+Exportálás…
+Exposing chrome
+Exposing
+Expressből
+Expression
+Expressions
+
+Törlés
+Extended Telemetry
+Extended
+Extending
+kiterjesztés
+Kiterjesztések
+External
+Extra Components
+Extra
+Extract
+Extracting s
+Extracting
+Extracting…
+Pipetta
+F GB
+F turns
+F/Escape
+F
+FAILED
+FALLBACK section
+URIcímeknek
+GYIK
+FAQs feedback
+GYIK
+FCC
+FHR data
+FHR
+FIPS
+FONT
+FONTHR
+FORTEZZA chain
+FORTEZZA
+FTP Proxy
+host
+FUNCTION
+FWverzió
+FW
+FYR
+Facebook Chat
+Facebook
+Faeroese
+Sikertelen
+Failure
+Failures
+Falklandszigetek
+Falkland Islands
+Falkland
+Fallback Character
+Fallback
+visszaváltás
+Falling
+False
+Család
+Díszes
+Feröerszigetek
+Faroe
+färöi
+Perzsa
+Faso
+gyorsak
+Fatal
+Favorite Folder
+Favorite Folders
+Kedvencek
+Kedvencek
+Fax Number
+Fax
+Feature
+Funkciók
+Képességek
+Febr
+Február
+Államszövetség
+Federated States
+Federated
+Federation
+Feed Location
+Feed
+Feedback Agent
+Feedback …
+Feedback
+Feedly
+Hírforrás
+Hírforrások
+Feel
+Festival
+Fetch function
+Fetch headers
+Fetch
+FetchEvent
+FetchEventpreventDefault
+FetchEventrequest
+FetchEventrespondWithnek
+Lekérés…
+Kevesebb
+Field
+Mezők
+Fifth
+Fidzsiszigetek
+fidzsi
+File System
+Axi dheyach
+Fájl
+Iktatás
+FilelastModified
+FilelastModifiedDate is
+FilelastModifiedDate
+Óriásfájlküldés
+Óriásfájlküldés…
+Fájlnév
+Files
+Fájlok…
+Fájl
+Fájl…
+Filing Cabinet
+Kitöltés
+Filter Box
+Filter Execution
+Szűrés
+Szűrő
+Filtering
+Szűrők
+Finalizing
+Keresés
+Finder
+Findings
+Ka aliy…
+Keresés…
+Fingerprint
+Ujjlenyomatok
+Finish Customizing
+Befejezés
+Kész
+Finnország
+finn
+Firebird
+Firebug
+Firefox Support
+Firefox can &apos
+Firefox doesn &apos
+Firefox
+Első
+Vezetéknév
+Illesztés
+Five
+Fix Table
+Fix
+Fixed
+Zászlócska
+Zászlózott
+lángdiagram
+Flame
+Flash embed
+Flash
+rekurzió
+Flexible Space
+Flexible
+Focus
+Mappa
+Mappák
+Mappa…
+Follow
+Követők
+Követve
+Válasz
+Hírcsop vál
+Nyilvános válaszcím
+Fond
+Betű
+Betűkészlet
+Betűk
+Footer
+élőlába
+Szájbarúgott
+Ennél
+Force
+Örökké
+Forge
+Forgery
+Elfelejtés
+Form History
+Űrlap
+Formátum
+Formátum
+Formázás
+Űrlapok
+Fort
+Fortezza
+Forum
+Forums
+Axi tal 
+Előre
+Továbbítás
+Továbbított
+Forwarding
+Found
+védjegyei
+Four Hours
+négy
+Fourth
+P
+
+Frakkin
+marco
+Framerate
+Frames painted
+Frames parsed
+Frames presented
+Keretek
+Franciaország
+Ingyenes
+Szabad
+French Southern
+francia
+Frequency
+Gyakori
+Pé
+Péntek
+fríz
+friuli
+From History
+From List
+Ettől
+Feladó
+Kezdete
+Front facing
+chilla
+Rosszkedvű
+fulah
+megjelenhetnek
+Fullscreen
+Fun To
+Fun
+Függvény
+Futuna
+A jövőben
+GB
+GBK
+GC Event
+GCszelet
+GC
+GCLI is
+GCLI
+GDI Library
+GDI
+Provider
+GENERAL
+GEOSTD
+GLSL code
+GLSL
+GMTString
+GPU
+GSSAPI realm
+GSSAPI ticket
+GSSAPI
+GTK
+GUID
+Gabon
+kelta
+Gaia
+Galeon
+galíciai
+Gallegos
+Gambia
+Gambia
+Játékvezérlő
+Játékkonzolok
+Gaming
+ganda
+Gap from edge of paper to Margin
+Gap from
+Helyköz
+Garbage Collector Roots
+Garbage
+Garcia
+Gated Crypto
+kezdeményezett
+Gaza Strip
+Gázai
+Gecko
+Geckoreg
+Geckotrade
+General Notification
+Általános
+Generate a
+Generate
+előállított
+Generating A Private
+Generating A
+Generating aggregate
+Dominátorok
+Generation
+Generator
+Generic
+Geographic Position
+Geographic
+Georgia and
+Grúzia
+Grúz
+grúz
+német
+Németország
+Get Involved
+Get started
+Get
+GetProcAddress of
+GetProcAddress
+GetSystemDirectory
+GetVersionEx
+GetWindowsDirectory
+Getting Started
+Getting
+Ghána
+Gibraltár
+Gives
+Glace
+Global Revived
+Globális
+Gloriososzigetek
+Glorioso
+Fogalomtár
+Gmail
+Go back
+Go forward
+Ugrás
+Jó
+Google
+Goose
+Gopher
+Gort Klaatu barada
+Gort
+Got it
+Got
+Governance
+Grab a
+Grab
+Grade
+Gradient is
+Gradient
+Grand
+Grande
+Grant
+Graph Reduction
+Graph
+Grafika
+Gravatar
+GrayScale
+Szürkeárnyalatos
+Görögország
+Greek Windows
+Görög
+görög
+Grönland
+grönlandi
+Grenada
+Grenadines
+rács
+Group List
+Csoport
+Grouped By
+Grouped
+Grouping
+költöztetése
+Grow
+Guadeloupe
+Guam
+guarani
+Guard
+Guatemala
+Guernsey
+Guess
+Guest browsing
+vendég
+Guiana
+Guinea
+GuineaBissau
+Gudzsarati
+gudzsarati
+Gurmukhi MacGurmukhi
+Gurmukhi
+Guyana
+H Line
+H
+HAR
+HError
+Vízszintes vonal
+HPKP
+HREF
+HSLA
+HSTS
+HTML Content
+HTML Domains
+HTML parsing
+HTML
+createMediaElementSourcenak
+HTML…
+HTTP Cache
+HTTPbeállítások
+HTTP Strict Transport
+HTTP
+HTTPS URInek
+HTTPS
+HWverzió
+HW
+HZ
+HZGB
+Hack the
+Hack
+Haiti
+haiti
+Halifax
+Handler
+Handling
+Handshake record
+Handshake
+Hang Report
+Hangs
+Happy
+Kemény
+hardverillesztőprogramellenőrzés
+Hardware Driver
+Hardver
+Has
+hausza
+Have an
+Have
+hawaii
+Fejléc
+Fejlécek
+Heading
+Címsorok
+Health Report
+olnal
+Heard Island
+Heard
+Hebrew MacHebrew
+Hebrew Visual
+Héber
+héber
+Magasság
+Ilona
+Szia Világ
+Hello
+Help Start
+Súgó
+Tolmixtalab
+Helper Application
+Segédalkalmazások
+Helper Threads
+Helper
+Helps
+Helvetica
+Here
+herero
+Herzegovina
+Hexa
+Rejtett
+Hide Statistics
+Hide Toolbars
+Elrejtés
+Hierarchy
+High Contrast
+Magas
+Sürgős
+Rendkívül sürgős
+Highgrade
+Highlight
+Highlighting
+Fontosak
+Hightail
+hiligaynon
+Hill
+hindi
+Tipp
+Hiri Motu
+hiri
+Histograms Collected
+hisztogramok
+Axi a tsa’biyamal
+Előzmény
+Előzmények
+Találatok
+Hnewsgroup server
+Hnewsgroup
+Ho Chi Minh
+Ho
+függesztve
+ünnepekÁllapotSzállítókUtazásSzabadság
+Home
+In Tujtal
+Kezdőlap
+Otthon
+Otthoni
+Saját
+Homepage Get back
+Honlap
+Honduras
+Hong Kong
+Hong
+Honolulu
+Vízszintes
+Gép
+Kiszolgáló
+Kiszolgálóoldali
+gépnév
+Gépnév
+Hotspot Properties
+Hotspot Target
+Hotspot
+Hour &#124
+ó
+óra
+takarítás
+adhindha
+Howe
+However we
+Azonban
+Howlandsziget
+Howland
+Http
+Hatalmas
+Humans
+magyar
+Magyarország
+ve visited
+I Do
+I II
+I Know
+I Understand
+I am currently away
+I close brandShortName
+I don &apos
+I ii
+s
+I think I &apos
+I understand
+I
+IBM
+IBMI
+ICE State
+ICE Stats
+ICE
+ICQ
+ICS
+Azonosító
+IDLE
+II III
+II
+III
+IIRFilterNode
+IM
+IMAP Flag
+IMAP
+INADEQUATE
+INBOXmsf
+INI
+IP Address
+IP address
+IP
+IPC
+IPk
+IRC Nick
+IRC Operator
+IRC
+CSAK
+ISDN
+ISO ISO ISO
+ISO
+ISOCN
+ISOE
+ISOI
+ISOIR
+ISOJP
+ISOKR
+ISOx
+ISP
+IV
+Iaposm
+Izland
+izlandi
+Ikon
+Csak ikonok
+Azonosító
+azonosítása
+Identifier
+Identities …
+Azonosságok
+Felhasználó
+Tétlen
+ido
+Ha
+igbo
+Ignore Caught
+Ignore Scaling
+Ignore Word
+Ignore this
+Kihagyás
+Ignoring
+Image DataURL
+Image Dimensions
+Image Map
+Image map
+Kép
+Képek
+Kép…
+Import your
+Importálás
+Importance
+Fontos
+Importálás
+Importálás…
+Importálás…
+In Days
+In EHLO reponse
+In Finder
+In Use
+In
+InAutoon
+InBrowserElement
+Válaszazonosító
+Beérkezett üzenetek
+Inctől
+Bejövő
+Hiányos
+Incorporatedtől
+mögött
+Növelés
+növekményes
+fokozatos
+Behúzás
+Tárgymutató
+Indexelt DB
+indexelve
+Indexelt DB
+indexelő
+Indexek
+India
+Indiai óceán/Antananarivo
+Indiai óceán/Chagos
+Indiai óceán/Christmas
+Indiai óceán/Cocos
+Indiai óceán/Comoro
+Indiai óceán/Kerguelen
+Indiai óceán/Mahe
+Indiai óceán/Maldives
+Indiai óceán/Mauritius
+Indiai óceán/Mayotte
+Indiai óceán/Reunion
+Indiana
+Egyén
+Indonézia
+indonéz
+Info
+Információ
+ejka
+Örökölve innen
+Örökölve
+init
+előkészítése
+kezdeményezése
+Inlet
+Beágyazva
+Ártatlan
+Bevitel
+Insert
+Beszúrás
+Vizsgálat
+Vizsgáló
+Ka punuw
+Telepítés
+Telepítve
+Telepítés
+Egész
+Egész szám
+rendszerbe
+Sértetlenség
+Interakció
+Interface
+interlingua
+interlingue
+Internetes
+Első lépés
+inuktitut
+inupiaq
+Érvénytelen
+megfordítása
+Láthatatlan
+Meghívók
+Irán
+Irak
+Írország
+ír
+Isabel
+sziget
+szigetek
+Man
+Izrael
+Kiadva
+Kibocsátó
+fájljaira
+olasz
+Dőlt
+Olaszország
+tójlab
+Iteráció
+JIS
+JIT
+JS
+JSM
+JSON
+JSONP
+EGY
+Jabber
+Jamaica
+Jan
+Január
+Japán
+Japán
+japán
+Jarvissziget
+Javát
+JavaScriptkivételek
+JavaScript
+jávai
+Jaxivo
+Jersey
+Csúszás
+Csúszáspuffer
+Kovács
+Johns
+Johnston
+Csevegjvelem
+Jordánia
+Juan
+Júl
+Július
+Ugorjon
+Jún
+Június
+Szemét
+Sorkizártra
+Sorkizárás
+K
+KB
+KOIR
+KOIU
+Kannada
+kannada
+kanuri
+kasmíri
+kasub
+kazah
+Kazahsztán
+Keeling
+Megtartás
+Kenya
+Kerberos
+Kulcstitkosítás
+Kulcsgenerálás
+Kulcs
+Keybindings
+Billentyűzet
+keyframe
+kulcsokat
+Kulcsszó
+Kulcsszavak
+Kulcsszavak…
+Keyhtml
+Khmer
+khmer
+kikuyu
+Királyság
+Kingmanzátony
+Kinshasa
+kinyarwanda
+kirgiz
+Kiribati
+kirundi
+Csókos
+Kitts
+Klaatu
+klingon
+komi
+Kong
+kongo
+konkani
+ÉszakKorea
+DélKorea
+Koreai
+koreai
+Koszovó
+Kuala
+kuanyama
+kurd
+Kuvait
+Kirgizisztán
+LDAPinicializálási
+LDAP
+LDIF
+LIST
+La
+LaTeX
+Címke
+Tereptárgyak
+területek
+Fekvő
+Nyelv
+nyelv
+Nyelvek
+Lanka
+lao
+Laosz
+Laptopok
+Nagy
+Nagyobb
+Utolsó
+Utónév
+Később
+Latin
+latin
+betűs
+Lettország
+lett
+Nevető
+Réteg
+kompozitálása
+Elrendezés
+LdapDwim
+Oldal elhagyása
+Elhagyna
+Libanon
+Baloldalt
+Balra
+Balról
+Legális
+Felirat
+set
+Leone
+Lesotho
+Kevesebb
+Betű
+Liberia
+Libpkix
+Könyvtár
+Líbia
+License
+Liechtenstein
+élettartamaláírás
+Élettartam
+Világos
+Lightning
+limburgi
+Sorszámok
+Sor
+Vászonfény
+Sorok száma
+lingala
+Hivatkozás
+Hivatkozások
+Hivatkozás…
+Lelakatolt szájú
+Felsorolás
+Listázás
+Listák
+Figyelés
+Listák
+Litvánia
+litván
+élő
+Betöltés
+Betöltés
+Betöltés…
+Betöltés…
+Helyi
+nyelv
+Helyiség
+Hely
+Ju'taj kw'ajat
+LocationAware
+helyek
+zárolt
+Napló
+Naplózás
+Bejelentkezések
+Card
+Logotype
+Hosszú
+kikeresve
+Betekintés
+Ismétlés
+Lord
+Los
+Elveszett
+Alacsony
+Kevéssé sürgős
+Lower
+kisbetű
+Nem sürgős
+lubakatanga
+Lucia
+Elképzelhetetlen
+Luis
+Lumpur
+Luxemburg
+luxemburgi
+MAC
+MANIFEST
+MB
+MD
+MDNen
+MIMEtípusok
+MIME
+MIMEverzió
+MSN
+Martin
+Mac
+MacArabic
+MacCE
+MacCroatian
+MacCyrillic
+MacDevanagari
+MacFarsi
+MacGreek
+MacGujarati
+MacGurmukhi
+MacHebrew
+MacIcelandic
+MacRoman
+MacRomanian
+MacTurkish
+MacUkrainian
+Makaó
+Macedónia
+macedón
+Madagaszkár
+Levelek
+Levelezés
+Levelező
+Levelező és hírolvasó
+beszúrásakor
+Maintenance
+malagasi
+Malawi
+maláj
+Malayalam
+malayalam
+Malajzia
+Maldívszigetek
+Mali
+Málta
+máltai
+Ka t'ojojoy
+Kezelés
+Manifest
+Kézzel
+Gyártó
+manx
+maori
+Márc
+marathi
+Március
+Marianaszigetek
+Marino
+Megjelölés
+tallózása
+Marshallszigetek
+marshallszigeteki
+Martin
+Martinique
+Egyezés
+Illeszkedik
+matematikai
+hosszként
+Matematika
+Képlet…
+Mauritánia
+Mauritius
+levélméret
+Máj
+Május
+Mayensziget
+Mayotte
+McDonaldszigetek
+Én
+mérési
+Média
+MediaRecorder
+createMediaStreamSourcenak
+MediaStreamTrackstop
+Közepes
+Memória
+Menü
+üzenetrész
+Üzenet
+MessageGet
+Üzenetazonosító
+MessagePort
+Üzenetek
+Üzenet…
+Meta
+Módszer
+Mexikóváros
+Mexikó
+Mikronézia
+Microsoft
+Középre
+Középső
+Éjfél
+éjfél
+Midwayatoll
+migrációja
+MinSupportedCPU
+MinSupportedVer
+Minh
+mini nap
+Mini hónap
+Ka tsipti'medha'
+Kis méret
+ka tsipimedha'
+Miquelon
+tükrözése
+elhelyezett
+Hiányzik
+H
+Mobil
+Üzemmód
+Modern
+Módosítva
+Módosítás
+Modul
+modulok
+Modulus
+Moldova
+Hé
+Monaco
+Hétfő
+Pénzpofa
+Mongólia
+mongol
+Figyelés
+Fix szélességű
+Montenegró
+Hónap
+Havonta
+havonta
+hónap
+Montserrat
+Tovább
+Több
+Többellipsis
+Moresby
+Marokkó
+Látogatottság
+motu
+Egér
+Üzenetáthelyezés
+Movemail
+Áthelyezés…
+Mozambik
+Mozilla
+MozillaCalEvents
+Mozillaorg
+Több hét
+Mutáció
+Némítás
+ka it'ixbedha'
+SajatSHirforrasokSopml
+ShírforrásaimSopml
+
+Nincs
+NET
+SOHA
+NIST
+NTTP
+NO
+NPN
+NTLM
+€
+Név
+Név 
+NameCompletion
+névterek
+Namíbia
+Névadás
+Felolvasás
+nauru
+navajo
+Navassasziget
+Navigáció
+ndebele
+ndonga
+Nelson
+Nepál
+nepáli
+Hálózat
+Hollandia
+Netscape
+Netscapecfg
+Hálózat
+Hálózatkezelés
+Soha
+Nevis
+Új
+Űjabb
+Hírcsoportok
+Hírolvasó
+Hírcsoport
+Hírcsoportok
+Új…
+Következő
+Tovább
+axi tal
+Nicaragua
+becenév
+Becenév
+Niger
+Nigéria
+Niue
+Nem
+Soha
+Csomópont
+hatástalan
+XPathkifejezésnek
+Jelölt
+Sortörés nélkül
+nyílik
+Ka putumedha'
+Nincs
+None
+nincs
+többszálú
+Letagadhatatlanság
+Dél
+dél
+Skandináv
+Norfolksziget
+Normál
+ÉszakDakota
+északi
+északi
+Norvégia
+norvég
+Megjegyzés
+Megjegyzés
+megjegyzésnek
+megjegyzések
+Értesítések
+Nov
+Nova
+November
+xo
+Számozott
+Számozás
+nynorsk
+OAuth
+OCSP
+OID
+OK
+OLE
+OMTC
+OPML
+OS
+OU
+OVERLAP
+Objektum
+objektumai
+okcitán
+előfordulásai
+Okt
+Október
+Odia
+Odnoklassniki
+Ki
+Kikapcsolva
+
+Kapcsolat nélkül
+Kapcsolat nélküli munka
+Kilépett
+Kapcsolat nélkül…
+törlik
+ojibwa
+Régebbi
+Omán
+Be
+Ekkor
+Egyszer
+kattintásos
+Kapcsolatban
+Egyszerre
+Hoppá
+Megnyitás
+Nyissa meg
+OpenGL
+OpenH
+OpenPGP
+megszűnt
+operátor
+Operátorok
+optimalizációk
+Optimizing
+Beállítás
+Abal ka t'ojojoy
+Beállítások
+Beállítások…
+Yan jant'oj abal ka t'ojojoy
+Szervezet
+Szervezeti
+rendszerezése
+Rendszerezés
+Szervező
+Tájolás
+Eredet
+Orija
+oromo
+oszét
+Egyéb
+Máshol
+Másik
+Egyebek
+Egyéb
+Egyébként
+Másik…
+Postázandó üzenetek
+Behúzás csökkentése
+Kimenő
+körvonalelem
+Outlook
+határidejű
+Tulajdonos 
+P/Galapagos
+P
+PDF
+PDFjs
+PEM
+PKCSkód
+POP
+POST
+BEÁLL
+PSMet
+PUBLIC
+ütemes
+PacifDebug/Galapagos
+Óceánia/Apia
+Óceánia/Auckland
+Óceánia//Bougainville
+Óceánia/Chatham
+Csendesóceán/Chuuk
+Óceánia/Easter
+Óceánia/Efate
+Óceánia/Enderbury
+Óceánia/Fakaofo
+Óceánia/Fidzsi
+Óceánia/Funafuti
+Óceánia/Galapagos
+Óceánia/Gambier
+Óceánia/Guadalcanal
+Óceánia/Guam
+Óceánia/Honolulu
+Óceánia/Johnston
+Óceánia/Kiritimati
+Óceánia/Kosrae
+Óceánia/Kwajalein
+Óceánia/Majuro
+Óceánia/Marquesas
+Óceánia/Midway
+Óceánia/Nauru
+Óceánia/Niue
+Óceánia/Norfolk
+Óceánia/Noumea
+Óceánia/Palau
+Óceánia/Pitcairn
+Csendesóceán/Pohnpei
+Óceánia/Ponape
+Óceánia/Rarotonga
+Óceánia/Saipan
+Óceánia/Tahiti
+Óceánia/Tarawa
+Óceánia/Tongatapu
+Óceánia/Truk
+Óceánia/Wake
+Óceánia/Wallis
+Óceánia
+Pack
+Package s
+Package xpi
+csomagot
+Csomagolt
+Packs
+Helykitöltés
+Page Direction
+Page Selection
+Oldal
+Pagequot
+Személyhívó
+Személyhívó
+Adott oldalak
+Pago
+Kifestés
+Pair a Device &quot
+Pair a
+Pair
+Pakisztán
+Pal Who &apos
+Pal
+Palau
+Palestinian Territory
+Palestinian
+Paletta
+páli
+Palmyraatoll
+Palmyra
+görgetés
+Panama
+ablaktábláján
+panel
+Panelek
+Panelek
+Panes
+PannerNode
+Papua New Guinea
+Pápua
+Papua
+Paracelszigetek
+Paracel
+Paragraph format
+Bekezdés
+Paraguay
+paraméterei
+Paraméterek
+Parcel
+Parent Payload
+Parent frame
+Parent
+Parental Controls
+Parental
+Paris
+Park
+Parser
+Parsing Error
+Parsing an
+Parsing
+Part Of
+Part
+PartS
+Partial
+Partially Encrypted
+Partially
+Participant
+Résztvevők
+Parts
+Party Name
+fél
+pastu
+Password Change
+Password Manager
+Jelszó
+PasswordIf
+Jelszavak
+Paste Go
+Beillesztés
+Ka ts'at'a'
+Ka ts'ata'
+Pasztellátmenet
+Pastel
+Paste…
+Patch
+Patching s
+Patching
+Útvonal
+Paths from
+Paths
+Paulo
+Pause on
+Szünet/Folytatás/Újra
+Ka kuba' lej we'
+Szünet
+Ka kuba' lej we'
+Szünetel
+Pauses the
+Szünetelteti
+Fizetés
+terhelés
+Fizetés
+Paz
+Peer
+PeerConnection ID
+PeerConnection
+Pending
+Penh
+Emberek
+Percent
+Perform a
+Perform
+Teljesítmény
+Perhaps the
+d like to
+Perhaps
+Period of Validity
+Period of
+Érvényesség
+Periodikus
+Állandó
+Permanently
+Permission
+Axi u binal
+Engedélyek
+Permit
+perzsa
+Személyes
+Personality
+Peru
+visszautasításának
+Fázis
+Fülöpszigetek
+Phishing
+Phnom Penh
+Phnom
+Phoenix
+Phone Number
+Telefon
+Telefonok
+Phonetic Name
+Fonetikus
+Fotó
+Fénykép
+Photograph
+Phrase
+Fizikai
+Pick
+Picture
+Pierre
+Pilot
+PIN
+Ping
+Mindig felül
+Pinning
+pipelining
+Pitcairnszigetek
+Pitcairn
+Pixel
+Plain
+Planner
+Plastic Pal Who &apos
+Plastic
+Platform COM
+Platform
+Play a
+Ka punuw
+Lejátszás
+Playing audio
+Lejátszás
+Please advance
+Please authenticate
+Please consider
+Please enter
+Please shorten
+tanulmányozza
+Plug a
+Plug
+PlugIns
+Bővítmény
+Bővítmények
+Plus
+Pocket
+Podcast
+PoiQA
+Pointer Lock API
+pontok
+Lengyelország
+sark
+Irányelvek
+Policy Constraints
+Policy Mappings
+Policy mapping
+tatayej
+lengyel
+Polinézia
+Popup Blocking
+Popup
+Felugró ablakok
+Felugrók
+Port
+Portable Document
+Hordozható
+Porto
+Álló
+Portugália
+portugál
+Pozíció
+Posse
+megoldások
+Küldés
+Postal Code
+Postal
+postázása
+elhalasztása
+Power
+Powered by
+Powered
+Powershare
+Practice Statement pointer
+Certification
+Pre
+előfeltétel
+Inkább
+Preference
+Axi a kulbetnal
+Axi tat a kulbetnal
+Beállítások
+Axi a kulbetnal
+Beállítások…
+Preferred
+Prefers to
+szereti
+Prefetch
+Prefetching
+Prefix
+Prefixed
+Előformázott
+hirtelen
+előzetes csomagolási
+Prepackaging
+Preparing
+Előkészítés…
+Present
+Presentation Mode
+Presentation
+Preserve
+Megőrzi
+Előbeállítás
+Előbeállítások
+Nyomja meg
+Pressing F
+Pressing
+Prettify
+Pretty Print
+Pretty
+Prevent
+Előnézet
+Previewed
+Previewing
+Előnézet…
+Previous Session
+Előző
+Ár
+Primary Email
+Primed cache
+Feltöltött
+Primetime Content
+Primetime
+Princes
+Principal Name
+egyszerű
+Principe
+Ka punuw al i uw
+Nyomtatás
+Printed
+Nyomtató
+Nyomtatás
+Nyomtatás…
+Ka punuw al i uw
+Nyomtatás…
+Priority changed
+Prioritás
+Sürgősség
+Privacy Policy
+Adatvédelem
+Magánszféra
+Private Browsing we won &apos
+Private Keys
+Private TabformatS won &apos
+Magánjellegű
+Otthon
+Privát
+Személyes
+Kivételezett
+Privileges
+Jogosultságok…
+Pro
+Valószínű
+Valószínűleg
+Probing
+Problem
+Proceed
+Proceeding will
+Proceeding
+Process
+Feldolgozás alatt
+Feldolgozás…
+Prodigy
+előállító
+Product
+ProductName
+ProductNameInternal
+ProductShortName
+Profil
+Profiler
+Profilok
+Programikonok
+Program
+Programs Folder
+Programok
+Progress Window
+Folyamat
+Készültségi fok
+Project Lead
+Projekt
+Projektek
+Promise Debugger
+Promise
+Kérdés
+Tulajdonságok
+Tulajdonságok…
+Tulajdonságok…
+Tulajdonságdeklaráció
+Property Value
+Tulajdonság
+Proporcionális
+Propose a
+Propose
+védelemmel
+Protocol Request
+Protocol
+Protokollspecifikus
+Protocols
+Proudlybr
+Provider
+Province
+Proxyk
+Proxy
+Pseudoelements can
+Pseudoelements ‘
+Pszeudoelemek
+Psst using
+Pszt
+Publikus
+PublicKeyPins
+Közzététel
+Publishing Pages
+Közzététel
+Közzététel…
+Közzététel…
+Puerto Rico
+Puerto
+pandzsábi
+Purchase for
+Cél
+Push Endpoint
+Push
+minőségbiztosító eszközök
+QA
+QName
+QQ
+QR Scan
+QR
+Katar
+Qualified Subordination
+minősített
+kecsua
+Query
+Question
+Queued
+Gyorsszűrő
+Quick Launch bar
+Quick Launch
+Quick
+Quickly
+Quirks mode
+Quirks
+Quirky doctype
+Quirky
+Kilépés
+Kit kalej
+QuitS
+eldobja
+Kvóta
+Quotation
+Idézés
+Quotes
+RAM
+RC
+RDN
+REKORDOK
+REMOVE
+RETR command
+RETR
+RETURN
+idézőjelezett
+RGBA
+RSA Encryption
+RSA
+RSASSAPSS Signature
+RSASSAPSS
+RSS Support
+RSS
+RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders
+RTP Stats
+RTP
+Radio Button
+Radio buttons
+Radio
+Rainy
+helyezése
+Range
+Rankin
+Rate
+Értékelés
+Ratio
+Raw
+Re
+Reached
+Olvasott
+Olvasás
+ReadMark
+Reader &apos
+Reader
+Olvasás
+Ready to
+Kész
+Really fast
+Really
+Rearrange
+Ok
+Reasons
+Rebuild Summary
+újraépítése
+újraszámolása
+Receipt denied
+Receipt
+Receipts
+Receive
+Beérkezés
+Érkezett
+Érkezés
+Fogadás
+Recent htmlstrongCookies
+Recent htmlstrongHistory
+Legutóbbi
+Nemrég használt
+Nemrég érkezett
+Recent
+Recently
+újraellenőrzése
+Címzett
+Címzettek
+Recommended Components
+Ajánlott
+Újra megerősítés
+Reconnect
+Record
+Teljesítményrögzítés
+Recording
+Rögzítés…
+Visszaállítás
+Recovery Keyhtml
+Recovery
+Recur
+Recurrence pattern
+Recurrence
+kisimítása
+Redirect Loop
+Redirect
+RedirectMode
+Redirection limit
+Redirection
+Rediscover the
+Rediscover
+megnyomásáig
+Ka tsab ts'ejka'
+Újra
+Reducing the
+Reducing
+Reduction
+Reef
+Reenter
+Reference
+Hivatkozások
+hivatkozói
+Referring URL
+Referring
+Áttördelések
+Reformat
+Frissítés
+Refused
+Register Locale
+Register Server
+Register
+Regisztrálva
+Registering
+Regular Attachment
+Normál
+Reject
+Rejoin
+Related
+Viszony
+Relative positioning of
+Relative
+Relaunch
+Release Notes
+Release
+Releases
+Frissítse
+Frissítés
+Ka tsab kitna'
+töltse újra
+Újratöltés
+Remaining
+Megjegyzés
+Remind Me
+Remind
+Emlékeztető
+Emlékeztetők
+Remote Debugging
+Remote debugging
+Távoli
+Remove channel
+Eltávolítás
+Ka pakuw
+Törlés
+pakuwat
+Removes
+Eltávolítás…
+Removing
+Renaissance
+Átnevezés
+Átnevezés
+Átnevezés…
+átnevezése
+Render Mode
+Render
+Renderer
+Megjelenítés
+Renewal
+Reopen
+Repair
+Ismétlés
+Ismétlődik
+Ismétlődő
+Ismétlés
+Csere
+Replacement
+Replaces in
+Replaces
+Csere…
+Replacing
+Replicating directory entry
+Replicating
+Replication failed
+replikációja
+Megválaszolt
+Válasz
+Válaszcím
+Replying
+Replyto Address
+Replyto
+Jelentés
+ReportOnly
+Reporter
+Reports
+Köztársaság
+Request the
+Request
+RequestMode
+kezeléséhez
+Kérések
+Required
+Requires
+Reread mozcmd
+újraolvasása
+Újraküldés
+sikertelenül
+Újraküldés CC
+Újraküldés megjegyzései
+Újraküldés dátuma
+Újraküldés feladója
+Újraküldés üzenetazonosítója
+Újraküldés küldője
+Újraküldés címzettje
+Reserved
+Alaphelyzet
+In tujtal
+Törlés
+Visszaállítás
+hálós
+Resolution/Quality
+Resolution
+Feloldás
+Erőforrás
+Resources
+Responder
+Válasz
+többszöri
+Responsive Design
+alkalmazkodó
+Rest
+ka tsab japiy
+Újraindítás
+Restarting
+Újraindítás…
+Helyreállítás
+Visszaállítás
+kit wichiy ju'taj it kw'ajatak 
+Restrict
+Korlátozott
+Restyle Hint
+Áttervezési
+Eredmények
+Resume &apos
+Folytatás
+folytatja
+Retained
+Retention Policy
+Megőrzési
+Újratesztelés
+Retrieving quota
+Retrieving
+Lekérés…
+Újra
+Retrying
+Enter
+Továbbküldés
+Reunion
+Visszafele
+Reversed
+Visszatérés az utoljára mentett változathoz
+Visszaállítás
+Visszaállítás…
+Review
+Revision
+Halott
+Revocation
+Visszavont
+Rewind
+Újratördelés
+régi stílusú
+Rewriting
+rétoromán
+Rica
+Rich Text
+Rich
+Rico
+Right Click
+Jobboldalt
+Jobbra
+winab
+jogok
+Righttoleft direction
+Jobbról
+Ringing…
+Rio
+Rioja
+Risks
+River
+Roaming
+Robot
+robotok
+Roku
+Role
+Románia
+Romanian ISO
+román
+Szoba
+Root
+Roots Module
+gyökerek
+Forgatás
+Sor
+Sorok
+Rule
+Szabályok
+Ruleset
+Futtatás
+RunAppX
+Running
+Futtatókörnyezet
+Oroszország
+Russian Federation
+Orosz
+orosz
+Ruanda
+S &apos
+S Object
+S Provider
+S S Image
+S S Object
+S S
+S pixels
+S resource
+S visitors
+S ×
+
+S/S
+ya
+SASLkötés
+SASL
+SD
+SDP
+SE
+SECG elliptic curve sectr
+SECG
+SECURITY
+SEE THIS STRING
+NEM SZABADNA
+SEE
+SETTINGS
+SFailed to
+SFailed
+SHA Digest
+SHAujjlenyomat
+SHA
+ÜZENETNEK
+SHOW
+SIL Compact
+SIL
+SIM
+SIZE
+beolvasva
+SMB of
+SMB
+SMTP &apos
+
+SMTP
+SMTPAUTH
+SOCKS Host
+SOCKS v
+SOCKS
+SOccurs
+SPDY
+SZPONZORÁLT
+SQL Statements
+SQL
+SQLite
+kikeresése
+SS
+SSL Proxy
+SSL received
+SSL/TLS
+SSL
+SSLv
+SSS
+SSSS
+ST
+STARTTLS if
+STARTTLS since
+STARTTLS
+STAT command
+STAT
+MEGJELENNIE
+STouch
+AJÁNLOTT
+SVG clipping
+SVG
+SW Asian
+SW
+VÁLTÁS
+SYSTEM
+S_elemei
+S
+Saba
+Sad
+Safari
+Safe Mode
+Safe
+SafeBrowsing
+SafeMode
+Sahara
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Kitts
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Pierre
+Saint Vincent and the Grenadines
+Saint Vincent
+Saint
+Salaam
+Salem
+Salvador
+Same
+számi
+Szamoa
+szamoai
+Sampled
+Minták
+San Marino
+San
+Sandbox
+Sandboxing
+Sandwich
+sango
+Sangro
+Sanitize
+Sanitizing
+Talpatlan
+Sans
+szanszkrit
+Talpatlan
+Santa
+Santo
+Sao Tome and
+Sao Tome
+Sao
+szárd
+Sass
+Szo
+Szombat
+SzaúdArábia
+Saudi
+Save Permissions
+Mentés
+állapothoz
+Mentés…
+Saving
+Mentés…
+Saw
+Skalárok
+Scale …
+Méret
+Scaled
+Scaling
+Scam Warning Take
+csalás
+Scams
+Beolvasás
+Scanner app
+Scanner
+Scanning for
+Scanning
+Scheduling
+Scheme
+Hatáskör
+Score Origin
+Score
+Scots
+Scottish Gaelic
+skót
+Scratchpad Enter some
+Scratchpad
+Screen Orientation
+Screen reader
+Képernyő
+Screenname
+Képernyőkép
+Képernyőképek
+Parancsfájl
+Scripts
+Scroll
+ScrollLinkedEffects
+Görgetés
+Sn
+napS
+Sea
+SeaMonkey
+SeanMartell Elérhető
+SeanMartell
+Search BarName
+Search Engine
+Search Engines
+Ka aliy
+Keresés
+Searches
+Searching &apos
+Keresés
+Keresés…
+Keresés…
+Seccomp Thread Synchronization
+Seccomp
+Seccomp
+SeccompBPF System
+SeccompBPF
+Second
+Secondary Email
+Másodlagos
+Seconds
+Fejezetek
+Secure
+Securing connection
+Securing
+Security Exception
+Biztonság
+Lásd 
+Kijelölés
+Válassza ki
+Selected Frame
+Selected Tabs
+Kijelölve
+Kiválasztva
+SelectedRemove Selected
+SelectedRemove
+Selecting
+Kijelölés
+Kijelölő
+Selectors
+Kiválasztás…
+Self Cost
+Önmintavételezett
+Self Time
+Self
+Selfclosing syntax
+Önlezáró
+technológiája
+Send Verification
+Send a
+Küldés
+Feladó
+Küldő
+Küldés
+Sends a
+Sends
+Szenegál
+Érzékelő
+Sent &quot
+Elküldött elemek
+Szept
+Separate _
+Separate tags
+Separate
+CSV
+Elválasztó
+Elválasztók
+Szépia
+Szeptember
+Szerbia
+szerb
+Serial Number
+Serial
+fejtése
+Talpas
+Server Gated Crypto
+Server Gated
+Server SMTP&apos
+Server Settings
+
+Kiszolgáló
+Kiszolgálók
+Service
+ServiceWorkert
+ServiceWorkerAllowed
+Axi i binal
+Szolgáltatások
+Munkamenet
+munkamenetek
+Set Up Sync &quot
+Set this channel &apos
+Beállítás
+Setting
+Settings &#124
+Beállítások
+Ka t’ojojoy
+SettingsA
+Beállítások…
+telepítőből
+Seven
+Sminden
+Seychellszigetek
+Só
+árnyaló
+árnyékolás
+Sekély
+Megosztás
+Shared
+Sharing Indicator
+Megosztás
+Sheet
+Shift _ JIS
+Shift _
+Shift
+ShiftCtrlSpace
+ShiftRETURN Open in
+ShiftRETURN Open
+ShiftRETURN
+ShiftTab
+shona
+Vásárlás
+Rövid
+Shortcut
+im
+Shot
+Should
+Eszköztárak
+Megjelenítés/Elrejtés
+Megjelenítés/elrejtés
+Megjelenítés
+Showing
+Helykitöltés
+Shrink
+Leállítás
+Shutting Down
+Shutting
+SiInEfate
+Testvérek
+Sichuan Yi
+sichuan
+Barra axi jun pok'e'
+Oldalsáv
+Axi kw'ajat  jun pok'e'
+Oldalsávok
+Sierra Leone
+Sierra
+Sign
+Signature
+Signed
+Signer
+Aláírás
+Signon
+Silence
+Silent
+Silverlight fallback
+Silverlight
+Egyszerű
+egyszerűsített
+egyszerűsítése
+Simply
+érintési
+Simulate
+szimuláció
+szimulátorhoz
+Szimulátorok
+Since
+sindhi
+Szingapúr
+szingaléz
+Sinhala
+Szingaléz
+Saint
+siswati
+Webhely
+Oldalak
+Méret
+Átugorja
+Skype
+szláv
+szlovák
+Szlovákia
+Szlovénia
+szlovén
+Sp
+Kicsi
+Kisebb
+Smart
+Mosolygó
+Hangulatjel
+S ms
+Sms
+yekw
+pillanatképek
+szundihossz
+Socketek
+Lágy tabok
+Puha
+Szoftver
+Salamonszigetek
+Szalai
+szomáli
+Szomália
+Egyesek
+szonghaj
+szorb
+Rendezés
+Rendezve
+sotho
+Hangok
+Forrás
+Forrás 
+Források
+Déleurópai
+Dél Szudán
+South
+déli
+Space
+szóköz
+Üres hely
+Cellatávolság
+Kép körüli térköz
+Spanyolország
+spanyol
+spec
+Speculative
+Sebesség
+Helyesírás
+Helyesírás
+Helyesírásellenőrzés
+Spotlight
+Spratlyszigetek
+S pont
+Sri
+Ss
+St
+Verem
+Szabványos
+Szokásos
+Általános
+Csillag
+Csillagozott
+Indítás
+Kezdet
+Kezdés
+kezdődött
+Kezdés…
+Indítás
+Állam/tartomány
+Állapot
+Megállapítások
+Államok
+estadisticas
+statisztika
+Állapot
+Maradás
+Ka kuba'
+Leállítás
+Leállítva
+Leállítva…
+Tároló
+tárolókat
+kósza
+Utca
+Nyújtás
+Strict
+StrictTransportSecurity
+Áthúzott
+Karakterlánc
+övezet
+Strukturált
+Stílus
+Stílusok
+Stíluslap
+V
+Alparancsok
+almappa
+Almappa…
+Tárgy
+Elküldés
+Elküldve
+alrendszer
+Feliratkozás
+Kit dhuchan
+Feliratkozás…
+Alsó index
+Feliratkozás
+Alfejezet
+Alrendszerazonosító
+Altémacsoport
+Részfa
+Sikeres
+Sikerült
+Szudán
+Kiterjesztés
+Javaslatok
+Suite
+Összefoglaló
+Összegzés
+Va
+szundanéz
+Vasárnap
+Felső index
+A tanúsítványt lecserélték
+Támogatás
+Suriname
+Vezetéknév
+Meglepett
+Svalbard
+szuahéli
+Szváziföld
+Svédország
+svéd
+Swift
+Kapcsolja át
+Átváltás
+Svájc
+előbeállításnak
+szótagírás
+szimbólumok
+szimmetrikus
+Szinkronizálandó
+Sync
+Szinkronizálás
+Szinkronizálás
+Szinkronizálás
+Szinkronizálás…
+Összegezés
+Szíria
+rendszerhívásszűrés
+S×
+S×S
+LAP
+TCP
+SZABADNA
+TITLE
+TITLEKapcsolódjon
+TLS
+TOP
+TV
+TVk
+Tab
+őrzi
+Táblázat
+Táblázatok
+Táblagépek
+Táblázat…
+Lapok
+Panellapok
+Címke
+Elem
+tagalog
+Címke
+Címkék
+Címkék 
+tahiti
+Tajvan
+tádzsik
+Tádzsikisztán
+Talk
+Tamil
+tamil
+Tanzánia
+Cél
+Feladat
+Feladatok
+Feladat…
+tatár
+Tech
+Telemetria
+Tell
+Telugu
+telugu
+Sablon
+Sablonok
+Ideiglenes
+Nem megerősített
+Kifejezés DT
+Csak szöveg
+Szöveg
+C
+Thai
+thai
+Thaiföld
+Köszönjük
+céljaira
+téma
+Témák
+Ez után
+szükségesnek
+megtakarításához
+Thomas
+Témacsoport
+Témacsoport szerint
+Témacsoport
+Csü
+bélyegképe
+Bélyegkép
+Bélyegképek
+Thunder
+Thunderbird
+Csütörtök
+Tibeti
+tibeti
+Ticket
+Szoros
+tigre
+tigrinya
+Mozaik
+Tiltet
+Idő
+Idővonal
+lejárata
+Times
+Időbélyeg
+Időzóna
+Időzítések
+TimorLeste
+Apró
+Beosztás
+Cím
+Titulus
+vágólapra
+Címzett
+Címzett 
+Eddig
+Vége
+bádogemberek
+Tobago
+s
+Ma
+Mai
+Mai üzenetek
+Ki/be
+Togo
+Tokelau
+Token
+Tome
+Holnap
+Tonga
+tonga
+Nyelvnyújtó
+eszköztárról
+Eszköztárak
+Kwenel i eyendhanel
+eszközkészletgombok
+eszköztára
+Eszközadapterek
+Abal ka t'ojojoy
+Eszközök
+Buboréksúgó
+Fent
+Tetejére
+Összesen
+Érintés
+bemutató
+Nyomkövetések
+Követés
+védjegyekről
+Hagyományos
+Átvitel
+Átvíve
+átmenet
+Fordítás
+fordítás
+Fordítók
+Transport
+Törölt elemek
+aktiváló
+Trinidad
+Tristan
+Tromelinsziget
+Hibaelhárítás
+Csonkolt
+Helyette
+általánosan
+tsonga
+tswana
+K
+Ke
+Kedd
+Tunézia
+Turk
+Törökország
+Török
+török
+türkmén
+Türkmenisztán
+Turks
+Tuvalu
+Oldalerőforrás
+Tweetek
+twi
+Twitter
+két
+Típus
+Betűkészlet
+Típusok
+UID
+UIDLt
+VISSZAVONÁS
+ISMERETLEN
+UNSUPPORTED
+URI
+URLparaméterek
+URLséma
+URL
+internetfelhasználók
+USA
+USASCII
+USB
+UTC/GMT
+UTCS
+ISO
+UTFBE
+UTFLE
+Uganda
+ujgur
+Ukrajna
+Ukrán
+ukrán
+építhető
+Elfoglalt
+Feloldás
+Ne jelölje be
+Nincs kiválasztva
+Bizonytalan
+Undelete
+Visszaállítás
+Aláhúzott
+Ka pakuw xa ts'ejka'
+Ka pakuw ya ts'ejka'
+Visszavonás
+ka pakuy xa ts'ejka'
+escapelésének
+Sajnos
+kiemelésének
+Unicode
+Egyesített
+Nincs inicializálva
+Eltávolítás
+Eltávolítás
+egység
+Egyesült
+Univerzális
+Ismeretlen
+ismeretlen
+Deaktiválás
+Eltávolítás
+Hallgatás
+Hang be
+Ka ats'a'
+számozatlan
+Olvasatlan
+Regisztráció megszüntetése
+Kiregisztrálás
+Rendezetlen
+Leiratkozás
+Nem támogatott
+Címkézetlen
+terminált
+Témacsoportok nélkül
+Eddig
+Névtelen
+Nem használt
+Ellenőrizetlen
+Fel
+Felfelé
+Várakozó
+Frissítés
+Szerkesztés
+Frissítés
+Feltöltés
+Feltöltés
+felsőszorb
+nagybetű
+urdu
+Uruguay
+Használat
+lezárásához
+használat
+Felhasználó
+UserAgent
+Felhasználói név
+Felhasználónév
+felhasználók
+Using
+üzbég
+Üzbegisztán
+V
+ÉRVÉNYES
+VERSION
+VK_F
+VK_LEFT
+VK_QUOTE
+VK_RETURN
+VK_RIGHT
+VK_SEMICOLON
+VK_SLASH
+Érvényes
+Ellenőrzés
+Ellenőrzési
+Érvényesség
+Érték
+Értékek
+Vanuatu
+Változó
+Változók
+Vatikánváros
+Velho
+venda
+Venezuela
+Verify
+Ellenőrzés
+Ellenőrzés…
+Verisign
+Verzió
+verziói
+Vertex
+Függőleges
+videodekóder
+Video
+Videó
+Vietnam
+Vietnami
+vietnami
+Ka met'a'
+Megjelenítés
+Megtekintés
+Nézet
+megjelenítő
+Viewport
+Ka met'a'
+Nézetek
+Ka met'a'
+Megtekintés…
+Vincent
+Virginszigetek
+Virtuális
+Keresse fel
+látogatva
+csomagjára
+vizuális
+Hang
+volapük
+Hangerő
+FIGYELEM
+FIGYELMEZTETÉSEK
+WCAP
+WHOIS
+WS
+Várakozás
+Várakozás
+Várakozás…
+Wakesziget
+Wallis
+vallon
+kerüljön
+Figyelmeztetés
+Vigyázat
+Vigyázat 
+Figyelmeztetések
+Figyelés
+Órák
+Vízesés
+Waveform Audio
+Waveform
+ll
+S
+WeakMapet
+webhozzáférés
+WebGL
+WebIDE
+WebIDL
+WebRTC
+WebSocketek
+Webmaker
+Weboldal…
+Webhely
+Webhely 
+Sze
+Szerda
+Hét
+heti tervező
+Hetente
+hetente
+hét
+Üdvözöljük
+walesi
+Nyugati part
+NyugatSzahara
+Nyugati
+Mit
+Dátum
+Mikor
+Fehérlista
+akivel
+WiFit
+Widevine
+Szélesség
+Win
+Ablak
+Ablakok
+Tsakam wi'leb
+Windowopen
+származnak
+Kacsintó
+RSA
+mással
+Varázsló
+wolof
+Munka
+Munkahely
+Munkahelyi
+Kerülő eljárások
+Worker
+Workerek
+Munkahét
+Világ
+Át
+Keresés az egész oldalon
+Törjön
+Írás
+Új üzenet
+Engedélyezze
+írások
+írásrendszerek
+kibocsátva
+XBL
+XContentTypeOptions
+XHR
+XHTML
+XLink
+XML
+XMLHttpRequest
+XMPPt
+XP
+XPCOM
+XPConnect
+XPathfüggvényt
+XSLT
+XTND
+XUL
+XXX
+xhosa
+AZ
+Yahoo
+YandexTranslate
+Év
+Évente
+év
+évente
+Üvöltő
+Jemen
+Igen
+Tegnap
+Tegnapi
+Tegnapi üzenetek
+yi
+jiddis
+York
+joruba
+Ön
+YouTube
+Your
+Zambia
+Zeal
+zhuang
+Zimbabwe
+Zone
+In puwel
+Nagyítás
+Szöveg nagyítása
+zulu
+logikai
+kommunikációs
+Korszerű
+adathalászatot
+a powerful
+a premium
+a processor
+a promise
+a protocol
+a recursion
+a reimPacifined
+a requestAnimationFrame
+a rich
+a scam
+a searchable
+a second
+a shorter
+a single
+a smart
+a smartcard
+a smiley face
+a smiley
+a solution
+a sound
+a specific
+a star
+a stronger
+a subgrid
+a suggestion
+a surprised
+a surrogate
+a syncBrandfxAccountlabel
+a temporary
+a theme
+a themed look
+a tongueout
+a tray
+a unique
+a user &apos
+a value
+a violation
+a virus
+a waterfall
+a weak ephemeral DiffieHellman
+a weather
+a week
+a windowed
+a wink
+a year
+a yelling
+tervezte
+aChoose
+aFrames
+aIsmerje
+aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyzAÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTUÚÜŰVWXYZ
+iszonyodott
+abilities
+levelezőben
+abort
+aborted
+about About
+about Networking
+about Us
+about brandShorterName
+tudjon
+aboutconfig
+aboutcredits
+aboutrights
+aboutwebrtc
+above
+aboveAllow
+abruptly
+absence
+absolute positioning
+abszolút
+accel
+accelalt
+acceleration on
+gyorsítása
+accelshift
+accented
+fogadnia
+acceptable
+acceptcharsetutf
+accepted
+accepting site &apos
+accepting
+access Key
+access multimedia
+Érje
+paneljére
+accessibility support
+accessibility tools
+accessibility
+világhálóért
+accessing
+accidental breakage
+tanúsítványtárban
+mellékelt
+accomplished
+accordance
+according
+s
+account Actions
+account connected
+account name
+fióktól
+accountManagernewAccountlabel
+accounts
+pontosságát
+legpontosabb
+acknowledges
+elérését
+biztmat
+action
+actions
+lekw
+aktiválva
+active Logins
+aktív
+Aktivitásjelző
+Tevékenységfolyam
+weboldalelemeket
+actual Size
+tényleges
+actualDate &apos
+actualDate
+biztosításmatematikai
+adaptív
+add Exception
+add Hosted
+add Microsummary
+add Option
+add Packaged
+add Search
+add permanent
+Hozzászólás
+addEventListener method
+addEventListener
+felvette
+adatbázishoz
+additional
+additivesymbols descriptor
+additivesymbols
+addon &apos
+kiegészítőnek
+addons gallery
+frissítéseit
+addonsmozillaorg
+address Autocompletion
+address Fields
+t
+address wasn
+címben
+addressbook
+vanbr
+addresses
+addressing area
+egyezések
+adjacent
+adjust
+admin
+rendszergazdájával
+adult supervision
+adult
+postafiókbeli
+advanced JavaScript
+haladó
+advanced_pref_installation
+advancelabel
+advertise
+advertised
+advertises
+affect
+affected
+affecting
+after Sending
+after
+sikerülhet
+age
+agent
+aggregate
+aggregates
+aggregating
+hírforrásaggregátor
+ezelőtti
+agree
+agreement
+airplane
+aka NIST
+aka
+alatest
+alert description
+riasztás
+algorithb
+algorithm Parameters
+megbízhatatlansága
+algorithmhash value
+algoritmushash
+algorithms
+alignment
+alined
+alive
+all candidate
+all current
+all htmlstrongTabs
+all occurrences
+ember
+allocate
+allocated
+lefoglalást
+allocations Rate
+allocations
+allow dialogs
+allow immediate
+végezhető
+érvénytelenített
+allowfullscreen
+allowing
+allows
+allowsameorigin
+allowscripts
+majdnem
+along the Y
+ennyivel
+alphabetical
+already bookmarked
+mostanáig
+megadja
+also skip
+also
+altKeylabel
+megváltoztatása
+alteration
+altered
+Megpróbálhat
+alternatívák
+always Ask
+always Block
+always prefer
+ku
+am &#124
+am
+függvényen
+amp Security
+amp
+ampD
+ampP
+ampPT
+ampT
+ampU
+amplecom rather
+an IndexedDB transaction
+an OPML
+an XSLT
+an acceptable
+an alert
+an animatable
+an attachment
+an attempt
+an element
+an email
+an embarrassed
+an entirely
+an executable
+an experiment
+an external
+an innocent
+an instance
+an instant
+an integrated
+an interprocess
+an item
+an opaque
+an opaqueredirect
+an opportunity
+an overview
+an unbalanced
+an undecided
+an unrecognizable
+an
+elemzés
+tárolná
+ancestor elements
+ancestor
+ősei
+s properties
+anchor
+anchors
+and Antarctic
+and Authentication
+and Barbuda
+and Bottom
+and Caicos
+and Drop
+and Find
+and Footer
+and Futuna
+and Herzegovina
+and Indexer
+and Jan
+and McDonald
+and Miquelon
+and Nevis
+and Principe
+and Quit
+and Spacing
+and Symbols
+and Templates
+and Tobago
+and Tutorials
+and can &apos
+és tömörítse
+and don &apos
+and everything
+and forced
+and grew
+and htmlstrongWindows
+and light
+and pages they &apos
+and prioritize
+and receiving
+and rowand
+and technologies
+and treating
+and you shouldn &apos
+és
+szögformátum
+animatable
+animált
+animation cycle
+animáció
+animations
+évente
+anonymous box
+névtelen
+another
+answers
+antivirus software
+vírusellenes
+any applicable
+any arguments
+any article
+any automation
+any indirect
+any matching
+üzeneteknek
+anymore
+anyone
+házirendleképezés
+anything
+anyway
+anywhere
+apart
+app &apos
+app submission
+appot
+appName
+leállították
+appearance wrong
+appearance
+üresnek
+hozzáfűzése
+applicable service
+biztosított
+application Basics
+application Details
+application doesn &apos
+alkalmazás
+alkalmazások
+applied
+visszakérhetik
+érvényesítéséhez
+applying update
+applying
+appoffline
+appreciate
+approach
+appropriate intermediate
+appropriate
+approved
+nagyjából
+approximate line
+hozzávetőleges
+közelítése
+apps &apos
+appok
+apr &#124
+ápr
+április
+arbitrary
+archive
+archived folders
+archived
+archives
+archiving
+are compromised
+are correct
+are doing
+are estimates
+are governed
+are grouped
+are inlined
+are labeled
+are nonASCII
+are omitted
+are publicly
+are ready
+are trademarks
+are you sure
+váró
+area shape
+címmezőbe
+areas in
+színekkel
+t already
+aren
+argumentum
+arguments for
+argumentumok
+arising out
+használatából
+arjo
+armscii ISO ISO ISO
+armscii
+around
+arrive
+arrived
+arrives
+nyíl
+arsa
+article summary
+cikk
+cikkeinek
+artwork
+as &apos
+as Authored
+as broken
+as cURL
+as certified
+as differing
+as graphics
+as phishing
+as soon as
+as spam
+as strongww
+veszi
+ascending
+ascii
+ash
+
+asis
+ask me
+megkérni
+asked questions tips
+asked
+asking
+asks that
+asks
+aspect ratio
+aspect
+aspects
+assets
+assist you
+assist
+assistance
+társított
+association
+assume
+assured
+felsoroltként
+async touch
+async
+asynchronous Pan
+asynchronous entity
+aszinkron
+asynchronouslyloaded
+at S
+at least
+at span id &apos
+tartalmazhatja
+atchMore than
+atszabály
+beilleszthet
+csatolni
+attaching
+attachment Reminder Keywords
+attachment Reminder
+attachment attachments
+attachment reminder words
+mellékletre
+mellékletetValóban
+mellékletek
+attack An
+attack pages
+megtámadására
+attacker could
+szemben
+attackers
+attacks
+támadási
+attempted old
+attempted
+attempting
+kísérletek
+attend
+attendance
+résztvevőt
+attendees
+attention
+attribute Type
+attribútuma
+
+attribútumok
+audio Backend
+hangok
+aug &#124
+aug
+augusztus
+authenticate to
+authenticate
+authenticates
+authentication mechanism
+hitelesítése
+authenticity
+szerző
+tanúsítványait
+authority is
+adta
+hitelesítésre
+authorized
+authors whom
+authors
+automatikus növelés
+auto Prettify
+auto Save
+auto discover
+auto
+autoAddOnsUpdateslabel
+autocomplete
+autocompletion
+autodetection
+belsejében
+automated updates
+automated
+automatic updates
+automatic
+automatically Black
+automatically detects
+automatically prefill
+automatically so it &apos
+automatikusan
+automation
+autoplay
+autoscrolling
+available &quot
+available Commands
+elérhető
+átlagos
+átl
+lelassulásának
+aware
+távol
+tengely
+következőhözb
+bMég
+bS
+back facing
+back
+backed up
+backed
+backfacevisibility hidden
+backfacevisibility
+háttércsoportot
+backlogged
+backslashes
+mentésben
+mentésből
+visszafelé
+bad parameter
+Kezdjük
+badge
+baggage object
+baggage
+ban
+banks stores
+bankok
+banned
+fejléc
+bar
+barada
+alap
+based
+alapvonal
+basic Page
+basic
+battery
+be applied
+be aware
+be cleared
+be deceptive
+be delivered
+be experiencing
+be fixed
+be highlighted &apos
+be liable
+be linked
+be overwritten
+be parsed
+be prompted
+be safe
+be seen
+be shownReplies
+be synced
+be unescaped
+be uninstalled
+be unstable
+be useful
+be validated
+be very careful
+újrafeldolgozását
+bear the
+viseli
+fenevad
+beasts brought emfire
+beasts
+szépítő
+beautify
+became full
+became
+türelmi
+become
+becomes damaged
+msf
+been deactivated
+been navigated
+been reestablished
+been replaced
+been revoked
+been transferred
+been translated
+leváltotta
+beep
+követelik
+Ezért
+begin
+beginning
+begins with
+begins
+jelenítjük
+behavior
+behaviour
+viselkedésbeli
+being incompletely transferred
+being redirected
+being reparsed
+szükségessé
+believe
+believed
+belongs to
+belongs
+Entert
+benefit
+benefits
+beside
+best Match
+best accomplished
+legjobb
+jobbá
+közöttük
+bfor Android
+bgt
+bidirectional
+csatol
+bigger
+billing
+binárist
+bind DN
+bind
+binding shadows
+binding
+tageknél
+bindings
+bird
+birdcage …
+madárkalitka
+birth
+bit keys
+ bites
+bitsebesség
+bit
+bitten
+fekete
+üres
+block Lists
+block padding
+blokkolásában
+blockAttackSiteslabel &quot
+blockAttackSiteslabel
+blockWebForgerieslabel
+blocked Popups
+Megoldatlan
+tiltási
+blocks parts
+blocks
+blue &quot
+blue
+bm
+bmp
+board
+bodies
+tözs
+hírforrásfeliratkozásokat
+bookmark updated
+bookmark
+könyvjelzőzve
+könyvjelzőket
+books
+logikai
+bootloader
+border &apos
+border radius
+szegély
+szegélyeinek
+alul
+fogadásához
+lent
+egyikéhez
+részesítésével
+határain
+box Model
+box model region
+box model
+dbz
+doboz
+boxcom
+boxed
+szövegbeviteli
+tételkor
+br
+zárójel
+braces
+brackets
+brand new
+brand profile
+titkosította
+brandFullName Credits
+brandFullName
+brandShortName &apos
+brandShortName Preferences
+brandShortName logo
+brandShortName
+brandShorterName Tour
+brandShorterNameból
+brandShortname
+break
+breakage
+breaking
+töréspontig
+töréspontok
+sortöréseket
+fényesebb
+előtérbe
+tág
+broken
+fenevadak
+browse
+browser &apos
+Böngészőlefagyások
+browser configurations
+exobna
+browsercachediskenable to
+browsercachediskenable
+browsers
+böngészési
+brulliIf
+gmb
+partnerlistájáról
+buddy
+budget
+Pufferkapacitás
+decodeAudioDatanak
+bug
+bugs visit
+bugs
+bugzillamozillaorg
+build Configuration
+készítésében
+building summary
+built
+builtin Roots
+builtin tools
+builtin
+bulleted list
+bulleted
+business
+Megállíthatja
+but we
+azonban
+button button
+gomb
+választógombok
+by Added
+by COLNAME
+by Parental
+by YandexTranslate
+by choosing &apos
+by comma
+by completion
+by design
+by entering
+integrálásával
+by navigatormediaDevicesgetUserMedia
+by price
+by probing
+by relevance
+by remembering
+by vendorShortName
+by xslmessage
+rendezése
+bynbspdesign
+byte
+byte
+bájt
+c
+oSsS
+cURL
+cache management
+gyorsítótár
+cachecontrol set
+cachecontrol
+gyorsítótárban
+cachemanifestnek
+caching of
+caching
+calendar Weeks
+naptárkiszolgálóhoz
+calendaring information
+calendaring
+naptárakat
+calendartimezonesxpit
+call Stack
+call calls
+karakterláncból
+callUrl
+visszahívás
+called &apos
+fájlról
+callees
+caller
+calling detach
+calling
+hívások
+Camara
+t browse
+can analyze
+can collect
+can often
+can ’
+átveheti
+cancel
+Lemondott alkalmak
+betöltést
+cancellation
+megszakították
+cancelledAddon
+candidate resources
+candidate
+cannot Open
+cannot Setup
+cannot Show
+cannot decrypt
+cannot encode
+szerkesztővel
+canvas Debugger
+canvas an
+vászon
+javasol
+capable
+capacity
+capitalization
+képaláírás
+capture
+captureEvents
+captured log
+captured
+card
+cards copied
+cards etc
+cards
+dolgok
+azonosították
+carefully
+caret
+carriage return
+carriage
+carrier
+case sensitivity
+case
+caseinsensitive
+esetben
+cast
+kategóriák
+categorize and
+kategorizálására
+kategória
+categorySource
+cause
+caused
+causes
+causing stability
+ko
+óvatos
+caveats
+oo
+cd
+cell border
+cell was
+cella
+celláit
+cellular location
+cellular
+census
+center footer
+center header
+center
+centered
+középpontx
+centimeters
+cert AIA
+Tanúsítványkönyvtár
+cert validation
+tanúsítványellenőrzési
+modulokat
+certificSian
+Tanúsítványmezők
+Tanúsítványhierarchia
+Tanúsítványmegjelenítő
+kerülheti
+certified
+ch
+elnökli
+változtassa
+megváltoztatta
+állandóvá
+változása
+csatornát
+csatornához
+karakter szélesre
+behúzásához
+charset
+csevegési
+ellenőrzés
+bejelölése
+bejelölve
+ellenőrzi
+másolatból
+gyermek terhelés
+gyermeket
+gyermekek
+ from
+értesítésben
+mindenek
+chrome//messenger/content/msgAccountCentralxul
+felületi
+kör
+kör
+körkörös
+várost
+magukat
+elkészítéséhez
+választhatja
+rákattintva
+eltávolíthatja
+indulóvá
+Ügyféloldali
+másolandó
+vágás
+záró
+bezárva
+Lezárja
+időzónájában
+felhőbeli
+kódját
+videokodeket
+colgroup
+összecsukása
+összecsukva
+összegyűjtött
+gyűjtésének
+kikényszerítéséhez
+kollektív
+Színnevek
+pipetta
+színegység
+szín
+naptárnak
+színeit
+oszlop
+kombinátor
+legördülő
+paranccsal
+parancsoktól
+megjegyzésen
+Zaklatások
+közös
+kommunikáció
+kommunikációs
+tsabal
+összehasonlítása
+összehasonlított
+compile
+kiegészítő
+os
+elkészülési
+internetkapcsolatot
+elkészülés
+szabványkompatibilitási
+Visszatér
+szerkesztőben
+kompozitálón
+kötnünk
+s browser
+számítógépében
+conbv
+konferenciát
+Beállítási
+configurable
+konfigurációs
+szöveggel
+konfigurálni
+konfigurálva
+mappáknak
+megerősítette
+vonatkoznak
+megfelele
+böngészőjében
+teremteni
+Connection
+ezekre
+egymást
+büntetőjogi
+verzióhoz
+konzol
+consoleinfo
+consolelog
+S
+megszorítások
+kulcsrögzítés
+kapcsolatba
+t
+névjegyeket
+tartalmaznak
+XULdoboza
+bezáródik
+Szerezzen
+tartalmazza
+tartalom
+számozása
+Előugró menük
+üzenetekre
+kontextusok
+teljesítményére
+összeggel
+közreműködők
+átvételét
+vezérlőelemek
+listájabr
+partnerlistája
+alakítva
+Sütikezelési
+sütiket
+koordinátapár
+koordináta
+coords
+másolva
+copiedS
+másolatok
+írásához
+ellenőrzéséhez
+kapcsolattartójával
+szerkesztők
+sérülését
+használhatósága
+t join
+darabszámváltozásai
+darabszám
+számlálóleíró
+számlálók
+counterstyle
+lefedettségi
+cpnbv
+cpnbw
+s
+hibajelentések
+összeomlott
+létrehozzon
+MediaStream
+létrehozva
+sorát
+létrehozáskor
+bankkártyaadatokhoz
+kritikus
+crossorigin
+css
+ctnbr
+ctnbv
+Ctrl
+ctrlKeylabel
+életbe
+navegador
+görbe
+egyéni
+testreszabások
+wal
+URLeket
+szabásáról
+Kivágás
+Ciklushivatkozás
+ciklusgyűjtő
+ciklust
+léptetve
+Ds árnyékolás
+d
+da
+naponta
+kárért
+sötétségtől
+sötétségbe
+darrinhenein
+Adattitkosítás
+egyezett
+kulcsadatbázis
+datareporting
+dátum
+dátum 
+nap
+napnap
+nap
+nap múlva
+napig
+napra
+halottnak
+hibakeresése
+hibakereső
+dec
+becsaphatják
+december
+félrevezető
+Döntésnapló
+deklarációját
+protokollban
+elutasíthatja
+titkosításaMindig
+Dekódolt
+Dekódolási
+visszafejtéséhez
+alapértelmezett
+defaultPreventedet
+alapértelmezettS
+alapértelmezésére
+definíció
+fok
+késleltetése
+őt
+törölve
+Törlési
+kézbesítése
+programja
+oszt
+tagadva
+nevező
+tokennél
+leíró
+megszüntetett
+leválasztása
+teje
+érzékelni
+észlelve
+felismerési
+felismeri
+jelöli
+developermozillaorg
+fejlesztők
+eszközt
+eszközökön
+devtoolsdebuggerremoteenabled
+átlós
+diagram
+párbeszédpanel
+szótárban
+Eltérések
+tudják
+digest
+digitálisan
+karakterreferenciában
+méreteinek
+irány
+direktívát
+direktívákban
+ certificates
+könyvtárhoz
+letiltás
+letiltva
+eldobása
+elutasítás
+leválasztva
+felfedezése
+támogatói
+Lemezes
+továbbítva
+tekinteni
+megkülönböztető
+terjesztenek
+visszavonja
+div
+osztásjel
+újratöltéskor
+docdocxpdfxlsxlsxpptpptxrtfppsodtodsodpodgodbattachattachmentattachmentsattachesattachedattachingencloseenclosedenclosingenclosesenclosureenclosuresCVcover
+doksi
+doctype
+s
+dokumentum
+dokumentációt
+documentdomainS
+cut
+postafiókon
+meghívott
+tanúsítványadatbázisban
+t contain
+valósítja
+ötszáz
+tartományban
+jelentésének elkészítése
+jelentésének
+t Share
+kövessék
+visszaállításra
+pont
+tömeges
+támogatottnál
+letöltés
+letöltéseKiegészítők letöltése
+letöltéseket
+Fogd
+engedélyezését
+rajzolás
+meghajtó
+illesztőprogram
+dobva
+memóriakép
+kettőzött
+levőével
+érvényesítése
+leátlósáthúzás
+e
+Mohó lefoglalás
+egyszerűbb
+lehallgatásnak
+szerkessze
+szerkesztés
+szerkesztő
+fenntartásáért
+naplózandók
+nyolc
+eightbit
+tizennyolc
+tizennyolcadika
+nyolcadika
+körülvéve
+telt el
+elea reime
+elem
+elementdataset instead
+elementdataset
+elemeiben
+elementsetAttribute instead
+elementsetAttributet
+elementsetAttributeNS instead
+elementsetAttributeNSt
+tizenegy
+tizenegyedike
+eligible
+elliptic Curve
+elliptic curve conbv
+elliptic curve cpnbv
+elliptic curve cpnbw
+elliptic curve ctnbv
+elliptic curve primev
+elliptic curve
+elliptikus
+else contact
+lépjen
+em
+emMammon
+email Recipient
+email Scams
+email address
+email addresses
+email correspondent
+email
+emailI &apos
+vanAz
+emailed
+emailexamplecom
+találatokért
+emand
+embarrassed face
+embarrassed
+embarrassing
+beágyazásra
+embedded PDF
+embedded
+embeds
+emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon
+emcontributor
+emcontributorJoe Solon
+emcontributorTímár
+emcontributorSuzy
+emtüzet
+emgreat
+emnew
+emnem
+grafikaként
+employer
+empty Trash
+empty slots
+Egyeztessen
+ürítse
+emreborn
+emrenewed
+emgyorsan
+emthunder
+emikrei
+emulate a
+emulálása
+emulating a
+emulating
+emulation
+en
+enUS en
+huHU
+enable brandShortName &apos
+enable others
+Workek
+engedélyezés
+enablePersonalizedlabel
+enablePrivilege
+enableSafeBrowsinglabel
+enabled Plugins
+enabled excluding
+engedélyezve
+enables
+enbz
+körbezárt
+encode
+kódolva
+kódolni
+encoding
+okozzák
+encountered
+encrypt this
+titkosításához
+encrypted you
+titkosított
+Encryption
+enctype instead
+enctype
+enctypeSt
+enctypemultipart
+end user &apos
+befejezési
+ended
+endexpand
+ending with
+ending
+endpoint
+ends up
+ends with
+ends
+enforced
+engage
+vehető
+engines
+továbbfejlesztett
+megtapasztalhatja
+enlarging the
+átméretezni
+enough
+ensure
+ensures that
+ensures
+űrlaphoz
+belépett
+entering
+kitölthesse
+entire
+entirely
+escapeelése
+entity in
+entity reference
+entitás
+bejegyzések
+beviteli mező
+enumerable
+enus
+environment Data
+környezet
+environments
+ephemeral DiffieHellman
+efemerális
+equals sign
+equals
+egyenlet
+equestAnimationFrame
+era of
+erase
+error console
+error creating
+error refiling
+enged
+errorCode
+hibamentes
+hibák
+erver
+es Salaam
+es
+esES
+esc
+escape
+escaped
+escaping
+létesíteni
+established
+estimates only
+estimates
+bankkártyaadatokat
+evalhoz
+evaluate selected
+evaluate
+evaluating a
+evaluating an
+evaluating
+evaluation
+even
+Eseménykezelő
+lefusson
+eseményenkéntA
+események
+valaha
+minden napminden
+minden hétenminden
+every
+Syncet
+everything inbetween
+everything
+everywhere
+megnyitását
+exactly
+examf
+examine your app &apos
+megvizsgálása
+példa
+examplecom rather
+examplecom
+cegnevhu
+examplenet
+exceed five
+exceed the
+exceed
+túllépve
+exceeds
+except
+kivételt
+exceptions Cookies
+exceptions
+exchange
+excluded
+nem tartalmazza
+kizárását
+executable
+futtathatná
+executed to
+executed
+végrehajtja
+végrehajtásához
+példamutató
+exist can &apos
+exist
+meglévő
+exists
+existsWould
+kilépésekor
+exited
+exits
+expand panes
+kinyitása
+expanded to
+kibontva
+expanding out
+expanding
+expands to
+vezérlőkarakterre
+expandstrict
+expect anonymous
+expect
+expectations
+expected charset
+expected coordinate
+expected counter
+expected identifier
+expected nonnegative
+expected part
+kiegészítővel
+expecting
+élményt
+experienced
+experiences
+experiencing
+experiment
+walam
+experiments
+expire
+lejárt
+expires Seconds
+expires
+expiry
+explicit
+explicitly specify
+explicitly
+sebezhetőséget
+explore a
+explore
+export regulations
+exportálása
+exportálható
+expose
+exposedProps
+kifejezett
+kifejezés
+kifejezések
+extend
+extended
+extending the
+Extending
+extends system
+extends
+extensible
+extension extensions
+extension
+kiterjesztések
+external Editors
+external storage
+external
+extra Large
+extra requirements
+extra
+extract error
+Naptárinformációk
+extraction error
+extraction
+extreme
+f
+arc
+facing camera
+néző
+factory
+hibákba
+teljesül
+fails treat
+fails
+failure
+dolás
+Yab chubax
+false
+hamis
+familiar
+family addressbr
+family
+far
+fast
+gyorsabb
+faves
+kinyomtatva
+funkciót
+funkciók
+feb &#124
+feb
+február
+feed &quot
+feed Subscriptions
+hírforrást
+feedImported
+visszajelzését
+feeds
+feel
+feels great
+nagyszerű
+fell
+kerítés
+fetch count
+Függvénynevek
+fetched from
+lekérve
+fetching individuals
+fetching more
+fetching
+few
+fewer
+ff &quot
+ff
+field Value
+mezőhöz
+fields
+tizenöt
+tizenötödike
+ötödike
+ábr
+ábra
+file &quot
+file Attach
+file Upload
+file vcf
+file }
+fájl
+fájlnevek
+fájljai
+filesystem
+filing
+fill out
+Kitöltés
+fillStyle
+filled
+filling
+filter JSON
+filter Rules
+filter Variables
+filter event
+filter variables
+szűrő
+szűrni
+filtering
+alkalmazását
+final
+financial
+find In
+find exactly what you &apos
+find out what &apos
+megtalálását
+szövegek
+finding
+kompatibilitása
+finish
+finished evaluating
+finished
+finishing
+fire
+firefox
+firefoxapps
+firewall
+firewalls
+first option
+first party
+elseje
+megfelelnek
+öt
+megoldani
+fixed Width
+fixed width font
+fixed
+fixvideoaudioproblemsfirefoxwindows
+zászlócska
+csillagozva
+flame
+flash
+flashing
+egyszerű egyenlet
+flat
+flexibility and security so you &apos
+flexibility
+flexiblebr
+floating &quot
+lebegő
+folyosó
+floppy
+huf
+focus Variables
+focus
+focused
+folder &apos
+folder &quot
+folder subscriptions
+mappáról
+mappákat
+kövesse
+followed by
+followed
+followers
+following protocols S isn &apos
+következõ
+follows
+followup
+font Control
+font size
+font
+fontface rule
+fontface
+fontfeaturevalues
+fonts for
+maguk
+fontvariant property
+fontvariant
+footer text
+lábléc
+footinmouth face
+footinmouth
+for &apos
+ Automatically check for updates
+törlésének
+for DTLS
+for Developers
+for Legacy
+for ProductShortName
+for compressed stylesheets
+for compressed
+for contributing
+for decoding
+for diagnostic purposes
+for iOS
+for nonfunction
+for premium
+privilegizált
+for quotbm
+for recipients &apos
+for signing
+for writing
+
+keresés erre
+dokumentumokon
+mértékben
+Ciklikus
+forcibly
+forcing all
+gyermeke
+foreign
+forgeries
+visszaéléseknek
+Felejtse
+forgetting
+felejtve
+Űrlapmező
+form Post
+form fields
+form userhost
+űrlap
+format
+formatD
+formatI icon
+formatI
+formatS formatS
+formatS
+formatSNew
+formátumokhoz
+formatted as
+formatted
+modern
+formdata on
+formdata
+formed
+forms are
+űrlapokat
+forth and
+forth
+fórumokat
+forward slashes
+Továbbítás
+továbbítva
+forwardmsg
+továbbításoknál
+Megtalált
+foundout of
+ezekbenösszesen
+founds
+four
+tizennégy
+tizennegyedike
+negyedike
+fox jumps over your expectations with
+fox jumps
+fox
+fps
+frFR
+tört
+tört
+Fragment árnyaló
+darabban
+frame &apos
+keretekben
+framed
+képkockasebesség
+veremkeretek
+frameset
+framesets
+keretező
+vezethet
+fraudulent
+szabadon
+frequently
+fresh
+friday &#124
+péntek
+péntekenként
+friend
+friends
+from Garbage
+from edge of paper to Margin
+from hangs
+from strongThe
+from the viewer reader &apos
+from visited
+ettől
+feladó 
+forrás
+forrás 
+front facing
+front
+frown face
+frown
+frozen
+ftp
+ftpszolgaltatohu
+tele
+fullfeatured
+fullpage
+képernyőhöz
+fully
+függvényből
+functional
+funkcionalitás
+functions
+further
+future scans by
+jövőt
+fxp Available
+fxp
+gain
+gallery
+garbage Collection
+garbage collection
+garbage
+garbled text
+garbled
+átjáró
+gathering
+gazed
+gb
+gdiplus
+gear icon
+gear
+general Notification
+general
+generally
+generate a
+generálni
+generated
+generation
+generator
+generic Photo
+generic
+geoenabled preference
+geoenabled
+szolgáltatásunk
+geometriai
+geometry visibility
+Geometria
+geostd
+get Involved
+get Map
+get involved
+get me
+get started
+kihozni
+getAttribute instead
+getAttribute
+getAttributeNS instead
+getAttributeNSt
+getAttributeNode
+getAttributeNodeNS
+getElementById
+getPreventDefault
+getReceivers hívásokat
+getReceivers
+getRemoteStreams are
+getRemoteStreams
+getUserData
+getting Started
+beolvasásakor
+getwebglorg
+gif jpg
+gif
+git commit&apos
+git
+give feedback
+eseményeket
+given
+gives you
+gives
+giving
+glitches
+glob
+global Composing
+global community
+global
+globals
+go Back
+go
+goes
+going online
+going
+gone
+good news
+jó
+goodwill
+gopher
+gorithm Identifier
+got it
+hozta
+governed by
+ellentmond
+túllépése
+grant
+granted
+grants you
+grants
+grafika
+grafikus
+érzés
+greater than
+greater
+greeting
+grew more
+grew
+grid
+rácscella
+fogantyú
+csoportosítani
+grouped
+groups
+gt
+gtgt
+guarantee that
+garantáljuk
+guaranteed
+találni
+guessed
+kitalálása
+guest is
+guest
+guide you
+végigvezet
+útmutatók
+h
+hTraduction
+ha
+hacking
+had its
+problémája
+half an
+half past
+half
+hand tool
+Kéz
+handle S
+beldha
+handled
+handler command
+kezelőjéből
+handles
+handling
+hands
+kézfogást
+handshakes
+hang Report
+hang stacks
+lefagyási
+hangs
+happened
+előfordul
+hard drive
+hard
+hardware H
+hardware acceleration
+hardver
+számítógépének
+ártó
+has Attachments
+has bookmarked
+has confirmed
+has delegated
+has detected
+has determined
+has joined
+has suggested
+has visually
+érvényessége
+hash
+hashes in
+hashes
+hashsource
+hasn &apos
+hasn
+have attempted
+have been transferred
+have decided
+have gone down
+have paused
+have seen
+have shiny
+érni
+haven &apos
+haven
+haves
+having trouble
+having
+head
+fejléc
+fejléc letöltése
+heading level
+fejléc
+headings
+health
+heap
+hear
+height
+held
+hello extension
+hello
+segítenek
+segédalkalmazás
+helpful
+segítségét
+helping
+helps ma
+helps
+her
+ide
+itt
+rejtett
+hide Statistics
+hide Toolbars
+elrejtése
+hiding
+high Grade
+high
+higher level
+higher
+highgrade
+highlight
+kiemelt
+highlightedS nodes
+kiemelveS
+megnyitására
+kiemelők
+highly recommended
+highly
+hightailcom
+him
+hints press
+hints
+his or her
+his
+history window
+history&apos
+előzményeit
+hold
+holds
+Város
+Ország
+home Phone
+home directory don &apos
+Otthoni
+honlapjának
+hop limit
+hop
+horizontal lines
+vízszintes
+horror
+géphez
+hosted
+hosting service
+adó
+gépnevét
+gépnévport
+gépneveket
+hostport
+hosts
+hotspots
+hour
+óraóra
+óra
+how
+however
+href
+hrink
+hrpd
+vvonal
+htm
+html &apos
+html
+htmlstrong
+htmlstrongsütiket
+htmlstrongelőzményeket
+htmlstronglapot
+htmlstrongablakot
+http Proxy
+http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos
+http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/
+http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http//wwwseamonkeyprojectorg/
+http//wwwseamonkeyprojectorg/releases/seamonkeyVERSION/
+http
+https//addonsmozillaorg/LOCALE/APP/themes
+https//addonsmozillaorg/LOCALE/APP/dictionaries
+https//addonsmozillaorg/LOCALE/APP/personas
+https//developermozillaorg/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad
+https
+árnyalat
+kötőjelek
+iCalendar
+iOS
+ikont
+icons
+ics
+id
+azonosítást
+azonosítón
+azonosítóknak
+azonosítható
+embereket
+azonosítja
+személyazonosságot
+tétlen
+azaz
+tisztában
+iframeen
+mellőzve mellőzve
+mellőzve
+publikus
+s filename
+image
+képgif
+képjpeg
+képpng
+imageshelpmanaging
+képtrkp
+imgur
+imgurcom
+közvetlenül
+megvalósítással
+vélelmezett
+melyikből
+fontos
+Imported
+z
+lehetetlenné
+helytelenül
+megosztásával
+
+ebben
+tűrnie
+gyűjtőpostafiók
+hüvelyk
+következményes
+Belevétel
+includeSubDomains
+megvédik
+bejövő
+Befejezetlen
+hashértékek
+növeléséhez
+megnövekszik
+növekményes
+index
+közvetve
+egyedeinek
+Egyedek
+ined
+hatékonytalan
+infosávjának
+kiderülhetnek
+inherit
+kiinduló
+inicializálási
+inicializálni
+inicializálva
+okoznia
+Beágyazva
+inline
+input
+átvitellel
+beszúrva
+címkén
+vizsgálóban
+telepítés
+telepítésén
+telepítve
+telepítő
+telepítés
+végzi
+azonnali
+instead
+egész
+integráció
+különbségi
+korlátozzák
+szándékosan
+elfogta
+érdeklődő
+láthat
+felületek
+köztes
+ZoneInfo
+karakterhivatkozásként
+viewdiscoverlabel
+emúj
+érvénytelen
+invertált
+meghívót
+meghívók
+munkánkban
+érintett
+magasabb
+spantiltott
+spanengedélyezett
+írásvédett
+
+isindex
+nem
+trust
+Kiadva
+kiadója
+tartalommal
+s done
+törölhetőek
+Elemmódosítási
+azokról
+iterációs
+törvényei
+jan
+január
+adatfájl
+janoskovacsexamplecom
+janosexamplecom
+Egyesítés
+jslintstricter
+jkovacs
+jsonjsonlz
+júl
+július
+ugrott
+jún
+június
+Levélszemétszázalék
+szemétpont
+levélszemétszűrési
+kb
+titkos
+kulcsot
+gyorsbillentyűvel
+Kulcskeretek
+kulcsok
+kulcsszóként
+elküldendő
+rúgva
+osztja
+ismert
+címke
+nyelvét
+nyelvkódok
+telepítésekor
+nyelveken
+terjedelmű
+nagyobbak
+struktúráinak
+előző
+Késői írások
+ahhoz
+próbálhatja
+Frissítsen
+elindítani
+feltelepített
+feltételekre
+szerkezetét
+vezetne
+leaf
+Tanulja
+jelszónak
+szándékát
+balra
+balfentjobblent
+Törvényesen
+length
+kevesebbre
+szavatolják
+használhat
+lettermellékletmelléklemmellékelemmellékelvemellékeltemmellékletetmellékleteketcsatoláscsatolomcsatolvacsatoltamcsatolástcsatolásokatküldömelküldömátküldömpostázomfájlfájltfájlokfájlokatállományállománytállományokállományokatéletrajzéletrajzotéletrajzoméletrajzomatönéletrajzönéletrajzotönéletrajzomönéletrajzomatAnhangAnhängeangehängtWiedervorlageBegleitschreibenanbei
+szint
+bal
+li
+liEllenőrizze
+liKérdezze
+liHa
+liÉrtesítse
+liLépjen
+liNyomja
+liA
+liEz
+liPróbálja
+liA
+telepítenie
+beszúrandó
+licencek
+licencinformációkat
+licencadók
+világosságot hoztak
+világosságot
+világosság
+szöveggé
+azért
+liliKattintson
+liliRendelkezik
+proxyszolgáltatás
+liliLehetséges
+liliNyomja
+liliBizonyos
+liliTovábbra
+liliemMEGJEGYZÉS
+limit
+korlátozás
+korlátokon
+s properties
+line
+sora
+s properties
+hivatkozás
+készA
+hivatkozásokhoz
+szájú
+list by
+lista
+listában
+ként
+lists
+literál
+hiv
+load
+betöltve
+betöltés
+helyi
+kortól
+utat
+helyekről
+levélgyűjtő
+zárolt
+napló
+naplózás
+bejelentkezést
+bejelentkezéseket
+naplók
+long
+hosszoszt
+ablakokra
+újratelepítette
+hurok
+elvesztése
+elvész
+alkalmazásparancsfájl
+lt
+ltCtrlKgt
+ltCtrlShiftKgt
+ltvégrehajtandó
+ltbgtfélkövérlt
+neveiből
+ltcsatornagt
+ltparancsgt
+ltparancsgt utasítást
+területeinek
+ltlt
+ltnévgt
+ltúj
+ltbecenévgt
+ltbecenévgtltbecenévgt
+ltparamétergtltparamétergt
+ltr
+ltszobagtltkiszolgálógt
+ltcélgt
+ltfelhasználógtltfelhasználógt
+ltfelhasználónévgt
+ltxExKgt
+ltxKgt
+lu
+madruwb
+felnagyítja
+mail
+postafiókokhoz
+maildir
+mailexamplenet
+mailing
+mailto
+elsődleges
+mindennél
+rosszul
+támadásról
+kezelése
+managing
+manifest
+manifestjson
+manifestwebapp
+kézikönyv
+sok
+hivatkozásokra
+március
+
+margó
+Margó
+mark the
+olvasottnak
+megjelölés
+marking a
+marking
+Jelölőnyelv
+fényújság
+maszkolás
+master
+megfeleljenek
+találatTöbb
+matched by
+matched
+matcheleatchMore than
+egyezik
+egyező
+matchutomatically
+material
+math table
+képlet
+matrix
+max
+maxage
+maximum Length
+maximum permissible
+megőrzendő
+may discontinue
+may update
+május | máj | máj
+maybe
+mb of
+mb
+mbox
+me out of here
+me
+mean slower message
+szeretett
+means you &apos
+means
+measure a portion
+measure a
+megmérése
+measurements
+mérőeszköz
+mechanism
+mechanisms
+media Sharing
+media
+medium
+meet
+típusúnak
+members
+típusúra
+memory map
+Memóriamérés
+memória
+említik
+menu Bar
+menu bar
+menüre
+menuPath
+menük
+merchantable
+merge Warning
+összefésüli
+merge
+mozgatása
+message Grouping
+message I &apos
+message Summary
+message flag
+üzenetpanel
+message preview
+message templates
+message }
+message
+messageDone
+messageIndexing
+üzenetS
+üzenetbr
+messagebrIn
+levelememl
+messageeml
+messagegt
+messageid
+messages Reopen
+üzenet
+üzenetnél többet kellene letölteni
+üzenetküldés
+meta
+metaadatokat
+metal posteriors
+metal
+metaviewport tag
+metaviewport
+meter
+method &apos
+method
+methodGET
+methodPOST and
+methodPOST
+methodPOSTot
+módszerrel
+Microfono
+microsummary
+middle Eastern
+middle
+szimulálása
+migrate to
+migrate your
+migrálása
+migrated
+milliméter
+alattPing
+milliseconds
+mimetype of
+XSLTstíluslapnak
+min
+mind
+minheight
+minimonth
+minimálisan
+minjs
+Apró
+mins
+minute minutes
+minute
+minuteEvery
+percperc
+minutes ago
+minutes …
+perc
+percenként
+minwidth em
+minwidth
+misconfiguration
+misconfigured
+félrekódolt
+mismatch
+mismatched tag
+mismatched
+missed reminders
+missed
+missing Custom
+missing closing
+missing mandatory
+missing methodPOST
+hiányzik
+misspelled word
+misspelled words
+misspelled
+mistake
+mistakes
+elgépelt
+mix
+kevert
+mmultiscripts
+mobileszközével
+mode and can &apos
+módot
+módgt
+model
+modellnézetmátrixára
+moderated
+moderator
+modern
+módok
+modified
+módosító
+modifiers
+módosíthatják
+module returned
+modult
+modules
+modulusok
+moment
+momentarily
+moments
+hétfő
+hétfőnként
+moneymouth face
+moneymouth
+monitor
+month
+monthS of
+monthS
+hónapbanminden
+havonta
+months
+more bookmarks
+more powerful
+more savings
+megugorja
+moreand
+morex
+több…
+most Visited
+most accurate
+most popular
+leginkább
+mostrecently
+Egérgörgő
+mouse
+move Down
+move Up
+move away
+move emswiftly
+weboldalhálóra
+moveable
+moved renamed or deleted
+átneveztéke
+áthelyezett
+movedS
+zárolófájlokat
+moving
+moz
+mozGetAsFile
+mozImageSmoothingEnabled
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescriptn
+mozRTCSessionDesmatched
+mozRequestAnimationFrame
+mozVisibilityState &apos
+mozVisibilityState
+mozcmd directory
+mozcmd files
+mozcmd
+mozdevorg
+mozdocument rule
+mozdocument
+mozelement
+mozilla
+mozillaZine
+mozillacentral
+mozillacom/plugincheck
+mozillaorg netnz
+FSFhu
+mozillaorg
+mozinlinebox display
+mozinlinebox
+mprescripts
+ms
+msf
+msgFilterRulesdat file
+msgFilterRulesdat
+much
+Többsoros
+multimedia
+multiple links &quot
+több
+multiplied And
+multiplied by
+sokasodott
+folyamatú
+többheti
+music
+must involve
+médiafunkcióknak
+my &quot
+my Cert
+Projektjeim
+my Quick
+my Task
+my Yahoo
+my windows
+my
+mypagehtml &quot
+honlaphtml
+n
+nWhen your
+nAmikor
+name &quot
+nevet
+OldalsávhozForrás
+named anchor
+named either
+nevesített
+names
+névtér
+névtartományokat
+narrowing
+native code
+natív
+natively
+navigate
+navigated
+navigáció
+navigation Toolbar
+navigáció
+navigatorbattery
+navigatorgetBattery
+navigatormediaDevicesgetUserMedia
+navigatormozGetUserMediat
+nbspnbspnbspnbspnbspnbspInternal
+nd
+near
+közeli
+nearest
+necessary
+Szükség
+needed
+needing to
+needing
+vannake
+negate
+negálni
+negációs
+negative
+negotiate an inadequate
+megtárgyalni
+negotiating a
+negotiating
+tárgyalási
+neither
+nested Table
+beágyazott
+beágyazási
+netnz /
+netnz
+netscape
+network Monitor
+network Timeout
+network drive
+network section
+hálózatról
+never Show
+sohasem
+ÚjKaledónia
+new Separator
+new Tab
+ÚjZéland
+new home
+new word
+új
+újabb
+news client
+hírolvasóprogram
+newsexamplenet
+newsgroup subscriptions
+newsgroup
+hírcsoportokról
+newsrc File
+newsrc file
+newsrc
+next gt
+következő
+nicer
+becenév
+nickname
+nicknamegt Change
+nicknamegt
+nicknames
+nicks
+nightly
+nikto
+kilenc
+tizenkilenc
+tizenkilencedike
+kilencedike
+…n…n…n
+nntp
+no &apos
+no Fortezza
+no OMTC
+no Style
+no Thanks
+no cipher
+no decoders
+no globals
+no label
+no less
+no metaviewport
+no nodelock
+no printers
+no slot
+no thanks
+no unconfirmed
+nem
+noMac
+noWin
+nocors&apos
+nocors
+node
+nodeShow all
+nodeShow
+nodeValue
+nodelock
+választójára
+nominative
+non Participant
+non
+nonASCII
+nonFORTEZZA Certificate
+nonFORTEZZA
+nonGregoriancalendar
+nonResponse
+nonUTF encoding
+deklarálására
+nonascii character
+nonascii
+noncesource
+noncharacter
+Ka putumedha'
+egyik sem
+nincs
+nonempty
+nonfunction pseudoclass
+nonfunction
+nongeneric
+nonincremental Cause
+nonincremental
+nonleaf
+nonmultiprocess
+nonnavigation
+nonnegative
+nonparticipant
+nonprintable character
+nonprintable
+nonprofit Mozilla Foundation
+nonprofit
+nonspace in
+nonspace
+nonstandard
+nontext
+nonvoid
+déltől
+nor
+normally
+noscript
+nosniff
+nostore
+not After
+not Before
+not Connected
+not Critical
+not Defined
+not Deleted
+not Downloaded
+not Enabled
+not Installed
+not Present
+not Started
+not Stored
+not Trusted
+not accepted
+not accessible
+not be saved
+not checked
+not disturb
+not expecting
+not fit
+not implemented yet
+not injure
+not involving
+not press
+not readable
+not standalone
+végiglépkedni
+notation be unescaped
+notation be
+jelöléssel
+note Slow
+megjegyzés
+notes
+nothing
+megjegyzéseit
+vette
+notification Permissions
+notification _
+szerepeljenek
+fogadhat
+notified
+notifier or
+notifier
+notify me
+átvételéről
+noting
+nounclass
+nov &#124
+nov
+november
+now doesn &apos
+now
+npmmailnews&apos
+nsICookieManager
+nsICookieManagerS
+nsICookieManagerremove
+nsIDOMWindow instead
+nsIDOMWindow
+nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode
+nsIJSONencode is
+nsIJSONencode
+nsIProtocolHandleridlben
+nsIWindowMediator
+nsIWritablePropertyBag
+szám
+számának
+Számozott
+numbers negative
+számok
+számláló
+numerikus
+nursery Collection
+nursery Eviction
+területen
+obj Properties
+obj
+Objektumtárolók
+objektum
+objektumoknál
+obscured
+figyelték
+observers
+obtain
+projektlista
+occured
+fordult
+occurrence of
+occurrence
+előfordulás
+occurs
+oct &#124
+okt
+október
+of DOMException &apos
+of DataContainerEvent
+hadakoztak
+szigete
+of Office
+of Operation
+of Sync
+időtartama
+of XMLHttpRequest &apos
+of XPCOM
+of a user &apos
+of attributes &apos
+of copies
+of elapsed
+of fontfeaturevalues
+of getAttributeNode
+of getAttributeNodeNS
+of getPreventDefault
+of getUserData
+of inactivity
+of intermediate
+of keyframes
+of law
+of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers
+of of
+of paper
+of qstrongwww
+of reachable
+of recurrence
+of releaseEvents
+of removeAttributeNode
+of service
+of setAttributeNode
+of setAttributeNodeNS
+of setVelocity
+of signature
+of strongwww
+of thousands
+of timers
+jpg
+of unresolved
+of windowshowModalDialog
+/
+ofbr
+off paint
+ki
+offer
+oldalakhoz
+offering
+offerings
+offers
+offerxA »
+kilépett
+offline_apps
+offsets
+often
+rendben
+régi
+older than
+older version of Sync
+régebbi
+oldstyle YouTube
+oldstyle
+felsorolásból
+on Main
+on Permit
+on Top
+on Twitter
+on boxcom
+on shutdown
+on tenured
+
+be
+once
+one Level
+one moreand
+profillal
+oneoff
+ones
+oneshot
+oneubuntucom
+ongoing
+online
+only reloads
+only supports
+only transmitted
+csak
+szolgálnakbr
+opacity in
+opacity
+opaque Response
+opaque
+opaqueredirect Response
+opaqueredirect
+opkód
+open Web
+open WebIDE
+nyitó
+megnyitva
+opening fence
+opening
+opensource
+operating system
+operációs
+operation command
+operation failed
+elvégzésére
+operations error
+műveleti
+operator expected
+operator
+operators
+opportunity
+opposed
+optimalizálási
+rögzítve
+kioptimalizálva
+optimized
+optin No
+optin
+option Group
+listamező elem
+optional defaultS
+elhagyható
+opcionális
+optionally
+beállításaihoz
+optionss
+or BSIGNED
+or Columns
+or Distrust
+or chat
+or differing
+or hashsource specified
+or her
+or lost
+or setTimeout
+or&apos
+vagy
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+narancssárga
+order Received
+order
+organization
+organizations
+Szervező
+origin
+originAttributes
+eredeti
+originally
+eredetieket
+originating
+origins
+orithm Identifier
+other User &apos
+other Workers
+other categories
+other malicious
+other malware
+other participants
+other typographical
+egyéb
+others
+otherwise it
+ellenkező
+our geolocation
+our partners
+hozzájárulhat
+out BrandShortName &apos
+out brfrom the crowd
+out sequentially
+out what &apos
+okozott
+outage
+outdated
+kimenő
+körvonal
+outlook
+outofdate
+output folder
+kimeneti
+outside
+over other apps &apos
+fölött
+teljesítménybeli
+overlay
+overridden
+override the viewer &apos
+felülbírálja
+overriding
+felülre írás
+letiltásuk
+felülírja
+overwritten
+own
+owned
+owner of
+owner
+ownerElement
+üzemeltetőjével
+ownership
+p pIf
+p
+pA secure
+pA
+pAdditional information
+pAdditional
+pAttack pages
+pAttack
+pDeceptive sites
+pDeceptive
+pEntering any
+pEntering
+venni
+pThe browser
+pThe page
+pThe requested
+pThe
+pThese types
+pThese
+pBár
+pUnwanted
+pWeb
+pWebsite owners who believe their
+pWebsite
+pYou should not
+pYou should
+pYou
+pA
+sértetlenségéről
+csomagolt
+csomag
+kitöltés
+page &apos
+page Colors
+page Footers
+page Setup …
+page Title
+page continued
+page navigation
+Oldalfordítás
+page }
+oldalé
+pageCount
+növeli
+pages &apos
+pages conveniencebr
+pages they &apos
+betöltődnek
+paint flashing
+paint
+painted area
+Kirajzolt
+pair a
+pair
+ablaktábla
+panelt
+Ablaktáblák
+beszélgetésért
+Papírméret
+szélétől
+paragraph Marks
+bekezdés
+paraméterré
+parameter entity
+paraméter
+újratárgyalását
+paranoid
+parent Match
+parent Payload
+parent prefix
+szülő
+parse XML
+parse failure
+parse
+Feldolgozott
+feldolgozóállapot
+parser
+parsing
+part of
+Távozási
+partial Update
+partial character
+részleges
+részlegesen
+résztvevő
+résztvevőket
+participants
+participate
+particular purposes
+particular
+parties
+partner You
+vizuálisan
+partners We
+partners work
+partners
+partnership
+parts
+party
+olvashatBiztos
+pass
+passed to
+passed
+passive ’
+passive
+jelszószöveg
+password &apos
+password Required
+password copied
+password fields
+password for &quot
+password quality meter
+
+jelszót
+passwordLeave
+passwordStored
+passwordprotected
+jelszavakat
+kapcsolódott
+pasting
+patch apply
+javítófolt
+útvonalon
+paths starting
+paths
+pattern &apos
+mintára
+várakozáshoz
+paused —
+felfüggesztve
+payload
+payment provider
+payment
+pbrandShortName can &apos
+pbrandShortName can
+pbrandShortName prevented
+pbrandShortName
+Látogatásunk
+peer &apos
+visszaállította
+peers &apos
+peers
+pending dump
+függőben
+people &apos
+people wouldn &apos
+people
+per
+százalék
+percentage of
+százalékérték
+percnt kész
+percnt
+perform caseinsensitive
+perform querySelectorAll
+medhaj
+teljesítményét
+performed Trying
+performed
+műveletgt
+performing
+időközönként
+permanent exception
+permanent
+permanently deleted
+permanently
+permissible length
+megengedhető
+permission denied
+fejlesztésére
+jogosultságai
+permit
+permitted
+persistent logs
+persistent
+person &apos
+person who holds
+víruskeresők
+personal Card
+personal
+personalhttp//wwwmozillaok
+Fortezzaszemélyiségeket
+személyiséget
+ajánlásának
+személyhez
+fázvekt
+fázisvektorszög
+rögzítést
+pinget
+rögzítési
+Képpontarány
+képpont
+placeholder
+tervük
+tervezi
+felvételét
+lejátszani
+hibaelhárítási
+bővítményt
+Plugins
+ p
+du
+podcastra
+podcastokra
+ponton
+Mutatózár
+elveket
+házirendjét
+poly
+pop_up_blocking
+kipróbálhat
+porton
+position
+pozicionálása
+megkeresni
+postMessage
+Potenciális
+próbálkozott
+ppHibakód
+ppEgyes
+jellemzőket
+preferonline
+preferált
+szöveghatárok
+prefixum
+előkészítés
+Prezentált
+preserved
+SxS
+nyomni
+megnyomva
+kompromisszumot
+bal alsó index
+megelőző alsó index
+bal felső index
+megelőző felső index
+megakadályozhatja
+prevented
+előnézetével
+előző
+ár
+elsődleges
+primev
+uma
+idézőjeles
+nyomtató
+válása
+sürgősség
+Politica
+Magán
+problémáról
+szempontból
+ilyenek
+továbblépéshez
+folyamatához
+feldolgozva
+folyamatokhoz
+feldolgozása
+Profilkép
+profiljának
+profilozott
+profilozó
+érdemes
+profilozás
+hozzárendelve
+programokból
+Készültségi
+projekt
+projektek
+promiset
+ígéretekkel
+prompthoz
+csatlakoztatásakor
+megfelel
+működjenek
+kibocsátott
+tulajdonságok
+tulajdonság
+belépési
+védett
+védelme
+létrehozandó
+protokollsértést
+bizonyítják
+szolgáltatónál
+megjelenítéséért
+proxyk
+proxy
+pszeudoosztályban
+pszeudoelemazonosító
+pszeudofejlécet
+pspan
+kij
+közzétegye
+közzétételt
+bodhondha
+pulliLehet
+pulliLetiltotta
+pulliJók
+pulliLépjen
+Vásárlás
+témákban
+visszafejtésekor
+expandstrict
+px
+q
+qmozillaorg
+qstrongww
+qstrongwww
+minősége
+minőségben
+queryben
+gyorskereső
+kilép
+Kvótagyökér
+kvótáját
+kvótákat
+Válaszoláskor
+szánta
+qwxyz
+gyök
+gyökjel
+választógombok
+radius
+kellenek
+tartományát
+sebessége
+sebességeinek
+értékelést
+raw
+keressenek
+üzemeltető
+eléri
+read
+Olvasási
+írásvédett
+Igazán
+reason
+portszámhoz
+újraindítom
+Fogadás
+érkeztek
+fogadásra
+mapuyamal
+
+címzetthez
+személyessé
+ajánlott
+újracsatlakoztatása
+rekordot
+foglalásakor
+felszabadítása
+rect
+téglalap
+Ismétlődési
+végtelen
+rekurzív
+átirányítás
+átirányított
+irányítja
+csökkentse
+Hivatkozási
+újratárolásakor
+áttördelés Sms
+áttördelés
+utasítva
+regexp
+területkitöltési
+terület
+regisztrálni
+regisztrálva
+Regisztrálás
+belépni
+szerinte
+elfogadásánal
+Kapcsolodó
+összefüggésbe
+viszony
+relatív
+Verzióinformáció
+kiadási
+relevancia
+letöltésével
+újratöltéséhez
+újratöltve
+újratöltés
+Syncfiókjában
+hátralevő
+´
+emlékeztető
+távoli
+eltávolítása
+removeAttributet
+removeEventListener
+eltávolította
+átnevezése
+átnevezték
+Megjelenítési
+javításhoz
+ismétlés ismétlés
+ismétlődés
+repeatautofill
+repeatautofit
+ismételt
+lecserélése
+URIcímekben
+pótló
+lecserélve
+másolatkészítés
+megválaszolva
+válaszoknál
+válasz
+velem
+beküldetlen
+weboldalról
+memóriafelhasználásról
+jelentései
+reporturi
+reprezentál
+lekérést
+kért
+kérések
+szükséges
+támaszt
+verziójához
+lekérje
+újramintavételezéséhez
+újraküldeni
+fenntartott
+alaphelyzetbe
+oldja
+gépnevek
+erőforrással
+Erőforrások
+reagálnak
+respondWith
+válasza
+válaszoló
+reakcióidejéről
+újraindítási
+helyreállítása
+beállításokért
+korlátozott
+találat
+megmaradt
+megtartó
+lekérni
+betölti
+újraindításhoz
+Tértivevények
+visszaadása
+CKR
+mentéssel
+felfedhet
+jelszavakhoz
+értékelés értékelés
+jók
+értékelés
+vonva
+jobb
+jobbra
+brandShortNamere
+kockázat
+tévedésből
+kerekdbz
+szobát
+szobákat
+gyök
+gyökér
+járásával
+lekerekített
+sor
+táblázatsorok
+ss
+ruby
+szabálynál
+szabályokra
+futtatás
+fut
+futásának
+futtatót
+keveredjenek
+vezérlőutasításokkal
+Példakimenet
+példaszöveget
+minták
+sandbox
+telítettség
+szombat
+szombatonként
+lemezhellyel
+hozzájuk
+mentéskor
+spórolás
+helyén
+say
+üzenete
+átméretezve
+Átméretezett
+séma
+hatókörön
+Scratchpad
+Szkript spec
+parancsfájlt
+indexelt
+görgetősáv
+gördítősáv húzása
+gördítősáv
+görgetett
+görgetés
+sealed
+keresés
+kereshető
+keresések
+kereséseket
+sec
+másodika
+másodpercIdő
+másodperc
+másodperccel
+másodpercig
+másodpercmásodperc
+secpk
+secpr
+secret
+szakasz
+sectk
+sectr
+secure
+addig
+security
+securitylabel beállítópanelt
+securitylabel
+seeing doctype
+seek
+keres
+seem
+látszólag
+seen but
+ön
+select &quot
+select camera
+select
+selected line &apos
+kiválasztva
+selecting
+selection
+selections above
+selections
+selectlabel
+szelektor
+selectors separated
+selectors
+megfelelőt
+selfsigned
+semicolon
+send Feedback
+send For
+küldjön
+sender &apos
+sender message
+sender
+Űrlapadatot
+sends
+sensitive
+sensitivity
+sent Cookie
+látta
+ sept
+szep
+separate tags
+separate
+separated
+független
+separating
+separator character
+elválasztó
+sept
+szeptember
+sequentially as a waterfall
+sequentially
+serial Number
+serial number
+sorozatszáma
+sorozatból
+serif
+server &apos
+server Quota
+server SMTP&apos
+server incorrectly
+server maintenance
+server that can &apos
+kiszolgálójának
+servers Maybe
+kiszolgálók
+serves
+service providers
+service worker
+service
+szolgáltatásokat
+serving
+session ID
+munkamenetazonosító
+session Statistics
+session cache
+munkamenetét
+munkamenetekben
+set Priority
+set browsercachediskenable
+set strokeStyle
+browsercachediskenable
+setAttribute instead
+setAttribute
+setAttributeNS instead
+setAttributeNSt
+setAttributeNode
+setAttributeNodeNS
+setTimeout cycle
+setTimeout
+setUserData
+setVelocity
+sets
+beállításával
+settings &#124
+settings&apos
+szakértőknek
+setup options
+setup
+seven
+tizenhét
+tizenhetedike
+hetedike
+several ways
+különböztetheti
+Árnyalószerkesztő
+shader compile status
+shader compile
+shader
+shadows variable
+shadows
+shall control
+irányadó
+shape &quot
+shape
+oszthat
+shared Workers
+osztva
+sharedLongDesc
+oszt
+beállításokhoz
+sheet
+alkalmazására
+shell
+shield
+shiftKeylabel
+shiftkattintson
+shiny metal posteriors which
+shiny
+engedélyezheti
+rövid
+parancsikon
+shortcuts
+shorten this
+shorten
+shorter file
+shorter
+shortly
+shortname
+should keep
+should make
+should
+t be forwarded
+shouldn
+show Cookies
+show resultShow
+show through
+parancstippek
+showall &apos
+showall
+showing repairing
+showing
+shown
+shownReplies
+shows
+shtml
+shut brandShortName
+shut
+shutdown Progress Window
+shutdown Progress
+leállni
+shutting down
+shutting
+sibiling
+side
+oldalsávról
+sidebarName
+Oldalsávok
+sign in
+junkuw
+signal
+signature algorithms
+aláírásalgoritmus
+signatureAlgorithm
+signatures
+signed
+signer &apos
+aláírásellenőrzés
+signers found
+signers
+significant
+signing certificate
+aláírja
+signup
+silence
+hitelesíti
+csendes
+hasonló
+simple Measurements
+egyszerű XHivatkozás XLink
+egyszerű
+simplified
+simply need
+simply
+simulation
+simulator installed
+elindítására
+azóta
+kulcsszónak
+singlesignon
+site &apos
+site doesn &apos
+webhelyben
+sitename &apos
+sitename
+sitenat
+webhelyekkel
+hat
+sixteen &#124
+tizenhat
+tizenhatodika
+hatodika
+size
+méretekért
+skip Integration
+skip this
+Ugorja
+Kihagyva
+skips
+slash operators
+slash
+slashes ie
+slashes
+szelet
+csúszka
+slottal
+slots
+Lassítás
+slow SQL
+slow down
+slow ×
+slow
+slowing
+slowly
+csekély
+súlyának
+smart
+smartcard please
+smartcard
+smartlabel
+smartphone
+smiley face
+smiley
+smooth scrolling
+smooth
+smtpexamplenet
+alapvonalhoz
+pillanatképek
+snews
+so it &apos
+so it can &apos
+so you &apos
+területén
+soap
+szoftvercsatornára
+software makers
+szoftvertelepítést
+solid Border
+solid circle
+solid
+hibára
+brulliHa
+solve a
+solve
+some cool
+some printing
+some sample
+some unspecified
+némelyikét
+somebody &apos
+somebody
+someone isn &apos
+valaki
+something
+néha
+somewhere earlier
+somewhere
+soon
+sorry BrandShortName can &apos
+re unable
+Elnézését
+rendezéshez
+sound file
+sound
+sounds like
+sounds
+source software
+forrású
+sources
+Űrfantázia
+space between
+space
+spaces
+spam
+span class &apos
+technológia
+spanThis
+spanbrandShortName
+spandisabled
+spanenabled
+terjed
+spanspan
+speak now
+beszéljen
+speaking
+spec in
+spec
+special incidental
+special kinds
+csoportra
+specific command
+specific
+specifically
+specifikációnak
+késleltetéssel
+specifies
+specify preferred
+személyazonossághoz
+specifying a
+űrlapnál
+megadó
+speed
+speedOfSound
+spell checking
+spell
+spellchecker
+spelling
+adatforgalommal
+spent
+léptetőgomb
+spin
+felosztása
+szponzorálhatja
+spool
+kémprogramot
+ngyök
+négyzetgyök
+square
+src
+srcdir
+srcs
+ssl
+tól
+stability issues
+stability update
+nixe
+stabil
+stack trace
+vermének
+vermek
+önálló
+standard time
+standard toBlob
+téli
+standards mode
+standards
+star rating
+star
+csillagozva
+start Debug
+start Simulator
+kezdő
+started finding
+elkezdődött
+starting with &apos
+indító
+startlabel
+startmozillaorg
+kezdetén
+startup
+állapotról
+utasításnál
+expand
+statistics about
+statistics
+stats
+status &apos
+status bar
+állapot
+stay
+programokat
+Átlépés
+lépést
+stepped through
+stepped
+léptetés
+steps out
+abba
+tárolódjanak
+ellopását
+stop Debug
+stop Mirror
+levétele
+stop the
+leállításához
+lekérésére
+stopping
+stops
+storage quotas
+adattárolót
+storages
+tárolását
+weboldalakhoz
+stores information
+stores
+számítógépemen
+közvetítéshez
+strength
+strict protection
+szigorú
+strike
+string literal
+karakterlánc
+strings or
+lekérdező
+strokeStyle
+írják
+strongAppok
+strongEszköz
+strongThe Book of
+strongThe Book
+strongThe
+stronger Emphasis
+SHAtől
+strongexamplecomot
+stronghttp
+strongly recommends
+strongly
+strongmozillaorg
+strongww
+strongwww
+structure is corrupt
+structure
+structures
+studies
+study Findings
+study
+Stílusszerkesztő
+style Inspector
+style endexpand
+style sheet
+kinézettel
+styles
+stylesheet
+stíluslapokhoz
+stylesrcn
+alsó
+alkönyvtárban
+subdocument
+examplecom
+subdomains
+subfolder
+almappákban
+subgrid
+elfogyasztott
+subject Reminder
+alany
+submission to
+beküldése
+submit Query
+beküldéséhez
+submit information that &apos
+submit
+submits
+submitted
+submitting your
+submitting
+subresource
+subscribe Calendars
+subscribe
+feliratkozott
+subscribedImported
+subscribing
+alsó index
+subscription
+előfizetések
+subsession data
+Almunkamenet
+helyettesítése
+részszál
+subthreads
+subtree
+sikeres
+succeeded
+successful
+successfully Transmitted
+sikeresen
+megjelenítését
+suddenly
+sufficient
+ajánlani
+suggested Contribution
+suggested Tags
+suggested
+suggestion
+javítani
+suggests
+suit
+suitable
+suite
+suites are
+suites
+összeg
+summary file
+összefoglalója
+summoned
+vasárnap
+vasárnaponként
+felső
+superscript pair
+felső index
+superseded by
+superseded
+supervision
+supplied
+supply alternate
+supply identity
+supply publishing
+supply
+support Resources
+support certificates
+támogatási
+támogatottak
+jelenne
+supportmozillaorg
+supports
+járe
+surface area
+legnagyobb
+surprised face
+surprised
+helyettesítőre
+surrounding environment
+surrounding
+survey is
+survey
+működnie
+suspected
+suspicious
+sutomatically
+svSE
+svg
+switch to
+kapcsoló
+átkapcsolva
+switching
+symbol
+szimbólumokat
+sync them
+jujlek
+vesz
+syncBrandfxAccountlabel
+syncBrandshortNamelabel
+syncBrandshortNamelabelquot
+szinkronizált
+synchronization
+synchronize
+synchronous
+szinkronizál
+synctitlepairlabel
+Szintaxiskiemelés
+szintaxis
+system Integration
+rendszerhang
+rendszer
+systemDate &apos
+systemDate
+systems this
+systems
+t believe
+t delete
+t
+tab Delimited
+tab Index
+tab audio
+tab previews
+tab txt
+lap
+tab
+lappal
+tabdelimited tab
+tabdelimited
+s properties
+table Alignment
+table Insert
+table Select
+táblázatok szegélyeinek
+table layout
+table rows
+táblázat
+tablets
+itteni
+tabtxt
+taget
+címke
+megcímkézve
+címkenevet
+címkék
+take up
+vigye
+taken
+Kezdőlap
+taking too
+rögzítsen
+beszél
+kwe
+appokban
+célhoz
+megcélzott dokumentumként
+megcélzott
+task
+feladatonkéntA
+tálcán
+tasks
+tastes
+tbl
+technical Details
+technikai
+technique
+leggyakrabban
+technológiát használ
+telefon
+tell websites
+tell
+tells
+sablont
+Sablonok
+temporarily
+temporary outage
+átmeneti
+tíz
+tename &apos
+tentatively
+tizedike
+tenured objects
+kinevezett
+ter Lock API
+term &quot
+kifejezés
+terminate a
+zárnak
+terminated by xslmessage
+terminated
+termination
+változatnak
+test
+testics
+testimonials
+text Area
+text Size
+text Wrap
+text alignment
+text area
+text container
+text field
+text
+textContent attribute
+textContent
+textonly
+texture source
+textúra
+th
+than minimum
+szokás
+thank
+thanks for
+thanks
+that &apos
+that can &apos
+that is no
+that isn &apos
+that resolved
+that steal
+that we can &apos
+that wouldn &apos
+that you &apos
+sebességét
+the &apos
+the &quot
+the ALPN
+the AudioBufferSourceNode
+the Book
+the CMS
+the Camera
+the Certifying Authority
+the Certifying
+the Components
+the DELE
+the Dock
+the FTP
+the Fifth
+the Fourth
+Grenadineszigetek
+the HTMLMediaElement
+the Inspector &apos
+the KRL
+the Kerberos
+the LIST
+the MediaStream
+the Mouse
+the Online
+the Privacy
+the RETR
+the Risks
+the SETTINGS
+the STAT
+the Services
+the Study
+the SxS
+the Symmetric
+the TCP
+the Test
+the Timezone
+the URL
+the additivesymbols
+the address isn &apos
+the address
+the application didn &apos
+the application
+the area
+the attached
+the authenticity
+the baseline
+the beast
+the beasts
+the binary
+the broad
+the budget
+the buffer
+the builtin
+the capture
+the center
+the client
+the coding
+the collected
+the console
+the current folder &apos
+the debugger
+the desired
+the development
+the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled
+the dimensions
+the duration
+the emtwins
+the exclusion
+the expires
+the fifth
+the flame
+the fourth
+the framed
+the guides
+the image &apos
+the implementation
+the latest
+the limit
+the love
+the measuring
+the namespaces
+the native
+the needed
+the organizer
+the owner
+the page &apos
+the page isn &apos
+the partial
+the phrase
+the primary
+the priority
+the privilege
+the profiler
+the program &apos
+the proxy
+the recipient &apos
+the recipients
+the relationship
+the requested
+the resources
+the rest
+the safety
+the screen
+the server &apos
+the shield
+the signer &apos
+the signer
+the spec
+the standard
+the styles
+the subresource
+the sum
+the surrounding
+the toolbox
+the tooltips
+the translation
+the uninstall
+the uninstaller
+the upgrade
+the utf
+the viewer &apos
+the viewer reader &apos
+the viewport
+the visualization
+the webapp manifest isn &apos
+the webapp
+the wildcard
+the windowconsole
+üzenetté
+theft
+their defaults
+lapjainak
+őket
+témaváltoztatás
+időjárás
+témáknál
+then touching
+sorolt
+there &apos
+telepítheti
+utaznak
+these organizations
+these
+they &apos
+they expire
+they require query
+szüksége
+things you
+things
+think I &apos
+think
+thinkers
+elhitetni
+thinks
+third Party
+third parties
+harmadik
+thirdparty cookies
+thirdparty software
+thirdparty
+thirteen &#124
+tizenhárom
+tizenharmadika
+harmincadika
+thirty &#124
+harmincegyedike
+harmincegy
+harminc
+this &quot
+this Computer
+this channel &apos
+this decision
+this didn &apos
+this downloadDelete
+this exclusion
+this isn &apos
+this month
+this operation
+this personal
+this pseudoelement
+this recurring
+this server &apos
+this site &apos
+this test
+this tweet &quot
+this tweet
+this website
+újratelepítését
+thisIf
+thisa
+tagok
+though
+lévőnek
+thousands
+thread &quot
+Szállefagyások
+thread killed
+thread watched
+szálban
+threads
+három
+dobta
+through inaction
+tétlenül
+thunderbird
+thursday &#124
+csütörtök
+csütörtökönként
+jegyet
+ticket
+ties
+til &#124
+til
+tile replacing
+tile
+tiles
+till
+time Stamping
+time These
+time Zone
+time communication
+time secondTime
+time sender
+time }
+time
+timeOccurs
+timed Out
+időtúllépést
+timedout
+idővonala
+timelines
+timeout
+timer Name
+timer started
+időzítő
+timers in
+timers
+times
+timesaving
+Időbélyeg
+timestamps
+timezone &quot
+Időzónadefiníciók
+Időzónahibák
+időzónájával
+timezonepersonalg
+timezoner message doesn &apos
+időzónákat
+cím
+tweetbe
+címzett
+eddig
+nyelvről
+toBlob
+ma
+tu
+túloldalon
+holnaptól
+túl
+mintát
+eszköztár
+eszközkészlet
+buboréksúgó
+buboréksúgók
+felső
+fent
+témagt
+total
+Érintésszimuláció
+trace
+nyomok
+egyidejű
+zárásában
+elkezdése
+átviteli
+transform
+átalakítások
+transformstyle
+útközben
+fordítsa
+fordításakor
+traveling
+OCSPkiszolgálóval
+fa
+erőforrást
+aktivált
+uchal
+igaz
+true
+csonkítása
+t be sure
+megbízhatóak
+megbízna
+próbálnak
+kedd
+keddenként
+tweetet
+tizenkettedike
+tizenkettő
+huszadika
+huszonnyolcadika
+huszonötödike
+huszonnégy
+huszonkilenc
+huszonkilencedike
+huszonhét
+huszonhat
+huszonhatodika
+huszonhárom
+húsz
+kettő
+txt
+szövter
+type
+elkezdésétől
+ud
+ueKilépés
+ul
+ulliLehet
+sikerül
+hitelesített
+unauthorized
+elfoglalt
+ne zavarjanak
+nem érhető el
+kiegyensúlyozatlan
+feloldva
+vegye
+törölve
+lezáratlan
+tömörítetlen
+deklarált
+definiált
+szöveg alatti index
+alsóbb
+alulra írás
+megértette
+undisclosedrecipients
+titkosítatlanul
+kikényszeríthetők
+megszüntetendőe
+váratlan
+nincs inicializálva
+eltávolítás
+eltávolítási
+szándékos
+ismeretlen
+feladni
+korlátlan
+deaktiválása
+idézőjelek
+olvasatlan
+regisztráció megszüntetése
+kijelöletlen
+unsent
+nem stabil
+videoformátumot
+névtelen
+névtelenS
+használatlan
+ellenőrizetlen
+feleslegessé
+
+nyíljanak
+követésAjándékokÜnnepekÖtletekÜgyekÉrtekezletEgyébSzemélyesProjektekÁllami
+frissülni
+változtatnia
+itmedhom
+felátlósnyíl
+felátlósáthúzás
+frissítés
+feltöltési adatfolyamból
+helyreállítókulccsal
+feltöltve
+feltöltésével
+eredményeket
+url
+urlprefix
+funkcióhasználati
+euró
+bS
+Finom
+veheti
+webböngészéstől
+felhasznalo
+generált
+módjait
+területből
+fontosabbakat
+karakterkódolásának
+segédprogramok
+utomatically
+vnél
+vCard
+vS
+érvényes
+értékére
+változó
+Gyártóazonosító
+vendorShortName
+vendorShortNamenak
+vendorURL
+kritérium
+újraküldéséhez
+ellenőrzött
+verzió
+létrehozásával
+függőleges
+very
+közvetítésével
+videokodekekkel
+videókat
+view
+s browser
+színbeállításainak
+oldala
+nézetport
+károkat
+megsérti
+tapasztalt
+jelenteni
+vírusok
+láthatóságának
+látható
+látogatás látogatás
+meglátogatja
+meglátogatott
+weboldalnak
+látogatóinak
+hangalapú
+fvonal
+sérülékenységei
+sebezhetőség
+sérülékeny
+türelmet
+waitUntil
+várakozik
+csillagos
+csevegni
+Warning
+figyelmeztetések
+garanciát
+meghívva
+áthelyeztéke
+t understood
+figyelve
+elrendezésben
+módokon
+re sorry
+Újjáépítettük
+gyenge
+ruhába
+Webfejlesztés
+űrlapokhoz
+webdav
+weboldalháló
+website
+működésében
+szerda
+szerdánként
+elküldtem
+hetente
+heteket
+súlynál
+üdvözöljük
+jólformázott
+s new in
+mit
+kerékbemenet
+vizsgálatakor
+megtartja
+Hová
+elutasítanak
+tartalmába
+összehasonlításakor
+profilozáskor
+kiegészítőit
+újrainduláskor
+win
+window
+windowconsole
+windowopen
+jószándékú
+webhellyel
+within
+képernyőjén
+felismerve
+szó
+szavak
+Munkahelyi
+bedolgozót
+működike
+napjai
+aggódnia
+elrejteni
+blokkban
+writable
+íráskor
+idézőjelként
+www
+wwwexamplecom
+wwwmyispcom
+wwwsajatszerverhu
+wwwopenhorg
+x
+xNN
+xS
+xjavascript
+xml
+xmlns
+xpi
+értékként
+xwestern
+xyxy
+y
+igen
+tegnap
+ve
+t
+Őrizze
+legfiatalabb
+ Temporary
+Kedvencei
+your mouse
+your preferred language
+your preferred
+your rights …
+your rights
+your warranty
+terjesztésére
+beállításkészletek
+yousenditcom
+nulla
+zone policy
+zóna
+zoom Controls
+zoom In
+zoom Out
+zoom controls
+zoom in
+zoom out
+zoom
+zooming
