@@ -1,0 +1,8107 @@
+ rights …; rights …
+/Galapagos;/Galapagos
+A ServiceWorker;A ServiceWorker
+A;ഷാസംവിധാനങ
+AB _;AB _
+AB;AB
+ACL;ACL
+ADB;ADB
+ADDONS;ആഡ്ഓണുകള്‍
+AEC Logging;AEC Logging
+AEC;AEC
+AES;AES
+AIA;AIA
+AIM;AIM
+ALIGNCENTERA;ALIGNCENTERA
+ALIGNCENTERFONT;ALIGNCENTERFONT
+ALPN;ALPN
+AND;AND
+ANSI;ANSI
+AOL Screenname;AOL Screenname
+AOL;AOL
+API;API
+APIEncryption;APIEncryption
+APP;APP
+ARMSCII;മേനിയന
+ASN encoder;ASN encoder
+ATT Mail;ATT Mail
+ATT;ATT
+AUS;AUS
+AVA;എവിഎ
+Aa;Aa
+Aa;Aa 
+Aaiun;Aaiun
+Ababa;Ababa
+Abandon unsaved changes;Abandon unsaved changes
+Abbreviate;Abbreviate
+Abbreviation;Abbreviation
+Abkhazian;അബ്ഖാസ്സിയന്‍
+Abort;Abort
+Aborted;Aborted
+About Your;About Your
+About;സംബന്ധിച്ചു്
+Above;Above
+Accelerated;Accelerated
+Accent Lowercase;Accent Lowercase
+Accent Uppercase;Accent Uppercase
+Accent;Accent
+Accept;Accept
+Acceptance;Acceptance
+Accepted;Accepted
+Access;മേഷന
+AccessControlAllowCredentials&apos;AccessControlAllowCredentials&apos
+AccessControlAllowCredentials;AccessControlAllowCredentials
+AccessControlAllowHeaders&apos;AccessControlAllowHeaders&apos
+AccessControlAllowHeaders;AccessControlAllowHeaders
+AccessControlAllowMethods&apos;AccessControlAllowMethods&apos
+AccessControlAllowMethods;AccessControlAllowMethods
+AccessControlAllowOrigin;AccessControlAllowOrigin
+Accessibility;ആക്സസിബിളിറ്റി
+Accessibility;ആക്സസ്സെബിലിറ്റി 
+Account &quot;Account &quot
+Account Settings &#124;Account Settings &#124
+Account;അക്കൌണ്ട്
+Accountquot;Accountquot
+Accounts;Accounts
+Accountspecific;Accountspecific
+Account…;Account…
+Acronym;Acronym
+Action;പ്രവര്‍ത്തി
+Actions;Actions
+Activate;സജീവമാക്കുക
+Activated;സജീവമാക്കിയിരിയ്ക്കുന്നു
+Activations Directory;Activations Directory
+Active;സജീവമാക്കുക
+Actively block;Actively block
+Activity;പ്രവര്‍ത്തി
+Actual Size;Actual Size
+Adak;Adak
+Adapter;Adapter
+Adapters;Adapters
+Adb;Adb
+Add;ചേര്‍ക്കുക
+Add;ചേര്‍ക്കുക 
+Added;ചേര്‍ത്തിരിക്കുന്നു
+Addis Ababa;Addis Ababa
+Additional Tools;Additional Tools
+Additional;Additional
+Addon;Addon
+Addons Installed;Addons Installed
+Addons;ആഡ്ഓണുകള്‍
+Addons;ആഡ്‌ഓണുകള്‍
+Addr;Addr
+Address Book;Address Book
+Address Books;Address Books
+Address;വിലാസം
+AddressBook;AddressBook
+Addressbook;Addressbook
+Addresses;വിലാസങ്ങള്‍
+Addressing;Addressing
+Adds;Adds
+Add…;Add…
+Adjust;Adjust
+Administer;Administer
+Administrative Assistant;Administrative Assistant
+Administrative limit;Administrative limit
+Administrative;Administrative
+Administrator;Administrator
+Adobe Flash;Adobe Flash
+Adobe;ശരിയാക
+Advance;Advance
+Advanced Property Editor;Advanced Property Editor
+Advanced info;Advanced info
+Advanced;സങ്കീര്‍ണ്ണമായവ
+Advanced…;സങ്കീര്‍ണ്ണമായവ
+Afar;അഫര്‍ 
+Affects multiple;Affects multiple
+Affects;Affects
+Affiliation Changed;Affiliation Changed
+Affiliation;അഫ
+Afghanistan;അഫ്ഗാനിസ്ഥാന്‍
+Africa/Abidjan;Africa/Abidjan
+Africa/Accra;Africa/Accra
+Africa/Algiers;Africa/Algiers
+Africa/Asmara;Africa/Asmara
+Africa/Bamako;Africa/Bamako
+Africa/Bangui;Africa/Bangui
+Africa/Banjul;Africa/Banjul
+Africa/Bissau;Africa/Bissau
+Africa/Blantyre;Africa/Blantyre
+Africa/Brazzaville;Africa/Brazzaville
+Africa/Bujumbura;Africa/Bujumbura
+Africa/Cairo;Africa/Cairo
+Africa/Casablanca;Africa/Casablanca
+Africa/Ceuta;Africa/Ceuta
+Africa/Conakry;Africa/Conakry
+Africa/Dakar;Africa/Dakar
+Africa/Djibouti;Africa/Djibouti
+Africa/Douala;Africa/Douala
+Africa/Freetown;Africa/Freetown
+Africa/Gaborone;Africa/Gaborone
+Africa/Harare;Africa/Harare
+Africa/Johannesburg;Africa/Johannesburg
+Africa/Juba;Africa/Juba
+Africa/Kampala;Africa/Kampala
+Africa/Khartoum;Africa/Khartoum
+Africa/Kigali;Africa/Kigali
+Africa/Kinshasa;Africa/Kinshasa
+Africa/Lagos;Africa/Lagos
+Africa/Libreville;Africa/Libreville
+Africa/Lome;Africa/Lome
+Africa/Luanda;Africa/Luanda
+Africa/Lubumbashi;Africa/Lubumbashi
+Africa/Lusaka;Africa/Lusaka
+Africa/Malabo;Africa/Malabo
+Africa/Maputo;Africa/Maputo
+Africa/Maseru;Africa/Maseru
+Africa/Mbabane;Africa/Mbabane
+Africa/Mogadishu;Africa/Mogadishu
+Africa/Monrovia;Africa/Monrovia
+Africa/Nairobi;Africa/Nairobi
+Africa/Ndjamena;Africa/Ndjamena
+Africa/Niamey;Africa/Niamey
+Africa/Nouakchott;Africa/Nouakchott
+Africa/Ouagadougou;Africa/Ouagadougou
+Africa/PortoNovo;Africa/PortoNovo
+Africa/Tripoli;Africa/Tripoli
+Africa/Tunis;Africa/Tunis
+Africa/Windhoek;Africa/Windhoek
+Africa;Africa
+African Republic;African Republic
+African;African
+Afrikaans;ആഫ്രിക്കാന്‍സ്‌
+After;After
+Again &quot;Again &quot
+Again;Again
+Age;Age
+Agent;ഏജന
+Aggregate;സംയോജിതം
+Ago;Ago
+Agree;Agree
+Agreement;Agreement
+Aires;Aires
+Akan;അകാന്‍
+Akrotiri;അക്രോത്തിരി
+Alarm;Alarm
+Albania;അല്‍ബാനിയാ
+Albanian;അല്‍ബേനിയന്‍ 
+Alert dialog;Alert dialog
+Alert record;Alert record
+Alert;അറിയിക്കുക
+Algeria;അള്‍ജീരിയ
+Algorithm Parameters;Algorithm Parameters
+Algorithm;Algorithm
+Alias dereferencing problem;Alias dereferencing problem
+Alias dereferencing;Alias dereferencing
+Alias problem;Alias problem
+Alias;Alias
+Align Justified;Align Justified
+Align Left;Align Left
+Align Legend;Align Legend
+Align text centered;Align text centered
+Align;Align
+Alignment;Alignment
+All;എല്ലാം
+Allman;Allman
+Allocated;Allocated
+Allocation Trigger;Allocation Trigger
+Allocation;Allocation
+Allocations;അലോക്കേഷനുകൾ
+Allow First;Allow First
+Allow autoplay;Allow autoplay
+Allow;അനുവദിക്കൂ
+Allow;അനുവദിക്കുക
+Allow;അനുവദിക്കുക 
+Allow;അനുവദിയ്ക്കുക
+Allowed;Allowed
+Allowing;Allowing
+Allows;Allows
+Allow…;അനുവദിക്കുക
+Almost done;Almost done
+Almost;Almost
+Alpha;Alpha
+Already;Already
+Also;Also
+Alt Name;Alt Name
+Alt;ആള്‍ട്ട്‌ 
+AltDown;AltDown
+AltUp;AltUp
+Alternate Text;Alternate Text
+Alternate;Alternate
+Alternatively;Alternatively
+Although;ചിലതൊക
+Always;എപ്പോഴും
+America/Adak;America/Adak
+America/Anchorage;America/Anchorage
+America/Anguilla;America/Anguilla
+America/Antigua;America/Antigua
+America/Araguaina;America/Araguaina
+America/Argentina/Catamarca;America/Argentina/Catamarca
+America/Argentina/Cordoba;America/Argentina/Cordoba
+America/Argentina/Jujuy;America/Argentina/Jujuy
+America/Argentina/Mendoza;America/Argentina/Mendoza
+America/Argentina/Salta;America/Argentina/Salta
+America/Argentina/Tucuman;America/Argentina/Tucuman
+America/Argentina/Ushuaia;America/Argentina/Ushuaia
+America/Aruba;America/Aruba
+America/Asuncion;America/Asuncion
+America/Atikokan;America/Atikokan
+America/Bahia;America/Bahia
+America/Barbados;America/Barbados
+America/Belem;America/Belem
+America/Belize;America/Belize
+America/BlancSablon;America/BlancSablon
+America/Bogota;America/Bogota
+America/Boise;America/Boise
+America/Cancun;America/Cancun
+America/Caracas;America/Caracas
+America/Cayenne;America/Cayenne
+America/Cayman;America/Cayman
+America/Chicago;America/Chicago
+America/Chihuahua;America/Chihuahua
+America/Creston;America/Creston
+America/Cuiaba;America/Cuiaba
+America/Curacao;America/Curacao
+America/Danmarkshavn;America/Danmarkshavn
+America/Dawson;America/Dawson
+America/Denver;America/Denver
+America/Detroit;America/Detroit
+America/Dominica;America/Dominica
+America/Edmonton;America/Edmonton
+America/Eirunepe;America/Eirunepe
+America/Fortaleza;America/Fortaleza
+America/Godthab;America/Godthab
+America/Grenada;America/Grenada
+America/Guadeloupe;America/Guadeloupe
+America/Guatemala;America/Guatemala
+America/Guayaquil;America/Guayaquil
+America/Guyana;America/Guyana
+America/Halifax;America/Halifax
+America/Havana;America/Havana
+America/Hermosillo;America/Hermosillo
+America/Indiana/Indianapolis;America/Indiana/Indianapolis
+America/Indiana/Knox;America/Indiana/Knox
+America/Indiana/Marengo;America/Indiana/Marengo
+America/Indiana/Petersburg;America/Indiana/Petersburg
+America/Indiana/Vevay;America/Indiana/Vevay
+America/Indiana/Vincennes;America/Indiana/Vincennes
+America/Indiana/Winamac;America/Indiana/Winamac
+America/Inuvik;America/Inuvik
+America/Iqaluit;America/Iqaluit
+America/Jamaica;America/Jamaica
+America/Juneau;America/Juneau
+America/Kentucky/Louisville;America/Kentucky/Louisville
+America/Kentucky/Monticello;America/Kentucky/Monticello
+America/Kralendijk;America/Kralendijk
+America/Lima;America/Lima
+America/Maceio;America/Maceio
+America/Managua;America/Managua
+America/Manaus;America/Manaus
+America/Marigot;America/Marigot
+America/Martinique;America/Martinique
+America/Matamoros;America/Matamoros
+America/Mazatlan;America/Mazatlan
+America/Menominee;America/Menominee
+America/Merida;America/Merida
+America/Metlakatla;America/Metlakatla
+America/Miquelon;America/Miquelon
+America/Moncton;America/Moncton
+America/Monterrey;America/Monterrey
+America/Montevideo;America/Montevideo
+America/Montreal;America/Montreal
+America/Montserrat;America/Montserrat
+America/Nassau;America/Nassau
+America/Nipigon;America/Nipigon
+America/Nome;America/Nome
+America/Noronha;America/Noronha
+America/Ojinaga;America/Ojinaga
+America/Panama;America/Panama
+America/Pangnirtung;America/Pangnirtung
+America/Paramaribo;America/Paramaribo
+America/Phoenix;America/Phoenix
+America/PortauPrince;America/PortauPrince
+America/Recife;America/Recife
+America/Regina;America/Regina
+America/Resolute;America/Resolute
+America/Santarem;America/Santarem
+America/Santiago;America/Santiago
+America/Scoresbysund;America/Scoresbysund
+America/Shiprock;America/Shiprock
+America/Sitka;America/Sitka
+America/Tegucigalpa;America/Tegucigalpa
+America/Thule;America/Thule
+America/Tijuana;America/Tijuana
+America/Toronto;America/Toronto
+America/Tortola;America/Tortola
+America/Vancouver;America/Vancouver
+America/Whitehorse;America/Whitehorse
+America/Winnipeg;America/Winnipeg
+America/Yakutat;America/Yakutat
+America/Yellowknife;America/Yellowknife
+America;America
+American Samoa;American Samoa
+American;അമേരിക
+Amharic;അംഹറിക്‌ 
+An;An
+Analysis …;Analysis …
+Analysis;Analysis
+Analyze;Analyze
+Anchor;Anchor
+Anchorage;Anchorage
+Anchors;സൂചകങ്ങള്‍
+And;And
+Andorra;ആന്‍ഡോറാ
+Android tablets;Android tablets
+Android&apos;Android&apos
+Android;ആന്‍ഡ്രോയിഡ്
+Android™;Android™
+Angeles;Angeles
+Angola;ആന്‍ഗോളാ
+Anguilla;ആന്‍ഗ്വിലാ
+Animate app;Animate app
+Animate;Animate
+Animation;ചലനചിത്രം
+Animations;ആനിമേഷനുകള്‍
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation;AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow;AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+Annotation;Annotation
+Announces;Announces
+Annoyances;Annoyances
+Another;Another
+Answer;Answer
+Answers;Answers
+Antarctic Lands;Antarctic Lands
+Antarctic;അന
+Antarctica/Casey;Antarctica/Casey
+Antarctica/Davis;Antarctica/Davis
+Antarctica/DumontDUrville;Antarctica/DumontDUrville
+Antarctica/Macquarie;Antarctica/Macquarie
+Antarctica/Mawson;Antarctica/Mawson
+Antarctica/McMurdo;Antarctica/McMurdo
+Antarctica/Palmer;Antarctica/Palmer
+Antarctica/Rothera;Antarctica/Rothera
+Antarctica/Syowa;Antarctica/Syowa
+Antarctica/Troll;Antarctica/Troll
+Antarctica/Vostok;Antarctica/Vostok
+Antarctica;അന്റാര്‍ട്ടിക്ക
+AntiVirus;AntiVirus
+Antigua and Barbuda;Antigua and Barbuda
+Antigua;Antigua
+Antilles;Antilles
+Antivirus;Antivirus
+Any;Any
+AnyText;AnyText
+Anywhere;Anywhere
+App can &apos;App can &apos
+App;പ്രയോഗങ്ങള്‍
+AppCache;AppCache
+AppCacheUtils;AppCacheUtils
+AppMenu;AppMenu
+AppName Uninstall;AppName Uninstall
+AppName;AppName
+Appcache validated;Appcache validated
+Appcache;Appcache
+Appearance;കാഴ്ച
+Appendices;Appendices
+Apple Mail;Apple Mail
+Apple;Apple
+AppleSingle extraction error;AppleSingle extraction error
+AppleSingle extraction;AppleSingle extraction
+AppleSingle;AppleSingle
+Applelink;Applelink
+Applet;Applet
+Application;Application
+Applications;പ്രയോഗങ്ങള്‍
+Apply;Apply
+Applying update;Applying update
+Applying;Applying
+Appointments;Appointments
+ApprovedBy;ApprovedBy
+Apps;പ്രയോഗങ്ങള്‍
+Apr;ഏ
+April;ഏപ്രില്‍
+Arab;അറബ
+Arabia;അറേബ
+Arabic MacArabic;Arabic MacArabic
+Arabic Windows;Arabic Windows
+Arabic;അറബിക്‌
+Arabic;അറബിക്‌ 
+Aragonese;അരഗൊനീസ്‌
+Archive;Archive
+Archived;Archived
+Archives;Archives
+Archiving;Archiving
+Arctic/Longyearbyen;Arctic/Longyearbyen
+Are;Are
+Area;Area
+Argentina;അര്‍ജെന്റീന
+Arial;Arial
+Armenia;അര്‍മേനിയാ
+Armenian;അര്‍മെനിയന്‍
+Armenian;അര്‍മെനിയന്‍ 
+Arrow;Arrow
+Articles;ലേഖനങ്ങള്‍
+Artist;Artist
+Aruba;അരുബാ
+As Laid Out;As Laid Out
+As Quotation;As Quotation
+As;As
+Ascending;Ascending
+Ascension and;Ascension and
+Ascension;Ascension
+Ashmore;മോര
+Asia/Aden;Asia/Aden
+Asia/Almaty;Asia/Almaty
+Asia/Amman;Asia/Amman
+Asia/Anadyr;Asia/Anadyr
+Asia/Aqtau;Asia/Aqtau
+Asia/Aqtobe;Asia/Aqtobe
+Asia/Ashgabat;Asia/Ashgabat
+Asia/Baghdad;Asia/Baghdad
+Asia/Bahrain;Asia/Bahrain
+Asia/Baku;Asia/Baku
+Asia/Bangkok;Asia/Bangkok
+Asia/Barnaul;Asia/Barnaul
+Asia/Beirut;Asia/Beirut
+Asia/Bishkek;Asia/Bishkek
+Asia/Brunei;Asia/Brunei
+Asia/Chita;Asia/Chita
+Asia/Choibalsan;Asia/Choibalsan
+Asia/Chongqing;Asia/Chongqing
+Asia/Colombo;Asia/Colombo
+Asia/Damascus;Asia/Damascus
+Asia/Dhaka;Asia/Dhaka
+Asia/Dili;Asia/Dili
+Asia/Dubai;Asia/Dubai
+Asia/Dushanbe;Asia/Dushanbe
+Asia/Gaza;Asia/Gaza
+Asia/Harbin;Asia/Harbin
+Asia/Hebron;Asia/Hebron
+Asia/Hovd;Asia/Hovd
+Asia/Irkutsk;Asia/Irkutsk
+Asia/Istanbul;Asia/Istanbul
+Asia/Jakarta;Asia/Jakarta
+Asia/Jayapura;Asia/Jayapura
+Asia/Jerusalem;Asia/Jerusalem
+Asia/Kabul;Asia/Kabul
+Asia/Kamchatka;Asia/Kamchatka
+Asia/Karachi;Asia/Karachi
+Asia/Kashgar;Asia/Kashgar
+Asia/Kathmandu;Asia/Kathmandu
+Asia/Khandyga;Asia/Khandyga
+Asia/Kolkata;Asia/Kolkata
+Asia/Krasnoyarsk;Asia/Krasnoyarsk
+Asia/Kuching;Asia/Kuching
+Asia/Kuwait;Asia/Kuwait
+Asia/Macau;Asia/Macau
+Asia/Magadan;Asia/Magadan
+Asia/Makassar;Asia/Makassar
+Asia/Manila;Asia/Manila
+Asia/Muscat;Asia/Muscat
+Asia/Nicosia;Asia/Nicosia
+Asia/Novokuznetsk;Asia/Novokuznetsk
+Asia/Novosibirsk;Asia/Novosibirsk
+Asia/Omsk;Asia/Omsk
+Asia/Oral;Asia/Oral
+Asia/Pontianak;Asia/Pontianak
+Asia/Pyongyang;Asia/Pyongyang
+Asia/Qatar;Asia/Qatar
+Asia/Qyzylorda;Asia/Qyzylorda
+Asia/Rangoon;Asia/Rangoon
+Asia/Riyadh;Asia/Riyadh
+Asia/Sakhalin;Asia/Sakhalin
+Asia/Samarkand;Asia/Samarkand
+Asia/Seoul;Asia/Seoul
+Asia/Shanghai;Asia/Shanghai
+Asia/Singapore;Asia/Singapore
+Asia/Srednekolymsk;Asia/Srednekolymsk
+Asia/Taipei;Asia/Taipei
+Asia/Tashkent;Asia/Tashkent
+Asia/Tbilisi;Asia/Tbilisi
+Asia/Tehran;Asia/Tehran
+Asia/Thimphu;Asia/Thimphu
+Asia/Tokyo;Asia/Tokyo
+Asia/Ulaanbaatar;Asia/Ulaanbaatar
+Asia/Urumqi;Asia/Urumqi
+Asia/UstNera;Asia/UstNera
+Asia/Vientiane;Asia/Vientiane
+Asia/Vladivostok;Asia/Vladivostok
+Asia/Yakutsk;Asia/Yakutsk
+Asia/Yekaterinburg;Asia/Yekaterinburg
+Asia/Yerevan;Asia/Yerevan
+Asia;Asia
+Asian;ഏഷ
+Ask;Ask
+Asks how;Asks how
+Asks;Asks
+Assamese;ആസ്സാമീസ്‌ 
+Assembling mail;Assembling mail
+Assembling messageDone;Assembling messageDone
+Assembling;Assembling
+Assistant;Assistant
+Associated;Associated
+Assurance;Assurance
+Asturian;അസ്റ്റുറിയന്‍ 
+Async;Async
+Asynchronous Pan;Asynchronous Pan
+Asynchronous;ങോട
+Atlantic/Azores;Atlantic/Azores
+Atlantic/Bermuda;Atlantic/Bermuda
+Atlantic/Canary;Atlantic/Canary
+Atlantic/Faroe;Atlantic/Faroe
+Atlantic/Madeira;Atlantic/Madeira
+Atlantic/Reykjavik;Atlantic/Reykjavik
+Atlantic/Stanley;Atlantic/Stanley
+Atlantic;Atlantic
+Atoll;റോല
+Atom;ആറ്റം
+Attach;Attach
+Attached;Attached
+Attachment;Attachment
+AttachmentRemove;AttachmentRemove
+Attachments;അറ്റാച്മെന്റുകള്‍
+Attack Site;Attack Site
+Attack;Attack
+Attempt to;Attempt to
+Attempt;Attempt
+Attempts;ശ്രമങ്ങള്‍
+Attendance;Attendance
+Attendee;Attendee
+Attendees;Attendees
+Attention;Attention
+Attribute;Attribute
+Attributes;വിശേഷതകള്‍
+Attribution;Attribution
+Auckland;Auckland
+Audio;ഓഡിയോ
+AudioBufferSourceNode;ലേബാക
+AudioChannel;MediaStreamTrack
+AudioListener and speedOfSound and dopplerFactor on;AudioListener and speedOfSound and dopplerFactor on
+AudioListener;speedOfSound
+AudioListenerDeprecated;AudioListenerDeprecated
+AudioNode Inspector;AudioNode Inspector
+AudioNode;AudioNode
+AudioParam does;AudioParam does
+AudioParam;AudioParam
+AudioParams;AudioParams
+Aug;ആഗ
+August;ഓഗസ്റ്റ്
+Aurora;Aurora
+Australia/Adelaide;Australia/Adelaide
+Australia/Brisbane;Australia/Brisbane
+Australia/Currie;Australia/Currie
+Australia/Darwin;Australia/Darwin
+Australia/Eucla;Australia/Eucla
+Australia/Hobart;Australia/Hobart
+Australia/Lindeman;Australia/Lindeman
+Australia/Melbourne;Australia/Melbourne
+Australia/Perth;Australia/Perth
+Australia/Sydney;Australia/Sydney
+Australia;ഓസ്ട്രേലിയാ
+Austria;ഓസ്ട്രിയ 
+Authenticated;Authenticated
+Authenticating;Authenticating
+Authentication method &apos;Authentication method &apos
+Authentication;Authentication
+Author;രചയിതാവ്
+Authored;Authored
+Authorities;അതോരിറ്റികള്‍
+Authority unnamed;Authority unnamed
+Authority;അഥോറിറ
+Authorize;Authorize
+Authors;Authors
+Auto Increment;Auto Increment
+Auto Update;Auto Update
+Auto;സ്വതേ
+AutoA;AutoA
+AutoConfig Alert;AutoConfig Alert
+AutoConfig;ടോകോണ
+AutoDetect;സ്വയം കണ്ടുപിടിക്കുക
+AutoJoined Channels;AutoJoined Channels
+AutoJoined;AutoJoined
+Autocomplete;തനിയേ പൂർത്തിയാക്കുക
+Autoindent;ഓട്ടോഇന്‍ഡന്റ്
+Automation;ഓട്ടോമേഷന്‍
+Available;Available
+Avaric;അവറിക്‌ 
+Avestan;അവെസ്റ്റന്‍
+Avg;ശരാശരി
+Aware;ഞുള
+Aymara;അയ്മറ 
+Azerbaijan;അസര്‍ബൈജന്‍
+Azerbaijani;അസ്സര്‍ബൈജാനി 
+B;B
+BACK;വിടാൻ
+BLOCKED;ബ്ലോക്ക് ചെയ്തത്
+Back;പുറകോട്ട്
+Back;പുറകോട്ട്‌
+Back;പുറകോട്ടു് 
+Back;പിന്നോട്ട്‌
+Background;പശ്ചാത്തലം 
+Backgroundbmp;Backgroundbmp
+Backgrounds;തലങ
+Backspace;Backspace
+Backup…;പകര്‍പ്പ് ഉണ്ടാക്കുക…
+Backup…;ബാക്കപ്പ്…
+Bad;നല്ലതല്ല
+Bahrain;ബഹ്‌റൈന്‍ 
+Baltic;ബാള്‍ട്ടിക്ക്‌
+Bambara;ബംബാറ 
+Bangladesh;ബംഗ്ലാദേശ്
+Banking;ബാങ്കിങ്ങ്
+Barbados;ബര്‍ബാഡോസ്
+Barbuda;റിഗ
+Barthelemy;ലെമി
+Bashkir;ബാഷ്കിര്‍
+Basic;ബെയിസിക
+Basque;ബാസ്ക്ക്‌ 
+Bassas;സാസ
+Battery;ബാറ്ററി
+Belarus;ബെലാറസ്
+Belarusian;ബെലാറസ്സിയന്‍
+Belgium;ബെല്‍ജിയം
+Belize;ബെലിസ്സെ 
+Bengali;ബംഗാളി 
+Benin;ബെനിന്‍
+Bermuda;ബര്‍മൂഡാ
+Bhutan;ബൂട്ടാന്‍
+Big;Big
+BigHKSCS;BigHKSCS
+Bihari;ബീഹാരി 
+Bing;ബിങ്
+Bislama;ബിസ്‌ലാമ 
+Block;തടയുക
+Block;തടയുക 
+Blocked;തടഞ്ഞവ
+Blocked;തടഞ്ഞുവച്ചിരിക്കുന്നു
+Bokmål;ബൊക
+Bolivia;ബൊളിവിയ 
+Bookmark;അടയാളം
+Bookmark;അടയാളക്കുറിപ്പു്
+Bookmarks;അടയാളങ്ങള്‍
+Bookmarks;അടയാളങ്ങള്‍ 
+Bookmarks;അടയാളക്കുറിപ്പുകള്‍
+Bookmarks;ഓര്‍മ്മക്കുറിപ്പുകള്‍
+Boolean;ബൂളിയന്‍
+Border;അതിരു്
+Bosnian;ബോസ്നിയന്‍
+Botswana;ബോട്ട്സ്വാനാ
+Bottom;അടിവശം
+Branch;ശാഖ
+BrandFullName;brandFullName
+BrandFullNameDA;BrandFullNameDA
+BrandShortName;BrandShortName
+Brazil;ബ്രസീല്‍
+Brazzaville;കോബ
+Breton;ബ്രിട്ടണ്‍
+Browser;ബ്രൌസര്‍
+Browse…;തിരയുക
+Browse…;പരതുക…
+Browse…;തിരയുക 
+Browse…;തെരയുക…
+Browsing;തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു 
+Brunei;ബ്രൂണയ്
+Bubbling;ബബ്ലിങ്
+Bulgaria;ബള്‍ഗേറിയാ
+Bulgarian;ബള്‍ഗേറിയന്‍ 
+Bulk;ബള
+Bullet;ബുള്ളറ്റു്
+Burma;ബര്‍മ്മ
+Burmese;ബര്‍മ്മീസ്‌
+Burundi;ബുറുണ്ടി
+Button;താളോ
+Buttons;ബട്ടണുകള്‍
+By;രസദ
+Bytes;ബൈറ്റുകള്‍
+C;C
+CA;CA
+CACHE;CACHE
+CD;CD
+CDSA;CDSA
+CLICK;CLICK
+CN;CN
+COLNAME;രമപ
+CORS;ചാനലിലുള
+CP;CP
+CRL;സിആര
+CRLs;CRLകല
+CSS;സിഎസ്എസ്
+Cabo;കെയിപ
+Cache;കാഷ്
+California;California
+Call;വിളിയ്ക്കുക
+Cambodia;കമ്പോഡിയാ
+Cameroon;കാമാറൂണ്‍
+Canada;കാനഡാ
+Canadian;യൂണിഫൈഡ
+Canary;കാനറി
+Cancel;റദ്ദാക്കൂ
+Cancel;റദ്ദാക്കുക
+Canceled;റദ്ദ് ചെയ്തിരിക്കുന്നു
+Canceled;റദ്ദാക്കിയിരിക്കുന്നു 
+Canceled;റദ്ദാക്കിയിരിയ്ക്കുന്നു
+Canvas;setTimeout
+Capture;പിടിക്കുക
+Cares;യതയെ
+Caret;കാരറ
+Cartier;യേര
+Cast;രീനിലേക
+Catalan;കട്ടളന്‍
+Cause;കാരണം
+Cayman;കെയ
+Celtic;സെള
+Center;മദ്ധ്യം 
+Center;നടുക്കു്
+Center;മദ്ധ്യഭാഗം
+Central;രല
+Certificate;സര്‍റ്റിഫിക്കറ്റ്
+Certificate;സര്‍റ്റിഫിക്കറ്റ്‌ 
+Certificates;സര്‍ട്ടിഫിക്കറ്റുകള്‍
+Certified;സാക്ഷ്യപ്പെടുത്തിയ
+Chad;ക്യാഡ്
+Chamorro;ചമൊറൊ 
+Change;മാറ്റുക
+Changed;ലിയേഷന
+Chechen;ചെച്ചെന്‍ 
+Check;ചെക്
+Chichewa;ചിചെവ
+Chile;ചിലി
+China;ചൈന
+Chinese;ചൈനീസ്
+Chinese;ചൈനീസ്‌ 
+Choose…;തെരഞ്ഞെടുക്കൂ…
+Choose…;തിരഞ്ഞെടുക്കുക 
+Choose…;തെരഞ്ഞെടുക്കുക…
+Chrome;ക്രോം
+Chromecast;ക്രോംകാസ്റ്റ്
+Chromium;ക്രോമിയം
+Chuvash;ചുവാഷ്‌
+Clear;rവെടിപ്പാക്കുക
+Clear;നീക്കം ചെയ്യുക
+Clear;വൃത്തിയാകുക 
+Clear;വൃത്തിയാക്കുക
+Clear;വെടിപ്പാക്കുക
+ClearType;ClearType
+Clearing;വെടിപ്പാക്കുന്നു
+Click;ക്ലിക്ക് ചെയ്യുക
+Clipboard;ക്ലിപ്പ്ബോര്‍ഡ്
+Close;അടക്കുക
+Close;അടയ്ക്കുക
+Close;അടയ്ക്കുക 
+Code;കോഡ്
+Collapse;കൊളാപ്സ്
+Collection;തിലുടെ
+Colombia;കംബൊഡിയ
+Color;നിറം 
+Colors;നിറങ്ങള്‍
+Colors…;നിറങ്ങള്‍…
+Column;കോളം
+Comoros;കോമറോസ്
+Comparison;താരതമ്യം
+Complete;പൂര്‍ത്തിയായിരിയ്ക്കുന്നു
+Completed;പൂര്‍ത്തിയായിരിയ്ക്കുന്നു
+Composite;കോംപസിറ
+Composition;രൂപീകരണം
+Compromise;പൊരുത
+Conclusion;ഉപസംഹാരം
+Configure…;ക്രമീകരിയ്ക്കുക…
+Confirm;ഉറപ്പാക്കുക
+Confirm;തീര്‍ച്ചപ്പെടുത്തുക 
+Connect;കണക്ട് ചെയ്യുക
+Connect;ബന്ധിപ്പിയ്ക്കുക
+Connected;ബന്ധപ്പെട്ടിരിക്കുന്നു
+Connecting;കണക്ട് ചെയ്യുന്നു
+Connecting…;കണക്ട് ചെയ്യുന്നു…
+Connection;കണക്ഷന്‍
+Console;കണ്‍സോള്‍
+Constraints;രെയിന
+Containers;കണ്ടെയിനറുകള്‍
+Containing;ഇതടങ
+Content;ഉള്ളടക്കം
+ContentSecurityPolicyReportOnly;ഇതിനുള
+Contents;ഉള്ളടക്കം
+Context;ഭം
+Continue;തുടരുക
+Continue;തുടരുക 
+Continue;മുമ്പോട്ടു് തുടരുക
+Contribute;സംഭാവന ചെയ്യുക
+Contributors;സംഭാവന നല്‍കിയവര്‍
+Controls;രോളുകളാല
+Cookies;കുക്കികള്‍
+Cookies;കുക്കികള്‍ 
+Copies;പകര്‍പ്പുകള്‍
+Copy;പകര്‍ത്തുക
+Copy;പകര്‍ത്തുക 
+Coral;സീ
+Cornish;കോര്‍ണിഷ്‌
+Corsican;കോര്‍സ്സിക്കന്‍
+Count;എണ്ണം
+Counterclockwise;വിപരീതമായി
+Create;നിര്‍മ്മിക്കുക
+Creation;മാണം
+Creator;സൃഷ്ടികര്‍ത്താവ്
+Credits;ബഹുമതികള്‍
+Cree;ക്രീ 
+Critical;ക്രിട്ടിക്കല്‍
+Croatia;ക്രൊയേഷ്യാ
+Croatian;ക്രൊയേഷിയന്‍ 
+Ctrl;Ctrl
+Cuba;ക്യൂബാ
+CuforceGC;CuforceGC
+Curaçao;കുരാകാവോ
+Current;നിലവിലുളള
+Cursor;കര്‍സര്‍
+Custom;യഥേഷ്ടം
+Custom;യഥേഷ്ടമാക്കുക
+Custom;ഇഷ്ടാനുസരണമാക്കുക
+Customization;Customization
+Customize;യഥേഷ്ടം സജ്ജമാക്കുക
+Customize…;ഇച്ഛാനുസൃതമാക്കുക
+Custom…;ഇഷ്ടാനുസരണമാക്കുക
+Cut;മുറിക്കുക
+Cut;മുറിക്കുക 
+Cut;മുറിയ്ക്കുക
+Cycle;സൈക്കിള്‍
+Cyprus;സൈപ്രസ്
+Cyrillic;സിറില്ലിക്ക്‌ 
+Czech;ചെക്ക്‌
+D;രീഡി
+DC;DC
+DECDSA;DECDSA
+DER;DER
+DEVICE;DEVICE
+DN;DN
+DNS;ഡിഎന്‍എസ്
+DOM;DOM
+DOS;DOS
+DRM;എമിനെപ
+Dangling;ഡാങ
+Danish;ഡാനിഷ്‌
+Dark;കടും
+Dark;ഇരുണ്ട
+Data;ഡേറ്റാ
+DataURL;എലിനുള
+Date/Time;തിയതി / സമയം
+Date/Time;തീയതി/സമയം
+Date;ദിനം
+Day;ദിവസവും
+DayCrash Reports;DayCrash Reports
+DayCrash;DayCrash
+Days;ദിവസം
+Debug Mode;Debug Mode
+Debug;ഡീബഗ്
+Debug;ഡീബഗ് ചെയ്യുക
+DebugALIGNCENTERerver;DebugALIGNCENTERerver
+Debugger;ഗറില
+Debugging;Debugging
+Dec;ഡിസം
+December;ഡിസംബര്‍
+Decide;Decide
+Declaration;Declaration
+Decline;Decline
+Declined;Declined
+Decoder;ഡീകോഡര്‍
+Decoding error;Decoding error
+Decoding;Decoding
+Decrease;കുറയ്ക്കുക
+Decrypted;Decrypted
+Decryption;Decryption
+Deer;Deer
+Default;സ്വതവേ
+Default;തനിമട്ട്
+Default;സ്വതവേയുള്ള
+Defaults;Defaults
+Defer Account;Defer Account
+Defer;Defer
+Define;Define
+Defined;ടാനുസരണം
+Definition;Definition
+Definitions;Definitions
+Del;Del
+Delay;താമസം
+Delete Message;Delete Message
+Delete;വെട്ടി നീക്കുക
+Delete;മായിക്കുക
+Delete;വെട്ടിനീക്കുക
+Delete;നിര്‍മാര്‍ജ്ജനം ചെയ്യുക
+Deleted;Deleted
+Delete…;നീക്കം ചെയ്യുക…
+Deleting a;Deleting a
+Deleting component;കംപോണന
+Deleting;Deleting
+Deletion Error;Deletion Error
+Deletion;Deletion
+Delimited;Delimited
+Delivery Format;Delivery Format
+Delivery Status Notification;Delivery Status Notification
+Delivery;Delivery
+Denmark;ഡെന്‍മാര്‍ക്ക്
+Denver;Denver
+Deny;നിഷേധിക്കുക 
+Department;Department
+Descending;Descending
+Describe Problem;Describe Problem
+Describe;Describe
+Description;വിവരണം
+Description;വിശദീകരണം
+Deserialize;ഡിസീരിയലൈസ
+Design Mode;Design Mode
+Design View;Design View
+Design;Design
+Desktop Backgroundbmp;Desktop Backgroundbmp
+Desktop Open &quot;Desktop Open &quot
+Desktop;ഡെസ്ക്ടോപ്പ്‌
+Destination Folder;Destination Folder
+Destination;Destination
+Destroy;Destroy
+Detach;Detach
+Detach…;Detach…
+Detail;Detail
+Details of;Details of
+Details;വിവരങ്ങള്‍ 
+Details;വിശദാംശങ്ങള്‍
+Details;വിശദവിവരങ്ങള്‍
+Details…;വിശദാംശങ്ങള്‍…
+Detect indentation;Detect indentation
+Detect;Detect
+Determining which;Determining which
+Determining;Determining
+DevTools;DevTools
+Devanagari;ദേവനഗരി
+Developed;Developed
+Developer Edition;Developer Edition
+Developer Tools;Developer Tools
+Developer;ഡവലപ്പര്‍
+Developers;ഡവലപ്പര്‍മാര്‍
+Development;Development
+Device &quot;Device &quot
+Device;ഉപകരണം
+Device;ഡിവൈസ്
+DeviceShare;DeviceShare
+Devices;ഉപകരണങ്ങൾ
+Devicex;Devicex
+Dhekelia;ധെകെലിയ
+Diagnostics;Diagnostics
+Dial;Dial
+Dialog Preference;Dialog Preference
+Dialog;Dialog
+Dialogs;Dialogs
+Dictionaries …;Dictionaries …
+Dictionaries;നിഘണ്ടുകള്‍
+Dictionary;Dictionary
+Did;Did
+Diego;ഡീഗോ
+Different;Different
+DiffieHellman key;DiffieHellman key
+DiffieHellman;DiffieHellman
+Digest function;Digest function
+Digest was;Digest was
+Digest;Digest
+Digg Reader;Digg Reader
+Digg;Digg
+Digital;Digital
+Dimensions;അളവുകള്‍
+Direct;Direct
+DirectD;DirectD
+DirectWrite;DirectWrite
+Direction;ദിശ 
+Directive;ടീവും
+Directories;Directories
+Directory &apos;Directory &apos
+Directory Servers;Directory Servers
+Directory;Directory
+Disability access;Disability access
+Disability;Disability
+Disable;പ്രവര്‍ത്തന രഹിതം
+Disabled;പ്രവർത്തന രഹിതം
+Disabled;പ്രവര്‍ത്തന രഹിതം
+Disabled;പ്രവര്‍ത്തനരഹിതമാക്കി
+Disabled;നിര്‍വീര്യമാക്കിയിരിക്കുന്നു
+Disables;Disables
+Disabling;Disabling
+Discard closed;Discard closed
+Discard;Discard
+Discarded packets;Discarded packets
+Discarded;Discarded
+Disconnect from;Disconnect from
+Disconnect;ബന്ധം വിഛേദിക്കുക
+Disconnect;വിഛേദിക്കുക
+Disconnectellipsis;വിച്ഛേദിക്കൂellipsis
+Disconnecting…;വിഛേദിക്കുന്നു
+Disconnectme strict;Disconnectme strict
+Disconnectme;Disconnectme
+Disconnect…;വിഛേദിക്കുക
+Discontinue Link;Discontinue Link
+Discontinue;Discontinue
+Discover;Discover
+Discussions;ചകളും
+Disk;Disk
+Dismiss;ഉപേക്ഷിക്കുക
+Display a;Display a
+Display;പ്രദര്‍ശനം
+Display;പ്രദര്‍ശിപ്പിയ്ക്കുക
+Displays the;Displays the
+Displays;Displays
+Distinguished;Distinguished
+Distribution Points;Distribution Points
+Distribution;Distribution
+Distrust;Distrust
+Divehi;ഡിവെഹി
+Djibouti;ജിബോട്ടി
+Do;പുതിയത
+Dock;വശം
+Docs;Docs
+Document Outline;Document Outline
+Document;കുമെന
+Documents;Documents
+Doe;Doe
+Doing;Doing
+Domain GUID;Domain GUID
+Domain;ഡൊമെയിന്‍
+Domains;Domains
+Domestic;Domestic
+Dominator;Dominator
+Dominators;Dominators
+Domingo;Domingo
+Dominica;ഡൊമിനിക്കാ
+Dominican;Dominican
+Don &apos;Don &apos
+Don;Don
+Done;ചെയ്തു
+Done;പൂര്‍ത്തിയായി
+Done;കഴിഞ്ഞിരിക്കുന്നു 
+Double click;Double click
+Double;Double
+Doublecheck;Doublecheck
+Doubleclick;Doubleclick
+Down;താഴേയ്ക്കു്
+Download Link;Download Link
+Download;ഡൗണ്‍ലോഡ്
+Download;ഡൌണ്‍ലോഡ് ചെയ്യുക
+DownloadRestart;DownloadRestart
+Downloaded;ഡൌണ്‍ലോഡ് ചെയ്തു
+Downloaded;ഡൌണ്‍ലോഡ്‌ ചെയ്തിരിക്കുന്നു
+Downloading;ഡൌണ്‍ലോഡ് ചെയ്യുന്നു
+Downloading;ഡൌണ്‍ലോഡ്‌ ചെയ്തുകൊണ്ടിരിക്കുന്നു 
+Downloading…;ഡൌണ്‍ലോഡ് ചെയ്യുന്നു…
+Downloading…;ഡൌണ്‍ലോഡ്‌ ചെയ്തു കൊണ്ടിരിക്കുന്നു 
+Downloads;ഡൌണ്‍ലോടുകള്‍
+Downloads;ഡൌണ്‍ലോഡുകള്‍
+Downloads;ഡൗണ്‍ലോഡുകള്‍
+Downloads;അടയാളക്കുറിപ്പുകള്‍
+Draft Message;Draft Message
+Draft;Draft
+Drafts;Drafts
+Drag;Drag
+Draw draws;Draw draws
+Draw repainted;Draw repainted
+Draw;Draw
+Driver Verification;Driver Verification
+Driver;Driver
+Drivers;Drivers
+Drives;Drives
+Drop a;Drop a
+Drop;Drop
+Dropping a;Dropping a
+Dropping;Dropping
+DuckDuckGo;DuckDuckGo
+Due;Due
+Dump;Dump
+Duplicate name;Duplicate name
+Duplicate;Duplicate
+Duraterver;Duraterver
+Duration;ദൈര്‍ഘ്യം
+Dutch;ഡച്ച്‌ 
+Dzongkha;ഭുട്ടാനീസ്‌
+ECDSA Signature;ECDSA Signature
+ECDSA;ECDSA
+EDI Party Name;EDI Party Name
+EDI Party;EDI Party
+EDI;ഇഡിഐ
+EHLO;EHLO
+EMail Certificates;EMail Certificates
+EMail;EMail
+ERROR;തെറ്റ്‌
+ERRORS;പിഴവുകള്‍
+ES;രൊസസ
+ESC;ESC
+EUCJP;EUCJP
+EUCKR;EUCKR
+EUCTW;EUCTW
+EV;EV
+EXTRACTION_FAILED;എക്സ്‌ട്രാക്‌ട്‌ ചെയ്യുന്നത്‌ പരാജയപ്പെട്ടിരിക്കുന്നു
+Each;പിലാകുന
+Eager;Eager
+Earlier;Earlier
+East Asian;East Asian
+East European;East European
+East;കിഴക
+Eastern;Eastern
+Ecuador;ഇക്ക്വഡോര്‍
+Edge;എഡ
+Edit Conditional;Edit Conditional
+Edit;തിരുത്തുക
+Edit;ചിട്ടപ്പെടുത്തുക
+Editing;Editing
+Edition;എഡിഷന
+Editor;എഡിറ്റര്‍
+Editors;Editors
+Edit…;Edit…
+Egypt;ഈജിപ്റ്റ്
+Either;Either
+El Aaiun;El Aaiun
+El Salvador;El Salvador
+El;El
+Elapsed;Elapsed
+Element;Element
+ElementmozRequestFullScreen;ElementmozRequestFullScreen
+ElementrequestFullscreen was;ElementrequestFullscreen was
+ElementrequestFullscreen;ElementrequestFullscreen
+ElementrequestPointerLock;ElementrequestPointerLock
+Elements;Elements
+Email Address;Email Address
+Email;ഈമെയില്‍
+Embarrassed;Embarrassed
+Embed;എംബെഡ്‌
+Embedded;Embedded
+Emirates;Emirates
+Emphasis;Emphasis
+Emptied Trash;Emptied Trash
+Emptied;Emptied
+Empty;കാലി
+Empty;ശൂന്യം
+Emulate;Emulate
+Enable;സജ്ജമാക്കുക 
+Enable;പ്രവര്‍ത്തന സജ്ജം
+Enable;പ്രവര്‍ത്തന സജ്ജമാക്കുക
+Enabled;പ്രവര്‍ത്തന സജ്ജം
+Enabled;പ്രവര്‍ത്തന സജ്ജമാക്കുക 
+Enabled;പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു
+Enabled;പ്രവർത്തനസജ്ജം
+Enabled;പ്രവര്‍ത്തനക്ഷമമാക്കി
+Enables;Enables
+Encipherment;Encipherment
+Encoder;എന്‍കോഡര്‍
+Encoding While;Encoding While
+Encoding;Encoding
+Encodings;കോഡിങുകള
+Encrypt;Encrypt
+Encrypted password&apos;Encrypted password&apos
+Encrypted;Encrypted
+Encrypting File;Encrypting File
+Encrypting;Encrypting
+Encryption;Encryption
+End;End
+End;അവസാനം
+EndUser Rights;EndUser Rights
+EndUser;EndUser
+Ended;കഴിഞ്ഞിരിയ്ക്കുന്നു
+Endian;Endian
+Endpoint;Endpoint
+Enforce;Enforce
+Engine;Engine
+Engineering;Engineering
+Engines;Engines
+English US;Malayalam IN
+English USASCII;English USASCII
+English language;English language
+English;ഇംഗ്ലീഷ്‌
+Enhanced;Enhanced
+Enlarge;Enlarge
+Enter &apos;Enter &apos
+Enter Full;Enter Full
+Enter that;Enter that
+Enter;Enter
+Entered;Entered
+Entering;Entering
+Entries;എന്‍ട്രികള്‍
+Entry;Entry
+Enumerable Properties;Enumerable Properties
+Enumerable;Enumerable
+Environment;എന്‍വയണ്മെന്റ്
+Epiphany;Epiphany
+Equatorial Guinea;Equatorial Guinea
+Equatorial;ഇക
+Eritrea;എറിട്രിയാ
+Error;പിശക്
+Error;തെറ്റു്
+Errors;പിശകുകള്‍
+Errors;തെറ്റുകള്‍ 
+Esc;Esc
+Esperanto;എസ്പെറാന്റൊ
+Estonia;എസ്റ്റോണിയാ
+Estonian;ഇസ്റ്റോണിയന്‍ 
+Ethiopia;എഫിയോപ്പിയാ
+Ethiopic;ഇത്യോപ്പിക്ക്‌
+Eudora Nicknames;Eudora Nicknames
+Eudora Settings;Eudora Settings
+Eudora mail;Eudora mail
+Eudora;Eudora
+Europa Island;Europa Island
+Europa;Europa
+Europe/Amsterdam;Europe/Amsterdam
+Europe/Andorra;Europe/Andorra
+Europe/Astrakhan;Europe/Astrakhan
+Europe/Athens;Europe/Athens
+Europe/Belgrade;Europe/Belgrade
+Europe/Berlin;Europe/Berlin
+Europe/Bratislava;Europe/Bratislava
+Europe/Brussels;Europe/Brussels
+Europe/Bucharest;Europe/Bucharest
+Europe/Budapest;Europe/Budapest
+Europe/Busingen;Europe/Busingen
+Europe/Chisinau;Europe/Chisinau
+Europe/Copenhagen;Europe/Copenhagen
+Europe/Dublin;Europe/Dublin
+Europe/Gibraltar;Europe/Gibraltar
+Europe/Guernsey;Europe/Guernsey
+Europe/Helsinki;Europe/Helsinki
+Europe/Istanbul;Europe/Istanbul
+Europe/Jersey;Europe/Jersey
+Europe/Kaliningrad;Europe/Kaliningrad
+Europe/Kiev;Europe/Kiev
+Europe/Lisbon;Europe/Lisbon
+Europe/Ljubljana;Europe/Ljubljana
+Europe/London;Europe/London
+Europe/Luxembourg;Europe/Luxembourg
+Europe/Madrid;Europe/Madrid
+Europe/Malta;Europe/Malta
+Europe/Mariehamn;Europe/Mariehamn
+Europe/Minsk;Europe/Minsk
+Europe/Monaco;Europe/Monaco
+Europe/Moscow;Europe/Moscow
+Europe/Nicosia;Europe/Nicosia
+Europe/Oslo;Europe/Oslo
+Europe/Paris;Europe/Paris
+Europe/Podgorica;Europe/Podgorica
+Europe/Prague;Europe/Prague
+Europe/Riga;Europe/Riga
+Europe/Rome;Europe/Rome
+Europe/Samara;Europe/Samara
+Europe/Sarajevo;Europe/Sarajevo
+Europe/Simferopol;Europe/Simferopol
+Europe/Skopje;Europe/Skopje
+Europe/Sofia;Europe/Sofia
+Europe/Stockholm;Europe/Stockholm
+Europe/Tallinn;Europe/Tallinn
+Europe/Tirane;Europe/Tirane
+Europe/Ulyanovsk;Europe/Ulyanovsk
+Europe/Uzhgorod;Europe/Uzhgorod
+Europe/Vaduz;Europe/Vaduz
+Europe/Vatican;Europe/Vatican
+Europe/Vienna;Europe/Vienna
+Europe/Vilnius;Europe/Vilnius
+Europe/Volgograd;Europe/Volgograd
+Europe/Warsaw;Europe/Warsaw
+Europe/Zagreb;Europe/Zagreb
+Europe/Zaporozhye;Europe/Zaporozhye
+Europe/Zurich;Europe/Zurich
+Europe;Europe
+European;പിയന
+Eustatius and;Eustatius and
+Eustatius;Eustatius
+Eval;ഇവാല
+Evaluate;വിലയിരുത്തുക
+Evaluated JavaScript;Evaluated JavaScript
+Evaluated;Evaluated
+Evaluating;Evaluating
+Evangelism;Evangelism
+Even;Even
+Event;Event
+Events;ഈവന്റുകള്‍
+Event…;Event…
+Every Time;Every Time
+Every;Every
+Everything;എല്ലാം
+Eviction;എവിക
+Ewe;ഏയ്വെയ്‌
+Example;Example
+Excellent;Excellent
+Except;Except
+Exception …;Exception …
+Exception;Exception
+Exceptions;വിട്ടുവീഴ്ചകള്‍
+Exceptions…;ഒഴിവാക്കേണ്ടവ…
+Exceptions…;വിട്ടുവീഴ്ചകള്‍
+Exceptions…;വിട്ടുവീഴ്ചകള്‍…
+Exchange;Exchange
+ExecShell &quot;ExecShell &quot
+ExecShell;ExecShell
+Executable;Executable
+Execute Menu;Execute Menu
+Execute;പ്രവര്‍ത്തിപ്പിയ്ക്കുക
+Executing s;Executing s
+Executing;Executing
+Execution stopped;Execution stopped
+Execution;Execution
+Executive;Executive
+Existing;Existing
+Exists;Exists
+Exit;പുറത്തു കടക്കുക
+Exit;പുറത്തു് കടക്കുക
+Exited;Exited
+Exiting;Exiting
+Expand/Collapse;Expand/Collapse
+Expand;വികസിപ്പിക്കുക
+Expanded;Expanded
+Expected;Expected
+Experiments;പരീക്ഷണങ്ങള്‍
+Expired;Expired
+Expires On;Expires On
+Expires Seconds;Expires Seconds
+Expires;കാലാവധി കഴിയുന്നത്‌ 
+Expires;കാലാവധിയുടെ അവസാനം
+Explorer;Explorer
+Exponent;പൊണന
+Export;Export
+Export…;വേറൊരു രൂപത്തില്‍ ഫയല്‍ സംരക്ഷിക്കുക…
+Exposing chrome;Exposing chrome
+Exposing;Exposing
+Express;Express
+Expression;Expression
+Expressions;Expressions
+Expunge &quot;Expunge &quot
+Expunge;Expunge
+Extended Telemetry;Extended Telemetry
+Extended;റെൻഡഡ
+Extending;Extending
+Extension;എക്‌സ്റ്റന്‍ഷന്‍
+Extensions;എക്സ്റ്റെന്‍ഷനുകള്‍
+Extensions;എക്സ്റ്റെന്‍ഷനുകള്‍ 
+External;External
+Extra Components;Extra Components
+Extra;Extra
+Extract;Extract
+Extracting s;Extracting s
+Extracting;Extracting
+Extracting…;Extracting…
+Eyedropper;Eyedropper
+F GB;F GB
+F turns;F turns
+F/Escape;F/Escape അമര്‍ത്തുക
+F;F
+FAILED;FAILED
+FALLBACK section;FALLBACK section
+FALLBACK;FALLBACK
+FAQ;പൊതുവായുള്ള സംശയങ്ങള്‍
+FAQs feedback;FAQs feedback
+FAQs;സ്ഥിരം ചോദ്യങ്ങള്‍
+FCC;FCC
+FHR data;FHR data
+FHR;FHR
+FIPS;ഐപിഎസ
+FONT;FONT
+FONTHR;FONTHR
+FORTEZZA chain;FORTEZZA chain
+FORTEZZA;FORTEZZA
+FTP Proxy;FTP Proxy
+FTP;FTP
+FUNCTION;FUNCTION
+FW Version;FW Version
+FW;FW
+FYR;FYR
+Facebook Chat;Facebook Chat
+Facebook;Facebook
+Faeroese;Faeroese
+Failed;പരാജയപ്പെട്ടു
+Failed;പരാജയപ്പെട്ടിരിക്കുന്നു
+Failed;പരാജയപ്പെട്ടിരിക്കുന്നു 
+Failure;Failure
+Failures;Failures
+Falkland Islands Islas Malvinas;Falkland Islands Islas Malvinas
+Falkland Islands;Falkland Islands
+Falkland;Falkland
+Fallback Character;Fallback Character
+Fallback;Fallback
+Falling back;Falling back
+Falling;Falling
+False;False
+Family;കുടുംബം
+Fantasy;ഫാന
+Faroe Islands;Faroe Islands
+Faroe;ഫാറോ
+Faroese;ഫെഹ്‌റോവ്വീസ്‌
+Farsi;ഫാറ
+Faso;ഫാസോ
+Fast;Fast
+Fatal;Fatal
+Favorite Folder;Favorite Folder
+Favorite Folders;Favorite Folders
+Favorite;Favorite
+Favorites;പ്രിയപ്പെട്ടവ
+Fax Number;Fax Number
+Fax;Fax
+Feature;Feature
+Features;ഥമായ
+Feb;ഫെ
+February;ഫെബ്രുവരി
+Federated States of;Federated States of
+Federated States;Federated States
+Federated;Federated
+Federation;Federation
+Feed Location;Feed Location
+Feed;ഫീഡിനുള
+Feedback Agent;Feedback Agent
+Feedback …;Feedback …
+Feedback;അഭിപ്രായം
+Feedly;Feedly
+Feeds;ഫീഡുകള്‍
+Feel;Feel
+Festival;Festival
+Fetch function;Fetch function
+Fetch headers;Fetch headers
+Fetch;Fetch
+FetchEvent;FetchEvent
+FetchEventpreventDefault;FetchEventpreventDefault
+FetchEventrequest;FetchEventrequest
+FetchEventrespondWith;FetchEventrespondWith
+Fetching…;Fetching…
+Fewer;Fewer
+Field;Field
+Fields;Fields
+Fifth;Fifth
+Fiji;ഫിജി
+Fijian;ഫിജിയന്‍ 
+File System;File System
+File;ഫയല്‍
+File;ഫയല്‍ 
+FilelastModified;FilelastModified
+FilelastModifiedDate is;FilelastModifiedDate is
+FilelastModifiedDate;FilelastModifiedDate
+Filelink;Filelink
+Filelink…;Filelink…
+Filename;Filename
+Files;Files
+Files…;Files…
+File…;File…
+Filing Cabinet;Filing Cabinet
+Fill;നിറയ്ക്കുക
+Filter Box;Filter Box
+Filter Execution;Filter Execution
+Filter;ഫില്‍റ്റര്‍
+Filtering;Filtering
+Filters;Filters
+Finalizing;Finalizing
+Find;കണ്ടെത്തുക
+Find;കണ്ടെത്തുക 
+Finder;Finder
+Findings;Findings
+Find…;കണ്ടുപിടിയ്ക്കേണ്ടതു്…
+Fingerprint;ഫിംഗര
+Fingerprints;വിരലടയാളങ്ങള്‍
+Finish Customizing;Finish Customizing
+Finish;തീര്‍ക്കുക 
+Finish;പൂര്‍ത്തിയായി
+Finished;തീര്‍ന്നിരിക്കുന്നു
+Finland;ഫിന്‍ലാന്‍ഡ്‌ 
+Finnish;ഫിന്നിഷ്‌ 
+Firebird;Firebird
+Firebug;Firebug
+Firefox Support;Firefox Support
+Firefox can &apos;t establish
+Firefox doesn &apos;Firefox doesn &apos
+Firefox;ഫയര്‍ഫോക്സ്
+First;First
+Fit;പാകത്തിനാക്കുക
+Five;Five
+Fix Table;Fix Table
+Fix;Fix
+Fixed;Fixed
+Flag;Flag
+Flagged;Flagged
+Flame Chart;Flame Chart
+Flame;Flame
+Flash embed;Flash embed
+Flash;ഫ്ലാഷ്
+Flatten;Flatten
+Flexible Space;Flexible Space
+Flexible;ലെക
+Focus;Focus
+Folder;ഫോള്‍ഡര്‍
+Folders;Folders
+Folder…;Folder…
+Follow;Follow
+Followers;Followers
+Following;Following
+Followup;Followup
+FollowupTo;FollowupTo
+Fond;Fond
+Font;Font
+Fonts;ഫോണ്ടുകള്‍
+Footer;Footer
+Footers;Footers
+FootinMouth;FootinMouth
+For;For
+Force;Force
+Forever;Forever
+Forge;Forge
+Forgery;Forgery
+Forget;മറന്നേക്കൂ
+Forget;മറന്നേക്ക്
+Form History;Form History
+Form;ഫോറം
+Format;ശൈലി
+Format;ഫോര്‍മാറ്റ് ചെയ്യുക
+Formatting;Formatting
+Forms;Forms
+Fort;Fort
+Fortezza;Fortezza
+Forum;Forum
+Forums;Forums
+Forward;മുന്നോട്ട്
+Forward;മുമ്പോട്ട്
+Forward;മുമ്പോട്ടു്
+Forwarded;Forwarded
+Forwarding;Forwarding
+Found;Found
+Foundation;ടേഷനില
+Four Hours;Four Hours
+Four;നാലു
+Fourth;Fourth
+Fr;വെ
+Frakkin &apos;Frakkin &apos
+Frakkin;Frakkin
+Frame;Frame
+Framerate;Framerate
+Frames painted;Frames painted
+Frames parsed;Frames parsed
+Frames presented;Frames presented
+Frames;ഫ്രെയിമുകള്‍
+France;ഫ്രാന്‍സ്‌ 
+Free;Free
+French Southern;French Southern
+French;ഫ്രെഞ്ച്‌
+Frequency;Frequency
+Frequent;എപ്പോഴുമുള്ള
+Fri;വെള്ളി
+Friday;വെള്ളിയാഴ്ച
+Frisian;ഫ്രിസ്സിയന്‍ 
+Friulian;ഫ്രുയിലിയന്‍
+From History;From History
+From List;From List
+From;From
+Front facing;Front facing
+Front;യമറാ
+Frown;Frown
+Fulah;ഫുലാഹ്‌
+Full;വഃവസ
+Fullscreen;Fullscreen
+Fun To;Fun To
+Fun;Fun
+Function;ഫംങ്ഷന്‍
+Futuna;Futuna
+Future;Future
+GB;GB
+GB;ജിബി
+GBK;GBK
+GC Event;GC Event
+GC Slice;GC Slice
+GC;ജിസി
+GCLI is;GCLI is
+GCLI;GCLI
+GDI Library;GDI Library
+GDI;GDI
+GData;GData
+GENERAL;GENERAL
+GEOSTD;GEOSTD
+GLSL code;GLSL code
+GLSL;GLSL
+GMTString;GMTString
+GPU;GPU
+GSSAPI realm;GSSAPI realm
+GSSAPI ticket;GSSAPI ticket
+GSSAPI;GSSAPI
+GTK;GTK
+GUID;ജിയുഐഡി
+Gabon;ഗാബണ്‍
+Gaelic;Gaelic
+Gaia;ഗയ
+Galeon;Galeon
+Galician;ഗലിസിയന്‍ 
+Gallegos;Gallegos
+Gambia The;ഗാംബിയ
+Gambia;Gambia
+Gamepad;ഗെയിം പാഡ്
+Gaming consoles;Gaming consoles
+Gaming;ഗെയ
+Ganda;ഗാന്‍ഡ
+Gap from edge of paper to Margin;Gap from edge of paper to Margin
+Gap from;Gap from
+Gap;Gap
+Garbage Collector Roots;Garbage Collector Roots
+Garbage;Garbage
+Garcia;സിയ
+Gated Crypto;Gated Crypto
+Gated;Gated
+Gaza Strip;Gaza Strip
+Gaza;Gaza
+Gecko;ഗെക്കോ
+Geckoreg;Geckoreg
+Geckotrade;Geckotrade
+General Notification;General Notification
+General;സാധാരണ
+General;പൊതുവായവ
+Generate a;Generate a
+Generate;Generate
+Generated;Generated
+Generating A Private;Generating A Private
+Generating A;Generating A
+Generating aggregate;Generating aggregate
+Generating;Generating
+Generation;Generation
+Generator;Generator
+Generic;Generic
+Geographic Position;Geographic Position
+Geographic;Geographic
+Georgia and;Georgia and
+Georgia;ജോര്‍ജിയാ
+Georgian;ജോര്‍ജ്ജിയന്‍ 
+German;ജര്‍മന്‍ 
+Germany;ജര്‍മനി
+Get Involved;Get Involved
+Get started;Get started
+Get;Get
+GetProcAddress of;GetProcAddress of
+GetProcAddress;GetProcAddress
+GetSystemDirectory;GetSystemDirectory
+GetVersionEx;GetVersionEx
+GetWindowsDirectory;GetWindowsDirectory
+Getting Started;Getting Started
+Getting;Getting
+Ghana;ഗാനാ
+Gibraltar;ഗിബ്രാല്‍ട്ടര്‍
+Gives;Gives
+Glace;Glace
+Global Revived;Global Revived
+Global;ഗ്ലോബല്‍
+Glorioso Islands;Glorioso Islands
+Glorioso;ലോറിയോസോ
+Glossary;Glossary
+Gmail;Gmail
+Go back;Go back
+Go forward;Go forward
+Go;Go
+Good;നല്ലത്
+Google;Google
+Goose;Goose
+Gopher;Gopher
+Gort Klaatu barada;Gort Klaatu barada
+Gort;ഗോര
+Got it;Got it
+Got;Got
+Governance;Governance
+Grab a;Grab a
+Grab;ഥമാക
+Grade;Grade
+Gradient is;Gradient is
+Gradient;Gradient
+Grand;Grand
+Grande;Grande
+Grant;Grant
+Graph Reduction;Graph Reduction
+Graph;രാഫ
+Graphics;ഗ്രാഫിക്ക്സ്
+Gravatar;Gravatar
+GrayScale;GrayScale
+Grayscale;GreyScale
+Greece;ഗ്രീസ്
+Greek Windows;Greek Windows
+Greek;ഗ്രീക്ക്‌ 
+Greenland;ഗ്രീന്‍ലാന്‍ഡ്
+Greenlandic;ഗ്രീന്‍ലാന്‍ഡിക്ക്‌
+Grenada;ഗ്രനേഡാ
+Grenadines;രനെഡയിന
+Grid;Grid
+Group List;Group List
+Group;Group
+Grouped By;Grouped By
+Grouped;Grouped
+Grouping;Grouping
+Groups;Groups
+Grow;Grow
+Guadeloupe;ഗ്വാഡിലോപ്
+Guam;ഗ്വാം
+Guarani;ഗ്വാറണി 
+Guard;Guard
+Guatemala;ഗ്വാട്ടിമാലാ
+Guernsey;ഗ്വേര്‍ണ്‍സി
+Guess;ഊഹിക
+Guest browsing;Guest browsing
+Guest;Guest
+Guiana;Guiana
+Guinea;ഗനിയാ
+GuineaBissau;ഗനിയാബിസാവു
+Gujarati;ഗുജറാത്തി
+Gurmukhi MacGurmukhi;ഗുരുമുഖിMacGurmukhi
+Gurmukhi;ഗുര്‍മുഖി
+Guyana;ഗയാനാ
+H Line;H Line
+H;H
+HAR;HAR
+HError;HError
+HLine;HLine
+HPKP;HPKP
+HREF;HREF
+HSLA;HSLA
+HSTS;HSTS
+HTML Content;HTML Content
+HTML Domains;HTML Domains
+HTML parsing;HTML parsing
+HTML;എച്‌ടിഎംഎല്‍
+HTMLMediaElement;HTMLMediaElement
+HTML…;HTML…
+HTTP Cache;HTTP Cache
+HTTP Networking;HTTP Networking
+HTTP Strict Transport;HTTP Strict Transport
+HTTP;HTTP
+HTTPS URI;HTTPS URI
+HTTPS;HTTPS
+HW Version;HW Version
+HW;HW
+HZ;HZ
+HZGB;HZGB
+Hack the;Hack the
+Hack;Hack
+Haiti;ഹയിത്തി
+Haitian;ഹയത്തിയന്‍ 
+Halifax;Halifax
+Handler;Handler
+Handling;Handling
+Handshake record;Handshake record
+Handshake;Handshake
+Hang Report;Hang Report
+Hangs;Hangs
+Happy;Happy
+Hard;Hard
+Hardware Driver Verification;Hardware Driver Verification
+Hardware Driver;Hardware Driver
+Hardware;ഹാര്‍ഡ്‌വെയര്‍
+Has;Has
+Hausa;ഹൌസ
+Have an;Have an
+Have;Have
+Hawaiian;ഹവായിയന്‍
+Header;Header
+Headers;തലക്കെട്ടുകള്‍
+Heading;Heading
+Headings;തലക്കെട്ടുകള്‍
+Health Report;Health Report
+Health;Health
+Heard Island;Heard Island
+Heard;Heard
+Hebrew MacHebrew;Hebrew MacHebrew
+Hebrew Visual;Hebrew Visual
+Hebrew;ഹീബ്രു 
+Height;Height
+Helena;Helena
+Hello World;Hello World
+Hello;ഹലോ
+Help Start;Help Start
+Help;സഹായം
+Help;സഹായം 
+Helper Application;Helper Application
+Helper Applications;Helper Applications
+Helper Threads;Helper Threads
+Helper;Helper
+Helps;Helps
+Helvetica;Helvetica
+Here;Here
+Herero;ഹെരെരൊ 
+Herzegovina;Herzegovina
+Hex;ഹെക്സ്
+Hidden;Hidden
+Hide Statistics;Hide Statistics
+Hide Toolbars;Hide Toolbars
+Hide;ഒളിപ്പിക്കുക
+Hide;ഒളിപ്പിക്കുക 
+Hide;അദൃശ്യമാക്കുക
+Hierarchy;രേണി
+High Contrast;High Contrast
+High;High
+Highest;Highest
+Highgrade;Highgrade
+Highlight;Highlight
+Highlighting;Highlighting
+Highlights;ചിലവഴിക
+Hightail;Hightail
+Hiligaynon;ഹിലിഗായ്നന്‍
+Hill;Hill
+Hindi;ഹിന്ദി 
+Hint;സൂചന
+Hiri Motu;Hiri Motu
+Hiri;ഹിരി
+Histograms Collected;Histograms Collected
+Histograms;രാമുകൾ
+History;ചരിത്രം
+History;നാള്‍വഴി
+Hits;ഹിറ്റുകള്‍
+Hnewsgroup server;Hnewsgroup server
+Hnewsgroup;Hnewsgroup
+Ho Chi Minh;Ho Chi Minh
+Ho;Ho
+Hold;ഹോള
+HolidayStatusSuppliersTravelVacation;HolidayStatusSuppliersTravelVacation
+Home;പൂമുഖം
+Home;ആസ്ഥാനം
+Home;ആസ്ഥാനം 
+Homepage Get back;Homepage Get back
+Homepage;ആസ്ഥാന താള്‍
+Homepage;ആസ്ഥാനതാള്‍
+Honduras;ഹൊണ്‍ഡുറാസ്‌
+Hong Kong;Hong Kong
+Hong;Hong
+Honolulu;Honolulu
+Horizontal;Horizontal
+Host;ഹോസ്റ്റ്‌
+Hosted;ഹോസ്റ്റ് ചെയ്തവ
+Hostname Entered;Hostname Entered
+Hostname;ഹോസ്റ്റ്നാമം
+Hotspot Properties;Hotspot Properties
+Hotspot Target;Hotspot Target
+Hotspot;Hotspot
+Hour &#124;Hour &#124
+Hour;Hour
+Hours;Hours
+Housekeeping;Housekeeping
+How;How
+Howe;Howe
+However we;However we
+However;However
+Howland Island;Howland Island
+Howland;Howland
+Http;Http
+Huge;Huge
+Humans;യരെ
+Hungarian;ഹംഗേറിയന്‍ 
+Hungary;ഹംഗറി
+I &apos;I &apos
+I Do;I Do
+I II;I II
+I Know;I Know
+I Understand;I Understand
+I am currently away;I am currently away
+I close brandShortName;I close brandShortName
+I don &apos;I don &apos
+I ii;I ii
+I submit information that &apos;I submit information that &apos
+I think I &apos;I think I &apos
+I understand;I understand
+I;I
+IBM;IBM
+IBMI;IBMI
+ICE State;ICE നില
+ICE Stats;ICE Stats
+ICE;ICE
+ICQ;ICQ
+ICS;ICS
+ID;ഐഡി
+IDLE;IDLE
+II III;II III
+II;II
+III;III
+IIRFilterNode;IIRFilterNode
+IM;IM
+IMAP Flag;IMAP Flag
+IMAP;IMAP
+INADEQUATE;INADEQUATE
+INBOXmsf;INBOXmsf
+INI;INI
+IP Address;IP Address
+IP address;IP address
+IP;ഐപി
+IPC;IPC
+IPs;IPs
+IRC Nick;IRC Nick
+IRC Operator;IRC Operator
+IRC;IRC
+IS;IS
+ISDN;ISDN
+ISO ISO ISO;ISO ISO ISO
+ISO;ISO
+ISOCN;ISOCN
+ISOE;ISOE
+ISOI;രുISOI
+ISOIR;ISOIR
+ISOJP;ISOJP
+ISOKR;ISOKR
+ISOx;ISOx
+ISP;ISP
+IV;IV
+Iaposm;Iaposm
+Iceland;ഐസ്‌ലാന്‍ഡ്
+Icelandic;ഐസ്‌ലാന്‍ഡിക്ക്‌
+Icon;ഐക്കണ്‍ 
+Icons;ഐക്കണുകള്‍ 
+Id;ഐഡി
+Identification;Identification
+Identifier;Identifier
+Identities …;Identities …
+Identities;Identities
+Identity;Identity
+Idle;നിര്‍ജ്ജീവം
+Ido;ഐഡൊ 
+If;റാബിനുള
+Igbo;ഇഗ്ബോ 
+Ignore Caught;Ignore Caught
+Ignore Scaling;Ignore Scaling
+Ignore Word;Ignore Word
+Ignore this;Ignore this
+Ignore;അവഗണിക്കുക
+Ignoring;അടയുന
+Image DataURL;Image DataURL
+Image Dimensions;Image Dimensions
+Image Map;Image Map
+Image map;Image map
+Image;ചിത്രം
+Image;ചിത്രം 
+Images;ചിത്രങ്ങള്‍
+Image…;Image…
+Import your;Import your
+Import;ഇറക്കുമതി
+Importance;Importance
+Important;Important
+Importing;Importing
+Importing…;Import ചെയ്തുകൊണ്ടിരിക്കുന്നു
+Import…;വേറൊരു രൂപത്തില്‍ നിന്നും ഫയല്‍ തുറക്കുക……
+Import…;ഇംപോര്‍ട്ട് ചെയ്യുക…
+In Days;In Days
+In EHLO reponse;In EHLO reponse
+In Finder;In Finder
+In Use;In Use
+In;In
+InAutoon;InAutoon
+InBrowserElement;InBrowserElement
+Inactive;രിയം
+Inc;Cisco
+Increase;കൂട്ടുക 
+IndexedDB;IndexedDB
+Indexes;സൂചികകള്‍
+India;ഇന്ത്യ
+Indicator;കുിടുന
+Indonesia;ഇന്‍ഡോനേഷ്യാ
+Indonesian;ഇന്തോനേഷിയന്‍
+Info;വിവരം
+Information;ടിങിനുള
+Input;ഇന്‍പുട്ട്‌ 
+Ins;Ins
+Inspect;പരിശോധിയ്ക്കുക
+Inspector &apos;s default highlighter
+Inspector;നിരീക്ഷകന്‍
+Install;ഇന്‍സ്റ്റോള്‍
+Install;ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
+Installed;ഇന്‍സ്റ്റോള്‍ ചെയ്തു കഴിഞ്ഞിരിക്കുന്നു
+Installing;ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു
+Installing…;ഇന്‍സ്റ്റോള്‍ ചെയ്തുകൊണ്ടിരിക്കുന്നു
+Integer;പൂർണ്ണ സംഖ്യ
+Integer;ഇന്റിജര്‍
+Interaction;ഇടപെടല്‍
+Interlingua;ഇന്റര്‍ലിങ്ങുവ 
+Interlingue;ഇന്റര്‍ലിങ്ങുവ
+Internals;ആഭ
+Internet;ഇൻ
+Introduction;മുഖവുര 
+Inuktitut;ഇനിയുക്റ്റിട്ടുട്ട്‌ 
+Inupiaq;ഇന്യുപിയക്ക്‌ 
+Inverting;വഴികള
+Investigate;ഡിഒഎം
+Iran;ഇറാന്‍
+Iraq;ഇറാഖ്‌
+Ireland;അയര്‍ലാന്‍ഡ്‌ 
+Irish;ഐറിഷ്‌ 
+Is;Is
+Island;വീപ
+Islands;കയിന
+Israel;ഇസ്രായേല്‍
+Issuer;ഇഷ്യൂവര്‍
+Issuers;യുവേര
+Italian;ഇറ്റാലിയന്‍ 
+Italy;ഇറ്റലി 
+JIS;JIS
+JIT;JIT
+JOHAB;JOHAB
+JS;JS
+JS;ജെഎസ്
+JSON;JSON
+Jamaica;ജമൈക്ക
+Jan;ജാ
+January;ജനുവരി
+Japan;ജപ്പാന്‍ 
+Japanese;ജാപ്പനീസ്
+Japanese;ജാപ്പനീസ്‌
+JavaScript;ജാവാസ്ക്രിപ്റ്റ്
+Javanese;ജാവനീസ്‌ 
+Jersey;ജേര്‍സി
+Jitter;ജിറ്റര്‍
+Jitterbuffer;ജിറ
+Jordan;ജോര്‍ദ്ദാന്‍
+Jul;ജൂലൈ
+July;ജൂലൈ
+Jump;നീങ്ങുക
+Jun;ജൂ
+June;ജൂണ്‍
+K;K
+KB;KB
+KB;കെബി
+KOIR;KOIR
+KOIU;KOIU
+KRL;കെആര
+Kannada;കന്നട 
+Kannada;കന്നഡാ
+Kanuri;കനുരി 
+Kashmiri;കാശ്മിരി 
+Kashubian;കഷൂബിയന്‍
+Kazakh;കസാഖ്‌ 
+Kazakhstan;കസഖ്സ്ഥാന്‍
+Keeling;കീലിങ
+Keep;സൂക്ഷിയ്ക്കുക
+Kenya;കെനിയാ
+Key;കീ
+Keybindings;കീ ബന്ധങ്ങൾ
+Keyboard;കീബോര്‍ഡ്
+Keyed;കീഡ
+Keyhtml;Keyhtml
+Keyword;കീവേര്‍ഡ്
+Keywords;കീവേര്‍ഡുകള്‍
+Khmer;ഖെമെര്‍ 
+Khmer;കംബൊഡിയന്‍ 
+Kikuyu;കികുയു 
+Kingdom;കിംങ
+Kinyarwanda;കിന്യാര്‍വന്‍ഡാ 
+Kirghiz;കിര്‍ഗ്ഗിസ്‌ 
+Kiribati;കിറിബത്തി
+Kirundi;കിറുണ്ടി 
+Klaatu;മലയാളത
+Klingon;ക്ലിന്‍ഗോണ്‍ 
+Komi;കൊവ്മീ 
+Kongo;കോങ്ങ്‌ഗോ 
+Konkani;കൊങ്കിണി
+Korea;കൊറിയ
+Korean;കൊറിയന്‍
+Korean;കൊറിയന്‍ 
+Kosovo;കോസോവോ
+Kuanyama;കുവാന്‍യാമ 
+Kurdish;കുര്‍ദ്ദിഷ്‌ 
+Kuwait;കുവൈത്ത്‌ 
+Kyrgyzstan;കിര്‍ഗിസ്ഥാന്‍
+Label;ലേബല്‍ 
+Labs;ലാബ
+Landmarks;നാഴികക്കല്ലുൾ
+Landscape;ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍
+Language;ഭാഷ
+Languages;ഭാഷകള്‍
+Languages;ഭാഷകള്‍ 
+Lao;ലാവോത്തിയന്‍ 
+Laos;ലാവോസ്
+Laptops;ലാപ്‌ടോപുകള്‍
+Large;വലുത്
+Latin;ലാറ്റിന്‍
+Latvia;ലാട്‌വിയാ
+Latvian;ലാത്ത്‌വിയന്‍ 
+Layers;ലയറുകള
+Layout;വിന്യാസം
+Leave;ഉപേക്ഷിയ്ക്കൂ
+Lebanon;ലെബനോന്‍
+Left;ഇടതു്
+Left;ഇടത്‌
+Legal;നിയമപരം
+Leone;ലിയോണ
+Lesotho;ലെസോഥോ
+Less;കുറവു്
+Liberia;ലൈബേരിയാ
+Libpkix;Libpkix
+Library;സംഭരണി
+Libya;ലിബിയ
+License;ലൈസന
+Liechtenstein;ലിച്ചെന്‍സ്റ്റീന്‍
+Lifetime;ജീവിത കാലാവധി
+Light;ഇളം
+Limburgan;ലിംബൂര്‍ഗ്ഗന്‍ 
+Line;ലൈന്‍
+Lines;ലൈനുകള
+Lingala;ലിന്‍ഗാളാ 
+Link;കണ്ണി
+Links;കണ്ണികള്‍
+List;പട്ടിക
+Lists;പട്ടികകള്‍
+Lithuania;ലിഥുവാനിയാ
+Lithuanian;ലിത്തുവാനിയന്‍ 
+Live;ലൈവ
+Load;ലഭ്യമാക്കുക
+Loading;തുറക്കുന്നു
+Loading;ലഭ്യമാക്കുന്നു
+Loading…;ലഭ്യമാക്കുക…
+Loading…;ലഭ്യമാക്കുന്നു…
+Local;പ്രാദേശികം
+Locale;ഭാഷ
+Location;സ്ഥലം
+Location;സ്ഥാനം
+Log;ലോഗ്
+Logging;പ്രവേശിയ്ക്കുന്നു
+Logins;പ്രവേശനങ്ങള്‍
+Logotype;ലോഗോ തരം
+Loop;ലൂപ്പ്
+Lost;കളഞ്ഞുപോയത്
+Low;കുറവാണു
+LubaKatanga;ലുബാകാട്ടാന്‍ഗാ 
+Lucia;ലൂസിയാ
+Ludicrous;അതിവേഗം
+Luxembourg;ലക്സംബര്‍ഗ്ഗ്‌
+Luxembourgish;ലക്സംബോര്‍ഗ്ഗിഷ്‌
+MANIFEST;MANIFEST
+MB;MB
+MB;എംബി
+MB;മെഗാബൈറ്റ്
+MD;MD
+MDN;MDN
+MIME;MIMe
+MacArabic;MacArabic
+MacCE;MacCE
+MacCroatian;MacCroatian
+MacCyrillic;MacCyrillic
+MacDevanagari;MacDevanagari
+MacFarsi;MacFarsi
+MacGreek;MacGreek
+MacGujarati;MacGujarati
+MacHebrew;MacHebrew
+MacIcelandic;MacIcelandic
+MacRoman;റോമന
+MacRomanian;MacRomanian
+MacTurkish;MacTurkish
+MacUkrainian;MacUkrainian
+Macau;മക്കാവു
+Macedonia;മാസിഡോണിയ
+Macedonian;മാസിഡോണിയന്‍ 
+Madagascar;മാഡാഗസ്കാര്‍
+Mail;മെയില്‍
+Malagasy;മലഗാസ്സി 
+Malawi;മലാവി
+Malay;മലായ്‌
+Malayalam;മലയാളം 
+Malaysia;മലേഷ്യ 
+Maldives;മാലിദ്വീപ്
+Mali;മാലി
+Malta;മാള്‍ട്ടാ
+Maltese;മാള്‍ട്ടിസ്‌ 
+Mammon;Mammon
+Manage;ക്രമീകരിക്കൂ
+Manager;മാനേജറ
+Manifest;പിഐ
+Manufacturer;നിര്‍മ്മാതാവു്
+Manx;മാന്‍ക്സ്‌ 
+Maori;മാവോരി 
+Mar;മാ
+Marathi;മറാഠി 
+March;മാര്‍ച്ച്
+Margins;ജിനുകള
+Marshall;ഷല
+Marshallese;മാര്‍ഷാല്ലീസ്‌ 
+Martinique;മാര്‍ട്ടിനിക്
+Matched;പൊരുത്തപ്പെട്ടതു്
+Mathematics;ഗണിതം
+Mauritania;മൌറിട്ടാനിയാ
+Mauritius;മൌരീഷ്യസ്
+May;മേ
+May;മേയ്
+Mayotte;മയോടി
+McDonald;ഡൊനാള
+Measurements;അളവുകള
+Media;മീഡിയ
+Media;മീഡിയാ
+MediaStreamstop;MediaStreamstop
+Medium;ഇടത്തരം
+Menu;മെനു
+Message;സന്ദേശം
+Messages;സന്ദേശങ്ങള്‍
+Meta;മെറ്റാ
+Method;രീതി
+Mexico;മെക്സിക്കോ 
+Mibbit;Mibbit
+Midnight;അര്‍ദ്ധരാത്രി
+Midway;മിഡ
+Minified;മിനിഫൈഡ
+Minimize;ചെറുതാക്കുക
+Mirror;മിറര
+Mo;തി
+Mobile;മൊബൈല്‍
+Modified;പരിഷ്കരിച്ചത്‌
+Modify;നവീകരിക്കുക 
+Module;ഘടകം
+Modulus;Modulus
+Moldova;മൊള്‍ഡോവ റിപ്പബ്ലിക്ക്‌ ഓഫ്‌ 
+Mon;തിങ്കള്‍
+Monaco;മൊണാക്കോ
+Monday;തിങ്കളാഴ്ച
+Mongolia;മംഗോളിയാ
+Mongolian;മംഗോളിയന്‍
+Monitor;മോണിറ്റര്‍
+Monospace;മോണോസ്പേസ്‌ 
+Montenegro;മോണ്ടെനീഗ്രോ
+Montserrat;മോണ്‍സെരാട്ട്
+More;കൂടുതല്‍
+Moreellipsis;കൂടുതല്‍ellipsis
+Morocco;മൊറോക്കോ 
+Motu;മൊട
+Mouse;മൌസ്
+Move…;നീങ്ങുക…
+Mozambique;മൊസാംബിക്ക്
+Mozilla;മോസില്ലാ
+Mozillaorg;മോസില്ലഓര്‍ഗ്
+Mutation;മ്യൂട്ടേഷന്‍
+Mute;നിശബ്ദമാക്കുക
+N/A;ലഭ്യമല്ല
+NIST;NIST
+NULL;പേജിനെകുറിച
+Name;പേരു്
+Name;പേര്‌ 
+Namespaces;നേമ
+Namibia;നമീബിയാ
+Nauru;നൌറു
+Nauru;നവുറു 
+Navajo;നവജൊ
+Navigation;നാവിഗേഷന്‍
+Ndebele;ഡിബിലി
+Ndonga;എന്‍ഡൊന്‍ഗ 
+Nepal;നേപ്പാള്‍
+Nepali;നേപ്പാളി
+Net;നെറ്റ്
+Netherlands;നെഥര്‍ലാന്‍ഡ്സ്
+Netscapecfg;Netscapecfg
+Network;നെറ്റ്‌വര്‍ക്ക്‌
+Never;ഒരിക്കലും ഇല്ല
+Never;ഒരിക്കലുമില്ല
+Nevis;നെവിസ
+New;പുതിയ
+New;പുതിയത്‌
+New…;പുതിയ
+Next;അടുത്ത
+Next;അടുത്തതു്
+Next;അടുത്തത്‌
+Nicaragua;നിക്കരാഗ്വാ
+Niger;നൈജര്‍
+Nigeria;നൈജീരിയാ
+Niue;ന്യൂ
+No;അല്ല
+No;ഇല്ല
+No;വേണ്ട
+No;തെറ്റു്‌
+Node;നോഡ്
+NodeSet;NodeSet
+Nominated;നാമനിര്‍ദ്ദേിച്ച
+None;ശൂന്യം
+None;ഒന്നുമില്ല
+Nones;രോലൈസിസ
+Nonrepudiation;Nonrepudiation
+Noon;നട്ടുച്ച
+Nordic;നോറ
+Normal;സാധാരണ
+Normal;നോര്‍മല്‍
+Normally;കിതെപ
+Norway;നോര്‍‌വേ
+Norwegian;നോര്‍വിജിയന്‍ 
+Note;റിയാല
+Notice;താവിനു
+Notices;യുസര
+Notifications;അറിയിപ്പുകള്‍
+Nov;നവം
+Nova;നോവ
+November;നവംബര്‍
+OCSP;ഒസിഎസ്പി
+OID;ഒഐഡി
+OK;ശരി
+OS;Androidനുള
+OU;OU
+Object;ഒബ്ജെക്റ്റ്‌
+Occitan;ഓക്സിറ്റന്‍
+Oct;ഒക്
+October;ഒക്ടോബര്‍
+Off;ഓഫ്
+Ojibwa;ഒജിബ്‌വെയ്‌
+Oman;ഒമാന്‍ 
+On;ഓണ്‍
+Oops;അയ്യോ
+Opaque;RequestMode
+Open;തുറക്കുക
+OpenGL;ഓപ്പണ്‍ജിഎല്‍
+OpenH;കോഡക
+Operation;പറേഷന
+Operators;ഓപ്പറേറ്ററുകള്‍ 
+Optimizations;റിമൈസേഷനുകള
+Optimizing;Optimizing
+Optional;ധമല
+Options;ഉപാധികള്‍
+Options;ഐച്ഛികങ്ങള്‍
+Or;സെമിക
+Organization;ഥാപനം
+Organize;സജ്ജമാക്കുക
+Orientation;ഒറിയന്റേഷന്‍
+Origin;തുടക്കം
+Oromo;ഒറോമോ
+Ossetian;ഒസ്സെറ്റിയന്‍
+Other;വേറെ
+Others;വേറെ
+Other…;Other
+Owner;ഉടമസ്ഥന്‍ 
+P/Galapagos;P/Galapagos
+P;P
+PDF;പിഡിഎഫ
+PDFjs;PDFjs
+PEM;പിഇഎം
+PKCS;പികെസിഎസ
+PNG;തിനും
+PREFS;മുന്‍ഗണനകള്‍
+PacifDebug/Galapagos;PacifDebug/Galapagos
+Pacific/Enderbury;Pacific/Enderbury
+Pacific/Fakaofo;Pacific/Fakaofo
+Pacific/Fiji;Pacific/Fiji
+Pacific/Funafuti;Pacific/Funafuti
+Pacific/Gambier;Pacific/Gambier
+Pacific/Guadalcanal;Pacific/Guadalcanal
+Pacific/Guam;Pacific/Guam
+Pacific/Honolulu;Pacific/Honolulu
+Pacific/Johnston;Pacific/Johnston
+Pacific/Kiritimati;Pacific/Kiritimati
+Pacific/Kosrae;Pacific/Kosrae
+Pacific/Kwajalein;Pacific/Kwajalein
+Pacific/Majuro;Pacific/Majuro
+Pacific/Marquesas;Pacific/Marquesas
+Pacific/Midway;Pacific/Midway
+Pacific/Nauru;Pacific/Nauru
+Pacific/Niue;Pacific/Niue
+Pacific/Norfolk;Pacific/Norfolk
+Pacific/Noumea;Pacific/Noumea
+Pacific/Palau;Pacific/Palau
+Pacific/Pitcairn;Pacific/Pitcairn
+Pacific/Pohnpei;Pacific/Pohnpei
+Pacific/Ponape;Pacific/Ponape
+Pacific/Rarotonga;Pacific/Rarotonga
+Pacific/Saipan;Pacific/Saipan
+Pacific/Tahiti;Pacific/Tahiti
+Pacific/Tarawa;Pacific/Tarawa
+Pacific/Tongatapu;Pacific/Tongatapu
+Pacific/Truk;Pacific/Truk
+Pacific/Wake;Pacific/Wake
+Pacific/Wallis;Pacific/Wallis
+Pack;Pack
+Package s;Package s
+Package xpi;Package xpi
+Package;Package
+Packaged;പാക്കേജ് ചെയ്തവ
+Packs;Packs
+Padding;Padding
+Page Direction;Page Direction
+Page Selection;Page Selection
+Page;താള്‍
+Page;താള്‍ 
+Pagequot;Pagequot
+Pager Number;Pager Number
+Pager;Pager
+Pages;താളുകള്‍ 
+Pago;Pago
+Paint;പെയിന്റ്
+Pair a Device &quot;Pair a Device &quot
+Pair a;Pair a
+Pair;ഉപകരണവുമായി
+Pakistan;പാക്കിസ്ഥാന്‍ 
+Pal Who &apos;Pal Who &apos
+Pal;Pal
+Palau;പലാവു
+Palestinian Territory;Palestinian Territory
+Palestinian;Palestinian
+Palette;Palette
+Pali;പാലി 
+Palmyra Atoll;Palmyra Atoll
+Palmyra;പാല
+Pan;Pan
+Panama;പനാമാ
+Pane;Pane
+Panel;Panel
+Panels;പാളികള്‍
+Panes on Startup;Panes on Startup
+Panes;Panes
+PannerNode;PannerNode
+Papua New Guinea;Papua New Guinea
+Papua New;Papua New
+Papua;Papua
+Paracel Islands;Paracel Islands
+Paracel;പരാസെല
+Paragraph format;Paragraph format
+Paragraph;Paragraph
+Paraguay;പരാഗ്വേ 
+Parameters;പാരാമീറ
+Params;പരാമീറ്ററുകള്‍
+Parcel;Parcel
+Parent Payload;Parent Payload
+Parent frame;Parent frame
+Parent;Parent
+Parental Controls;Parental Controls
+Parental;Parental
+Paris;Paris
+Park;Park
+Parser;Parser
+Parsing Error;Parsing Error
+Parsing an;Parsing an
+Parsing;Parsing
+Part Of;Part Of
+Part;Part
+PartS;PartS
+Partial;Partial
+Partially Encrypted;Partially Encrypted
+Partially;Partially
+Participant;Participant
+Participants;Participants
+Parts;Parts
+Party Name;Party Name
+Party;പാര
+Pashto;പഷ്ത്തോ 
+Password Change;Password Change
+Password Manager;Password Manager
+Password;രഹസ്യവാക്ക്
+Password;പാസ്‌വേര്‍ഡ്
+PasswordIf;PasswordIf
+Passwords;രഹസ്യവാക്കുകള്‍
+Paste Go;Paste Go
+Paste;പതിക്കുക
+Paste;ഒട്ടിക്കുക
+Paste;ഒട്ടിയ്ക്കുക
+Pastel Gradient;Pastel Gradient
+Pastel;Pastel
+Paste…;Paste…
+Patch;Patch
+Patching s;Patching s
+Patching;ചിംഗ
+Path;പാത  
+Paths from;Paths from
+Paths;Paths
+Paulo;Paulo
+Pause on;Pause on
+Pause/Resume/Retry;Pause/Resume/Retry
+Pause;താല്‍ക്കാലികമായി നിര്‍ത്തുക
+Pause;താല്ക്കാലികവിരാമം
+Pause;തല്‍ക്കാലത്തേക്ക് നിര്‍ത്തുക
+Pause;തല്‍ക്കാലത്തേക്കു് നിര്‍ത്തുക
+Pause;തല്‍ക്കാലത്തേക്കു് നിര്‍ത്തിയിരിയ്ക്കുന്നു
+Paused;തല്‍ക്കാലത്തേക്കു് നിര്‍ത്തിയിരിയ്ക്കുന്നു
+Pauses the;Pauses the
+Pauses;Pauses
+Pay;Pay
+Payload;Payload
+Payment;പ്രതിഫലം
+Paz;Paz
+Peer;Peer
+PeerConnection ID;PeerConnection ID
+PeerConnection;PeerConnection
+Pending;Pending
+Penh;Penh
+People;ആളുകള്‍
+Percent;Percent
+Perform a;Perform a
+Perform;Perform
+Performance;Performance
+Perhaps the;Perhaps the
+Perhaps you &apos;Perhaps you &apos
+Perhaps;Perhaps
+Period of Validity;കാലാവധി
+Period of;Period of
+Period;Period
+Periodic;Periodic
+Permanent;സ്ഥിരമായ
+Permanently;Permanently
+Permission;Permission
+Permissions;ആനുകൂല്യങ്ങള്‍
+Permit;Permit
+Persian;പേര്‍ഷ്യന്‍ 
+Personal;വ്യക്തിപരം
+Personality;റിയെപ
+Peru;പെരു
+Perwebsite;Perwebsite
+Phase;ഘട്ടം
+Philippines;ഫിലിപ്പീന്‍സ്‌ 
+Phishing;Phishing
+Phnom Penh;Phnom Penh
+Phnom;Phnom
+Phoenix;Phoenix
+Phone Number;Phone Number
+Phone;ഫോണ്‍
+Phones;ഫോണുകള്‍
+Phonetic Name;Phonetic Name
+Phonetic;Phonetic
+Photo;Photo
+Photograph;Photograph
+Phrase;Phrase
+Physical;Physical
+Pick;Pick
+Picture;Picture
+Pierre;Pierre
+Pilot;പൈലറ
+Pin;Pin
+Ping;പിങ്
+Pinned;ചേര്‍ത്ത സൈറ്റുകള്‍
+Pinning;Pinning
+Pipelining;Pipelining
+Pitcairn Islands;Pitcairn Islands
+Pitcairn;പിറ
+Pixel;Pixel
+Plain;Plain
+Planner;Planner
+Plastic Pal Who &apos;Plastic Pal Who &apos
+Plastic;Plastic
+Platform COM;Platform COM
+Platform;Platform
+Play a;Play a
+Play;പ്ലെ ചെയ്യുക
+Play;പ്രവര്‍ത്തിപ്പിക്കുക
+Playing audio;Playing audio
+Playing;പ്രവര്‍ത്തിയ്ക്കുന്നു
+Please advance;Please advance
+Please authenticate;Please authenticate
+Please consider;Please consider
+Please enter;Please enter
+Please shorten;Please shorten
+Please;aboutconfigല
+Plug a;Plug a
+Plug;Plug
+PlugIns;PlugIns
+Plugin;Plugin
+Plugins;പ്ലഗിനുകള്‍
+Plus;Plus
+Pocket;പോക്കറ്റ്
+Podcast;പോഡ് കാസ്റ്റ്
+PoiQA;PoiQA
+Pointer Lock API;Pointer Lock API
+Points;Points
+Poland;പോളണ്ട്‌
+Pole;Pole
+Policies;പോളിസികള
+Policy Constraints;Policy Constraints
+Policy Mappings;Policy Mappings
+Policy mapping;Policy mapping
+Policy;Policy
+Polish;പോളിഷ്‌
+Polynesia;യാ
+Popup Blocking;Popup Blocking
+Popup;Popup
+Popups;പോപ്പ്അപ്പുകള്‍
+Port;പോര്‍ട്ട്
+Port;പോര്‍ട്ട്‌
+Portable Document;Portable Document
+Portable;Portable
+Porto;Porto
+Portrait;ഫോട്ടോ രീതിയില്‍
+Portugal;പോര്‍ച്ചുഗല്‍
+Portuguese;പോര്‍ച്ചുഗീസ്‌
+Position;സ്ഥാനം
+Posse;Posse
+Possible;Possible
+Post;Post
+Postal Code;Postal Code
+Postal;Postal
+Posting;Posting
+Postpone;Postpone
+Power;Power
+Powered by;Powered by
+Powered;Powered
+Powershare;Powershare
+Practice Statement pointer;Practice Statement pointer
+Practice;Practice
+Pre;Pre
+Precondition;Precondition
+Preferably;Preferably
+Preference;Preference
+Preferences;മുന്‍ഗണനകള്‍
+Preferences…;മുന്‍ഗണനകള്‍
+Preferred;Preferred
+Prefers to;Prefers to
+Prefers;Prefers
+Prefetch;Prefetch
+Prefetching;Prefetching
+Prefix;Prefix
+Prefixed;Prefixed
+Preformat;Preformat
+Premature;കമെന
+Prepackage;Prepackage
+Prepackaging;Prepackaging
+Preparing;Preparing
+Preparing…;തയാറെടുക്കുന്നു 
+Preparing…;തൈയ്യാറെടുക്കുന്നു 
+Present;Present
+Presentation Mode;Presentation Mode
+Presentation;റേഷന
+Preserve;Preserve
+Preserves;Preserves
+Preset;Preset
+Presets;പ്രീസെറ്റുകള്‍
+Press;അമര്‍ത്തുക
+Pressing F;Pressing F
+Pressing;Pressing
+Prettify;Prettify
+Pretty Print;Pretty Print
+Pretty;Pretty
+Prevent;Prevent
+Preview;തിരനോട്ടം
+Previewed;Previewed
+Previewing;Previewing
+Preview…;Preview…
+Previous Session;Previous Session
+Previous;മുമ്പു്
+Price;വില
+Primary Email;Primary Email
+Primed cache;Primed cache
+Primed;രൈമ
+Primetime Content;Primetime Content
+Primetime;റംസ
+Princes;Princes
+Principal Name;Principal Name
+Principal;Principal
+Principe;സൈപ
+Print;പ്രിന്റ് ചെയ്യുക
+Print;പ്രിന്റ് ചെയ്യുക 
+Print;അച്ചടിയ്ക്കുക
+Printed;Printed
+Printer;പ്രിന്റര്‍
+Printing;പ്രിന്റ്‌ ചെയ്തുകൊണ്ടിരിക്കുന്നു
+Printing…;അച്ചടിക്കുന്നു  
+Print…;പ്രിന്റ് ചെയ്യുക
+Print…;പ്രിന്റ് ചെയ്യുക 
+Print…;പ്രിന്റ് ചെയ്യുക…
+Priority changed;Priority changed
+Priority;മുന്‍ഗണന
+Privacy Policy;Privacy Policy
+Privacy;സ്വകാര്യത
+Private Browsing we won &apos;Private Browsing we won &apos
+Private Keys;Private Keys
+Private TabformatS won &apos;Private TabformatS won &apos
+Private;സ്വകാര്യം
+Privileged;അവകാശമുള്ള
+Privileges;Privileges
+Privileges…;Privileges…
+Pro;Pro
+Probable;Probable
+Probably;Probably
+Probing;Probing
+Problem;Problem
+Proceed;Proceed
+Proceeding will;Proceeding will
+Proceeding;Proceeding
+Process;Process
+Processing;Processing
+Processing…;പ്രവര്‍ത്തനത്തില്‍…
+Prodigy;Prodigy
+Producer;രൊഡ
+Product;Product
+ProductName;ProductName
+ProductNameInternal;ProductNameInternal
+ProductShortName;ProductShortName
+Profile;പ്രൊഫൈല്‍
+Profiler;Profiler
+Profiles;Profiles
+Program Icons;Program Icons
+Program;Program
+Programs Folder;Programs Folder
+Programs;രാമുകളുടെ
+Progress Window;Progress Window
+Progress;പുരോഗതി
+Project Lead;Project Lead
+Project;പ്രോജെക്റ്റ്
+Projects;Projects
+Promise Debugger;Promise Debugger
+Promise;Promise
+Prompt;പ്രോംപ്റ്റ്
+Properties;ഗുണഗണങ്ങള്‍
+Properties…;ഗുണവിശേഷതകള്‍
+Property Declaration;Property Declaration
+Property Value;Property Value
+Property;വിശേഷത
+Proportional;ആനുപാതികം
+Propose a;Propose a
+Propose;ദേശിയ
+Protection;തോടെ
+Protocol Request;Protocol Request
+Protocol;Protocol
+ProtocolSpecific;ProtocolSpecific
+Protocols;Protocols
+Proudlybr;Proudlybr
+Provider;Provider
+Province;Province
+Proxies;Proxies
+Proxy;Proxy
+Pseudoelements can;Pseudoelements can
+Pseudoelements ‘;Pseudoelements ‘
+Pseudoelements;സ്യൂഡോഎലമെന്റുകള്‍
+Psst using;Psst using
+Psst;Psst
+Public;Public
+PublicKeyPins;നുകൾ
+Publish;Publish
+Publishing Pages;Publishing Pages
+Publishing;Publishing
+Publishing…;Publishing…
+Publish…;Publish…
+Puerto Rico;Puerto Rico
+Puerto;Puerto
+Punjabi;പഞ്ചാബി 
+Purchase for;Purchase for
+Purposes;കാരണങ്ങള്‍
+Push Endpoint;Push Endpoint
+Push;Push
+QA UI;QA UI
+QA;QA
+QName;QName
+QQ;QQ
+QR Scan;QR Scan
+QR;QR
+Qatar;ഖത്തര്‍
+Qualified Subordination;Qualified Subordination
+Qualified;വാളിഫൈഡ
+Quechua;കെച്ചുവ
+Query;Query
+Question;Question
+Queued;ക്യൂ ചെയ്യപ്പെട്ടിരിക്കുന്നു
+Quick Filter;Quick Filter
+Quick Launch bar;Quick Launch bar
+Quick Launch;Quick Launch
+Quick;Quick
+Quickly;Quickly
+Quirks mode;Quirks mode
+Quirks;Quirks
+Quirky doctype;Quirky doctype
+Quirky;Quirky
+Quit;പുറത്ത് കടക്കു
+Quit;പുറത്തു കടക്കുക
+Quit;പുറത്തു് കടക്കുക
+Quit;പുറത്തേക്ക്‌
+QuitS;QuitS
+Quitting;മോഡിലാണു
+Quota;Quota
+Quotation;Quotation
+Quote;Quote
+Quotes;Quotes
+RAM;RAM
+RC;RC
+RDN;RDN
+RECORDS;RECORDS
+REMOVE;REMOVE
+RETR command;RETR command
+RETR;RETR
+RETURN;RETURN
+RFC;RFC
+RGBA;RGBA
+RSA Encryption;RSA Encryption
+RSA;RSA
+RSASSAPSS Signature;RSASSAPSS Signature
+RSASSAPSS;RSASSAPSS
+RSS Support;RSS Support
+RSS;ആര്‍ എസ് എസ്
+RTCPeerConnectiongetLocalStreams;RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders;RTCPeerConnectiongetSenders
+RTP Stats;RTP Stats
+RTP;RTP
+Radio Button;Radio Button
+Radio buttons;Radio buttons
+Radio;Radio
+Rainy;Rainy
+Raise;Raise
+Range;Range
+Rankin;Rankin
+Rate;Rate
+Rating;റേറ്റിങ്
+Ratio;Ratio
+Raw;Raw
+Re;Re
+Reached;Reached
+Read;Read
+ReadMark;ReadMark
+Reader &apos;Reader &apos
+Reader;Reader
+Reading;Reading
+Ready to;Ready to
+Ready;തയ്യാര്‍
+Really fast;Really fast
+Really;Really
+Rearrange;Rearrange
+Reason;കാരണം
+Reasons;Reasons
+Rebuild Summary;Rebuild Summary
+Rebuild;Rebuild
+Recalculate;കുലേറ
+Receipt denied;Receipt denied
+Receipt;Receipt
+Receipts;Receipts
+Receive;Receive
+Received;ലഭിച്ചതു്
+Receiving;ലഭ്യമാക്കുന്നു
+Recent htmlstrongCookies;Recent htmlstrongCookies
+Recent htmlstrongHistory;Recent htmlstrongHistory
+Recent;ഏറ്റവും ഒടുവിലുള്ള
+Recently;Recently
+Recheck;Recheck
+Recipient;Recipient
+Recipients;Recipients
+Recommended Components;Recommended Components
+Recommended;ഉചിതമായതു്
+Reconfirm;Reconfirm
+Reconnect;Reconnect
+Record;Record
+Recording Performance;Recording Performance
+Recording;Recording
+Recording…;സൂക്ഷിക്കുന്നു
+Recover;Recover
+Recovery Keyhtml;Recovery Keyhtml
+Recovery;കവറി
+Recur;Recur
+Recurrence pattern;Recurrence pattern
+Recurrence;Recurrence
+Recursion;Recursion
+Redirect Loop;Redirect Loop
+Redirect;Redirect
+RedirectMode;RedirectMode
+Redirection limit;Redirection limit
+Redirection;Redirection
+Rediscover the;Rediscover the
+Rediscover;Rediscover
+Redisplay;Redisplay
+Redo;വീണ്ടും
+Redo;ആവര്‍ത്തിക്കുക
+Reducing the;Reducing the
+Reducing;Reducing
+Reduction;റിഡക
+Reef;Reef
+Reenter;Reenter
+Reference;Reference
+References;References
+Referrer;ഉദാഹരണങ
+Referring URL;Referring URL
+Referring;Referring
+Reflows;റീഫ്ലോ
+Reformat;Reformat
+Refresh;പുതുക്കുക
+Refused;Refused
+Register Locale;Register Locale
+Register Server;Register Server
+Register;റജിസ
+Registered;Registered
+Registering;Registering
+Regular Attachment;Regular Attachment
+Regular;Regular
+Reject;Reject
+Rejoin;Rejoin
+Related;Related
+Relation;Relation
+Relative positioning of;Relative positioning of
+Relative;Relative
+Relaunch;Relaunch
+Release Notes;Release Notes
+Release;Release
+Releases;Releases
+Reload;വീണ്ടും ലഭ്യമാക്കുക
+Reload;പുതുക്കുക
+Reload;പുതുക്കുക 
+Remaining;Remaining
+Remember;ഓര്‍ക്കുക
+Remember;ഓര്‍ക്കുക 
+Remind Me;Remind Me
+Remind;Remind
+Reminder;Reminder
+Reminders;Reminders
+Remote Debugging;Remote Debugging
+Remote debugging;Remote debugging
+Remote;വിദൂരം
+Remove channel;Remove channel
+Remove;നീക്കം ചെയ്യുക
+Remove;നീക്കം ചെയ്യുക 
+Remove;ഒഴിവാക്കുക
+Removed;Removed
+Removes;Removes
+Remove…;നീക്കം ചെയ്യുക…
+Removing;Removing
+Renaissance;നവോദ
+Rename;പേരു് മാറ്റുക
+Rename…;Rename…
+Renaming;Renaming
+Render Mode;Render Mode
+Render;Render
+Renderer;ടറര
+Rendering;Rendering
+Renewal;Renewal
+Reopen;Reopen
+Repair;Repair
+Repeat;Repeat
+Repeating;Repeating
+Repeats;ആവര്‍ത്തനങ്ങള്‍ 
+Replace;Replace
+Replacement;Replacement
+Replaces in;Replaces in
+Replaces;Replaces
+Replace…;Replace…
+Replacing;Replacing
+Replicating directory entry;Replicating directory entry
+Replicating;Replicating
+Replication failed;Replication failed
+Replication;Replication
+Replied;Replied
+Reply;Reply
+ReplyTo;ReplyTo
+Replying;Replying
+Replyto Address;Replyto Address
+Replyto;Replyto
+Report;റിപ്പോര്‍ട്ട്
+ReportOnly;ReportOnly
+Reporter;Reporter
+Reports;പടെഎല
+Republic;Republic
+Request the;Request the
+Request;Request
+RequestMode;RequestMode
+Requested;Requested
+Requests;ആവശ്യങ്ങള്‍
+Required;Required
+Requires;Requires
+Reread mozcmd;mozcmd
+Reread;Reread
+Resend;വീണ്ടും അയയ്ക്കുക
+Resending;Resending
+ResentCC;ResentCC
+ResentComments;ResentComments
+ResentDate;ResentDate
+ResentFrom;ResentFrom
+ResentMessageID;ResentMessageID
+ResentSender;ResentSender
+ResentTo;ResentTo
+Reserved;Reserved
+Reset;വീണ്ടും സജ്ജമാക്കുക
+Reset;റീസെറ്റ് ചെയ്യുക
+Reset;പുനക്രമീകരിക്കുക
+Reset;പുനഃക്രമീകരിക്കുക
+Resets;Resets
+Resolution/Quality;Resolution/Quality
+Resolution;Resolution
+Resolve;Resolve
+Resource;Resource
+Resources;Resources
+Responder;Responder
+Response;മറുപടി
+Responseclone;Responseclone
+Responsive Design;Responsive Design
+Responsive;Responsive
+Rest;Rest
+Restart;വീണ്ടും ആരംഭിയ്ക്കുക
+Restarting;Restarting
+Restarting…;Restarting…
+Restore;വീണ്ടെടുക്കുക
+Restore;പുനസ്ഥാപിക്കുക
+Restore;പൂര്‍വ്വസ്ഥിതിയിലാക്കുക
+Restrict;Restrict
+Restricted;വിലക്കപ്പെട്ടത്
+Restyle Hint;Restyle Hint
+Restyle;Restyle
+Results;Results
+Resume &apos;Resume &apos
+Resume;തുടരുക 
+Resume;വീണ്ടും ആരംഭിയ്ക്കുക
+Resumes;Resumes
+Retained;Retained
+Retention Policy;Retention Policy
+Retention;Retention
+Retest;Retest
+Retrieving quota;Retrieving quota
+Retrieving;Retrieving
+Retrieving…;ലഭ്യമാക്കുന്നു…
+Retry;വീണ്ടും ശ്രമിക്കുക
+Retry;വീണ്ടും ശ്രമിയ്ക്കുക
+Retrying;Retrying
+Return;Return
+Retweet;Retweet
+Reunion;റീയൂണിയന്‍
+Reverse;Reverse
+Reversed;Reversed
+Revert;തിരികെ വരുക
+Revert…;തിരികെ ലഭ്യമാക്കുക…
+Review;Review
+Revision;Revision
+Revived;Revived
+Revocation;Revocation
+Revoked;Revoked
+Rewind;Rewind
+Rewrap;Rewrap
+Rewriting oldstyle;Rewriting oldstyle
+Rewriting;Rewriting
+RhaetoRomanic;റഹെയിട്ടോറോമനിക്ക്‌ 
+Rica;Rica
+Rich Text;Rich Text
+Rich;Rich
+Rico;Rico
+Right Click;Right Click
+Right;വലതു്
+Right;വലത്‌
+Rightclick;Rightclick
+Rights;Rights
+Righttoleft direction;Righttoleft direction
+Righttoleft;Righttoleft
+Ringing…;Ringing…
+Rio;Rio
+Rioja;Rioja
+Risks;അറിയാം
+River;River
+Roaming;Roaming
+Robot;Robot
+Robots;രസമുള
+Roku;റോകു
+Role;Role
+Romania;റൊമാനിയാ
+Romanian ISO;Romanian ISO
+Romanian;റോമാനിയന്‍
+Room;Room
+Root;Root
+Roots Module;Roots Module
+Roots;Roots
+Rotate;കറക്കുക
+Row;Row
+Rows;Rows
+Rule;Rule
+Rules;Rules
+Ruleset;Ruleset
+Run;പ്രവര്‍ത്തിയ്ക്കുക
+RunAppX;RunAppX
+Running;Running
+Runtime;പ്രവര്‍ത്തനസമയം
+Russia;റഷ്യ‌
+Russian Federation;Russian Federation
+Russian;റഷ്യന്‍
+Russian;റഷിയന്‍ 
+Rwanda;റുവാന്‍ഡാ
+S &apos;S &apos
+S Object;S Object
+S Provider;S Provider
+S S Image;S S Image
+S S Object;S S Object
+S S;S S
+S pixels;S pixels
+S resource;S resource
+S visitors;S visitors
+S ×;S ×
+S&apos;
+S/S;S/S
+S;വീതിയില
+SASL bind;SASL bind
+SASL;SASL
+SD;SD
+SDP;SDP
+SE;SE
+SECG elliptic curve sectr;SECG elliptic curve sectr
+SECG;ഇസിജി
+SECURITY;SECURITY
+SEE THIS STRING;SEE THIS STRING
+SEE THIS;SEE THIS
+SEE;SEE
+SETTINGS;SETTINGS
+SFailed to;SFailed to
+SFailed;SFailed
+SHA Digest;SHA Digest
+SHA Fingerprint;SHA Fingerprint
+SHA;SHA
+SHOULD;SHOULD
+SHOW;SHOW
+SIL Compact;SIL Compact
+SIL;SIL
+SIM;SIM
+SIZE;SIZE
+SKB;SKB
+SMB of;SMB of
+SMB;SMB
+SMTP &apos;SMTP &apos
+SMTP&apos;SMTP&apos
+SMTP;SMTP
+SMTPAUTH;SMTPAUTH
+SOCKS Host;SOCKS Host
+SOCKS v;SOCKS v
+SOCKS;SOCKS
+SOccurs;SOccurs
+SPDY;പോര്‍ട്ട്‌
+SPONSORED;പ്രായോജകര്‍
+SQL Statements;SQL Statements
+SQL;SQL
+SQLite;SQLite
+SRV;SRV
+SS;SS
+SSL Proxy;SSL Proxy
+SSL received;SSL received
+SSL/TLS;SSL/TLS
+SSL;എസ്എസ്എല്‍
+SSLv;ഇതുപയോഗിയ
+SSS;SSS
+SSSS;SSSS
+ST;ST
+STARTTLS if;STARTTLS if
+STARTTLS since;STARTTLS since
+STARTTLS;STARTTLS
+STAT command;STAT command
+STAT;STAT
+STRING;STRING
+STouch;തൊടൂSനുള
+SUGGESTED;നിര്‍ദ്ദേശിക്കപ്പെട്ടതു്
+SVG clipping;SVG clipping
+SVG;SVG
+SW Asian;SW Asian
+SW;SW
+SWITCH;മാറുക
+SYSTEM;SYSTEM
+S_files;S_ഫയലുകള്‍
+Sa;ശ
+Saba;Saba
+Sad;Sad
+Safari;സഫാരി
+Safe Mode;Safe Mode
+Safe;മോഡ
+SafeBrowsing;SafeBrowsing
+SafeMode;SafeMode
+Sahara;സഹാറാ
+Saint Barthelemy;Saint Barthelemy
+Saint Helena;Saint Helena
+Saint Kitts and Nevis;Saint Kitts and Nevis
+Saint Kitts;Saint Kitts
+Saint Lucia;Saint Lucia
+Saint Martin;Saint Martin
+Saint Pierre and Miquelon;Saint Pierre and Miquelon
+Saint Pierre;Saint Pierre
+Saint Vincent and the Grenadines;Saint Vincent and the Grenadines
+Saint Vincent;Saint Vincent
+Saint;സെയിന
+Salaam;Salaam
+Salem;Salem
+Salvador;Salvador
+Same;Same
+Sami;Sami
+Samoa;സാമോവാ
+Samoan;സമൌണ്‍ 
+Sampled;Sampled
+Samples;മാതൃകകള്‍
+San Marino;San Marino
+San;San
+Sandbox;സാന്റ്ബോക്സ്
+Sandboxing;Sandboxing
+Sandwich;Sandwich
+Sango;സാന്‍ഗ്രോ 
+Sangro;Sangro
+Sanitize;Sanitize
+Sanitizing;Sanitizing
+Sans Serif;Sans Serif
+Sans;Sans
+Sanskrit;സംസ്കൃതം 
+Sansserif;സാന്‍സ്സെറിഫ്
+Santa;Santa
+Santo;Santo
+Sao Tome and;Sao Tome and
+Sao Tome;Sao Tome
+Sao;സാവോ
+Sardinian;സര്‍ഡിനിയന്‍ 
+Sass;Sass
+Sat;ശനി
+Saturday;ശനിയാഴ്ച
+Saudi Arabia;Saudi Arabia
+Saudi;സൌദി
+Save Permissions;Save Permissions
+Save;സൂക്ഷിക്കുക
+Save;സൂക്ഷിക്കുക 
+Save;സംരക്ഷിക്കുക
+Save;സൂക്ഷിയ്ക്കുക
+Saved;Saved
+Save…;സൂക്ഷിയ്ക്കുക…
+Saving;Saving
+Saving…;സൂക്ഷിയ്ക്കുന്നു
+Saw;Saw
+Scalars;Scalars
+Scale …;Scale …
+Scale;അളവ്
+Scaled;Scaled
+Scaling;Scaling
+Scam Warning Take;Scam Warning Take
+Scam;സിലാകാത
+Scams;Scams
+Scan;Scan
+Scanner app;Scanner app
+Scanner;Scanner
+Scanning for;Scanning for
+Scanning;Scanning
+Scheduling;Scheduling
+Scheme;Scheme
+Scope;പരിധി
+Score Origin;Score Origin
+Score;Score
+Scots;Scots
+Scottish Gaelic;Scottish Gaelic
+Scottish;Scottish
+Scratchpad Enter some;Scratchpad Enter some
+Scratchpad;സ്ക്രാച്ച്പാഡ്
+Screen Orientation;Screen Orientation
+Screen reader;Screen reader
+Screen;സ്ക്രീന്‍
+Screenname;Screenname
+Screenshot;സ്ക്രീന്‍ഷോട്ട്
+Screenshots;സ്ക്രീന്‍ഷോട്ടുകള്‍
+Script;Script
+Scripts;Scripts
+Scroll;Scroll
+ScrollLinkedEffects;ScrollLinkedEffects
+Scrolling;Scrolling
+Sd;Sd
+Sdays;Sdays
+Sea;Sea
+SeaMonkey;SeaMonkey
+SeanMartell Available;SeanMartell Available
+SeanMartell;SeanMartell
+Search BarName;Search BarName
+Search Engine;Search Engine
+Search Engines;Search Engines
+Search;തിരയുക
+Search;തെരയുക
+Search;തിരഞ്ഞു കണ്ടെത്തുക
+Searches;Searches
+Searching &apos;Searching &apos
+Searching;Searching
+Searching…;തെരയുന്നു…
+Search…;തെരയുക…
+Seccomp Thread Synchronization;Seccomp Thread Synchronization
+Seccomp Thread;Seccomp Thread
+Seccomp;Seccomp
+SeccompBPF System;SeccompBPF System
+SeccompBPF;SeccompBPF
+Second;Second
+Secondary Email;Secondary Email
+Secondary;Secondary
+Seconds;Seconds
+Sections;Sections
+Secure;Secure
+Securing connection;Securing connection
+Securing;Securing
+Security Exception;Security Exception
+Security;സുരക്ഷ
+See;സന്ദര്‍ശിക്കേണ്ടവ
+Select;തെരഞ്ഞെടുക്കുക
+Selected Frame;Selected Frame
+Selected Tabs;Selected Tabs
+Selected;തിരഞ്ഞെടുത്ത
+SelectedRemove Selected;SelectedRemove Selected
+SelectedRemove;SelectedRemove
+Selecting;Selecting
+Selection;തെരഞ്ഞെടുക്കല്‍
+Selector;Selector
+Selectors;Selectors
+Select…;Select…
+Self Cost;Self Cost
+Self Sampled;Self Sampled
+Self Time;Self Time
+Self;Self
+Selfclosing syntax;Selfclosing syntax
+Selfclosing;Selfclosing
+Selfposting;Selfposting
+Send Verification;Send Verification
+Send a;Send a
+Send;അയച്ചതു്
+Sender;Sender
+Sending;അയയ്ക്കുന്നു
+Sends a;Sends a
+Sends;Sends
+Senegal;സെനെഗല്‍
+Sensor;സെന്‍സര്‍
+Sent &quot;Sent &quot
+Sent;അയച്ചതു്
+Sep;സെപ്
+Separate _;Separate _
+Separate tags;Separate tags
+Separate;താളുകളിലുള
+Separated;Separated
+Separator;വിടവ്‌
+Separators;സെപ്പറേറ്ററുകള്‍
+Sepia;സെപ്പിയ
+Sepia;തവിട്ടു്
+September;സെപ്തംബര്‍
+Serbia;സെര്‍ബിയാ
+Serbian;സെര്‍ബിയന്‍
+Serial Number;Serial Number
+Serial;Serial
+Serialize;Serialize
+Serif;സെറിഫ്
+Server Gated Crypto;Server Gated Crypto
+Server Gated;Server Gated
+Server SMTP&apos;Server SMTP&apos
+Server Settings;Server Settings
+Server settings&apos;Server settings&apos
+Server;സര്‍വര്‍
+Server;സര്‍വര്‍ 
+Servers;സര്‍വറുകള്‍
+Service;Service
+ServiceWorker;ദാനം
+ServiceWorkerAllowed;ServiceWorkerAllowed
+Services;സേവനങ്ങള്‍
+Session;സെഷന്‍
+Sessions;Sessions
+Set Up Sync &quot;Set Up Sync &quot
+Set this channel &apos;Set this channel &apos
+Set;സജ്ജീകരിക്കൂ
+Set;സജ്ജീകരിക്കുക
+Setting;Setting
+Settings &#124;Settings &#124
+Settings;ക്രമീകരണങ്ങള്‍
+Settings;സജ്ജീകരണങ്ങള്‍
+SettingsA;SettingsA
+Settings…;ക്രമീകരണങ്ങള്‍ 
+Settings…;സജ്ജീകരണങ്ങള്‍ …
+Setup;ഇനിയുള
+Seven;Seven
+Severy;Severy
+Seychelles;സെയിഷല്‍സ്
+Sh;Sh
+Shader;ഷെയിഡര
+Shading;Shading
+Shallow;Shallow
+Share;പങ്കിടുക
+Shared;ഷെയര
+Sharing Indicator;Sharing Indicator
+Sharing;Sharing
+Sheet;Sheet
+Shift _ JIS;Shift _ JIS
+Shift _;Shift _
+Shift;Shift
+ShiftCtrlSpace;ShiftCtrlSpace
+ShiftRETURN Open in;ShiftRETURN Open in
+ShiftRETURN Open;ShiftRETURN Open
+ShiftRETURN;ചിപാഡില
+ShiftTab;ShiftTab
+Shona;ഷോന 
+Shopping;Shopping
+Short;Short
+Shortcut;ഷോര
+Shortcuts;Shortcuts
+Shot;Shot
+Should;Should
+Show/Hide;Show/Hide
+Show;കാണിക്കുക 
+Show;പ്രദര്‍ശിപ്പിക്കുക
+Showing;Showing
+Shrink To Fit;Shrink To Fit
+Shrink;Shrink
+Shutdown;അടച്ചുപൂട്ടുക
+Shutting Down;Shutting Down
+Shutting;Shutting
+SiInEfate;SiInEfate
+Siblings;സിബ്ലിങ്സ്
+Sichuan Yi;Sichuan Yi
+Sichuan;സിചുവാന
+Sidebar;സൈഡ് ബാര്‍
+Sidebars;സൈഡ്ബാറുകള്‍
+Sierra Leone;Sierra Leone
+Sierra;സിയാറാ
+Sign;Sign
+Signature;Signature
+Signed;Signed
+Signer;സൈനര
+Signing;സൈന്‍ ചെയ്തുകൊണ്ടിരിക്കുന്നു
+Signon;Signon
+Silence;Silence
+Silent;Silent
+Silverlight fallback;Silverlight fallback
+Silverlight;Silverlight
+Simple;Simple
+Simplified;ളിഫൈഡ
+Simplify;Simplify
+Simply;Simply
+Simulate touch;Simulate touch
+Simulate;Simulate
+Simulation;Simulation
+Simulator;സിമുലേറ
+Simulators;സിമുലേറ്ററുകള്‍
+Since;Since
+Sindhi;സിന്ധി
+Singapore;സിംഗപ്പൂര്‍
+Singhalese;സിംഹളീസ്‌
+Sinhala;സിന്‍ഹാലാ
+Siswati;സിസ്വാട്ടി
+Site;സൈറ്റ്‌
+Sites;സൈറ്റുകള്‍
+Size;വലിപ്പം
+Size;വലിപ്പം 
+Size;വ്യാപ്തി
+Slovak;സ്ലൊവാക്ക്‌ 
+Slovakia;സ്വോവാക്കിയ
+Slovenia;സ്ലോവേനിയാ
+Slovenian;സ്ലൊവേനിയന്‍ 
+Sm;Sm
+Small;ചെറുത്
+Sms;Sms
+So;So
+Sockets;സോക്കറ്റുകള്‍
+Software;സോഫ്റ്റ്‌വെയർ
+Solomon;സോളമണ
+Solon;സോളന
+Somali;സൊമാലി
+Somalia;സോമാലിയാ
+Some;Some
+Songhay;സോങ്കായ്
+Sorbian;സൊര്‍ബിയന്‍
+Sort;ക്രമത്തിലാക്കുക
+Sources;ശ്രോതസ്സുകള്‍
+South;സൌത
+Southern;സോതോ
+Space;Space
+Space;സ്പേയ്‌സ്‌
+Spain;സ്പെയിന്‍ 
+Spanish;സ്പാനിഷ്‌ 
+Speculative;Speculative
+Spratly;രാറ
+Spx;Spx
+Ss;Ss
+Stack;സ്റ്റാക്ക്
+Stamping;റാമ
+Standard;നിലവാരം
+Start;തുടങ്ങുക
+Start;ആരംഭിയ്ക്കുക
+Starting…;തുടങ്ങുന്നു
+Starting…;ആരംഭിക്കുന്നു
+Starting…;ആരംഭിയ്ക്കുന്നു…
+Startup;തുടക്കം
+State;അവസ്ഥ
+Statement;വാചകം
+Statistics;ഥിതിവിവരക
+Status;സ്ഥിതി 
+Stay;നില്‍ക്കൂ
+Stop;നിര്‍ത്തുക
+Stopped…;നിർത്തി
+Storage;സംഭരണം
+Stores;റോറുകള
+Stray;രേ
+Stretch;വലിച്ച്‌ നീട്ടുക 
+StrictTransportSecurity;StrictTransportSecurity
+String; സ്ട്രിങ്
+String;വാക്യം
+Style;ററിലും
+Styles;ശൈലികള്‍
+Su;ഞാ
+SubCommands;ഉപകമാന്‍ഡുകള്‍
+Subject;വിഷയം
+Submit;രേഖപ്പെടുത്തുക
+Submitted;സമര്‍പ്പിച്ചവ
+Subordination;ഡിനേഷന
+Subscribe;അംഗത്വം നേടുക
+Success;വിജയം
+Success;വിജയിച്ചു
+Sudan;സുഡാന്‍
+Suffixes;സഫിക്സുകള്‍
+Suggestions;നിര്‍ദ്ദേശങ്ങള്‍
+Summary;ചുരുക്കം
+Sun;ഞായര്‍
+Sundanese;സുഡാനീസ്‌ 
+Sunday;ഞായറാഴ്ച
+Superseded;സൂപ്പര്‍സീഡഡ്
+Support;പിന്തുണ
+Suriname;സൂറിനെയിം
+Surname;കുടുംബനാമം
+Svalbard;സ്വാല്‍ബാര്‍ഡ്
+Swahili;സ്വാഹിളി
+Swaziland;സ്വാസിലാന്‍ഡ്
+Sweden;സ്വീഡന്‍
+Swedish;സ്വീഡിഷ്‌ 
+Switch;മാറുക
+Switch;സ്വിച്ച്
+Switzerland;സ്വിറ്റ്സര്‍ലന്‍ഡ്‌ 
+Sync;സിൻൿ
+Sync;സിന്‍ക്
+Sync;സിന്‍ക് ചെയ്യുക
+Synchronization;രണൈസേഷൻ
+Syncing…;സിന്‍ക് ചെയ്യുന്നു
+Synopsis;സിനോപ്സിസ്
+Syria;സിറിയ
+S×;S×
+S×S;S×S
+TCP;ടിസിപി
+TCVN;TCVN
+TIP;കണില
+TIS;TIS
+TLS;ടിഎല
+TVs;ടിവികള്‍
+Tab;Tab
+Tables;പട്ടികകള്‍
+Tablets;ടാബ്‍ലെറ്റുകള്‍
+Tabs;ടാബുകള്‍
+Tabs;റ്റാബുകള്‍
+Tabs;റ്റാബുകള്‍ 
+Tag;ടാഗ്
+Tagalog;താഗാലോഗ്‌ 
+Tags;ടാഗുകള്‍
+Tags;റ്റാഗുകള്‍
+Tahitian;തഹിതിയന്‍
+Taiwan;തായ്‌വാന്‍
+Tajik;താജിക്ക്‌
+Tajikistan;തജിക്കിസ്ഥാന്‍
+Tamil;തമിഴ്‌ 
+Tanzania;ടാന്‍സാനിയാ
+Tap;ടൂ
+Target;ലക്ഷ്യം
+Tatar;ടാറ്റര്‍
+Team;ടീമിലേക
+Telemetry;ടെലിമെട്രി
+Telugu;തെലുങ്കു
+Telugu;തെലുങ്ക്‌
+Temporary;താല്‍ക്കാലികമായ
+Test;ടെസ
+Text;ടെക്സ്റ്റ്‌ 
+Th;വ്യാ
+Thai;തായ്‌
+Thailand;തായിലാന്‍ഡ്
+Thanks;നന്ദി
+The;The
+Their;Their
+Theme;പ്രമേയം
+Themes;പ്രമേയങ്ങള്‍
+This;രെഈ
+Thu;വ്യാഴം
+Thumbnails;തംബ്നെയിലുകള്‍
+Thursday;വ്യാഴാഴ്ച
+Tibetan;ടിബറ്റന്‍
+Tibetan;റ്റിബെറ്റെന്‍ 
+Tigre;റ്റൈഗര്‍ 
+Tigrinya;തിഗ്രിന്യ 
+Tile;ടൈല്‍
+Time;സമയം
+Timeline;ടൈംലൈന്‍
+Timestamp;സമയമുദ്ര
+Timings;സമയം
+TimorLeste;ടിമോര്‍ലെസ്തെ
+Tiny;ചെറുത്
+Title;തലക്കെട്ട്
+Title;തലക്കെട്ട്‌ 
+Toasters;Toasters
+Tobago;ടോബാഗോ
+Today;ഇന്നു്
+Toggle;മാറ്റുക
+Toggle;ടൊഗിള്‍ ചെയ്യുക
+Togo;ടോഗോ
+Tokelau;ടോകിലാവു
+Token;ടോക്കന്‍
+Tonga;ടോങ്കോ
+Tonga;ടോന്‍ഗ
+Tool;എംഡിഎന
+Toolbars;ടൂള്‍ബാറുകള്‍ 
+Tools;ഉപകരണങ്ങള്‍
+Top;മുകള്‍ഭാഗം
+Touch;ടച്ച്
+Tour;യടനം
+Traces;ട്രെയിസുകള്‍
+Tracking;നിരീക്ഷണം
+Traditional;രദായ
+Transferred;മറ്റൊരിടത്തേക്കു് നീക്കിയിരിയ്ക്കുന്നു
+Transition;സിഷന
+Translate;തര്‍ജ്ജമചെയ്യുക
+Translators;തര്‍ജ്ജമ ചെയ്തവര്‍
+Tree;വേരിയബിളുകളുടെ
+Trinidad;രിനിഡാഡ
+Troubleshooting;ട്രബിള്‍ഷൂട്ടിങ്
+Try;Try
+Tsonga;ടസോന്‍ഗ 
+Tswana;ടസ്വാന
+Tu;ചൊ
+Tue;ചൊവ്വ
+Tuesday;ചൊവ്വാഴ്ച
+Tunisia;ടുണീഷ്യ 
+Turkey;തുര്‍ക്കി
+Turkish;തുര്‍ക്കിഷ്‌
+Turkish;തുര്‍ക്കിഷ്‌ 
+Turkmen;തുര്‍ക്ക്മെന്‍ 
+Turkmenistan;ടുര്‍ക്ക്മെനിസ്ഥാന്‍
+Turning;ടൂൾബോക
+Tuvalu;തുവാലു
+Twi;റ്റ്വി 
+Twitter;MozTestPilot
+Type;തരം
+Type;ഏത് തരം
+Type;രീതി
+Type;ഏതു് തരം
+Types;തരങ്ങള്‍
+UID;UID
+UNDO;തിരിച്ചാക്കുക
+UNKNOWN;അജ്ഞാതം
+URI;യുആര്‍ഐ
+URIs;ങളോടുകൂടി
+URL;URL
+URL;യുആര്‍എല്‍
+US;IN
+USA;USA
+USASCII;USASCII
+USB;ബി
+UTF;UTF
+UTFBE;UTFബിഗ
+Uganda;ഉഗാണ്ടാ
+UhOh;ക്ഷമിയ്ക്കണം
+Uighur;വീഗുര്‍ 
+Ukraine;യുക്രെയിന്‍
+Ukrainian;യുക്രേനിയന്‍
+Ukrainian;യുക്റേനിയന്‍
+Ukrainian;ഉക്ക്രേനിയന്‍
+Uncheck;അണ്‍ചെക്ക് ചെയ്യുക
+Underline;അടിവരയിടുക
+Understand;യതയെപ
+Undo;വേണ്ട
+Undo;പൂര്‍വ്വാവസ്ഥയിലാക്കുക
+Unhide;മറനീക
+Unicode;യൂണിക്കോഡ്
+Unified;ലബറി
+Uninitialized;ഇനിഷ്യലൈസ് ചെയ്തിട്ടില്ല
+Uninstall;ഉപേക്ഷിയ്ക്കുക
+Uninstall;അണ്‍ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
+Uninstalling;അണ്‍ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു
+Unique;യുണീക
+Unit;Unit
+United;യുണൈറ
+Universal;സാര്‍വ്വജനികം
+Unknown;അജ്ഞാതം
+Unknown;അപരിചിതം
+Unknown;അറിയാത്തത്
+Unknown;അറിയില്ലാത്തത്‌ 
+Unless;ഫയലിലുള
+Unlink;അണ്‍ലിങ്ക് ചെയ്യുക
+Unload;അണ്‍ലോഡ്‌ ചെയ്യുക
+Unmute;ശബ്ദം വയ്ക്കുക
+Unmute;ശബ്ദം സജ്ജമാക്കുക
+Unregister;അണ്‍രജിസ്ടര്‍ ചെയ്യുക
+Unsigned;അണ്‍സൈന്‍ഡ്‌
+Unsorted;ക്രമത്തില്‍ അല്ലാത്തവ
+Unused;ഉപയോഗിക്കാത്തത്
+Unverified;പരിശോധിച്ചിട്ടില്ലാത്തതു്
+Up;മുകളില്‍
+Update;പരിഷ്കരണം
+Update;പരിഷ്കരിക്കുക
+Update;പരിഷ്കരണങ്ങള്‍
+Update;പരിഷ്കരിയ്ക്കുക
+Update…;പരിഷ്കരിയ്ക്കുക…
+Upgrade;പരിഷ്കരിക്കുക
+Uploading…;അപ്‌ലോഡ് ചെയ്യുന്നു…
+Urdu;ഉര്‍ദു
+Uruguay;യുറുഗ്വേ
+Use;ഹാനികരമാകുന
+User;വേരിസൈന
+Username;ഉപയോക്തൃനാമം 
+Uzbek;ഉസ്ബക്‌ 
+Uzbekistan;ഉസ്ബെക്കിസ്ഥാന്‍
+V;V
+VALID;വാലിഡ്‌
+VISCII;VISCII
+VK_F;VK_F
+VK_QUOTE;VK_QUOTE
+VK_SEMICOLON;VK_SEMICOLON
+VK_SLASH;VK_SLASH
+VPS;VPS
+Valid;വാലിഡ്‌ 
+Validity;കാലാവധി
+Value;മൂല്ല്യം
+Values;മൂല്യങ്ങള്‍
+Vanuatu;വനൌടു
+Variables;വേരിയബിള്‍
+Venda;വേന്‍ഡ
+Venezuela;വെനസ്വേല 
+Verde;ഡെ
+Verifying;ഉറപ്പാക്കുന്നു
+Verifying…;ഉറപ്പാക്കുന്നു…
+Verisign;ടിസുകള
+Version;പതിപ്പു്
+Version;വേര്‍ഷന്‍ 
+Video;വീഡിയോ
+Vietnam;വിയറ്റ്നാം
+Vietnamese;വിയറ്റ്നമീസ്‌
+View;കാണുക
+View;കാഴ്ച
+View;കാണുക 
+Viewport;tag
+Views;കാഴ്ചകള്‍
+View…;കാണുക
+View…;കാണുക 
+Virgin;ജിന
+Visual;വിഷ
+Volapük;വോവ്ലപൈക്ക്‌ 
+Volume;ശബ്ദം
+WARNINGS;WARNINGS
+Wait;കാത്തിരിക്കൂ
+Waiting;കാത്തിരിയ്ക്കുന്നു
+Waiting…;കാത്തിരിയ്ക്കുന്നു…
+Walloon;വലൂണ്‍
+Warn;കീത
+Warning;മുന്നറിയിപ്പ്
+Warning;മുന്നറിയിപ്പു്
+Warnings;മുന്നറിയിപ്പുകള്‍
+Warnings;മുന്നറിയിപ്പുകള്‍ 
+Watch;നിരീക്ഷിക്കുക
+Watches;വാച്ചുകള്‍
+Waterfall;വാട്ടര്‍ഫാള്‍
+We;ബു
+Web;തിരയുംബോള
+WebGL;WebGL
+WebIDE;WebIDE
+WebIDL;WebIDL
+WebRTC;ടിസി
+WebSockets;വെബ്സോക്കറ്റുകള്‍
+Webmaker;വെബിനെ
+Website;വെബ് സൈറ്റ് 
+Wed;ബുധന്‍
+Wednesday;ബുധനാഴ്ച
+Week;ആഴ്ച
+Welcome;സ്വാഗതം
+Well;പരിപ
+Welsh;വെല്‍ഷ്‌
+Western;വെസ്റ്റേണ്‍ 
+What;രൗസറിനെ
+Who;സഹായികള
+WiFi;വൈഫൈ
+Width;വീതി
+Win;Win
+Window;ജാലകം
+Windowopen;Windowopen
+Windows;Windows
+Wizard;വിസാര
+Wolof;വോവ്‌ളോഫ്‌
+Work;ജോലി
+Worker;വര്‍ക്കര്‍
+Workers;വര്‍ക്കറുകള്‍
+Would;നതിൽ
+Wrap;ഒതുക്കുക 
+Write;Write
+Writing;എഴുത
+Wrote;എഴുതിയിരിക
+X;X
+XHR;എക്സ്എച്ആര്‍
+XHTML;XHTML
+XML;എക്സ് എം എല്‍
+XMLHttpRequest;XMLHttpRequest
+XPConnect;XPConnect
+XPath;XPath
+XUL;യുഎല
+Xhosa;ക്‌സ്‌ഹോസ
+Yahoo;Webdunia Search
+Yemen;യെമന്‍
+Yes;അതെ
+Yes;ഉവ്വ്
+Yes;ഉവ്വു്
+Yesterday;ഇന്നലെ
+Yi;യി
+Yiddish;യിദ്ദിഷ്‌
+Yoruba;യൊറുബ
+You;നിങ്ങള്‍
+Your;ലയ
+Zambia;സാംബിയാ
+Zhuang;സുവാങ്ങ്‌ 
+Zimbabwe;സിംബാബ്‌വെ
+Zone;നയപ
+Zoom;വലിപ്പം മാറ്റുക
+Zoom;വ്യാപ്തി മാറ്റുക
+Zoom;വലുതാക്കുക
+Zulu;സുളു
+a powerful;a powerful
+a premium;a premium
+a processor;a processor
+a promise;a promise
+a protocol;a protocol
+a recursion;a recursion
+a reimPacifined;a reimPacifined
+a requestAnimationFrame;a requestAnimationFrame
+a rich;a rich
+a scam;a scam
+a searchable;a searchable
+a second;a second
+a shorter;a shorter
+a single;a single
+a smart;a smart
+a smartcard;a smartcard
+a smiley face;a smiley face
+a smiley;a smiley
+a solution;a solution
+a sound;a sound
+a specific;a specific
+a star;a star
+a stronger;a stronger
+a subgrid;a subgrid
+a suggestion;a suggestion
+a surprised;a surprised
+a surrogate;a surrogate
+a syncBrandfxAccountlabel;a syncBrandfxAccountlabel
+a temporary;a temporary
+a theme;a theme
+a themed look;a themed look
+a tongueout;a tongueout
+a tray;a tray
+a unique;a unique
+a user &apos;a user &apos
+a value;a value
+a violation;a violation
+a virus;a virus
+a waterfall;a waterfall
+a weak ephemeral DiffieHellman;a weak ephemeral DiffieHellman
+a weather;a weather
+a week;a week
+a windowed;a windowed
+a wink;a wink
+a year;a year
+a yelling;a yelling
+a;തെരയുവാനുള
+aChoose;aChoose
+aFrames;aFrames
+aKnow;aKnow
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abhorred;abhorred
+abilities;abilities
+able;ടമായാല
+abort;abort
+aborted;aborted
+about About;about About
+about Networking;about Networking
+about Us;about Us
+about brandShorterName;about brandShorterName
+about;കളയാന
+aboutconfig;കോണ്‍ഫിഗിനെ കുറിച്ച്‌
+aboutcredits;aboutcredits
+aboutrights;aboutrights
+aboutwebrtc;aboutwebrtc
+above;above
+aboveAllow;aboveAllow
+abruptly;abruptly
+absence;absence
+absolute positioning;absolute positioning
+absolute;absolute
+accel;accel
+accelalt;accelalt
+acceleration on;acceleration on
+acceleration;acceleration
+accelshift;accelshift
+accented;accented
+accept;accept
+acceptable;acceptable
+acceptcharsetutf;acceptcharsetutf
+accepted;accepted
+accepting site &apos;accepting site &apos
+accepting;accepting
+access Key;access Key
+access multimedia;access multimedia
+access;access
+accessed;കൺസോളിൽ
+accessibility support;accessibility support
+accessibility tools;accessibility tools
+accessibility;accessibility
+accessible;accessible
+accessing;accessing
+accidental breakage;accidental breakage
+accidental;accidental
+accompanying;accompanying
+accomplished;accomplished
+accordance;അനുസാരേണ
+according;according
+account &apos;account &apos
+account Actions;account Actions
+account connected;account connected
+account name;account name
+account;അകൗണ
+accountManagernewAccountlabel;accountManagernewAccountlabel
+accounts;accounts
+accuracy;accuracy
+accurate;accurate
+acknowledges;acknowledges
+across;നിവയെല
+act;act
+action;action
+actions;actions
+activate;സജീവമാക
+activated;സജീവമാക്കിയിരിയ്ക്കുന്നു
+active Logins;active Logins
+active;active
+activity Indicator;activity Indicator
+activity Stream;activity Stream
+activity;കാനിടയുള
+actual Size;actual Size
+actual;actual
+actualDate &apos;actualDate &apos
+actualDate;actualDate
+actuarial;ആക്ച്വേറിയൽ
+adaptive;adaptive
+add Exception;add Exception
+add Hosted;add Hosted
+add Microsummary;add Microsummary
+add Option;add Option
+add Packaged;add Packaged
+add Search;add Search
+add permanent;add permanent
+add;ചേര
+addEventListener method;addEventListener method
+addEventListener;addEventListener
+added;ടതായതിനാല
+adding;adding
+additional;additional
+additivesymbols descriptor;additivesymbols descriptor
+additivesymbols;additivesymbols
+addon &apos;addon &apos
+addon;യുാന
+addons gallery;addons gallery
+addons;ഓണുകളെപ
+addonsmozillaorg;addonsmozillaorg
+address Autocompletion;address Autocompletion
+address Fields;address Fields
+address isn &apos;address isn &apos
+address wasn;address wasn
+address;നതുമൂലം
+addressbook;addressbook
+addressbr;addressbr
+addresses;addresses
+addressing area;addressing area
+addressing;addressing
+adjacent;adjacent
+adjust;adjust
+admin;admin
+administrator;ഉപ
+adult supervision;adult supervision
+adult;adult
+advance;advance
+advanced JavaScript;advanced JavaScript
+advanced;advanced
+advanced_pref_installation;advanced_pref_installation
+advancelabel;advancelabel
+advertise;advertise
+advertised;advertised
+advertises;advertises
+affect;affect
+affected;affected
+affecting;affecting
+after Sending;after Sending
+after;കലിനു
+again;again
+age;age
+agent;agent
+aggregate;aggregate
+aggregates;aggregates
+aggregating;aggregating
+aggregator;aggregator
+ago;കൂറുകള
+agree;agree
+agreement;agreement
+airplane;airplane
+aka NIST;aka NIST
+aka;aka
+alatest;alatest
+alert description;alert description
+alert;മുന്നറിയിപ്പു്
+algorithb;algorithb
+algorithm Parameters;algorithm Parameters
+algorithm;ഗോരിഥമാണ
+algorithmhash value;algorithmhash value
+algorithmhash;algorithmhash
+algorithms;algorithms
+alignment;alignment
+alined;alined
+alive;alive
+all candidate;all candidate
+all current;all current
+all htmlstrongTabs;all htmlstrongTabs
+all occurrences;all occurrences
+all;all
+allocate;allocate
+allocated;ജറ
+allocation;allocation
+allocations Rate;allocations Rate
+allocations;allocations
+allow dialogs;allow dialogs
+allow immediate;allow immediate
+allow;allow
+allowed;allowed
+allowfullscreen;allowfullscreen
+allowing;allowing
+allows;കുടുംബാഗങ
+allowsameorigin;സിംഗ
+allowscripts;allowscripts
+almost;almost
+along the Y;along the Y
+along;along
+alphabetical;alphabetical
+already bookmarked;already bookmarked
+already;തെതന
+also gives;also gives
+also skip;also skip
+also;also
+altKeylabel;altKeylabel
+alter;alter
+alteration;alteration
+altered;altered
+alternate;alternate
+alternatives;alternatives
+always Ask;always Ask
+always Block;always Block
+always prefer;always prefer
+always;ലായ
+am &#124;am &#124
+am;am
+amount;amount
+amp Security;amp Security
+amp;amp
+ampD;ampD
+ampP;ampP
+ampPT;ampPT
+ampT;ampT
+ampU;ampU
+amplecom rather;amplecom rather
+an IndexedDB transaction;an IndexedDB transaction
+an OPML;an OPML
+an XSLT;an XSLT
+an acceptable;an acceptable
+an alert;an alert
+an animatable;an animatable
+an attachment;an attachment
+an attempt;an attempt
+an element;an element
+an email;an email
+an embarrassed;an embarrassed
+an entirely;an entirely
+an executable;an executable
+an experiment;an experiment
+an external;an external
+an innocent;an innocent
+an instance;an instance
+an instant;an instant
+an integrated;an integrated
+an interprocess;an interprocess
+an item;an item
+an opaque;an opaque
+an opaqueredirect;an opaqueredirect
+an opportunity;an opportunity
+an overview;an overview
+an unbalanced;an unbalanced
+an undecided;an undecided
+an unrecognizable;an unrecognizable
+an;കേതികത
+analysis;analysis
+analyze;analyze
+ancestor elements;ancestor elements
+ancestor;ancestor
+ancestors;ancestors
+anchor &apos;anchor &apos
+anchor;anchor
+anchors;anchors
+and Antarctic;and Antarctic
+and Authentication;and Authentication
+and Barbuda;and Barbuda
+and Bottom;and Bottom
+and Caicos;and Caicos
+and Drop;and Drop
+and Find;and Find
+and Footer;and Footer
+and Futuna;and Futuna
+and Herzegovina;and Herzegovina
+and Indexer;and Indexer
+and Jan;and Jan
+and McDonald;and McDonald
+and Miquelon;and Miquelon
+and Nevis;and Nevis
+and Principe;and Principe
+and Quit;and Quit
+and Spacing;and Spacing
+and Symbols;and Symbols
+and Templates;and Templates
+and Tobago;and Tobago
+and Tutorials;and Tutorials
+and can &apos;and can &apos
+and compact;and compact
+and don &apos;t ask me about it
+and everything;and everything
+and forced;and forced
+and grew;and grew
+and htmlstrongWindows;and htmlstrongWindows
+and light;and light
+and pages they &apos;and pages they &apos
+and prioritize;and prioritize
+and receiving;and receiving
+and rowand;and rowand
+and technologies;and technologies
+and treating;and treating
+and you shouldn &apos;and you shouldn &apos
+and;ഓണുകളിലേക
+angle;കോൺ
+animatable;animatable
+animated;ആനിമേറ
+animation cycle;animation cycle
+animation;ആനിമേഷന്‍
+animation;ചലനചിത്രം
+animations;ആനിമേഷനുകളും
+annually;annually
+anonymous box;anonymous box
+anonymous;anonymous
+anonymous;അജ്ഞാതം
+anonymous;അപരിചിതം
+another;another
+answers;answers
+antivirus software;antivirus software
+antivirus;antivirus
+any applicable;any applicable
+any arguments;any arguments
+any article;any article
+any automation;any automation
+any indirect;any indirect
+any matching;any matching
+any;പോളിസിയും
+anymore;anymore
+anyone;anyone
+anypolicy;പോളിസിയുമുണ
+anything;anything
+anyway;anyway
+anywhere;anywhere
+apart;apart
+app &apos;app &apos
+app submission;app submission
+app;രയോഗെ
+appName;appName
+appear;appear
+appearance wrong;appearance wrong
+appearance;appearance
+appears;appears
+append;append
+applicable service;applicable service
+applicable;applicable
+application Basics;application Basics
+application Details;application Details
+application doesn &apos;application doesn &apos
+application;പ്രയോഗം
+applications;applications
+applied;applied
+applies;applies
+apply;apply
+applying update;applying update
+applying;applying
+appoffline;appoffline
+appreciate;appreciate
+approach;approach
+appropriate intermediate;appropriate intermediate
+appropriate;appropriate
+approved;approved
+approx;approx
+approximate line;approximate line
+approximate;ലുലാര
+approximation;approximation
+apps &apos;apps &apos
+apps;കകരണങ
+apr &#124;apr &#124
+apr;apr
+april;april
+arbitrary;arbitrary
+archive;archive
+archived folders;archived folders
+archived;archived
+archives;archives
+archiving;archiving
+are compromised;are compromised
+are correct;are correct
+are doing;are doing
+are estimates;are estimates
+are governed;are governed
+are grouped;are grouped
+are inlined;are inlined
+are labeled;are labeled
+are nonASCII;are nonASCII
+are omitted;are omitted
+are publicly;are publicly
+are ready;are ready
+are trademarks;are trademarks
+are you sure;are you sure
+are;ഷനാണുപയോഗിയ
+area shape;area shape
+area;area
+areas in;areas in
+areas;areas
+aren &apos;aren &apos
+aren;aren
+argument;argument
+arguments for;arguments for
+arguments;arguments
+arising out;arising out
+arising;arising
+arjo;arjo
+armscii ISO ISO ISO;armscii ISO ISO ISO
+armscii;armscii
+around;around
+arrive;arrive
+arrived;arrived
+arrives;arrives
+arrow;arrow
+arsa;arsa
+article summary;article summary
+article;ലേഖനം
+articles;articles
+artwork;artwork
+as &apos;as &apos
+as Authored;as Authored
+as broken;as broken
+as cURL;as cURL
+as certified;as certified
+as differing;as differing
+as graphics;as graphics
+as phishing;as phishing
+as soon as;as soon as
+as spam;as spam
+as strongww;as strongww
+as;അസാധുവായി
+ascending;ascending
+ascii;ascii
+ash;ash
+asis &quot;asis &quot
+asis;asis
+ask me;ask me
+ask;ask
+asked questions tips;asked questions tips
+asked;asked
+asking;asking
+asks that;asks that
+asks;പുരോഗമനത
+aspect ratio;aspect ratio
+aspect;aspect
+aspects;aspects
+assets;assets
+assist you;assist you
+assist;assist
+assistance;assistance
+associated;രാമുമായി
+association;association
+assume;assume
+assured;assured
+asterisk;പടേണ
+async touch;async touch
+async;async
+asynchronous Pan;asynchronous Pan
+asynchronous entity;asynchronous entity
+asynchronous;asynchronous
+asynchronouslyloaded;asynchronouslyloaded
+at S;at S
+at least;at least
+at span id &apos;at span id &apos
+at;at
+atchMore than;atchMore than
+atrule;atrule
+attach;attach
+attached;attached
+attaching;attaching
+attachment Reminder Keywords;attachment Reminder Keywords
+attachment Reminder;attachment Reminder
+attachment attachments;attachment attachments
+attachment reminder words;attachment reminder words
+attachment;attachment
+attachmentDo;attachmentDo
+attachments;attachments
+attack An;attack An
+attack pages;attack pages
+attack;attack
+attacker could;attacker could
+attacker;attacker
+attackers;attackers
+attacks;രമണങ
+attempt;attempt
+attempted old;attempted old
+attempted;attempted
+attempting;രതയിലായിരിക
+attempts;attempts
+attend;attend
+attendance;attendance
+attendee;attendee
+attendees;attendees
+attention;attention
+attribute Type;attribute Type
+attribute;സവിശേഷതയിൽ
+attributes &apos;attributes &apos
+attributes;attributes
+audio Backend;audio Backend
+audio;ദവും
+aug &#124;aug &#124
+aug;aug
+august;august
+authenticate to;authenticate to
+authenticate;അവസാനപോയിന
+authenticates;authenticates
+authentication mechanism;authentication mechanism
+authentication;authentication
+authenticity;authenticity
+author;author
+authorities;ഒതോറിറ
+authority is;authority is
+authority;അധികാരി
+authorization;authorization
+authorized;സൈനറിനു
+authors whom;authors whom
+authors;രചിതാക
+auto Increment;auto Increment
+auto Prettify;auto Prettify
+auto Save;auto Save
+auto discover;auto discover
+auto;auto
+autoAddOnsUpdateslabel;autoAddOnsUpdateslabel
+autocomplete;autocomplete
+autocompletion;വയംപൂര
+autodetection;autodetection
+autofill;autofill
+automated updates;automated updates
+automated;automated
+automatic updates;automatic updates
+automatic;തനിയെയുള
+automatically Black;automatically Black
+automatically detects;automatically detects
+automatically prefill;automatically prefill
+automatically so it &apos;automatically so it &apos
+automatically;automatically
+automation;ഓ
+autoplay;autoplay
+autoscrolling;autoscrolling
+available &quot;available &quot
+available Commands;available Commands
+available;രിയകളും
+average;ശരാശരി
+avg;ശരാശരി
+avoid;avoid
+aware;aware
+away;എവേ
+axis;axis
+b;നോടു
+bEven;bEven
+bS;bS
+back facing;back facing
+back;back
+backed up;backed up
+backed;backed
+backfacevisibility hidden;backfacevisibility hidden
+backfacevisibility;backfacevisibility
+background;background
+backlogged;backlogged
+backslashes;backslashes
+backup;backup
+backups;backups
+backwards;backwards
+bad parameter;bad parameter
+bad;bad
+badge;badge
+baggage object;baggage object
+baggage;baggage
+ban;ban
+banks stores;banks stores
+banks;banks
+banned;banned
+banner;ബാനര്‍
+bar;bar
+barada;ലാഡു
+base;base
+base;ബെയിസ്
+based;based
+baseline;baseline
+basic Page;basic Page
+basic;basic
+battery;battery
+be applied;be applied
+be aware;be aware
+be cleared;be cleared
+be deceptive;be deceptive
+be delivered;be delivered
+be experiencing;be experiencing
+be fixed;be fixed
+be highlighted &apos;be highlighted &apos
+be liable;be liable
+be linked;be linked
+be overwritten;be overwritten
+be parsed;be parsed
+be prompted;be prompted
+be safe;be safe
+be seen;be seen
+be shownReplies;be shownReplies
+be synced;be synced
+be unescaped;be unescaped
+be uninstalled;be uninstalled
+be unstable;be unstable
+be useful;be useful
+be validated;be validated
+be very careful;be very careful
+be;രിങുകളിലുള
+bear the;bear the
+bear;bear
+beast;beast
+beasts brought emfire;beasts brought emfire
+beasts;beasts
+beautifier;ടിഫയര
+beautify;prettify
+became full;became full
+became;became
+because;ടോകോളുകളിൽ
+become;become
+becomes damaged;becomes damaged
+becomes;becomes
+been deactivated;been deactivated
+been navigated;been navigated
+been reestablished;been reestablished
+been replaced;been replaced
+been revoked;been revoked
+been transferred;been transferred
+been translated;ഭാഷയില
+been;been
+beep;beep
+before;before
+began;began
+begin;begin
+beginning;beginning
+begins with;begins with
+begins;begins
+behalf;behalf
+behavior;കാണുവോനോ
+behaviour;behaviour
+behavioural;behavioural
+being incompletely transferred;being incompletely transferred
+being redirected;being redirected
+being reparsed;being reparsed
+being;being
+believe;believe
+believed;believed
+belongs to;belongs to
+belongs;റേതാണ
+below;താഴെയുള
+benefit;benefit
+benefits;benefits
+beside;beside
+best Match;best Match
+best accomplished;best accomplished
+best;best
+better;better
+between;ഇടയില
+bfor Android;bfor Android
+bgt;bgt
+bidirectional;bidirectional
+big;big
+bigger;bigger
+billing;billing
+binary;ബൈനറി
+bind DN;bind DN
+bind;bind
+binding shadows;binding shadows
+binding;binding
+bindings tag;bindings tag
+bindings;bindings
+bird;bird
+birdcage …;birdcage …
+birdcage;birdcage
+birth;birth
+bit keys;bit keys
+bit;bit
+bitrate;bitrate
+bits;bits
+bitten;പുറകുവശങ
+black;black
+blank;കാലി
+blank;ശൂന്യം
+block Lists;block Lists
+block padding;block padding
+block;തടയാനായി
+blockAttackSiteslabel &quot;blockAttackSiteslabel &quot
+blockAttackSiteslabel;blockAttackSiteslabel
+blockWebForgerieslabel;blockWebForgerieslabel
+blocked Popups;blocked Popups
+blocked;തടഞ
+blocking;യാനിടയുള
+blocks parts;blocks parts
+blocks;blocks
+blue &quot;blue &quot
+blue;blue
+bm;bm
+bmp;bmp
+board;board
+bodies;bodies
+body;Responseclone
+book;book
+bookmark updated;bookmark updated
+bookmark;bookmark
+bookmarked;ടുളളത
+bookmarks;അടയാളക്കുറിപ്പുകള്‍
+books;books
+boolean;ബൂളിയന്‍
+bootloader;bootloader
+border &apos;border &apos
+border radius;border radius
+border;അതിര്
+borders;borders
+bot;bot
+both;both
+bottom;താഴെ
+bound;bound
+boundaries;boundaries
+bounds;bounds
+box Model;box Model
+box model region;box model region
+box model;box model
+box;box
+box;പെട്ടി
+boxcom;boxcom
+boxed;boxed
+boxes;Boxes
+boxing;boxing
+br;br
+brace;brace
+braces;രെയിസുകളുടെ
+brackets;brackets
+brand new;brand new
+brand profile;brand profile
+brand;brand
+brandFullName Credits;brandFullName Credits
+brandFullName;brandFullName
+brandShortName &apos;s Preferences
+brandShortName Preferences;brandShortName Preferences
+brandShortName logo;brandShortName logo
+brandShortName;brandShortName
+brandShorterName Tour;brandShorterName Tour
+brandShorterName;brandShorterNameല
+brandShortname;brandShortname
+break;break
+breakage;തകരാറ
+breaking;breaking
+breakpoint;breakpoint
+breakpoints;breakpoints
+breaks;breaks
+brighter;brighter
+bring;ലം
+broad;broad
+broken;വി
+brought;brought
+browse;പരതുക
+browser &apos;browser &apos
+browser Hangs;browser Hangs
+browser configurations;browser configurations
+browser;രൌസറിലുള
+browsercachediskenable to;browsercachediskenable to
+browsercachediskenable;browsercachediskenableനെ
+browsers;browsers
+browsing;browsing
+brulliIf;brulliIf
+btn;btn
+buddy list;buddy list
+buddy;buddy
+budget;budget
+buffer capacity;buffer capacity
+buffer;താകൃതിയിലുള
+bug;bug
+bugs visit;bugs visit
+bugs;bugs
+bugzillamozillaorg;bugzillamozillaorg
+build Configuration;build Configuration
+build;build
+building summary;building summary
+built;വെയറാണു
+builtin Roots;builtin Roots
+builtin tools;builtin tools
+builtin;builtin
+bulleted list;bulleted list
+bulleted;bulleted
+business;business
+busy;കിലാണ
+but we;but we
+but;ഡുകളെ
+button button;button button
+button;ബട്ടണ്‍
+buttons;buttons
+by Added;by Added
+by COLNAME;by COLNAME
+by Parental;by Parental
+by YandexTranslate;by YandexTranslate
+by choosing &apos;by choosing &apos
+by comma;by comma
+by completion;by completion
+by design;by design
+by entering;by entering
+by integrating;by integrating
+by navigatormediaDevicesgetUserMedia;by navigatormediaDevicesgetUserMedia
+by price;by price
+by probing;by probing
+by relevance;by relevance
+by remembering;by remembering
+by vendorShortName;by vendorShortName
+by xslmessage;by xslmessage
+by;മാനേജറിലേക
+bynbspdesign;bynbspdesign
+byte;byte
+bytes;ബൈറ്റുകള്‍
+c;c
+cSrS;cSrS
+cURL;cURL
+cache management;cache management
+cache;പരിമിധി
+cachecontrol set;cachecontrol set
+cachecontrol;cachecontrol
+cached;cached
+cachemanifest;cachemanifest
+caching of;caching of
+caching;caching
+calendar Weeks;calendar Weeks
+calendar;calendar
+calendaring information;calendaring information
+calendaring;calendaring
+calendars;calendars
+calendartimezonesxpi;calendartimezonesxpi
+call Stack;call Stack
+call calls;call calls
+call;രിങില
+callUrl;callUrl
+callback;കിയിരുന
+called &apos;called &apos
+called;ഡുണ
+callees;callees
+caller;സംസാരിച
+calling detach;calling detach
+calling;NodeIteratorല
+calls;കോളുകള
+camera;യാമറ
+can &apos;t
+can analyze;can analyze
+can collect;can collect
+can often;can often
+can ’;can ’
+can;പുനഃപരിശോധിയ
+cancel;cancel
+canceled Occurrences;canceled Occurrences
+canceled;പോകണം
+cancellation;cancellation
+cancelled;cancelled
+cancelledAddon;cancelledAddon
+candidate resources;candidate resources
+candidate;candidate
+cannot Open;cannot Open
+cannot Setup;cannot Setup
+cannot Show;cannot Show
+cannot decrypt;cannot decrypt
+cannot encode;cannot encode
+cannot;തിലായതിനാല
+canvas Debugger;canvas Debugger
+canvas an;canvas an
+canvas;കാന്‍വാസ്
+capabilities;capabilities
+capable;capable
+capacity;capacity
+capitalization;capitalization
+caption;തലക്കെട്ട്
+capture;capture
+captureEvents;captureEventsന
+captured log;captured log
+captured;captured
+card;card
+cards copied;cards copied
+cards etc;cards etc
+cards;cards
+care;care
+careful;careful
+carefully;carefully
+caret;caret
+carriage return;carriage return
+carriage;യേജ
+carrier;carrier
+case sensitivity;case sensitivity
+case;case
+caseinsensitive;caseinsensitive
+cases;cases
+cast;cast
+categories;categories
+categorize and;categorize and
+categorize;categorize
+category;category
+categorySource;categorySource
+cause;cause
+caused;caused
+causes;causes
+causing stability;causing stability
+causing;causing
+caution;Caution
+caveats;caveats
+cc;cc
+cd;cd
+cell border;cell border
+cell was;cell was
+cell;അറ
+cell;കളം
+cell;വരി
+cell;സെല്‍
+cells;cells
+cellular location;cellular location
+cellular;cellular
+census;census
+center footer;center footer
+center header;center header
+center;center
+centered;centered
+centerxcenteryradius;centerxcenteryradius
+centimeters;centimeters
+cert AIA;cert AIA
+cert Library;cert Library
+cert validation;cert validation
+cert;cert
+certain;certain
+certificSian;certificSian
+certificate;ഗോരിഥവുമായി
+certificates;ഗോരിഥങ
+ch;ch
+chain;ചെയിനിനൊപ
+character;ലവലില
+characters;characters
+chars;chars
+charset;charset
+check;തെരഞ്ഞെടുക്കുക
+checked;പരിശോധിയ്ക്കുക
+checked;പരിശോധിച്ചിരിയ്ക്കുന്നു
+children;ചിള
+choose;തീരുമാനിക
+chrome;മോഡിനുള
+circ;circ
+circle;വൃത്തം
+class;ളാസ
+clean;ഒഴിഞ
+clear;മായ
+clicked;ക്ലിക്ക് ചെയ്തിരിയ്ക്കുന്നു
+clipboard;തണമോ
+close;അടയ്ക്കുക
+closed;അടച്ചിരിയ്ക്കുന്നു
+closes;തുംബോള
+closing;ലോസിങ
+codebreakpadreportURL;codebreakpadreportURL
+collapse;കൊളാപ
+collapsed;കൊളാപ്സ് ചെയ്തിരിയ്ക്കുന്നു
+collection;ബേജ
+collective;collective
+color;നിറം
+colors;റമിലുള
+column;നിര
+combinator;പിനേറ
+combo;കോംബോ
+command;ES
+commands;ഡുകളിലും
+comment;ഡിന
+common;common
+community;തികളുള
+compatible;ചതല
+compile;കംപൈല
+complementary;കോംപ്ലിമെന്ററി
+complete;തീരത
+compliance;റേഡ
+components;ഞെടൂക
+compression;രിതിയിലുള
+compromised;ടതാണെങ
+computers;കംമ
+conbv;conbv
+condition;ഥയ
+conditional;ടീഷണല
+configurable;ക്രമീകരിയ്ക്കുവാന്‍ സാധ്യമായ
+configuration;റമികരണത
+configurations;configurations
+configure;രമീകരിയ
+configured;രമികരിക
+conflict;conflict
+confusing;തതയുണ
+connected;ടാബിലേക
+connecting;വറുകളുമായി
+connection;ധം
+connects;പെടണമെന
+consequential;consequential
+console;സോളിലേക
+consoles;മിങ
+contact;സറ
+contain;വൈറസുകളുണ
+contains;ടമാകാവുന
+content;ഉള്ളടക്കം
+contents;ളവയില
+context;റിലെ
+continue;യമെങ
+contributors;സംഭാവന ചെയ്തവരുടെ 
+control;തിലായും
+cookie;cookie
+cookies;കുക്കികള്‍ 
+coordinate;കോറ
+coords;coords
+copied;പകര്‍ത്തിയിരിയ്ക്കുന്നു
+copies;പുകളൊടെ
+copy;പകര
+correct;നാകുന
+could;ഉപയോഗപെടുത
+couldn &apos;t
+counterstyle;counterstyle
+coverage;കവറേജ
+cpnbv;cpnbv
+cpnbw;cpnbw
+crash;തകരാറിനെപ
+create;ടാനുസൃതമുള
+credentials;യോഗ
+css;css
+ctnbr;ctnbr
+ctnbv;ctnbv
+curly;കേടു
+current;പഴയതാണു
+cursor;ങുവാന
+curve;ഘവൃത
+custom;ഛാനുസൃതം
+customizations;നവയും
+cycled;സൈക്കിളില്‍
+damages;damages
+darkness;darkness
+data;കണിനു
+database;റാബെയിസില
+datareporting;datareporting
+date;തിയ്യ‌‌തി
+day;day
+daydays;ദിവസംദിവസങ്ങള്‍
+days;ദിവസങ
+deactivated;ജീവമാണു
+debugger;ഗര
+decision;തീരുമാനം
+declaration;ഡിക
+declared;declared
+decompressing data Corrupted installer;റോളറില
+default;സ്വതവേയുള്ള
+definition;നിര്‍വചനം
+definition;നിഷ്കര്‍ഷിയ്ക്കുക
+degrees;ഡിഗ
+delay;താമസം
+delete;ഈയിടെയുള
+deleted;റബെയിസ
+den;den
+denied;സിച
+denominator;ഛേദം
+depend;ബാധകമല
+deprecated;തിരിയിക
+descriptor;വിശദീരണം
+designed;പന
+destroyed;നശിപ
+detection;UA
+developermozillaorg;developermozillaorg
+device;ഥയുടെ
+devtoolsdebuggerremoteenabled;devtoolsdebuggerremoteenabled
+diagram;രേഖാചിത്രം
+dialog;ഡയലോഗ്
+dialogs;ഡയലോഗുകള
+didn;ളുടെ
+different;അതീവ
+digitallysigned;റലായി
+dimensions;താരങ
+direction;rtl
+disable;പ്രവര്‍ത്തന രഹിതമാക്കുക
+disabled;പ്രവര്‍ത്തന രഹിതം
+disabling;റുകളിലേക
+disclaim;disclaim
+disclaimer;disclaimer
+disk;ഡിസ
+display;തുണക
+displayed;സോളിനു
+displays;യേകതകൾ
+div;div
+division;ഡിവിഷൻ
+do;do
+docs;രേഖകള്‍
+document;രേഖ
+documentation;വിവരണക്കുറിപ്പു്
+documentdomainS;documentdomainSനുള
+documentload;documentloadന
+does;റാഡാറ
+doesn &apos;t exist
+doesn;ഞാതനാക
+doing;തേയും
+dollars;dollars
+domain;ഡൊമെയിനുള
+don &apos;t have sufficient disk space
+don;യാതിരിക
+door;കതു
+downloading;ഡൌണ്‍ലോഡ് ചെയ്യുന്നു
+downloads;ഡൗണ്‍ലോഡുകള്‍
+draw;രോ
+draws;രോകള
+driver;രൈവറിന
+due;IndexedDB
+dump;ഡംപ
+duplicate;പായ
+duplicates;ണവുമായി
+during;Sഇലേക
+dwndiagstrike;dwndiagstrike
+e;e
+each;ഡിവൈസിനും
+ease;പുനരുപയോഗിക
+easy;ഷിതവുമായ
+edit;ടപെടുത
+editing;ചിട്ടപ്പെടുത്തുക
+effect;effect
+eg;ഉദാ
+eight;eight
+eightbit;eightbit
+eighteen;eighteen
+eighteenth;eighteenth
+eighth;eighth
+either;either
+elapsed;elapsed
+elea reime;elea reime
+element;എലമെന്റ്
+elementdataset instead;elementdataset instead
+elementdataset;elementdataset
+elements;elements
+elementsetAttribute instead;elementsetAttribute instead
+elementsetAttribute;elementsetAttribute
+elementsetAttributeNS instead;elementsetAttributeNS instead
+elementsetAttributeNS;elementsetAttributeNS
+eleven;eleven
+eleventh;eleventh
+eligible;eligible
+elliptic Curve;elliptic Curve
+elliptic curve conbv;elliptic curve conbv
+elliptic curve cpnbv;elliptic curve cpnbv
+elliptic curve cpnbw;elliptic curve cpnbw
+elliptic curve ctnbv;elliptic curve ctnbv
+elliptic curve primev;elliptic curve primev
+elliptic curve;elliptic curve
+elliptic;ദീര
+else contact;else contact
+else;else
+em;em
+emMammon;emMammon
+email Recipient;email Recipient
+email Scams;email Scams
+email address;email address
+email addresses;email addresses
+email correspondent;email correspondent
+email;ഈമെയില്‍
+emailI &apos;emailI &apos
+emailI;emailI
+emailed;emailed
+emailexamplecom;emailexamplecom
+emails;emails
+emand;emand
+embarrassed face;embarrassed face
+embarrassed;embarrassed
+embarrassing;embarrassing
+embed;embed
+embedded PDF;embedded PDF
+embedded;embedded
+embeds;embeds
+emcontributor emcontributorSuzy / emcontributor;emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon;emcontributor emcontributorSuzy Solon
+emcontributor;emcontributor
+emcontributorJoe Solon;emcontributorJoe Solon
+emcontributorJoe;emcontributorജോ
+emcontributorSuzy;emcontributorസൂസി
+emfire;emfire
+emgreat;emgreat
+emnew;emnew
+emother;emother
+emoticons;emoticons
+employer;employer
+empty Trash;empty Trash
+empty slots;empty slots
+empty;empty
+emptying;emptying
+emreborn;emreborn
+emrenewed;emrenewed
+emswiftly;emswiftly
+emthunder;emthunder
+emtwins;emtwins
+emulate a;emulate a
+emulate;emulate
+emulating a;emulating a
+emulating;emulating
+emulation;അനുകരണം
+en;en
+enUS en;mlin ml
+enUS;ml
+enable brandShortName &apos;enable brandShortName &apos
+enable others;enable others
+enable worker;enable worker
+enable;പ്രവര്‍ത്തന സജ്ജമാക്കുക 
+enablePersonalizedlabel;enablePersonalizedlabel
+enablePrivilege;enablePrivilege
+enableSafeBrowsinglabel;enableSafeBrowsinglabel
+enabled Plugins;enabled Plugins
+enabled excluding;enabled excluding
+enabled;വതേ
+enables;enables
+enbz;enbz
+enclosed;അടങ്ങിയിരിക്കുന്നു
+enclosed;അടച്ചിരിയ്ക്കുന്നു
+encode;encode
+encoded;encoded
+encoder;encoder
+encoding;xuserdefined
+encodings;encodings
+encountered;ഷയെ
+encrypt this;encrypt this
+encrypt;encrypt
+encrypted you;encrypted you
+encrypted;ഒരോന
+encryption;encryption
+enctype instead;enctype instead
+enctype;enctype
+enctypeS;enctypeS
+enctypemultipart;enctypemultipart
+end user &apos;end user &apos
+end;റാഗിനു
+ended;ended
+endexpand;endexpand
+ending with;ending with
+ending;ending
+endpoint;endpoint
+ends up;ends up
+ends with;ends with
+ends;ends
+enforced;enforced
+engage;engage
+engine;ചിലുകള
+engines;ങളിലൊന
+enhanced;enhanced
+enjoy;അതിവേഗതയും
+enlarging the;enlarging the
+enlarging;enlarging
+enough;enough
+ensure;ensure
+ensures that;ensures that
+ensures;ensures
+enter;enter
+entered;entered
+entering;entering
+enters;enters
+entire;entire
+entirely;entirely
+entities;entities
+entity in;entity in
+entity reference;entity reference
+entity;റിയുടെ
+entries;കിരകളുടെ
+entry;എന്‍ട്രി
+enumerable;എന്യൂമറബിള്‍
+enus;enus
+environment Data;environment Data
+environment;വയണ
+environments;environments
+ephemeral DiffieHellman;ephemeral DiffieHellman
+ephemeral;ephemeral
+equals sign;equals sign
+equals;equals
+equation;സമവാക്യം
+equestAnimationFrame;equestAnimationFrame
+era of;era of
+erase;erase
+error console;error console
+error creating;error creating
+error refiling;error refiling
+error;പിശകുള
+errorCode;errorCode
+errorfree;errorfree
+errors;പിശകുകള്‍
+erver;erver
+es Salaam;es Salaam
+es;es
+esES;esES
+esc;esc
+escape;escape
+escaped;escaped
+escaping;escaping
+establish;establish
+established;മുഴുമിപ
+estimates only;estimates only
+estimates;estimates
+etc;etc
+eval;eval
+evaluate selected;evaluate selected
+evaluate;evaluate
+evaluating a;evaluating a
+evaluating an;evaluating an
+evaluating;evaluating
+evaluation;evaluation
+even;even
+event Handler;event Handler
+event;event
+eventThe;eventThe
+events;events
+ever;ever
+every dayevery;every dayevery
+every weekevery;every weekevery
+every;every
+everyone;everyone
+everything inbetween;everything inbetween
+everything;everything
+everywhere;everywhere
+exact;exact
+exactly;exactly
+examf;examf
+examine your app &apos;examine your app &apos
+examine;examine
+example;ഉദാഹരണം
+examplecom rather;examplecom rather
+examplecom;examplecom
+examplenet;examplenet
+exceed five;exceed five
+exceed the;exceed the
+exceed;exceed
+exceeded;exceeded
+exceeds;exceeds
+except;except
+exception;exception
+exceptions Cookies;exceptions Cookies
+exceptions;exceptions
+exchange;തിനൊപ
+excluded;excluded
+excluding;excluding
+exclusion;exclusion
+executable;executable
+execute;execute
+executed to;executed to
+executed;executed
+executes;executes
+execution;execution
+exemplary;exemplary
+exist can &apos;exist can &apos
+exist;exist
+existing;existing
+exists;പൊഴേ
+existsWould;existsWould
+exit;ടുപോകണമെന
+exited;exited
+exits;exits
+expand panes;expand panes
+expand;expand
+expanded to;expanded to
+expanded;വികസിപ്പിച്ചിരിയ്ക്കുന്നു
+expanding out;expanding out
+expanding;expanding
+expands to;expands to
+expands;expands
+expandstrict;expandstrict
+expect anonymous;expect anonymous
+expect;expect
+expectations;expectations
+expected charset;expected charset
+expected coordinate;expected coordinate
+expected counter;expected counter
+expected identifier;expected identifier
+expected nonnegative;expected nonnegative
+expected part;expected part
+expected;expected
+expecting;expecting
+experience;അനുഭവം
+experienced;ജനറേറ
+experiences;experiences
+experiencing;experiencing
+experiment;ഷണമാണു
+experimental;experimental
+experiments;experiments
+expire;expire
+expired;കാലാവധി കഴിഞ്ഞത്
+expires Seconds;expires Seconds
+expires;expires
+expiry;expiry
+explicit;explicit
+explicitly specify;explicitly specify
+explicitly;explicitly
+exploit;exploit
+explore a;explore a
+explore;explore
+export regulations;export regulations
+export;ടിനൊപ
+exported;യാനോ
+expose;expose
+exposedProps;exposedProps
+express;express
+expression;expression
+expressions;expressions
+extend;extend
+extended;extended
+extending the;extending the
+extending;extending
+extends system;extends system
+extends;extends
+extensible;എക്സ്റ്റന്‍സിബിള്‍
+extension extensions;extension extensions
+extension;extension
+extensions;ഷനും
+external Editors;external Editors
+external storage;external storage
+external;അസിന
+extra Large;extra Large
+extra requirements;extra requirements
+extra;രാ
+extract error;extract error
+extract;രില
+extraction error;extraction error
+extraction;extraction
+extreme;extreme
+f;f
+face;face
+facing camera;facing camera
+facing;facing
+factory;factory
+fail;fail
+failed;പരാജയപ
+fails treat;fails treat
+fails;fails
+failure;ടതിനാല
+fallback;fallback
+false;false
+false;തെറ്റ്
+familiar;familiar
+family addressbr;family addressbr
+family;കുടുംബ
+far;far
+fast;fast
+faster;faster
+faves;faves
+faxed;faxed
+feature;വിശേഷതാ
+features;സവിശേഷതകളെ
+feb &#124;feb &#124
+feb;feb
+february;february
+feed &quot;feed &quot
+feed Subscriptions;feed Subscriptions
+feed;ഫീഡിലേക
+feedImported;feedImported
+feedback;feedback
+feeds;feeds
+feel;feel
+feels great;feels great
+feels;feels
+fell;fell
+fence;ഫെൻസ
+fetch count;fetch count
+fetch;fetch
+fetched from;fetched from
+fetched;fetched
+fetching individuals;fetching individuals
+fetching more;fetching more
+fetching;fetching
+few;അറിയേണ
+fewer;fewer
+ff &quot;ff &quot
+ff;ff
+field Value;field Value
+field;ഫീല
+fields;തിയിലൂടെ
+fifteen;fifteen
+fifteenth;fifteenth
+fifth;fifth
+fig;fig
+figure;ചിത്രം
+file &quot;file &quot
+file Attach;file Attach
+file Upload;file Upload
+file vcf;file vcf
+file };file }
+file;file
+filename;filename
+files;files
+filesystem;filesystem
+filing;filing
+fill out;fill out
+fill;fill
+fillStyle;fillStyle
+filled;filled
+filling;filling
+filter JSON;filter JSON
+filter Rules;filter Rules
+filter Variables;filter Variables
+filter event;filter event
+filter variables;filter variables
+filter;ഫില്‍റ്റര്‍
+filtered;filtered
+filtering;filtering
+filters;filters
+final;നതിനുമുൻപായി
+financial;financial
+find In;find In
+find exactly what you &apos;find exactly what you &apos
+find out what &apos;find out what &apos
+find;പവഴികളുപയോഗിച
+findbar;findbar
+finding;finding
+finetuned;finetuned
+finish;finish
+finished evaluating;finished evaluating
+finished;finished
+finishing;കിയതിനു
+fire;fire
+firefox;firefox
+firefoxapps;firefoxapps
+firewall;firewall
+firewalls;firewalls
+first option;first option
+first party;first party
+first;ആദ
+fit;fit
+five;five
+fix;പരിഹാരം
+fixed Width;fixed Width
+fixed width font;fixed width font
+fixed;fixed
+fixvideoaudioproblemsfirefoxwindows;fixvideoaudioproblemsfirefoxwindows
+flag;flag
+flagged;flagged
+flame;flame
+flash;flash
+flashing;flashing
+flat equation;flat equation
+flat;flat
+flexibility and security so you &apos;flexibility and security so you &apos
+flexibility;flexibility
+flexiblebr;flexiblebr
+floating &quot;floating &quot
+floating;floating
+floor;floor
+floppy;floppy
+flr;flr
+focus Variables;focus Variables
+focus;focus
+focused;focused
+folder &apos;folder &apos
+folder &quot;folder &quot
+folder subscriptions;folder subscriptions
+folder;ഡറിന
+folders;അറകൾ
+follow;follow
+followed by;followed by
+followed;followed
+followers;followers
+following protocols S isn &apos;following protocols S isn &apos
+following;കാമെന
+follows;follows
+followup;followup
+font Control;font Control
+font size;font size
+font;font
+fontface rule;fontface rule
+fontface;fontface
+fontfeaturevalues;നിയമിന
+fonts for;fonts for
+fonts;fonts
+fontvariant property;fontvariant property
+fontvariant;fontvariant
+footer text;footer text
+footer;അടിക്കുറിപ്പു്
+footinmouth face;footinmouth face
+footinmouth;footinmouth
+for &apos;for &apos
+for &quot;for &quot
+for Clearing;for Clearing
+for DTLS;for DTLS
+for Developers;for Developers
+for Legacy;for Legacy
+for ProductShortName;for ProductShortName
+for compressed stylesheets;for compressed stylesheets
+for compressed;for compressed
+for contributing;for contributing
+for decoding;for decoding
+for diagnostic purposes;for diagnostic purposes
+for iOS;for iOS
+for nonfunction;for nonfunction
+for premium;for premium
+for privileged;for privileged
+for quotbm;for quotbm
+for recipients &apos;for recipients &apos
+for signing;for signing
+for writing;for writing
+for;രയോഗമായി
+forbidden;forbidden
+force;ആഡോണുകളുടെ
+forced;forced
+forcibly;forcibly
+forcing all;forcing all
+forcing;forcing
+foreign;foreign
+forgeries;forgeries
+forgery;forgery
+forget;മറന
+forgetting;forgetting
+forgotten;ചെങ
+form Field;form Field
+form Post;form Post
+form fields;form fields
+form userhost;form userhost
+form;ഫോം
+form;ഭാഗം
+format;റിലാണു
+formatD;formatD
+formatI icon;formatI icon
+formatI;formatI
+formatS formatS;formatS formatS
+formatS;formatS
+formatSNew;formatSപുതിയ
+formats;formats
+formatted as;formatted as
+formatted;formatted
+formatting;formatting
+formdata on;formdata on
+formdata;formdata
+formed;formed
+forms are;forms are
+forms;forms
+forth and;forth and
+forth;forth
+forums;forums
+forward slashes;forward slashes
+forward;forward
+forwarded;forwarded
+forwardmsg;forwardmsg
+forwards;forwards
+found;ഭാവിയിലുള
+foundout of;foundout of
+foundout;foundout
+founds;founds
+four;four
+fourteen;fourteen
+fourteenth;fourteenth
+fourth;fourth
+fox jumps over your expectations with;fox jumps over your expectations with
+fox jumps;fox jumps
+fox;fox
+fps;എഫ്പിഎസ്
+frFR;frFR
+frac;frac
+fraction;ഘടകം
+fragment Shader;fragment Shader
+fragment;fragment
+frame &apos;frame &apos
+frame;രയിം
+framed;framed
+framerate;രേം
+frames;frames
+frameset;frameset
+framesets;framesets
+framing;framing
+fraud;fraud
+fraudulent;ഈമെയിലുകളും
+free;free
+frequently;frequently
+fresh;fresh
+friday &#124;friday &#124
+friday;friday
+fridays;fridays
+friend;friend
+friends;friends
+from Garbage;from Garbage
+from edge of paper to Margin;from edge of paper to Margin
+from hangs;from hangs
+from strongThe;from strongThe
+from the viewer reader &apos;from the viewer reader &apos
+from visited;from visited
+from;ഇവിടെ നിന്നും
+from;എവിടെ നിന്നും
+front facing;front facing
+front;front
+frown face;frown face
+frown;frown
+frozen;ഫ്രോസന്‍
+ftp;ftp
+ftpmyispcom;ftpmyispcom
+full;മുഴുവന
+fullfeatured;fullfeatured
+fullpage;റേയും
+fullscreen;മുഴുസ
+fully;fully
+function;function
+functional;functional
+functionality;ശൈലിയും
+functions;functions
+further;further
+future scans by;future scans by
+future;ആണുള
+fxp Available;fxp Available
+fxp;fxp
+gain;gain
+gallery;യാലറി
+garbage Collection;garbage Collection
+garbage collection;garbage collection
+garbage;ഗാര
+garbled text;garbled text
+garbled;garbled
+gateway;gateway
+gathering;gathering
+gazed;gazed
+gb;gb
+gdiplus;gdiplus
+gear icon;gear icon
+gear;ചക
+general Notification;general Notification
+general;general
+generally;generally
+generate a;generate a
+generate;generate
+generated;generated
+generation;generation
+generator;generator
+generic Photo;generic Photo
+generic;generic
+geoenabled preference;geoenabled preference
+geoenabled;geoenabled
+geolocation;geolocation
+geometric;geometric
+geometry visibility;geometry visibility
+geometry;geometry
+geostd;geostd
+get Involved;get Involved
+get Map;get Map
+get involved;get involved
+get me;get me
+get started;get started
+get;get
+getAttribute instead;getAttribute instead
+getAttribute;getAttribute
+getAttributeNS instead;getAttributeNS instead
+getAttributeNS;getAttributeNS
+getAttributeNode;getAttributeNode
+getAttributeNodeNS;getAttributeNodeNS
+getElementById;getElementByIdലേക
+getPreventDefault;getPreventDefault
+getReceivers instead;getReceivers instead
+getReceivers;getReceivers
+getRemoteStreams are;getRemoteStreams are
+getRemoteStreams;getRemoteStreams
+getUserData;getUserData
+getting Started;getting Started
+getting;getting
+getwebglorg;troubleshooting
+gif jpg;gif jpg
+gif;gif
+git commit&apos;git commit&apos
+git;git
+give feedback;give feedback
+give;give
+given;തകരാറുകള
+gives you;gives you
+gives;gives
+giving;giving
+glitches;glitches
+glob;glob
+global Composing;global Composing
+global community;global community
+global;ലോബൽ
+globals;globals
+go Back;go Back
+go;പോകുക
+goes;goes
+going online;going online
+going;going
+gone;gone
+good news;good news
+good;good
+goodwill;goodwill
+gopher;gopher
+gorithm Identifier;gorithm Identifier
+got it;got it
+got;got
+governed by;governed by
+governed;governed
+grace;grace
+grant;grant
+granted;granted
+grants you;grants you
+grants;grants
+graphic;ഗ്രാഫിക്ക്
+graphics;graphics
+great;great
+greater than;greater than
+greater;greater
+greeting;greeting
+grew more;grew more
+grew;grew
+grid;grid
+gridcell;ഗ്രിഡ്സെല്‍
+grip;ഗ്രിപ്പ്
+group;group
+grouped;grouped
+groups;groups
+gt;രോയിഡ
+gtgt;gtgt
+guarantee that;guarantee that
+guarantee;guarantee
+guaranteed;guaranteed
+guess;guess
+guessed;guessed
+guessing;guessing
+guest is;guest is
+guest;guest
+guide you;guide you
+guide;ലെന
+guides;ഗൈഡുകള
+h;h
+hTraduction;hTraduction
+ha;ha
+hacking;hacking
+had its;had its
+had;ടായതില
+half an;half an
+half past;half past
+half;half
+hand tool;hand tool
+hand;hand
+handle S;handle S
+handle;handle
+handled;handled
+handler command;handler command
+handler;handler
+handles;handles
+handling;handling
+hands;hands
+handshake;ഷെയിക
+handshakes;handshakes
+hang Report;hang Report
+hang stacks;hang stacks
+hang;hang
+hangs;ഹാങുകളില
+happened;happened
+happens;happens
+hard drive;hard drive
+hard;hard
+hardware H;hardware H
+hardware acceleration;hardware acceleration
+hardware;തലുകള
+harm;harm
+harmful;harmful
+has Attachments;has Attachments
+has bookmarked;has bookmarked
+has confirmed;has confirmed
+has delegated;has delegated
+has detected;has detected
+has determined;has determined
+has joined;has joined
+has suggested;has suggested
+has visually;has visually
+has;ആധികാരികതയില
+hash;ഹാഷ
+hashes in;hashes in
+hashes;ഹാഷും
+hashsource;hashsource
+hasn &apos;hasn &apos
+hasn;hasn
+have attempted;have attempted
+have been transferred;have been transferred
+have decided;have decided
+have gone down;have gone down
+have paused;have paused
+have seen;have seen
+have shiny;have shiny
+have;ചെറിയതായി
+haven &apos;haven &apos
+haven;haven
+haves;haves
+having trouble;having trouble
+having;having
+head;head
+header;ശീര്‍ഷകം 
+headers;ടുകളുടെ
+heading level;heading level
+heading;തലക്കെട്ട്
+headings;headings
+health;health
+heap;heap
+hear;hear
+height;ഉയരം
+held;held
+hello extension;hello extension
+hello;hello
+help;ഷിതനായിരിക
+helper;helper
+helpful;സഹായകരമായ
+helping make;helping make
+helping;helping
+helps ma;helps ma
+helps;helps
+her;her
+here;ഇവിടെ
+hidden;അദൃശ്യം
+hide Statistics;hide Statistics
+hide Toolbars;hide Toolbars
+hide;അദൃശ
+hiding;hiding
+high Grade;high Grade
+high;high
+higher level;higher level
+higher;higher
+highgrade;highgrade
+highlight;highlight
+highlighted;highlighted
+highlightedS nodes;highlightedS nodes
+highlightedS;highlightedS
+highlighter;highlighter
+highlighters;highlighters
+highly recommended;highly recommended
+highly;highly
+hightailcom;hightailcom
+him;him
+hints press;hints press
+hints;hints
+his or her;his or her
+his;his
+history window;history window
+history&apos;history&apos
+history;മുകളുടെയും
+hold;hold
+holds;holds
+home City;home City
+home Country;home Country
+home Phone;home Phone
+home directory don &apos;home directory don &apos
+home;home
+homepage;ഹോംപേജ
+hop limit;hop limit
+hop;hop
+horizontal lines;horizontal lines
+horizontal;തിരശ
+horror;horror
+host;host
+hosted;hosted
+hosting service;hosting service
+hosting;hosting
+hostname;hostname
+hostnameport;hostnameport
+hostnames;hostnames
+hostport;hostport
+hosts;hosts
+hotspots;hotspots
+hour;hour
+hourhours;മണിക്കൂര്‍മണിക്കൂറുകള്‍
+hours;hours
+how;സൂചികകള
+however;however
+href;href
+hrink;hrink
+hrpd;hrpd
+hstrike;hstrike
+htm;htm
+html &apos;html &apos
+html;html
+htmlstrong;htmlstrong
+htmlstrongCookies;htmlstrongCookies
+htmlstrongHistory;htmlstrongനാള
+htmlstrongTabs;htmlstrongടാബുകളും
+htmlstrongWindows;htmlstrongഅടക
+http Proxy;http Proxy
+http//;http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/;http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/;http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls;http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls;http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos;http//composemailyahoocom/Tos
+http//diggcom/reader/search/s;http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp;http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls;http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar;http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid;http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO;http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/;http//mozillaorg/themes/download/
+http//plugindocmozdevorg/;http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s;http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu;http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri;http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider;http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s;http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq;http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq;http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq;http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI;http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/;http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz;http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/;http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml;http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml;http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml;http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml;http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html;http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/;http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/;http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml;http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml;http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http;http
+https//composemailyahoocom/Tos;https//composemailyahoocom/Tos
+https//developermozillaorg/docs/Tools/CSS_Coverage;https//developermozillaorg/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions;https//developermozillaorg/docs/Web/Apps/App_permissions
+https//developermozillaorg/en/Tools/Scratchpad;https//developermozillaorg/en/Tools/Scratchpad
+https//mailgooglecom/mail/extsrcmailtourls;https//mailgooglecom/mail/extsrcmailtourls
+https//wwwmibbitcom/urls;https//wwwmibbitcom/urls
+https;https
+hue;നിറക്കൂട്ട്
+human;അനുവദികാനോ
+hundred;hundred
+iOS;ഐഓഎസ്
+id;id
+identifiers;റിഫയറുകള
+identify;മാരെ
+idle;നിര്‍ജ്ജീവം
+if;കൺസോളിലുള
+ignored;യയേക
+imgmap;imgmap
+imgurcom;യണമെങ
+impersonate;റാരോ
+implied;implied
+import;വഴികളും
+important;പ്രധാനപ്പെട്ട
+improperly;രീതിയിലല
+improve;ഭേദപെടുത
+in;ഇതിൽ
+inaction;അകര
+inches;ഇഞ്ചുകള്‍ 
+incidental;incidental
+includeSubDomains;includeSubDomains
+included;included
+indent;ഡന
+index;സൂചിക
+index;സൂചിക 
+indirect;indirect
+individual;ഓരോന
+ined;ined
+infinite;ചിതമായ
+infobar;മുകളിൽ
+information;മോസിലയിലേക
+inherit;inherit
+initial;initial
+initialize;രാരംഭിച
+inject;രറികൾ
+inline;വരിവരി ആയി
+inlineblock;inlineblock
+insecure;അപകടകരമാകുന
+inside;noscript
+install;ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
+installation;റലേഷനെപ
+installed;മൂലമാകാം
+installer;തകരാറില
+installing;ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു
+instance;കിയെല
+instead;പകരം
+instructions;instructions
+integer;ഇന്‍റിജര്‍
+intercepted;നേരിടുകയും
+interfaces;വപദവുമായിട
+interpreted;സൂചികയായി
+into;ളിലേക
+invalid;invalid
+is spanenabled;spanസജീവമാണ
+is;രതാപരിശോധനയ
+isindex;isindex
+isn &apos;t
+isn;ഫയലല
+issue;മുടെ
+issuer;പുറമേ
+issues;ഥിരത
+it;നിറയുകയും
+item;ഇനം
+its;its
+joining;സമൂഹവുമായി
+jslintstricter;jslintstricter
+jumped;ചാടുക
+jurisdictions;jurisdictions
+kb;kb
+keep;കിമാറ
+key;ഡൊമസ
+keyboard;ഡിനുള
+keyframes;കീഫ
+keyword;കീവേര
+know;അറിയാമെങ
+known;കാരണമാകുന
+label;ലേബല്‍
+language;language
+last;ചതിനാൽ
+late Write;Late Write
+late;വൈകി
+later;യമാകുകയില
+launched;ചതെങ
+law;law
+laws;laws
+learn;ഓൺലൈനിൽ
+leave;ചയായും
+left;ഇടതു്
+lefttoprightbottom;മുകള
+less;അതിലും
+let;വിനിമയതലവും
+lets;ബാറിലൂടെ
+lft;lft
+li;li
+liCheck;liപേഴ
+liMake;ങളുപയോഗിക
+liability;liability
+liable;liable
+library;ലൈബ
+licensors;licensors
+lifetime;കാലാവധിയ
+light;light
+lightness;ഇളം
+like;എഴുതാറുള
+limit;കാഷിനുള
+limitation;limitation
+line;വരിയിലുള
+link;കണ്ണി
+linked;തിയാല
+links;രദമായ
+list;പട്ടിക
+listed;പുനരാംരംഭിക
+lnk;മഷി
+loaded;ലഭ്യമാക്കിയിരിയ്ക്കുന്നു
+loading;ലഭ്യമാക്കുന്നു
+local;രാദേശിക
+localhost;localhost
+location;location
+locked;ലോക്ക്‌ ചെയ്തിരിക്കുന്നു
+log;ലോഗ്
+login;ലോഗിനായി
+logins;രവേശനവിവരങ
+logo;ലോഗോ
+long;വലുതാണ
+longdiv;longdiv
+longer;തതും
+looking;looking
+lost;കൈകടത
+love;ലേയില
+lt;lt
+ltr;ltr
+madruwb;madruwb
+main;പ്രധാനം
+make;ശരിയാണെന
+makers;മാതാക
+malformed;വികൃതമായ
+malicious;കെതിരെയാകുന
+manifest;തുത
+manifestjson;manifestjson
+manipulate;ലോഗിങ
+manual;മാന്വൽ വായിക്കുന്നത് തുടരാവുന്നതാണ്
+many;ഏറെ
+map;നതിനെ
+margin&apos;
+margin;അരിക്
+mark the;mark the
+marked;വാസമല
+marking a;marking a
+marking;marking
+markup;markup
+marquee;മാര്‍ക്യു
+masking;masking
+master;മാസ
+match;തരച
+matched by;matched by
+matched;matched
+matcheleatchMore than;matcheleatchMore than
+matches;നവ
+matching;സംവിധാനവുമായി
+matchutomatically;matchutomatically
+material;material
+math table;math table
+math;ഗണിതം
+matrix;matrix
+max;കൂടിയത്
+maxage;maxage
+maximum Length;maximum Length
+maximum permissible;maximum permissible
+maximum;maximum
+may discontinue;may discontinue
+may update;may update
+may;സമയമനുസരിച
+maybe;maybe
+mb of;mb of
+mb;mb
+mbox;mbox
+me out of here;me out of here
+me;me
+mean slower message;mean slower message
+mean;അനധികൃതമായി
+means you &apos;means you &apos
+means;means
+measure a portion;measure a portion
+measure a;measure a
+measure;measure
+measurements;measurements
+measuring;measuring
+mechanism;mechanism
+mechanisms;mechanisms
+media Sharing;media Sharing
+media;media
+medium;medium
+meet;meet
+member;member
+members;members
+membersonly;membersonly
+memory map;memory map
+memory measurements;memory measurements
+memory;മറിയുടെ
+mentioning;mentioning
+menu Bar;menu Bar
+menu bar;menu bar
+menu;മെനു
+menuPath;menuPath
+menus;menus
+merchantable;merchantable
+merge Warning;merge Warning
+merge all;merge all
+merge;merge
+mesh;mesh
+message Grouping;message Grouping
+message I &apos;message I &apos
+message Summary;message Summary
+message flag;message flag
+message panel;message panel
+message preview;message preview
+message templates;message templates
+message };message }
+message;തിനൊപ
+messageDone;messageDone
+messageIndexing;messageIndexing
+messageS;messageS
+messagebr;messagebr
+messagebrIn;messagebrIn
+messageeml;messageeml
+messagegt;messagegt
+messageid;messageid
+messages Reopen;messages Reopen
+messages;messages
+messaging;messaging
+meta;meta
+metadata;metadata
+metal posteriors;metal posteriors
+metal;metal
+metaviewport tag;metaviewport tag
+metaviewport;metaviewport
+meter;meter
+method &apos;method &apos
+method;മേഥേഡ
+methodGET;methodGET
+methodPOST and;methodPOST and
+methodPOST;methodPOST
+methodpost;methodpost
+methods;methods
+microphone;microphone
+microsummary;microsummary
+middle Eastern;middle Eastern
+middle;middle
+might;might
+migrate to;migrate to
+migrate your;migrate your
+migrate;migrate
+migrated;migrated
+millimeters;മില്ലിമീറ്ററുകള്‍
+millisecondPing;millisecondPing
+milliseconds;milliseconds
+mimetype of;mimetype of
+mimetype;മൈംതരവും
+min;കുറഞ്ഞത്
+mind;mind
+minheight;minheight
+minimonth;minimonth
+minimum;minimum
+minjs;minjs
+minor;minor
+mins;mins
+minute minutes;minute minutes
+minute;സമയമുണ
+minuteEvery;minuteEvery
+minuteminutes;മിനുട്ട്മിനുട്ടുകള്‍
+minutes ago;minutes ago
+minutes …;minutes …
+minutes;minutes
+minwidth em;minwidth em
+minwidth;minwidth
+misconfiguration;misconfiguration
+misconfigured;misconfigured
+misencoded;misencoded
+mismatch;mismatch
+mismatched tag;mismatched tag
+mismatched;mismatched
+missed reminders;missed reminders
+missed;missed
+missing Custom;missing Custom
+missing closing;missing closing
+missing mandatory;missing mandatory
+missing methodPOST;missing methodPOST
+missing;methodPOST
+misspelled word;misspelled word
+misspelled words;misspelled words
+misspelled;misspelled
+mistake;mistake
+mistakes;mistakes
+mistyped;mistyped
+mix;mix
+mixed;mixed
+mmultiscripts;mmultiscripts
+mobile;മൊബൈല
+mode and can &apos;mode and can &apos
+mode;മോഡില
+modegt;modegt
+model;model
+modelview;modelview
+moderated;moderated
+moderator;moderator
+modern;modern
+modes;modes
+modified;റംവരുത
+modifier;modifier
+modifiers;modifiers
+modify;modify
+module returned;module returned
+module;ഘടകവും
+modules;modules
+moduli;moduli
+moment;moment
+momentarily;momentarily
+moments;moments
+monday;monday
+mondays;mondays
+moneymouth face;moneymouth face
+moneymouth;moneymouth
+monitor;monitor
+month;മാസം
+monthS of;monthS of
+monthS;monthS
+monthevery;monthevery
+monthly;monthly
+months;മാസങ
+more bookmarks;more bookmarks
+more powerful;more powerful
+more savings;more savings
+more;ഞൊരു
+moreand;moreand
+morex;അറിയുകx
+more…;കൂടുതല്‍
+most Visited;most Visited
+most accurate;most accurate
+most popular;most popular
+most;ഉപയോഗയോഗ
+mostrecently;mostrecently
+mouse Wheel;mouse Wheel
+mouse;mouse
+move Down;move Down
+move Up;move Up
+move away;move away
+move emswiftly;move emswiftly
+move;move
+moveable;moveable
+moved renamed or deleted;moved renamed or deleted
+moved renamed;moved renamed
+moved;moved
+movedS;movedS
+movemail;movemail
+moving;moving
+moz;MOZ
+mozGetAsFile;mozGetAsFile
+mozImageSmoothingEnabled;mozImageSmoothingEnabled
+mozRTCIceCandidate;mozRTCIceCandidate
+mozRTCPeerConnection;mozRTCPeerConnection
+mozRTCSessionDescriptn;mozRTCSessionDescriptn
+mozRTCSessionDesmatched;mozRTCSessionDesmatched
+mozRequestAnimationFrame;mozRequestAnimationFrame
+mozVisibilityState &apos;mozVisibilityState &apos
+mozVisibilityState;mozVisibilityState
+mozcmd directory;mozcmd directory
+mozcmd files;mozcmd files
+mozcmd;mozcmd
+mozdevorg;mozdevorg
+mozdocument rule;mozdocument rule
+mozdocument;mozdocument
+mozelement;mozelement
+mozilla;mozilla
+mozillaZine;mozillaZine
+mozillacentral;mozillacentral
+mozillacom/plugincheck;mozillacom/plugincheck
+mozillaorg netnz;mozillaorg netnz
+mozillaorg;mozillaorg
+mozinlinebox display;mozinlinebox display
+mozinlinebox;mozinlinebox
+mprescripts;mprescripts
+ms;ms
+msf;msf
+msgFilterRulesdat file;msgFilterRulesdat file
+msgFilterRulesdat;msgFilterRulesdat
+much;much
+multiline;multiline
+multimedia;multimedia
+multiple links &quot;multiple links &quot
+multiple;നിലധികം
+multiplied And;multiplied And
+multiplied by;multiplied by
+multiplied;multiplied
+multiprocess;രോസസ
+multiweek;multiweek
+music;music
+must involve;must involve
+must;ങിയാലേ
+my &quot;my &quot
+my Cert;my Cert
+my Projects;my Projects
+my Quick;my Quick
+my Task;my Task
+my Yahoo;My Yahoo
+my windows;my windows
+my;my
+mypagehtml &quot;mypagehtml &quot
+mypagehtml;mypagehtml
+myusername&apos;myusername&apos
+n;n
+nWhen your;nWhen your
+nWhen;nWhen
+name &quot;name &quot
+name;ടറിയുടെ
+nameSource;nameSource
+named anchor;named anchor
+named either;named either
+named;ഫോൾഡറിൽ
+names;നാമങ
+namespace;namespace
+namespaces;namespaces
+narrowing;narrowing
+native code;native code
+native;സഹജ
+natively;natively
+navigate;navigate
+navigated;നാവിഗേറ
+navigating;നാവിഗേറ്റ് ചെയ്യുക
+navigation Toolbar;navigation Toolbar
+navigation;നാവിഗേഷന്‍
+navigatorbattery;navigatorbattery
+navigatorgetBattery;navigatorgetBattery
+navigatormediaDevicesgetUserMedia;navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia;navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal;nbspnbspnbspnbspnbspnbspInternal
+nd;nd
+near;near
+nearby;nearby
+nearest;nearest
+necessary;necessary
+need;സുമായി
+needed;യമാകും
+needing to;needing to
+needing;needing
+needs;ആകേണ
+negate;negate
+negated;negated
+negation;നെഗേഷന
+negative;negative
+negotiate an inadequate;negotiate an inadequate
+negotiate;negotiate
+negotiating a;negotiating a
+negotiating;negotiating
+negotiation;കുടിയാലോചന
+neither;ങനെയൊന
+nested Table;nested Table
+nested;പോകുന
+nesting;nesting
+netnz /;netnz /
+netnz;netnz
+netscape;netscape
+netscapepublicmozillamailnews&apos;netscapepublicmozillamailnews&apos
+network Monitor;network Monitor
+network Timeout;network Timeout
+network drive;network drive
+network section;network section
+network;ഷിതമായാണ
+never Show;never Show
+never;തുകയും
+new Caledonia;new Caledonia
+new Separator;new Separator
+new Tab;new Tab
+new Zealand;new Zealand
+new home;new home
+new word;new word
+new;പുതിയ
+newer;newer
+news client;news client
+news;വാർത
+newsexamplenet;newsexamplenet
+newsgroup subscriptions;newsgroup subscriptions
+newsgroup;newsgroup
+newsgroups;newsgroups
+newsrc File;newsrc File
+newsrc file;newsrc file
+newsrc;newsrc
+next gt;next gt
+next;next
+nicer;nicer
+nick;nick
+nickname;വിളിപ
+nicknamegt Change;nicknamegt Change
+nicknamegt;nicknamegt
+nicknames;nicknames
+nicks;nicks
+nightly;nightly
+nikto;ഇരിക
+nine;nine
+nineteen;nineteen
+nineteenth;nineteenth
+ninth;ninth
+nnn;nnn
+nntp;nntp
+no &apos;no &apos
+no Fortezza;no Fortezza
+no OMTC;no OMTC
+no Style;no Style
+no Thanks;no Thanks
+no cipher;no cipher
+no decoders;no decoders
+no globals;no globals
+no label;no label
+no less;no less
+no metaviewport;no metaviewport
+no nodelock;no nodelock
+no printers;no printers
+no slot;no slot
+no thanks;no thanks
+no unconfirmed;no unconfirmed
+no;no
+noMac;noMac
+noWin;noWin
+nocors&apos;nocors&apos
+nocors;nocors
+node;നോഡിനു
+nodeShow all;nodeShow all
+nodeShow;nodeShow
+nodeValue;nodeValue
+nodelock;nodelock
+nodes;നോഡുകൾ
+nominative;nominative
+non Participant;non Participant
+non;non
+nonASCII;nonASCII
+nonFORTEZZA Certificate;nonFORTEZZA Certificate
+nonFORTEZZA;nonFORTEZZA
+nonGregoriancalendar;nonGregoriancalendar
+nonResponse;nonResponse
+nonUTF encoding;nonUTF encoding
+nonUTF;nonUTF
+nonascii character;nonascii character
+nonascii;nonascii
+noncesource;noncesource
+noncharacter;ഷരമല
+none;ഒന്നുമില്ല
+nonempty;nonempty
+nonfunction pseudoclass;nonfunction pseudoclass
+nonfunction;nonfunction
+nongeneric;nongeneric
+nonincremental Cause;nonincremental Cause
+nonincremental;nonincremental
+nonleaf;nonleaf
+nonmultiprocess;ഡിസബിള
+nonnavigation;nonnavigation
+nonnegative;nonnegative
+nonparticipant;nonparticipant
+nonprintable character;nonprintable character
+nonprintable;nonprintable
+nonprofit Mozilla Foundation;nonprofit Mozilla Foundation
+nonprofit;ലാഭങ
+nonspace in;nonspace in
+nonspace;nonspace
+nonstandard;nonstandard
+nontext;nontext
+nonvoid;വോയിഡല
+noon;noon
+nor;nor
+normally;normally
+noscript;noscript
+nosniff;nosniff
+nostore;nostore
+not After;not After
+not Before;not Before
+not Connected;not Connected
+not Critical;not Critical
+not Defined;not Defined
+not Deleted;not Deleted
+not Downloaded;not Downloaded
+not Enabled;not Enabled
+not Installed;not Installed
+not Present;not Present
+not Started;not Started
+not Stored;not Stored
+not Trusted;not Trusted
+not accepted;not accepted
+not accessible;not accessible
+not be saved;not be saved
+not checked;not checked
+not disturb;not disturb
+not expecting;not expecting
+not fit;not fit
+not implemented yet;not implemented yet
+not injure;not injure
+not involving;not involving
+not press;not press
+not readable;not readable
+not standalone;not standalone
+not;ളതായതിനാല
+notation be unescaped;notation be unescaped
+notation be;notation be
+notation;notation
+note Slow;note Slow
+note;കുറിപ്പു്
+notes;notes
+nothing;nothing
+notice;notice
+noticed;noticed
+notification Permissions;notification Permissions
+notification _;notification _
+notification;notification
+notifications;notifications
+notified;notified
+notifier or;notifier or
+notifier;notifier
+notify me;notify me
+notify;notify
+noting;noting
+nounclass;nounclass
+nov &#124;nov &#124
+nov;nov
+november;november
+now doesn &apos;now doesn &apos
+now;പോൾ
+npmmailnews&apos;npmmailnews&apos
+nsICookieManager;nsICookieManager
+nsICookieManagerS;nsICookieManagerS
+nsICookieManagerremove;nsICookieManagerremove
+nsIDOMWindow instead;nsIDOMWindow instead
+nsIDOMWindow;nsIDOMWindow
+nsIDOMWindowInternal;nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId;nsIWindowMediator
+nsIJSONdecode;nsIJSONdecode
+nsIJSONencode is;nsIJSONencode is
+nsIJSONencode;nsIJSONencode
+nsIProtocolHandleridl;nsIProtocolHandleridlലുള
+nsIWindowMediator;nsIWindowMediator
+nsIWritablePropertyBag;nsIWritablePropertyBag
+num;num
+number;കമല
+numbered;numbered
+numbers negative;numbers negative
+numbers;numbers
+numerator;അംശം
+numeric;numeric
+nursery Collection;nursery Collection
+nursery Eviction;nursery Eviction
+nursery;ഫലമായി
+obj Properties;obj Properties
+obj;obj
+object Stores;object Stores
+object;object
+objects;objects
+obscured;obscured
+observed;observed
+observers;observers
+obtain;obtain
+occur;സംഭവിയ
+occured;occured
+occurred;occurred
+occurrence of;occurrence of
+occurrence;occurrence
+occurrences;occurrences
+occurs;occurs
+oct &#124;oct &#124
+oct;oct
+october;october
+of DOMException &apos;of DOMException &apos
+of DataContainerEvent;of DataContainerEvent
+of Mammon;of Mammon
+of Man;of Man
+of Office;of Office
+of Operation;of Operation
+of Sync;of Sync
+of Validity;of Validity
+of XMLHttpRequest &apos;of XMLHttpRequest &apos
+of XPCOM;of XPCOM
+of a user &apos;of a user &apos
+of attributes &apos;of attributes &apos
+of copies;of copies
+of elapsed;of elapsed
+of fontfeaturevalues;of fontfeaturevalues
+of getAttributeNode;of getAttributeNode
+of getAttributeNodeNS;of getAttributeNodeNS
+of getPreventDefault;of getPreventDefault
+of getUserData;of getUserData
+of inactivity;of inactivity
+of intermediate;of intermediate
+of keyframes;of keyframes
+of law;of law
+of nsIDOMWindowInternal;of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId;of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers;of numbers
+of of;of of
+of paper;of paper
+of qstrongwww;of qstrongwww
+of reachable;of reachable
+of recurrence;of recurrence
+of releaseEvents;of releaseEvents
+of removeAttributeNode;of removeAttributeNode
+of service;of service
+of setAttributeNode;of setAttributeNode
+of setAttributeNodeNS;of setAttributeNodeNS
+of setVelocity;of setVelocity
+of signature;of signature
+of strongwww;of strongwww
+of thousands;of thousands
+of timers;of timers
+of type gif jpg;of type gif jpg
+of unresolved;of unresolved
+of windowshowModalDialog;of windowshowModalDialog
+of; 
+ofbr;ofbr
+off paint;off paint
+off;ഓഫ്
+offer;offer
+offered;കാണേണമെന
+offering;offering
+offerings;offerings
+offers;offers
+offerxA »;offerxA »
+offline;ലൈനായി
+offline_apps;offline_apps
+offsets;offsets
+often;often
+ok;ok
+old;old
+older than;older than
+older version of Sync;older version of Sync
+older;കാല
+oldstyle YouTube;oldstyle YouTube
+oldstyle;oldstyle
+omitted;omitted
+on Main;on Main
+on Permit;on Permit
+on Top;on Top
+on Twitter;on Twitter
+on boxcom;on boxcom
+on shutdown;on shutdown
+on tenured;on tenured
+on;ഈ തീയതിയിൽ
+on;ഓൺ
+on;ഓണ്‍
+once;നവീകരണങ
+one Level;one Level
+one moreand;one moreand
+one;ഭാഗമായ
+oneoff;oneoff
+ones;ones
+oneshot;oneshot
+oneubuntucom;oneubuntucom
+ongoing;ongoing
+online;online
+only reloads;only reloads
+only supports;only supports
+only transmitted;only transmitted
+only;മാത
+onlybr;onlybr
+opacity in;opacity in
+opacity;opacity
+opaque Response;opaque Response
+opaque;opaque
+opaqueredirect Response;opaqueredirect Response
+opaqueredirect;opaqueredirect
+opcode;opcode
+open Web;open Web
+open WebIDE;open WebIDE
+open;തുറക്കുക
+opened;തുറന്നിരിയിക്കുന്നു
+opening fence;opening fence
+opening;opening
+opensource;opensource
+operating system;operating system
+operating;operating
+operation command;operation command
+operation failed;operation failed
+operation;ഓപറേഷന
+operations error;operations error
+operations;operations
+operator expected;operator expected
+operator;operator
+operators;operators
+opportunity;opportunity
+opposed;opposed
+optimization;റിമൈസേഷന
+optimizations;optimizations
+optimized away;optimized away
+optimized;റിമെസ
+optin No;optin No
+optin;optin
+option Group;option Group
+option;ഉപാധി
+optional defaultS;optional defaultS
+optional;നിര്‍ബന്ധമല്ല
+optionally;optionally
+options;options
+optionss;optionss
+or BSIGNED;or BSIGNED
+or Columns;or Columns
+or Distrust;or Distrust
+or chat;or chat
+or differing;or differing
+or hashsource specified;or hashsource specified
+or her;or her
+or lost;or lost
+or setTimeout;or setTimeout
+or&apos;or&apos
+or;or
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV;orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange;orange
+order Received;order Received
+order;വമേധയാ
+organization;organization
+organizations;organizations
+organizer;organizer
+origin;ഉറവിടം
+originAttributes;originAttributes
+original;original
+originally;originally
+originals;originals
+originating;originating
+origins;origins
+orithm Identifier;orithm Identifier
+other User &apos;other User &apos
+other Workers;other Workers
+other categories;other categories
+other malicious;other malicious
+other malware;other malware
+other participants;other participants
+other typographical;other typographical
+other;യുകയോപേര
+others;others
+otherwise it;otherwise it
+otherwise;otherwise
+our geolocation;our geolocation
+our partners;our partners
+our;our
+out BrandShortName &apos;out BrandShortName &apos
+out brfrom the crowd;out brfrom the crowd
+out sequentially;out sequentially
+out what &apos;out what &apos
+out;താണുള
+outage;outage
+outdated;കേതികവിദ
+outgoing;outgoing
+outline;പുറംവര
+outline;ഔട്ട്‌ലൈന്‍
+outlook;outlook
+outofdate;outofdate
+output folder;output folder
+output;ഞകളും
+outside;outside
+over other apps &apos;over other apps &apos
+over;over
+overhead;overhead
+overlay;overlay
+overridden;ഓവര്‍റിഡ്ഡന്‍
+override the viewer &apos;override the viewer &apos
+override;override
+overriding;overriding
+overscript;ഓവർസ്ക്രിപ്റ്റ്
+overview;services
+overwrite;റിയെഴുതുകയും
+overwritten;overwritten
+own;own
+owned;owned
+owner of;owner of
+owner;ഥന
+ownerElement;ownerElement
+owners;owners
+ownership;ownership
+p pIf;p pIf
+p;p
+pA secure;pA secure
+pA;pA
+pAdditional information;pAdditional information
+pAdditional;pAdditional
+pAttack pages;pAttack pages
+pAttack;pAttack
+pDeceptive sites;pDeceptive sites
+pDeceptive;pDeceptive
+pEntering any;pEntering any
+pEntering;pEntering
+pIf;pIf
+pThe browser;pThe browser
+pThe page;pThe page
+pThe requested;pThe requested
+pThe;pഒരു
+pThese types;pThese types
+pThese;pThese
+pThough;pThough
+pUnwanted;pUnwanted
+pWeb;pWeb
+pWebsite owners who believe their;pWebsite owners who believe their
+pWebsite;pWebsite
+pYou should not;pYou should not
+pYou should;pYou should
+pYou;getMeOutOfHereButton
+pYour;pYour
+package;package
+packaged;packaged
+packets;പാക്കറ്റുകള്‍
+padding;പാഡ്ഡിങ്
+page &apos;s content
+page Colors;page Colors
+page Footers;page Footers
+page Setup …;page Setup …
+page Title;page Title
+page continued;page continued
+page navigation;page navigation
+page translation;page translation
+page };page }
+page;റൈലുകളോട
+pageCount;pageCount
+pageload;pageload
+pages &apos;pages &apos
+pages conveniencebr;pages conveniencebr
+pages they &apos;pages they &apos
+pages;താളുകള
+paint flashing;paint flashing
+paint;paint
+painted area;painted area
+painted;painted
+pair a;pair a
+pair;pair
+pane;പെയിന്‍
+panel;പാനലിൽ
+panes;panes
+panning;panning
+paper Size;paper Size
+paper;paper
+paragraph Marks;paragraph Marks
+paragraph;ഖണ്ഡിക
+param;param
+parameter entity;parameter entity
+parameter;parameter
+parameters;parameters
+paranoid;paranoid
+parent Match;parent Match
+parent Payload;parent Payload
+parent prefix;parent prefix
+parent;പേരന
+parse XML;parse XML
+parse failure;parse failure
+parse;parse
+parsed;parsed
+parser state;parser state
+parser;ലതീക
+parsing;parsing
+part of;part of
+part;part
+partial Update;partial Update
+partial character;partial character
+partial;partial
+partially;partially
+participant;participant
+participants from;participants from
+participants;participants
+participate;participate
+particular purposes;particular purposes
+particular;particular
+parties;parties
+partner You;partner You
+partner;partner
+partners We;partners We
+partners work;partners work
+partners;partners
+partnership;partnership
+parts;റനവധി
+party;ടിയെ
+partyAre;partyAre
+pass;pass
+passed to;passed to
+passed;passed
+passive ’;passive ’
+passive;passive
+passwdtxt;passwdtxt
+password &apos;password &apos
+password Required;password Required
+password copied;password copied
+password fields;password fields
+password for &quot;password for &quot
+password quality meter;password quality meter
+password&apos;password&apos
+password;രഹസ
+passwordLeave;passwordLeave
+passwordStored;passwordStored
+passwordprotected;passwordprotected
+passwords;ഡുകളും
+past;past
+pasting;pasting
+patch apply;patch apply
+patch;patch
+path;path
+paths starting;paths starting
+paths;paths
+pattern &apos;pattern &apos
+pattern;pattern
+pause;pause
+paused —;paused —
+paused;paused
+payload;പേലോഡ
+payment provider;payment provider
+payment;payment
+pbrandShortName can &apos;pbrandShortName can &apos
+pbrandShortName can;pbrandShortName can
+pbrandShortName prevented;pbrandShortName prevented
+pbrandShortName;pചില
+peace;peace
+peer &apos;peer &apos
+peer;ആശയവിനിമയം
+peers &apos;peers &apos
+peers;peers
+pending dump;pending dump
+pending;ബാക്കിയുളള
+people &apos;people &apos
+people wouldn &apos;people wouldn &apos
+people;people
+per;per
+percent;percent
+percentage of;percentage of
+percentage;ശതമാനം
+percnt Completed;percnt Completed
+percnt;percnt
+perform caseinsensitive;perform caseinsensitive
+perform querySelectorAll;perform querySelectorAll
+perform;perform
+performance;ഷയേയും
+performed Trying;performed Trying
+performed;വിജയിയ
+performgt;performgt
+performing;performing
+periodically;periodically
+permanent exception;permanent exception
+permanent;permanent
+permanently deleted;permanently deleted
+permanently;ഥിരമായി
+permissible length;permissible length
+permissible;permissible
+permission denied;permission denied
+permission;permission
+permissions;പാലകന
+permit;permit
+permitted;നമില
+persistent logs;persistent logs
+persistent;persistent
+person &apos;person &apos
+person who holds;person who holds
+person;person
+personal Card;personal Card
+personal;ഡിവൈസിലും
+personalhttp//wwwmozillaok;personalhttp//wwwmozillaok
+personalize;ടാനുസൃതം
+phasang;phasang
+phasor;ഫേസർ
+pick;യതി
+pixel;സൽ
+plain;ലെയിന
+plan;കൊരു
+plugin;ലഗിന
+plunged;plunged
+png;png
+podcast;പോഡ
+policy;പോളിസിയ
+poly;poly
+port;നംബറിലേക
+portion;portion
+portions;portions
+position;position
+possible;ടീഫിക
+potential;വള
+powerful;powerful
+pref;pref
+preference;listen
+preferences;ടൈമില
+preferonline;preferonline
+prefix;രീഫിക
+preparing;തയ്യാറെടുക്കുന്നു 
+presented;വളരെയഥികം
+pressed;അമര്‍ത്തി
+presub;presub
+presubscript;പ്രീസബ്‌‌സ്ക്രിപ്റ്റ്
+presup;presup
+presuperscript;പ്രീസൂപ്പർസ്ക്രിപ്റ്റ്
+prevent;പുകളിലുള
+prevents;ങളനുസരിച
+primev;primev
+print;ചടിക
+privacy;യതയും
+private;ഷനാണു
+privileged;രബലമായ
+problem;problem
+problems;കാഞ
+proceed;റലേഷനുമായി
+processes;രിയകള
+profile;രൊഫൈലിന
+profiles;രൊഫൈലുകളും
+promise;വാഗ
+properly;ഷകരെയും
+properties;യേകതകളും
+protection;ഷതയ
+protects;ഫയലിനെ
+protocol;സംവിധാനമാണു
+protocols;ടോകോളുകള
+provided;നൽകിയിരിക
+providers;സഹായികളുടെ
+provisions If;provisions If
+provisions;provisions
+proxy;റമിനുള
+pseudoclass;pseudoelementനുള
+pseudoclasses;ലാസുകള
+pseudoelement;pseudoelement
+pulliPlease;pulliഈ
+punitive;punitive
+purposes;purposes
+px;px
+qmozillaorg;qmozillaorg
+quality;quality
+quarrelled;quarrelled
+query;പദം
+questions;questions
+quit;തണമെന
+rad;rad
+radical;റാഡിക്കൽ
+radio;റേഡിയോ
+radius;റേഡിയസ
+range;പരിധിയായി
+rd;കക
+re;re
+reach;ലയുമായി
+read;വായിക
+reader;വായന
+reading;വായനയ
+readonly;വായിക്കാന്‍ മാത്രം
+ready;യാറാകുന
+reasons;ധിതമായ
+reboot;റീബൂട
+receive;വരുമ
+received;എലിനു
+recent;തകാലത
+recipients;നിനുമുള
+recognized;പരിചിതമായ
+record;കോര
+rect;rect
+recurring;തെടുക
+redirecting;റീഡിറക
+reflow;reflow
+region;ഭാഗം
+registered;നേ
+related;തെരയലുകള
+relatively;യേന
+releaseEvents;releaseEventsന
+relevance;രാധാന
+reload;താളിൽ
+reloading;വീണ്ടും ലഭ്യമാക്കുന്നു
+remain;remain
+remaining;remaining
+remember;തിരയലുകളുടേയും
+remote;വിദൂരം
+remove;കുകഒരു
+render;render
+repaired;ടോകോള
+reparsed;ബാലന
+replacing;റിവെയ
+reports;സംവാദങ
+reporturi;reporturi
+require;പെടുവന
+required;ആവശ്യമുള്ളവ
+required;ആവശ്യമായിരിയ്ക്കുന്നു
+reserved;കരുതിവച
+reset;റീസെറ
+resolution;റിസല
+restart;ടുംആരംഭിയ
+restore;പഴയപടിയാക
+restored;ടെടുത
+restricted;ടതാണ
+results;ഫലങ
+rgb;യില
+rght;വലതു്
+right;വലതു്
+risk;risk
+rndbox;rndbox
+root;root
+root;റൂട്ട്
+root;വര്‍ഗമൂലം
+rotate;കറക
+row;വരി
+rows;വരികളും
+rr;rr
+ruby;ruby
+rulers;വേണോ
+rules;നിയമങ
+run;ഥര
+s;പോകാം
+samples;മാതൃകകള്‍
+saturation;സാന്ദ്രത
+savings;കിയിരുപ
+scaled;കെയില
+scheme;കീം
+scope;കോപ
+screen;രീനും
+scripted;സ്ക്രിപ്റ്റഡാണ്
+sealed;സീല്‍ഡ്
+search;തെരച്ചില്‍
+searches;തെരയലുകള്‍
+seconds;seconds
+secondseconds;സെക്കന്റ്സെക്കന്റുകള്‍
+secpk;secpk
+secpr;secpr
+section;വിഭാഗം
+sectk;sectk
+sectr;sectr
+secure;സിഫറുകള
+security;വിഭവത
+seeing doctype;seeing doctype
+seek;seek
+seeking;തെരയുന്നു
+seem;seem
+seems;seems
+seen but;seen but
+seen;seen
+select &quot;select &quot
+select camera;select camera
+select;റുപകരണത
+selected line &apos;selected line &apos
+selected;തിരഞ്ഞെടുത്തവ
+selecting;selecting
+selection;selection
+selections above;selections above
+selections;selections
+selectlabel;selectlabel
+selector;തിരഞ്ഞെടുക്കല്‍ സംവിധാനം
+selectors separated;selectors separated
+selectors;ടറുകളും
+selects;selects
+selfsigned;selfsigned
+semicolon;സെമീകോളന
+send Feedback;send Feedback
+send For;send For
+send;send
+sender &apos;sender &apos
+sender message;sender message
+sender;sender
+sending;sending
+sends;sends
+sensitive;sensitive
+sensitivity;sensitivity
+sent Cookie;sent Cookie
+sent;sent
+sep &#124;sep &#124
+sep;sep
+separate tags;separate tags
+separate;separate
+separated;separated
+separately;രെയിമും
+separating;separating
+separator character;separator character
+separator;വേ‍ര്‍തിരി
+sept;sept
+september;september
+sequentially as a waterfall;sequentially as a waterfall
+sequentially;രമമായി
+serial Number;serial Number
+serial number;serial number
+serial;നമ
+series;series
+serif;serif
+server &apos;server &apos
+server Quota;server Quota
+server SMTP&apos;server SMTP&apos
+server incorrectly;server incorrectly
+server maintenance;server maintenance
+server that can &apos;server that can &apos
+server;സർവർ
+servers Maybe;servers Maybe
+servers;വറുകളെ
+serves;serves
+service providers;service providers
+service worker;service worker
+service;ഉൾപെടുത
+services;services
+serving;serving
+session ID;session ID
+session Id;session Id
+session Statistics;session Statistics
+session cache;session cache
+session;സെഷനുവേണ
+sessions;sessions
+set Priority;set Priority
+set browsercachediskenable;set browsercachediskenable
+set strokeStyle;set strokeStyle
+set;രൌസറല
+setAttribute instead;setAttribute instead
+setAttribute;setAttribute
+setAttributeNS instead;setAttributeNS instead
+setAttributeNS;setAttributeNS
+setAttributeNode;setAttributeNode
+setAttributeNodeNS;setAttributeNodeNS
+setTimeout cycle;setTimeout cycle
+setTimeout;setTimeout
+setUserData;setUserData
+setVelocity;setVelocity
+sets;sets
+setting;ജീകരണത
+settings &#124;settings &#124
+settings&apos;settings&apos
+settings;ശരിയാണ
+setup options;setup options
+setup;setup
+seven;seven
+seventeen;seventeen
+seventeenth;seventeenth
+seventh;seventh
+several ways;several ways
+several;രൊണൈസേഷന
+shader Editor;shader Editor
+shader compile status;shader compile status
+shader compile;shader compile
+shader;shader
+shadows variable;shadows variable
+shadows;shadows
+shall control;shall control
+shall;shall
+shape &quot;shape &quot
+shape;shape
+share;കിടുവാനുള
+shared Workers;shared Workers
+shared;shared
+sharedLongDesc;sharedLongDesc
+shares;vendorShortNameമായി
+sharing;sharing
+sheet;sheet
+sheets;sheets
+shell;ഷെല
+shield;shield
+shiftKeylabel;shiftKeylabel
+shiftclick;shiftclick
+shiny metal posteriors which;shiny metal posteriors which
+shiny;shiny
+shopping;shopping
+short;short
+shortcut;പവഴി
+shortcuts;പവഴികള
+shorten this;shorten this
+shorten;ങളായി
+shorter file;shorter file
+shorter;Sസൂക
+shortly;shortly
+shortname;shortname
+should keep;should keep
+should make;should make
+should;should
+shouldn &apos;shouldn &apos
+shouldn;shouldn
+show Cookies;show Cookies
+show resultShow;show resultShow
+show through;show through
+show;യഥാർഥ
+showall &apos;showall &apos
+showall;showall
+showing repairing;showing repairing
+showing;showing
+shown;shown
+shownReplies;shownReplies
+shows;ചാട
+shtml;shtml
+shut brandShortName;shut brandShortName
+shut;shut
+shutdown Progress Window;shutdown Progress Window
+shutdown Progress;shutdown Progress
+shutdown;shutdown
+shutting down;shutting down
+shutting;മുൻപായി
+sibiling;sibiling
+side;side
+sidebar;sidebar
+sidebarName;sidebarName
+sidebars;sidebars
+sign in;sign in
+sign;സൈന
+signal;signal
+signature algorithms;signature algorithms
+signature;signature
+signatureAlgorithm;signatureAlgorithm
+signatures;signatures
+signed;signed
+signer &apos;signer &apos
+signer;signer
+signers found;signers found
+signers;signers
+significant;significant
+signing certificate;signing certificate
+signing;signing
+signup;signup
+silence;silence
+silently authenticates;silently authenticates
+silently;silently
+similar;similar
+simple Measurements;simple Measurements
+simple XLink;simple XLink
+simple;simple
+simplified;ലളിതമാക
+simply need;simply need
+simply;ഐയുടെ
+simulation;simulation
+simulator installed;simulator installed
+simulator;simulator
+since;CORS
+single;single
+singlesignon;singlesignon
+site &apos;site &apos
+site doesn &apos;site doesn &apos
+site;പിശകിനര
+sitename &apos;sitename &apos
+sitename;sitename
+sitenat;sitenat
+sites;റുകളെയും
+six;six
+sixteen &#124;sixteen &#124
+sixteen;sixteen
+sixteenth;sixteenth
+sixth;sixth
+size;size
+sizes;sizes
+skip Integration;skip Integration
+skip this;skip this
+skip;skip
+skipped;skipped
+skips;skips
+slash operators;slash operators
+slash;slash
+slashes ie;slashes ie
+slashes;slashes
+slice;ലൈസിനു
+slider;നിരക്കി
+slot;slot
+slots;slots
+slow Motion;slow Motion
+slow SQL;slow SQL
+slow down;slow down
+slow ×;slow ×
+slow;slow
+slowing;slowing
+slowly;slowly
+small;small
+smaller;smaller
+smart;smart
+smartcard please;smartcard please
+smartcard;smartcard
+smartlabel;smartlabel
+smartphone;smartphone
+smiley face;smiley face
+smiley;smiley
+smooth scrolling;smooth scrolling
+smooth;smooth
+smtpexamplenet;smtpexamplenet
+snapshot;snapshot
+snapshots;snapshots
+snews;snews
+so it &apos;so it &apos
+so it can &apos;so it can &apos
+so you &apos;so you &apos
+so;so
+soap;soap
+socket;സോക
+software makers;software makers
+software;അസാധാരണവുമായ
+solid Border;solid Border
+solid circle;solid circle
+solid;solid
+solution;solution
+solutions;solutions
+solve a;solve a
+solve;solve
+some cool;some cool
+some printing;some printing
+some sample;some sample
+some unspecified;some unspecified
+some;some
+somebody &apos;somebody &apos
+somebody;somebody
+someone isn &apos;someone isn &apos
+someone;someone
+something;something
+sometimes;sometimes
+somewhere earlier;somewhere earlier
+somewhere;somewhere
+soon;soon
+sorry BrandShortName can &apos;sorry BrandShortName can &apos
+sorry we &apos;sorry we &apos
+sorry;sorry
+sort;sort
+sound file;sound file
+sound;ഒച
+sounds like;sounds like
+sounds;sounds
+source software;source software
+source;സല
+sources;ഗറിൽ
+space Fantasy;space Fantasy
+space between;space between
+space;കുമിടയില
+spaces;പേസുകൾ
+spam;spam
+span class &apos;span class &apos
+span;span
+spanThis;spanThis
+spanbrandShortName;spanbrandShortName
+spandisabled;spandisabled
+spanenabled;spanenabled
+spans;പാന
+spanspan;spanspan
+speak now;speak now
+speak;speak
+speaking;speaking
+spec in;spec in
+spec;spec
+special incidental;special incidental
+special kinds;special kinds
+special;മോഡാകുന
+specific command;specific command
+specific;specific
+specifically;specifically
+specification;specification
+specified;specified
+specifies;specifies
+specify preferred;specify preferred
+specify;specify
+specifying a;specifying a
+specifying acceptcharsetutf;specifying acceptcharsetutf
+specifying;specifying
+speed;speed
+speedOfSound;യുടെയും
+spell checking;spell checking
+spell;spell
+spellchecker;spellchecker
+spelling;spelling
+spend;spend
+spent;ചിലവഴിച
+spin button;spin button
+spin;spin
+split;മുറിക
+sponsored;sponsored
+spool;spool
+spyware;പൈവേര
+sqrt;sqrt
+square root;square root
+square;square
+src;src
+srcdir;srcdir
+srcs;srcs
+ssl;ssl
+st;st
+stability issues;stability issues
+stability update;stability update
+stability;stability
+stable;സ്ഥിരതയുള്ള
+stack trace;stack trace
+stack;stack
+stacks;stacks
+standalone;standalone
+standard time;standard time
+standard toBlob;standard toBlob
+standard;standard
+standards mode;standards mode
+standards;standards
+star rating;star rating
+star;star
+starred;starred
+start Debug;start Debug
+start Simulator;start Simulator
+start;വസനീയമാണു
+started finding;started finding
+started;തൂടങ
+starting with &apos;starting with &apos
+starting;starting
+startlabel;startlabel
+startmozillaorg;startmozillaorg
+starts;starts
+startup;startup
+state;state
+statement;statement
+statements;statements
+statistics about;statistics about
+statistics;statistics
+stats;stats
+status &apos;status &apos
+status bar;status bar
+status;status
+stay;stay
+steal;steal
+step Over;step Over
+step;നടപടി
+stepped through;stepped through
+stepped;stepped
+stepping;റെപ
+steps out;steps out
+steps;steps
+still;പഴും
+stolen;മോഷ
+stop Debug;stop Debug
+stop Mirror;stop Mirror
+stop Wearing;stop Wearing
+stop the;stop the
+stop;തുടരുകയോ
+stopped;stopped
+stopping;stopping
+stops;stops
+storage quotas;storage quotas
+storage;കലുകളും
+storages;storages
+store;store
+stored;stored
+stores information;stores information
+stores;stores
+storing;storing
+stream;രീം
+strength;strength
+strict protection;strict protection
+strict;കർശന
+strike;ചീനമായുള
+string literal;string literal
+string;സ്ട്രിങ്
+strings or;strings or
+strings;strings
+strokeStyle;strokeStyle
+strong;strong
+strongApps;strongApps
+strongDevice;strongDevice
+strongThe Book of;strongThe Book of
+strongThe Book;strongThe Book
+strongThe;strongThe
+stronger Emphasis;stronger Emphasis
+stronger;stronger
+strongexamplecom;strongexamplecom
+stronghttp;stronghttp
+strongly recommends;strongly recommends
+strongly;strongly
+strongmozillaorg;strongmozillaorg
+strongww;strongww
+strongwww;strongwww
+structure is corrupt;structure is corrupt
+structure;structure
+structures;structures
+studies;studies
+study Findings;study Findings
+study;യമാകേണ
+style Editor;style Editor
+style Inspector;style Inspector
+style endexpand;style endexpand
+style sheet;style sheet
+style;style
+styles;ശൈലികള
+stylesheet;stylesheet
+stylesheets;stylesheets
+stylesrc;stylesrc
+sub;sub
+subdirectory;subdirectory
+subdocument;subdocument
+subdomain;subdomain
+subdomains;subdomains
+subfolder;subfolder
+subfolders;subfolders
+subgrid;subgrid
+subgroups;subgroups
+subject Reminder;subject Reminder
+subject;subject
+submission to;submission to
+submission;submission
+submit Query;submit Query
+submit bugs;submit bugs
+submit information that &apos;submit information that &apos
+submit;സമർപ
+submits;submits
+submitted;submitted
+submitting your;submitting your
+submitting;submitting
+subresource;തിനോട
+subscribe Calendars;subscribe Calendars
+subscribe;നേടുക
+subscribed;subscribed
+subscribedImported;subscribedImported
+subscribing;subscribing
+subscript;സബ്‌‌സ്ക്രിപ്റ്റ്
+subscription;subscription
+subscriptions;subscriptions
+subsession data;subsession data
+subsession;മിഷൻ
+substituting;പാദിപ
+subthread;subthread
+subthreads;subthreads
+subtree;subtree
+succeed;succeed
+succeeded;succeeded
+successful;successful
+successfully Transmitted;successfully Transmitted
+successfully;വിജയകരമായി
+such;such
+suddenly;suddenly
+sufficient;കുണ
+suggest;suggest
+suggested Contribution;suggested Contribution
+suggested Tags;suggested Tags
+suggested;suggested
+suggestion;suggestion
+suggestions;suggestions
+suggests;suggests
+suit;suit
+suitable;suitable
+suite;suite
+suites are;suites are
+suites;suites
+sum;മൊത്തം
+summary file;summary file
+summary;summary
+summoned;summoned
+sunday;sunday
+sundays;sundays
+sup;sup
+superscript pair;superscript pair
+superscript;സൂപ്പർസ്ക്രിപ്റ്റ്
+superseded by;superseded by
+superseded;superseded
+supervision;supervision
+supplied;supplied
+supply alternate;supply alternate
+supply identity;supply identity
+supply publishing;supply publishing
+supply;supply
+support Resources;support Resources
+support certificates;support certificates
+support;support
+supported;supported
+supporting;ടീവിനെ
+supportmozillaorg;supportmozillaorg
+supports;supports
+sure;sure
+surface area;surface area
+surface;surface
+surprised face;surprised face
+surprised;surprised
+surrogate;സറോഗേറ
+surrounding environment;surrounding environment
+surrounding;surrounding
+survey is;survey is
+survey;survey
+susceptible;susceptible
+suspected;suspected
+suspicious;suspicious
+sutomatically;sutomatically
+svSE;svSE
+svg;svg
+switch to;switch to
+switch;മാറുക
+switched;സ്വിച്ച് ചെയ്തിരിയ്ക്കുന്നു
+switching;switching
+symbol;symbol
+symbols;symbols
+sync them;sync them
+sync;ങിയവ
+syncBrandfullNamelabel;syncBrandfullNamelabel
+syncBrandfxAccountlabel;syncBrandfxAccountlabel
+syncBrandshortNamelabel;syncBrandshortNamelabel
+syncBrandshortNamelabelquot;syncBrandshortNamelabelquot
+synced;synced
+synchronization;synchronization
+synchronize;synchronize
+synchronous;XMLHttpRequestലുള
+syncing;syncing
+synctitlepairlabel;synctitlepairlabel
+syntax Highlighting;syntax Highlighting
+syntax;syntax
+system Integration;system Integration
+system beep;system beep
+system;സിസ്റ്റം
+systemDate &apos;systemDate &apos
+systemDate;systemDate
+systems this;systems this
+systems;systems
+t believe;t believe
+t delete;t delete
+t;t
+tab Delimited;tab Delimited
+tab Index;tab Index
+tab audio;tab audio
+tab previews;tab previews
+tab txt;tab txt
+tab;ടാബ്
+tab;റ്റാബ്
+tabSharing;tabSharing
+tabdelimited tab;tabdelimited tab
+tabdelimited;tabdelimited
+table &apos;table &apos
+table Alignment;table Alignment
+table Insert;table Insert
+table Select;table Select
+table borders;table borders
+table layout;table layout
+table rows;table rows
+table;പട്ടിക
+tablets;tablets
+tabs;ടാബൊന
+tabtxt;tabtxt
+tag;പിലില
+tagged;tagged
+tagname;tagname
+tags;ടാഗുകളും
+take up;take up
+take;തിയായിക
+taken;taken
+takes;takes
+taking too;taking too
+taking;taking
+talk;talk
+tampering;tampering
+tapping;tapping
+target;target
+targeted document;targeted document
+targeted;targeted
+task;task
+taskThe;taskThe
+taskbar;taskbar
+tasks;tasks
+tastes;tastes
+tbl;tbl
+technical Details;technical Details
+technical;technical
+technique;technique
+techniques;techniques
+technology;technology
+telephone;ടെലിഫോണ്‍
+tell websites;tell websites
+tell;tell
+tells;tells
+template;template
+templates;templates
+temporarily;temporarily
+temporary outage;temporary outage
+temporary;കാലിക
+ten;ten
+tename &apos;tename &apos
+tentatively;tentatively
+tenth;tenth
+tenured objects;tenured objects
+tenured;tenured
+ter Lock API;ter Lock API
+term &quot;term &quot
+term;വാചകം
+term;വാക്ക്
+terminate a;terminate a
+terminate;terminate
+terminated by xslmessage;terminated by xslmessage
+terminated;കോളനില
+termination;termination
+terms;terms
+test;test
+testics;testics
+testimonials;testimonials
+text Area;text Area
+text Size;text Size
+text Wrap;text Wrap
+text alignment;text alignment
+text area;text area
+text container;text container
+text field;text field
+text;തലവും
+textContent attribute;textContent attribute
+textContent;textContent
+textonly;textonly
+texture source;texture source
+texture;texture
+th;th
+than minimum;than minimum
+than;സലുകളേക
+thank;thank
+thanks for;thanks for
+thanks;thanks
+that &apos;that &apos
+that can &apos;that can &apos
+that is no;that is no
+that isn &apos;that isn &apos
+that resolved;that resolved
+that steal;that steal
+that we can &apos;that we can &apos
+that wouldn &apos;that wouldn &apos
+that you &apos;that you &apos
+that;ചനിലാണതു
+the &apos;the &apos
+the &quot;the &quot
+the ALPN;the ALPN
+the AudioBufferSourceNode;the AudioBufferSourceNode
+the Book;the Book
+the CMS;CMS
+the Camera;the Camera
+the Certifying Authority;the Certifying Authority
+the Certifying;the Certifying
+the Components;the Components
+the DELE;the DELE
+the Dock;the Dock
+the FTP;the FTP
+the Fifth;the Fifth
+the Fourth;the Fourth
+the Grenadines;the Grenadines
+the HTMLMediaElement;the HTMLMediaElement
+the Inspector &apos;the Inspector &apos
+the KRL;the KRL
+the Kerberos;the Kerberos
+the LIST;the LIST
+the MediaStream;the MediaStream
+the Mouse;the Mouse
+the Online;the Online
+the Privacy;the Privacy
+the RETR;the RETR
+the Risks;the Risks
+the SETTINGS;the SETTINGS
+the STAT;the STAT
+the Services;the Services
+the Study;the Study
+the SxS;the SxS
+the Symmetric;the Symmetric
+the TCP;the TCP
+the Test;the Test
+the Timezone;the Timezone
+the URL;the URL
+the additivesymbols;the additivesymbols
+the address isn &apos;the address isn &apos
+the address;the address
+the application didn &apos;the application didn &apos
+the application;the application
+the area;the area
+the attached;the attached
+the authenticity;the authenticity
+the baseline;the baseline
+the beast;the beast
+the beasts;the beasts
+the binary;the binary
+the broad;the broad
+the budget;the budget
+the buffer;the buffer
+the builtin;the builtin
+the capture;the capture
+the center;the center
+the client;the client
+the coding;the coding
+the collected;the collected
+the console;the console
+the current folder &apos;the current folder &apos
+the debugger;the debugger
+the desired;the desired
+the development;the development
+the devtoolsdebuggerremoteenabled preference;the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled;the devtoolsdebuggerremoteenabled
+the dimensions;the dimensions
+the duration;the duration
+the emtwins;the emtwins
+the exclusion;the exclusion
+the expires;the expires
+the fifth;the fifth
+the flame;the flame
+the fourth;the fourth
+the framed;the framed
+the guides;the guides
+the image &apos;the image &apos
+the implementation;the implementation
+the latest;the latest
+the limit;the limit
+the love;the love
+the measuring;the measuring
+the namespaces;the namespaces
+the native;the native
+the needed;the needed
+the organizer;the organizer
+the owner;the owner
+the page &apos;the page &apos
+the page isn &apos;the page isn &apos
+the partial;the partial
+the phrase;the phrase
+the primary;the primary
+the priority;the priority
+the privilege;the privilege
+the profiler;the profiler
+the program &apos;the program &apos
+the proxy;the proxy
+the recipient &apos;the recipient &apos
+the recipients;the recipients
+the relationship;the relationship
+the requested;the requested
+the resources;the resources
+the rest;the rest
+the safety;the safety
+the screen;the screen
+the server &apos;the server &apos
+the shield;the shield
+the signer &apos;the signer &apos
+the signer;the signer
+the spec;the spec
+the standard;the standard
+the styles;the styles
+the subresource;the subresource
+the sum;the sum
+the surrounding;the surrounding
+the toolbox;the toolbox
+the tooltips;the tooltips
+the translation;the translation
+the uninstall;the uninstall
+the uninstaller;the uninstaller
+the upgrade;the upgrade
+the utf;the utf
+the viewer &apos;the viewer &apos
+the viewer reader &apos;the viewer reader &apos
+the viewport;the viewport
+the visualization;the visualization
+the webapp manifest isn &apos;the webapp manifest isn &apos
+the webapp;webapp
+the wildcard;the wildcard
+the windowconsole;the windowconsole
+the;ലോഗോകളും
+theft;theft
+their defaults;their defaults
+their;their
+them;them
+theme;രമേയം
+themed;themed
+themes;themes
+then touching;then touching
+then;then
+there &apos;s
+there;ലയായിരുന
+therefore;therefore
+these organizations;these organizations
+these;കിശേഷം
+they &apos;they &apos
+they expire;they expire
+they require query;they require query
+they;they
+things you;things you
+things;things
+think I &apos;think I &apos
+think;കാളികളോ
+thinkers;thinkers
+thinking;thinking
+thinks;thinks
+third Party;third Party
+third parties;third parties
+third;തേര
+thirdparty cookies;thirdparty cookies
+thirdparty software;thirdparty software
+thirdparty;thirdparty
+thirteen &#124;thirteen &#124
+thirteen;thirteen
+thirteenth;thirteenth
+thirtieth;thirtieth
+thirty &#124;thirty &#124
+thirty first;thirty first
+thirty one;thirty one
+thirty;thirty
+this &quot;this &quot
+this Computer;this Computer
+this channel &apos;this channel &apos
+this decision;this decision
+this didn &apos;this didn &apos
+this downloadDelete;this downloadDelete
+this exclusion;this exclusion
+this isn &apos;this isn &apos
+this month;this month
+this operation;this operation
+this personal;this personal
+this pseudoelement;this pseudoelement
+this recurring;this recurring
+this server &apos;this server &apos
+this site &apos;this site &apos
+this test;this test
+this tweet &quot;this tweet &quot
+this tweet;this tweet
+this website;this website
+this;ദുല
+thisIf;thisIf
+thisa;thisa
+those;those
+though;though
+thought;റൊരാള
+thousands;thousands
+thread &quot;thread &quot
+thread Hangs;thread Hangs
+thread killed;thread killed
+thread watched;thread watched
+thread;thread
+threads;threads
+three;three
+threw;threw
+through inaction;through inaction
+through;യനെ
+thunderbird;thunderbird
+thursday &#124;thursday &#124
+thursday;thursday
+thursdays;thursdays
+ticket was;ticket was
+ticket;ticket
+ties;ties
+til &#124;til &#124
+til;til
+tile replacing;tile replacing
+tile;tile
+tiles;tiles
+till;till
+time Stamping;time Stamping
+time These;time These
+time Zone;time Zone
+time communication;time communication
+time secondTime;time secondTime
+time sender;time sender
+time };time }
+time;സമയമായി
+timeOccurs;timeOccurs
+timed Out;timed Out
+timed;timed
+timedout;timedout
+timeline;ടൈംലൈനില
+timelines;timelines
+timeout;timeout
+timer Name;timer Name
+timer started;timer started
+timer;ടൈമര്‍
+timers in;timers in
+timers;timers
+times;times
+timesaving;timesaving
+timestamp;timestamp
+timestamps;timestamps
+timezone &quot;timezone &quot
+timezone;timezone
+timezonepersonalg;timezonepersonalg
+timezoner message doesn &apos;timezoner message doesn &apos
+title;title
+to beautify;to prettify
+to;എവിടേക്ക്
+to;എവിടേക്കു്
+toggle;സുഡോക
+token;ടോക
+toolbar;ടൂള്‍ബാര്‍
+tooltip;ടൂള്‍ടിപ്പ്
+top;മുകളിൽ
+top;മുകള്‍
+total;മൊത
+touch;രയോഗിക
+trace;രേസ
+transfer;transfer
+translated;translated
+translation;ജമയ
+transmission;ഇടപാടില
+transmitted;രമിറ
+tried;ഐയിലേക
+triggered;ഷനു
+troubleshooting;രബിള
+true;ശരി
+trust;വാസമുള
+trying;trying
+txtarea;txtarea
+type;മുറക
+types;രീതികള
+u;u
+ul;ul
+ulliCould;ulliവസ
+unable;കുവെക
+unavailable;ലഭ്യമല്ല
+unchecked;പരിശോധിയ്ക്കാത്തതു്
+under &quot; Manage
+under;under
+underscript;അണ്ടർസ്ക്രിപ്റ്റ്
+unenforceable;unenforceable
+unexpected;തിനെ
+uninitialized;ഇനിഷ്യലൈസ് ചെയ്തിട്ടില്ല
+uninstall;അണ്‍ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
+unknown;അപരിചിതം
+unlimited;പരിധിയില്ല
+unprefixed;visibilityState
+unsafe;റോൾ
+unselected;തിരഞ്ഞെടുക്കാത്തവ
+unstable;പട്ടിക
+unsupported;പിൻതുണയ
+up;യതാപത
+update;തൊടുകS
+updates;തുതീര
+updating;updating
+updiagarrow;അപ്ഡയഗാരോ
+updiagstrike;updiagstrike
+upgrade;പരിഷ്കരിക്കുക
+upload;spanപ
+uploaded;തേയ
+url;url
+urlprefix;urlprefix
+usage;ഹാർഡ
+use of DOMException &apos;s
+use;രഭല
+used;സബിഎല
+useful;ഉപയോഗപ
+username;തവിന
+uses;ഇ
+using;ടികയുപയോഗിച
+usually;എഴുതുന
+utf;utf
+utomatically;utomatically
+v;v
+valid;വാലിഡ്‌ 
+value;മൂല
+variable;വേരിയബിള്‍
+various;രോമിന
+vendor;വെണ
+vendorShortName;vendorShortName
+version;പതിപ്പു്
+vertical;ചീനമായതോ
+via;ഗിംഗ
+vibrate;വിറപ
+video;വീഡീയോ
+violate;തകരാറിലാക
+violates;പെകില
+visibilityState;mozHidden
+visit;ശിക
+visited;സന്ദര്‍ശിച്ചിരിയ്ക്കുന്നു
+visitors;ശകര
+vstrike;vstrike
+want;പറയും
+warnings;മുന്നറിയിപ്പുകള്‍
+warranties whether;warranties whether
+warranties;warranties
+warring;warring
+was;തിയാകാതിരുന
+waterfall;വെള
+way;തിനായുള
+we won &apos;t
+we;ഷിതമാണോയെന
+weak;എഫമെറല
+weakness;രയോഗമാണു
+weather;ഥാ
+web;പേജുകളുടെ
+website;ചറിയലാവശ
+week;ആഴ
+welcome;വാഗതം
+went;went
+were;ദേശമല
+what &apos;s new
+what;ധിക
+when;when
+where;ചിടത
+which;യൂസറുടെ
+while;തുടരുമ
+whom;കളില
+wildcard;wildcard
+will;നതെടുക
+willchange;willchange
+win;win
+window;window
+windowcontrollers;windowcontrollers
+windows;windows
+windowshowModalDialog;windowshowModalDialogന
+with;തനശേഷിയും
+without;കാതെ
+won &apos;t remember any history
+work;ഹീപ
+worker;ആപേക
+working;ടാവുമായി
+world;അനേകായിരം
+would;ഉപയോഗിച
+writable;റൈറ്റബിള്‍
+write;എഴുതുവാനുള
+written;രകാരമാണ
+wwwexamplecom;wwwexamplecom
+xPair;xPair
+xhrspecwhatwgorg;xhrspecwhatwgorg
+xwestern;xwestern
+xyxy;റമം
+y;y
+yes;yes
+you understand what &apos;s going on
+you;ടാബുകളിലേക
+your mouse;your mouse
+your preferred language;your preferred language
+your preferred;your preferred
+your rights …;your rights …
+your rights;your rights
+your warranty;your warranty
+your;മാനേജറില
+yourself;yourself
+yousenditcom;yousenditcom
+zero;പൂജ
+zone policy;zone policy
+zone;zone
+zoom Controls;zoom Controls
+zoom In;zoom In
+zoom Out;zoom Out
+zoom controls;zoom controls
+zoom in;zoom in
+zoom out;zoom out
+zoom;zoom
+zooming;zooming

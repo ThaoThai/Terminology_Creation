@@ -1,0 +1,8426 @@
+ rights …; rights …
+/Galapagos;/Galapagos
+A ServiceWorker;A ServiceWorker
+A;skeefgeloop
+AB _;AB _
+AB;AB
+ACL;toeganslys
+ADB;ADB
+ADDONS;ADDONS
+AEC Logging;AEC Logging
+AEC;AEC
+AES;AES
+AIA;AIA
+AIM;AIM
+ALIGNCENTERA;ALIGNCENTERA
+ALIGNCENTERFONT;ALIGNCENTERFONT
+ALPN;ALPN
+AND;AND
+ANSI;ANSI
+AOL Screenname;AOL Screenname
+AOL;AOL
+API;API
+APIEncryption;APIEncryption
+APP;APP
+ARMSCII;ARMSCII
+ASN encoder;ASN encoder
+ASN;ASNenkodeerder
+ATT Mail;ATT Mail
+ATT;ATT
+AUS;AUS
+AVA;AVA
+Aa;Aa
+Aaiun;Aaiun
+Ababa;Ababa
+Abandon unsaved changes;Abandon unsaved changes
+Abbreviate;Afgekorte
+Abbreviation;Afkorting
+Abkhazian;Abgasies
+Abort;Abort
+Aborted;Aborted
+About Your;About Your
+About;Aangaande
+Above;bokant
+Accelerated;Accelerated
+Accent Lowercase;Aksentonderkas
+Accent Uppercase;Aksentbokas
+Accent;Accent
+Accept;Accept
+Acceptance;Acceptance
+Accepted;Accepted
+Access;Access
+AccessControlAllowCredentials&apos;AccessControlAllowCredentials&apos
+AccessControlAllowCredentials;AccessControlAllowCredentials
+AccessControlAllowHeaders&apos;AccessControlAllowHeaders&apos
+AccessControlAllowHeaders;AccessControlAllowHeaders
+AccessControlAllowMethods&apos;AccessControlAllowMethods&apos
+AccessControlAllowMethods;AccessControlAllowMethods
+AccessControlAllowOrigin;AccessControlAllowOrigin
+Accessibility;Toeganklikheid
+Account &quot;Account &quot
+Account Settings &#124;Account Settings &#124
+Account;Rekening
+Accountquot;Accountquot
+Accounts;Rekeninge
+Accountspecific;Accountspecific
+Account…;Account…
+Acronym;Akroniem
+Action;Aksie
+Actions;Actions
+Activate;Aktiveer
+Activated;Geaktiveer
+Activations Directory;Aktiveringsgids
+Active;Aktief
+Actively block;Actively block
+Activity;Aktiwiteit
+Actual Size;Actual Size
+Adak;Adak
+Adapter;Adapter
+Adapters;Adapters
+Adb;Adb
+Add;Voeg by
+Added;Bygevoeg
+Addis Ababa;Addis Ababa
+Additional Tools;Additional Tools
+Additional;Bykomende
+Addon;Simulatorbyvoeging
+Addons Installed;Addons Installed
+Addons;Byvoegings
+Addr;Addr
+Address Book;Address Book
+Address Books;Address Books
+Address;Adres
+AddressBook;AddressBook
+Addressbook;Addressbook
+Addresses;Adresse
+Addressing;Adresbediener
+Adds;Adds
+Add…;Voeg by…
+Adjust;Adjust
+Administer;Administreer
+Administrative Assistant;Administrative Assistant
+Administrative limit;Administrative limit
+Administrative;Administratiewe
+Administrator;Administrator
+Adobe Flash;Adobe Flash
+Adobe;Adobe
+Advance;Advance
+Advanced Property Editor;Gevorderdeeienskapperedigeerder
+Advanced info;Advanced info
+Advanced;Gevorderd
+Advanced…;Gevorderd…
+Afar;Afaries
+Affects multiple;Affects multiple
+Affects;Affects
+Affiliation Changed;Affiliation Changed
+Affiliation;Affiliasie
+Afghanistan;Afganistan
+Africa/Abidjan;Africa/Abidjan
+Africa/Accra;Africa/Accra
+Africa/Algiers;Africa/Algiers
+Africa/Asmara;Africa/Asmara
+Africa/Bamako;Africa/Bamako
+Africa/Bangui;Africa/Bangui
+Africa/Banjul;Africa/Banjul
+Africa/Bissau;Africa/Bissau
+Africa/Blantyre;Africa/Blantyre
+Africa/Brazzaville;Africa/Brazzaville
+Africa/Bujumbura;Africa/Bujumbura
+Africa/Cairo;Africa/Cairo
+Africa/Casablanca;Africa/Casablanca
+Africa/Ceuta;Africa/Ceuta
+Africa/Conakry;Africa/Conakry
+Africa/Dakar;Africa/Dakar
+Africa/Djibouti;Africa/Djibouti
+Africa/Douala;Africa/Douala
+Africa/Freetown;Africa/Freetown
+Africa/Gaborone;Africa/Gaborone
+Africa/Harare;Africa/Harare
+Africa/Johannesburg;Africa/Johannesburg
+Africa/Juba;Africa/Juba
+Africa/Kampala;Africa/Kampala
+Africa/Khartoum;Africa/Khartoum
+Africa/Kigali;Africa/Kigali
+Africa/Kinshasa;Africa/Kinshasa
+Africa/Lagos;Africa/Lagos
+Africa/Libreville;Africa/Libreville
+Africa/Lome;Africa/Lome
+Africa/Luanda;Africa/Luanda
+Africa/Lubumbashi;Africa/Lubumbashi
+Africa/Lusaka;Africa/Lusaka
+Africa/Malabo;Africa/Malabo
+Africa/Maputo;Africa/Maputo
+Africa/Maseru;Africa/Maseru
+Africa/Mbabane;Africa/Mbabane
+Africa/Mogadishu;Africa/Mogadishu
+Africa/Monrovia;Africa/Monrovia
+Africa/Nairobi;Africa/Nairobi
+Africa/Ndjamena;Africa/Ndjamena
+Africa/Niamey;Africa/Niamey
+Africa/Nouakchott;Africa/Nouakchott
+Africa/Ouagadougou;Africa/Ouagadougou
+Africa/PortoNovo;Africa/PortoNovo
+Africa/Tripoli;Africa/Tripoli
+Africa/Tunis;Africa/Tunis
+Africa/Windhoek;Africa/Windhoek
+Africa;Africa
+African Republic;African Republic
+African;African
+Afrikaans;Afrikaans
+After;After
+Again &quot;Again &quot
+Again;Again
+Age;Ouderdom
+Agent;Agent
+Aggregate;Aggregate
+Ago;Ago
+Agree;Agree
+Agreement;Agreement
+Aires;Aires
+Akan;Akanies
+Akrotiri;Akrotiri
+Alarm;Alarm
+Albania;Albanië
+Albanian;Albanees
+Alert dialog;Alert dialog
+Alert record;Alert record
+Alert;Oppas
+Algeria;Algerië
+Algorithm Parameters;Algorithm Parameters
+Algorithm;Algorithm
+Alias dereferencing problem;Aliasontverwysingsprobleem
+Alias dereferencing;Alias dereferencing
+Alias problem;Aliasprobleem
+Alias;Alias
+Align Justified;Align Justified
+Align Left;Align Left
+Align Legend;Align Legend
+Align text centered;Align text centered
+Align;Belyn
+Alignment;Gerigtheid
+All;Alles
+All;Almal
+Allman;Allman
+Allocated;Allocated
+Allocation Trigger;Allocation Trigger
+Allocation;Allocation
+Allocations;Allocations
+Allow First;Allow First
+Allow autoplay;Allow autoplay
+Allow;Laat toe
+Allow;Toelaat
+Allowed;Allowed
+Allowing;Allowing
+Allows;Allows
+Allow…;Laat toe…
+Almost done;Almost done
+Almost;Amper
+Alpha;alfa
+Already;Already
+Also;Also
+Alt Name;Alt Name
+Alt;Alt
+AltDown;AltDown
+AltUp;AltUp
+Alternate Text;Alternate Text
+Alternate;Alternate
+Alternatively;Alternatively
+Although;Alhoewel
+Always;Altyd
+America/Adak;America/Adak
+America/Anchorage;America/Anchorage
+America/Anguilla;America/Anguilla
+America/Antigua;America/Antigua
+America/Araguaina;America/Araguaina
+America/Argentina/Catamarca;America/Argentina/Catamarca
+America/Argentina/Cordoba;America/Argentina/Cordoba
+America/Argentina/Jujuy;America/Argentina/Jujuy
+America/Argentina/Mendoza;America/Argentina/Mendoza
+America/Argentina/Salta;America/Argentina/Salta
+America/Argentina/Tucuman;America/Argentina/Tucuman
+America/Argentina/Ushuaia;America/Argentina/Ushuaia
+America/Aruba;America/Aruba
+America/Asuncion;America/Asuncion
+America/Atikokan;America/Atikokan
+America/Bahia;America/Bahia
+America/Barbados;America/Barbados
+America/Belem;America/Belem
+America/Belize;America/Belize
+America/BlancSablon;America/BlancSablon
+America/Bogota;America/Bogota
+America/Boise;America/Boise
+America/Cancun;America/Cancun
+America/Caracas;America/Caracas
+America/Cayenne;America/Cayenne
+America/Cayman;America/Cayman
+America/Chicago;America/Chicago
+America/Chihuahua;America/Chihuahua
+America/Creston;America/Creston
+America/Cuiaba;America/Cuiaba
+America/Curacao;America/Curacao
+America/Danmarkshavn;America/Danmarkshavn
+America/Dawson;America/Dawson
+America/Denver;America/Denver
+America/Detroit;America/Detroit
+America/Dominica;America/Dominica
+America/Edmonton;America/Edmonton
+America/Eirunepe;America/Eirunepe
+America/Fortaleza;America/Fortaleza
+America/Godthab;America/Godthab
+America/Grenada;America/Grenada
+America/Guadeloupe;America/Guadeloupe
+America/Guatemala;America/Guatemala
+America/Guayaquil;America/Guayaquil
+America/Guyana;America/Guyana
+America/Halifax;America/Halifax
+America/Havana;America/Havana
+America/Hermosillo;America/Hermosillo
+America/Indiana/Indianapolis;America/Indiana/Indianapolis
+America/Indiana/Knox;America/Indiana/Knox
+America/Indiana/Marengo;America/Indiana/Marengo
+America/Indiana/Petersburg;America/Indiana/Petersburg
+America/Indiana/Vevay;America/Indiana/Vevay
+America/Indiana/Vincennes;America/Indiana/Vincennes
+America/Indiana/Winamac;America/Indiana/Winamac
+America/Inuvik;America/Inuvik
+America/Iqaluit;America/Iqaluit
+America/Jamaica;America/Jamaica
+America/Juneau;America/Juneau
+America/Kentucky/Louisville;America/Kentucky/Louisville
+America/Kentucky/Monticello;America/Kentucky/Monticello
+America/Kralendijk;America/Kralendijk
+America/Lima;America/Lima
+America/Maceio;America/Maceio
+America/Managua;America/Managua
+America/Manaus;America/Manaus
+America/Marigot;America/Marigot
+America/Martinique;America/Martinique
+America/Matamoros;America/Matamoros
+America/Mazatlan;America/Mazatlan
+America/Menominee;America/Menominee
+America/Merida;America/Merida
+America/Metlakatla;America/Metlakatla
+America/Miquelon;America/Miquelon
+America/Moncton;America/Moncton
+America/Monterrey;America/Monterrey
+America/Montevideo;America/Montevideo
+America/Montreal;America/Montreal
+America/Montserrat;America/Montserrat
+America/Nassau;America/Nassau
+America/Nipigon;America/Nipigon
+America/Nome;America/Nome
+America/Noronha;America/Noronha
+America/Ojinaga;America/Ojinaga
+America/Panama;America/Panama
+America/Pangnirtung;America/Pangnirtung
+America/Paramaribo;America/Paramaribo
+America/Phoenix;America/Phoenix
+America/PortauPrince;America/PortauPrince
+America/Recife;America/Recife
+America/Regina;America/Regina
+America/Resolute;America/Resolute
+America/Santarem;America/Santarem
+America/Santiago;America/Santiago
+America/Scoresbysund;America/Scoresbysund
+America/Shiprock;America/Shiprock
+America/Sitka;America/Sitka
+America/Tegucigalpa;America/Tegucigalpa
+America/Thule;America/Thule
+America/Tijuana;America/Tijuana
+America/Toronto;America/Toronto
+America/Tortola;America/Tortola
+America/Vancouver;America/Vancouver
+America/Whitehorse;America/Whitehorse
+America/Winnipeg;America/Winnipeg
+America/Yakutat;America/Yakutat
+America/Yellowknife;America/Yellowknife
+America;America
+American Samoa;American Samoa
+American;Amerikaanse
+Amharic;Amharies
+An;An
+Analysis …;Analysis …
+Analysis;Analysis
+Analyze;Analyze
+Anchor;Anker
+Anchorage;Anchorage
+Anchors;ankers
+And;En
+Andorra;Andorra
+Android tablets;Android tablets
+Android&apos;Android&apos
+Android;Android
+Android™;Android™
+Angeles;Angeles
+Angola;Angola
+Anguilla;Anguilla
+Animate app;Animate app
+Animate;Animate
+Animation;Animation
+Animations;Animations
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation;AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow;AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+Annotation;annotasie
+Announces;Announces
+Annoyances;Annoyances
+Another;Another
+Answer;Answer
+Answers;antwoorde
+Antarctic Lands;Antarctic Lands
+Antarctic;Antarctic
+Antarctica/Casey;Antarctica/Casey
+Antarctica/Davis;Antarctica/Davis
+Antarctica/DumontDUrville;Antarctica/DumontDUrville
+Antarctica/Macquarie;Antarctica/Macquarie
+Antarctica/Mawson;Antarctica/Mawson
+Antarctica/McMurdo;Antarctica/McMurdo
+Antarctica/Palmer;Antarctica/Palmer
+Antarctica/Rothera;Antarctica/Rothera
+Antarctica/Syowa;Antarctica/Syowa
+Antarctica/Troll;Antarctica/Troll
+Antarctica/Vostok;Antarctica/Vostok
+Antarctica;Antarktika
+AntiVirus;Viruswering
+Antigua and Barbuda;Antigua and Barbuda
+Antigua;Antigua
+Antilles;Antilles
+Antivirus;Antivirus
+Any;Any
+AnyText;AnyText
+Anywhere;Anywhere
+App can &apos;App can &apos
+App;webtoepassing
+AppCache;AppCache
+AppCacheUtils;AppCacheUtils
+AppMenu;AppMenu
+AppName Uninstall;AppNameoninstallering
+AppName;AppName
+Appcache validated;Appcache validated
+Appcache;Appcache
+Appearance;Voorkoms
+Appendices;Appendices
+Apple Mail;Apple Mail
+Apple;Apple
+AppleSingle extraction error;AppleSingleuitpakfout
+AppleSingle extraction;AppleSingle extraction
+AppleSingle;AppleSingle
+Applelink;Applelink
+Applet;Applet
+Application;Toepassing
+Applications;Toepassings
+Apply;Toepas
+Applying update;Applying update
+Applying;Applying
+Appointments;Appointments
+ApprovedBy;Goedgekeurdeur
+Apps;Apps
+Apr;Apr
+April;April
+Arab;Arab
+Arabia;Arabia
+Arabic MacArabic;Arabic MacArabic
+Arabic Windows;Arabic Windows
+Arabic;Arabies
+Aragonese;Aragonees
+Archive;Argief
+Archived;Archived
+Archives;Argief
+Archiving;Archiving
+Arctic/Longyearbyen;Arctic/Longyearbyen
+Are;Is
+Area;Area
+Argentina;Argentinië
+Arial;Arial
+Armenia;Armenië
+Armenian;Armeens
+Arrow;Arrow
+Articles;artikels
+Artist;Artist
+Aruba;Aruba
+As Laid Out;Soos
+As Quotation;As Quotation
+As;as
+Ascending;Oplopend
+Ascension and;Ascension and
+Ascension;Ascension
+Ashmore;Ashmore
+Asia/Aden;Asia/Aden
+Asia/Almaty;Asia/Almaty
+Asia/Amman;Asia/Amman
+Asia/Anadyr;Asia/Anadyr
+Asia/Aqtau;Asia/Aqtau
+Asia/Aqtobe;Asia/Aqtobe
+Asia/Ashgabat;Asia/Ashgabat
+Asia/Baghdad;Asia/Baghdad
+Asia/Bahrain;Asia/Bahrain
+Asia/Baku;Asia/Baku
+Asia/Bangkok;Asia/Bangkok
+Asia/Barnaul;Asia/Barnaul
+Asia/Beirut;Asia/Beirut
+Asia/Bishkek;Asia/Bishkek
+Asia/Brunei;Asia/Brunei
+Asia/Chita;Asia/Chita
+Asia/Choibalsan;Asia/Choibalsan
+Asia/Chongqing;Asia/Chongqing
+Asia/Colombo;Asia/Colombo
+Asia/Damascus;Asia/Damascus
+Asia/Dhaka;Asia/Dhaka
+Asia/Dili;Asia/Dili
+Asia/Dubai;Asia/Dubai
+Asia/Dushanbe;Asia/Dushanbe
+Asia/Gaza;Asia/Gaza
+Asia/Harbin;Asia/Harbin
+Asia/Hebron;Asia/Hebron
+Asia/Hovd;Asia/Hovd
+Asia/Irkutsk;Asia/Irkutsk
+Asia/Istanbul;Asia/Istanbul
+Asia/Jakarta;Asia/Jakarta
+Asia/Jayapura;Asia/Jayapura
+Asia/Jerusalem;Asia/Jerusalem
+Asia/Kabul;Asia/Kabul
+Asia/Kamchatka;Asia/Kamchatka
+Asia/Karachi;Asia/Karachi
+Asia/Kashgar;Asia/Kashgar
+Asia/Kathmandu;Asia/Kathmandu
+Asia/Khandyga;Asia/Khandyga
+Asia/Kolkata;Asia/Kolkata
+Asia/Krasnoyarsk;Asia/Krasnoyarsk
+Asia/Kuching;Asia/Kuching
+Asia/Kuwait;Asia/Kuwait
+Asia/Macau;Asia/Macau
+Asia/Magadan;Asia/Magadan
+Asia/Makassar;Asia/Makassar
+Asia/Manila;Asia/Manila
+Asia/Muscat;Asia/Muscat
+Asia/Nicosia;Asia/Nicosia
+Asia/Novokuznetsk;Asia/Novokuznetsk
+Asia/Novosibirsk;Asia/Novosibirsk
+Asia/Omsk;Asia/Omsk
+Asia/Oral;Asia/Oral
+Asia/Pontianak;Asia/Pontianak
+Asia/Pyongyang;Asia/Pyongyang
+Asia/Qatar;Asia/Qatar
+Asia/Qyzylorda;Asia/Qyzylorda
+Asia/Rangoon;Asia/Rangoon
+Asia/Riyadh;Asia/Riyadh
+Asia/Sakhalin;Asia/Sakhalin
+Asia/Samarkand;Asia/Samarkand
+Asia/Seoul;Asia/Seoul
+Asia/Shanghai;Asia/Shanghai
+Asia/Singapore;Asia/Singapore
+Asia/Srednekolymsk;Asia/Srednekolymsk
+Asia/Taipei;Asia/Taipei
+Asia/Tashkent;Asia/Tashkent
+Asia/Tbilisi;Asia/Tbilisi
+Asia/Tehran;Asia/Tehran
+Asia/Thimphu;Asia/Thimphu
+Asia/Tokyo;Asia/Tokyo
+Asia/Ulaanbaatar;Asia/Ulaanbaatar
+Asia/Urumqi;Asia/Urumqi
+Asia/UstNera;Asia/UstNera
+Asia/Vientiane;Asia/Vientiane
+Asia/Vladivostok;Asia/Vladivostok
+Asia/Yakutsk;Asia/Yakutsk
+Asia/Yekaterinburg;Asia/Yekaterinburg
+Asia/Yerevan;Asia/Yerevan
+Asia;Asia
+Asian;SWAsiaties
+Ask;Ask
+Asks how;Asks how
+Asks;Asks
+Assamese;Assami
+Assembling mail;Assembling mail
+Assembling messageDone;Assembling messageDone
+Assembling;Assembling
+Assistant;assistent
+Associated;Associated
+Assurance;Assurance
+Asturian;Asturiaans
+Async;Async
+Asynchronous Pan;Asynchronous Pan
+Asynchronous;Asinkroniese
+Atlantic/Azores;Atlantic/Azores
+Atlantic/Bermuda;Atlantic/Bermuda
+Atlantic/Canary;Atlantic/Canary
+Atlantic/Faroe;Atlantic/Faroe
+Atlantic/Madeira;Atlantic/Madeira
+Atlantic/Reykjavik;Atlantic/Reykjavik
+Atlantic/Stanley;Atlantic/Stanley
+Atlantic;Atlantic
+Atoll;Atoll
+Atom;Atom
+Attach;Heg aan
+Attached;Aangehegde
+Attachment;Aanhegsel
+Attachment;Aanhegsels
+AttachmentRemove;AttachmentRemove
+Attachments;Aanhegsels
+Attack Site;Attack Site
+Attack;Attack
+Attempt to;Attempt to
+Attempt;Attempt
+Attempts;Attempts
+Attendance;Attendance
+Attendee;Attendee
+Attendees;Attendees
+Attention;Attention
+Attribute;Attribuut
+Attributes;Attributes
+Attribution;Attribution
+Auckland;Auckland
+Audio;Klank
+AudioBufferSourceNode;AudioBufferSourceNode
+AudioChannel;AudioChannel
+AudioListener and speedOfSound and dopplerFactor on;AudioListener and speedOfSound and dopplerFactor on
+AudioListener;AudioListener
+AudioListenerDeprecated;AudioListenerDeprecated
+AudioNode Inspector;AudioNode Inspector
+AudioNode;AudioNode
+AudioParam does;AudioParam does
+AudioParam;AudioParam
+AudioParams;AudioParams
+Aug;Aug
+August;Augustus
+Aurora;Aurora
+Australia/Adelaide;Australia/Adelaide
+Australia/Brisbane;Australia/Brisbane
+Australia/Currie;Australia/Currie
+Australia/Darwin;Australia/Darwin
+Australia/Eucla;Australia/Eucla
+Australia/Hobart;Australia/Hobart
+Australia/Lindeman;Australia/Lindeman
+Australia/Melbourne;Australia/Melbourne
+Australia/Perth;Australia/Perth
+Australia/Sydney;Australia/Sydney
+Australia;Australië
+Austria;Oostenryk
+Authenticated;Authenticated
+Authenticating;Authenticating
+Authentication method &apos;
+Authentication;Stawing
+Author;Outeur
+Authored;Authored
+Authorities;Owerhede
+Authority unnamed;Authority unnamed
+Authority;Authority
+Authorize;Authorize
+Authors;Authors
+Auto Increment;Auto Increment
+Auto Update;Auto Update
+Auto;Outomaties
+AutoA;AutoA
+AutoConfig Alert;AutoConfigwaarskuwing
+AutoConfig;AutoConfig
+AutoDetect;Outospeur
+AutoJoined Channels;AutoJoined Channels
+AutoJoined;AutoJoined
+Autodetect;Outospeur
+Automatic;Outomaties
+Available;Beskikbaar
+Avaric;Avaries
+Avestan;Avestanies
+Avg;Gemiddelde
+Aymara;Aymara
+Azerbaijan;Azerbeidjan
+Azerbaijani;Azerbeidjans
+B;B
+BBS;BBS
+BCC;BCC
+BDocument Info;BLêerinligting
+BENCRYPTED;BGEËNKRIPTEERDE
+BG Images;agtergrondprente
+BLOCKED;GEBLOK
+BPPerhaps;BPDalk
+BSIGNED;BONDERTEKENDE
+Back;Terug
+Background;Agtergrond
+Backgrounds;agtergronde
+Backspace;Backspace
+Backup…;Rugsteun…
+Bahrain;Bahrein
+Baltic;Balties
+Bambara;Bambarees
+Bangladesh;Bangladesj
+Banking;Bankdienste
+Barbados;Barbados
+Barbuda;Barbuda
+Bashkir;Basjkir
+Basic;basiese
+Basque;Baskies
+Bcc;BCC
+Be;Be
+Before;vóór
+Belarus;WitRusland
+Belarusian;BeloRussies
+Belgium;België
+Belize;Belize
+Below;onderkant
+Bengali;Bengali
+Benin;Benin
+Bermuda;Bermuda
+Bhutan;Bhoetan
+Big;Big
+BigHKSCS;BigHKSCS
+Bigger;Groter
+Bihari;Bihari
+Bing;Bing
+Birth Day;Geboortedag
+Birth Month;Geboortemaand
+Birth Year;Geboortejaar
+Birthday;Verjaardag
+Birthday;Verjaarsdag
+Bislama;Bislama
+Bits;bisse
+Blank;Blanko
+Block;Blokkeer
+Blocked;Geblokkeer
+Blogs;Blogs
+Body;Lyf
+Bokmål;Boektaal
+Bold;Vet
+Bolivia;Bolivia
+Bookmark;Boekmerk
+BookmarkRemove;boekmerkVerwyder
+Bookmarked;geboekmerkte
+Bookmarks;Boekmerke
+Boolean;Boolese
+Border;Rand
+Bosnia;Bosnië
+Bosnian;Bosnies
+Botswana;Botswana
+Bottom;Onder
+Bottom;Onderkant
+Bouvet Island;Bouveteiland
+Boxes;Boxes
+BrandFullName Credits;brandFullNamekrediete
+BrandFullName;BrandFullName
+BrandFullNameDA;BrandFullNameDA
+BrandShortName;BrandShortName
+Brazil;Brasilië
+Breton;Bretons
+British;Britse
+Browse;Blaai
+Browser;Blaaier
+Browse…;Blaai…
+Browsing;Blaai
+Building;Bou tans
+Bulgaria;Bulgarye
+Bulgarian;Bulgaars
+Bullet Style;Koeëltjiestyl
+Bullet;Koeëltjie
+Bulleted;Koeëltjies
+Bullets;Koeëltjies
+Burkina;Boerkina
+Burmese;Birmaans
+Burundi;Burundi
+Button;Knoppie
+Bytes;grepe
+C;C
+CA Compromise;SOkompromis
+CA Issuers;SOuitreikers
+CA;SO
+CC;CC
+CCBY;CCBY
+CCBYSA;CCBYSA
+CD;CD
+CDATA section;CDATAafdeling
+CDSA;CDSA
+CKL;CKL
+CKR;CKR
+CLICK;CLICK
+CMS;CMS
+CN;CN
+COLNAME;COLNAME
+CP;CP
+CRL Distribution Points;SOLverspreidingspunte
+CRL Signer;SOLondertekenaar
+CRL;SOL
+CSS;CSS
+CYPHER;CYPHER
+Cache;Kas
+Caicos Islands;Caicoseilande
+Calculating;kasgrootte
+California;Kalifornië
+Cambodia;Kambodja
+Cameroon;Kameroen
+Canada;Kanada
+Canadian;Kanadese
+Canary;Canary
+Cancel;Kanselleer
+Canceled;Gekanselleer
+Cancelling…;Kanselleer tans…
+CanvasGradient;CanvasGradient
+CanvasPattern;CanvasPattern
+Caption;Byskrif
+Car;Motor
+Card;kaart
+Catalan;Katalonies
+Category;Kategorie
+Cayman Islands;Kaaimaneilande
+Cc;CC
+Cell Contents;Selinhoud
+Cell;Sel
+Cells;Selle
+Celtic;Kelties
+Center;Middel
+Center;Sentreer
+Central African;SentraalAfrikaanse
+Central European;SentraalEuropees
+Certificate;Sertifikaat
+Certificates;Sertifikate
+Certification Practice Statement pointer;Sertifiseringspraktykstellinginleiding
+Certified;Gesertifiseer
+Certifying;sertifiserende
+Cessation;Staking
+Chad;Tsjad
+Chamorro;Tjamorrees
+Change Cipher;Change
+Change;Wysig
+Character Encodings;karakterenkoderings
+Character;Karakter
+Charset;Karakterstel
+Chechen;Tsjetsnies
+Check;Merk
+Checked;gemerk
+Chichewa;Chichewa
+Chile;Chili
+China;Sjina
+Chinese;Sjinees
+Choose;Kies
+Choose…;Kies…
+Christmas Island;Christmaseiland
+Chrome;Chrome
+Chromium;Chromium
+Church Slavic;KerkSlawies
+Chuvash;Tjuvashies
+Cisco;Cisco
+Citation;Aanhaling
+City;Dorp/stad
+City;Stad
+Class;Klas
+Classic;Klassieke
+Clear;Maak skoon
+ClearType Parameters;ClearTypeparameters
+Clearing;Wis tans
+Clears;voltooide
+Click;Kliek
+Client;Client
+Clockwise;kloksgewys
+Close Group;groepsluiting
+Close;Sluit
+Close;Toemaak
+Closed;geslote
+Cmd;Cmd
+Cocos Keeling Islands;Kokoseilande
+Code;Kode
+Col;Kol
+Collapse;Invou
+Collapsed;Ingevou
+Colombia;Colombia
+Color;Kleur
+Colors;Kleure
+Colors…;Kleure…
+Column;Kolom
+Columns;Kolomme
+Comma Separated;Kommageskei
+Comma;Komma
+Commercial;Commercial
+Communicator;Communicator
+Comoros;Comore
+Compact;Kompakteer
+Compare;Vergelyking
+Compatibility;tans versoenbaarheid
+Compatible;versoenbare
+Complete;Afgehandel
+Completed;Afgehandel
+Completed;Voltooid
+Composer;Composer
+Composition;Opstelling
+Compuserve;Compuserve
+Conclusion;Slotsom
+Condensed;verkorte
+Conference Address;Konferensieadres
+Confidentiality;Vertroulikheid
+Config Editor;Opstellingredigeerder
+Config;konfig
+Configure…;Instellings…
+Confirm;Bevestig
+Congratulations;Baie geluk
+Connect;Koppel
+Connected;gekoppel
+Connecting…;Verbind tans…
+Connection;Verbinding
+Consecutive;opeenvolgende
+Constrain;Beperk
+Contact;Kennis
+Contact;Kontak
+Contacts;Kennisse
+Containing Folder;houervouer
+Content;Inhoud
+Contents;Inhoud
+Continue;Gaan voort
+Contribute;Dra by
+Contribution;bydrae
+Contributors;Bydraers
+Control;kontrole
+Controls;kontroles
+Conversation;gesprek
+Cook Islands;Cookeilande
+Cookie;koekie
+Cookies;Koekies
+Cool;Koel
+Cool;Oulik
+Copies;Kopieë
+Copy;Kopieer
+Cornish;Cornies
+Corsican;Korsikaans
+Costa;Costa
+Count;Telling
+Counterclockwise;antikloksgewys
+Country;Land
+Courier;Courier
+Creation Date;Skeppingsdatum
+Creator;Skepper
+Credits;Erkenning
+Cree;Krees
+Critical;Kritiek
+Croatia;Kroasië
+Croatian;Kroaties
+Cross Platform COM;KruisplatformCOM
+Cry;Huil
+Crypto Services;kriptografiedienste
+Cryptographic;kriptografiese
+Ctrl;Ctrl
+Cuba;Kuba
+Current;huidige
+Cursor;Wyser
+Custom;Doelmaak
+Customize;Doelmaak
+Customize…;Doelmaak…
+Custom…;Doelmaak…
+Cut;Knip
+Cycle;Wissel
+Cyprus;Ciprus
+Cyrillic;Cyrillies
+Czech;Tsjeggies
+DC;DC
+DECDSA;DECDSA
+DELE command;DELEbevel
+DER;DER
+DERencoded;DERgeënkodeerde
+DEVICE;DEVICE
+DISPLAYNAME Update;DISPLAYNAMEbywerking
+DISPLAYNAME is;DISPLAYNAME
+DLL;DLL
+DN;DN
+DNS;DNS
+DOM Source;DOMbron
+DOM;DOM
+DOMelementaddEventListener;DOMelementaddEventListener
+DOMelementremoveEventListener;DOMelementremoveEventListener
+DOS;DOS
+DRM;DRM
+DVemer;DVemer
+Danish;Deens
+Dark;Donker
+Data;Data
+Date/Time;Datum/tyd
+Date;Datum
+Day;Day
+DayCrash Reports;DayCrash Reports
+DayCrash;DayCrash
+Days;Dae
+Days;dage
+Debug Mode;Debug Mode
+Debug;Ontfout
+DebugALIGNCENTERerver;DebugALIGNCENTERerver
+Debugger;Debugger
+Debugging;Debugging
+Dec;Des
+December;Desember
+Decide;Decide
+Declaration;Declaration
+Decline;Decline
+Declined;Declined
+Decoder;Decoder
+Decoding error;Decoding error
+Decoding;Decoding
+Decrease;Verminder
+Decrypted;Decrypted
+Decryption;Decryption
+Deer;Deer
+Default;Verstek
+Defaults;skryfverstek
+Defer Account;Defer Account
+Defer;Defer
+Define;Define
+Defined;Defined
+Definition;Definisie
+Definitions;Definitions
+Del;Del
+Delay;Delay
+Delete Message;Delete Message
+Delete;Skrap
+Deleted;Deleted
+Delete…;Skrap…
+Deleting a;Deleting a
+Deleting component;Deleting component
+Deleting;Deleting
+Deletion Error;Deletion Error
+Deletion;Deletion
+Delimited;Delimited
+Delivery Format;Delivery Format
+Delivery Status Notification;Afleweringstatuskennisgewing
+Delivery;Delivery
+Denmark;Denemarke
+Denver;Denver
+Deny;Weier
+Department;Afdeling
+Descending;Aflopend
+Describe Problem;Describe Problem
+Describe;Describe
+Description;Beskrywing
+Deserialize;Deserialize
+Design Mode;Design Mode
+Design View;Design View
+Design;Design
+Desktop Backgroundbmp;Werkskermagtergrondbmp
+Desktop Open &quot;Desktop Open &quot
+Desktop;Werkskerm
+Destination Folder;Destination Folder
+Destination;Destination
+Destroy;Destroy
+Detach;Afheg
+Detach…;Afheg…
+Detail;Detail
+Details of;Details of
+Details;Besonderhede
+Details…;Details…
+Details…;Detail…
+Detect indentation;Detect indentation
+Detect;Detect
+Determining which;Determining which
+Determining;Determining
+DevTools;DevTools
+Devanagari;Devanagari
+Developed;Developed
+Developer Edition;Developer Edition
+Developer Tools;Developer Tools
+Developer;Ontwikkelaar
+Developers;Ontwikkelaars
+Development;Development
+Device &quot;Device &quot
+Device;Toestel
+DeviceShare;toestelDeel
+Devices;Devices
+Devicex;toestelx
+Dhekelia;Dhekelia
+Diagnostics;Diagnostics
+Dial;Dial
+Dialog Preference;dialoogvoorkeur
+Dialog;Dialog
+Dialogs;Dialogs
+Dictionaries …;Dictionaries …
+Dictionaries;Woordeboeke
+Dictionary;woordeboek
+Did;Het
+Diego;Diego
+Different;Different
+DiffieHellman key;DiffieHellmansleutel
+DiffieHellman;DiffieHellman
+Digest function;Digest function
+Digest was;Digest was
+Digest;Digest
+Digg Reader;Digg Reader
+Digg;Digg
+Digital;Digital
+Dimensions;Dimensies
+Direct;Direct
+DirectD;DirectD
+DirectWrite;DirectWrite
+Direction;Rigting
+Directive;Directive
+Directories;gidse
+Directory &apos;Directory &apos
+Directory Servers;Directory Servers
+Directory;Directory
+Disability access;Gestremdheidtoegang
+Disability;Disability
+Disable;Deaktiveer
+Disabled;Gedeaktiveer
+Disables;Disables
+Disabling;Disabling
+Discard closed;Discard closed
+Discard;Discard
+Discarded packets;Discarded packets
+Discarded;Discarded
+Disconnect from;Disconnect from
+Disconnect;Ontkoppel
+Disconnectellipsis;Disconnectellipsis
+Disconnecting…;Disconnecting…
+Disconnectme strict;Disconnectme strict
+Disconnectme;Disconnectme
+Disconnect…;Ontkoppel…
+Discontinue Link;Discontinue Link
+Discontinue;Discontinue
+Discover;Discover
+Discussions;bespreking
+Disk;Disk
+Dismiss;Dismiss
+Display a;Display a
+Display;Vertoon
+Display;Wys
+Displays the;Displays the
+Displays;Displays
+Distinguished;Distinguished
+Distribution Points;Distribution Points
+Distribution;Verspreiding
+Distrust;Distrust
+Divehi;Divehi
+Djibouti;Djiboeti
+Do;Do
+Dock;Dock
+Docs;Docs
+Document Outline;dokumentoorsig
+Document;Document
+Documents;Dokumente
+Doe;Doe
+Doing;Doing
+Domain GUID;Domain GUID
+Domain;Domein
+Domains;Domains
+Domestic;Plaaslik
+Dominator;Dominator
+Dominators;Dominators
+Domingo;Domingo
+Dominica;Dominica
+Dominican;Dominikaanse
+Don &apos;Don &apos
+Don;Don
+Done;Klaar
+Double click;Dubbelkliek
+Double;Double
+Doublecheck;Doublecheck
+Doubleclick;Doubleclick
+Down;Af
+Download Link;Download Link
+Download;Aflaai
+Download;Laai af
+DownloadRestart;DownloadRestart
+Downloaded;Afgelaai
+Downloading;Aflaai
+Downloading;Laai tans af
+Downloading…;Laai tans af…
+Downloads;Afgelaai
+Downloads;Aflaaie
+Draft Message;Draft Message
+Draft;Onvoltooid
+Drafts;Onvoltooid
+Drag;Sleep
+Draw draws;Draw draws
+Draw repainted;Draw repainted
+Draw;Draw
+Driver Verification;Driver Verification
+Driver;Driver
+Drivers;Drivers
+Drives;Drives
+Drop a;Drop a
+Drop;Drop
+Dropping a;Dropping a
+Dropping;Dropping
+DuckDuckGo;DuckDuckGo
+Due;Due
+Dump;Dump
+Duplicate name;Duplicate name
+Duplicate;Duplicate
+Duraterver;Duraterver
+Duration;Duration
+Dutch;Nederlands
+Dzongkha;Bhoetaans
+ECDSA Signature;ECDSA Signature
+ECDSA;ECDSA
+EDI Party Name;EDIpartynaam
+EDI Party;EDI Party
+EDI;EDI
+EHLO;EHLO
+EMail Certificates;epossertifikate
+EMail;Epos
+ERROR;FOUT
+ERRORS;ERRORS
+ES;ES
+ESC;ESC
+EUCJP;EUCJP
+EUCKR;EUCKR
+EUCTW;EUCTW
+EV;EV
+EXTRACTION_FAILED;EXTRACTION_FAILED
+Each;Elke
+Eager;Eager
+Earlier;Earlier
+East Asian;OosAsiaties
+East European;OosEuropees
+East;East
+Eastern;Eastern
+Ecuador;Ecuador
+Edge;Edge
+Edit Conditional;Edit Conditional
+Edit;Redigeer
+Editing;Redigering
+Edition;Edition
+Editor;Editor
+Editors;Editors
+Edit…;Redigeer…
+Egypt;Egipte
+Either;Either
+El Aaiun;El Aaiun
+El Salvador;El Salvador
+El;El
+Elapsed;verstreke
+Element;element
+ElementmozRequestFullScreen;ElementmozRequestFullScreen
+ElementrequestFullscreen was;ElementrequestFullscreen was
+ElementrequestFullscreen;ElementrequestFullscreen
+ElementrequestPointerLock;ElementrequestPointerLock
+Elements;Elements
+Email Address;Email Address
+Email;Epos
+Embarrassed;Verleë
+Embed;Ingebed
+Embedded;Ingebed
+Emirates;Emirates
+Emphasis;Benadruk
+Emptied Trash;Emptied Trash
+Emptied;leeggemaak
+Empty;Leeg
+Emulate;Emulate
+Enable;Aktiveer
+Enabled;Geaktiveer
+Enables;Enables
+Encipherment;Encipherment
+Encoder;Encoder
+Encoding While;Encoding While
+Encoding;Enkodering
+Encodings;enkoderings
+Encrypt;Encrypt
+Encrypted password&apos;Encrypted password&apos
+Encrypted;Geënkripteer
+Encrypting File;Encrypting File
+Encrypting;Encrypting
+Encryption;Enkripsie
+End;End
+EndUser Rights;Eindgebruikerregte
+EndUser;EndUser
+Ended;Beëindig
+Endian;Endian
+Endpoint;Endpoint
+Enforce;Enforce
+Engine;Engine
+Engineering;Engineering
+Engines;Engines
+English US;Afrikaans
+English USASCII;Engels USASCII
+English language;vertaalde
+English;Engels
+Enhanced;Enhanced
+Enlarge;Enlarge
+Enter &apos;Enter &apos
+Enter Full;Enter Full
+Enter that;Enter that
+Enter;Enter
+Entered;ingetik
+Entering;Entering
+Entries;Entries
+Entry;Entry
+Enumerable Properties;Enumerable Properties
+Enumerable;Enumerable
+Environment;Omgewing
+Epiphany;Epiphany
+Equatorial Guinea;EkwatoriaalGuinee
+Equatorial;Equatorial
+Eritrea;Eritrea
+Error;Fout
+Errors;Foute
+Esc;Esc
+Esperanto;Esperanto
+Estonia;Estland
+Estonian;Estnies
+Ethiopia;Etiopië
+Ethiopic;Etiopies
+Eudora Nicknames;Eudorabyname
+Eudora Settings;Eudoraopstelling
+Eudora mail;Eudorapos
+Eudora;Eudora
+Europa Island;Europa Island
+Europa;Europa
+Europe/Amsterdam;Europe/Amsterdam
+Europe/Andorra;Europe/Andorra
+Europe/Astrakhan;Europe/Astrakhan
+Europe/Athens;Europe/Athens
+Europe/Belgrade;Europe/Belgrade
+Europe/Berlin;Europe/Berlin
+Europe/Bratislava;Europe/Bratislava
+Europe/Brussels;Europe/Brussels
+Europe/Bucharest;Europe/Bucharest
+Europe/Budapest;Europe/Budapest
+Europe/Busingen;Europe/Busingen
+Europe/Chisinau;Europe/Chisinau
+Europe/Copenhagen;Europe/Copenhagen
+Europe/Dublin;Europe/Dublin
+Europe/Gibraltar;Europe/Gibraltar
+Europe/Guernsey;Europe/Guernsey
+Europe/Helsinki;Europe/Helsinki
+Europe/Istanbul;Europe/Istanbul
+Europe/Jersey;Europe/Jersey
+Europe/Kaliningrad;Europe/Kaliningrad
+Europe/Kiev;Europe/Kiev
+Europe/Lisbon;Europe/Lisbon
+Europe/Ljubljana;Europe/Ljubljana
+Europe/London;Europe/London
+Europe/Luxembourg;Europe/Luxembourg
+Europe/Madrid;Europe/Madrid
+Europe/Malta;Europe/Malta
+Europe/Mariehamn;Europe/Mariehamn
+Europe/Minsk;Europe/Minsk
+Europe/Monaco;Europe/Monaco
+Europe/Moscow;Europe/Moscow
+Europe/Nicosia;Europe/Nicosia
+Europe/Oslo;Europe/Oslo
+Europe/Paris;Europe/Paris
+Europe/Podgorica;Europe/Podgorica
+Europe/Prague;Europe/Prague
+Europe/Riga;Europe/Riga
+Europe/Rome;Europe/Rome
+Europe/Samara;Europe/Samara
+Europe/Sarajevo;Europe/Sarajevo
+Europe/Simferopol;Europe/Simferopol
+Europe/Skopje;Europe/Skopje
+Europe/Sofia;Europe/Sofia
+Europe/Stockholm;Europe/Stockholm
+Europe/Tallinn;Europe/Tallinn
+Europe/Tirane;Europe/Tirane
+Europe/Ulyanovsk;Europe/Ulyanovsk
+Europe/Uzhgorod;Europe/Uzhgorod
+Europe/Vaduz;Europe/Vaduz
+Europe/Vatican;Europe/Vatican
+Europe/Vienna;Europe/Vienna
+Europe/Vilnius;Europe/Vilnius
+Europe/Volgograd;Europe/Volgograd
+Europe/Warsaw;Europe/Warsaw
+Europe/Zagreb;Europe/Zagreb
+Europe/Zaporozhye;Europe/Zaporozhye
+Europe/Zurich;Europe/Zurich
+Europe;Europe
+European;European
+Eustatius and;Eustatius and
+Eustatius;Eustatius
+Eval;Eval
+Evaluate;Evalueer
+Evaluated JavaScript;Evaluated JavaScript
+Evaluated;Evaluated
+Evaluating;evalueer van
+Evangelism;Evangelism
+Even;Even
+Event;Event
+Events;Events
+Event…;Event…
+Every Time;Every Time
+Every;Every
+Everything;Alles
+Eviction;Eviction
+Ewe;Ewe
+Example;Example
+Excellent;Excellent
+Except;Except
+Exception …;Exception …
+Exception;Exception
+Exceptions;Uitsonderings
+Exceptions…;Uitsonderings…
+Exchange;Exchange
+ExecShell &quot;ExecShell &quot
+ExecShell;ExecShell
+Executable;Uitvoerbare
+Execute Menu;Execute Menu
+Execute;Uitvoering
+Executing s;Executing s
+Executing;Executing
+Execution stopped;Execution stopped
+Execution;loopaksie
+Executive;Executive
+Existing;Existing
+Exists;bestaan
+Exit;Afsluit
+Exited;Exited
+Exiting;Exiting
+Expand/Collapse;Expand/Collapse
+Expand;Uitvou
+Expanded;Uitgevou
+Expected;Expected
+Experiments;Eksperimente
+Expired;Verval
+Expires On;Expires On
+Expires Seconds;Expires Seconds
+Expires;Verval
+Explorer;Explorer
+Exponent;Eksponent
+Export;Uitvoer
+Export…;Uitvoer…
+Exposing chrome;Exposing chrome
+Exposing;Exposing
+Express;Express
+Expression;Expression
+Expressions;Expressions
+Expunge &quot;Expunge &quot
+Expunge;Deurhaal
+Extended Telemetry;Extended Telemetry
+Extended;uitgebreide
+Extending;Extending
+Extension;Uitbreiding
+Extensions;Uitbreidings
+External;External
+Extra Components;Extra Components
+Extra;Ekstra
+Extract;Extract
+Extracting s;Extracting s
+Extracting;Extracting
+Extracting…;Extracting…
+Eyedropper;Eyedropper
+F GB;F GB
+F turns;F turns
+F/Escape;F/Escape
+F;F
+FAILED;FAILED
+FALLBACK section;FALLBACK section
+FALLBACK;FALLBACK
+FAQ;FAQ
+FAQs feedback;FAQs feedback
+FAQs;FAQs
+FCC;FCC
+FHR data;FHR data
+FHR;FHR
+FIPS;FIPS
+FONT;FONT
+FONTHR;FONTHR
+FORTEZZA chain;FORTEZZA chain
+FORTEZZA;FORTEZZA
+FTP Proxy;FTP Proxy
+FTP;FTP
+FUNCTION;FUNCTION
+FW Version;FWweergawe
+FW;FW
+FYR;FYR
+Facebook Chat;Facebook Chat
+Facebook;Facebook
+Faeroese;Faeroese
+Failed;Het misluk
+Failed;Misluk
+Failure;Failure
+Failures;Failures
+Falkland Islands Islas Malvinas;Falkland Islands Islas Malvinas
+Falkland Islands;Falkland Islands
+Falkland;Falkland
+Fallback Character;Fallback Character
+Fallback;Fallback
+Falling back;Falling back
+Falling;Falling
+False;False
+Family;Familie
+Fantasy;Fantasy
+Faroe Islands;Faroëreilande
+Faroe;Faroe
+Faroese;Faroëes
+Farsi;Farsi
+Faso;Faso
+Fast;Fast
+Fatal;Fatal
+Favorite Folder;Gunstelingvouer
+Favorite Folders;Gunstlingvouers
+Favorite;Gunsteling
+Favorites;Gunstelinge
+Fax Number;Faksnommer
+Fax;Faks
+Feature;Feature
+Features;Kenmerke
+Feb;Feb
+February;Februarie
+Federated States of;Federated States of
+Federated States;Federated States
+Federated;Federated
+Federation;Federation
+Feed Location;Feed Location
+Feed;Feed
+Feedback Agent;Feedback Agent
+Feedback …;Feedback …
+Feedback;Terugvoer
+Feedly;Feedly
+Feeds;Nuusvoere
+Feeds;Voere
+Feel;Feel
+Festival;Festival
+Fetch function;Fetch function
+Fetch headers;Fetch headers
+Fetch;Fetch
+FetchEvent;FetchEvent
+FetchEventpreventDefault;FetchEventpreventDefault
+FetchEventrequest;FetchEventrequest
+FetchEventrespondWith;FetchEventrespondWith
+Fetching…;Fetching…
+Fewer;Fewer
+Field;Field
+Fields;Fields
+Fifth;Fifth
+Fiji;Fidji
+Fijian;Fidjies
+File System;File System
+File;Lêer
+FilelastModified;FilelastModified
+FilelastModifiedDate is;FilelastModifiedDate is
+FilelastModifiedDate;FilelastModifiedDate
+Filelink;Filelink
+Filelink…;Filelink…
+Filename;Lêernaam
+Files;Files
+Files…;Lêers…
+File…;Lêer…
+Filing Cabinet;Filing Cabinet
+Fill;Opvul
+Filter Box;Filter Box
+Filter Execution;filteruitvoering
+Filter;Filter
+Filtering;Filtering
+Filters;Filters
+Finalizing;Finalizing
+Find;Vind
+Finder;Finder
+Findings;Findings
+Find…;Vind…
+Fingerprint;Fingerprint
+Fingerprints;Vingerafdrukke
+Finish Customizing;Finish Customizing
+Finish;Klaar
+Finished;Is klaar
+Finland;Finland
+Finnish;Fins
+Firebird;Firebird
+Firebug;Firebug
+Firefox Support;Firefox Support
+Firefox can &apos;Firefox can &apos
+Firefox doesn &apos;Firefox doesn &apos
+Firefox;Firefox
+First;Voornaam
+Fit;Pas
+Five;Five
+Fix Table;Fix Table
+Fix;Fix
+Fixed;Fixed
+Flag;Flag
+Flagged;Flagged
+Flame Chart;Flame Chart
+Flame;Flame
+Flash embed;Flash embed
+Flash;Flash
+Flatten;Flatten
+Flexible Space;Flexible Space
+Flexible;Wisselbare
+Focus;Focus
+Folder;Vouer
+Folders;Vouers
+Folder…;Vouer…
+Follow;Volg
+Followers;Followers
+Following;Following
+Followup;Followup
+FollowupTo;Opvolgaan
+Fond;Fond
+Font;Font
+Fonts;Fonte
+Footer;voetstuk
+Footers;voetstukke
+FootinMouth;Voetindiemond
+FootinMouth;Voetinmond
+For;Vir
+Force;Force
+Forever;Forever
+Forge;Forge
+Forgery;Forgery
+Forget;Vergeet
+Form History;vormgeskiedenis
+Form;Vorm
+Format;Formaat
+Format;Formateer
+Formatting;Formatering
+Forms;Forms
+Fort;Fort
+Fortezza;Fortezza
+Forum;Forum
+Forums;Forums
+Forward;Aanstuur
+Forward;Vorentoe
+Forwarded;Aangestuur
+Forwarding;Forwarding
+Found;Found
+Foundation;Stigting
+Four Hours;Four Hours
+Four;vier
+Fourth;Fourth
+Fr;Vr
+Frakkin &apos;Frakkin &apos
+Frakkin;Frakkin
+Frame;raam
+Framerate;Framerate
+Frames painted;Frames painted
+Frames parsed;Frames parsed
+Frames presented;Frames presented
+Frames;Rame
+France;Frankryk
+Free;Free
+French Southern;French Southern
+French;Frans
+Frequency;Frequency
+Frequent;Gereeld
+Fri;Vr
+Friday;Vrydag
+Frisian;Fries
+Friulian;Frioelies
+From History;From History
+From List;From List
+From;Van
+Front facing;Front facing
+Front;vore
+Frown;Frons
+Fulah;Fulah
+Full;Full
+Fullscreen;Fullscreen
+Fun To;Fun To
+Fun;Fun
+Function;Function
+Futuna;Futuna
+Future;Toekomstige
+GB;GG
+GBK;GBK
+GC Event;GC Event
+GC Slice;GC Slice
+GC;GC
+GCLI is;GCLI is
+GCLI;GCLI
+GDI Library;GDI Library
+GDI;GDI
+GData;GData
+GENERAL;GENERAL
+GEOSTD;GEOSTD
+GLSL code;GLSL code
+GLSL;GLSL
+GMTString;GMTString
+GPU;GPU
+GSSAPI realm;GSSAPIgebied
+GSSAPI ticket;GSSAPIkaartjie
+GSSAPI;GSSAPI
+GTK;GTK
+GUID;GUID
+Gabon;Gaboen
+Gaelic;Gaelic
+Gaia;Gaia
+Galeon;Galeon
+Galician;Gallikaans
+Gallegos;Gallegos
+Gambia The;Gambia The
+Gambia;Gambia
+Gamepad;Gamepad
+Gaming consoles;Gaming consoles
+Gaming;Gaming
+Ganda;Gandees
+Gap from edge of paper to Margin;Gap from edge of paper to Margin
+Gap from;Gap from
+Gap;Gaping
+Garbage Collector Roots;Garbage Collector Roots
+Garbage;Garbage
+Garcia;Garcia
+Gated Crypto;Gated Crypto
+Gated;Gated
+Gaza Strip;Gaza Strip
+Gaza;Gaza
+Gecko;Gecko
+Geckoreg;Geckoreg
+Geckotrade;Geckotrade
+General Notification;General Notification
+General;Algemeen
+Generate a;Generate a
+Generate;Generate
+Generated;Generated
+Generating A Private;Generating A Private
+Generating A;Generating A
+Generating aggregate;Generating aggregate
+Generating;Generating
+Generation;Generation
+Generator;Generator
+Generic;Generic
+Geographic Position;Geographic Position
+Geographic;Geographic
+Georgia and;Georgia and
+Georgia;Georgië
+Georgian;Georgies
+German;Duits
+Germany;Duitsland
+Get Involved;Get Involved
+Get started;Get started
+Get;Get
+GetProcAddress of;GetProcAddress of
+GetProcAddress;GetProcAddress
+GetSystemDirectory;GetSystemDirectory
+GetVersionEx;GetVersionEx
+GetWindowsDirectory;GetWindowsDirectory
+Getting Started;Getting Started
+Getting;Getting
+Ghana;Ghana
+Gibraltar;Gibraltar
+Gives;Gives
+Glace;Glace
+Global Revived;Global Revived
+Global;Globale
+Glorioso Islands;Glorioso Islands
+Glorioso;Glorioso
+Glossary;Glossary
+Gmail;Gmail
+Go back;Go back
+Go forward;Go forward
+Go;Gaan
+Good;Good
+Google;Google
+Goose;Goose
+Gopher;Gopher
+Gort Klaatu barada;Gort Klaatu barada
+Gort;Gort
+Got it;Got it
+Got;Got
+Governance;Governance
+Grab a;Grab a
+Grab;Grab
+Grade;Grade
+Gradient is;Gradient is
+Gradient;Gradient
+Grand;Grand
+Grande;Grande
+Grant;Grant
+Graph Reduction;Graph Reduction
+Graph;Graph
+Graphics;Grafika
+Gravatar;Gravatar
+GrayScale;GrayScale
+Grayscale;Gryskleur
+Greece;Griekeland
+Greek Windows;Greek Windows
+Greek;Grieks
+Greenland;Groenland
+Greenlandic;Groenlandies
+Grenada;Grenada
+Grenadines;Grenadiene
+Grid;rooster
+Group List;Group List
+Group;Group
+Grouped By;Grouped By
+Grouped;Groepeer
+Grouping;Grouping
+Groups;Groups
+Grow;Grow
+Guadeloupe;Guadeloupe
+Guam;Guam
+Guarani;Guarani
+Guard;Guard
+Guatemala;Guatemala
+Guernsey;Guernsey
+Guess;Guess
+Guest browsing;Guest browsing
+Guest;Guest
+Guiana;Guinee
+Guinea;Guinee
+GuineaBissau;GuineeBissau
+Gujarati;Goedjarati
+Gurmukhi MacGurmukhi;Gurmukhi MacGurmukhi
+Gurmukhi;Goermukhi
+Guyana;Guyana
+H Line;Hstreep
+H;H
+HAR;HAR
+HError;HFout
+HLine;Hstreep
+HPKP;HPKP
+HREF;HREF
+HSLA;HSLA
+HSTS;Transport
+HTML Content;HTML Content
+HTML Domains;HTMLdomeins
+HTML parsing;HTML parsing
+HTML;HTML
+HTMLMediaElement;HTMLMediaElement
+HTML…;HTML…
+HTTP Cache;HTTP Cache
+HTTP Networking;HTTP Networking
+HTTP Strict Transport;HTTP Strict Transport
+HTTP;HTTP
+HTTPS URI;HTTPS URI
+HTTPS;HTTPS
+HW Version;HWweergawe
+HW;HW
+HZ;HZ
+HZGB;HZGB
+Hack the;Hack the
+Hack;Hack
+Haiti;Haïti
+Haitian;Haïties
+Halifax;Halifax
+Handler;Handler
+Handling;Handling
+Handshake record;Handshake record
+Handshake;Handshake
+Hang Report;Hangverslag
+Hangs;Hangs
+Happy;gelukkig
+Hard;Hard
+Hardware Driver Verification;Hardware Driver Verification
+Hardware Driver;Hardware Driver
+Hardware;Hardware
+Has;Has
+Hausa;Hausa
+Have an;Have an
+Have;Have
+Hawaiian;Hawaiïes
+Header;Kop
+Headers;Kopskrifte
+Heading;Kop
+Headings;Opskrifte
+Health Report;Health Report
+Health;Health
+Heard Island;Heard
+Heard;Heard
+Hebrew MacHebrew;Hebrew MacHebrew
+Hebrew Visual;Hebrew Visual
+Hebrew;Hebreeus
+Height;Hoogte
+Helena;Helena
+Hello World;Hello World
+Hello;Hello
+Help Start;Help Start
+Help;Hulp
+Helper Application;Helper Application
+Helper Applications;Helper Applications
+Helper Threads;Helper Threads
+Helper;Helper
+Helps;Helps
+Helvetica;Helvetica
+Here;Here
+Herero;Herero
+Herzegovina;Herzegowina
+Hex;Hex
+Hidden;Verskuil
+Hide Statistics;Hide Statistics
+Hide Toolbars;Hide Toolbars
+Hide;Verskuil
+Hierarchy;Hierarchy
+High Contrast;High Contrast
+High;Hoog
+Highest;Hoogste
+Highgrade;Highgrade
+Highlight;Highlight
+Highlighting;Highlighting
+Highlights;Highlights
+Hightail;Hightail
+Hiligaynon;Hiligaynon
+Hill;Hill
+Hindi;Hindi
+Hint;Wenk
+Hiri Motu;Hiri Motu
+Hiri;Hiri
+Histograms Collected;Histogramme
+Histograms;Histogramme
+History;Geskiedenis
+Hits;Trefslae
+Hnewsgroup server;Hnuusgroepbediener
+Hnewsgroup;Hnewsgroup
+Ho Chi Minh;Ho Chi Minh
+Ho;Ho
+Hold;Hold
+HolidayStatusSuppliersTravelVacation;HolidayStatusSuppliersTravelVacation
+Home;Home
+Home;Huis
+Home;Tuis
+Homepage Get back;Homepage Get back
+Homepage;Tuisblad
+Honduras;Honduras
+Hong Kong;Hongkong
+Hong;Hong
+Honolulu;Honolulu
+Horizontal;Horisontaal
+Host;Gasheer
+Host;Masjien
+Hosted;Hosted
+Hostname Entered;Hostname Entered
+Hostname;Rekenaarnaam
+Hotspot Properties;Kliekkoleienskappe
+Hotspot Target;Kliekkolteiken
+Hotspot;Hotspot
+Hour &#124;Hour &#124
+Hour;Hour
+Hours;uur
+Housekeeping;Housekeeping
+How;How
+Howe;Howe
+However we;However we
+However;egter
+Howland Island;Howland Island
+Howland;Howland
+Http;Http
+Huge;Huge
+Humans;Humans
+Hungarian;Hongaars
+Hungary;Hongarye
+I &apos;I &apos
+I Do;I Do
+I II;i II
+I Know;I Know
+I Understand;I Understand
+I am currently away;I am currently away
+I close brandShortName;I close brandShortName
+I don &apos;I don &apos
+I ii;i ii
+I submit information that &apos;I submit information that &apos
+I think I &apos;I think I &apos
+I understand;I understand
+I;T
+IBM;IBM
+IBMI;IBMI
+ICE State;ICE State
+ICE Stats;ICE Stats
+ICE;ICE
+ICQ;ICQ
+ICS;ICS
+ID;ID
+IDLE;IDLE
+II III;II III
+II;II
+III;III
+IIRFilterNode;IIRFilterNode
+IM;IM
+IMAP Flag;IMAPvlag
+IMAP;IMAP
+INADEQUATE;INADEQUATE
+INBOXmsf;INBOXmsf
+INI;INI
+IP Address;IPadres
+IP address;IP address
+IP;IP
+IPC;IPC
+IPs;IPs
+IRC Nick;IRC Nick
+IRC Operator;IRC Operator
+IRC;IRC
+IS;IS
+ISDN;ISDN
+ISO ISO ISO;ISO ISO ISO
+ISO;ISO
+ISOCN;ISOCN
+ISOE;ISOE
+ISOI;ISOI
+ISOIR;ISOIR
+ISOJP;ISOJP
+ISOKR;ISOKR
+ISOx;ISOx
+ISP;internetdiensverskaffers
+IV;IV
+Iaposm;Iaposm
+Iceland;Ysland
+Icelandic;Yslands
+Icon;Ikoon
+Icons;Ikone
+Id;Id
+Identification;Identification
+Identifier;sleutelidentifiseerder
+Identities …;Identities …
+Identities;identiteite
+Identity;Identiteit
+Idle;Ledig
+Ido;Ido
+If;Indien
+Igbo;Igbo
+Ignore Caught;Ignore Caught
+Ignore Scaling;Ignore Scaling
+Ignore Word;Ignore Word
+Ignore this;Ignore this
+Ignore;Ignoreer
+Ignoring;Ignoring
+Image DataURL;Image DataURL
+Image Dimensions;Prentafmetings
+Image Map;Image Map
+Image map;beeldkaart
+Image;Prent
+Images;Prente
+Image…;Prent…
+Import your;Import your
+Import;Invoer
+Importance;Importance
+Important;Belangrik
+Importing;Importing
+Importing…;Voer tans in…
+Import…;Invoer…
+Import…;Voer in…
+In Days;In Days
+In EHLO reponse;In EHLO reponse
+In Finder;In Finder
+In Use;In Use
+In;In
+InAutoon;InAutoon
+InBrowserElement;InBrowserElement
+Inappropriate;Ongeskikte
+Inbox;Inkassie
+Inc;geïnk
+Incoming;Inkomend
+Incorporated;geïnkorporeer
+Incorrect;Verkeerde
+Increase Indent;meer inkeep
+Increase;Vermeerder
+Indent;Inkeep
+Indexed;geïndekseerBoodskap
+Indexer;indekseerder
+India;Indië
+Indian;Indiese
+Individual;Individual
+Indonesia;Indonesië
+Indonesian;Indonesies
+Info;Info
+Information;Inligting
+Inherited;Geërf
+Inline;Inlyn
+Innocent;Onskuldig
+Input;Toevoer
+Ins;Ins
+Insert;Invoeg
+Insert;Voeg in
+Inspect;Inspekteer
+Inspector;Inspekteur
+Install;Installeer
+Installed;Geïnstalleer
+Installing;Installeer
+Installing…;Installeer tans…
+Integer;Heelgetal
+Interlingua;Interlingua
+Interlingue;Interlingue
+International;Internasionaal
+Internet;Internet
+Interrupted;onderbreek
+Introduction;Inleiding
+Intrusions amp;Indringings en
+Intrusions;Indringings
+Inuktitut;Inuktitut
+Inupiaq;Inupiak
+Invalid;Ongeldig
+Iran;Iran
+Iraq;Irak
+Ireland;Ierland
+Irish;Iers
+Isle;Eiland
+Israel;Israel
+Issued;Uitgereik
+Issuer;Uitreiker
+Italian;Italiaans
+Italic;Skuins
+Italy;Italië
+JIS;JIS
+JOHAB;JOHAB
+JS;JS
+JSON;JSON
+JUST;NET
+Jamaica;Jamaika
+Jan;Jan
+January;Januarie
+Japan;Japan
+Japanese;Japannees
+JavaScript Events;JavaScriptgebeure
+JavaScript shell;JavaScriptopdraglyn
+JavaScript;JavaScript
+Javanese;Javaans
+Jaxivo;Jaxivo
+Jersey;Jersey
+Join;Smelt
+JoinmeinthisChat;Sluitbymyaaninhierdiekletskamer
+Jordan;Jordanië
+Jul;Jul
+July;Julie
+Jump;Spring
+Jun;Jun
+June;Junie
+Junk;Gemors
+Justified;alkanthaaks
+Justify;Alkanthaaks
+K;K
+KB;KG
+KB;KG nie
+KOIR;KOIR
+KOIU;KOIU
+KRL;KRL
+Kannada;Kannada
+Kanuri;Kanoeri
+Kashmiri;Kasjmiri
+Kashubian;Kasjoebies
+Kazakh;Kasaks
+Kazakhstan;Kasakstan
+Keep;Hou
+Keeping;Ter
+Kenya;Kenia
+Kerberos;Kerberos
+Key Compromise;Sleutelkompromis
+Key Encipherment;Sleutelversyfering
+Key Usage;sleutelgebruik
+Key;Key
+Keyframe rule;Sleutelraamreël
+Keyword;Sleutelwoord
+Keyword;Woord
+Keywords;Sleutelwoorde
+Keywords…;Sleutelwoorde…
+Khmer;Kambodjaans
+Khmer;Khmer
+Kikuyu;Kiekoejoe
+Kingdom;Koninkryk
+Kinyarwanda;Kinyarwanda
+Kirghiz;Kirgies
+Kiribati;Kiribati
+Kirundi;Kirundi
+Kiss;Soentjie
+Kitts;Kitts
+Klaatu;Klaatu
+Klingon;Klingon
+Komi;Komi
+Kongo;Kongolees
+Konkani;Konkani
+Korean;Koreaans
+Kuanyama;Koeanjama
+Kurdish;Koerdies
+Kuwait;Koeweit
+Kyrgyzstan;Kirgisië
+LDAP Directory Servers;LDAPgidsbedieners
+LDIF;LDIF
+LIST command;LISTbevel
+Label Properties;Etiketeienskappe
+Label;Etiket
+Labs;Labs
+Landscape;Landskap
+Language Files;taallêers
+Language;Taal
+Languages;Tale
+Lanka;Lanka
+Lao;Laosies
+Laos;Laos
+Larger;Groter
+Last;Van
+Late;laat
+Later;Later
+Latin;Latyn
+Latvia;Letland
+Latvian;Letties
+Laughing;Lag
+Laughing;Laggend
+Layer;Laag
+Layout;Uitleg
+LdapDwim;LdapDwim
+Leave;Verlaat
+Lebanon;Lebanon
+Left;Linkerkant
+Left;Links
+Legacy;ou
+Legal Notices;Regskennisgewings
+Legend;Legende
+Legitimate;Legitieme
+Length;lengte
+Leone;Leone
+Lesotho;Lesotho
+Less;Minder
+Letter;Letter
+Level;vlak
+Liberia;Liberië
+Library;Biblioteek
+Libya;Libië
+License;Lisensie
+Liechtenstein;Liechtenstein
+Lifetime Signing;Lifetimeondertekening
+Lifetime;Lewensduur
+Light;Lig
+Limburgan;Limburgs
+Line;Reël
+Lines;Reëls
+Lingala;Lingala
+Link Location;skakelligging
+Link Target;teikenlêer
+Link;Skakel
+Links;Skakels
+Link…;Skakel…
+LipsareSealed;Mondisverseël
+List;Lys
+Lists;Lys
+Lithuania;Litaue
+Lithuanian;Litaus
+Little Housekeeping;Bietjie skoonmaak
+Live;lewendige
+Load;Laai
+Loading;Laai
+Loading;Laai tans
+Loading…;Laai tans…
+Local;Plaaslike
+Locale;lokaliteitinstelling
+Location;Ligging
+Logins;Aanmeldings
+Logo;Logo
+Logotype;Logosoort
+Long;lang
+Looked up;opgesoek
+Lookup;Opsoek
+Loop;Speel in lus
+Low;Laag
+Lowercase;onderkas
+Lowest;Laagste
+LubaKatanga;LoebaKatanga
+Lucia;Lucia
+Ludicrous;Blitsvinnig
+Luxembourg;Luxemburg
+Luxembourgish;Luxemburgs
+MAC Alias;Macalias
+MAC;MAC
+MB;MG
+MCI;MCI
+MD;MD
+MIME Types;MIMEsoorte
+MIMEVersion;MIMEweergawe
+MOZ;MOZ
+Mac;Mac
+MacArabic;MacArabic
+MacCE;MacCE
+MacCroatian;MacCroatian
+MacCyrillic;MacCyrillic
+MacDevanagari;MacDevanagari
+MacFarsi;MacFarsi
+MacGreek;MacGreek
+MacGujarati;MacGujarati
+MacGurmukhi;MacGurmukhi
+MacHebrew;MacHebrew
+MacIcelandic;MacIcelandic
+MacRoman;MacRoman
+MacRomanian;MacRomanian
+MacTurkish;MacTurkish
+MacUkrainian;MacUkrainian
+Macedonian;Macedonies
+Madagascar;Madagaskar
+Made;het
+Mail Store;posstoor
+Mail/News;Pos/Nuus
+Mail;Pos
+Mailer;Posstuurder
+Maintain;Onderhou
+Maintenance Service;Onderhouddiens
+Malagasy;Malgassies
+Malawi;Malawi
+Malay;Maleisies
+Malayalam;Malabaars
+Malaysia;Maleisië
+Maldives;Maldive
+Mali;Mali
+Malta;Malta
+Maltese;Maltees
+Manage;Bestuur
+Manufacturer;Vervaardiger
+Manx;Manx
+Maori;Maori
+Map;kaart
+Mar;Mrt
+Marathi;Marathi
+March;Maart
+Margin;kantlyn
+Mariana Islands;Marianaeilande
+Marino;Marino
+Mark All;almal
+Mark;Merk
+Marshall Islands;Marshalleilande
+Marshallese;Marshallees
+Martin;Martin
+Martinique;Martinique
+MathML Source;MathMLbron
+MathML;MathML
+Mathematics;Wiskunde
+Mauritania;Mauritanië
+Mauritius;Mauritius
+May;Mei
+Mayotte;Mayotte
+McDonald Islands;McDonaldeilande
+Measurements;mates
+Media;Media
+Medium Grade;Mediumgraads
+Message Part;boodskapdeel
+Message;Boodskap
+MessageID;BoodskapID
+Messages;Boodskappe
+Meta;Meta
+Method;Metode
+Metro;Metro
+Mexico;Meksiko
+Mibbit;Mibbit
+Microsoft Domain GUID;MicrosoftdomeinGUID
+Microsoft Smart Card Logon;Microsoftknapkaartaanmelding
+Microsoft;Microsoft
+Middle Eastern;MiddeOosters
+Middle;Middel
+Midnight;Middernag
+Migrate;Migreer
+Minefield;Minefield
+Minimize;Minimeer
+Miquelon;Miquelon
+Miscellaneous;Diverse
+Missing;Vermis
+Mixed;Gemengde
+Mo;Ma
+Mobile;Selfoon
+Mode;modus
+Modem;Modem
+Modification Date;Wysigingsdatum
+Modified;Gewysig
+Modify;Wysig
+Module;Module
+Modulus;Modulus
+Moldova;Moldovië
+Mon;Ma
+Monaco;Monaco
+Monday;Maandag
+MoneyMouth;Geldbek
+Mongolia;Mongolië
+Mongolian;Mongools
+Monospace;Monospasie
+Montenegro;Montenegro
+Months;Maande
+Montserrat;Montserrat
+More;Meer
+Morocco;Marokko
+Motu;Motu
+Move;Skuif
+Move…;Verskuif…
+MozTestPilot;MozTestPilot
+Mozambique;Mosambiek
+Mozilla;Mozilla
+Mozillaorg;Mozillaorg
+Mute;Dower
+My;My
+MySite&apos;;MyWerf
+N/A;Nvt
+NEVER;IS
+NIST;NIST
+NNTP;NNTP
+NO;NO
+NSS;NSS
+NTLM;NTLM
+NULL;roep
+Name;Naam
+NameCompletion;NameCompletion
+Named;genoemde
+Namibia;Namibië
+Naming violation;Benoemingsoortreding
+Nauru;Nauru
+Navajo;Navajo
+Navigation Toolbar;Navigasienutsbalk
+Ndebele;Ndebele
+Ndonga;Ndonga
+Nepal;Nepal
+Nepali;Nepalees
+Nested;Geneste
+Net;Netwerk
+Netherlands;Nederland
+Netscapecfg;Netscapecfg
+Network;Netwerk
+Never;Nooit
+Nevis;Nevis
+New Guinea;NieuGuinee
+New;Nuwe
+News;Nuus
+Newsgroup;Nuusgroep
+Newsgroups;Nuusgroepe
+New…;Nuwe…
+Next;Volgende
+Nicaragua;Nicaragua
+Nickname;Bynaam
+Niger;Niger
+Nigeria;Nigerië
+Niue;Niue
+No;Nee
+NodeSet;opgelewer
+Nodetype test;nodussoorttoets
+Nonbreaking;Niebrekend
+None;Geen
+Nonrepudiation;Nieontkenning
+Noon;Middag
+Norfolk Island;Norfolkeiland
+Normal;Gewoon
+North;Noord
+Northern Sami;NoordSami
+Northern;Noordelike
+Norway;Noorweë
+Norwegian;Noors
+Note;Let wel
+Notes;Aantekeninge
+Notification;kennisstelling
+Notifications;Kennisgewings
+Nov;Nov
+November;November
+Numbered;Getalle
+Numbers;Getalle
+Nynorsk;Nynorsk
+O;Afout
+OCSP;OCSP
+OID;OID
+OK;OK
+OLE;OLE
+OPML Files;OPMLlêers
+OS;BS
+OU;OU
+OVERLAP;OVERLAP
+Object;Objek
+Objects;Objekte
+Occitan;Occitaans
+Ocean Territory;Oseaangebied
+Oct;Okt
+October;Oktober
+Off;Af
+Offline&apos;
+Offline;Aflyn
+Offline…;Aflyn…
+Often;Maatskappye
+Oh;O ja
+Ojibwa;Ojibwa
+Oman;Oman
+On;Aan
+Oneclick search engines;Enkelkliksoekenjins
+Online;aanlyn
+Only;Net
+Oops;Oeps
+Open;Open
+Operation;bewerking
+Optimizable;Optimeerbare
+Optimizing;Optimizing
+Option;Opsie
+Optional;opsioneel
+Options;Opsies
+Organization;Organisasie
+Organizational Unit;Organisasieeenheid
+Organize;Organiseer
+Orientation;Oriëntering
+Original;oorspronklike
+Oromo;Oromo
+Ossetian;Ossetiaans
+Other;Ander
+Others;Andere
+Otherwise;Anders
+Other…;Ander…
+Out;uit
+Outbox;Uitkassie
+Outdent;Uitkeep
+Outgoing;Uitgaande
+Outlook;Outlook
+Overwrite;Oorskryf
+Owner;Eienaar
+P/Galapagos;P/Galapagos
+P;P
+PDF Producer;PDFvervaardiger
+PDF;PDF
+PDFjs;PDFjs
+PEM;PEM
+PKCS;PKCS
+POP;POP
+PSM;PSB
+PacifDebug/Galapagos;PacifDebug/Galapagos
+Pacific/Enderbury;Pacific/Enderbury
+Pacific/Fakaofo;Pacific/Fakaofo
+Pacific/Fiji;Pacific/Fiji
+Pacific/Funafuti;Pacific/Funafuti
+Pacific/Gambier;Pacific/Gambier
+Pacific/Guadalcanal;Pacific/Guadalcanal
+Pacific/Guam;Pacific/Guam
+Pacific/Honolulu;Pacific/Honolulu
+Pacific/Johnston;Pacific/Johnston
+Pacific/Kiritimati;Pacific/Kiritimati
+Pacific/Kosrae;Pacific/Kosrae
+Pacific/Kwajalein;Pacific/Kwajalein
+Pacific/Majuro;Pacific/Majuro
+Pacific/Marquesas;Pacific/Marquesas
+Pacific/Midway;Pacific/Midway
+Pacific/Nauru;Pacific/Nauru
+Pacific/Niue;Pacific/Niue
+Pacific/Norfolk;Pacific/Norfolk
+Pacific/Noumea;Pacific/Noumea
+Pacific/Palau;Pacific/Palau
+Pacific/Pitcairn;Pacific/Pitcairn
+Pacific/Pohnpei;Pacific/Pohnpei
+Pacific/Ponape;Pacific/Ponape
+Pacific/Rarotonga;Pacific/Rarotonga
+Pacific/Saipan;Pacific/Saipan
+Pacific/Tahiti;Pacific/Tahiti
+Pacific/Tarawa;Pacific/Tarawa
+Pacific/Tongatapu;Pacific/Tongatapu
+Pacific/Truk;Pacific/Truk
+Pacific/Wake;Pacific/Wake
+Pacific/Wallis;Pacific/Wallis
+Pack;Pack
+Package s;Package s
+Package xpi;Package xpi
+Package;pakket
+Packaged;Packaged
+Packs;Packs
+Padding;Opvulling
+Page Direction;Page Direction
+Page Selection;Page Selection
+Page;Bladsy
+Pagequot;Pagequot
+Pager Number;Roepernommer
+Pager;Roeper
+Pages;Bladsye
+Pago;Pago
+Paint;Paint
+Pair a Device &quot;Pair a Device &quot
+Pair a;Pair a
+Pair;Assosieer
+Pakistan;Pakistan
+Pal Who &apos;Pal Who &apos
+Pal;Pal
+Palau;Palau
+Palestinian Territory;Palestinian Territory
+Palestinian;Palestinian
+Palette;Palet
+Pali;Pali
+Palmyra Atoll;Palmyra Atoll
+Palmyra;Palmyra
+Pan;pan
+Panama;Panama
+Pane;Pane
+Panel;Panel
+Panels;Panels
+Panes on Startup;Panes on Startup
+Panes;Panes
+PannerNode;PannerNode
+Papua New Guinea;Papua New Guinea
+Papua New;Papua New
+Papua;Papua
+Paracel Islands;Paracel Islands
+Paracel;Paracel
+Paragraph format;Paragraph format
+Paragraph;Paragraaf
+Paraguay;Paraguay
+Parameters;Parameters
+Params;Params
+Parcel;Pakkie
+Parent Payload;Parent Payload
+Parent frame;Parent frame
+Parent;Parent
+Parental Controls;ouerbeheer
+Parental;Parental
+Paris;Paris
+Park;Park
+Parser;Parser
+Parsing Error;Parsing Error
+Parsing an;Parsing an
+Parsing;Parsing
+Part Of;Part Of
+Part;deel
+PartS;PartS
+Partial;Partial
+Partially Encrypted;Partially Encrypted
+Partially;gedeeltelik
+Participant;Participant
+Participants;Participants
+Parts;Parts
+Party Name;Party Name
+Party;party
+Pashto;Pashto
+Password Change;wagwoordwysiging
+Password Manager;Password Manager
+Password;Wagwoord
+PasswordIf;PasswordIf
+Passwords;Wagwoorde
+Paste Go;Paste Go
+Paste;Plak
+Pastel Gradient;Pastelskakering
+Pastel;Pastel
+Paste…;Paste…
+Patch;Patch
+Patching s;Patching s
+Patching;Patching
+Path;Pad
+Paths from;Paths from
+Paths;Paths
+Paulo;Paulo
+Pause on;Pause on
+Pause/Resume/Retry;Pause/Resume/Retry
+Pause;Laat wag
+Paused;Laat wag
+Paused;Wagtend
+Pauses the;Pauses the
+Pauses;Pauses
+Pay;Pay
+Payload;Payload
+Payment;Betaling
+Paz;Paz
+Peer;Eweknie
+PeerConnection ID;PeerConnection ID
+PeerConnection;PeerConnection
+Pending;Pending
+Penh;Penh
+People;Mense
+Percent;Percent
+Perform a;Perform a
+Perform;Perform
+Performance;Werkverrigting
+Perhaps the;Perhaps the
+Perhaps you &apos;Perhaps you &apos
+Perhaps;Perhaps
+Period of Validity;Period of Validity
+Period of;Period of
+Period;geldige
+Periodic;Periodic
+Permanent;Permanent
+Permanently;Permanently
+Permission;Permission
+Permissions;Toestemming
+Permit;Permit
+Persian;Persies
+Personal;Persoonlik
+Personality;Personality
+Peru;Peru
+Perwebsite;Perwebsite
+Phase;Phase
+Philippines;Filippyne
+Phishing;Phishing
+Phnom Penh;Phnom Penh
+Phnom;Phnom
+Phoenix;Phoenix
+Phone Number;Phone Number
+Phone;Telefoon
+Phones;Phones
+Phonetic Name;Phonetic Name
+Phonetic;Foneties
+Photo;Foto
+Photograph;Foto
+Phrase;Phrase
+Physical;Fisies
+Pick;Pick
+Picture;Picture
+Pierre;Pierre
+Pilot;Pilot
+Pin;pen
+Ping;Ping
+Pinned;Pinned
+Pinning;Pinning
+Pipelining;Pipelining
+Pitcairn Islands;Pitcairn Islands
+Pitcairn;Pitcairn
+Pixel;Pixel
+Plain;Plain
+Planner;Planner
+Plastic Pal Who &apos;Plastic Pal Who &apos
+Plastic;Plastic
+Platform COM;Platform COM
+Platform;Platform
+Play a;Play a
+Play;Speel
+Playing audio;Playing audio
+Playing;Speel tans
+Please advance;Please advance
+Please authenticate;Please authenticate
+Please consider;Please consider
+Please enter;Please enter
+Please shorten;Verkort
+Please;beset
+Plug a;Plug a
+Plug;Plug
+PlugIns;Inproppe
+Plugin;Inprop
+Plugins;Inproppe
+Plus;Plus
+Pocket;Pocket
+Podcast;Potgooi
+PoiQA;PoiQA
+Pointer Lock API;Pointer Lock API
+Points;Points
+Poland;Pole
+Pole;Pole
+Policies;Policies
+Policy Constraints;Policy Constraints
+Policy Mappings;Policy Mappings
+Policy mapping;Beleidkartering
+Policy;Policy
+Polish;Pools
+Polynesia;Polinesië
+Popup Blocking;opspringerblokkering
+Popup;Popup
+Popups;Opspringvensters
+Port;Poort
+Portable Document;Portable Document
+Portable;Portable
+Porto;Porto
+Portrait;Portret
+Portugal;Portugal
+Portuguese;Portugees
+Position;Posisie
+Posse;Posse
+Possible;Moontlike
+Post;Pos
+Postal Code;Postal Code
+Postal;Posadres
+Posting;Posting
+Postpone;Postpone
+Power;Power
+Powered by;Powered by
+Powered;Aangedryf
+Powershare;Powershare
+Practice Statement pointer;Practice Statement pointer
+Practice;Practice
+Pre;Pre
+Precondition;Precondition
+Preferably;Preferably
+Preference;Preference
+Preferences;Voorkeure
+Preferences…;Voorkeure…
+Preferred;Voorkeur
+Prefers to;Prefers to
+Prefers;Prefers
+Prefetch;Prefetch
+Prefetching;Prefetching
+Prefix;Voorvoegsel
+Prefixed;Prefixed
+Preformat;Preformaat
+Premature;Premature
+Prepackage;Prepackage
+Prepackaging;Prepackaging
+Preparing;Berei
+Preparing…;Berei tans voor…
+Present;teenwoordig
+Presentation Mode;Presentation Mode
+Presentation;Presentation
+Preserve;Preserve
+Preserves;Preserves
+Preset;Preset
+Presets;Presets
+Press;Druk
+Pressing F;Pressing F
+Pressing;druk
+Prettify;Prettify
+Pretty Print;Pretty Print
+Pretty;Pretty
+Prevent;Prevent
+Preview;Voorskou
+Previewed;gevoorskou
+Previewing;Previewing
+Preview…;Preview…
+Previous Session;Previous Session
+Previous;Vorige
+Price;Prys
+Primary Email;Primary Email
+Primed cache;Primed cache
+Primed;Primed
+Primetime Content;Primetime Content
+Primetime;Primetime
+Princes;Princes
+Principal Name;Principal Name
+Principal;Principal
+Principe;Principe
+Print;Druk
+Printed;Printed
+Printer;Drukker
+Printing;Druk
+Printing…;Printing…
+Print…;Druk…
+Priority changed;Priority changed
+Priority;Prioriteit
+Privacy Policy;Privacy Policy
+Privacy;Privaatheid
+Private Browsing we won &apos;Private Browsing we won &apos
+Private Keys;Private Keys
+Private TabformatS won &apos;Private TabformatS won &apos
+Private;Privaat
+Privileged;Privileged
+Privileges;Privileges
+Privileges…;Voorregte…
+Pro;Pro
+Probable;Probable
+Probably;Waarskynlik
+Probing;Probing
+Problem;probleem
+Proceed;Proceed
+Proceeding will;Proceeding will
+Proceeding;Proceeding
+Process;Process
+Processing;Verwerk
+Processing…;Processing…
+Prodigy;Prodigy
+Producer;Producer
+Product;Produk
+ProductName;ProductName
+ProductNameInternal;ProductNameInternal
+ProductShortName;ProductShortName
+Profile;profiel
+Profiler;Profiler
+Profiles;Profiles
+Program Icons;Program Icons
+Program;Program
+Programs Folder;Programs Folder
+Programs;Programs
+Progress Window;Progress Window
+Progress;Vordering
+Project Lead;Projekhoof
+Project;Projek
+Projects;Projects
+Promise Debugger;Promise Debugger
+Promise;Promise
+Prompt;Por
+Properties;Eienskappe
+Properties…;Eienskappe…
+Property Declaration;Property Declaration
+Property Value;Property Value
+Property;Eienskap
+Proportional;Proporsioneel
+Propose a;Propose a
+Propose;Propose
+Protection;Protection
+Protocol Request;protokolversoek
+Protocol;Protocol
+ProtocolSpecific;ProtocolSpecific
+Protocols;Protocols
+Proudlybr;Proudlybr
+Provider;Provider
+Province;Province
+Proxies;Proxies
+Proxy;Proxy
+Pseudoelements can;Pseudoelements can
+Pseudoelements ‘;Pseudoelements ‘
+Pseudoelements;Pseudoelemente
+Psst using;Psst using
+Psst;Psst
+Public;Publieke
+PublicKeyPins;PublicKeyPins
+Publish;Publiseer
+Publishing Pages;Publishing Pages
+Publishing;Publisering
+Publishing…;Publiseer tans…
+Publish…;Publish…
+Puerto Rico;Puerto Rico
+Puerto;Puerto
+Punjabi;Pandjabi
+Purchase for;Purchase for
+Purposes;Doelwitte
+Push Endpoint;Push Endpoint
+Push;Push
+QA UI;QA UI
+QA;QA
+QName;QName
+QQ;QQ
+QR Scan;QR Scan
+QR;QR
+Qatar;Katar
+Qualified Subordination;Qualified Subordination
+Qualified;Qualified
+Quechua;Quechua
+Query;Query
+Question;Question
+Queued;Getou
+Quick Filter;Quick Filter
+Quick Launch bar;snelbeginbalk
+Quick Launch;Quick Launch
+Quick;Quick
+Quickly;Quickly
+Quirks mode;Glipsmodus
+Quirks;Quirks
+Quirky doctype;Quirky doctype
+Quirky;Quirky
+Quit;Afsluit
+Quit;Sluit af
+QuitS;QuitS
+Quitting;Quitting
+Quota;Kwota
+Quotation;aanhaling
+Quote;Aanhaal
+Quotes;Quotes
+RAM;RAM
+RC;RC
+RDN;RDN
+RECORDS;RECORDS
+REMOVE;REMOVE
+RETR command;RETRbevel
+RETR;RETR
+RETURN;RETURN
+RFC;RFC
+RGBA;RGBA
+RSA Encryption;RSAenkripsie
+RSA;RSA
+RSASSAPSS Signature;RSASSAPSShandtekening
+RSASSAPSS;RSASSAPSS
+RSS Support;RSSsteun
+RSS;RSS
+RTCPeerConnectiongetLocalStreams;RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders;RTCPeerConnectiongetSenders
+RTP Stats;RTP Stats
+RTP;RTP
+Radio Button;Klinkknoppie
+Radio buttons;Radio buttons
+Radio;Radio
+Rainy;Rainy
+Raise;Raise
+Range;Range
+Rankin;Rankin
+Rate;Rate
+Rating;Gradering
+Ratio;Ratio
+Raw;Rou
+Re;Re
+Reached;Reached
+Read;Gelees
+Read;Lees
+ReadMark;geleesMerk
+Reader &apos;Reader &apos
+Reader;geregistreer
+Reading;Lees
+Ready to;Ready to
+Ready;Gereed
+Really fast;Really fast
+Really;Really
+Rearrange;Rearrange
+Reason;Rede
+Reasons;Reasons
+Rebuild Summary;Rebuild Summary
+Rebuild;Rebuild
+Recalculate;Recalculate
+Receipt denied;Receipt denied
+Receipt;ontvangstrokie
+Receipts;Receipts
+Receive;Receive
+Received;Ontvang
+Receiving;Receiving
+Recent htmlstrongCookies;Recent htmlstrongCookies
+Recent htmlstrongHistory;Recent htmlstrongHistory
+Recent;Onlangs
+Recent;Onlangse
+Recently;Recently
+Recheck;Recheck
+Recipient;Ontvanger
+Recipients;Ontvangers
+Recommended Components;Recommended Components
+Recommended;Aanbeveel
+Recommended;Aanbevole
+Reconfirm;Reconfirm
+Reconnect;Reconnect
+Record;rekord
+Recording Performance;Recording Performance
+Recording;Recording
+Recording…;Recording…
+Recover;Herwin
+Recovery Keyhtml;Recovery Keyhtml
+Recovery;Recovery
+Recur;Recur
+Recurrence pattern;Recurrence pattern
+Recurrence;Recurrence
+Recursion;Recursion
+Redirect Loop;Redirect Loop
+Redirect;Redirect
+RedirectMode;RedirectMode
+Redirection limit;Herverwysingsperk
+Redirection;Redirection
+Rediscover the;Rediscover the
+Rediscover;Herontdek
+Redisplay;Redisplay
+Redo;Herdoen
+Reducing the;Reducing the
+Reducing;Reducing
+Reduction;Reduction
+Reef;Reef
+Reenter;Reenter
+Reference;Reference
+References;Verwysings
+Referrer;Referrer
+Referring URL;VerwyserURL
+Referring;Referring
+Reflows;Reflows
+Reformat;Reformat
+Refresh;Verfris
+Refused;Refused
+Register Locale;Register Locale
+Register Server;Register Server
+Register;registreer
+Registered;Registered
+Registering;Registering
+Regular Attachment;Regular Attachment
+Regular;Gewoon
+Reject;Reject
+Rejoin;Rejoin
+Related;Related
+Relation;Verhouding
+Relative positioning of;Relative positioning of
+Relative;Relative
+Relaunch;Relaunch
+Release Notes;vrystellingaantekeninge
+Release;Release
+Releases;Releases
+Reload;Herlaai
+Remaining;Remaining
+Remember;Onthou
+Remind Me;Remind Me
+Remind;Herinner
+Reminder;Reminder
+Reminders;Reminders
+Remote Debugging;Remote Debugging
+Remote debugging;Remote debugging
+Remote;Remote
+Remove channel;Remove channel
+Remove;Verwyder
+Removed;verwyder
+Removes;afgehandelde
+Remove…;Verwyder…
+Removing;Removing
+Renaissance;Renaissance
+Rename;Hernoem
+Rename…;Hernoem…
+Renaming;Renaming
+Render Mode;Weergeemodus
+Render;Render
+Renderer;Renderer
+Rendering;Rendering
+Renewal;Renewal
+Reopen;Reopen
+Repair;Repair
+Repeat;Repeat
+Repeating;Repeating
+Repeats;Repeats
+Replace;Vervang
+Replacement;Replacement
+Replaces in;Replaces in
+Replaces;Replaces
+Replace…;Replace…
+Replacing;Replacing
+Replicating directory entry;Replikasiegidsinskrywing
+Replicating;Replicating
+Replication failed;Replication failed
+Replication;Replication
+Replied;Beantwoord
+Reply;Antwoord
+ReplyTo;Antwoordaan
+Replying;Replying
+Replyto Address;Antwoordadres
+Replyto;Replyto
+Report;Report
+ReportOnly;ReportOnly
+Reporter;Verslaggewer
+Reports;Reports
+Republic;Republiek
+Request the;Request the
+Request;Request
+RequestMode;RequestMode
+Requested;Aangevraagde
+Requests;Versoeke
+Required;Benodig
+Requires;herbegin
+Reread mozcmd;Reread mozcmd
+Reread;Reread
+Resend;Herstuur
+Resending;herstuur tans
+ResentCC;HerstuurCC
+ResentComments;Herstuuropmerking
+ResentDate;Herstuurdatum
+ResentFrom;Herstuurvan
+ResentMessageID;HerstuurboodskapID
+ResentSender;Herstuurafsender
+ResentTo;Herstuuraan
+Reserved;voorbehou
+Reset;Herstel
+Reset;Stel terug
+Reset;Teruglaai
+Resets;Resets
+Resolution/Quality;Resolution/Quality
+Resolution;Resolution
+Resolve;Resolve
+Resource;Resource
+Resources;Resources
+Responder;Responder
+Response;Response
+Responseclone;Responseclone
+Responsive Design;Responsive Design
+Responsive;Responsive
+Rest;Rest
+Restart;Herbegin
+Restarting;Restarting
+Restarting…;Restarting…
+Restore;Herstel
+Restore;Laai terug
+Restore;Stel terug
+Restrict;Restrict
+Restricted;beperk
+Restyle Hint;Restyle Hint
+Restyle;Restyle
+Results;Resultate
+Resume &apos;Resume &apos
+Resume;Hervat
+Resumes;Resumes
+Retained;Retained
+Retention Policy;Behoubeleid
+Retention;Retention
+Retest;Retest
+Retrieving quota;Retrieving quota
+Retrieving;Retrieving
+Retrieving…;Haal tans op…
+Retry;Probeer weer
+Retrying;Retrying
+Return;Return
+Retweet;Retweet
+Reunion;Reunion
+Reverse;Reverse
+Reversed;Omgekeerde
+Revert;Keer terug
+Revert;Terugval
+Revert…;Keer terug…
+Review;Lees
+Revision;Hersiening
+Revived;Revived
+Revocation;Revocation
+Revoked;Opgehef
+Rewind;Rewind
+Rewrap;Heromvou
+Rewriting oldstyle;Rewriting oldstyle
+Rewriting;Rewriting
+RhaetoRomanic;Retoromaans
+Rica;Rica
+Rich Text;rykteks
+Rich;Rich
+Rico;Rico
+Right Click;Right Click
+Right;Regs
+Right;Regterkant
+Rightclick;Rightclick
+Rights;Rights
+Righttoleft direction;Righttoleft direction
+Righttoleft;Righttoleft
+Ringing…;Ringing…
+Rio;Rio
+Rioja;Rioja
+Risks;risiko
+River;River
+Roaming;Roaming
+Robot;Robot
+Robots;Robots
+Roku;Roku
+Role;Rol
+Romania;Roemenië
+Romanian ISO;Romanian ISO
+Romanian;Romeens
+Room;Room
+Root;Root
+Roots Module;wortelmodule
+Roots;Roots
+Rotate;Roteer
+Row;Ry
+Rows;Rye
+Rule;Rule
+Rules;reëls
+Ruleset;Ruleset
+Run;Voer uit
+RunAppX;RunAppX
+Running;Running
+Runtime;Runtime
+Russia;Rusland
+Russian Federation;Russian Federation
+Russian;Russies
+Rwanda;Rwanda
+S &apos;S &apos
+S Object;Sobjek
+S Provider;Sverskaffer
+S S Image;S S Image
+S S Object;S S Object
+S S;S S
+S pixels;S pixels
+S resource;Shulpbron
+S visitors;Sbesoekers
+S ×;S ×
+S&apos;
+S/S;S/S
+S;k
+SASL bind;SASLbinding
+SASL;SASL
+SD;SD
+SDP;SDP
+SE;SE
+SECG elliptic curve sectr;SECGelliptiesekurwesectr
+SECG;SECG
+SECURITY;SECURITY
+SEE THIS STRING;SEE THIS STRING
+SEE THIS;SEE THIS
+SEE;NIE
+SETTINGS;SETTINGS
+SFailed to;SFailed to
+SFailed;SFailed
+SHA Digest;SHA Digest
+SHA Fingerprint;SHAvingerafdruk
+SHA;SHA
+SHOULD;SHOULD
+SHOW;SHOW
+SIL Compact;SIL Compact
+SIL;SIL
+SIM;SIM
+SIZE;SIZE
+SKB;SKB
+SMB of;SMB of
+SMB;SMB
+SMTP &apos;SMTP &apos
+SMTP&apos;SMTP&apos
+SMTP;SMTP
+SMTPAUTH;SMTPAUTH
+SOCKS Host;SOCKSgasheer
+SOCKS v;SOCKS v
+SOCKS;SOCKS
+SOccurs;SOccurs
+SPDY;SPDY
+SPONSORED;GEBORG
+SQL Statements;SQLstellings
+SQL;Volledige
+SQLite;SQLite
+SRV;SRV
+SS;SS
+SSL Proxy;SSLinstaanbediener
+SSL received;SSL received
+SSL/TLS;SSL/TLS
+SSL;SSL
+SSLv;SSLv
+SSS;SSS
+SSSS;SSSS
+ST;ST
+STARTTLS if;STARTTLS if
+STARTTLS since;STARTTLS since
+STARTTLS;STARTTLS
+STAT command;STATbevel
+STAT;STAT
+STRING;STRING
+STouch;STouch
+SUGGESTED;VOORGESTEL
+SVG clipping;SVG clipping
+SVG;SVG
+SW Asian;SW Asian
+SW;en
+SWITCH;SWITCH
+SYSTEM;SYSTEM
+S_files;S_lêers
+Sa;Sa
+Saba;Saba
+Sad;hartseer
+Safari;Safari
+Safe Mode;Safe Mode
+Safe;Veilige
+SafeBrowsing;SafeBrowsing
+SafeMode;SafeMode
+Sahara;Sahara
+Saint Barthelemy;Saint Barthelemy
+Saint Helena;Saint Helena
+Saint Kitts and Nevis;Saint Kitts and Nevis
+Saint Kitts;Saint Kitts
+Saint Lucia;Saint Lucia
+Saint Martin;Saint Martin
+Saint Pierre and Miquelon;Saint Pierre and Miquelon
+Saint Pierre;Saint Pierre
+Saint Vincent and the Grenadines;Saint Vincent and the Grenadines
+Saint Vincent;Saint Vincent
+Saint;Sint
+Salaam;Salaam
+Salem;Salem
+Salvador;Salvador
+Same;Dieselfde
+Sami;Sami
+Samoa;Samoa
+Samoan;Samoaïes
+Sampled;Sampled
+Samples;Samples
+San Marino;San Marino
+San;San
+Sandbox;Sandput
+Sandboxing;Sandboxing
+Sandwich;Sandwich
+Sango;Sangro
+Sangro;Sangro
+Sanitize;Sanitize
+Sanitizing;Sanitizing
+Sans Serif;Sans Serif
+Sans;Sans
+Sanskrit;Sanskrit
+Sansserif;Sansserif
+Santa;Santa
+Santo;Santo
+Sao Tome and;Sao Tome and
+Sao Tome;Sao Tome
+Sao;Sao
+Sardinian;Sardinies
+Sass;Sass
+Sat;Sa
+Saturday;Saterdag
+Saudi Arabia;SaoediArabië
+Saudi;Saudi
+Save Permissions;stoortoestemming
+Save;Stoor
+Saved;Saved
+Save…;Stoor…
+Saving;Stoor
+Saving…;Stoor tans…
+Saw;Saw
+Scalars;Scalars
+Scale …;Scale …
+Scale;Skaal
+Scaled;Scaled
+Scaling;skaal
+Scam Warning Take;Scam Warning Take
+Scam;Scam
+Scams;Scams
+Scan;Scan
+Scanner app;Scanner app
+Scanner;Scanner
+Scanning for;Scanning for
+Scanning;Scanning
+Scheduling;Scheduling
+Scheme;Scheme
+Scope;Omvang
+Score Origin;Score Origin
+Score;Score
+Scots;Scots
+Scottish Gaelic;Skots
+Scottish;Scottish
+Scratchpad Enter some;Scratchpad Enter some
+Scratchpad;Rofwerk
+Screen Orientation;Screen Orientation
+Screen reader;Screen reader
+Screen;Screen
+Screenname;Screenname
+Screenshot;Screenshot
+Screenshots;Screenshots
+Script;Script
+Scripts;Scripts
+Scroll;Scroll
+ScrollLinkedEffects;ScrollLinkedEffects
+Scrolling;Scrolling
+Sd;Sd
+Sdays;Sdays
+Sea;Sea
+SeaMonkey;SeaMonkey
+SeanMartell Available;SeanMartell Available
+SeanMartell;SeanMartell
+Search BarName;Search BarName
+Search Engine;Search Engine
+Search Engines;Search Engines
+Search;Soek
+Search;Soektog
+Searches;Searches
+Searching &apos;Searching &apos
+Searching;Soek
+Searching…;Soek tans…
+Search…;Soek…
+Seccomp Thread Synchronization;Seccomp Thread Synchronization
+Seccomp Thread;Seccomp Thread
+Seccomp;Seccomp
+SeccompBPF System;SeccompBPF System
+SeccompBPF;SeccompBPF
+Second;Second
+Secondary Email;Secondary Email
+Secondary;Sekondêre
+Seconds;sekondes
+Sections;Sections
+Secure;Secure
+Securing connection;Securing connection
+Securing;Securing
+Security Exception;Security Exception
+Security;Sekuriteit
+See;Kyk
+Select;Kies
+Select;Merk
+Selected Frame;Selected Frame
+Selected Tabs;Selected Tabs
+Selected;Gekies
+SelectedRemove Selected;SelectedRemove Selected
+SelectedRemove;eenVerwyder
+Selecting;Selecting
+Selection;Seleksie
+Selector;Kieser
+Selectors;Selectors
+Select…;Kies…
+Self Cost;Self Cost
+Self Sampled;Self Sampled
+Self Time;Self Time
+Self;Self
+Selfclosing syntax;Selfclosing syntax
+Selfclosing;Selfclosing
+Selfposting;hulself
+Send Verification;Send Verification
+Send a;Send a
+Send;Stuur
+Sender;Afsender
+Sending;Sending
+Sends a;Sends a
+Sends;Sends
+Senegal;Senegal
+Sensor;Sensor
+Sent &quot;Sent &quot
+Sent;Gestuur
+Sep;Sep
+Separate _;Separate _
+Separate tags;Separate tags
+Separate;aparte
+Separated;Separated
+Separator;Skeier
+Separators;Separators
+Sepia;Sepia
+September;September
+Serbia;Serwië
+Serbian;Serwies
+Serial Number;Serial Number
+Serial;Serial
+Serialize;Serialize
+Serif;Serif
+Server Gated Crypto;Serverhekkripto
+Server Gated;Server Gated
+Server SMTP&apos;Server SMTP&apos
+Server Settings;Server Settings
+Server settings&apos;
+Server;Bediener
+Servers;Bedieners
+Service;Service
+ServiceWorker;ServiceWorker
+ServiceWorkerAllowed;ServiceWorkerAllowed
+Services;Dienste
+Session;sessie
+Sessions;Sessions
+Set Up Sync &quot;Set Up Sync &quot
+Set this channel &apos;Set this channel &apos
+Set;Set
+Setting;Setting
+Settings &#124;Settings &#124
+Settings;Instellings
+Settings;Opstelling
+SettingsA;SettingsA
+Settings…;Opstelling…
+Setup;opsteller
+Seven;Seven
+Severy;Severy
+Seychelles;Seychelle
+Sh;Sh
+Shader;Shader
+Shading;skaduwees
+Shallow;Shallow
+Share;Deel
+Shared;gedeelte
+Sharing Indicator;Sharing Indicator
+Sharing;Deel
+Sheet;Sheet
+Shift _ JIS;Shift _ JIS
+Shift _;Shift _
+Shift;Shift
+ShiftCtrlSpace;ShiftCtrlSpace
+ShiftRETURN Open in;ShiftRETURN Open in
+ShiftRETURN Open;ShiftRETURN Open
+ShiftRETURN;ShiftRETURN
+ShiftTab;ShiftTab
+Shona;Sjona
+Shopping;Inkopies
+Short;Short
+Shortcut;Shortcut
+Shortcuts;Shortcuts
+Shot;Shot
+Should;moet
+Show/Hide;Show/Hide
+Show;Wys
+Showing;Showing
+Shrink To Fit;Shrink To Fit
+Shrink;Krimp
+Shutdown;Shutdown
+Shutting Down;Shutting Down
+Shutting;Shutting
+SiInEfate;SiInEfate
+Siblings;Siblings
+Sichuan Yi;Sichuan Yi
+Sichuan;Sichuan
+Sidebar;Kantbalk
+Sidebars;Kantstawe
+Sierra Leone;Sierra Leone
+Sierra;Sierra
+Sign;Sign
+Signature;Signature
+Signed;Signed
+Signer;Signer
+Signing;Ondertekening
+Signon;Signon
+Silence;Silence
+Silent;Silent
+Silverlight fallback;Silverlight fallback
+Silverlight;Silverlight
+Simple;Eenvoudig
+Simplified;vereenvoudig
+Simplify;Simplify
+Simply;Sleep
+Simulate touch;Simulate touch
+Simulate;Simulate
+Simulation;Simulation
+Simulator;Simulator
+Simulators;Simulators
+Since;Since
+Sindhi;Sindhi
+Singapore;Singapoer
+Singhalese;Singhalees
+Sinhala;Sinhala
+Siswati;Swazi
+Site;Werf
+Sites;Werwe
+Size;Grootte
+Skin;vel
+Skip;Slaan
+Skipped;Oorgeslaan
+Skipping;Oorslaan
+Slovak;Slowaaks
+Slovakia;Slowakye
+Slovenia;Slowenië
+Slovenian;Sloweens
+Slow;Ontvouting
+Sm;Sm
+Small;klein
+Smaller;Kleiner
+Smile;Glimlag
+Smiley;Gesiggie
+Sms;Sms
+Snap;Pas
+Snapshot;kiekie
+Sockets;Sokke
+Soft;Sag
+Solid;Soliede
+Solomon Islands;Solomoneilande
+Solon;Wolff
+Somali;Somali
+Somalia;Somalië
+Some;Sommige
+Songhay;Songhay
+Sorbian;Serwies
+Sort;Rangskik
+Sorted;Gerangskik
+Sotho;Sotho
+Sound;Klank
+Source;Bron
+South Africa;SuidAfrika
+South European;SuidEuropees
+South;Suid
+Southern;Suid
+Space;Space
+Space;Spasie
+Spacing;Spasiëring
+Spain;Spanje
+Spanish;Spaans
+Spec;Cipher
+Specific;Spesifieke
+Speculative;Speculative
+Spell;Spel
+Spelling;Spelling
+Split;Verdeel
+Spotlight;Spotlight
+Spx;Spx
+Sri;Sri
+Ss;Ss
+Stack;Stapel
+Standard;Standaard
+Standards compliance mode;Standaardversoeningmodus
+Star;Vlag
+Starred;Gevlag
+Start;Begin
+Starting…;Begin tans…
+Startup;Begin
+State/Province;Deelstaat/provinsie
+State;Deelstaat
+State;Status
+Statement;Stelling
+States;State
+Statistics;statistiek
+Status Bar;Statusbalk
+Status;Status
+Stay;Bly
+Stop;Stop
+Storage;stoorruimte
+Stored;Gestoorde
+Street;Straat
+Stretch;Rek
+Strikethrough;Deurhaal
+String;String
+Studies;studies
+Style Editor;Stylredigeerder
+Style;Styl
+Stylesheet;bevat
+Su;So
+Subfolder;subvouer
+Subfolder…;Subvouer…
+Subject;Onderwerp
+Subject;Onderwerpreël
+Submit;Indien
+Submitted;Ingedien
+Subordination;Subordination
+Subscribe;Inteken
+Subscribe…;Inteken…
+Subscript;Onderskrif
+Subscriptions;intekeninge
+Subthread;subdraad
+Subtree;Subboom
+Succeeded;Suksesvol
+Success;Sukses
+Sudan;Soedan
+Suffix;Agtervoegsel
+Suffixes;Lêeruitgange
+Suggestions;Voorstelle
+Summary;Opsomming
+Sun;So
+Sundanese;Soedannees
+Sunday;Sondag
+Superscript;Boskrif
+Superseded;Vervang
+Suriname;Suriname
+Surname;Van
+Surprise;Verras
+Surprise;Verrassing
+Swahili;Swahili
+Swap;Ruil
+Swaziland;Swaziland
+Sweden;Swede
+Swedish;Sweeds
+Switch;Wissel
+Switzerland;Switserland
+Syllabary;sillabereeks
+Symbols;simbole
+Symmetric;simmetriese
+Sync;Sync
+Synchronization;Sinchronisasie
+Synchronize;Sinkroniseer
+Syncing…;Sinkroniseer tans…
+Syncx;opx
+Syria;Sirië
+Systems;Systems
+TAB CONTROLS;OORTJIES
+TCP;TCP
+TCVN;TCVN
+THIS;VERONDERSTEL
+TIS;TIS
+TITLE;TITLE
+TITLEGo;TITLEGaan
+Tab;Tab
+Table;Tabel
+Table…;Tabel…
+Tabs;Oortjies
+Tag;Merker
+Tagalog;Tagalog
+Tags;Etikette
+Tags;Merkers
+Tags;Oortjies
+Tahitian;Tahitian
+Taiwan;Taiwan
+Tajik;Tadjik
+Tajikistan;Tadjikië
+Tamil;Tamil
+Tanzania;Tanzanië
+Target Setting;Doelopstelling
+Target;Teiken
+Targets;teikens
+Task bar;taakbalk
+Tasks;take
+Tatar;Tatar
+Telemetry;Telemetrie
+Telex;Telex
+Telugu;Telugu
+Template;Sjabloon
+Templates;Sjablone
+Temporary;Tydelik
+Term;Term
+Test;Toetsloodsspan
+Text;Teks
+Th;Do
+Thai;Thai
+Thai;Thais
+Thailand;Thailand
+Thanks;Dankie
+The;Die
+Theme;Tema
+Themes;Temas
+Then;en
+There;gebou
+This;Dié
+Thread;Draad
+Threaded;Gedraad
+Threads;Drade
+Thu;Do
+Thumbnail;Duimnaelskets
+Thumbnails;Duimnaels
+Thunderbird FAQ;Thunderbirdkwelvrae
+Thunderbird Product Page;Thunderbirdprodukbladsy
+Thunderbird;Thunderbird
+Thursday;Donderdag
+Tibetan;Tibettaans
+Tigre;Tigre
+Tigrinya;Tigrinya
+Tile;Teël
+Time;tyd
+Timelimit;Tydsbeperking
+Times;Times
+Timestamp;Tydstempel
+TimorLeste;TimorLeste
+Tip;Wenk
+Title;Titel
+To;Aan
+Toasters;Toasters
+Tobago;Tobago
+Today;Vandag
+Toggle;Swik
+Togo;Togo
+Tokelau;Tokelau
+Token Authentication;tekenmagtiging
+Token Dialog;tekendialoog
+Token;Teken
+Tome;Tome
+Tonga;Tongaans
+Tongueout;Tong uitsteek
+Toolbars;Nutsbalke
+Tools;Nutsgoed
+Tooltip;Nutswenk
+Top;Bo
+Top;Bokant
+Total;Totaal
+Tracking Protection;volgbeskerming
+Tracking attempts;Volgpogings
+Tracking;Monitering
+Traditional;tradisioneel
+Translate;Vertaal
+Translation;vertaling
+Translations;Vertalings
+Translators;Vertalers
+Transmitted;versend
+Trash;Snippermandjie
+Trinidad;Trinidad
+Troubleshooting;Probleemoplossing
+Trust;Trust
+Try;spaar
+Tsonga;Tsonga
+Tswana;Tswana
+Tu;Di
+Tue;Di
+Tuesday;Dinsdag
+Tunisia;Tunisië
+Turkey;Turkye
+Turkish;Turks
+Turkmen;Turkmeens
+Turkmenistan;Turkmenië
+Turks;Turkse
+Tutorials;tutoriale
+Tuvalu;Tuvalu
+Twi;Twi
+Twitter;Twitter
+Type;Soort
+Types;tipes
+UID;UID
+UIDL;UIDL
+UNSUPPORTED;UNSUPPORTED
+URI;URI
+URL scheme;URLskema
+URL;URL
+USASCII;USASCII
+UTF;UTF
+UTFBE;UTFBE
+UTFLE;UTFLE
+Uganda;Uganda
+UhOh;Ôô
+Uighur;Uighuries
+Ukraine;Oekraïne
+Ukrainian;Oekraïns
+Uncheck;Ontmerk
+Undecided;Besluiteloos
+Undefined;Ongedefinieerde
+Undelete;Ontskrap
+Under;onder
+Underline;Onderstreep
+Understand;begryp
+Undo;Ontdoen
+Unfortunately;Ongelukkig
+Unicode;Unicode
+Unified;Verenig
+Uninitialized;Ongeïnisalisieer
+Uninstall;Deïnstalleer
+Uninstalling;Deïnstalleer tans
+Unit;Eenheid
+Universal;Universeel
+Unknown;Onbekend
+Unlink;Dissosieer
+Unload;Ontlaai
+Unmute;Ontdoof
+Unmute;Ontdower
+Unnumbered List;nommerloos
+Unpin;los
+Unread;Ongelees
+Unregistering;Deregistreer
+Unresponsive;Reageertrae
+Unsent;ongestuurde
+Unsigned;Ononderteken
+Unsorted;Ongerangskik
+Unsubscribe;Afteken
+Untagged;Ongemerkte
+Unthreaded;Ongedraad
+Untitled;Titellose
+Untrusted;Onvertroude
+Unused;Ongebruik
+Unverified;Nie geverifieer nie
+Unvisited;Onbesoekte
+Up;Op
+Update Failures;bywerkfalings
+Update;Bywerk
+Update;Bywerking
+Update;Werk by
+Update…;Bywerk…
+Upgrade;Gradeer op
+Upgraded;Opgegradeerde
+Upload;oplaai
+Uploading…;Laai tans op…
+Upper Sorbian;BoSerwies
+Uppercase;bokas
+Urdu;Oerdoe
+Uruguay;Uruguay
+Usage;Verbruik
+Use;Merk
+User;Gebruiker
+UserAgent;Gebruikeragent
+Useragent;Gebruikeragent
+Username;Gebruikernaam
+Users;gebruikers
+Uzbek;Oesbekies
+Uzbekistan;Oezbekistan
+VERSION;VERSION
+VISCII;VISCII
+VK_F;VK_F
+VK_RETURN;VK_RETURN
+VPS;VPS
+Valid;Geldig
+Validation;validering
+Validity;Geldigheid
+Value;Waarde
+Vanuatu;Vanuatu
+Variable;Veranderlike
+Vatican City;Vatikaanstad
+Venda;Venda
+Venezuela;Venezuela
+Verifying;Verifiëring
+Verifying…;Verifieer tans…
+Verisign User Notices;Verisigngebruikerkennisgewings
+Version;Weergawe
+Vertical;Vertikaal
+Video;Video
+Vietnam;Viëtnam
+Vietnamese;Viëtnamees
+View;Bekyk
+View;Voorskou
+Views;Aansigte
+View…;Bekyk…
+Vincent;Vincent
+Virtual;Skynreëel
+Visit;Besoek
+Visited;besoekte
+Voice;Stem
+Volapük;Volapük
+Volume;Volume
+WYSIWYG;WYSIWYG
+Wait;Wag
+Waiting…;Wag tans…
+Wallis;Wallis
+Walloon;Walloons
+Warning;Let wel
+Warning;Waarskuwing
+Warnings;Waarskuwings
+We;Wo
+Web Browser Renaissance;Webblaaierrenaissance
+Web;webkonsoleboekstawingAPI
+WebGL Renderer;WebGLweergewer
+WebIDE;WebIDE
+WebSockets;Websokke
+Website;Webwerf
+Wed;Wo
+Wednesday;Woensdag
+Week;week
+Weeks Ago;weke gelede
+Weeks;Weke
+Welsh;Wallies
+West European;WesEuropees
+Western Sahara;WesSahara
+Western;Westers
+Whitelist;Witlys
+Whitespaceonly string;Witspasiealleenstring
+Who;Who
+Wide;Wye
+Width;Wydte
+Window;Venster
+Windows Hardware Driver Verification;Windowshardewaredrywerverifikasie
+Windows;Windows
+Wink;Knipoog
+With;Met
+Without;Sonder
+Wizard;invoerslimmerd
+Wolof;Wolof
+Word;woord
+Work;Werk
+Wrap;Omvou
+Write;Skryf
+Writes;geskryf
+Writing Systems;skryfstelsels
+X;X
+XHTML;XHTML
+XML mimetype;XMLmimesoort
+XML;XML
+XMLHttpRequest;XMLHttpRequest
+XPath parse;XPathontleding het
+XSLT transformation;XSLTtransformasie
+XSLT;XSLT
+XUL box;XULboks
+XUL;XUL
+Xhosa;Xhosa
+YOU;PLEKHOUER
+Yahoo;Yahoo
+YandexTranslate;YandexTranslate
+Year;Jaar
+Years;Jare
+Yell;Gil
+Yell;Skree
+Yemen;Jemen
+Yes;Ja
+Yesterday;Gister
+Yi;Yi
+Yiddish;Jiddisj
+Yoruba;Joruba
+You;Gebruiker
+Your;Your
+Zambia;Zambië
+Zhuang;Zhuang
+Zimbabwe;Zimbabwe
+ZipCode;poskode
+Zoom;Zoem
+Zulu;Zoeloe
+a B;a B
+a laughing;laggende
+a powerful;a powerful
+a premium;a premium
+a processor;a processor
+a promise;a promise
+a protocol;a protocol
+a recursion;a recursion
+a reimPacifined;a reimPacifined
+a requestAnimationFrame;a requestAnimationFrame
+a rich;a rich
+a scam;swendelary
+a searchable;a searchable
+a second;a second
+a shorter;a shorter
+a single;a single
+a smart;a smart
+a smartcard;a smartcard
+a smiley face;a smiley face
+a smiley;a smiley
+a solution;a solution
+a sound;a sound
+a specific;a specific
+a star;a star
+a stronger;a stronger
+a subgrid;a subgrid
+a suggestion;a suggestion
+a surprised;verraste
+a surrogate;a surrogate
+a syncBrandfxAccountlabel;a syncBrandfxAccountlabel
+a temporary;a temporary
+a theme;a theme
+a themed look;a themed look
+a tongueout;a tongueout
+a tray;a tray
+a unique;a unique
+a user &apos;a user &apos
+a value;a value
+a violation;a violation
+a virus;a virus
+a waterfall;a waterfall
+a weak ephemeral DiffieHellman;a weak ephemeral DiffieHellman
+a weather;a weather
+a week;a week
+a windowed;a windowed
+a wink;a wink
+a year;a year
+a yelling;skreeuende
+a;rofwerkplek
+aChoose;aChoose
+aFrames;aFrames
+aKnow;aKen
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abhorred;abhorred
+abilities;abilities
+able;able
+abort;abort
+aborted;aborted
+about About;about About
+about Networking;about Networking
+about Us;about Us
+about brandShorterName;about brandShorterName
+about;aangaande
+aboutconfig;aangaandekonfig
+aboutcredits;aboutcredits
+aboutrights;aboutrights
+aboutwebrtc;aboutwebrtc
+above;toestem
+aboveAllow;aboveAllow
+abruptly;abruptly
+absence;absence
+absolute positioning;absolute positioning
+absolute;absolute
+accel;accel
+accelalt;accelalt
+acceleration on;acceleration on
+acceleration;acceleration
+accelshift;accelshift
+accented;accented
+accept;aanvaar
+acceptable;aanvaarbare
+acceptcharsetutf;acceptcharsetutf
+accepted;aanvaar
+accepting site &apos;accepting site &apos
+accepting;accepting
+access Key;access Key
+access multimedia;access multimedia
+access;toegang
+accessed;accessed
+accessibility support;accessibility support
+accessibility tools;accessibility tools
+accessibility;accessibility
+accessible;accessible
+accessing;accessing
+accidental breakage;accidental breakage
+accidental;accidental
+accompanying;meegaande
+accomplished;accomplished
+accordance;ooreenstemming
+according;according
+account &apos;account &apos
+account Actions;account Actions
+account connected;account connected
+account name;account name
+account;saamvoeg
+accountManagernewAccountlabel;accountManagernewAccountlabel
+accounts;accounts
+accuracy;diensverskaffers
+accurate;accurate
+acknowledges;erken
+across;across
+act;act
+action;handeling
+actions;aksies
+activate;activate
+activated;geaktiveer
+active Logins;active Logins
+active;aktiewe
+activity Indicator;Aktiwitietaanwyser
+activity Stream;activity Stream
+activity;aktiwiteit
+actual Size;actual Size
+actual;werklike
+actualDate &apos;actualDate &apos
+actualDate;actualDate
+actuarial;actuarial
+adaptive;aanpassende
+add Exception;add Exception
+add Hosted;add Hosted
+add Microsummary;add Microsummary
+add Option;add Option
+add Packaged;add Packaged
+add Search;add Search
+add permanent;add permanent
+add;voeg
+addEventListener method;addEventListenermetode
+addEventListener;addEventListener
+added;bygevoeg
+adding;adding
+additional;Verdere
+additivesymbols descriptor;additivesymbols descriptor
+additivesymbols;additivesymbols
+addon &apos;addon &apos
+addon;byvoeging
+addons gallery;byvoeginggalery
+addons;byvoegings
+addonsmozillaorg;addonsmozillaorg
+address Autocompletion;Adresoutovoltooiing
+address Fields;Adresvelde
+address isn &apos;address isn &apos
+address wasn;address wasn
+address;adres
+addressbook;addressbook
+addressbr;addressbr
+addresses;addresses
+addressing area;addressing area
+addressing;addressing
+adjacent;aanliggende
+adjust;adjust
+admin;admin
+administrator;administrator
+adult supervision;adult supervision
+adult;adult
+advance;advance
+advanced JavaScript;advanced JavaScript
+advanced;advanced
+advanced_pref_installation;advanced_pref_installation
+advancelabel;advancelabel
+advertise;advertise
+advertised;advertised
+advertises;advertises
+affect;affect
+affected;affected
+affecting;affecting
+after Sending;after Sending
+after;ooreen
+again;again
+age;ouderdom
+agent;agent
+aggregate;aggregate
+aggregates;aggregates
+aggregating;aggregating
+aggregator;aggregator
+ago;gelede
+agree;stem
+agreement;ooreenkoms
+airplane;airplane
+aka NIST;aka NIST
+aka;aka
+alatest;ajongste
+alert description;alert description
+alert;alert
+algorithb;algorithb
+algorithm Identifier;Algoritmeidentifiseerder
+algorithm Parameters;Algoritmeparameters
+algorithm;algoritme
+algorithmhash value;algorithmhash value
+algorithmhash;algorithmhash
+algorithms;algorithms
+alignment;alignment
+alined;alined
+alive;alive
+all candidate;all candidate
+all current;all current
+all htmlstrongTabs;all htmlstrongTabs
+all occurrences;all occurrences
+all;alle
+allocate;allocate
+allocated;allocated
+allocation;allocation
+allocations Rate;allocations Rate
+allocations;allocations
+allow dialogs;allow dialogs
+allow immediate;allow immediate
+allow;allow
+allowed;toegelaat
+allowfullscreen;allowfullscreen
+allowing;allowing
+allows;allows
+allowsameorigin;allowsameorigin
+allowscripts;allowscripts
+almost;almost
+along the Y;along the Y
+along;along
+alphabetical;alphabetical
+already bookmarked;already bookmarked
+already;reeds
+also gives;also gives
+also skip;also skip
+also;ook
+altKeylabel;altKeylabel
+alter;alter
+alteration;alteration
+altered;altered
+alternate;voorsien
+alternatives;alternatives
+always Ask;always Ask
+always Block;always Block
+always prefer;always prefer
+always;altyd
+am &#124;am &#124
+am;am
+amount;amount
+amp Security;amp Security
+amp;amp
+ampD;ampD
+ampP;ampP
+ampPT;ampPT
+ampT;ampT
+ampU;ampU
+amplecom rather;amplecom rather
+an IndexedDB transaction;an IndexedDB transaction
+an OPML;an OPML
+an XSLT;an XSLT
+an acceptable;an acceptable
+an alert;an alert
+an animatable;an animatable
+an attachment;an attachment
+an attempt;an attempt
+an element;an element
+an email;an email
+an embarrassed;an embarrassed
+an entirely;an entirely
+an executable;an executable
+an experiment;an experiment
+an external;an external
+an innocent;an innocent
+an instance;an instance
+an instant;an instant
+an integrated;an integrated
+an interprocess;an interprocess
+an item;an item
+an opaque;an opaque
+an opaqueredirect;an opaqueredirect
+an opportunity;an opportunity
+an overview;an overview
+an unbalanced;an unbalanced
+an undecided;an undecided
+an unrecognizable;an unrecognizable
+an;an
+analysis;analysis
+analyze;analiseer
+ancestor elements;voorouerelemente
+ancestor;ancestor
+ancestors;ancestors
+anchor &apos;anchor &apos
+anchor;anchor
+anchors;ankers
+and Antarctic;and Antarctic
+and Authentication;and Authentication
+and Barbuda;and Barbuda
+and Bottom;and Bottom
+and Caicos;and Caicos
+and Drop;and Drop
+and Find;and Find
+and Footer;and Footer
+and Futuna;and Futuna
+and Herzegovina;and Herzegovina
+and Indexer;and Indexer
+and Jan;and Jan
+and McDonald;and McDonald
+and Miquelon;and Miquelon
+and Nevis;and Nevis
+and Principe;and Principe
+and Quit;and Quit
+and Spacing;and Spacing
+and Symbols;and Symbols
+and Templates;and Templates
+and Tobago;and Tobago
+and Tutorials;and Tutorials
+and can &apos;and can &apos
+and compact;and compact
+and don &apos;and don &apos
+and everything;and everything
+and forced;and forced
+and grew;and grew
+and htmlstrongWindows;and htmlstrongWindows
+and light;and light
+and pages they &apos;and pages they &apos
+and prioritize;and prioritize
+and receiving;and receiving
+and rowand;and rowand
+and technologies;and technologies
+and treating;and treating
+and you shouldn &apos;and you shouldn &apos
+and;en
+angle;angle
+animatable;animatable
+animated;geanimeer
+animation cycle;animation cycle
+animation;animasie
+animations;animations
+annually;annually
+anonymous box;anonymous box
+anonymous;anoniem
+another;another
+answers;antwoorde
+antivirus software;viruswering
+antivirus;antivirus
+any applicable;any applicable
+any arguments;any arguments
+any article;any article
+any automation;any automation
+any indirect;any indirect
+any matching;any matching
+any;enige
+anymore;anymore
+anyone;anyone
+anypolicy;enigebeleid
+anything;anything
+anyway;anyway
+anywhere;anywhere
+apart;apart
+app &apos;app &apos
+app submission;app submission
+app;app
+appName;appName
+appear;verskyn
+appearance wrong;appearance wrong
+appearance;appearance
+appears;blyk
+append;append
+applicable service;applicable service
+applicable;toepaslike
+application Basics;application Basics
+application Details;application Details
+application doesn &apos;application doesn &apos
+application;toepassing
+applications;toepassings
+applied;toegepas
+applies;applies
+apply;apply
+applying update;applying update
+applying;applying
+appoffline;appoffline
+appreciate;appreciate
+approach;approach
+appropriate intermediate;appropriate intermediate
+appropriate;appropriate
+approved;goedgekeur
+approx;approx
+approximate line;approximate line
+approximate;approximate
+approximation;approximation
+apps &apos;apps &apos
+apps;apps
+apr &#124;apr &#124
+apr;apr
+april;april
+arbitrary;arbitrary
+archive;archive
+archived folders;archived folders
+archived;archived
+archives;archives
+archiving;archiving
+are compromised;are compromised
+are correct;are correct
+are doing;doen
+are estimates;are estimates
+are governed;are governed
+are grouped;are grouped
+are inlined;are inlined
+are labeled;are labeled
+are nonASCII;are nonASCII
+are omitted;are omitted
+are publicly;are publicly
+are ready;are ready
+are trademarks;are trademarks
+are you sure;are you sure
+are;are
+area shape;area shape
+area;area
+areas in;areas in
+areas;areas
+aren &apos;aren &apos
+aren;aren
+argument;argument
+arguments for;arguments for
+arguments;argumente
+arising out;arising out
+arising;arising
+arjo;arjo
+armscii ISO ISO ISO;armscii ISO ISO ISO
+armscii;armscii
+around;rondom
+arrive;arriveer
+arrived;arrived
+arrives;aankom
+arrow;arrow
+arsa;arsa
+article summary;artikelopsomming
+article;artikel
+articles;artikels
+artwork;artwork
+as &apos;as &apos
+as Authored;as Authored
+as broken;as broken
+as cURL;as cURL
+as certified;as certified
+as differing;as differing
+as graphics;as graphics
+as phishing;as phishing
+as soon as;as soon as
+as spam;as spam
+as strongww;as strongww
+as;gou
+ascending;ascending
+ascii;ascii
+ash;ash
+asis &quot;asis &quot
+asis;asis
+ask me;ask me
+ask;vra
+asked questions tips;wenke
+asked;gevra
+asking;asking
+asks that;asks that
+asks;vra
+aspect ratio;aspekverhouding
+aspect;aspect
+aspects;aspects
+assets;assets
+assist you;assist you
+assist;assist
+assistance;bystand
+associated;assosieerde
+association;assosiasie
+assume;assume
+assured;assured
+asterisk;asterisk
+async touch;async touch
+async;async
+asynchronous Pan;asynchronous Pan
+asynchronous entity;asynchronous entity
+asynchronous;asinchroniese
+asynchronouslyloaded;gelaaide
+at S;at S
+at least;at least
+at span id &apos;at span id &apos
+at;goeddunke
+atchMore than;atchMore than
+atrule;byreël
+attach;heg
+attached;attached
+attaching;attaching
+attachment Reminder Keywords;Aanhegselherinneringwoorde
+attachment Reminder;Aanhegselherinnering
+attachment attachments;attachment attachments
+attachment reminder words;Aanhegselherinningswoorde
+attachment;aanhegsel
+attachmentDo;attachmentDo
+attachments;attachments
+attack An;attack An
+attack pages;attack pages
+attack;aanvalle
+attacker could;attacker could
+attacker;attacker
+attackers;attackers
+attacks;attacks
+attempt;poging
+attempted old;attempted old
+attempted;gepoogde
+attempting;attempting
+attempts;attempts
+attend;attend
+attendance;attendance
+attendee;attendee
+attendees;attendees
+attention;attention
+attribute Type;attribute Type
+attribute;attribuut
+attributes &apos;attributes &apos
+attributes;stylattribute
+audio Backend;audio Backend
+audio;audio
+aug &#124;aug &#124
+aug;aug
+august;august
+authenticate to;authenticate to
+authenticate;authenticate
+authenticates;authenticates
+authentication mechanism;authentication mechanism
+authentication;magtiging
+authenticity;egtheid
+author;skrywer
+authorities;authorities
+authority is;authority is
+authority;authority
+authorization;authorization
+authorized;gemagtig
+authors whom;authors whom
+authors;authors
+auto Increment;auto Increment
+auto Prettify;auto Prettify
+auto Save;Outostoor
+auto discover;auto discover
+auto;auto
+autoAddOnsUpdateslabel;autoAddOnsUpdateslabel
+autocomplete;autocomplete
+autocompletion;autocompletion
+autodetection;autodetection
+autofill;autofill
+automated updates;automated updates
+automated;automated
+automatic updates;automatic updates
+automatic;outomatiese
+automatically Black;automatically Black
+automatically detects;automatically detects
+automatically prefill;automatically prefill
+automatically so it &apos;automatically so it &apos
+automatically;outomaties
+automation;automation
+autoplay;autoplay
+autoscrolling;outorol
+available &quot;available &quot
+available Commands;available Commands
+available;beskikbaar
+average;gemiddeld
+avg;avg
+avoid;avoid
+aware;aware
+away;away
+axis;as
+b;peuter
+bEven;bSelfs
+bS;bS
+back facing;back facing
+back;back
+backed up;backed up
+backed;backed
+backfacevisibility hidden;backfacevisibility hidden
+backfacevisibility;backfacevisibility
+background;background
+backlogged;backlogged
+backslashes;backslashes
+backup;rugsteuning
+backups;backups
+backwards;terugwaarts
+bad parameter;bad parameter
+bad;slegte
+badge;badge
+baggage object;baggage object
+baggage;baggage
+ban;ban
+banks stores;banks stores
+banks;banke
+banned;banned
+banner;banier
+bar;bar
+barada;barada
+base;base
+based;based
+baseline;baseline
+basic Page;basic Page
+basic;basic
+battery;battery
+be applied;be applied
+be aware;be aware
+be cleared;be cleared
+be deceptive;be deceptive
+be delivered;be delivered
+be experiencing;be experiencing
+be fixed;be fixed
+be highlighted &apos;be highlighted &apos
+be liable;be liable
+be linked;be linked
+be overwritten;be overwritten
+be parsed;be parsed
+be prompted;be prompted
+be safe;be safe
+be seen;be seen
+be shownReplies;be shownReplies
+be synced;be synced
+be unescaped;be unescaped
+be uninstalled;be uninstalled
+be unstable;onstabiel
+be useful;be useful
+be validated;be validated
+be very careful;be very careful
+be;be
+bear the;bear the
+bear;bear
+beast;beast
+beasts brought emfire;beasts brought emfire
+beasts;beasts
+beautifier;beautifier
+beautify;beautify
+became full;became full
+became;became
+because;aangesien
+become;become
+becomes damaged;becomes damaged
+becomes;becomes
+been deactivated;been deactivated
+been navigated;been navigated
+been reestablished;been reestablished
+been replaced;been replaced
+been revoked;been revoked
+been transferred;been transferred
+been translated;been translated
+been;sekuriteitvoorkeure
+beep;beep
+before;tevore
+began;began
+begin;begin
+beginning;beginning
+begins with;begins with
+begins;begins
+behalf;behalf
+behavior;behavior
+behaviour;behaviour
+behavioural;behavioural
+being incompletely transferred;being incompletely transferred
+being redirected;being redirected
+being reparsed;being reparsed
+being;being
+believe;believe
+believed;believed
+belongs to;belongs to
+belongs;belongs
+below;hieronder
+benefit;benefit
+benefits;benefits
+beside;langs
+best Match;best Match
+best accomplished;vermag
+best;beste
+better;beter
+between;tussen
+bfor Android;bfor Android
+bgt;bgt
+bidirectional;bidirectional
+big;big
+bigger;bigger
+billing;billing
+binary;binêre
+bind DN;BindDN
+bind;bind
+binding shadows;binding shadows
+binding;binding
+bindings tag;bindingsmerker
+bindings;bindings
+bird;bird
+birdcage …;birdcage …
+birdcage;voëlhok
+birth;birth
+bit keys;bit keys
+bit;bit
+bitrate;bitrate
+bits;bisse
+bitten;bitten
+black;black
+blank;blanko
+block Lists;block Lists
+block padding;blokopvulling
+block;block
+blockAttackSiteslabel &quot;blockAttackSiteslabel &quot
+blockAttackSiteslabel;blockAttackSiteslabel
+blockWebForgerieslabel;blockWebForgerieslabel
+blocked Popups;blocked Popups
+blocked;geblok
+blocking;blocking
+blocks parts;blocks parts
+blocks;blocks
+blue &quot;blue &quot
+blue;blue
+bm;bm
+bmp;bmp
+board;board
+bodies;lyf
+body;body
+book;book
+bookmark updated;bookmark updated
+bookmark;bookmark
+bookmarked;bookmarked
+bookmarks;boekmerke
+books;books
+boolean;boolese
+bootloader;bootloader
+border &apos;border &apos
+border radius;border radius
+border;randgrootte
+borders;Randte
+bot;bot
+both;beide
+bottom;bottom
+bound;bound
+boundaries;boundaries
+bounds;bounds
+box Model;box Model
+box model region;box model region
+box model;box model
+box;blokkie
+boxcom;boxcom
+boxed;boxed
+boxes;boxes
+boxing;boxing
+br;br
+brace;brace
+braces;braces
+brackets;brackets
+brand new;brand new
+brand profile;brand profile
+brand;brand
+brandFullName Credits;brandFullName Credits
+brandFullName;brandFullName
+brandShortName &apos;brandShortName &apos
+brandShortName Preferences;brandShortName Preferences
+brandShortName logo;brandShortNamelogo
+brandShortName;brandShortName
+brandShorterName Tour;brandShorterNametoer
+brandShorterName;brandShorterName
+brandShortname;brandShortname
+break;break
+breakage;breakage
+breaking;breaking
+breakpoint;breakpoint
+breakpoints;breakpoints
+breaks;breaks
+brighter;brighter
+bring;bring
+broad;broad
+broken;gebreekte
+brought;brought
+browse;browse
+browser &apos;browser &apos
+browser Hangs;browser Hangs
+browser configurations;browser configurations
+browser;blaaier
+browsercachediskenable to;browsercachediskenable to
+browsercachediskenable;browsercachediskenable
+browsers;browsers
+browsing;browsing
+brulliIf;brulliAs
+btn;btn
+buddy list;buddy list
+buddy;buddy
+budget;budget
+buffer capacity;buffer capacity
+buffer;buffer
+bug;bug
+bugs visit;bugs visit
+bugs;bugs
+bugzillamozillaorg;bugzillamozillaorg
+build Configuration;Boukonfigurasie
+build;build
+building summary;building summary
+built;built
+builtin Roots;builtin Roots
+builtin tools;builtin tools
+builtin;ingeboude
+bulleted list;bulleted list
+bulleted;bulleted
+business;besigheids
+busy;besig
+but we;but we
+but;behalwe
+button button;button button
+button;knoppie
+buttons;knoppies
+by Added;by Added
+by COLNAME;by COLNAME
+by Parental;by Parental
+by YandexTranslate;by YandexTranslate
+by choosing &apos;by choosing &apos
+by comma;by comma
+by completion;by completion
+by design;by design
+by entering;by entering
+by integrating;by integrating
+by navigatormediaDevicesgetUserMedia;by navigatormediaDevicesgetUserMedia
+by price;by price
+by probing;by probing
+by relevance;by relevance
+by remembering;by remembering
+by vendorShortName;by vendorShortName
+by xslmessage;by xslmessage
+by;volgend
+bynbspdesign;bynbspdesign
+byte;byte
+bytes;grepe
+c;c
+cSrS;cSrS
+cURL;cURL
+cache management;kasbestuur
+cache;kasgeheue
+cachecontrol set;cachecontrol set
+cachecontrol;cachecontrol
+cached;gekaste
+cachemanifest;cachemanifest
+caching of;caching of
+caching;caching
+calendar Weeks;calendar Weeks
+calendar;calendar
+calendaring information;calendaring information
+calendaring;calendaring
+calendars;calendars
+calendartimezonesxpi;calendartimezonesxpi
+call Stack;call Stack
+call calls;call calls
+call;Roep
+callUrl;callUrl
+callback;callback
+called &apos;called &apos
+called;geroep
+callees;callees
+caller;caller
+calling detach;calling detach
+calling;calling
+calls;calls
+camera;kamera
+can &apos;can &apos
+can analyze;can analyze
+can collect;can collect
+can often;can often
+can ’;can ’
+can;can
+cancel;kanselleer
+canceled Occurrences;canceled Occurrences
+canceled;gekanselleer
+cancellation;cancellation
+cancelled;cancelled
+cancelledAddon;cancelledAddon
+candidate resources;candidate resources
+candidate;candidate
+cannot Open;cannot Open
+cannot Setup;cannot Setup
+cannot Show;cannot Show
+cannot decrypt;cannot decrypt
+cannot encode;cannot encode
+cannot;cannot
+canvas Debugger;canvas Debugger
+canvas an;canvas an
+canvas;canvas
+capabilities;RSSvermoëns
+capable;capable
+capacity;capacity
+capitalization;kasfout
+caption;byskrif
+capture;vaslê
+captureEvents;captureEvents
+captured log;captured log
+captured;vasgelê
+card;card
+cards copied;cards copied
+cards etc;ens
+cards;cards
+care;care
+careful;careful
+carefully;carefully
+caret;caret
+carriage return;carriage return
+carriage;carriage
+carrier;carrier
+case sensitivity;case sensitivity
+case;inagneming
+caseinsensitive;caseinsensitive
+cases;gevalle
+cast;cast
+categories;kategorieë
+categorize and;categorize and
+categorize;kategoriseer
+category;category
+categorySource;categorySource
+cause;cause
+caused;caused
+causes;causes
+causing stability;causing stability
+causing;causing
+caution;versigtigheid
+caveats;caveats
+cc;cc
+cd;cd
+cell border;selrand
+cell was;cell was
+cell;sel
+cells;cells
+cellular location;cellular location
+cellular;cellular
+census;census
+center footer;Middelvoetstuk
+center header;Middelkopstuk
+center;center
+centered;middelhaaks
+centerxcenteryradius;centerxcenteryradius
+centimeters;centimeters
+cert AIA;cert AIA
+cert Library;Sertprogrammateek
+cert validation;cert validation
+cert;cert
+certain;sekere
+certificSian;certificSian
+certificate Detail;Sertifikaatbesonderhede
+certificate Fields;Sertifikaatvelde
+certificate Hierarchy;Sertifikaathiërargie
+certificate Hold;Sertifikaathouer
+certificate Policies;Sertifikaatbeleide
+certificate Signer;Sertifikaatondertekenaar
+certificate;Sertifikaat
+certificates;sertifikate
+ch;ch
+chain;ketting
+changes;wysigings
+changing;verandering
+character Encoding;karakterenkodering
+character;karakter
+characters;karakters
+charset string;karakstelstring
+chat;klets
+check Box;Merkkassie
+check;merk
+checkbox;merkblokkie
+checkboxes;merkblokkies
+checked;gemerk
+child;kind
+children;kinders
+choice;keuse
+chrome//messenger/content/msgAccountCentralxul;chrome//messenger/content/msgAccountCentralxul
+chrome;chroom
+cipher suites;syfersuites
+circle;sirkel
+claims;beweer
+class;klas
+clean;als
+clear;wis
+cleared;gewis
+click;kliek
+clicked;geklik
+clicking;Sknop
+clipboard;knipbord
+clock;klok
+closed;gesluit
+closes;toemaak
+closing;eind
+code;kode
+codebreakpadreportURL;codebreakpadreportURL
+collapsed;ingevou
+collected;ingesamel
+collective;gesamentlike
+color component;kleurkomponent
+color;kleur
+colors;kleure
+column;kolom
+columns;kolomme
+columnwith;kolommet
+combinator;kombinator
+come;come
+command;command
+commas;kommas
+commaseparated;kommageskeide
+comment;opmerking
+common;gemene
+commonly;tipies
+communicate;kommunikeer
+community;gemeenskap
+compact;kompakteer
+compacted;gekompakteer
+company;se
+compatibility;versoenbaarheid
+compatible;versoenbaar
+complementary;komplementêr
+complete;voltooi
+completely;heeltemal
+completing;klaarmaak
+component;komponent
+components;komponente
+compose;skrywervenster
+composer;briefskywer
+comprehensive;omvattend
+compression;saampersing
+compromised;oorgeneem
+computer;rekenaar
+computers;beweeg
+conditions;voorwaardes
+configured;Opgestelde
+confirm;bevestig
+confirmation;bestelling
+connect;koppel
+connected;gekoppel
+connection;verbinding
+connections;verbindings
+consequential punitive;gevolg
+consider;Oorweeg
+consistently;konsekwent
+constraint violation;Beperkingsoortreding
+constraint;beperking
+contact Photo;Kennisfoto
+contact;kontak
+contacts;kennisse
+contained;verpak
+contains;bevat
+content Alignment;Inhoudgerigtheid
+content;inhoud
+context;konteks
+continue;voortgaan
+continued;bereik
+contributors;bydraers
+convenience;gerief
+conversations;gesprekke
+converted;omgeskep
+cookie;koekie
+cookies;koekies
+cool;oulike
+coordinate;koördinaat
+coords;coords
+copiedS;gekopieerS
+copies;kopieë
+copy;Kopiëring
+copyright;kopiereg
+corner;onderste
+correct;regmaak
+correctly;funksioneer
+corresponding;ooreenstemmende
+corrupt;korrupte
+corrupted;gekorrumpeerde
+could expose;bloot
+crash;omval
+crashed;gehad
+crashes;omvalle
+create;skep
+created;geskep
+credentials;besonderhede
+credit;kredietkaartnommers
+critical;kritiese
+css;css
+csv;csv
+curly brace;krulhakie
+current;hudige
+cursor keys;porsleutels
+cursor;wyser
+curve;kurwe
+custom;pasgemaakte
+customizations;pasmakings
+customize;aanpas
+d;d
+damages;skadevergoeding
+darrinhenein;darrinhenein
+data Choices;Datakeuses
+data Encipherment;Dataversyfering
+data Submission;Datainlewering
+data;data
+database;databasis
+date;datum
+day;dag
+daydays;dagdae
+days;dae
+debugger;ontfouter
+debugging;SQL
+deceive;bos
+deceptive;misleidende
+decided;besluit
+declaration;deklarasie
+declared;verklaar
+decode;dekodeer
+decoded;gedekodeer
+decompress;uitpak
+decrypt;dekripteer
+default Permissions;Verstektoestemmings
+default colors Don &apos;t
+default;verstek
+definition list;definisielys
+definition;definisie
+delete;skrap
+deleted;geskrap
+delivers;bied
+deprecated;afgekeur
+designed;ontwerp
+destination Folder;Bestemmingsvouer
+destination mailboxes;teikenposbusse
+details;handtekeningsertifikaat
+detected;bespeur
+detects;bespeur
+determined;Gemorspos
+developer Edition;Ontwikkelaarweergawe
+developer;ontwikkelaar
+developermozillaorg;developermozillaorg
+development;ontwikkeling
+device;toestel
+deviceand;toestelen
+devices;toestelle
+diagnostic;diagnostiese
+diagram;diagram
+dialog;dialoog
+dialogs;dialoë
+dictionaries;woordeboeke af
+dictionary;woordeboek
+difficult;moeilik
+digital;digitale
+digitally;digitaal
+dir;dir
+directly;direk
+directories;subgidse
+disable;deaktiveer
+disabled;gedeaktiveer
+disallowed;nietoegelate
+discard;weggegooi
+disclaim;ontken
+disconnected;ontkoppel
+discontinue;opskort
+disguised;vermom
+disk;skyf
+dispatched;gestuur
+display;display
+displayed;vertoonde
+distribute;doelbewus
+distributors;verspreiders
+do;do
+docs;docs
+document;dokument
+documentation;dokumentasie
+documentdomain;documentdomain
+documentdomainS;documentdomainS
+documentload;documentload
+documents;dokumente
+documentwrite;documentwrite
+does;skuld
+domain;domein
+domesticgrade;graad
+don &apos;t
+donation;donasie
+done;klaar
+down Arrow;Afpyltjie
+download Actions;Aflaaiaksies
+download;aflaaiproses
+downloaded;afgelaai
+dragging;dit
+driver;drywer
+due;weens
+duplicate attribute;duplikaatattribuut
+duplicates;duplikaat
+e;e
+eWorld;eWorld
+easier;makliker
+edge;kant
+effect;uitwerking
+eg;bv
+eight;eight
+eightbit;eightbit
+eighteen;eighteen
+eighteenth;eighteenth
+eighth;eighth
+either;either
+elapsed;verloop
+elea reime;elea reime
+element;element
+elementdataset instead;elementdataset instead
+elementdataset;elementdataset
+elements;elemente
+elementsetAttribute instead;elementsetAttribute instead
+elementsetAttribute;elementsetAttribute
+elementsetAttributeNS instead;elementsetAttributeNS instead
+elementsetAttributeNS;elementsetAttributeNS
+eleven;eleven
+eleventh;eleventh
+eligible;eligible
+elliptic Curve;Elliptiesekurwe
+elliptic curve conbv;elliptic curve conbv
+elliptic curve cpnbv;elliptic curve cpnbv
+elliptic curve cpnbw;elliptic curve cpnbw
+elliptic curve ctnbv;elliptic curve ctnbv
+elliptic curve primev;elliptic curve primev
+elliptic curve;elliptic curve
+elliptic;elliptiese
+else contact;kontak
+else;else
+em;em
+emMammon;emMammon
+email Recipient;email Recipient
+email Scams;email Scams
+email address;email address
+email addresses;email addresses
+email correspondent;eposkorrespondent
+email;epos
+emailI &apos;emailI &apos
+emailI;emailI
+emailed;emailed
+emailexamplecom;eposvoorbeeldcoza
+emails;emails
+emand;emand
+embarrassed face;embarrassed face
+embarrassed;verleë
+embarrassing;embarrassing
+embed;embed
+embedded PDF;embedded PDF
+embedded;embedded
+embeds;embeds
+emcontributor emcontributorSuzy / emcontributor;emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon;emcontributor emcontributorSuzy Solon
+emcontributor;emcontributor
+emcontributorJoe Solon;emcontributorJoe Solon
+emcontributorJoe;emcontributorTranslateorgza
+emcontributorSuzy;emcontributorSuzy
+emfire;emfire
+emgreat;emgreat
+emnew;emnew
+emother;emander
+emoticons;emoticons
+employer;employer
+empty Trash;empty Trash
+empty slots;empty slots
+empty;Leë
+emptying;emptying
+emreborn;emreborn
+emrenewed;emrenewed
+emswiftly;emswiftly
+emthunder;emthunder
+emtwins;emtwins
+emulate a;emulate a
+emulate;emulate
+emulating a;emulating a
+emulating;emulating
+emulation;emulation
+en;en
+enUS en;enUS en
+enUS;af
+enable brandShortName &apos;enable brandShortName &apos
+enable others;enable others
+enable worker;enable worker
+enable;aktiveer
+enablePersonalizedlabel;enablePersonalizedlabel
+enablePrivilege;enablePrivilege
+enableSafeBrowsinglabel;enableSafeBrowsinglabel
+enabled Plugins;enabled Plugins
+enabled excluding;enabled excluding
+enabled;Geaktiveerde
+enables;enables
+enbz;enbz
+enclosed;enclosed
+encode;encode
+encoded;encoded
+encoder;encoder
+encoding;enkodering
+encodings;encodings
+encountered;encountered
+encrypt this;encrypt this
+encrypt;enkripteer
+encrypted you;encrypted you
+encrypted;geënkripteerde
+encryption;enkripsie
+enctype instead;enctype instead
+enctype;enctype
+enctypeS;enctypeS
+enctypemultipart;enctypemultipart
+end user &apos;end user &apos
+end;end
+ended;klaar
+endexpand;endexpand
+ending with;ending with
+ending;ending
+endpoint;endpoint
+ends up;ends up
+ends with;ends with
+ends;ends
+enforced;enforced
+engage;engage
+engine;enjin
+engines;enjins
+enhanced;enhanced
+enjoy;enjoy
+enlarging the;enlarging the
+enlarging;enlarging
+enough;genoeg
+ensure;ensure
+ensures that;ensures that
+ensures;ensures
+enter;intik
+entered;ingetik
+entering;entering
+enters;enters
+entire;entire
+entirely;entirely
+entities;entities
+entity in;entity in
+entity reference;entity reference
+entity;entiteit
+entries;inskrywings
+entry;entry
+enumerable;enumerable
+enus;enus
+environment Data;environment Data
+environment;environment
+environments;environments
+ephemeral DiffieHellman;ephemeral DiffieHellman
+ephemeral;efemere
+equals sign;equals sign
+equals;equals
+equation;vergelyking
+equestAnimationFrame;equestAnimationFrame
+era of;era of
+erase;erase
+error console;foutkonsole
+error creating;error creating
+error refiling;error refiling
+error;fout
+errorCode;errorCode
+errorfree;errorfree
+errors;errors
+erver;erver
+es Salaam;es Salaam
+es;es
+esES;esES
+esc;esc
+escape;escape
+escaped;escaped
+escaping;escaping
+establish;bewerkstellig
+established;established
+estimates only;estimates only
+estimates;benadering
+etc;ens
+eval;eval
+evaluate selected;evaluate selected
+evaluate;evaluate
+evaluating a;evaluating a
+evaluating an;evaluating an
+evaluating;evaluating
+evaluation;evaluation
+even;selfs
+event Handler;event Handler
+event;event
+eventThe;eventThe
+events;events
+ever;ooit
+every dayevery;every dayevery
+every weekevery;every weekevery
+every;every
+everyone;almal
+everything inbetween;everything inbetween
+everything;everything
+everywhere;everywhere
+exact;presiese
+exactly;exactly
+examf;examf
+examine your app &apos;examine your app &apos
+examine;examine
+example;byvoorbeeld
+examplecom rather;examplecom rather
+examplecom;examplecom
+examplenet;voorbeeldnet
+exceed five;vyfhonderd
+exceed the;exceed the
+exceed;reikwydte
+exceeded;exceeded
+exceeds;exceeds
+except;except
+exception;uitsondering
+exceptions Cookies;exceptions Cookies
+exceptions;Uitsonderings
+exchange;exchange
+excluded;excluded
+excluding;wat uitsluit
+exclusion;uitsluiting
+executable;uitvoerbare
+execute;execute
+executed to;executed to
+executed;executed
+executes;executes
+execution;execution
+exemplary;bestraffende
+exist can &apos;exist can &apos
+exist;exist
+existing;Bestaande
+exists;exists
+existsWould;existsWould
+exit;exit
+exited;exited
+exits;exits
+expand panes;expand panes
+expand;expand
+expanded to;expanded to
+expanded;uitgevou
+expanding out;expanding out
+expanding;expanding
+expands to;expands to
+expands;expands
+expandstrict;expandstrict
+expect anonymous;expect anonymous
+expect;expect
+expectations;expectations
+expected charset;expected charset
+expected coordinate;expected coordinate
+expected counter;expected counter
+expected identifier;Identifiseerder
+expected nonnegative;expected nonnegative
+expected part;expected part
+expected;expected
+expecting;gekry
+experience;experience
+experienced;ervare
+experiences;experiences
+experiencing;experiencing
+experiment;experiment
+experimental;eksperimenteel
+experiments;experiments
+expire;verval
+expired;verval
+expires Seconds;expires Seconds
+expires;expires
+expiry;expiry
+explicit;explicit
+explicitly specify;explicitly specify
+explicitly;explicitly
+exploit;exploit
+explore a;explore a
+explore;explore
+export regulations;export regulations
+export;export
+exported;exported
+expose;expose
+exposedProps;exposedProps
+express;uitdruklik
+expression;uitdrukking
+expressions;expressions
+extend;extend
+extended;extended
+extending the;extending the
+extending;extending
+extends system;extends system
+extends;extends
+extensible;extensible
+extension extensions;extension extensions
+extension;uitbreiding
+extensions;uitbreidings
+external Editors;external Editors
+external storage;external storage
+external;eksterne
+extra Large;extra Large
+extra requirements;extra requirements
+extra;ekstra
+extract error;extract error
+extract;extract
+extraction error;extraction error
+extraction;extraction
+extreme;uiters
+f;f
+face;gesiggie
+facing camera;facing camera
+facing;facing
+factory;factory
+fail;fail
+failed;mislukte
+fails treat;fails treat
+fails;fails
+failure;faling
+fallback;fallback
+false;false
+familiar;familiar
+family addressbr;family addressbr
+family;family
+far;far
+fast;vinnige
+faster;nóg
+faves;faves
+faxed;faxed
+feature;kenmerk
+features;kenmerke
+feb &#124;feb &#124
+feb;feb
+february;february
+feed &quot;feed &quot
+feed Subscriptions;Voerintekeninge
+feed;nuusvoer
+feedImported;feedImported
+feedback;terugvoer
+feeds;voere
+feel;feel
+feels great;feels great
+feels;feels
+fell;fell
+fence;fence
+fetch count;fetch count
+fetch;fetch
+fetched from;fetched from
+fetched;gehaal
+fetching individuals;fetching individuals
+fetching more;fetching more
+fetching;fetching
+few;paar
+fewer;fewer
+ff &quot;ff &quot
+ff;ff
+field Value;Veldwaarde
+field;veld
+fields;velde
+fifteen;fifteen
+fifteenth;fifteenth
+fifth;fifth
+fig;fig
+figure;figure
+file &quot;file &quot
+file Attach;file Attach
+file Upload;file Upload
+file vcf;file vcf
+file };file }
+file;userjslêer
+filename;filename
+files;slotlêers
+filesystem;filesystem
+filing;filing
+fill out;fill out
+fill;fill
+fillStyle;fillStyle
+filled;filled
+filling;invul
+filter JSON;filter JSON
+filter Rules;Filterreëls
+filter Variables;filter Variables
+filter event;filter event
+filter variables;filter variables
+filter;Filtreer
+filtered;gefilter
+filtering;filtering
+filters;filters
+final;final
+financial;finansiële
+find In;find In
+find exactly what you &apos;find exactly what you &apos
+find out what &apos;find out what &apos
+find;vind
+findbar;findbar
+finding;finding
+finetuned;finetuned
+finish;finish
+finished evaluating;finished evaluating
+finished;finished
+finishing;finishing
+fire;fire
+firefox;firefox
+firefoxapps;firefoxapps
+firewall;brandmuur
+firewalls;brandmure
+first option;first option
+first party;first party
+first;eerste
+fit;geskik
+five;vyf
+fix;regstel
+fixed Width;fixed Width
+fixed width font;vastewydtefont
+fixed;reggestel
+fixvideoaudioproblemsfirefoxwindows;fixvideoaudioproblemsfirefoxwindows
+flag;flag
+flagged;flagged
+flame;flame
+flash;flash
+flashing;flashing
+flat equation;flat equation
+flat;flat
+flexibility and security so you &apos;flexibility and security so you &apos
+flexibility;aanpasbaarheid
+flexiblebr;flexiblebr
+floating &quot;floating &quot
+floating;floating
+floor;floor
+floppy;floppy
+flr;flr
+focus Variables;focus Variables
+focus;focus
+focused;focused
+folder &apos;folder &apos
+folder &quot;folder &quot
+folder subscriptions;vouerintekeninge
+folder;Vouer
+folders;heen
+follow;volg
+followed by;followed by
+followed;followed
+followers;followers
+following protocols S isn &apos;following protocols S isn &apos
+following;volgende
+follows;follows
+followup;followup
+font Control;Fontbeheer
+font size;font size
+font;font
+fontface rule;fontface rule
+fontface;fontface
+fontfeaturevalues;fontfeaturevalues
+fonts for;fonts for
+fonts;fonte
+fontvariant property;fontvariant property
+fontvariant;fontvariant
+footer text;footer text
+footer;footer
+footinmouth face;footinmouth face
+footinmouth;footinmouth
+for &apos;for &apos
+for &quot;for &quot
+for Clearing;for Clearing
+for DTLS;for DTLS
+for Developers;for Developers
+for Legacy;for Legacy
+for ProductShortName;for ProductShortName
+for compressed stylesheets;for compressed stylesheets
+for compressed;for compressed
+for contributing;for contributing
+for decoding;for decoding
+for diagnostic purposes;for diagnostic purposes
+for iOS;for iOS
+for nonfunction;for nonfunction
+for premium;for premium
+for privileged;for privileged
+for quotbm;for quotbm
+for recipients &apos;for recipients &apos
+for signing;for signing
+for writing;for writing
+for;vir
+forbidden;verbode
+force;force
+forced;forced
+forcibly;forcibly
+forcing all;forcing all
+forcing;forcing
+foreign;foreign
+forgeries;forgeries
+forgery;forgery
+forget;vergeet
+forgetting;forgetting
+forgotten;vergeet
+form Field;form Field
+form Post;Vormpos
+form fields;form fields
+form userhost;form userhost
+form;vorm
+format;formaat
+formatD;formatD
+formatI icon;formatI icon
+formatI;formatI
+formatS formatS;formatS formatS
+formatS;formatS
+formatSNew;formatSNew
+formats;formate
+formatted as;formatted as
+formatted;geformateerde
+formatting;formatering
+formdata on;formdata on
+formdata;formdata
+formed;formed
+forms are;forms are
+forms;vorms
+forth and;forth and
+forth;forth
+forums;forums
+forward slashes;forward slashes
+forward;vorentoe
+forwarded;aangestuur
+forwardmsg;forwardmsg
+forwards;aanstuur
+found;Aanhegselwoord
+foundout of;foundout of
+foundout;foundout
+founds;founds
+four;four
+fourteen;fourteen
+fourteenth;fourteenth
+fourth;fourth
+fox jumps over your expectations with;fox jumps over your expectations with
+fox jumps;fox jumps
+fox;fox
+fps;fps
+frFR;frFR
+frac;frac
+fraction;fraction
+fragment Shader;fragment Shader
+fragment;fragment
+frame &apos;frame &apos
+frame;frame
+framed;framed
+framerate;framerate
+frames;frames
+frameset;frameset
+framesets;framesets
+framing;framing
+fraud;bedrog
+fraudulent;bedrieglike
+free;free
+frequently;kwelvrae
+fresh;vars
+friday &#124;friday &#124
+friday;friday
+fridays;fridays
+friend;friend
+friends;friends
+from Garbage;from Garbage
+from edge of paper to Margin;from edge of paper to Margin
+from hangs;from hangs
+from strongThe;from strongThe
+from the viewer reader &apos;from the viewer reader &apos
+from visited;from visited
+from;van
+front facing;front facing
+front;front
+frown face;frown face
+frown;frown
+frozen;frozen
+ftp;ftp
+ftpmyispcom;ftpmyispcom
+full;vol
+fullfeatured;fullfeatured
+fullpage;fullpage
+fullscreen;volskermgebruik
+fully;fully
+function;uitgevoer
+functional;functional
+functionality;functionality
+functions;functions
+further;further
+future scans by;future scans by
+future;toekomstige
+fxp Available;fxp Available
+fxp;fxp
+gain;gain
+gallery;gallery
+garbage Collection;garbage Collection
+garbage collection;garbage collection
+garbage;garbage
+garbled text;garbled text
+garbled;garbled
+gateway;gateway
+gathering;gathering
+gazed;gazed
+gb;gb
+gdiplus;gdiplus
+gear icon;ratikoon
+gear;gear
+general Notification;general Notification
+general;general
+generally;generally
+generate a;generate a
+generate;generate
+generated;generated
+generation;generation
+generator;generator
+generic Photo;generic Photo
+generic;Generiese
+geoenabled preference;geoenabled preference
+geoenabled;geoenabled
+geolocation;geolocation
+geometric;geometric
+geometry visibility;geometry visibility
+geometry;geometry
+geostd;geostd
+get Involved;get Involved
+get Map;get Map
+get involved;get involved
+get me;get me
+get started;get started
+get;gevolglik
+getAttribute instead;getAttribute instead
+getAttribute;getAttribute
+getAttributeNS instead;getAttributeNS instead
+getAttributeNS;getAttributeNS
+getAttributeNode;getAttributeNode
+getAttributeNodeNS;getAttributeNodeNS
+getElementById;deurgegee
+getPreventDefault;getPreventDefault
+getReceivers instead;getReceivers instead
+getReceivers;getReceivers
+getRemoteStreams are;getRemoteStreams are
+getRemoteStreams;getRemoteStreams
+getUserData;getUserData
+getting Started;getting Started
+getting;getting
+getwebglorg;getwebglorg
+gif jpg;gif jpg
+gif;gif
+git commit&apos;git commit&apos
+git;git
+give feedback;give feedback
+give;give
+given;given
+gives you;gives you
+gives;gee
+giving;giving
+glitches;glitches
+glob;glob
+global Composing;global Composing
+global community;global community
+global;wêreldwye
+globals;globals
+go Back;go Back
+go;go
+goes;goes
+going online;going online
+going;ongeluk
+gone;gone
+good news;good news
+good;goeie
+goodwill;goodwill
+gopher;gopher
+gorithm Identifier;gorithm Identifier
+got it;got it
+got;got
+governed by;governed by
+governed;governed
+grace;grace
+grant;grant
+granted;granted
+grants you;grants you
+grants;ken
+graphic;graphic
+graphics;graphics
+great;great
+greater than;greater than
+greater;groter
+greeting;greeting
+grew more;grew more
+grew;grew
+grid;grid
+gridcell;gridcell
+grip;grip
+group;groep
+grouped;grouped
+groups;groepe
+gt;gt
+gtgt;gtgt
+guarantee that;guarantee that
+guarantee;waarborg
+guaranteed;gewaarborg
+guess;guess
+guessed;guessed
+guessing;raai tans
+guest is;guest is
+guest;guest
+guide you;guide you
+guide;guide
+guides;guides
+h;h
+hTraduction;hTraduction
+ha;ha
+hacking;hacking
+had its;had its
+had;het
+half an;half an
+half past;half past
+half;half
+hand tool;handjie
+hand;hand
+handle S;handle S
+handle;hanteer
+handled;handled
+handler command;handler command
+handler;handler
+handles;handles
+handling;handling
+hands;hands
+handshake;bladskud
+handshakes;handshakes
+hang Report;hang Report
+hang stacks;hang stacks
+hang;hang
+hangs;hangs
+happened;happened
+happens;happens
+hard drive;hard drive
+hard;hard
+hardware H;hardware H
+hardware acceleration;hardware acceleration
+hardware;hardware
+harm;harm
+harmful;skadelike
+has Attachments;has Attachments
+has bookmarked;has bookmarked
+has confirmed;has confirmed
+has delegated;has delegated
+has detected;has detected
+has determined;has determined
+has joined;has joined
+has suggested;has suggested
+has visually;has visually
+has;has
+hash;hash
+hashes in;hashes in
+hashes;hashes
+hashsource;hashsource
+hasn &apos;hasn &apos
+hasn;hasn
+have attempted;have attempted
+have been transferred;have been transferred
+have decided;have decided
+have gone down;have gone down
+have paused;have paused
+have seen;have seen
+have shiny;have shiny
+have;have
+haven &apos;haven &apos
+haven;haven
+haves;haves
+having trouble;having trouble
+having;having
+head;head
+header;kopskrif
+headers;kopskrifte
+heading level;heading level
+heading;opskrif
+headings;koppe
+health;gesondheid
+heap;heap
+hear;hear
+height;height
+held;held
+hello extension;hello extension
+hello;hello
+help;hulp
+helper;helper
+helpful;helpful
+helping make;helping make
+helping;helping
+helps ma;helps ma
+helps;helps
+her;haar
+here;hier
+hidden;versteekte
+hide Statistics;hide Statistics
+hide Toolbars;hide Toolbars
+hide;hide
+hiding;hiding
+high Grade;Höegraads
+high;hoë
+higher level;higher level
+higher;hoër
+highgrade;hoëgraadse
+highlight;Verlig
+highlighted;highlighted
+highlightedS nodes;highlightedS nodes
+highlightedS;highlightedS
+highlighter;highlighter
+highlighters;highlighters
+highly recommended;highly recommended
+highly;hoog
+hightailcom;hightailcom
+him;him
+hints press;hints press
+hints;hints
+his or her;his or her
+his;his
+history window;history window
+history&apos;history&apos
+history;geskiedenis
+hold;hold
+holds;holds
+home City;home City
+home Country;home Country
+home Phone;home Phone
+home directory don &apos;home directory don &apos
+home;huis
+homepage;tuisblad
+hop limit;hop limit
+hop;hop
+horizontal lines;horizontal lines
+horizontal;horisontale
+horror;horror
+host;rekenaarnaam
+hosted;hosted
+hosting service;hosting service
+hosting;hosting
+hostname;hostname
+hostnameport;hostnameport
+hostnames;gasheername
+hostport;hostport
+hosts;hosts
+hotspots;hotspots
+hour;hour
+hourhours;uurure
+hours;ure
+how;hoe
+however;however
+href;href
+hrink;hrink
+hrpd;hrpd
+hstrike;hstrike
+htm;htm
+html &apos;
+html;html
+htmlstrong;uitgevee
+htmlstrongCookies;htmlstrongCookies
+htmlstrongHistory;htmlstrongHistory
+htmlstrongTabs;htmlstrongoortjies
+htmlstrongWindows;htmlstrongvensters
+http Proxy;HTTPinstaanbediener
+http//;http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/;http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/;http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls;http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls;http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos;http//composemailyahoocom/Tos
+http//diggcom/reader/search/s;http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp;http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls;http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar;http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid;http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO;http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/;http//mozillaorg/themes/download/
+http//plugindocmozdevorg/;http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s;http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu;http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri;http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider;http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s;http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq;http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq;http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq;http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI;http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/;http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz;http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/;http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml;http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml;http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml;http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml;http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html;http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/;http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/;http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml;http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml;http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http//wwwmozillaorg/products/thunderbird/messagegroupinghtml;http//wwwmozillaorg/products/thunderbird/messagegroupinghtml
+http//wwwmozillaorg/products/thunderbird/privacyprotectionhtml;http//wwwmozillaorg/products/thunderbird/privacyprotectionhtml
+http//wwwmozillaorg/products/thunderbird/rsshtml;http//wwwmozillaorg/products/thunderbird/rsshtml
+http//wwwmozillaorg/products/thunderbird/searchfoldershtml;http//wwwmozillaorg/products/thunderbird/searchfoldershtml
+http//wwwmozillaorg/support/thunderbird/;http//wwwmozillaorg/support/thunderbird/
+http//wwwseamonkeyprojectorg/;http//wwwseamonkeyprojectorg/
+http;http
+https//boxescom/external/widgetreferffurls;https//boxescom/external/widgetreferffurls
+https//composemailyahoocom/Tos;https//composemailyahoocom/Tos
+https//mailgooglecom/mail/extsrcmailtourls;https//mailgooglecom/mail/extsrcmailtourls
+https//wwwmibbitcom/urls;https//wwwmibbitcom/urls
+https;https
+hue;skakering
+human;human
+iOS;iOS
+icon;ikoon
+icons;ikone
+id;id
+identical;identies
+identification;identifikasie
+identified;geïdentifiseer
+identify;identifiseer
+ie;maw
+if;indien
+ignored;geïgnoreerde
+ii;ii
+iii;iii
+illegal;onwettige
+image;gif
+images;prente
+imap;gereserveer
+imitate;aap
+immediately;dadelik
+impersonate;voorgee
+implementation;implementasie
+implied;geïmpliseerde
+import;import
+important;belangrik
+imported;ingevoerde
+improper;onbehoorlike
+improperly;onbehoorlik
+in;ruk
+inaccessible;ontoeganklik
+inaction;inaction
+inadequate;onvoldoende
+inches;duim
+incidental;toevallige
+included;hierby
+including;waaronder
+incoming;inkomende
+incompatible;onversoenbare
+incomplete;onvolledige
+index;indeks
+indirect;indirekte
+individual;individuele
+ined;ined
+inform;verwittig
+initial;aanvanklike
+initialized;geïnisialiseer
+initially;aanvanklik
+initiate;SSLbladskud
+injure;injure
+inline Style;Inlynstyl
+inline;inlyn
+inlineblock;inlineblock
+innocent;onskuldige
+input;toevoer
+insecure;onbeveiligde
+insert;voeg
+inserted;ingevoeg
+install;installeringsproses
+installation;installering
+installed;geïnstalleerde
+installer;Opsteller
+instance;programkopie
+instant Message;Kitsboodskappe
+instead;instede
+integer;heelgetal
+integrity;integriteit
+intended;bedoel
+internal;Interne
+interrupted;onderbreek
+into;oë
+invalid;ongeldige
+involve;hê
+is;is
+isn't;is nie
+issue;reik
+issued;uitgereik
+issuer;uitreiker
+issues;oplewer
+it;naaap
+item;item
+items;items
+its;sy
+itself;homself
+javascript;dataURL
+job;finalisering
+junk Percent;Gemorspersentasie
+junk Score Origin;Gemorsgraderingoorsprong
+junk analysis;Gemorsontleding
+junk score;gemorspostelling
+junk;gemorsposstellings
+kb;kb
+keep;hou
+key;sleutel
+keyboard Shortcuts;Sleutelbordkortpaaie
+keyboard;sleutelbord
+keys;sleutels
+keywords;opgemerk
+killed;onderdruk
+kinds;soorte
+known;rieme
+laid out;uitgelê
+large;groot
+later;later
+latest;jongste
+law;internasionale
+ldi;ldi
+ldif;ldif
+leaf;blaar
+learn;leer
+least;minste
+left Arrow;Linkspyltjie
+left;linkerkantlyn
+lefttoprightbottom;lefttoprightbottom
+length;lengte
+less;minder
+let;laat
+level;vlak
+li;li
+liCheck;liKontroleer
+liIf;liIndien
+liMake;liMaak
+liPlease contact;liKontak
+liPress;liKlik
+liThe;liDie
+liThis;liHierdie
+liYou might;liDalk
+library Versions;Biblioteekweergawes
+licenses;lisensies
+licensing information;lisensiëringinligting
+licensors;lisensiegewers
+lightness;ligtheid
+likely;waarskynlik
+likenew;sogoedsoosnuut
+liliClick;liliKlik
+liliDo;liliHet
+liliDoes;liliLaat
+liliIs;liliWord
+liliPress;liliKlik
+liliSome;liliSekere
+liliStill;liliSukkel
+liliemNOTE;liliemLET
+limit;beperk
+limitation;inperking
+line breaks;reëlbreuke
+line;lyn
+link;skakel
+linked;geskakelde
+links;skakels
+list Item;Lysitem
+list Nickname;Lyskennaam
+list;lys
+listed;gelys
+literal;letterlike
+loaded;gelaai
+loading;laai tans
+local;plaaslike
+locale;locale
+localhost;localhost
+locally;plaaslik
+location;ligging
+lock;ontsluit
+locked;vasgesluit
+log;boek
+logging;boekstawing
+logins;aanmelinligting
+logos;logo
+lower;laer
+lowerright;regter
+lt;lt
+ltbgtboldlt;ltbgtboldlt
+ltr;ltr
+machine;masjien
+mages;rente
+mail Views;Posaansigte
+mail;onderskep
+mailbox;posbus
+mailboxes;posbusse
+main process;hoofproses
+main;hoof
+maintenance;Onderhoud
+make;tersaaklike
+makes;maak
+making;spoolgids
+malformed;wanvormde
+malicious;kwaadwillig
+malware;wanware
+manage;bestuur
+manual;handleiding
+many;veel
+margins;Kantlyne
+mark the;mark the
+marked;marked
+marking a;marking a
+marking;marking
+markup;markering
+marquee;marquee
+masking;masking
+master;master
+match;match
+matchMore;passendeMeer
+matched by;matched by
+matched;matched
+matcheleatchMore than;matcheleatchMore than
+matches;pas by
+matching;passing
+matchutomatically;matchutomatically
+material;stof
+math table;math table
+math;math
+matrix;matrix
+max;max
+maxage;maxage
+maximum Length;maximum Length
+maximum permissible;maximum permissible
+maximum;maksimum
+may discontinue;may discontinue
+may update;may update
+may;verkeerdelik
+maybe;maybe
+mb of;mb of
+mb;mb
+mbox;mbox
+me out of here;me out of here
+me;my
+mean slower message;stadiger
+mean;mean
+means you &apos;means you &apos
+means;means
+measure a portion;measure a portion
+measure a;measure a
+measure;measure
+measurements;measurements
+measuring;measuring
+mechanism;mechanism
+mechanisms;mechanisms
+media Sharing;Mediadeling
+media;media
+medium;medium
+meet;meet
+member;member
+members;members
+membersonly;membersonly
+memory map;memory map
+memory measurements;memory measurements
+memory;geheue
+mentioning;mentioning
+menu Bar;menu Bar
+menu bar;menu bar
+menu;menu
+menuPath;menuPath
+menus;menus
+merchantable;merchantable
+merge Warning;Saamsmeltwaarskuwing
+merge all;merge all
+merge;merge
+mesh;mesh
+message Grouping;Boodskapgroepering
+message I &apos;message I &apos
+message Summary;Boodskapopsomming
+message flag;message flag
+message panel;message panel
+message preview;message preview
+message templates;boodskapsjablone
+message };message }
+message;boodskap
+messageDone;messageDone
+messageIndexing;messageIndexing
+messageS;messageS
+messagebr;boodskapbr
+messagebrIn;messagebrIn
+messageeml;boodskapeml
+messagegt;messagegt
+messageid;boodskapID
+messages Reopen;messages Reopen
+messages;boodskappe
+messaging;messaging
+meta;meta
+metadata;metadata
+metal posteriors;metal posteriors
+metal;posteriors
+metaviewport tag;metaviewport tag
+metaviewport;metaviewport
+meter;meter
+method &apos;method &apos
+method;metode
+methodGET;methodGET
+methodPOST and;methodPOST and
+methodPOST;methodPOST
+methodpost;methodpost
+methods;methods
+microphone;mikrofoon
+microsummary;microsummary
+middle Eastern;middle Eastern
+middle;middle
+might;might
+migrate to;migrate to
+migrate your;migrate your
+migrate;migrate
+migrated;migrated
+millimeters;millimeter
+millisecondPing;millisecondPing
+milliseconds;milliseconds
+mimetype of;mimetype of
+mimetype;mimetype
+min;min
+mind;mind
+minheight;minheight
+minimonth;minimonth
+minimum;Minimum
+minjs;minjs
+minor;minor
+mins;mins
+minute minutes;minute minutes
+minute;minuut
+minuteEvery;minuteEvery
+minuteminutes;minuutminute
+minutes ago;minutes ago
+minutes …;minutes …
+minutes;minute
+minwidth em;minwidth em
+minwidth;minwidth
+misconfiguration;misconfiguration
+misconfigured;misconfigured
+misencoded;misencoded
+mismatch;mismatch
+mismatched tag;mismatched tag
+mismatched;wangepaste
+missed reminders;missed reminders
+missed;misgeloop
+missing Custom;missing Custom
+missing closing;missing closing
+missing mandatory;missing mandatory
+missing methodPOST;missing methodPOST
+missing;vermiste
+misspelled word;misspelled word
+misspelled words;misspelled words
+misspelled;misspelled
+mistake;mistake
+mistakes;mistakes
+mistyped;mistyped
+mix;mix
+mixed;gemeng
+mmultiscripts;mmultiscripts
+mobile;mobile
+mode and can &apos;mode and can &apos
+mode;mode
+modegt;modegt
+model;model
+modelview;modelview
+moderated;moderated
+moderator;moderator
+modern;modern
+modes;modes
+modified;gewysigde
+modifier;modifier
+modifiers;modifiers
+modify;modify
+module returned;module returned
+module;module
+modules;modules
+moduli;moduli
+moment;oomblik
+momentarily;momentarily
+moments;moments
+monday;monday
+mondays;mondays
+moneymouth face;moneymouth face
+moneymouth;moneymouth
+monitor;monitor
+month;month
+monthS of;monthS of
+monthS;monthS
+monthevery;monthevery
+monthly;monthly
+months;maande
+more bookmarks;more bookmarks
+more powerful;more powerful
+more savings;more savings
+more;meer
+moreand;moreand
+morex;morex
+more…;more…
+most Visited;most Visited
+most accurate;most accurate
+most popular;most popular
+most;most
+mostrecently;mostrecently
+mouse Wheel;mouse Wheel
+mouse;muis
+move Down;move Down
+move Up;move Up
+move away;move away
+move emswiftly;move emswiftly
+move;skuif
+moveable;beweegbare
+moved renamed or deleted;moved renamed or deleted
+moved renamed;moved renamed
+moved;verskuif
+movedS;geskuifS
+movemail;movemail
+moving;moving
+moz;moz
+mozGetAsFile;mozGetAsFile
+mozImageSmoothingEnabled;mozImageSmoothingEnabled
+mozRTCIceCandidate;mozRTCIceCandidate
+mozRTCPeerConnection;mozRTCPeerConnection
+mozRTCSessionDescriptn;mozRTCSessionDescriptn
+mozRTCSessionDesmatched;mozRTCSessionDesmatched
+mozRequestAnimationFrame;mozRequestAnimationFrame
+mozVisibilityState &apos;mozVisibilityState &apos
+mozVisibilityState;mozVisibilityState
+mozcmd directory;mozcmd directory
+mozcmd files;mozcmd files
+mozcmd;mozcmd
+mozdevorg;mozdevorg
+mozdocument rule;mozdocument rule
+mozdocument;mozdocument
+mozelement;mozelement
+mozilla;mozilla
+mozillaZine;mozillaZine
+mozillacentral;mozillacentral
+mozillacom/plugincheck;mozillacom/plugincheck
+mozillaorg netnz;mozillaorg netnz
+mozillaorg;Translateorgza
+mozinlinebox display;mozinlinebox display
+mozinlinebox;mozinlinebox
+mprescripts;mprescripts
+ms;ms
+msf;msf
+msgFilterRulesdat file;msgFilterRulesdatlêer
+msgFilterRulesdat;msgFilterRulesdat
+much;much
+multiline;multiline
+multimedia;multimedia
+multiple links &quot;multiple links &quot
+multiple;klomp
+multiplied And;multiplied And
+multiplied by;multiplied by
+multiplied;multiplied
+multiprocess;veelvuldige
+multiweek;multiweek
+music;music
+must involve;must involve
+must;moet
+my &quot;my &quot
+my Cert;my Cert
+my Projects;my Projects
+my Quick;my Quick
+my Task;my Task
+my Yahoo;my Yahoo
+my windows;my windows
+my;my
+mypagehtml &quot;mypagehtml &quot
+mypagehtml;mypagehtml
+myusername&apos;;mygebruikernaam
+n;n
+nWhen your;nWhen your
+nWhen;nWhen
+name &quot;name &quot
+name;Benoem
+nameSource;nameSource
+named anchor;named anchor
+named either;named either
+named;Benoemde
+names;profielname
+namespace;namespace
+namespaces;naamsruimte
+narrowing;narrowing
+native code;native code
+native;native
+natively;natively
+navigate;navigeer
+navigated;navigated
+navigating;navigating
+navigation Toolbar;navigation Toolbar
+navigation;navigasie
+navigatorbattery;navigatorbattery
+navigatorgetBattery;navigatorgetBattery
+navigatormediaDevicesgetUserMedia;navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia;navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal;nbspnbspnbspnbspnbspnbspInternal
+nd;nd
+near;naby
+nearby;nearby
+nearest;naaste
+necessary;necessary
+need;need
+needed;verlangde
+needing to;needing to
+needing;needing
+needs;behoeftes
+negate;negate
+negated;negated
+negation;negation
+negative;negatiewe
+negotiate an inadequate;negotiate an inadequate
+negotiate;negotiate
+negotiating a;negotiating a
+negotiating;negotiating
+negotiation;onderhandeling
+neither;neither
+nested Table;nested Table
+nested;nested
+nesting;nesting
+netnz /;netnz /
+netnz;orgza
+netscape;Netscape
+netscapepublicmozillamailnews&apos;;netscapepublicmozillamailnews
+network Monitor;network Monitor
+network Timeout;Netwerkuittelling
+network drive;network drive
+network section;network section
+network;netwerkversoek
+never Show;never Show
+never;nooit
+new Caledonia;NieuCaledonië
+new Separator;new Separator
+new Tab;new Tab
+new Zealand;NieuSeeland
+new home;new home
+new word;new word
+new;nuwe
+newer;nuwer
+news client;news client
+news;nuus
+newsexamplenet;newsexamplenet
+newsgroup subscriptions;nuusgroepintekeninge
+newsgroup;newsgroup
+newsgroups;newsgroups
+newsrc File;newsrc File
+newsrc file;newsrc file
+newsrc;newsrc
+next gt;next gt
+next;next
+nicer;nicer
+nick;nick
+nickname;bynaam
+nicknamegt Change;nicknamegt Change
+nicknamegt;nicknamegt
+nicknames;nicknames
+nicks;nicks
+nightly;nag
+nikto;nikto
+nine;nine
+nineteen;nineteen
+nineteenth;nineteenth
+ninth;ninth
+nnn;nnn
+nntp;nntp
+no &apos;no &apos
+no Fortezza;no Fortezza
+no OMTC;no OMTC
+no Style;no Style
+no Thanks;no Thanks
+no cipher;no cipher
+no decoders;no decoders
+no globals;no globals
+no label;no label
+no less;no less
+no metaviewport;no metaviewport
+no nodelock;no nodelock
+no printers;no printers
+no slot;no slot
+no thanks;no thanks
+no unconfirmed;no unconfirmed
+no;geen
+noMac;noMac
+noWin;noWin
+nocors&apos;nocors&apos
+nocors;nocors
+node;node
+nodeShow all;nodeShow all
+nodeShow;nodeShow
+nodeValue;nodeValue
+nodelock;nodusslot
+nodes;nodes
+nominative;nominative
+non Participant;non Participant
+non;non
+nonASCII;nonASCII
+nonFORTEZZA Certificate;nieFORTEZZAsertifikaat
+nonFORTEZZA;nonFORTEZZA
+nonGregoriancalendar;nonGregoriancalendar
+nonResponse;nonResponse
+nonUTF encoding;nonUTF encoding
+nonUTF;nonUTF
+nonascii character;nonascii character
+nonascii;nonascii
+noncesource;noncesource
+noncharacter;noncharacter
+none;geen
+nonempty;nieleë
+nonfunction pseudoclass;niefunksiepseudoklas
+nonfunction;nonfunction
+nongeneric;nongeneric
+nonincremental Cause;nonincremental Cause
+nonincremental;nonincremental
+nonleaf;nieblaar
+nonmultiprocess;nonmultiprocess
+nonnavigation;nonnavigation
+nonnegative;nonnegative
+nonparticipant;nonparticipant
+nonprintable character;niedrukkarakter
+nonprintable;nonprintable
+nonprofit Mozilla Foundation;nonprofit Mozilla Foundation
+nonprofit;winsbejag
+nonspace in;nonspace in
+nonspace;nonspace
+nonstandard;nonstandard
+nontext;nontext
+nonvoid;nonvoid
+noon;noon
+nor;nor
+normally;normally
+noscript;noscript
+nosniff;nosniff
+nostore;nostore
+not After;not After
+not Before;not Before
+not Connected;not Connected
+not Critical;not Critical
+not Defined;not Defined
+not Deleted;not Deleted
+not Downloaded;not Downloaded
+not Enabled;not Enabled
+not Installed;not Installed
+not Present;not Present
+not Started;not Started
+not Stored;not Stored
+not Trusted;not Trusted
+not accepted;not accepted
+not accessible;not accessible
+not be saved;not be saved
+not checked;not checked
+not disturb;not disturb
+not expecting;not expecting
+not fit;not fit
+not implemented yet;not implemented yet
+not injure;not injure
+not involving;not involving
+not press;not press
+not readable;onleesbaar
+not standalone;not standalone
+not;not
+notation be unescaped;notation be unescaped
+notation be;notation be
+notation;notation
+note Slow;note Slow
+note;note
+notes;notes
+nothing;nothing
+notice;notice
+noticed;noticed
+notification Permissions;notification Permissions
+notification _;notification _
+notification;notification
+notifications;notifications
+notified;notified
+notifier or;notifier or
+notifier;notifier
+notify me;notify me
+notify;notify
+noting;noting
+nounclass;nounclass
+nov &#124;nov &#124
+nov;nov
+november;november
+now doesn &apos;now doesn &apos
+now;nou
+npmmailnews&apos;;npmmailnews
+nsICookieManager;nsICookieManager
+nsICookieManagerS;nsICookieManagerS
+nsICookieManagerremove;nsICookieManagerremove
+nsIDOMWindow instead;nsIDOMWindow instead
+nsIDOMWindow;nsIDOMWindow
+nsIDOMWindowInternal;nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId;nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode;nsIJSONdecode
+nsIJSONencode is;nsIJSONencode is
+nsIJSONencode;nsIJSONencode
+nsIProtocolHandleridl;nsIProtocolHandleridl
+nsIWindowMediator;nsIWindowMediator
+nsIWritablePropertyBag;nsIWritablePropertyBag
+num;num
+number;syfer
+numbered;Genommerde
+numbers negative;numbers negative
+numbers;syfers
+numerator;numerator
+numeric;numeric
+nursery Collection;nursery Collection
+nursery Eviction;nursery Eviction
+nursery;nursery
+obj Properties;objeienskappe
+obj;obj
+object Stores;object Stores
+object;objek
+objects;objekte
+obscured;versteek
+observed;observed
+observers;observers
+obtain;obtain
+occur;occur
+occured;occured
+occurred;plaasgevind
+occurrence of;occurrence of
+occurrence;voorkoms
+occurrences;voorkomste
+occurs;occurs
+oct &#124;oct &#124
+oct;oct
+october;october
+of DOMException &apos;of DOMException &apos
+of DataContainerEvent;of DataContainerEvent
+of Mammon;of Mammon
+of Man;Man
+of Office;of Office
+of Operation;of Operation
+of Sync;of Sync
+of Validity;periode
+of XMLHttpRequest &apos;of XMLHttpRequest &apos
+of XPCOM;of XPCOM
+of a user &apos;of a user &apos
+of attributes &apos;of attributes &apos
+of copies;of copies
+of elapsed;of elapsed
+of fontfeaturevalues;of fontfeaturevalues
+of getAttributeNode;of getAttributeNode
+of getAttributeNodeNS;of getAttributeNodeNS
+of getPreventDefault;of getPreventDefault
+of getUserData;of getUserData
+of inactivity;of inactivity
+of intermediate;of intermediate
+of keyframes;of keyframes
+of law;of law
+of nsIDOMWindowInternal;of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId;of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers;of numbers
+of of;of of
+of paper;of paper
+of qstrongwww;of qstrongwww
+of reachable;of reachable
+of recurrence;of recurrence
+of releaseEvents;of releaseEvents
+of removeAttributeNode;of removeAttributeNode
+of service;of service
+of setAttributeNode;of setAttributeNode
+of setAttributeNodeNS;of setAttributeNodeNS
+of setVelocity;of setVelocity
+of signature;of signature
+of strongwww;of strongwww
+of thousands;of thousands
+of timers;of timers
+of type gif jpg;of type gif jpg
+of unresolved;of unresolved
+of windowshowModalDialog;of windowshowModalDialog
+of;van
+ofbr;ofbr
+off paint;off paint
+off;af
+offer;offer
+offered;offered
+offering;offering
+offerings;offerings
+offers;offers
+offerxA »;offerxA »
+offline;vanlyn
+offline_apps;offline_apps
+offsets;grense
+often;often
+ok;ok
+old;oud
+older than;older than
+older version of Sync;older version of Sync
+older;ouer
+oldstyle YouTube;oldstyle YouTube
+oldstyle;oldstyle
+omitted;weggelaat
+on Main;on Main
+on Permit;on Permit
+on Top;booor
+on Twitter;on Twitter
+on boxcom;on boxcom
+on shutdown;on shutdown
+on tenured;on tenured
+on;aan
+once;maal
+one Level;one Level
+one moreand;one moreand
+one;een
+oneoff;oneoff
+ones;ones
+oneshot;oneshot
+oneubuntucom;oneubuntucom
+ongoing;ongoing
+online;aanlyn
+only reloads;only reloads
+only supports;only supports
+only transmitted;only transmitted
+only;slegs
+onlybr;onlybr
+opacity in;opacity in
+opacity;ondeursigtigheid
+opaque Response;opaque Response
+opaque;opaque
+opaqueredirect Response;opaqueredirect Response
+opaqueredirect;opaqueredirect
+opcode;opkode
+open Web;open Web
+open WebIDE;open WebIDE
+open;open
+opened;geopen
+opening fence;opening fence
+opening;weerhou
+opensource;opensource
+operating system;operating system
+operating;operating
+operation command;operation command
+operation failed;operation failed
+operation;bewerking
+operations error;operations error
+operations;operations
+operator expected;operator expected
+operator;operateur
+operators;operators
+opportunity;opportunity
+opposed;opposed
+optimization;optimization
+optimizations;optimizations
+optimized away;optimized away
+optimized;optimized
+optin No;optin No
+optin;vóórtoestemming
+option Group;Opsiegroep
+option;ontkies
+optional defaultS;optional defaultS
+optional;optional
+optionally;optionally
+options;implementeer
+optionss;optionss
+or BSIGNED;or BSIGNED
+or Columns;or Columns
+or Distrust;or Distrust
+or chat;or chat
+or differing;or differing
+or hashsource specified;or hashsource specified
+or her;or her
+or lost;or lost
+or setTimeout;or setTimeout
+or&apos;or&apos
+or;of
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV;orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange;orange
+order Received;order Received
+order;volgorde
+organization;organization
+organizations;organisasies
+organizer;organizer
+origin;oorsprong
+originAttributes;originAttributes
+original;oorspronklike
+originally;originally
+originals;originals
+originating;originating
+origins;origins
+orithm Identifier;orithm Identifier
+other User &apos;other User &apos
+other Workers;other Workers
+other categories;other categories
+other malicious;other malicious
+other malware;other malware
+other participants;other participants
+other typographical;other typographical
+other;ander
+others;val
+otherwise it;otherwise it
+otherwise;otherwise
+our geolocation;our geolocation
+our partners;our partners
+our;our
+out BrandShortName &apos;out BrandShortName &apos
+out brfrom the crowd;out brfrom the crowd
+out sequentially;out sequentially
+out what &apos;out what &apos
+out;out
+outage;outage
+outdated;gedateerde
+outgoing;uitgaande
+outline;outline
+outlook;outlook
+outofdate;outofdate
+output folder;Afvoervouer
+output;afvoer
+outside;buite
+over other apps &apos;over other apps &apos
+over;over
+overhead;overhead
+overlay;oorlegging
+overridden;overridden
+override the viewer &apos;override the viewer &apos
+override;oorheers
+overriding;overriding
+overscript;overscript
+overview;Oorsig
+overwrite;overwrite
+overwritten;oorheengeskryf
+own;eie
+owned;besit
+owner of;owner of
+owner;eienaar
+ownerElement;ownerElement
+owners;eienaars
+ownership;ownership
+p pIf;p pIf
+p;p
+pA secure;pA secure
+pA;pA
+pAdditional information;pAdditional information
+pAdditional;pBykomende
+pAttack pages;pAanvalsbladsye
+pAttack;pAttack
+pDeceptive sites;pDeceptive sites
+pDeceptive;pDeceptive
+pEntering any;pEntering any
+pEntering;pEntering
+pIf;pAs
+pThe browser;pThe browser
+pThe page;pThe page
+pThe requested;pThe requested
+pThe;pDie
+pThese types;pThese types
+pThese;pThese
+pThough;pAlhoewel
+pUnwanted;pBladsye
+pWeb;pWeb
+pWebsite owners who believe their;pWebsite owners who believe their
+pWebsite;pWebsite
+pYou should not;pYou should not
+pYou should;pYou should
+pYou;pYou
+pYour;pYour
+package;pakket
+packaged;packaged
+packets;packets
+padding;padding
+page &apos;page &apos
+page Colors;Bladsykleure
+page Footers;Bladsyvoete
+page Setup …;page Setup …
+page Title;Bladsytitel
+page continued;page continued
+page navigation;page navigation
+page translation;bladsyvertaling
+page };page }
+page;blad
+pageCount;pageCount
+pageload;pageload
+pages &apos;pages &apos
+pages conveniencebr;pages conveniencebr
+pages they &apos;pages they &apos
+pages;bladsye
+paint flashing;paint flashing
+paint;paint
+painted area;painted area
+painted;geteken
+pair a;pair a
+pair;pair
+pane;pane
+panel;panel
+panes;panes
+panning;panning
+paper Size;Papiergrootte
+paper;papier
+paragraph Marks;paragraph Marks
+paragraph;paragraaf
+param;param
+parameter entity;parameterentiteit
+parameter;parameter
+parameters;parameters
+paranoid;paranoid
+parent Match;parent Match
+parent Payload;parent Payload
+parent prefix;parent prefix
+parent;parent
+parse XML;parse XML
+parse failure;parse failure
+parse;parse
+parsed;parsed
+parser state;ontlederstaat
+parser;parser
+parsing;parsing
+part of;part of
+part;part
+partial Update;partial Update
+partial character;partial character
+partial;gedeeltelike
+partially;deels
+participant;participant
+participants from;participants from
+participants;deelnemers
+participate;participate
+particular purposes;particular purposes
+particular;besondere
+parties;partye
+partner You;partner You
+partner;partner
+partners We;partners We
+partners work;partners work
+partners;vennote
+partnership;partnership
+parts;dele
+party;party
+partyAre;wordIs
+pass;pass
+passed to;passed to
+passed;passed
+passive ’;passive ’
+passive;passive
+passwdtxt;passwdtxt
+password &apos;password &apos
+password Required;password Required
+password copied;password copied
+password fields;password fields
+password for &quot;password for &quot
+password quality meter;Wagwoordgehaltemeter
+password&apos;password&apos
+password;wagwoord
+passwordLeave;passwordLeave
+passwordStored;onthouGestoorde
+passwordprotected;passwordprotected
+passwords;wagwoorde
+past;verlede
+pasting;pasting
+patch apply;patch apply
+patch;patch
+path;pad
+paths starting;paths starting
+paths;paths
+pattern &apos;pattern &apos
+pattern;pattern
+pause;pause
+paused —;paused —
+paused;paused
+payload;payload
+payment provider;payment provider
+payment;payment
+pbrandShortName can &apos;pbrandShortName can &apos
+pbrandShortName can;pbrandShortName can
+pbrandShortName prevented;pbrandShortName prevented
+pbrandShortName;pbrandShortName
+peace;peace
+peer &apos;peer &apos
+peer;eweknie
+peers &apos;peers &apos
+peers;peers
+pending dump;pending dump
+pending;uitstaande
+people &apos;people &apos
+people wouldn &apos;people wouldn &apos
+people;persone
+per;per
+percent;persent
+percentage of;percentage of
+percentage;persentasie
+percnt Completed;percnt Completed
+percnt;percnt
+perform caseinsensitive;perform caseinsensitive
+perform querySelectorAll;perform querySelectorAll
+perform;perform
+performance;prestasie
+performed Trying;performed Trying
+performed;performed
+performgt;performgt
+performing;performing
+periodically;periodically
+permanent exception;permanent exception
+permanent;permanente
+permanently deleted;permanently deleted
+permanently;permanent
+permissible length;permissible length
+permissible;permissible
+permission denied;permission denied
+permission;permission
+permissions;Toestemmings
+permit;permit
+permitted;permitted
+persistent logs;persistent logs
+persistent;persistent
+person &apos;person &apos
+person who holds;person who holds
+person;persoon
+personal Card;personal Card
+personal;persoonlike
+personalhttp//wwwmozillaok;personalhttp//wwwmozillaok
+personality;persoonlikheid
+phishing attacks;uitvissing
+phrase;frase
+pixels;pixels
+place;Bêre
+plaintext passwords;skoontekswagwoorde
+plan;plan
+play Speed;Speelspoed
+play;speel
+plugin;Inprop
+plugins;inproppe
+png;pngprent
+podcast;potgooi
+podcasts;potgooie
+policy;beleid
+poly;poly
+popups;opspringers
+port;poort
+portion;beslis
+portions;dele
+positioning grid;Posisioneerrooster
+positioning;posisionering
+powerful;kragtige
+preconfiguration;vooropstelling
+prefer;verkies
+preference;hieroor
+prefilled;vooraf
+prefix;voorvoegsel
+press;press
+prevented;gekeer
+previous;vorige
+price;prys
+primary;primêre
+print Preview;drukvoorskou
+print Range;Drukreeks
+print;druk
+printed;gefaks
+printer Description;Drukkerbeskrywing
+printer;drukker
+printers;drukkers
+printing;drukproses
+prioritize;prioritiseer
+priority;prioriteit
+privacy Notice;Privaatheidkennisgewing
+privacy policies;privaatheidbeleid
+private;private
+probably;waarskynlik
+problem;probleem
+procedures;prosedures
+processed;verwerk
+processing instruction does;verwerkingsinstruksie
+product;produk
+profile;Profiel
+program;opstellerprogram
+programs;programme
+progress;vordering
+proper;teikengids
+properties;eienskappe
+property;eienskap
+protected;beskermde
+protection;beskerming
+protectionSelect;beskermingKies
+protocol;sekuriteitsprotokol
+protocols;protokols
+prove;voorlê
+provided;aangegewe
+provider;verskaffer
+provisions;privaatreg
+proxy;instaanbediener
+pseudoclass;pseudoklas
+pseudoelement;pseudoelement
+public;openbare
+publicly;publiek
+pulliAre;pulliProbeer
+pulliAs;pulliAs
+pulliCould;pulliSou
+pulliIs;pulliIs
+pulliPlease contact;pulliKontak
+purchase;koop
+purpose;doeleinde
+purposes onlybr;doeleindesbr
+purposes;doeleindes
+px;px
+q;q
+qmozillaorg;qmozillaorg
+qstrongww;qstrongww
+qstrongwww;qstrongwww
+quality;gehalte
+quarantine;kwarantyn
+questions;vrae
+quotJunkquot folder;quotGemorsposquotvouer
+quota Root;Kwotawortel
+quotas;kwotas
+quotblockAttackSiteslabelquot;quotblockAttackSiteslabelquot
+quotblockWebForgerieslabelquot;quotblockWebForgerieslabelquot
+quote;aangehaalde
+quotquot;quotquot
+qwxyz;qwxyz
+radius;radius
+range;getalreeks
+raw;rou
+read;lees
+ready;gereed
+really;werklik
+reason;reason
+reasons;redes
+receipt;strokie
+received;ontvangde
+recently;onlangs
+recipient;ontvanger
+recipients &apos;
+recipients;ontvangers
+recognized;herkende
+recommended;aanbeveel
+recommends;sterkste
+reconnect;Herkoppel
+record;Teken
+recover;herwin
+rect;rect
+rectangular;reghoekige
+recurring;herhalende
+recurs;herhaal
+recursion;terugwerking
+recursive;terugwerkende
+redirect Loop;Herverwysingslus
+redirected;toe herstuur
+redirecting;herverwys
+reference;verwysing
+referral hop limit;Verwysinghopperk
+referral;verwysing
+refiling;herliasseer
+refusing;weier
+regarding;oor
+regexp;reguitdruk
+registered;geregistreerde
+registration;registrasie
+registry;registry
+rejected;verwerp
+related;Verwante
+relation;verhouding
+relative;relatiewe
+release notes;vrystellingaantekeninge
+relevance;relevansie
+relevant;relevante
+reload;herlaai
+reloading;herlaai tans
+relocated;verskuif
+remaining;oorblywende
+remember;onthou
+remote;afgeleë
+remove;wegneem
+removeEventListener method;removeEventListenermetode
+removing;verwyder
+renegotiation;heronderhandeling
+reparsed;herontleed
+replace;vervang
+replacing;vervang
+replication;Replikasie
+replied;beantwoord
+reply;antwoord
+report;Rapporteer
+reports;rapporteer
+represents;verteenwoordig
+request;gereageer
+requested;aangevraagde
+requests;aanvra
+required;benodig
+requirements;vereistes
+reserved;gereserveerde
+reset;terugstel
+responded;reaksie
+rest;res
+restart;hebegin
+restarts;herbegin
+restore;herstel
+restored;terugkopieë
+result;Gevolglik
+resultSee;resultaatSien
+results;resultate oplewer nie
+resume;hervat
+retrieve;ophaal
+retrieves saved;gestoorde
+retry;herprobeer
+return;graag
+review;hersiening
+reviews;hersienings
+revoked;ingetrek
+rgb;rgb
+right Arrow;Regspyltjie
+right;regterkantlyn
+rights;regte
+risk;risiko
+root certificate;wortelsertifikaat
+root element;wortelelement
+root;wortelgids
+row;ry
+rowand;ryen
+rows;rye
+rulesbackupdat;rulesbackupdat
+running;lopende
+s;s
+safe;veilig
+safety;veiligheid
+said;gesê
+sample Output;Voorbeeldafvoer
+saturation;versadiging
+save;stoor
+saved;gestoorde
+saw;skoonteksweergawe
+says;sê
+scaled;verklein
+scams;slap
+screen;skerm
+script;Skrip
+scripts;skripte
+scrolling;rol
+search;soek
+searchIntegrationengineName;searchIntegrationengineName
+searchable;soekbare
+searches;soektogte
+sec;s
+second;tweede
+seconds;sekondes
+secondseconds;sekondesekondes
+secpr;secpr
+secret;geheim
+section;afdeling
+sectk;SECGelliptiesekurwesectk
+secure;beveiligde
+securely;beveilig
+security Devices;Sekuriteitstoestelle
+security Modules;Sekuriteitsmodules
+security Warning;Sekuriteitswaarskuwing
+security Warnings;Sekuriteitswaarskuwings
+security checks;sekuriteitstoetse
+security improvements;sekuriteitsverbeteringe
+security library;sekuriteitsprogrammateek
+security;grond
+seeing doctype;seeing doctype
+seek;seek
+seeking;soek tans
+seem;blykbaar
+seems;seems
+seen but;seen but
+seen;seen
+select &quot;select &quot
+select camera;select camera
+select;selekteer
+selected line &apos;selected line &apos
+selected;gemêrkte
+selecting;selecting
+selection;selection
+selections above;selections above
+selections;selections
+selectlabel;selectlabel
+selector;selector
+selectors separated;selectors separated
+selectors;selectors
+selects;selects
+selfsigned;selfonderteken
+semicolon;semicolon
+send Feedback;send Feedback
+send For;send For
+send;stuur
+sender &apos;sender &apos
+sender message;sender message
+sender;uitgeklaar
+sending;sending
+sends;sends
+sensitive;Sensitiewe
+sensitivity;kleinletters
+sent Cookie;sent Cookie
+sent;gepos
+sep &#124;sep &#124
+sep;sep
+separate tags;separate tags
+separate;Skei
+separated;separated
+separately;apart
+separating;separating
+separator character;skeierkarakter
+separator;skeier
+sept;sept
+september;september
+sequentially as a waterfall;sequentially as a waterfall
+sequentially;sequentially
+serial Number;reeksnommer
+serial number;serial number
+serial;reeksnommer
+series;series
+serif;serif
+server &apos;server &apos
+server Quota;Bedienerkwota
+server SMTP&apos;server SMTP&apos
+server incorrectly;server incorrectly
+server maintenance;server maintenance
+server that can &apos;server that can &apos
+server;bediener
+servers Maybe;servers Maybe
+servers;bedieners
+serves;serves
+service providers;service providers
+service worker;service worker
+service;diens
+services;services
+serving;serving
+session ID;session ID
+session Id;session Id
+session Statistics;session Statistics
+session cache;session cache
+session;session
+sessions;sessions
+set Priority;set Priority
+set browsercachediskenable;set browsercachediskenable
+set strokeStyle;strokeStyle
+set;gestel
+setAttribute instead;setAttribute instead
+setAttribute;setAttribute
+setAttributeNS instead;setAttributeNS instead
+setAttributeNS;setAttributeNS
+setAttributeNode;setAttributeNode
+setAttributeNodeNS;setAttributeNodeNS
+setTimeout cycle;setTimeout cycle
+setTimeout;setTimeout
+setUserData;setUserData
+setVelocity;setVelocity
+sets;stelle
+setting;setting
+settings &#124;settings &#124
+settings&apos;settings&apos
+settings;opsteling
+setup options;opstellingopsies
+setup;setup
+seven;seven
+seventeen;seventeen
+seventeenth;seventeenth
+seventh;seventh
+several ways;several ways
+several;verskeie
+shader Editor;shader Editor
+shader compile status;shader compile status
+shader compile;shader compile
+shader;shader
+shadows variable;shadows variable
+shadows;shadows
+shall control;shall control
+shall;shall
+shape &quot;shape &quot
+shape;shape
+share;share
+shared Workers;shared Workers
+shared;gedeelde
+sharedLongDesc;sharedLongDesc
+shares;shares
+sharing;draai
+sheet;sheet
+sheets;sheets
+shell;shell
+shield;shield
+shiftKeylabel;shiftKeylabel
+shiftclick;shiftclick
+shiny metal posteriors which;shiny metal posteriors which
+shiny;shiny
+shopping;shopping
+short;short
+shortcut;kortpad
+shortcuts;kortpaaie
+shorten this;shorten this
+shorten;shorten
+shorter file;shorter file
+shorter;korter
+shortly;binnekort
+shortname;shortname
+should keep;should keep
+should make;should make
+should;behoort
+shouldn &apos;shouldn &apos
+shouldn;shouldn
+show Cookies;show Cookies
+show resultShow;show resultShow
+show through;show through
+show;wys
+showall &apos;showall &apos
+showall;showall
+showing repairing;showing repairing
+showing;showing
+shown;gewys
+shownReplies;shownReplies
+shows;shows
+shtml;shtml
+shut brandShortName;shut brandShortName
+shut;shut
+shutdown Progress Window;shutdown Progress Window
+shutdown Progress;shutdown Progress
+shutdown;shutdown
+shutting down;shutting down
+shutting;shutting
+sibiling;verwant
+side;side
+sidebar;kantbalk
+sidebarName;sidebarName
+sidebars;kantbalke
+sign in;sign in
+sign;sign
+signal;signal
+signature algorithms;signature algorithms
+signature;handtekening
+signatureAlgorithm;signatureAlgorithm
+signatures;signatures
+signed;saamsmelt
+signer &apos;signer &apos
+signer;ondertekenaar
+signers found;signers found
+signers;ondertekenaars
+significant;significant
+signing certificate;signing certificate
+signing;signing
+signup;signup
+silence;silence
+silently authenticates;silently authenticates
+silently;silently
+similar;similar
+simple Measurements;simple Measurements
+simple XLink;simple XLink
+simple;eenvoudige
+simplified;simplified
+simply need;simply need
+simply;simply
+simulation;simulation
+simulator installed;simulator installed
+simulator;simulator
+since;since
+single;single
+singlesignon;singlesignon
+site &apos;site &apos
+site doesn &apos;site doesn &apos
+site;werf
+sitename &apos;sitename &apos
+sitename;sitename
+sitenat;sitenat
+sites;werwe
+six;six
+sixteen &#124;sixteen &#124
+sixteen;sixteen
+sixteenth;sixteenth
+sixth;sixth
+size;size
+sizes;sizes
+skip Integration;skip Integration
+skip this;skip this
+skip;slaan
+skipped;skipped
+skips;skips
+slash operators;slash operators
+slash;slash
+slashes ie;slashes ie
+slashes;vorentoeskuinsstrepe
+slice;slice
+slider;skuiwer
+slot;gleuf
+slots;slots
+slow Motion;slow Motion
+slow SQL;slow SQL
+slow down;slow down
+slow ×;slow ×
+slow;stadige
+slowing;slowing
+slowly;slowly
+small;klein
+smaller;smaller
+smart;smart
+smartcard please;smartcard please
+smartcard;smartcard
+smartlabel;smartlabel
+smartphone;smartphone
+smiley face;smiley face
+smiley;smiley
+smooth scrolling;smooth scrolling
+smooth;gladde
+smtpexamplenet;smtpexamplenet
+snapshot;snapshot
+snapshots;snapshots
+snews;snews
+so it &apos;so it &apos
+so it can &apos;so it can &apos
+so you &apos;so you &apos
+so;daarom
+soap;soap
+socket;sok
+software makers;software makers
+software;sagteware
+solid Border;solid Border
+solid circle;solid circle
+solid;solid
+solution;solution
+solutions;oplossings
+solve a;solve a
+solve;solve
+some cool;some cool
+some printing;some printing
+some sample;some sample
+some unspecified;some unspecified
+some;ande
+somebody &apos;somebody &apos
+somebody;somebody
+someone isn &apos;someone isn &apos
+someone;someone
+something;something
+sometimes;soms
+somewhere earlier;somewhere earlier
+somewhere;somewhere
+soon;soon
+sorry BrandShortName can &apos;sorry BrandShortName can &apos
+sorry we &apos;sorry we &apos
+sorry;sorry
+sort;rangskik
+sound file;klanklêer
+sound;sound
+sounds like;sounds like
+sounds;klink
+source software;source software
+source;source
+sources;sources
+space Fantasy;space Fantasy
+space between;space between
+space;bespaar
+spaces;spasies
+spam;spam
+span class &apos;span class &apos
+span;span
+spanThis;spanThis
+spanbrandShortName;spanbrandShortName
+spandisabled;spandisabled
+spanenabled;spanenabled
+spans;spans
+spanspan;spanspan
+speak now;speak now
+speak;speak
+speaking;speaking
+spec in;spec in
+spec;spesifikasie
+special incidental;special incidental
+special kinds;special kinds
+special;spesiale
+specific command;specific command
+specific;specific
+specifically;specifically
+specification;specification
+specified;gespesifiseerde
+specifies;specifies
+specify preferred;specify preferred
+specify;dui
+specifying a;specifying a
+specifying acceptcharsetutf;specifying acceptcharsetutf
+specifying;specifying
+speed;speed
+speedOfSound;speedOfSound
+spell checking;spell checking
+spell;spell
+spellchecker;spellchecker
+spelling;spelling
+spend;spend
+spent;spent
+spin button;spin button
+spin;spin
+split;split
+sponsored;geborg
+spool;spool
+spyware;spioenware
+sqrt;sqrt
+square root;square root
+square;vierkantjie
+src;src
+srcdir;srcdir
+srcs;srcs
+ssl;ssl
+st;st
+stability issues;stability issues
+stability update;stability update
+stability;stabiliteit
+stable;stabiel
+stack trace;stack trace
+stack;stack
+stacks;stacks
+standalone;alleenstaande
+standard time;standard time
+standard toBlob;standard toBlob
+standard;standard
+standards mode;standards mode
+standards;standards
+star rating;star rating
+star;vlag
+starred;gevlag
+start Debug;start Debug
+start Simulator;start Simulator
+start;begin
+started finding;started finding
+started;started
+starting with &apos;starting with &apos
+starting;starting
+startlabel;startlabel
+startmozillaorg;startmozillaorg
+starts;starts
+startup;aanvang
+state;toestand
+statement;statement
+statements;statements
+statistics about;statistics about
+statistics;statistics
+stats;stats
+status &apos;status &apos
+status bar;status bar
+status;status
+stay;stay
+steal;steel
+step Over;step Over
+step;step
+stepped through;stepped through
+stepped;stepped
+stepping;stepping
+steps out;steps out
+steps;stappe
+still;still
+stolen;stolen
+stop Debug;stop Debug
+stop Mirror;stop Mirror
+stop Wearing;stop Wearing
+stop the;stop the
+stop;stop
+stopped;gestop
+stopping;stopping
+stops;stops
+storage quotas;stoorkwotas
+storage;storage
+storages;storages
+store;store
+stored;stored
+stores information;stores information
+stores;winkels
+storing;storing
+stream;stream
+strength;strength
+strict protection;strict protection
+strict;streng
+strike;strike
+string literal;string literal
+string;string
+strings or;strings or
+strings;stringe
+strokeStyle;strokeStyle
+strong;strong
+strongApps;strongApps
+strongDevice;strongDevice
+strongThe Book of;strongThe Book of
+strongThe Book;strongThe Book
+strongThe;strongThe
+stronger Emphasis;stronger Emphasis
+stronger;sterker
+strongexamplecom;strongexamplecom
+stronghttp;stronghttp
+strongly recommends;strongly recommends
+strongly;stewig
+strongmozillaorg;strongmozillaorg
+strongww;strongww
+strongwww;strongwww
+structure is corrupt;structure is corrupt
+structure;structure
+structures;structures
+studies;studies
+study Findings;Studiebevindings
+study;Studie
+style Editor;style Editor
+style Inspector;style Inspector
+style endexpand;style endexpand
+style sheet;style sheet
+style;oustyl
+styles;styles
+stylesheet;stylvel
+stylesheets;stylesheets
+stylesrc;stylesrc
+sub;sub
+subdirectory;subdirectory
+subdocument;subdocument
+subdomain;subdomain
+subdomains;subdomains
+subfolder;subfolder
+subfolders;subvouers
+subgrid;subgrid
+subgroups;subgroups
+subject Reminder;Onderwerpherinnerings
+subject;onderwerp
+submission to;submission to
+submission;submission
+submit Query;submit Query
+submit bugs;submit bugs
+submit information that &apos;submit information that &apos
+submit;dien
+submits;submits
+submitted;Ingediende
+submitting your;submitting your
+submitting;submitting
+subresource;subresource
+subscribe Calendars;subscribe Calendars
+subscribe;subscribe
+subscribed;ingeteken
+subscribedImported;subscribedImported
+subscribing;subscribing
+subscript;subscript
+subscription;subscription
+subscriptions;subscriptions
+subsession data;subsession data
+subsession;subsession
+substituting;substituting
+subthread;subdraad
+subthreads;subthreads
+subtree;subtree
+succeed;succeed
+succeeded;suksesvol
+successful;successful
+successfully Transmitted;successfully Transmitted
+successfully;suksesvol
+such;such
+suddenly;skielik
+sufficient;sufficient
+suggest;suggest
+suggested Contribution;suggested Contribution
+suggested Tags;suggested Tags
+suggested;voorgestelde
+suggestion;suggestion
+suggestions;suggestions
+suggests;suggests
+suit;suit
+suitable;geskikte
+suite;suite
+suites are;suites are
+suites;suites
+sum;som
+summary file;opsomminglêer
+summary;summary
+summoned;summoned
+sunday;sunday
+sundays;sundays
+sup;sup
+superscript pair;superscript pair
+superscript;superscript
+superseded by;superseded by
+superseded;superseded
+supervision;supervision
+supplied;voorsiende
+supply alternate;supply alternate
+supply identity;supply identity
+supply publishing;supply publishing
+supply;supply
+support Resources;support Resources
+support certificates;support certificates
+support;support
+supported;ondersteunde
+supporting;supporting
+supportmozillaorg;supportmozillaorg
+supports;supports
+sure;seker
+surface area;surface area
+surface;surface
+surprised face;surprised face
+surprised;surprised
+surrogate;surrogate
+surrounding environment;surrounding environment
+surrounding;surrounding
+survey is;survey is
+survey;survey
+susceptible;susceptible
+suspected;verdagte
+suspicious;suspicious
+sutomatically;sutomatically
+svSE;svSE
+svg;svg
+switch to;switch to
+switch;Verwissel
+switched;switched
+switching;gewissel
+symbol;simbool
+symbols;symbols
+sync them;sync them
+sync;gesinkroniseer
+syncBrandfullNamelabel;syncBrandfullNamelabel
+syncBrandfxAccountlabel;syncBrandfxAccountlabel
+syncBrandshortNamelabel;syncBrandshortNamelabel
+syncBrandshortNamelabelquot;syncBrandshortNamelabelquot
+synced;synced
+synchronization;sinchronisasie
+synchronize;synchronize
+synchronous;synchronous
+syncing;syncing
+synctitlepairlabel;synctitlepairlabel
+syntax Highlighting;Sinsverligting
+syntax;sintaksis
+system Integration;Stelselintegrasie
+system beep;system beep
+system;stelsel
+systemDate &apos;systemDate &apos
+systemDate;systemDate
+systems this;systems this
+systems;stelsels
+t believe;t believe
+t delete;t delete
+t;t
+tab Delimited;Keepgeskei
+tab Index;Oortjieindeks
+tab audio;oortjieklank
+tab previews;oortjievoorskoue
+tab txt;tab txt
+tab;oortjie
+tabSharing;oortjieDeel
+tabdelimited tab;tabdelimited tab
+tabdelimited;keepgeskeide
+table &apos;table &apos
+table Alignment;Tabelbelyning
+table Insert;Tabelinvoeg
+table Select;Tabelkies
+table borders;tabelrande
+table layout;tabeluitleg
+table rows;table rows
+table;tabel
+tablets;tablets
+tabs;oortjies
+tabtxt;tabtxt
+tag;Merker
+tagged;gemerk
+tagname;tagname
+tags;tags
+take up;take up
+take;Neem
+taken;taken
+takes;takes
+taking too;taking too
+taking;taking
+talk;talk
+tampering;tampering
+tapping;tapping
+target;teiken
+targeted document;targeted document
+targeted;targeted
+task;task
+taskThe;taskThe
+taskbar;taskbar
+tasks;tasks
+tastes;smake
+tbl;tbl
+technical Details;technical Details
+technical;tegniese
+technique;tegniek
+techniques;techniques
+technology;technology
+telephone;telefoon
+tell websites;tell websites
+tell;tell
+tells;tells
+template;template
+templates;templates
+temporarily;temporarily
+temporary outage;temporary outage
+temporary;tydelike
+ten;ten
+tename &apos;tename &apos
+tentatively;tentatively
+tenth;tenth
+tenured objects;tenured objects
+tenured;tenured
+ter Lock API;ter Lock API
+term &quot;term &quot
+term;term
+terminate a;terminate a
+terminate;terminate
+terminated by xslmessage;terminated by xslmessage
+terminated;beëindig
+termination;termination
+terms;bepalings
+test;toets
+testics;testics
+testimonials;testimonials
+text Area;Teksarea
+text Size;text Size
+text Wrap;Teksomvou
+text alignment;teksgerigtheid
+text area;text area
+text container;text container
+text field;text field
+text;text
+textContent attribute;textContent attribute
+textContent;textContent
+textonly;textonly
+texture source;texture source
+texture;texture
+th;th
+than minimum;than minimum
+than;than
+thank;Dankie
+thanks for;thanks for
+thanks;thanks
+that &apos;s
+that can &apos;that can &apos
+that is no;that is no
+that isn &apos;t encrypted
+that resolved;that resolved
+that steal;that steal
+that we can &apos;that we can &apos
+that wouldn &apos;that wouldn &apos
+that you &apos;that you &apos
+that;waarheen
+the &apos;the &apos
+the &quot;the &quot
+the ALPN;the ALPN
+the AudioBufferSourceNode;the AudioBufferSourceNode
+the Book;the Book
+the CMS;the CMS
+the Camera;the Camera
+the Certifying Authority;the Certifying Authority
+the Certifying;the Certifying
+the Components;the Components
+the DELE;the DELE
+the Dock;the Dock
+the FTP;the FTP
+the Fifth;the Fifth
+the Fourth;the Fourth
+the Grenadines;the Grenadines
+the HTMLMediaElement;the HTMLMediaElement
+the Inspector &apos;the Inspector &apos
+the KRL;the KRL
+the Kerberos;the Kerberos
+the LIST;the LIST
+the MediaStream;the MediaStream
+the Mouse;the Mouse
+the Online;the Online
+the Privacy;the Privacy
+the RETR;the RETR
+the Risks;the Risks
+the SETTINGS;the SETTINGS
+the STAT;the STAT
+the Services;the Services
+the Study;the Study
+the SxS;the SxS
+the Symmetric;the Symmetric
+the TCP;the TCP
+the Test;the Test
+the Timezone;the Timezone
+the URL;the URL
+the additivesymbols;the additivesymbols
+the address isn &apos;the address isn &apos
+the address;the address
+the application didn &apos;the application didn &apos
+the application;the application
+the area;the area
+the attached;the attached
+the authenticity;the authenticity
+the baseline;the baseline
+the beast;the beast
+the beasts;the beasts
+the binary;the binary
+the broad;the broad
+the budget;the budget
+the buffer;the buffer
+the builtin;the builtin
+the capture;the capture
+the center;the center
+the client;the client
+the coding;the coding
+the collected;the collected
+the console;the console
+the current folder &apos;the current folder &apos
+the debugger;the debugger
+the desired;the desired
+the development;the development
+the devtoolsdebuggerremoteenabled preference;the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled;the devtoolsdebuggerremoteenabled
+the dimensions;the dimensions
+the duration;the duration
+the emtwins;the emtwins
+the exclusion;the exclusion
+the expires;the expires
+the fifth;the fifth
+the flame;the flame
+the fourth;the fourth
+the framed;the framed
+the guides;the guides
+the image &apos;the image &apos
+the implementation;the implementation
+the latest;the latest
+the limit;the limit
+the love;the love
+the measuring;the measuring
+the namespaces;the namespaces
+the native;the native
+the needed;the needed
+the organizer;the organizer
+the owner;the owner
+the page &apos;the page &apos
+the page isn &apos;the page isn &apos
+the partial;the partial
+the phrase;the phrase
+the primary;the primary
+the priority;the priority
+the privilege;the privilege
+the profiler;the profiler
+the program &apos;the program &apos
+the proxy;the proxy
+the recipient &apos;the recipient &apos
+the recipients;the recipients
+the relationship;the relationship
+the requested;the requested
+the resources;the resources
+the rest;the rest
+the safety;the safety
+the screen;the screen
+the server &apos;the server &apos
+the shield;the shield
+the signer &apos;the signer &apos
+the signer;the signer
+the spec;the spec
+the standard;the standard
+the styles;the styles
+the subresource;the subresource
+the sum;the sum
+the surrounding;the surrounding
+the toolbox;the toolbox
+the tooltips;the tooltips
+the translation;the translation
+the uninstall;the uninstall
+the uninstaller;the uninstaller
+the upgrade;the upgrade
+the utf;the utf
+the viewer &apos;the viewer &apos
+the viewer reader &apos;the viewer reader &apos
+the viewport;the viewport
+the visualization;the visualization
+the webapp manifest isn &apos;the webapp manifest isn &apos
+the webapp;the webapp
+the wildcard;the wildcard
+the windowconsole;the windowconsole
+the;internettoegang
+theft;theft
+their defaults;verstekwaardes
+their;hul
+them;hom
+theme;tema
+themed;themed
+themes;themes
+then touching;then touching
+then;then
+there &apos;s
+there;daar
+therefore;therefore
+these organizations;these organizations
+these;these
+they &apos;they &apos
+they expire;they expire
+they require query;they require query
+they;they
+things you;things you
+things;things
+think I &apos;think I &apos
+think;think
+thinkers;thinkers
+thinking;thinking
+thinks;dink
+third Party;third Party
+third parties;third parties
+third;derde
+thirdparty cookies;thirdparty cookies
+thirdparty software;thirdparty software
+thirdparty;thirdparty
+thirteen &#124;thirteen &#124
+thirteen;thirteen
+thirteenth;thirteenth
+thirtieth;thirtieth
+thirty &#124;thirty &#124
+thirty first;thirty first
+thirty one;thirty one
+thirty;thirty
+this &quot;this &quot
+this Computer;this Computer
+this channel &apos;this channel &apos
+this decision;this decision
+this didn &apos;this didn &apos
+this downloadDelete;this downloadDelete
+this exclusion;this exclusion
+this isn &apos;this isn &apos
+this month;Vandeesmaand
+this operation;this operation
+this personal;this personal
+this pseudoelement;this pseudoelement
+this recurring;this recurring
+this server &apos;this server &apos
+this site &apos;this site &apos
+this test;this test
+this tweet &quot;this tweet &quot
+this tweet;this tweet
+this website;this website
+this;dié
+thisIf;thisIf
+thisa;thisa
+those;those
+though;though
+thought;dink
+thousands;derduisende
+thread &quot;thread &quot
+thread Hangs;thread Hangs
+thread killed;thread killed
+thread watched;thread watched
+thread;thread
+threads;threads
+three;three
+threw;threw
+through inaction;through inaction
+through;through
+thunderbird;thunderbird
+thursday &#124;thursday &#124
+thursday;thursday
+thursdays;thursdays
+ticket was;ticket was
+ticket;ticket
+ties;assosieer
+til &#124;til &#124
+til;til
+tile replacing;tile replacing
+tile;skermskoot
+tiles;teëltjies
+till;till
+time Stamping;Tydstempels
+time These;time These
+time Zone;Tydsone
+time communication;time communication
+time secondTime;time secondTime
+time sender;time sender
+time };time }
+time;tyd
+timeOccurs;timeOccurs
+timed Out;timed Out
+timed;timed
+timedout;timedout
+timeline;timeline
+timelines;timelines
+timeout;timeout
+timer Name;timer Name
+timer started;timer started
+timer;timer
+timers in;timers in
+timers;timers
+times;maal
+timesaving;timesaving
+timestamp;timestamp
+timestamps;timestamps
+timezone &quot;timezone &quot
+timezone;timezone
+timezonepersonalg;timezonepersonalg
+timezoner message doesn &apos;timezoner message doesn &apos
+title;title
+to;aan
+to;tot
+to;vertaal na
+today;vandag
+toolbar;nutsbalk
+tools;Nutsgoed
+total;totale
+track;blaaigedrag
+tracked;gemonitor
+trackers;spoorsnyers
+tracking;monitering
+trademarks;handelsmerke
+traffic;verkeer
+transaction;FTPtransaksie
+transfer;oordrag
+translate;vertaal
+transmitted;onveilig
+tree;boom
+trick;rat
+trouble;navraag
+troubleshooting;opspoor
+true;true
+trusted;vertroude
+try;probeer
+two;twee
+txt;txt
+type;type
+typically;eposbediener
+ul;ul
+ulliCould;ulliKan
+unacceptable;onaanvaarbare
+unauthorized;ongemagtigde
+unavailable;onbeskikbaar
+unbalanced;Ongebalanseerde
+uncheck;ontmerk
+unchecked;ongemerk
+unclosed;ongeslote
+uncompressed;niesaamgepakte
+undecided;besluitelose
+undeclared;onverklaar
+undefined;ongedefinieerde
+undelete;ontskrap
+under;ingevolge
+underlying;onderliggende
+undisclosedrecipients;onvermelde ontvangers
+undoable;ontdoenbaar
+unenforceable;onafdwingbaar
+unexpected;onverwagte
+unexpectedly;onverwags
+uninstall;deïnstallasie
+uninstalled;geoninstalleer
+uninstaller;deïnstalleerder
+unknown;onbekend
+unless;tensy
+unlimited;onbeperk
+unlink;dissosieer
+unnamed;onbenoemd
+unread;ongelese
+unrecognizable;nieherkenbare
+unrecognized;onherkende
+unrecoverable;onherwinbare
+unsafe;onveilige
+unsaved;ongestoorde
+unsent;ongestuurde
+unspecified;ongespesifiseerde
+unsubscribe;afteken
+unsupported;nieondersteunde
+until;totdat
+untitled;titelloos
+untrusted;onvertrou
+unused;ongebruikte
+unverified;ongeverifieerde
+unwanted;ongewenste
+unwilling;onwillig
+unwrap;ontvou
+up;Boontoe
+update channel;bywerkkanaal
+update;opdateer
+updated;opgedateer
+updates;bywerkings
+upgrade;opgradeer
+uptodate;bygewerkte
+us diagnose;diagnoseer
+us;teruggestuur
+usage statistics;gebruikstatistiek
+use;gebruik
+used;voorheen
+user Agent;Gebruikeragent
+user Defined;Gebruikergedefinieerd
+user Identification Request;Gebruikersidentifikasieversoek
+user Notice;Gebruikerkennisgewing
+user;gebruiker
+userhost;gebruikergasheer
+userjs;userjs
+username;Gebruikernaam
+userrelated;gebruikerverwante
+users;gebruikers
+uses;gebruike
+utomatically;utomatically
+v;v
+vCard;vCard
+valid;geldige
+validate;valideer
+validated;gevalideer
+validity;liefs
+value;waarde
+values;waardes
+variable;Wisselende
+vendor ID;VerkoperID
+vendorShortName;vendorShortName
+verification;Verifikasie
+verified;geverifieer
+version;weergawe
+versions;weergawes
+via;via
+view;bekyk
+violate;inbreuk
+violates;oortree
+virtual;virtuele
+virus;virus
+viruses;virusse
+visible;sigbare
+visit Count;Besoektelling
+visit;visit
+visited;besoek
+visits;besoeke
+visually;teeltjie
+void;nietig
+vulnerable;vatbaar
+want;Lus
+warn;waarsku
+warning;waarskuwing
+warranties;waarborge
+warranty;waarborg
+watched;dopgehou
+way;wyse
+ways;maniere
+we &apos;re very sorry
+we;We
+weakness;swakheid
+web Console;Webkonsole
+web Developer;Webontwikkelaar
+webScriptAccess;webScriptAccess
+website;webwerf
+websiteDo;aanmeldWil
+welcome Humans;Welcome Humans
+welcome;welkom
+well;HTMLposformatering
+wellformed;welvorm
+what;leesstof
+when;wanner
+whether;hetsy
+which;waaroor
+while;terwyl
+white;wit
+whose;wie se
+why;hoekom
+will;sal
+window;venstertitel
+windowconsole;konsole
+windows Shortcut;Windowskortpad
+windows;vensters
+with;with
+within;binne
+without;sonder
+wizard;Dan
+word;woord
+words;woorde
+work;gewerk
+working;werkende
+works;werk
+world;wêreld
+wouldn;wouldn
+wrap;omvou
+wrapper;omvouer
+writeprotected;skryfbeskermd
+written;só
+wwwexamplecom;wwwvoorbeeldcom
+wwwmozillaorg;wwwmozillaorg
+wwwmyispcom;wwwmyispcom
+wwwopenhorg;wwwopenhorg
+xPair;xAssosieer
+xSet;xStel
+xmlns;xmlns
+xslmessage;xslmessage
+xwestern;xwestern
+xyxy;xyxy
+y;y
+yesterday;gister
+you &apos;re running
+you;you
+your addons;byvoegings
+your mouse;your mouse
+your preferred language;your preferred language
+your preferred;your preferred
+your rights …;your rights …
+your rights;your rights
+your warranty;your warranty
+your;jou
+yourself;uself
+yousenditcom;yousenditcom
+zero;nul
+zone policy;zone policy
+zone;zone
+zoom Controls;zoom Controls
+zoom In;zoom In
+zoom Out;zoom Out
+zoom controls;zoom controls
+zoom in;zoom in
+zoom out;zoom out
+zoom;zoom
+zooming;zooming
