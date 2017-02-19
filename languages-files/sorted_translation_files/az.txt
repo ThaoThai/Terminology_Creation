@@ -1,0 +1,8472 @@
+ rights …; rights …
+/Galapagos;/Galapagos
+A ServiceWorker;A ServiceWorker
+A;yüklənirkən
+AB _;AB _
+AB;AB
+ACL;ACL
+ADB;ADB
+ADDONS;ƏLAVƏLƏR
+AEC Logging;AEC Logging
+AEC;AEC
+AES;AES
+AIA;AIA
+AIM;AIM
+ALIGNCENTERA;ALIGNCENTERA
+ALIGNCENTERFONT;ALIGNCENTERFONT
+ALPN;ALPN
+AND;AND
+ANSI;ANSI
+AOL Screenname;AOL Screenname
+AOL;AOL
+API;səhifəsində
+APIEncryption;APIEncryption
+APP;APP
+ARMSCII;varki
+ASN encoder;ASN encoder
+ASN;məlumatı ASN
+ATT Mail;ATT Mail
+ATT;ATT
+AUS;AUS
+AVA;AVA
+Aa;Aa
+Aaiun;Aaiun
+Ababa;Ababa
+Abandon unsaved changes;Abandon unsaved changes
+Abbreviate;Abbreviate
+Abbreviation;Abbreviation
+Abkhazian;Abxaziya
+Abort;Abort
+Aborted;Qaldı
+About Your;About Your
+About;Haqqında
+Above;Above
+Accelerated;Accelerated
+Accent Lowercase;Accent Lowercase
+Accent Uppercase;Accent Uppercase
+Accent;Accent
+Accept;Accept
+Acceptance;Acceptance
+Accepted;Accepted
+Access;Access
+AccessControlAllowCredentials&apos;AccessControlAllowCredentials&apos
+AccessControlAllowCredentials;AccessControlAllowCredentials
+AccessControlAllowHeaders&apos;AccessControlAllowHeaders&apos
+AccessControlAllowHeaders;AccessControlAllowHeaders
+AccessControlAllowMethods&apos;AccessControlAllowMethods&apos
+AccessControlAllowMethods;AccessControlAllowMethods
+AccessControlAllowOrigin;AccessControlAllowOrigin
+Accessibility;Əlçatanlıq
+Account &quot;Account &quot
+Account Settings &#124;Account Settings &#124
+Account;Hesab
+Account;Hesap
+Account;Qoşul
+Accountquot;Accountquot
+Accounts;Hesabları
+Accountspecific;Accountspecific
+Account…;Account…
+Acronym;Acronym
+Action;Hərəkət
+Action;Əməliyyat
+Actions;Əməliyyatları
+Activate;Aktivləştir
+Activated;Aktivləşdirilib
+Activations Directory;Activations Directory
+Active;Aktiv
+Actively block;Actively block
+Activity;Fəaliyyət
+Actual Size;Actual Size
+Adak;Adak
+Adapter;Adapter
+Adapters;Adapters
+Adb;Adb
+Add;Ekle
+Add;Əlavə et
+Added;Əlavə etmə tarixi
+Addis Ababa;Addis Ababa
+Additional Tools;Additional Tools
+Additional;Additional
+Addon;Əlavəsi
+Addons Installed;Addons Installed
+Addons;Eklentiler
+Addons;Əlavələr
+Addr;Addr
+Address Book;Address Book
+Address Books;Address Books
+Address;Adres
+Address;URL
+AddressBook;AddressBook
+Addressbook;Addressbook
+Addresses;Ünvanlar
+Addressing;Addressing
+Adds;Adds
+Add…;Add…
+Adjust;Adjust
+Administer;Administer
+Administrative Assistant;Administrative Assistant
+Administrative limit;Administrative limit
+Administrative;Administrative
+Administrator;Administrator
+Adobe Flash;Adobe Flash
+Adobe;Adobe
+Advance;Advance
+Advanced Property Editor;Advanced Property Editor
+Advanced info;Advanced info
+Advanced;Təkmilləşdirilmiş
+Advanced;Təkmilləşmiş
+Advanced…;Təkmilləşmiş…
+Afar;Afar
+Affects multiple;Affects multiple
+Affects;Affects
+Affiliation Changed;Affiliation Changed
+Affiliation;Birləşmə
+Afghanistan;Əfqanıstan
+Africa/Abidjan;Africa/Abidjan
+Africa/Accra;Africa/Accra
+Africa/Algiers;Africa/Algiers
+Africa/Asmara;Africa/Asmara
+Africa/Bamako;Africa/Bamako
+Africa/Bangui;Africa/Bangui
+Africa/Banjul;Africa/Banjul
+Africa/Bissau;Africa/Bissau
+Africa/Blantyre;Africa/Blantyre
+Africa/Brazzaville;Africa/Brazzaville
+Africa/Bujumbura;Africa/Bujumbura
+Africa/Cairo;Africa/Cairo
+Africa/Casablanca;Africa/Casablanca
+Africa/Ceuta;Africa/Ceuta
+Africa/Conakry;Africa/Conakry
+Africa/Dakar;Africa/Dakar
+Africa/Djibouti;Africa/Djibouti
+Africa/Douala;Africa/Douala
+Africa/Freetown;Africa/Freetown
+Africa/Gaborone;Africa/Gaborone
+Africa/Harare;Africa/Harare
+Africa/Johannesburg;Africa/Johannesburg
+Africa/Juba;Africa/Juba
+Africa/Kampala;Africa/Kampala
+Africa/Khartoum;Africa/Khartoum
+Africa/Kigali;Africa/Kigali
+Africa/Kinshasa;Africa/Kinshasa
+Africa/Lagos;Africa/Lagos
+Africa/Libreville;Africa/Libreville
+Africa/Lome;Africa/Lome
+Africa/Luanda;Africa/Luanda
+Africa/Lubumbashi;Africa/Lubumbashi
+Africa/Lusaka;Africa/Lusaka
+Africa/Malabo;Africa/Malabo
+Africa/Maputo;Africa/Maputo
+Africa/Maseru;Africa/Maseru
+Africa/Mbabane;Africa/Mbabane
+Africa/Mogadishu;Africa/Mogadishu
+Africa/Monrovia;Africa/Monrovia
+Africa/Nairobi;Africa/Nairobi
+Africa/Ndjamena;Africa/Ndjamena
+Africa/Niamey;Africa/Niamey
+Africa/Nouakchott;Africa/Nouakchott
+Africa/Ouagadougou;Africa/Ouagadougou
+Africa/PortoNovo;Africa/PortoNovo
+Africa/Tripoli;Africa/Tripoli
+Africa/Tunis;Africa/Tunis
+Africa/Windhoek;Africa/Windhoek
+Africa;Afrika
+African Republic;African Republic
+African;Afrika
+Afrikaans;Afrikaans
+After;After
+Again &quot;Again &quot
+Again;Yoxla
+Age;Yaş
+Agent;Vəkli
+Aggregate;Aggregate
+Ago;Ago
+Agree;Agree
+Agreement;Müqaviləsi
+Aires;Aires
+Akan;Akan
+Akrotiri;Akrotiri
+Alarm;Alarm
+Albania;Albaniya
+Albanian;Albanca
+Alert dialog;Alert dialog
+Alert record;Alert record
+Alert;Uyarı
+Algeria;Əlcəzair
+Algorithm Parameters;Algorithm Parameters
+Algorithm;Açma
+Alias dereferencing problem;Alias dereferencing problem
+Alias dereferencing;Alias dereferencing
+Alias problem;Alias problem
+Alias;Alias
+Align Justified;Align Justified
+Align Left;Align Left
+Align Legend;Align Legend
+Align text centered;Align text centered
+Align;Align
+Alignment;Alignment
+All;Hamısı
+All;Hepsi
+Allman;Allman
+Allocated;Allocated
+Allocation Trigger;Allocation Trigger
+Allocation;Allocation
+Allocations;Bölüşdürmələr
+Allow First;Allow First
+Allow autoplay;Allow autoplay
+Allow;İcazə ver
+Allow;İzin ver
+Allowed;Allowed
+Allowing;Verməyə
+Allows;Allows
+Allow…;İcazə ver…
+Almost done;Almost done
+Almost;Bitmək
+Alpha;Alpha
+Already;Already
+Also;Also
+Alt Name;Alt Name
+Alt;Alt
+AltDown;AltDown
+AltUp;AltUp
+Alternate Text;Alternate Text
+Alternate;Alternate
+Alternatively;Alternatively
+Although;Although
+Always;Həmişə
+Always;Hər zaman
+America/Adak;America/Adak
+America/Anchorage;America/Anchorage
+America/Anguilla;America/Anguilla
+America/Antigua;America/Antigua
+America/Araguaina;America/Araguaina
+America/Argentina/Catamarca;America/Argentina/Catamarca
+America/Argentina/Cordoba;America/Argentina/Cordoba
+America/Argentina/Jujuy;America/Argentina/Jujuy
+America/Argentina/Mendoza;America/Argentina/Mendoza
+America/Argentina/Salta;America/Argentina/Salta
+America/Argentina/Tucuman;America/Argentina/Tucuman
+America/Argentina/Ushuaia;America/Argentina/Ushuaia
+America/Aruba;America/Aruba
+America/Asuncion;America/Asuncion
+America/Atikokan;America/Atikokan
+America/Bahia;America/Bahia
+America/Barbados;America/Barbados
+America/Belem;America/Belem
+America/Belize;America/Belize
+America/BlancSablon;America/BlancSablon
+America/Bogota;America/Bogota
+America/Boise;America/Boise
+America/Cancun;America/Cancun
+America/Caracas;America/Caracas
+America/Cayenne;America/Cayenne
+America/Cayman;America/Cayman
+America/Chicago;America/Chicago
+America/Chihuahua;America/Chihuahua
+America/Creston;America/Creston
+America/Cuiaba;America/Cuiaba
+America/Curacao;America/Curacao
+America/Danmarkshavn;America/Danmarkshavn
+America/Dawson;America/Dawson
+America/Denver;America/Denver
+America/Detroit;America/Detroit
+America/Dominica;America/Dominica
+America/Edmonton;America/Edmonton
+America/Eirunepe;America/Eirunepe
+America/Fortaleza;America/Fortaleza
+America/Godthab;America/Godthab
+America/Grenada;America/Grenada
+America/Guadeloupe;America/Guadeloupe
+America/Guatemala;America/Guatemala
+America/Guayaquil;America/Guayaquil
+America/Guyana;America/Guyana
+America/Halifax;America/Halifax
+America/Havana;America/Havana
+America/Hermosillo;America/Hermosillo
+America/Indiana/Indianapolis;America/Indiana/Indianapolis
+America/Indiana/Knox;America/Indiana/Knox
+America/Indiana/Marengo;America/Indiana/Marengo
+America/Indiana/Petersburg;America/Indiana/Petersburg
+America/Indiana/Vevay;America/Indiana/Vevay
+America/Indiana/Vincennes;America/Indiana/Vincennes
+America/Indiana/Winamac;America/Indiana/Winamac
+America/Inuvik;America/Inuvik
+America/Iqaluit;America/Iqaluit
+America/Jamaica;America/Jamaica
+America/Juneau;America/Juneau
+America/Kentucky/Louisville;America/Kentucky/Louisville
+America/Kentucky/Monticello;America/Kentucky/Monticello
+America/Kralendijk;America/Kralendijk
+America/Lima;America/Lima
+America/Maceio;America/Maceio
+America/Managua;America/Managua
+America/Manaus;America/Manaus
+America/Marigot;America/Marigot
+America/Martinique;America/Martinique
+America/Matamoros;America/Matamoros
+America/Mazatlan;America/Mazatlan
+America/Menominee;America/Menominee
+America/Merida;America/Merida
+America/Metlakatla;America/Metlakatla
+America/Miquelon;America/Miquelon
+America/Moncton;America/Moncton
+America/Monterrey;America/Monterrey
+America/Montevideo;America/Montevideo
+America/Montreal;America/Montreal
+America/Montserrat;America/Montserrat
+America/Nassau;America/Nassau
+America/Nipigon;America/Nipigon
+America/Nome;America/Nome
+America/Noronha;America/Noronha
+America/Ojinaga;America/Ojinaga
+America/Panama;America/Panama
+America/Pangnirtung;America/Pangnirtung
+America/Paramaribo;America/Paramaribo
+America/Phoenix;America/Phoenix
+America/PortauPrince;America/PortauPrince
+America/Recife;America/Recife
+America/Regina;America/Regina
+America/Resolute;America/Resolute
+America/Santarem;America/Santarem
+America/Santiago;America/Santiago
+America/Scoresbysund;America/Scoresbysund
+America/Shiprock;America/Shiprock
+America/Sitka;America/Sitka
+America/Tegucigalpa;America/Tegucigalpa
+America/Thule;America/Thule
+America/Tijuana;America/Tijuana
+America/Toronto;America/Toronto
+America/Tortola;America/Tortola
+America/Vancouver;America/Vancouver
+America/Whitehorse;America/Whitehorse
+America/Winnipeg;America/Winnipeg
+America/Yakutat;America/Yakutat
+America/Yellowknife;America/Yellowknife
+America;America
+American Samoa;American Samoa
+American;Amerikan
+Amharic;Amharic
+An;An
+Analysis …;Analysis …
+Analysis;Analysis
+Analyze;Analiz et
+Anchor;Anchor
+Anchorage;Anchorage
+Anchors;Lövbərlər
+And;And
+Andorra;Andorra
+Android tablets;Android tablets
+Android&apos;Android&apos
+Android;Android
+Android™;Android™
+Angeles;Angeles
+Angola;Anqola
+Anguilla;Anqilya
+Animate app;Animate app
+Animate;Animate
+Animation;Animasiya
+Animations;Animasiyalar
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation;AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow upGiftsHolidaysIdeasIssuesMeetingMiscellaneousPersonalProjectsPublic HolidayStatusSuppliersTravelVacation
+AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow;AnniversaryBirthdayBusinessCallsClientsCompetitionCustomerFavoritesFollow
+Annotation;Annotasiyası
+Announces;Announces
+Annoyances;Annoyances
+Another;Another
+Answer;Answer
+Answers;Cavabları
+Antarctic Lands;Antarctic Lands
+Antarctic;Antarktik
+Antarctica/Casey;Antarctica/Casey
+Antarctica/Davis;Antarctica/Davis
+Antarctica/DumontDUrville;Antarctica/DumontDUrville
+Antarctica/Macquarie;Antarctica/Macquarie
+Antarctica/Mawson;Antarctica/Mawson
+Antarctica/McMurdo;Antarctica/McMurdo
+Antarctica/Palmer;Antarctica/Palmer
+Antarctica/Rothera;Antarctica/Rothera
+Antarctica/Syowa;Antarctica/Syowa
+Antarctica/Troll;Antarctica/Troll
+Antarctica/Vostok;Antarctica/Vostok
+Antarctica;Antarktika
+AntiVirus;AntiVirus
+Antigua and Barbuda;Antigua and Barbuda
+Antigua;Antiqua
+Antilles;Antilles
+Antivirus;Antivirus
+Any;Any
+AnyText;AnyText
+Anywhere;Anywhere
+App can &apos;App can &apos
+App;Tətbiq
+AppCache;AppCache
+AppCacheUtils;AppCacheUtilsə
+AppMenu;AppMenu
+AppName Uninstall;AppName Uninstall
+AppName;AppName
+Appcache validated;Appcache validated
+Appcache;Appcache
+Appearance;Görünüş
+Appendices;Appendices
+Apple Mail;Apple Mail
+Apple;Apple
+AppleSingle extraction error;AppleSingle extraction error
+AppleSingle extraction;AppleSingle extraction
+AppleSingle;AppleSingle
+Applelink;Applelink
+Applet;Applet
+Application;Tətbiqetmə
+Applications;Proqramlar
+Apply;Apply
+Applying update;Applying update
+Applying;Applying
+Appointments;Appointments
+ApprovedBy;ApprovedBy
+Apps;Tətbiqlər
+Apr;Apr
+April;Aprel
+Arab;Ərəb
+Arabia;Ərəbistan
+Arabic MacArabic;Arabic MacArabic
+Arabic Windows;Arabic Windows
+Arabic;Ərəbcə
+Aragonese;Aragon
+Archive;Arxivlə
+Archived;Arxivlənmiş
+Archives;Archives
+Archiving;Archiving
+Arctic/Longyearbyen;Arctic/Longyearbyen
+Are;Are
+Area;Area
+Argentina;Argentina
+Arial;Arial
+Armenia;Ermənistan
+Armenian;Erməni
+Armenian;Ermənicə
+Arrow;Ox
+Articles;Məqalələr
+Artist;Artist
+Aruba;Aruba
+As Laid Out;As Laid Out
+As Quotation;As Quotation
+As;Ekranda
+Ascending;Ascending
+Ascension and;Ascension and
+Ascension;Ascension
+Ashmore;Ashmore
+Asia/Aden;Asia/Aden
+Asia/Almaty;Asia/Almaty
+Asia/Amman;Asia/Amman
+Asia/Anadyr;Asia/Anadyr
+Asia/Aqtau;Asia/Aqtau
+Asia/Aqtobe;Asia/Aqtobe
+Asia/Ashgabat;Asia/Ashgabat
+Asia/Baghdad;Asia/Baghdad
+Asia/Bahrain;Asia/Bahrain
+Asia/Baku;Asia/Baku
+Asia/Bangkok;Asia/Bangkok
+Asia/Barnaul;Asia/Barnaul
+Asia/Beirut;Asia/Beirut
+Asia/Bishkek;Asia/Bishkek
+Asia/Brunei;Asia/Brunei
+Asia/Chita;Asia/Chita
+Asia/Choibalsan;Asia/Choibalsan
+Asia/Chongqing;Asia/Chongqing
+Asia/Colombo;Asia/Colombo
+Asia/Damascus;Asia/Damascus
+Asia/Dhaka;Asia/Dhaka
+Asia/Dili;Asia/Dili
+Asia/Dubai;Asia/Dubai
+Asia/Dushanbe;Asia/Dushanbe
+Asia/Gaza;Asia/Gaza
+Asia/Harbin;Asia/Harbin
+Asia/Hebron;Asia/Hebron
+Asia/Hovd;Asia/Hovd
+Asia/Irkutsk;Asia/Irkutsk
+Asia/Istanbul;Asia/Istanbul
+Asia/Jakarta;Asia/Jakarta
+Asia/Jayapura;Asia/Jayapura
+Asia/Jerusalem;Asia/Jerusalem
+Asia/Kabul;Asia/Kabul
+Asia/Kamchatka;Asia/Kamchatka
+Asia/Karachi;Asia/Karachi
+Asia/Kashgar;Asia/Kashgar
+Asia/Kathmandu;Asia/Kathmandu
+Asia/Khandyga;Asia/Khandyga
+Asia/Kolkata;Asia/Kolkata
+Asia/Krasnoyarsk;Asia/Krasnoyarsk
+Asia/Kuching;Asia/Kuching
+Asia/Kuwait;Asia/Kuwait
+Asia/Macau;Asia/Macau
+Asia/Magadan;Asia/Magadan
+Asia/Makassar;Asia/Makassar
+Asia/Manila;Asia/Manila
+Asia/Muscat;Asia/Muscat
+Asia/Nicosia;Asia/Nicosia
+Asia/Novokuznetsk;Asia/Novokuznetsk
+Asia/Novosibirsk;Asia/Novosibirsk
+Asia/Omsk;Asia/Omsk
+Asia/Oral;Asia/Oral
+Asia/Pontianak;Asia/Pontianak
+Asia/Pyongyang;Asia/Pyongyang
+Asia/Qatar;Asia/Qatar
+Asia/Qyzylorda;Asia/Qyzylorda
+Asia/Rangoon;Asia/Rangoon
+Asia/Riyadh;Asia/Riyadh
+Asia/Sakhalin;Asia/Sakhalin
+Asia/Samarkand;Asia/Samarkand
+Asia/Seoul;Asia/Seoul
+Asia/Shanghai;Asia/Shanghai
+Asia/Singapore;Asia/Singapore
+Asia/Srednekolymsk;Asia/Srednekolymsk
+Asia/Taipei;Asia/Taipei
+Asia/Tashkent;Asia/Tashkent
+Asia/Tbilisi;Asia/Tbilisi
+Asia/Tehran;Asia/Tehran
+Asia/Thimphu;Asia/Thimphu
+Asia/Tokyo;Asia/Tokyo
+Asia/Ulaanbaatar;Asia/Ulaanbaatar
+Asia/Urumqi;Asia/Urumqi
+Asia/UstNera;Asia/UstNera
+Asia/Vientiane;Asia/Vientiane
+Asia/Vladivostok;Asia/Vladivostok
+Asia/Yakutsk;Asia/Yakutsk
+Asia/Yekaterinburg;Asia/Yekaterinburg
+Asia/Yerevan;Asia/Yerevan
+Asia;Asia
+Asian;Asya
+Ask;Ask
+Asks how;Asks how
+Asks;Asks
+Assamese;Assam
+Assembling mail;Assembling mail
+Assembling messageDone;Assembling messageDone
+Assembling;Assembling
+Assistant;Assistant
+Associated;Associated
+Assurance;Assurance
+Asturian;Asturiyan
+Async;Async
+Asynchronous Pan;Asynchronous Pan
+Asynchronous;Asynchronous
+Atlantic/Azores;Atlantic/Azores
+Atlantic/Bermuda;Atlantic/Bermuda
+Atlantic/Canary;Atlantic/Canary
+Atlantic/Faroe;Atlantic/Faroe
+Atlantic/Madeira;Atlantic/Madeira
+Atlantic/Reykjavik;Atlantic/Reykjavik
+Atlantic/Stanley;Atlantic/Stanley
+Atlantic;Atlantic
+Atoll;Atoll
+Atom;Atom
+Attach;Attach
+Attached;Attached
+Attachment;Attachment
+AttachmentRemove;AttachmentRemove
+Attachments;Bağlamalar
+Attack Site;Attack Site
+Attack;Attack
+Attempt to;Attempt to
+Attempt;təlimatı
+Attempts;Attempts
+Attendance;Attendance
+Attendee;Attendee
+Attendees;Attendees
+Attention;Attention
+Attribute;Atribut
+Attributes;Atributlar
+Attribution;Attribution
+Auckland;Auckland
+Audio;Ses
+Audio;Səs
+AudioBufferSourceNode;AudioBufferSourceNode
+AudioChannel;aitdir
+AudioListener and speedOfSound and dopplerFactor on;AudioListener and speedOfSound and dopplerFactor on
+AudioListener;AudioListener
+AudioListenerDeprecated;AudioListenerDeprecated
+AudioNode Inspector;AudioNode Inspector
+AudioNode;AudioNode
+AudioParam does;AudioParam does
+AudioParam;AudioParam
+AudioParams;AudioParams
+Aug;Avq
+August;Avqust
+Aurora;Aurora
+Australia/Adelaide;Australia/Adelaide
+Australia/Brisbane;Australia/Brisbane
+Australia/Currie;Australia/Currie
+Australia/Darwin;Australia/Darwin
+Australia/Eucla;Australia/Eucla
+Australia/Hobart;Australia/Hobart
+Australia/Lindeman;Australia/Lindeman
+Australia/Melbourne;Australia/Melbourne
+Australia/Perth;Australia/Perth
+Australia/Sydney;Australia/Sydney
+Australia;Avstraliya
+Austria;Avstriya
+Authenticated;Authenticated
+Authenticating;Məlumatlar təsdiqlənir
+Authentication method &apos;Authentication method &apos
+Authentication;Kimlik
+Author;Müəllif
+Authored;Authored
+Authorities;Səlahiyyətli
+Authority unnamed;Authority unnamed
+Authority;rəsmisi
+Authorize;Authorize
+Authors;Authors
+Auto Increment;Auto Increment
+Auto Update;Auto Update
+Auto;Avtomatik
+AutoA;AutoA
+AutoConfig Alert;AutoConfig Alert
+AutoConfig;AutoConfig
+AutoDetect;AvtoTanıma
+AutoJoined Channels;AutoJoined Channels
+AutoJoined;AutoJoined
+Autodetect;avtomaik
+Autorefresh;avtoyenilə
+Autoreply;Avtocavab
+Autosync;Məlumatların
+Available;Uyğun
+Avaric;Avarca
+Avestan;Avesta
+Avg;Ort
+Away;Uzaq
+Aymara;Aymara
+Azerbaijan;Azərbaycan
+Azerbaijani;Azərbaycanca
+B;B
+BLOCKED;BLOKLANDI
+Back;Geri
+Back;Geri qayıt
+Backend;tərəfi
+Background;Arxa fon
+Backgroundbmp;Fonubmp
+Backgrounds;fonları
+Backspace;Backspace
+Backup…;Nüsxələ…
+Backup…;Nüsxəsini çıxar…
+Bad;Pis
+Bahamas The;Baham adaları
+Bahamas;Baham
+Bahrain;Bahreyn
+Baker;Baker
+Baltic;Baltik
+Bambara;Bambara
+Bangladesh;Banqladeş
+Bank;çayının
+Banking;Bank işi
+Barbados;Barbados
+Barbuda;Barbuda
+Barcode;Barkod
+Barthelemy;Bartelmi
+Bashkir;Başqır
+Basics;əsasları
+Basque;Basqca
+Bassas da;Bassas da
+Battery;Batareya
+Bcc;Bcc
+Belarus;Belarusiya
+Belarusian;Belarusca
+Belgium;Belçika
+Belize;Beliz
+Bengali;Benqal
+Bengali;Benqal dili
+Benin;Benin
+Bermuda;Bermuda
+Bhutan;Butan
+Big;Big
+BigHKSCS;BigHKSCS
+Bihari;Bihari
+Bing;Bing
+BiquadFilterNode;BiquadFilterNode
+Bislama;Bislama
+Block;Blokla
+Blocked;Bloklanmış
+Blocked;Bloklanıb
+Blocked;İcazə verilmədi
+Blocker;Sıçrayan
+Blocking;Əngəlləməyə
+Blocklisted;siyahıya
+Body;Bədəni
+Bogus;Uydurma
+Bolivia;Boliviya
+Bonaire;Bonaire
+Book;Kitabı
+Bookmark;Əlfəcin
+Bookmarked;əlfəçinlərə
+Bookmarks;Əlfəcinlər
+Bookmarks;Əlfəçinlər
+Boolean;Boolean
+Boolean;Məntiqi dəyər
+Border;Kənar
+Bosnia;Bosniya
+Bosnian;Bosniya
+Botswana;Botsvana
+Bottom;Şaquli
+Bouvet;Buvet
+Box;Box
+Branch;Şöbə
+BrandFullName;saxlamq
+BrandFullNameDA;BrandFullNameDA
+BrandShortName;BrandShortName
+Brazil;Braziliya
+Brazzaville;Brazzavil
+Breakpoint;nöqtələri
+Breton;Breton
+Bring;pəncərələri önə
+British Indian;Britaniya Hind
+British;Britan
+Browser;Səyyah
+Browse…;Bax…
+Browsing;Səyahət
+Brunei;Bruney
+Bulgaria;Bolqarıstan
+Bulgarian;Bolqar
+Bulk;dəstindəki
+Bullet;Maddə favoriti
+Burkina;Burkina
+Burma;Burma
+Burmese;Burma
+Burundi;Burundi
+Buttons;Düymələr
+By;Edən
+CA;CA
+CACHE;CACHE
+CCBYSA;lisenziyası
+CD;CD
+CDATA;CDATA
+CDSA;CDSA
+CKL;CKLi
+CKR;CKR
+CLICK;CLICK
+CMS;cavabda
+CN;CN
+CONTROLS;İDARƏLƏRİ
+CORS;CORS
+CORSenabled;CORSenabled
+CP;CP
+CRL;tarii
+CRLs;CRLləri
+CSP;CSP
+CSS;CSS
+CTCP;CTCP
+CYPHER;CYPHER
+Cabo Verde;KaboVerde
+Cache;Keş
+Cache;Ön yaddaş
+Cache;Önbellek
+Caicos;Kaykos
+Calculating;hesablanır
+Caledonia;Kaledoniya
+Call;Zəng et
+Callback;Çağrısı
+Cambodia;Kambodiya
+Camera;paylaşılırKamera
+Cameroon;Kamerun
+Canada;Kanada
+Canadian Syllabary;Kanada heca
+Canadian;Kanada
+Canary;Canary
+Cancel;Ləğv Et
+Cancel;Ləğv et
+Cancel;ləğv et
+Canceled;Ləğv Edildi
+Canceled;Ləğv edildi
+Candidate;Namizəd
+CanvasGradient;strokeStyle
+Carbon;Karbon
+Card;Kart
+Cares;məxfililiyinizin
+Caret;kursoru
+Cartier;Cartier
+Catalan;Katalanca
+Caught;Caught
+Cause;Səbəb
+Cayman;Kayman
+Cc;Cc
+Celtic;Keltik
+Center;Merkez
+Certificate;Setifikat
+Certificate;Təsdiq sənədi
+Certificates;Sertifikatlar
+Certified;Sertifikatlaşdırılmış
+Chad;Çad
+Chamorro;Çamorro
+Change;Dəyişdir
+Changed;Dəyişdi
+Changes;Dəyişikləri
+Channel;Kanalı
+Chat;Söhbət
+Chechen;Çeçencə
+Check;Yoxla
+Chichewa;Çiçeva
+Chile;Çili
+China;Çin
+Chinese;Çin
+Chinese;Çince
+Choose…;Seçin…
+Choose…;Seç…
+Christmas;Kristmas
+Chrome;Chrome
+Chromecast;Chromecast
+Chromium;Chromium
+Church Slavic;SlavyanKilsə
+Chuvash;Çuvaş
+Cisco;Cisco
+Clear;Temizle
+Clear;Təmizlə
+ClearType;ClearType
+Clearing;Təmizlənir
+Click;Kliklə
+Client;Klient
+Clipboard;Mübadilə buferi
+Clipperton;Klipperton
+Clockwise;İstiqamətində
+Close;Bağla
+Close;Kapat
+Close;Qapat
+Closed;qapanmış
+Cocos;Kokos
+Code;Kod
+Col;Sutun
+Collapse;Daralt
+Collected;toplanmış
+Colombia;Kolumbiya
+Color;Rənglər
+Colors;Rənglər
+Colors…;Rənglər…
+Column;Sutun
+Combo;Kombinə
+Command;Əmr
+Commercial;Komersial
+Common;Əsasən
+Comoros;Komoros
+Complete;Tamamlandı
+Completed;Bitdi
+Completed;Tamamlandı
+Components;Components
+Compositing;Birləşdirici
+Composition;inşa
+Compositor;Compositor
+Compromise;Razılığı
+Conclusion;Nəticə
+Configure…;Quraşdır…
+Confirm;Təsdiqlə
+Confirm;Təsdiqləyin
+Congo;Kongo
+Connect;Qoşul
+Connected;Qoşulu
+Connecting;Qoşulur
+Connecting…;Bağlanır…
+Connecting…;Qoşulur…
+Connection;Bağlantı
+Connection;Qoşulma
+Consecutive;ardıcıl
+Console;konsolu
+Constraints;Məhdudiyyətləri
+Consult;qalırsa
+Contact;Əlaqəsi
+Contacts;Əlaqələr
+Container;Konteynet
+Containers;Konteynerlər
+Containing Folder;Yerləşdiyi Qovluğu
+Containing;Yerləşdiyi
+Content;Məlumat
+Content;Məzmun
+Content;İçerik
+Contents;Məzmun
+Continue;Davam
+Continue;Davam Et
+Continue;Davam et
+Continue;İrəli
+Contribute;Kömək
+Contribution;miqdarı
+Contributors;Kömək edənlər
+Controls;İdarələri
+Cook;Kuk
+Cookies;Cookielər
+Cookies;Çərəzlər
+Copies;Nüsxələr
+Copy;Kopyala
+Copy;Köçür
+Coral;Coral
+Cornish;Korn
+Corsican;Korsikan
+Costa;Kosta
+Count;Sayğaç
+Counterclockwise;İstiqamətinin
+Coverage;Əhatə
+Crash;Çökmə
+Crashed;çökmüş
+Create;Yarat
+Creation;Yaradılış
+Creator;Yaradan
+Credits;Müəlliflər
+Cree;Kri
+Critical;Kritik
+Croatia;Xorvatiya
+Croatian;Xorvatca
+Crypto;Şifrələmə
+Ctrl;Ctrl
+CtrlTab;CtrlTab
+Cuba;Kuba
+Cunha;Cunha
+Curaçao;Kürasao
+Cursor;Kursor
+Custom;Xüsusi
+CustomEvent;CustomEvent
+Customization;Customization
+Customize;Şəxsiləşdir
+Customize…;Şəxsiləşdir…
+Custom…;Fərdi…
+Custom…;Şəxsiləşdir
+Cut;Kes
+Cut;Kəs
+Cycle;Çevrim
+Cyprus;Kipr
+Cyrillic;Kiril
+Czech;Çex
+Côte;Fildişi
+DC;DC
+DD;DD
+DECDSA;DECDSA
+DERencoded;DER
+DEVICE;DEVICE
+DISPLAYNAME;DISPLAYNAME
+DLL;DLL
+DN;DN
+DNS;DNS
+DOCTYPE;DOCTYPE
+DOM;DOM
+DOMException;olunmur
+DOMParser;DOMParser
+DOMWindow;postMessage
+DOMelementaddEventListener;DOMelementaddEventListener
+DOMelementremoveEventListener;DOMelementremoveEventListener
+DOS;DOS
+DRM;DRM
+DSA;DSA
+DTLS;buferdə
+Danish;Daniyaca
+Dark;Tünd
+Data;Data
+Data;Məlumat
+Data;Verilən
+Data;Verilənlər
+DataContainerEvent;DataContainerEvent
+Database;Məlumat Bazası
+Date/Time;Tarix/Saat
+Date;Tarixi
+Day;Gün
+DayCrash Reports;DayCrash Reports
+DayCrash;DayCrash
+Days;gün
+Debug Mode;Debug Mode
+Debug;Sazlama
+DebugALIGNCENTERerver;DebugALIGNCENTERerver
+Debugger;Sazlayıcısı
+Debugging;Debugging
+Dec;Dek
+December;Dekabr
+Decide;Decide
+Declaration;deklarasiyasını
+Decline;Decline
+Declined;Declined
+Decoder;Dekodlayıcı
+Decoding error;Decoding error
+Decoding;Dekodlama
+Decrease;Mətn ölçüsünü kiçilt
+Decrypted;Decrypted
+Decryption;Modulunu
+Deer;Deer
+Default;Standart
+Default;Ön seçilən
+Default;İlkin
+Default;İlkin hal
+Defaults;seçənəkləri
+Defer Account;Defer Account
+Defer;Defer
+Define;Define
+Defined;Defined
+Definition;Definition
+Definitions;Definitions
+Del;Del
+Delay;Gecikmə
+Delete Message;Delete Message
+Delete;Delete
+Delete;Sil
+Deleted;Deleted
+Delete…;Sil…
+Deleting a;Deleting a
+Deleting component;Deleting component
+Deleting;Deleting
+Deletion Error;Deletion Error
+Deletion;Deletion
+Delimited;Delimited
+Delivery Format;Delivery Format
+Delivery Status Notification;Delivery Status Notification
+Delivery;Delivery
+Denmark;Danimarka
+Denver;Denver
+Deny;Reddet
+Deny;Rədd et
+Department;Department
+Descending;Descending
+Describe Problem;Describe Problem
+Describe;Describe
+Description;Açıqlama
+Deserialize;Deserialize
+Design Mode;Design Mode
+Design View;Design View
+Design;Dizayn
+Desktop Backgroundbmp;Desktop Backgroundbmp
+Desktop Open &quot;Desktop Open &quot
+Desktop;İşçi masası
+Destination Folder;Destination Folder
+Destination;Destination
+Destroy;Destroy
+Detach;Detach
+Detach…;Detach…
+Detail;Detail
+Details of;Details of
+Details;Təfərrüatlar
+Details;Ətraflı məlumat
+Details…;Detallar…
+Details…;Təfərruatlar…
+Detect indentation;Detect indentation
+Detect;Detect
+Determining which;Determining which
+Determining;Determining
+DevTools;DevTools
+Devanagari;Devanagari
+Developed;Developed
+Developer Edition;Developer Edition
+Developer Tools;Developer Tools
+Developer;Tərtibatçı
+Developer;İnkişaf etdirici
+Developers;Geliştiriciler
+Development;Development
+Device &quot;Device &quot
+Device;Avadanlıq
+Device;Cihaz
+DeviceShare;DeviceShare
+Devices;Cihazlar
+Devicex;Devicex
+Dhekelia;Dikeliya
+Diagnostics;Diaqnostikalar
+Dial;Dial
+Dialog Preference;Dialog Preference
+Dialog;Pəncərəsi
+Dialogs;Dialogs
+Dictionaries …;Dictionaries …
+Dictionaries;Lüğətlər
+Dictionary;Lüğətə
+Did;unutmuş
+Diego;Dieqo
+Different;Different
+DiffieHellman key;DiffieHellman key
+DiffieHellman;DiffieHellman
+Digest function;Digest function
+Digest was;Digest was
+Digest;uğradı
+Digg Reader;Digg Reader
+Digg;Digg
+Digital;Digital
+Dimensions;Ölçülər
+Direct;Direct
+DirectD;DirectD
+DirectWrite;DirectWrite
+Direction;İstiqamət
+Directive;Directive
+Directories;Directories
+Directory &apos;Directory &apos
+Directory Servers;Directory Servers
+Directory;Direktivi
+Disability access;Disability access
+Disability;Disability
+Disable;Söndür
+Disabled;Söndürülüb
+Disabled;İstifadə oluna bilməz
+Disables;Disables
+Disabling;Disabling
+Discard closed;Discard closed
+Discard;Discard
+Discarded packets;Discarded packets
+Discarded;Atılan
+Disconnect from;Disconnect from
+Disconnect;Bağlantını kəs
+Disconnect;Əlaqəni kəs
+Disconnectellipsis;Əlaqəni kəsellipsis
+Disconnecting…;Bağlantı kəsilir…
+Disconnectme strict;Disconnectme qəti
+Disconnectme;Disconnectme
+Disconnect…;Bağlantını kəs
+Discontinue Link;Discontinue Link
+Discontinue;Discontinue
+Discover;kəşf
+Discussions;müzakirələr
+Disk;Disk
+Dismiss;Ləğv et
+Display a;Display a
+Display;Display
+Displays the;Displays the
+Displays;Displays
+Distinguished;Distinguished
+Distribution Points;Distribution Points
+Distribution;Paylaşım
+Distrust;Distrust
+Divehi;Divehi
+Djibouti;Cibuti
+Do;UA
+Dock;Dock
+Docs;sənədlərini
+Document Outline;Document Outline
+Document;Document
+Documents;Documents
+Doe;Doe
+Doing;Doing
+Domain GUID;Domain GUID
+Domain;Domen
+Domain;Domen adı
+Domains;Domains
+Domestic;Domestic
+Dominator;Dominator
+Dominators;Dominators
+Domingo;Domingo
+Dominica;Dominika
+Dominican;Dominikan
+Don &apos;Don &apos
+Don;Don
+Done;Bitdi
+Done;Oldu
+Done;Tamamlandı
+Double click;Double click
+Double;Double
+Doublecheck;Doublecheck
+Doubleclick;Doubleclick
+Down;Aşağı
+Download Link;Download Link
+Download;Ancaq
+Download;Endir
+Download;Yüklə
+DownloadRestart;DownloadRestart
+Downloaded;Yükləndi
+Downloading;Yüklənilir
+Downloading…;Endirilir…
+Downloading…;Yüklənilir…
+Downloads;Endirilənlər
+Downloads;Endirmələr
+Downloads;Yükləmə
+Downloads;Yüklənənlər
+Draft Message;Draft Message
+Draft;Draft
+Drafts;Drafts
+Drag;Drag
+Draw draws;Draw draws
+Draw repainted;Draw repainted
+Draw;çəkmə
+Driver Verification;Sürücüsü Təsdiqləmə
+Driver;Sürücüsü
+Drivers;Sürücülər
+Drives;Drives
+Drop a;Drop a
+Drop;Drop
+Dropping a;Dropping a
+Dropping;Dropping
+DuckDuckGo;DuckDuckGo
+Due;Due
+Dump;Dump
+Duplicate name;Duplicate name
+Duplicate;Duplicate
+Duraterver;Duraterver
+Duration;Vaxt
+Dutch;Niderlandca
+Dzongkha;Dzonqxa
+ECDSA Signature;ECDSA Signature
+ECDSA;ECDSA
+EDI Party Name;EDI Party Name
+EDI Party;EDI Vagid
+EDI;EDI
+EHLO;EHLO
+EMail Certificates;EMail Certificates
+EMail;EMail
+ERROR;Səhv
+ERRORS;ERRORS
+ES;ES
+ESC;ESC
+EUCJP;EUCJP
+EUCKR;EUCKR
+EUCTW;EUCTW
+EV;EV
+EXTRACTION_FAILED;ÇIXARMA_UĞURSUZ_OLDU
+Each;təkrarlanır
+Eager;Eager
+Earlier;Earlier
+East Asian;East Asian
+East European;East European
+East;Şərqi
+Eastern;Eastern
+Ecuador;Ekvador
+Edge;Edge
+Edit Conditional;Edit Conditional
+Edit;Düzəliş
+Edit;Düzəlt
+Edit;Nizam
+Edit;Redaktə
+Editing;Editing
+Edition;Edition
+Editor;Redaktoru
+Editors;Editors
+Edit…;Edit…
+Egypt;Misir
+Either;Either
+El Aaiun;El Aaiun
+El Salvador;Salvador
+El;El
+Elapsed;Elapsed
+Element;element
+ElementmozRequestFullScreen;ElementmozRequestFullScreen
+ElementrequestFullscreen was;ElementrequestFullscreen was
+ElementrequestFullscreen;ElementmozRequestFullScreen
+ElementrequestPointerLock;ElementrequestPointerLock
+Elements;Elements
+Email Address;Email Address
+Email;Epoçt
+Embarrassed;Embarrassed
+Embed;Yerləşdirilmiş
+Embedded;Embedded
+Emirates;Əmirlikləri
+Emphasis;Emphasis
+Emptied Trash;Emptied Trash
+Emptied;Emptied
+Empty;Boş
+Emulate;Emulate
+Enable;Aktiv et
+Enable;Etkinleştir
+Enable;Fəallaşdır
+Enabled;Aktiv
+Enabled;Aktivdir
+Enabled;Fəal
+Enables;Enables
+Encipherment;Encipherment
+Encoder;Kodlayıcı
+Encoding While;Encoding While
+Encoding;Kodlaşdırması
+Encodings;Encodings
+Encrypt;Encrypt
+Encrypted password&apos;Encrypted password&apos
+Encrypted;Şifrələnib
+Encrypting File;Encrypting File
+Encrypting;Encrypting
+Encryption;Şifrələməsi
+End;End
+End;Son
+EndUser Rights;EndUser Rights
+EndUser;EndUser
+Ended;Bitdi
+Endian;Endian
+Endpoint;Endpoint
+Enforce;Enforce
+Engine;Mühərriyini
+Engineering;Engineering
+Engines;Mühərriklərini
+English US;English US
+English USASCII;English USASCII
+English language;English language
+English;İngiliscə
+English;İngilizce
+Enhanced;Enhanced
+Enlarge;Yaxınına
+Enter &apos;Enter &apos
+Enter Full;Enter Full
+Enter that;həmin
+Enter;Enter
+Entered;etdiniz
+Entering;Entering
+Entries;Elementlər
+Entry;Giriş
+Enumerable Properties;Enumerable Properties
+Enumerable;Enumerable
+Environment;Environment
+Epiphany;Epiphany
+Equatorial Guinea;Equatorial Guinea
+Equatorial;Ekvatorial
+Eritrea;Eritrea
+Error;Səhv
+Errors;Səhvlər
+Errors;Xətalar
+Esc;Esc
+Esperanto;Esperanto
+Estonia;Estoniya
+Estonian;Estonca
+Ethiopia;Efiopiya
+Ethiopic;Etiyopik
+Eudora Nicknames;Eudora Nicknames
+Eudora Settings;Eudora Settings
+Eudora mail;Eudora mail
+Eudora;Eudora
+Europa Island;Europa Island
+Europa;Europa
+Europe/Amsterdam;Europe/Amsterdam
+Europe/Andorra;Europe/Andorra
+Europe/Astrakhan;Europe/Astrakhan
+Europe/Athens;Europe/Athens
+Europe/Belgrade;Europe/Belgrade
+Europe/Berlin;Europe/Berlin
+Europe/Bratislava;Europe/Bratislava
+Europe/Brussels;Europe/Brussels
+Europe/Bucharest;Europe/Bucharest
+Europe/Budapest;Europe/Budapest
+Europe/Busingen;Europe/Busingen
+Europe/Chisinau;Europe/Chisinau
+Europe/Copenhagen;Europe/Copenhagen
+Europe/Dublin;Europe/Dublin
+Europe/Gibraltar;Europe/Gibraltar
+Europe/Guernsey;Europe/Guernsey
+Europe/Helsinki;Europe/Helsinki
+Europe/Istanbul;Europe/Istanbul
+Europe/Jersey;Europe/Jersey
+Europe/Kaliningrad;Europe/Kaliningrad
+Europe/Kiev;Europe/Kiev
+Europe/Lisbon;Europe/Lisbon
+Europe/Ljubljana;Europe/Ljubljana
+Europe/London;Europe/London
+Europe/Luxembourg;Europe/Luxembourg
+Europe/Madrid;Europe/Madrid
+Europe/Malta;Europe/Malta
+Europe/Mariehamn;Europe/Mariehamn
+Europe/Minsk;Europe/Minsk
+Europe/Monaco;Europe/Monaco
+Europe/Moscow;Europe/Moscow
+Europe/Nicosia;Europe/Nicosia
+Europe/Oslo;Europe/Oslo
+Europe/Paris;Europe/Paris
+Europe/Podgorica;Europe/Podgorica
+Europe/Prague;Europe/Prague
+Europe/Riga;Europe/Riga
+Europe/Rome;Europe/Rome
+Europe/Samara;Europe/Samara
+Europe/Sarajevo;Europe/Sarajevo
+Europe/Simferopol;Europe/Simferopol
+Europe/Skopje;Europe/Skopje
+Europe/Sofia;Europe/Sofia
+Europe/Stockholm;Europe/Stockholm
+Europe/Tallinn;Europe/Tallinn
+Europe/Tirane;Europe/Tirane
+Europe/Ulyanovsk;Europe/Ulyanovsk
+Europe/Uzhgorod;Europe/Uzhgorod
+Europe/Vaduz;Europe/Vaduz
+Europe/Vatican;Europe/Vatican
+Europe/Vienna;Europe/Vienna
+Europe/Vilnius;Europe/Vilnius
+Europe/Volgograd;Europe/Volgograd
+Europe/Warsaw;Europe/Warsaw
+Europe/Zagreb;Europe/Zagreb
+Europe/Zaporozhye;Europe/Zaporozhye
+Europe/Zurich;Europe/Zurich
+Europe;Europe
+European;Avrıpa
+Eustatius and;Eustatius and
+Eustatius;Eustatius
+Eval;Eval
+Evaluate;Değerlendirme
+Evaluated JavaScript;Evaluated JavaScript
+Evaluated;Evaluated
+Evaluating;dəyərləndirir
+Evangelism;Evangelism
+Even;Even
+Event;Event
+Events;Hadisələr
+Event…;Event…
+Every Time;Every Time
+Every;Every
+Everything;Hər şey
+Eviction;Eviction
+Ewe;Eve
+Example;Example
+Excellent;Excellent
+Except;Except
+Exception …;Exception …
+Exception;İstisnanı
+Exceptions;Ayrıcalıklar
+Exceptions…;İstisnalar…
+Exchange;Exchange
+ExecShell &quot;ExecShell &quot
+ExecShell;ExecShell
+Executable;İcra
+Execute Menu;Execute Menu
+Execute;Execute
+Executing s;Executing s
+Executing;yetirilən
+Execution stopped;Execution stopped
+Execution;Execution
+Executive;Executive
+Existing;Existing
+Exists;Mövcuddur
+Exit;Çıxış
+Exited;Exited
+Exiting;Exiting
+Expand/Collapse;Expand/Collapse
+Expand;Genişlət
+Expanded;Expanded
+Expected;Expected
+Experiments;Eksperimentlər
+Expired;Expired
+Expires On;Expires On
+Expires Seconds;Expires Seconds
+Expires;Bitiş tarixi
+Expires;Sona çatma tarixi
+Explorer;Explorer
+Exponent;Üst
+Export;Export
+Export…;İxrac et…
+Exposing chrome;Exposing chrome
+Exposing;Exposing
+Express;Express
+Expression;Expression
+Expressions;Expressions
+Expunge &quot;Expunge &quot
+Expunge;Expunge
+Extended Telemetry;Extended Telemetry
+Extended;Extended
+Extending;Extending
+Extension;Uzantı
+Extension;Əlavələr
+Extensions;Uzantılar
+External;External
+Extra Components;Extra Components
+Extra;Extra
+Extract;Extract
+Extracting s;Extracting s
+Extracting;Extracting
+Extracting…;Extracting…
+Eyedropper;Eyedropper
+F GB;F GB
+F turns;F turns
+F/Escape;F/Escape
+F;F
+FAILED;FAILED
+FALLBACK section;FALLBACK section
+FALLBACK;FALLBACK
+FAQ;ÇSS
+FAQs feedback;FAQs feedback
+FAQs;ÇSS
+FCC;FCC
+FHR data;FHR data
+FHR;FSH
+FIPS;FIPS
+FONT;FONT
+FONTHR;FONTHR
+FORTEZZA chain;FORTEZZA chain
+FORTEZZA;FORTEZZA
+FTP Proxy;FTP Proxy
+FTP;FTP
+FUNCTION;FUNCTION
+FW Version;FW Version
+FW;FW
+FYR;FYR
+Facebook Chat;Facebook Chat
+Facebook;Facebook
+Faeroese;Faeroese
+Failed;Uğursuz oldu
+Failure;səhvinin
+Failures;Failures
+Falkland Islands Islas Malvinas;Falkland Islands Islas Malvinas
+Falkland Islands;Falkland Islands
+Falkland;Folkland
+Fallback Character;Fallback Character
+Fallback;Fallback
+Falling back;Falling back
+Falling;Falling
+False;False
+Family;Ailə
+Fantasy;Fantaziya
+Faroe Islands;Faroe Islands
+Faroe;Faroe
+Faroese;Faroescə
+Farsi;Farsça
+Faso;Faso
+Fast;Fast
+Fatal;Fatal
+Favorite Folder;Favorite Folder
+Favorite Folders;Favorite Folders
+Favorite;Favorite
+Favorites;Sevimlilər
+Fax Number;Fax Number
+Fax;Fax
+Feature;Feature
+Features;Özəlliklər
+Feb;Fev
+February;Fevral
+Federated States of;Federated States of
+Federated States;Federated States
+Federated;Federated
+Federation;Federation
+Feed Location;Feed Location
+Feed;Axın
+Feedback Agent;Feedback Agent
+Feedback …;Feedback …
+Feedback;Bizimlə Əlaqə
+Feedly;Feedly
+Feeds;Axınlar
+Feel;Feel
+Festival;Festival
+Fetch function;Fetch function
+Fetch headers;Fetch headers
+Fetch;Fetch
+FetchEvent;opaqueredirect
+FetchEventpreventDefault;yüklənməni
+FetchEventrequest;FetchEventrequest
+FetchEventrespondWith;FetchEventrespondWith
+Fetching…;Fetching…
+Fewer;Fewer
+Field;Field
+Fields;Sahələri
+Fifth;Fifth
+Fiji;Fici
+Fijian;Fici
+File System;File System
+File;Dosya
+File;Fayl
+FilelastModified;FilelastModified
+FilelastModifiedDate is;FilelastModifiedDate
+FilelastModifiedDate;FilelastModifiedDate
+Filelink;Filelink
+Filelink…;Filelink…
+Filename;Filename
+Files;Files
+Files…;Files…
+File…;File…
+Filing Cabinet;Filing Cabinet
+Fill;Doldur
+Filter Box;Filter Box
+Filter Execution;Filter Execution
+Filter;Filtr
+Filtering;Filterləmə
+Filters;Filters
+Finalizing;Finalizing
+Find;Axtar
+Find;Tap
+Finder;Finder
+Findings;Nəticələri
+Find…;Tap…
+Fingerprint;parmaq
+Fingerprints;Parmak izleri
+Finish Customizing;Finish Customizing
+Finish;Tamamlandı
+Finished;Tamamlandı
+Finland;Finlandiya
+Finnish;Fincə
+Firebird;Firebird
+Firebug;Firebug
+Firefox Support;Firefox Support
+Firefox can &apos;Firefox can &apos
+Firefox doesn &apos;Firefox doesn &apos
+Firefox;Firefox
+First;First
+Fit;Sığdır
+Five;Five
+Fix Table;Fix Table
+Fix;Fix
+Fixed;Fixed
+Flag;Flag
+Flagged;Flagged
+Flame Chart;Flame Chart
+Flame;Flame
+Flash embed;Flash embed
+Flash;Flash
+Flatten;Flatten
+Flexible Space;Elastik boşluq
+Flexible;Flexible
+Focus;Focus
+Folder;Qovluq
+Folders;Folders
+Folder…;Folder…
+Follow;Follow
+Followers;Followers
+Following;Following
+Followup;Followup
+FollowupTo;İzləmə Ünvanı
+Fond;Fond
+Font;Font
+Fonts;Şriftlər
+Footer;Sonluq
+Footers;Sonluqlar
+FootinMouth;FootinMouth
+For;For
+Force;Force
+Forever;Forever
+Forge;Forge
+Forgery;Forgery
+Forget;Unut
+Form History;Form History
+Form;Forma
+Format;Forma
+Format;Stil
+Formatting;Formatting
+Forms;Forms
+Fort;Fort
+Fortezza;Fortezza
+Forum;Forum
+Forums;Forums
+Forward;İleri
+Forward;İrəli
+Forwarded;Forwarded
+Forwarding;Forwarding
+Found;Found
+Foundation;fondu
+Four Hours;Four Hours
+Four;dörd
+Fourth;Fourth
+Fr;Cü
+Frakkin &apos;
+Frakkin;Frakkin
+Frame;Çərçivə
+Framerate;Framerate
+Frames painted;Frames painted
+Frames parsed;Frames parsed
+Frames presented;Frames presented
+Frames;Çerçivələr
+France;Fransa
+Free;Free
+French Southern;French Southern
+French;Fransızca
+Frequency;Frequency
+Frequent;Sık
+Fri;Cüm
+Friday;Cümə
+Frisian;Frisyan
+Friulian;Friulyan
+From History;From History
+From List;From List
+From;Qaynaq
+Front facing;Front facing
+Front;Front
+Frown;Frown
+Fulah;Fulah
+Full;Full
+Fullscreen;Fullscreen
+Fun To;Fun To
+Fun;Fun
+Function;Function
+Futuna;Futuna
+Future;Future
+GB;GB
+GBK;GBK
+GC Event;GC Event
+GC Slice;GC Slice
+GC;əlavə GC
+GCLI is;GCLI is
+GCLI;GCLI
+GDI Library;GDI Library
+GDI;GDI
+GData;GData
+GENERAL;GENERAL
+GEOSTD;GEOSTD
+GLSL code;GLSL code
+GLSL;GLSL
+GMTString;GMTString
+GPU;GPU
+GSSAPI realm;GSSAPI realm
+GSSAPI ticket;GSSAPI ticket
+GSSAPI;GSSAPI
+GTK;GTK
+GUID;GUIDi
+Gabon;Qabon
+Gaelic;Qelscəsi
+Gaia;Gaia
+Galeon;Galeon
+Galician;Qalik
+Gallegos;Gallegos
+Gambia The;Qambiya
+Gambia;Gambia
+Gamepad;Gamepad
+Gaming consoles;Gaming consoles
+Gaming;Gaming
+Ganda;Qanqa
+Gap from edge of paper to Margin;Gap from edge of paper to Margin
+Gap from;Gap from
+Gap;Kənar
+Garbage Collector Roots;Garbage Collector Roots
+Garbage;Garbage
+Garcia;Qarsiya
+Gated Crypto;Gated Crypto
+Gated;Qapılı
+Gaza Strip;Gaza Strip
+Gaza;Qəzzə
+Gecko;Gecko
+Geckoreg;Geckoreg
+Geckotrade;Geckotrade
+General Notification;General Notification
+General;Ümumi
+Generate a;Generate a
+Generate;Generate
+Generated;Generated
+Generating A Private;Generating A Private
+Generating A;Generating A
+Generating aggregate;Generating aggregate
+Generating;Generating
+Generation;Generation
+Generator;Generator
+Generic;Generic
+Geographic Position;Geographic Position
+Geographic;Geographic
+Georgia and;Georgia and
+Georgia;Gürcüstan
+Georgian;Gürcü
+Georgian;Gürcü dili
+German;Almanca
+Germany;Almaniya
+Get Involved;Get Involved
+Get started;Get started
+Get;Get
+GetProcAddress of;GetProcAddress of
+GetProcAddress;GetProcAddress
+GetSystemDirectory;GetSystemDirectory
+GetVersionEx;GetVersionEx
+GetWindowsDirectory;GetWindowsDirectory
+Getting Started;Getting Started
+Getting;Getting
+Ghana;Qana
+Gibraltar;CəbəliTariq
+Gives;Gives
+Glace;Glace
+Global Revived;Global Revived
+Global;Global
+Glorioso Islands;Glorioso Islands
+Glorioso;Qlorioso
+Glossary;Glossary
+Gmail;Gmail
+Go back;Go back
+Go forward;Go forward
+Go;Go
+Good;Yaxşı
+Google;Google
+Goose;Goose
+Gopher;Gopher
+Gort Klaatu barada;Gort Klaatu barada
+Gort;Gort
+Got it;Got it
+Got;Got
+Governance;Governance
+Grab a;Grab a
+Grab;Grab
+Grade;Dərəcə
+Gradient is;Gradient is
+Gradient;Qradiyenti
+Grand;Grand
+Grande;Grande
+Grant;Grant
+Graph Reduction;Graph Reduction
+Graph;Graph
+Graphics;Təchizat məlumatlar
+Gravatar;Gravatar
+GrayScale;GrayScale
+Grayscale;GrayScale
+Greece;Yunanıstan
+Greek Windows;Greek Windows
+Greek;Yunan
+Greek;Yunanca
+Greenland;Qrinlandiya
+Greenlandic;Qrinlandiya
+Grenada;Qrenada
+Grenadines;Grenadines
+Grid;Grid
+Group List;Group List
+Group;Group
+Grouped By;Grouped By
+Grouped;Grouped
+Grouping;Grouping
+Groups;sildik
+Grow;Grow
+Guadeloupe;Quadelupa
+Guam;Quam
+Guarani;Quarani
+Guard;Guard
+Guatemala;Qvatemala
+Guernsey;Qernsi
+Guess;Guess
+Guest browsing;Guest browsing
+Guest;Qonaq
+Guiana;Gvineyası
+Guinea;Qvineya
+GuineaBissau;QvineyaBissau
+Gujarati;Gujarati
+Gujarati;Gujarati dili
+Gurmukhi MacGurmukhi;Gurmukhi MacGurmukhi
+Gurmukhi;Qurmuki
+Guyana;Qayana
+H Line;H Line
+H;H
+HAR;HAR
+HError;HError
+HLine;HLine
+HPKP;HPKP
+HREF;HREF
+HSLA;HSLA
+HSTS;bidirmək
+HTML Content;HTML Content
+HTML Domains;HTML Domains
+HTML parsing;HTML parsing
+HTML;HTML
+HTMLMediaElement;HTMLMediaElement
+HTML…;HTML…
+HTTP Cache;HTTP Cache
+HTTP Networking;HTTP Networking
+HTTP Strict Transport;HTTP Strict Transport
+HTTP;HTTP
+HTTPS URI;HTTPS URI
+HTTPS;HTTPS
+HW Version;HW Version
+HW;HW
+HZ;HZ
+HZGB;HZGB
+Hack the;Hack the
+Hack;Hack
+Haiti;Haiti
+Haitian;Haiti
+Halifax;Halifax
+Handler;Handler
+Handling;Handling
+Handshake record;Handshake record
+Handshake;Handshake
+Hang Report;Hang Report
+Hangs;donması
+Happy;Happy
+Hard;Hard
+Hardware Driver Verification;Hardware Driver Verification
+Hardware Driver;Hardware Driver
+Hardware;Avadanlıq
+Has;Has
+Hausa;Hausa
+Have an;Have an
+Have;Have
+Hawaiian;Havayca
+Header;Başlıq
+Headers;Başlıqlar
+Heading;Heading
+Headings;Başlıqlar
+Health Report;Health Report
+Health;sağlamlıq
+Heard Island;Heard Island
+Heard;Herd
+Hebrew MacHebrew;Hebrew MacHebrew
+Hebrew Visual;Hebrew Visual
+Hebrew;İvritcə
+Height;Height
+Helena;Helena
+Hello World;Hello World
+Hello;Hello
+Help Start;Help Start
+Help;Kömək
+Helper Application;Helper Application
+Helper Applications;Helper Applications
+Helper Threads;Helper Threads
+Helper;Helper
+Helps;Helps
+Helvetica;Helvetica
+Here;Here
+Herero;Herero
+Herzegovina;Herzoqovina
+Hex;Hex
+Hidden;Hidden
+Hide Statistics;Hide Statistics
+Hide Toolbars;Hide Toolbars
+Hide;Gizlə
+Hide;Gizlət
+Hide;Gizləyir
+Hierarchy;İyerarxiyası
+High Contrast;High Contrast
+High;High
+Highest;Highest
+Highgrade;Highgrade
+Highlight;İşıqlandır
+Highlighting;Rəngləndirmə
+Highlights;Highlights
+Hightail;Hightail
+Hiligaynon;Hiliqaynon
+Hill;Hill
+Hindi;Hind
+Hint;Məsləhət
+Hiri Motu;Hiri Motu
+Hiri;Hiri
+Histograms Collected;Histograms Collected
+Histograms;Histoqram
+History;Keçmiș
+History;Tarixçə
+Hits;Hits
+Hnewsgroup server;Hnewsgroup server
+Hnewsgroup;Hnewsgroup
+Ho Chi Minh;Ho Chi Minh
+Ho;Ho
+Hold;Gözlətmə
+HolidayStatusSuppliersTravelVacation;HolidayStatusSuppliersTravelVacation
+Home;Başlanğıc
+Home;Ev
+Home;Home
+Homepage Get back;Homepage Get back
+Homepage;Ana Səhifə
+Homepage;Ana səhifə
+Honduras;Honduras
+Hong Kong;Hong Kong
+Hong;Honq
+Honolulu;Honolulu
+Horizontal;Horizontal
+Host;Host
+Host;Server
+Hosted;Hosted
+Hostname Entered;Hostname Entered
+Hostname;Host adı
+Hotspot Properties;Hotspot Properties
+Hotspot Target;Hotspot Target
+Hotspot;Hotspot
+Hour &#124;Hour &#124
+Hour;Hour
+Hours;saat
+Housekeeping;Housekeeping
+How;How
+Howe;Howe
+However we;However we
+However;However
+Howland Island;Howland Island
+Howland;Howland
+Http;Http
+Huge;Huge
+Humans;İnsanlar
+Hungarian;Macar
+Hungary;Macarıstan
+I &apos;m not near
+I Do;I Do
+I II;I II
+I Know;I Know
+I Understand;I Understand
+I am currently away;uzağam
+I close brandShortName;I close brandShortName
+I don &apos;I don &apos
+I ii;I ii
+I submit information that &apos;I submit information that &apos
+I think I &apos;I think I &apos
+I understand;I understand
+I;şəki
+IBM;IBM
+IBMI;IBMI
+ICE State;ICE State
+ICE Stats;ICE Stats
+ICE;ICE
+ICQ;ICQ
+ICS;ICS
+ID;ID
+IDLE;IDLE
+II III;II III
+II;II
+III;III
+IIRFilterNode;IIRFilterNode
+IM;IM
+IMAP Flag;IMAP Flag
+IMAP;IMAP
+INADEQUATE;INADEQUATE
+INBOXmsf;INBOXmsf
+INI;INI
+IP Address;IP Address
+IP address;IP adresi
+IP;IP
+IPC;IPC
+IPs;IPlər
+IRC Nick;IRC Nick
+IRC Operator;IRC Operator
+IRC;IRC
+IS;IS
+ISDN;ISDN
+ISO ISO ISO;ISO ISO ISO
+ISO;ISO
+ISOCN;ISOCN
+ISOE;ISOE
+ISOI;ISOI
+ISOIR;ISOIR
+ISOJP;ISOJP
+ISOKR;ISOKR
+ISOx;ISOx
+ISP;ISP
+IV;IV
+Iaposm;Iaposm
+Iceland;İslandiya
+Icelandic;İslandiya
+Icon;Simvol
+Icons;Nişan
+Id;İD
+Identification;Təyinat
+Identifier;Tanıdıcı
+Identities …;Identities …
+Identities;Identities
+Identity;Identity
+Idle;Fəaliyyətsiz
+Ido;İdo
+If;maraqlandıran
+Igbo;İqbo
+Ignore Caught;Ignore Caught
+Ignore Scaling;Ignore Scaling
+Ignore Word;Ignore Word
+Ignore this;Ignore this
+Ignore;Nəzərə alma
+Ignoring;scriptsrc
+Image DataURL;Image DataURL
+Image Dimensions;Image Dimensions
+Image Map;Image Map
+Image map;Image map
+Image;Şəkil
+Images;Şəkillər
+Image…;Image…
+Import your;Import your
+Import;İdxal et
+Importance;Importance
+Important;Important
+Importing;Importing
+Importing…;İdxal edilir…
+Import…;İdxal et…
+In Days;In Days
+In EHLO reponse;In EHLO reponse
+In Finder;In Finder
+In Use;In Use
+In;In
+InAutoon;InAutoon
+InBrowserElement;InBrowserElement
+Inc;Inc
+Incomplete;natamam
+Incorporated;tərəfindəndir
+Incorrect;DÜzgün
+Increase;Mətn ölçüsünü böyüt
+India;Hindistan
+Individual;Şəxsi
+Indonesia;İndoneziya
+Indonesian;İndoneziya
+Information;məlumati
+Init;Başlanğıcı
+Input;Daxil etmə
+Ins;Ins
+Inspect;Təftiş
+Inspector;İnspektor
+Install;Qur
+Installed;Kuruldu
+Installing;Quraşdırlır
+Installing…;Quraşdırılır…
+Integer;Rəqəm
+Integer;Tam ədəd
+Integrity;Bütünlük
+Interface;Interface
+Interlingua;İnterlinqva
+Interlingue;İnterlinqva
+Internal;Daxili
+Interrupted;xətası
+Introduction;Başlatma
+Inuktitut;İnuktitut
+Inupiaq;İnupiak
+Invalid;Düngün
+Invisible;Görünməz
+Iran;İran
+Iraq;İraq
+Ireland;İrlandiya
+Irish;İrland dili
+Island;Adası
+Islands;Adaları
+Islas Malvinas;Malvin
+Israel;İsrail
+Issued By;yayımçısı
+Issuer;Yayımlayan
+It;quraşdırması
+Italian;İtalyanca
+Italy;İtaliya
+JIS;JIS
+JOHAB;JOHAB
+JS;JS
+JSON;JSON
+JSONparse;JSONparse
+JSONstringify;JSONstringify
+Jamaica;Yamayka
+Jan;Yan
+January;Yanvar
+Japan;Yaponiya
+Japanese;Yapon dili
+Japanese;Yaponca
+Jarvis;Jarvis
+JavaScript;JavaScript
+Javanese;Yavanca
+Jersey;Cersi
+Jitter;Jitter
+Jitterbuffer;Jitterbuffer
+Johnston;Johnston
+Jordan;İordaniya
+Jul;İyul
+July;İyul
+Jump;Keç
+Jun;İyun
+June;İyun
+Junk;zibil
+KB;KB
+KOIR;KOIR
+KOIU;KOIU
+Kannada;Kanada dili
+Kannada;Kannada
+Kanuri;Kanuri
+Kashmiri;Kaşmir
+Kashubian;Kaşubca
+Kazakh;Qazaxca
+Kazakhstan;Qazaxıstan
+Keeling;Kilinq
+Keep;Qalsın
+Kenya;Keniya
+Key;dəyiştirmə
+Keyboard;Klaviatura
+Keyed;Açarlanmış
+Keyhtml;Açarıhtml
+Keys;Açarlar
+Keyword;Açar söz
+Keywords;Açar sözlər
+Khmer;Kamboca dili
+Khmer;Xmercə
+Kikuyu;Kikuyyu
+Kingdom;Krallıq
+Kingman;Kingman
+Kinshasa;Kinşasa
+Kinyarwanda;Kinyaruanda
+Kirghiz;Qırğız
+Kiribati;Kiribati
+Kirundi;Kirundi
+Kitts;Kits
+Klaatu;Klaatu
+Klingon;Klinqonca
+Komi;Komi
+Kong;Konq
+Kongo;Konqo
+Konkani;Konkani
+Korean;Koreya
+Korean;Koreya dili
+Korean;Koreya dilində
+Korean;Koreyaca
+Kosovo;Kosova
+Kuanyama;Kuanyama
+Kurdish;Kürtcə
+Kuwait;Küveyt
+Kyrgyzstan;Qırğızıstan
+LDAP;erver
+Label;Etiket
+Labs;Labs
+Landmarks;Oriyentirlər
+Lands;Torpaqlar
+Landscape;Üfiqi
+Language;Dil
+Languages;Diller
+Languages;Dillər
+Lanka;Lanka
+Lao;Lao
+Laos;Laos
+Large;Böyük
+Last;Son
+Latin;Latınca
+Latvia;Latviya
+Latvian;Latışca
+Leave;Tərk et
+Lebanon;Livan
+Left;Left
+Left;Sol
+Legacy;İrsi
+Legal;Qanuni
+Legitimate;Qanuni
+LenientThis;tərkibində
+Leone;Lione
+Lesotho;Lesoto
+Less;Daha az məlumat
+Liberia;Liberiya
+Library;Kitabxana
+Libya;Liviya
+License;Lisans
+Liechtenstein;Lixtenşteyn
+Lifetime Signing;Qəbul Müddəti
+Lifetime;Xidmət müddəti
+Light;Açıq
+Limburgan;Limburq
+Line;Satır
+Lingala;Linqala
+Link;Keçid
+Links;Keçidlər
+List;Siyahı
+Listening on;dinlənilir
+Lists;Siyahılar
+Lithuania;Litva
+Lithuanian;Litvanca
+Live;kanalına
+Load;Yükle
+Loading;Yükleniyor
+Loading…;Yüklənir…
+Local;Lokal
+Locale;Dil
+Location;Mövqe
+Location;Ünvan
+Lock;Kilidi
+Locked;Bağlıdır
+Log;Qeydi
+Logging;Qeydiyyatı
+Logins;Daxil olmalar
+Logins;Hesablar
+Logon;Girişi
+Logotype;Logo formatı
+Lookup;Baxış
+Loop;Dövr
+Lost;İtmiş
+LubaKatanga;Luba Katanqa
+Lucia;Lusiya
+Luxembourg;Lüksemburq
+Luxembourgish;Lüksemburq
+MAC;MAC
+MANIFEST;MANIFEST
+MB;MB
+MD;MD
+MIME;MIME
+Maarten;Maarten
+MacArabic;MacArabic
+MacCE;MacCE
+MacCroatian;MacCroatian
+MacCyrillic;MacCyrillic
+MacDevanagari;MacDevanagari
+MacFarsi;MacFarsi
+MacGreek;MacGreek
+MacGujarati;MacGujarati
+MacGurmukhi;MacGurmukhi
+MacHebrew;MacHebrew
+MacIcelandic;MacIcelandic
+MacRoman;MacRoman
+MacRomanian;MacRomanian
+MacTurkish;MacTurkish
+MacUkrainian;MacUkrainian
+Macau;Makau
+Macedonia;Makedoniya
+Macedonian;Makedonca
+Madagascar;Madaqaskar
+Made;Məni
+Magnify;Balaca
+Mail;Poçt
+Main;Main
+Maintenance;Servis
+Malagasy;Madaqasqar
+Malawi;Malavi
+Malay;Malayca
+Malayalam;Malayalam
+Malayalam;Malayalam dili
+Malaysia;Malayziya
+Maldives;Maldivler
+Mali;Mali
+Malta;Malta
+Maltese;Malta
+Manage;İdarə et
+Manager;İdarəçisini
+Manifest;Manifest
+Manifests;Manifests
+Manufacturer;İstehsalçı
+Manx;Mensk
+Maori;Maori
+Mappings;Yer
+Mar;Mar
+Marathi;Marat
+March;Mart
+Margins;Kənarlar
+Mariana;Marian
+Marino;Marino
+Marketplace;gəz
+Marshall;Marşal
+Marshallese;Marşal
+Martin;Martin
+Martinique;Martinika
+Match;uyğunu
+Matched;Uyğunlaşdı
+MathML;MathMLin
+Mathematics;Riyaziyyat
+Mauritania;Mavritaniya
+Mauritius;Mavriki
+May;May
+Maybe;Bəlkə
+Mayen;Mayen
+Mayotte;Mayott adaları
+McDonald;MakDonald
+Me;haqda
+Measurements;Ölçülər
+Media;Media
+Media;Mediya
+Media;Ortam
+MediaRecorder;MediaRecorder
+Medium;Orta
+Menu;Menyu
+Message;Mesaj
+Messages;İsmarıclar
+Meta;Meta
+Method;Metod
+Mexico;Meksika
+Mibbit;Mibbit
+Micronesia;Mikroneziya
+Microphone;paylaşılırMikrofon
+Microsoft;Microsoft
+Middle Eastern;Orta Şərq
+Midnight;Gecə
+Midway;Midvey
+MinSupportedCPU;MinSupportedCPU
+MinSupportedVer;MinSupportedVer
+Minified Sources;Minimallaşdırılmış mənbələri
+Minified;Minimallaşdırılmış
+Minimize;Kiçilt
+Miquelon;Mikelon
+Mirror;Əkset
+Misplaced;mövqeləndirilmiş
+Missing;Əvvəlində
+Mo;Be
+Mobile;Mobil
+Mode;Yoxlayın
+Modification;Dəyişdirilmə
+Modified;Dəyişmə tarixi
+Modify;Dəyərini dəyiş
+Module;Modul
+Modules;Parçaları
+Modulus;Hissə
+Moldova;Moldova
+Mon;Ber
+Monaco;Monako
+Monday;Bazar etəsi
+Mongolia;Monqolustan
+Mongolian;Monqolca
+Monospace;Monospace
+Montenegro;Çernoqoriya
+Montserrat;Montserrat
+More;Daha çox məlumat
+Moreellipsis;Daha çoxellipsis
+Morocco;Mərakeş
+Motu;Motu
+Move…;Köçür…
+MozTestPilot;Twitterdə
+Mozambique;Mozambik
+Mozilla;Mozilla
+Mozillaorg;Mozillaorg
+MutationObserver;MutationObserver
+Mute;Səsi bağla
+Mute;Səssiz
+Mute;Səssiz et
+N/A;Yoxdur
+NET;NET
+NIST;tanınır
+NPN;NPN
+NS;NS
+NSS;NSS
+NULL;təhlükəlidir
+Name;Ad
+Name;Adı
+Name;İsim
+Namespaces;boşluqları
+Namibia;Namibiya
+Narrate;Danışdır
+Nauru;Nauru
+Navajo;Navayo
+Navassa;Navassa
+Ndebele;Ndebele
+Ndonga;Ndonqa
+Nearby;Yaxındakı
+Nepal;Nepal
+Nepali;Nepal
+Nested;İç
+Netherlands;Hollandiya
+Netscape;Netscape
+Netscapecfg;Netscapecfg
+Network;Şəbəkə
+Never;Heç vaxt
+Never;Heç zaman
+Nevis;Nevis
+New;New
+New;Yeni
+News;Xəbər
+Newsgroup;Xəbər Qrupu
+Next;Növbətini tap
+Next;Sonrakı
+Next;İrəli
+Nicaragua;Nikaraqua
+Niger;Niger
+Nigeria;Nigeriya
+Niue;Niue
+No;Xeyir
+No;Xeyr
+NodeSet;istəndi
+Nominated;Namizəd
+None;Heç biri
+None;Yoxdur
+Nones;es
+Nonrepudiation;Rəddetməmk
+Noon;Gündüz
+Nordic;Skandinaviya
+Norfolk;Norfolk
+Normal;Normal
+Normally;araşdırmadır
+North;Şimal
+Northern;Şimali
+Norway;Norveç
+Norwegian Bokmål;Norveç
+Norwegian;Norveç
+Not Encrypted;şifrəlnmir
+Note;dəyişdikdən
+Notes;Qeydləri
+Notice;Bildirişi
+Notices;Xəbərdarlıqları
+Notification;xəbərdarlıq
+Notifications;Bildirişlər
+Notify;belə olduqda
+Nov;Noy
+Nova;Nova
+November;Noyabr
+Number;Nömrə
+Nynorsk;Nyunorsk
+O;O
+OCSP;OCSP
+OID;OID
+OK;Oldu
+OK;Tamam
+OLE for;OLE
+OMTC;axın
+OS;ƏS
+OU;OU
+OVERLAP;OVERLAP
+Object;Nesne
+Occitan;Oksitanca
+Occurrences;hasilidir
+Ocean;Okeanı
+Oct;Okt
+October;Oktyabr
+Odia;Odia
+Off;Bağlı
+Off;Bağlıdır
+Off;Söndürülmüş
+Offline;Oflayn
+Oh no;Ehhh
+Ojibwa;Ocibva
+Oman;Oman
+On;Açıqdır
+Oneclick;klikli
+Only;Sənədin
+Oops;Uups
+Oops;Vaxsey
+Opaque;opaque
+Open;Aç
+Open;Open
+OpenGL;OpenGL
+OpenH;OpenH
+Optimizable;Optimizə
+Optimizing;Optimizing
+Options;Nizamlar
+Options;Seçimlər
+Options;Seçənəklər
+Organization;qurum
+Organize;Redaktə
+Orientation;Ünvan
+Original Sources;Əsl mənbələri
+Original;Əslini
+Oromo;Oromo
+Ossetian;Osetiya
+Other;Digər
+Others;Diğerleri
+Otherwise;Otherwise
+Other…;Digər…
+Outgoing;Gedən
+Outline;qaralama
+Owner;Sahibi
+P/Galapagos;P/Galapagos
+P;P
+PDF;PDF
+PDFjs;PDFjs
+PKCS;PKSC
+POST;POST
+PREFS;NİZML
+PSM;yükləyib
+PUBLIC;PUBLIC
+PacifDebug/Galapagos;PacifDebug/Galapagos
+Pacific/Enderbury;Pacific/Enderbury
+Pacific/Fakaofo;Pacific/Fakaofo
+Pacific/Fiji;Pacific/Fiji
+Pacific/Funafuti;Pacific/Funafuti
+Pacific/Gambier;Pacific/Gambier
+Pacific/Guadalcanal;Pacific/Guadalcanal
+Pacific/Guam;Pacific/Guam
+Pacific/Honolulu;Pacific/Honolulu
+Pacific/Johnston;Pacific/Johnston
+Pacific/Kiritimati;Pacific/Kiritimati
+Pacific/Kosrae;Pacific/Kosrae
+Pacific/Kwajalein;Pacific/Kwajalein
+Pacific/Majuro;Pacific/Majuro
+Pacific/Marquesas;Pacific/Marquesas
+Pacific/Midway;Pacific/Midway
+Pacific/Nauru;Pacific/Nauru
+Pacific/Niue;Pacific/Niue
+Pacific/Norfolk;Pacific/Norfolk
+Pacific/Noumea;Pacific/Noumea
+Pacific/Palau;Pacific/Palau
+Pacific/Pitcairn;Pacific/Pitcairn
+Pacific/Pohnpei;Pacific/Pohnpei
+Pacific/Ponape;Pacific/Ponape
+Pacific/Rarotonga;Pacific/Rarotonga
+Pacific/Saipan;Pacific/Saipan
+Pacific/Tahiti;Pacific/Tahiti
+Pacific/Tarawa;Pacific/Tarawa
+Pacific/Tongatapu;Pacific/Tongatapu
+Pacific/Truk;Pacific/Truk
+Pacific/Wake;Pacific/Wake
+Pacific/Wallis;Pacific/Wallis
+Pack;Pack
+Package s;Package s
+Package xpi;Package xpi
+Package;Package
+Packaged;Paketlənmiş
+Packs;Packs
+Padding;Padding
+Page Direction;Page Direction
+Page Selection;Page Selection
+Page;Sayfa
+Page;Səhifə
+Pagequot;Pagequot
+Pager Number;Pager Number
+Pager;Pager
+Pages;Sayfalar
+Pago;Pago
+Paint;Paint
+Pair a Device &quot;Pair a Device &quot
+Pair a;Pair a
+Pair;Pair
+Pakistan;Pakistan
+Pal Who &apos;Pal Who &apos
+Pal;Pal
+Palau;Palau
+Palestinian Territory;Palestinian Territory
+Palestinian;Palestinian
+Palette;Palette
+Pali;Pali
+Palmyra Atoll;Palmyra Atoll
+Palmyra;Palmyra
+Pan;Pan
+Panama;Panama
+Pane;Pane
+Panel;Panel
+Panels;Panellər
+Panes on Startup;Panes on Startup
+Panes;Panes
+PannerNode;PannerNodeda
+Papua New Guinea;Papua New Guinea
+Papua New;PapuaYeni
+Papua;Papua
+Paracel Islands;Paracel Islands
+Paracel;Paracel
+Paragraph format;Paragraph format
+Paragraph;Paragraph
+Paraguay;Paraqvay
+Parameters;Parametrlərini
+Params;Parametrlər
+Parcel;Parcel
+Parent Payload;Parent Payload
+Parent frame;Parent frame
+Parent;Üstün
+Parental Controls;Parental Controls
+Parental;Parental
+Paris;Paris
+Park;Park
+Parser;Parser
+Parsing Error;Parsing Error
+Parsing an;Parsing an
+Parsing;Speculative
+Part Of;Part Of
+Part;Ayrılma
+PartS;PartS
+Partial;Partial
+Partially Encrypted;Partially Encrypted
+Partially;Partially
+Participant;Participant
+Participants;Participants
+Parts;Parts
+Party Name;Party Name
+Party;Party
+Pashto;Paştu
+Password Change;Password Change
+Password Manager;Password Manager
+Password;Parol
+Password;Şifrə
+Password;Şifrələr
+PasswordIf;PasswordIf
+Passwords;Parollar
+Passwords;Şifrələr
+Paste Go;Paste Go
+Paste;Yapışdır
+Paste;Yapıştır
+Pastel Gradient;Pastel Gradient
+Pastel;Pastel
+Paste…;Paste…
+Patch;Patch
+Patching s;Patching s
+Patching;Patching
+Path;Cığır
+Path;Qısayol
+Path;Yol
+Paths from;Paths from
+Paths;Paths
+Paulo;Paulo
+Pause on;Pause on
+Pause/Resume/Retry;Pause/Resume/Retry
+Pause;Dayandır
+Pause;Fasilə
+Pause;Fasilə ver
+Paused;Saxlanıldı
+Pauses the;Pauses the
+Pauses;Pauses
+Pay;ödə
+Payload;yük
+Payment;Ödəniş
+Paz;Paz
+Peer;Peer
+PeerConnection ID;PeerConnection ID
+PeerConnection;PeerConnection
+Pending;Pending
+Penh;Penh
+People;Şəxslər
+Percent;Percent
+Perform a;Perform a
+Perform;Perform
+Performance;Məhsuldarlıq
+Perhaps the;Perhaps the
+Perhaps you &apos;Perhaps you &apos
+Perhaps;Perhaps
+Period of Validity;Period of Validity
+Period of;Period of
+Period;Period
+Periodic;Periodic
+Permanent;Sürekli
+Permanently;Permanently
+Permission;Permission
+Permissions;Səlahiyyətlər
+Permissions;İcazələr
+Permit;Permit
+Persian;Farsca
+Personal;Şəxsi
+Personality;Kişilik
+Peru;Peru
+Perwebsite;Perwebsite
+Phase;Phase
+Philippines;Filippin
+Phishing;Phishing
+Phnom Penh;Phnom Penh
+Phnom;Phnom
+Phoenix;Phoenix
+Phone Number;Phone Number
+Phone;Telefon
+Phones;Telefonlar
+Phonetic Name;Phonetic Name
+Phonetic;Phonetic
+Photo;Photo
+Photograph;Photograph
+Phrase;Phrase
+Physical;Physical
+Pick;Pick
+Picture;Picture
+Pierre;Pyer
+Pilot;Pilotu
+Pin;Pin
+Ping;Ping
+Pinned;Sabitlənmiş
+Pinning;Pinning
+Pipelining;Pipelining
+Pitcairn Islands;Pitcairn Islands
+Pitcairn;Pitkairn
+Pixel;Pixel
+Plain;Plain
+Planner;Planner
+Plastic Pal Who &apos;Plastic Pal Who &apos
+Plastic;plastik
+Platform COM;Platform COM
+Platform;Platform
+Play a;Play a
+Play;Göstər
+Play;Oynat
+Playing audio;Playing audio
+Playing;Göstərilir
+Please advance;Please advance
+Please authenticate;Please authenticate
+Please consider;Please consider
+Please enter;Please enter
+Please shorten;Please shorten
+Please;aldınız
+Plug a;Plug a
+Plug;Plug
+PlugIns;PlugIns
+Plugin;Qoşması
+Plugins;Qoşmalar
+Plus;Plus
+Pocket;Pocket
+Podcast;Podyayımı
+PoiQA;PoiQA
+Pointer Lock API;Pointer Lock API
+Pointer;Göstərici
+Points;Nöqtələri
+Poland;Polşa
+Pole;Pole
+Policies;Politikaları
+Policy Constraints;Policy Constraints
+Policy Mappings;Policy Mappings
+Policy mapping;Policy mapping
+Policy;Siyasətində
+Polish;Polyak
+Polynesia;Polineziyası
+Popup Blocking;Popup Blocking
+Popup;Popup
+Popups;Qəfil pəncərələr
+Popups;QəfilPəncərə
+Port;Port
+Portable Document;Portable Document
+Portable;Portable
+Porto;Porto
+Portrait;Şaquli
+Portugal;Portuqaliya
+Portuguese;Portuqalca
+Position;Ünvan
+Posse;Posse
+Possible;Possible
+Post;Post
+Postal Code;Postal Code
+Postal;Postal
+Posting;Posting
+Postpone;Postpone
+Power;Power
+Powered by;Powered by
+Powered;YandexTranslate
+Powershare;Powershare
+Practice Statement pointer;Practice Statement pointer
+Practice;Practice
+Pre;Pre
+Precondition;Precondition
+Preferably;Preferably
+Preference;Preference
+Preferences;Nizamlamalar
+Preferences;Seçimlər
+Preferences;Tənzimləmələr
+Preferences…;Seçənəklər…
+Preferred;Preferred
+Prefers to;Prefers to
+Prefers;Prefers
+Prefetch;Prefetch
+Prefetching;Prefetching
+Prefix;Prefix
+Prefixed;Prefixed
+Preformat;Preformat
+Premature;Şərhi
+Prepackage;Prepackage
+Prepackaging;Prepackaging
+Preparing;Preparing
+Preparing…;Hazırlanır…
+Present;Present
+Presentation Mode;Təqdimat Rejimi
+Presentation;Təqdimat
+Preserve;Preserve
+Preserves;Preserves
+Preset;Preset
+Presets;Presets
+Press;Bastır
+Pressing F;Pressing F
+Pressing;Pressing
+Prettify;gözəlləşdir
+Pretty Print;Pretty Print
+Pretty;Pretty
+Prevent;Prevent
+Preview;Ön baxış
+Previewed;Previewed
+Previewing;Previewing
+Preview…;Preview…
+Previous Session;Previous Session
+Previous;Geri
+Previous;Əvvəlkini tap
+Price;Fiyat
+Primary Email;Primary Email
+Primed cache;Primed cache
+Primed;Primed
+Primetime Content;Primetime Content
+Primetime;Primetime
+Princes;Princes
+Principal Name;Principal Name
+Principal;Qnun
+Principe;Prinsipi
+Print;Yazdır
+Print;Çap Et
+Print;Çap et
+Printed;Printed
+Printer;Yazıcı
+Printing;Çap edilən
+Printing…;Çap edilir…
+Print…;Çap et…
+Priority changed;Priority changed
+Priority;Üstünlük
+Privacy Policy;Privacy Policy
+Privacy;Məxfilik
+Private Browsing we won &apos;Private Browsing we won &apos
+Private Keys;Private Keys
+Private TabformatS won &apos;Private TabformatS won &apos
+Private;Məxfi
+Privileged;İmtiyazlı
+Privileges;Privileges
+Privileges…;Privileges…
+Pro;Pro
+Probable;Probable
+Probably;Probably
+Probing;Probing
+Problem;Problem
+Proceed;Proceed
+Proceeding will;Proceeding will
+Proceeding;Proceeding
+Process;İşləmə
+Processing;Processing
+Processing…;Processing…
+Prodigy;Prodigy
+Producer;yaradıcısı
+Product;Product
+ProductName;ProductName
+ProductNameInternal;ProductNameInternal
+ProductShortName;ProductShortName
+Profile;Yaratma
+Profiler;Profilləyicisi
+Profiles;Profillər
+Program Icons;Program Icons
+Program;Program
+Programs Folder;Programs Folder
+Programs;Programs
+Progress Window;Progress Window
+Progress;Gedişat
+Progress;İlerleme
+Project Lead;Project Lead
+Project;Project
+Projects;Projects
+Promise Debugger;promise Sazlayıcısını
+Promise;Promise
+Prompt;Klient
+Properties;Xassələr
+Properties;Xüsusiyyətlər
+Properties…;Xüsusiyyətlər…
+Property Declaration;Property Declaration
+Property Value;Property Value
+Property;Property
+Proportional;Proporsional
+Propose a;Propose a
+Propose;Kendi
+Protection;Qorumasını
+Protocol Request;Protokol Lazımdır
+Protocol;əməliyyatları
+ProtocolSpecific;ProtocolSpecific
+Protocols;Protocols
+Proudlybr;Proudlybr
+Provider;Provayder
+Province;Province
+Proxies;Proxies
+Proxy;proxyserveri
+Pseudoelements can;Pseudoelements can
+Pseudoelements ‘;Pseudoelements ‘
+Pseudoelements;Pseudo elementlər
+Psst using;Psst using
+Psst;Hey
+Public;Ümumi
+PublicKeyPins;PublicKeyPins
+Publish;Publish
+Publishing Pages;Publishing Pages
+Publishing;Publishing
+Publishing…;Publishing…
+Publish…;Publish…
+Puerto Rico;Puerto Rico
+Puerto;Puerto
+Punjabi;Pancabi
+Purchase for;Purchase for
+Purposes;Amaçlar
+Push Endpoint;Push Endpoint
+Push;Push
+QA UI;QA UI
+QA;QA
+QName;QName
+QQ;QQ
+QR Scan;QR Scan
+QR;QR
+Qatar;Qətər
+Qualified Subordination;Qualified Subordination
+Qualified;İxtisaslaşdırılmış
+Quechua;Keçua
+Query;Query
+Question;Question
+Queued;Gözləyir
+Quick Filter;Quick Filter
+Quick Launch bar;Quick Launch bar
+Quick Launch;Quick Launch
+Quick;Quick
+Quickly;Quickly
+Quirks mode;Quirks kipi
+Quirks;Quirks
+Quirky doctype;Quirky doctype
+Quirky;Quirky
+Quit;Çık
+Quit;Çıx
+QuitS;QuitS
+Quitting;Quitting
+Quota;limiti
+Quotation;Quotation
+Quote;Quote
+Quotes;Quotes
+RAM;RAM
+RC;RC
+RDN;RDN
+RECORDS;QEYDLƏR
+REMOVE;REMOVE
+RETR command;RETR command
+RETR;RETR
+RETURN;RETURN
+RFC;RFC
+RGBA;RGBA
+RSA Encryption;RSA Encryption
+RSA;RSA
+RSASSAPSS Signature;RSASSAPSS Signature
+RSASSAPSS;RSASSAPSS
+RSS Support;RSS Support
+RSS;RSS
+RTCPeerConnectiongetLocalStreams;RTCPeerConnectiongetLocalStreams
+RTCPeerConnectiongetSenders;RTCPeerConnectiongetSenders
+RTP Stats;RTP Stats
+RTP;RTP
+Radio Button;Radio Button
+Radio buttons;Radio buttons
+Radio;Radio
+Rainy;Rainy
+Raise;çəkməyə
+Range;Kənarları
+Rankin;Rankin
+Rate;Rate
+Rating;Bəyənilmə
+Ratio;Ratio
+Raw;Edilməmiş
+Re;Re
+Reached;Reached
+Read;Read
+ReadMark;ReadMark
+Reader &apos;Reader &apos
+Reader;Oxuyucusu
+Reading;Reading
+Ready to;Ready to
+Ready;Hazırdır
+Really fast;Really fast
+Really;Really
+Rearrange;Rearrange
+Reason;Sebep
+Reasons;Reasons
+Rebuild Summary;Rebuild Summary
+Rebuild;Rebuild
+Recalculate;Recalculate
+Receipt denied;Receipt denied
+Receipt;Receipt
+Receipts;Receipts
+Receive;Receive
+Received;Alındı
+Receiving;Alınır
+Recent htmlstrongCookies;Recent htmlstrongCookies
+Recent htmlstrongHistory;Recent htmlstrongHistory
+Recent;Son baş çəkilənlər
+Recently;Recently
+Recheck;Recheck
+Recipient;Recipient
+Recipients;Recipients
+Recommended Components;Recommended Components
+Recommended;Tövsiyyə edilən
+Reconfirm;Reconfirm
+Reconnect;Reconnect
+Record;Record
+Recording Performance;Recording Performance
+Recording;Recording
+Recording…;Recording…
+Recover;Recover
+Recovery Keyhtml;Recovery Keyhtml
+Recovery;Recovery
+Recur;Recur
+Recurrence pattern;Recurrence pattern
+Recurrence;Recurrence
+Recursion;Recursion
+Redirect Loop;Redirect Loop
+Redirect;Redirect
+RedirectMode;RedirectMode
+Redirection limit;Redirection limit
+Redirection;Redirection
+Rediscover the;Rediscover the
+Rediscover;Rediscover
+Redisplay;Redisplay
+Redo;Təkrarla
+Reducing the;Reducing the
+Reducing;Reducing
+Reduction;Reduction
+Reef;Reef
+Reenter;Reenter
+Reference;Reference
+References;References
+Referrer;Referrer
+Referring URL;Referring URL
+Referring;Yönləndirən
+Reflows;Reflows
+Reformat;Reformat
+Refresh;Yenilə
+Refused;Refused
+Register Locale;Register Locale
+Register Server;Register Server
+Register;Register
+Registered;Registered
+Registering;Registering
+Regular Attachment;Regular Attachment
+Regular;Regular
+Reject;Reject
+Rejoin;Rejoin
+Related;Related
+Relation;Relation
+Relative positioning of;Relative positioning of
+Relative;Relative
+Relaunch;Relaunch
+Release Notes;Release Notes
+Release;Release
+Releases;Releases
+Reload;Yenilə
+Reload;səhifəni yeniləyərək
+Remaining;Remaining
+Remember;Yadda Saxla
+Remember;Yadda saxla
+Remind Me;Remind Me
+Remind;Remind
+Reminder;Reminder
+Reminders;Reminders
+Remote Debugging;Remote Debugging
+Remote debugging;Remote debugging
+Remote;Uzaq
+Remove channel;Remove channel
+Remove;Sil
+Removed;Silindi
+Removes;Removes
+Remove…;Sil…
+Removing;Removing
+Renaissance;Renaissance
+Rename;Yenidən adlandır
+Rename…;Rename…
+Renaming;Renaming
+Render Mode;Render Mode
+Render;Render
+Renderer;Vizuallaşdırıcı
+Rendering;Qalın
+Renewal;Renewal
+Reopen;Reopen
+Repair;Repair
+Repeat;Repeat
+Repeating;Repeating
+Repeats;Təkrarlama
+Replace;Replace
+Replacement;Replacement
+Replaces in;Replaces in
+Replaces;Replaces
+Replace…;Replace…
+Replacing;Replacing
+Replicating directory entry;Replicating directory entry
+Replicating;Replicating
+Replication failed;Replication failed
+Replication;Replication
+Replied;Replied
+Reply;Cavabla
+ReplyTo;Cavab Ünvanı
+Replying;Replying
+Replyto Address;Replyto Address
+Replyto;Replyto
+Report;Xəbər ver
+ReportOnly;ReportOnly
+Reporter;Xəbərçisi
+Reports;Reports
+Republic;Respublikası
+Request the;Request the
+Request;Request
+RequestMode;RequestMode
+Requested;Requested
+Requests;Sorğular
+Required;Required
+Requires;Requires
+Reread mozcmd;Reread mozcmd
+Reread;Reread
+Resend;Təkrar göndər
+Resending;Resending
+ResentCC;ResentCC
+ResentComments;ResentComments
+ResentDate;ResentDate
+ResentFrom;ResentFrom
+ResentMessageID;ResentMessageID
+ResentSender;ResentSender
+ResentTo;ResentTo
+Reserved;Reserved
+Reset;Reset
+Reset;Sıfırla
+Resets;Resets
+Resolution/Quality;Resolution/Quality
+Resolution;Resolution
+Resolve;Qərarlaşdır
+Resource;Resource
+Resources;Resources
+Responder;Responder
+Response;Cavab
+Responseclone;Responseclone
+Responsive Design;Responsive Design
+Responsive;modundan
+Rest;Rest
+Restart;Baştan başlat
+Restart;Yenidən başlat
+Restarting;Restarting
+Restarting…;Yenidən başladılır…
+Restore;Bərpa et
+Restore;Geri qaytar
+Restrict;Restrict
+Restricted;Məhdudlaşdırılmış
+Restyle Hint;Restyle Hint
+Restyle;Restyle
+Results;Nəticələri
+Resume &apos;Resume &apos
+Resume;Davam et
+Resume;Devam et
+Resumes;Resumes
+Retained;Retained
+Retention Policy;Retention Policy
+Retention;Retention
+Retest;Retest
+Retrieving quota;Retrieving quota
+Retrieving;alınır
+Retrieving…;Alınır…
+Retry;Təkrar yoxla
+Retrying;Retrying
+Return;Return
+Retweet;Retweetlə
+Reunion;Reyunion
+Reverse;Reverse
+Reversed;Reversed
+Revert;Geri qaytar
+Revert;Geri qayıt
+Revert…;Revert…
+Review;Review
+Revision;Revision
+Revived;Revived
+Revocation;Revocation
+Revoked;Revoked
+Rewind;Rewind
+Rewrap;Rewrap
+Rewriting oldstyle;Rewriting oldstyle
+Rewriting;Rewriting
+RhaetoRomanic;RetoRomanca
+Rica;Rika
+Rich Text;Rich Text
+Rich;Rich
+Rico;Riko
+Right Click;Right Click
+Right;Right
+Right;Sağ
+Rightclick;Rightclick
+Rights;Rights
+Righttoleft direction;Righttoleft direction
+Righttoleft;Righttoleft
+Ringing…;Ringing…
+Rio;Rio
+Rioja;Rioja
+Risks;Risks
+River;River
+Roaming;Roaming
+Robot;Robot
+Robots;Robotlar
+Roku;Roku
+Role;Role
+Romania;Rumıniya
+Romanian ISO;Romanian ISO
+Romanian;Rumın
+Room;Otaq
+Root;Root
+Roots Module;Roots Module
+Roots;Roots
+Rotate;Rotate
+Row;Row
+Rows;Rows
+Rule;Qaydanı
+Rules;Rules
+Ruleset;slotu
+Run;Run
+RunAppX;RunAppX
+Running;Running
+Runtime;Runtime
+Russia;Rusiya
+Russian Federation;Russian Federation
+Russian;Rusca
+Russian;Rusça
+Rwanda;Ruanda
+S &apos;S &apos
+S Object;S Object
+S Provider;S Provider
+S S Image;S S Image
+S S Object;S S Object
+S S;S S
+S pixels;S pixels
+S resource;S resource
+S visitors;S visitors
+S ×;S ×
+S&apos;
+S/S;S/S
+S;S
+SASL bind;SASL bind
+SASL;SASL
+SD;SD
+SDP;SDP
+SE;CŞərqi
+SECG elliptic curve sectr;SECG elliptic curve sectr
+SECG;SECG
+SECURITY;SECURITY
+SEE THIS STRING;SEE THIS STRING
+SEE THIS;SEE THIS
+SEE;SEE
+SETTINGS;SETTINGS
+SFailed to;SFailed to
+SFailed;SFailed
+SHA Digest;SHA Digest
+SHA Fingerprint;SHA Fingerprint
+SHA;SHA
+SHOULD;SHOULD
+SHOW;SHOW
+SIL Compact;SIL Compact
+SIL;SIL
+SIM;SIM
+SIZE;SIZE
+SKB;SKB
+SMB of;SMB of
+SMB;SMB
+SMTP &apos;SMTP &apos
+SMTP&apos;SMTP&apos
+SMTP;SMTP
+SMTPAUTH;SMTPAUTH
+SOCKS Host;SOCKS serveri
+SOCKS v;SOCKS v
+SOCKS;SOCKS
+SOccurs;SOccurs
+SPDY;SPDY
+SPONSORED;SPONSORLAŞDIRILIB
+SQL Statements;SQL Statements
+SQL;SQL
+SQLite;SQLite
+SRV;SRV
+SS;SS
+SSL Proxy;SSL Proxy
+SSL received;SSL received
+SSL/TLS;SSL/TLS
+SSL;SSL
+SSLv;SSLv
+SSS;SSS
+SSSS;SSSS
+ST;ST
+STARTTLS if;STARTTLS if
+STARTTLS since;STARTTLS since
+STARTTLS;STARTTLS
+STAT command;STAT command
+STAT;STAT
+STRING;STRING
+STouch;toxununS
+SUGGESTED;TÖVSİYƏ EDİLƏN
+SVG clipping;SVG clipping
+SVG;SVG
+SW Asian;SW Asian
+SW;CQərbi
+SWITCH;DƏYİŞDİR
+SYSTEM;SYSTEM
+S_files;S_files
+Sa;Şə
+Saba;Saba
+Sad;Sad
+Safari;Safari
+Safe Mode;Safe Mode
+Safe;söndürməyiniz
+SafeBrowsing;SafeBrowsing
+SafeMode;SafeMode
+Sahara;Sahara
+Saint Barthelemy;Saint Barthelemy
+Saint Helena;Saint Helena
+Saint Kitts and Nevis;Saint Kitts and Nevis
+Saint Kitts;Saint Kitts
+Saint Lucia;Saint Lucia
+Saint Martin;Saint Martin
+Saint Pierre and Miquelon;Saint Pierre and Miquelon
+Saint Pierre;Saint Pierre
+Saint Vincent and the Grenadines;Saint Vincent and the Grenadines
+Saint Vincent;Saint Vincent
+Saint;Müqəddəs
+Salaam;Salaam
+Salem;Salem
+Salvador;Salvador
+Same;Same
+Sami;Sami
+Samoa;Samoa
+Samoan;Samoan
+Sampled;Sampled
+Samples;Nümunələr
+San Marino;San Marino
+San;San
+Sandbox;Qum qutusu
+Sandboxing;Sandboxu
+Sandwich;Sendviç
+Sango;Sanqo
+Sangro;Sangro
+Sanitize;Sanitize
+Sanitizing;Sanitizing
+Sans Serif;Sans Serif
+Sans;Sans
+Sanskrit;Sanskrit
+Sansserif;Sansserif
+Santa;Santa
+Santo;Santo
+Sao Tome and;Sao Tome and
+Sao Tome;SanTome
+Sao;Sao
+Sardinian;Sardiniya
+Sass;Sass
+Sat;Şən
+Saturday;Şənbə
+Saudi Arabia;Saudi Arabia
+Saudi;Səudiyyə
+Save Permissions;Save Permissions
+Save;Dəyişiklikləri saxla
+Save;Saxla
+Save;Yadda saxla
+Saved;Edilmədi
+Save…;Saxla…
+Saving;Saving
+Saving…;Saving…
+Saving…;Saxlanılır…
+Saw;Saw
+Scalars;Skalyarlar
+Scale …;Scale …
+Scale;Miqyas
+Scale;Ölçü
+Scaled;Scaled
+Scaling;Scaling
+Scam Warning Take;Scam Warning Take
+Scam;Scam
+Scams;Scams
+Scan;Nəzərdən keçir
+Scanner app;Scanner app
+Scanner;Scanner
+Scanning for;Scanning for
+Scanning;tətqiq
+Scheduling;Scheduling
+Scheme;Scheme
+Scope;Əhatə
+Score Origin;Score Origin
+Score;Score
+Scots;Scots
+Scottish Gaelic;Scottish Gaelic
+Scottish;Şotland
+Scratchpad Enter some;Scratchpad Enter some
+Scratchpad;Qaralama Dəftəri
+Screen Orientation;Screen Orientation
+Screen reader;Screen reader
+Screen;paylaşılırEkran
+Screenname;Screenname
+Screenshot;Ekran görüntüsü
+Screenshots;Ekran Görüntüləri
+Script;Script
+Scripts;Scripts
+Scroll;Scroll
+ScrollLinkedEffects;ScrollLinkedEffects
+Scrolling;Scrolling
+Sd;Sgü
+Sdays;Sdays
+Sea;Sea
+SeaMonkey;SeaMonkey
+SeanMartell Available;SeanMartell Available
+SeanMartell;SeanMartell
+Search BarName;Search BarName
+Search Engine;Search Engine
+Search Engines;Search Engines
+Search;Axtar
+Search;Axtarış
+Searches;Searches
+Searching &apos;Searching &apos
+Searching;Searching
+Searching…;Axtarılır…
+Search…;Axtar…
+Seccomp Thread Synchronization;Seccomp Thread Synchronization
+Seccomp Thread;Seccomp Thread
+Seccomp;Seccomp
+SeccompBPF System;SeccompBPF System
+SeccompBPF;SeccompBPF
+Second;Second
+Secondary Email;Secondary Email
+Secondary;Secondary
+Seconds;Seconds
+Sections;Sections
+Secure;Secure
+Securing connection;Securing connection
+Securing;təhlükəsizləşdirilir
+Security Exception;Security Exception
+Security;Təhlükəsizlik
+See;Bu raportun yaradılması üçün olan xəbərdarlıq üçün
+Select;Select
+Selected Frame;Selected Frame
+Selected Tabs;Selected Tabs
+Selected;Seçildi
+SelectedRemove Selected;SelectedRemove Selected
+SelectedRemove;SelectedRemove
+Selecting;Selecting
+Selection;Selection
+Selector;Selector
+Selectors;Selectors
+Select…;Select…
+Self Cost;Self Cost
+Self Sampled;Self Sampled
+Self Time;Self Time
+Self;Self
+Selfclosing syntax;Selfclosing syntax
+Selfclosing;Selfclosing
+Selfposting;Selfposting
+Send Verification;Send Verification
+Send a;Send a
+Send;Göndər
+Sender;Sender
+Sending;Göndərilir
+Sends a;Sends a
+Sends;Ləqəbə
+Senegal;Seneqal
+Sensor;Sensor
+Sent &quot;Sent &quot
+Sent;Göndərildi
+Sep;Sen
+Separate _;Separate _
+Separate tags;Separate tags
+Separate;Separate
+Separated;Separated
+Separator;Mötərizə
+Separators;Ayırıcılar
+Sepia;Sepiya
+September;Sentyabr
+Serbia;Serbiya
+Serbian;Serbcə
+Serial Number;Serial Number
+Serial;Serial
+Serialize;Serialize
+Serif;Serif
+Server Gated Crypto;Server Gated Crypto
+Server Gated;Server Gated
+Server SMTP&apos;Server SMTP&apos
+Server Settings;Server Settings
+Server settings&apos;Server settings&apos
+Server;Server
+Servers;Serverlər
+Service;Xidmət
+ServiceWorker;ServiceWorker
+ServiceWorkerAllowed;ServiceWorkerAllowed
+Services;Servislər
+Services;Xidmətlər
+Session;Seansı
+Sessions;Sessions
+Set Up Sync &quot;Set Up Sync &quot
+Set this channel &apos;Set this channel &apos
+Set;Qur
+Set;Təyin et
+Setting;Setting
+Settings &#124;Settings &#124
+Settings;Seçimlər
+Settings;Tənzimləmələr
+SettingsA;SettingsA
+Settings…;Nizamlar…
+Setup;nizamı
+Seven;Seven
+Severy;Severy
+Seychelles;Seyşel
+Sh;Ssa
+Shader;Shader
+Shading;Shading
+Shallow;Shallow
+Share;Paylaş
+Shared;Paylaşılan
+Sharing Indicator;Sharing Indicator
+Sharing;paylaşımı
+Sheet;Sheet
+Shift _ JIS;Shift _ JIS
+Shift _;Shift _
+Shift;Shift
+ShiftCtrlSpace;ShiftCtrlSpace
+ShiftRETURN Open in;ShiftRETURN Open in
+ShiftRETURN Open;ShiftRETURN Open
+ShiftRETURN;ShiftRETURN
+ShiftTab;ShiftTab
+Shona;Şona
+Shopping;Bazarlıq
+Short;Short
+Shortcut;Shortcut
+Shortcuts;Yol
+Shot;Shot
+Should;Should
+Show/Hide;Show/Hide
+Show;Göstər
+Showing;Showing
+Shrink To Fit;Shrink To Fit
+Shrink;Shrink
+Shutdown;Shutdown
+Shutting Down;Shutting Down
+Shutting;Shutting
+SiInEfate;SiInEfate
+Siblings;Siblings
+Sichuan Yi;Sichuan Yi
+Sichuan;Siçuan
+Sidebar;Kənar sətir
+Sidebars;Yan panellər
+Sierra Leone;Sierra Leone
+Sierra;Siera
+Sign;Sign
+Signature;İmzası
+Signed;Signed
+Signer;İmzalayıcı
+Signing;İmzalama
+Signon;Signon
+Silence;Silence
+Silent;Silent
+Silverlight fallback;Silverlight fallback
+Silverlight;oynatmağa
+Simple;Simple
+Simplified;Sadələşdirlimiş
+Simplify;Asanlaşdır
+Simply;Simply
+Simulate touch;Simulate touch
+Simulate;Simulate
+Simulation;Simulation
+Simulator;Simulator
+Simulators;Simulators
+Since;Since
+Sindhi;Sindhi
+Singapore;Sinqapur
+Singhalese;Sinqalca
+Sinhala;Seylonca
+Sint;Sint
+Siswati;Sisvati
+Site;Sayt
+Sites;Saytlar
+Size;Həcm
+Size;Həcmi
+Size;Ölçü
+Skipping;Faylla
+Slovak;Slovak
+Slovakia;Slovakiya
+Slovenia;Sloveniya
+Slovenian;Sloveniya
+Sm;Sdq
+Small;Kiçik
+Smart;Ağıllı
+Sms;Sms
+So;iyrəndi
+Sockets;Soketlər
+Solomon;Solomon
+Solon /;wwwmozillazorg /
+Solon;Qrupu
+Somali;Somali
+Somalia;Somali
+Some;məhdudlaşdırılmasına
+Songhay;Sonqay
+Sorbian;Sorbiyan
+Sort;Sırala
+Sotho;Soto
+Source;qaynağını
+Sources;mənbələri
+South;Güney
+Southern;Cənubi
+Space;Boşluq
+Space;Space
+Spain;İspaniya
+Spanish;İspanca
+Spec;Özəllikləri
+Specified;Göstərilən
+Speculative;Parsing
+Speed;Sürət
+Spelling;Yoxlaması
+Spotlight;Spotlight
+Spratly;Spratly
+Spx;px
+Sri;Şri
+Ss;S san
+Ss;Ssn
+Stack;Stack
+Stamping;Möhürləməsi
+Standard;Standart
+Start;Başla
+Start;Başlanğıc
+Start;Başlat
+Started;addım
+Starting…;Başlayır…
+Startup;Başlanğıç
+State;Statusu
+State;Vəziyyət
+Statement;Statement
+Statements;Statements
+Statistics;Statistikanı
+Stats;Statistikaları
+Status;Durum
+Status;Vəziyyət
+Stay;Qal
+Stop;Dayan
+Stop;Dayandır
+Storage;Saxlananları
+Stray;sahibsiz
+Stretch;Genişləndir
+Strict;Strict
+StrictTransportSecurity;StrictTransportSecurity
+String;Sətir
+Strip;Zolağı
+Structured;Strukturlu
+Studies;Çatan
+Study;Araşdırması
+Style;Stili
+Stylesheet;rekursivə
+Su;Ba
+SubCommands;Alt əmrlər
+Subject;Mövzu
+Subject;Obyekt
+Submission;Göndərilməsi
+Submit;Gönder
+Submitted;Göndərilib
+Subordination;Tabelik
+Subscribe;Abune ol
+Subscribe;Abunə ol
+Subsys;Subsys
+Success;Başarılı
+Success;Uğurlu
+Sudan;Sudan
+Suffixes;Son Əlavə
+Suggestions;Təkliflər
+Summary;İcmal
+Sun;Baz
+Sundanese;Sundanca
+Sunday;Bazar
+Superseded;Yerinə keçmə
+Supplement;Vista
+Support;Dəstək
+Supported;dəstəklənən
+Suriname;Surinam
+Surname;Soyadı
+Survey;Araşdırmasına
+Suspected;saxtakarlıq
+Svalbard;Svalbard
+Swahili;Suahili
+Swaziland;Svaziland
+Sweden;İsveç
+Swedish;İsveç
+Switch;Değiştir
+Switch;Keçirt
+Switzerland;İsveçrə
+Sync;Eşitle
+Sync;Sync
+Syncing…;Sinxronlaşır…
+Synopsis;Xülasə
+Syria;Siriya
+Systems;Systems
+S×S;S×S
+TCP;TCP
+TCVN;TCVN
+TIS;TIS
+TLS;TLS
+Tab;Vərəq
+Tables;Cədvəllər
+Tablets;Tabletlər
+Tabs;Vərəqlər
+Tag;Etiket
+Tagalog;Taqaloq
+Tags;Etiketlər
+Tahitian;Taityanca
+Taiwan;Tayvan
+Tajik;Tacik
+Tajikistan;Tacikistan
+Tamil;Tamil dili
+Tamil;Tamilcə
+Tanzania;Tanzanya
+Tap;toxunun
+Tatar;Tatarca
+Team;Komandasına
+Tech;Tech
+Telemetry;Telemetriya
+Telugu;Teluqu
+Telugu;Teluqu dili
+Template;Şablon
+Temporary;Keçici
+Territory;Ərazisi
+Test;Test
+Text;Metin
+Text;Mətn
+Th;Ca
+Thai;Tay
+Thai;Tay dili
+Thailand;Tayland
+Thanks;Teşekkürler
+Thanks;Təşəkkürlər
+That;təzyiq
+The;Əməliyyata
+Theme;Örtük
+Themes;Mövzular
+These;vendorShortNamenın
+This;inkişafına
+Thread;Thread
+Threads;Threads
+Thu;Cax
+Thumbnail;Eskiz
+Thumbnails;Kiçik şəkillər
+Thunderbird;Thunderbird
+Thursday;Caxşamı
+Tibetan;Tibet
+Tibetan;Tibet Dili
+Ticket;İstəyi
+Tigre;Tiqre
+Tigrinya;Tiqrinia
+Tile;Döşe
+Time;Vaxt
+Timeline;Vaxt Şkalası
+Timestamp;Vaxt Möhürü
+Timings;Zamanlamalar
+TimorLeste;Şərqi Timor
+Tiny;Bambalaca
+Title;Başlık
+To;Bitiş tarixi
+To;Kimə
+Toasters;maşınlar
+Today;Bugün
+Toggle;Aç/Qapa
+Toggle;Aç/Qapat
+Toggle;Çevir
+Togo;Toqo
+Tokelau;Tokelau
+Token;İşarə
+Tonga;Tonqa
+Tool;məqaləsinə
+Toolbar;Sətiri
+Toolbars;Alət Sətirləri
+Toolbars;Alət sətirləri
+Tools;Alətlər
+Top;Yuxarıdan
+Total;Cəmi
+Touch;Toxunuş
+Tour;Tur
+Tracking;İzleme
+Tracking;İzləmə
+Traditional;Ənənəvi
+Transferred;Ötürüldü
+Transition;keçişi
+Translate;Tərcümə et
+Translation;Tərcümə
+Translations by;Tərcüməçilər
+Translators;Çevirmenler
+Transport;nəticəsi
+Trinidad;Trinidad
+Tristan;Tristan
+Tromelin;Tromelin
+Troubleshooting;Problem həlli
+Trust;Güvəniliri
+Try;qazandıran
+Tsonga;Tsonqa
+Tswana;Tsvana
+Tu;Ça
+Tue;Çax
+Tuesday;Çaxşamı
+Tunisia;Tunis
+Turkey;Türkiyə
+Turkish;Türkcə
+Turkmen;Türkməncə
+Turkmenistan;Türkmənistan
+Turks;Törks
+Turn;Bütün
+Tutorials;Öyrədicilər
+Tuvalu;Tuvalu
+Twi;Tvi
+Twitter;Twitter
+Two;iki
+Type;Format
+Types;Types
+UA detection;aşkarlanması
+UID;UID
+UNDO;GERİ AL
+UNSUPPORTED;UNSUPPORTED
+URI;URI
+URIs;URIs
+URL;Ünvan
+US;AZ
+USA;ştatı
+USB;USB
+UTFLE;Kiçik
+UTFencoded;Latın
+Uganda;Uqanda
+Uighur;Uyğur
+Ukraine;Ukrayna
+Ukrainian;Ukrayna
+Ukrainian;Ukrayna dili
+Unavailable;Uyğun deyil
+Uncheck;Yoxlama
+Underline;xətlə
+Undo;Geri al
+Undo;Ləğv et
+Undo;Qaytar
+Unescaped;olmamış
+Unicode;Unicode
+Unified;yazısı
+Uninitialized;Başladılmayıb
+Uninstall;Sil
+Uninstalling;Proqram Silinir
+Unique;Unikal
+Unit;Korporativ
+United;Birləşmiş
+Universal;Qlobal
+Unknown;Bilinmir
+Unknown;Bilinməyən
+Unknown;Naməlum
+Unknown;Naməlumdur
+Unknown;naməlumdur
+Unless;Unless
+Unlink;Bağlantını kəs
+Unload;Boşalt
+Unlocked;Açıqdır
+Unmute;Sesi aç
+Unmute;Səsi aç
+Unpin;çıxart
+Unread;Oxunmamış
+Unregister;Qeydiyyatsız
+Unregistering;qeyd silinir
+Unsigned;İmzasız
+Unsorted;Siniflənməmiş
+Unsupported;dəstəklənmir
+Unterminated;Sonlandırılmamış
+Unused;İstifadə olunmayan
+Unverified;Təsdiqlənməmiş
+Unvisited;Baxılmamış
+Up;Yukarı
+Update;Yenilə
+Update;Yeniləmə
+Updated;yenilənmə
+Update…;Yenilə…
+Upgrade;Yüksəlt
+Upload;Yüklə
+Uploading…;Yüklənir…
+Urdu;Urdu
+Uruguay;Urugvay
+Usage;İstifadəsi
+Use;Use
+User;İstifadəçi
+UserAgent;İstifadəçiVəkli
+Username;Kullanıcı ismi
+Username;İstifadəçi adı
+Using;yanılş
+Uzbek;Özbəkcə
+Uzbekistan;Özbekistan
+VERSION;VERSION
+VISCII;VISCII
+VK_F;VK_F
+VPS;VPS
+Valid;Etibarlıdır
+Validation;təsdiqləmə
+Validity;Etibarlılıq
+Value;Dəyər
+Value;Kəmiyyət
+Values;Dəyərlər
+Vanuatu;Vanuatu
+Variables;Dəyişənlər
+Vatican City;Vatikan
+Venda;Venda
+Venezuela;Venesuela
+Verify;Verify
+Verifying;Təsdiqlənir
+Verifying…;Təsdiqlənir…
+Verisign;Verisign
+Version;Buraxılış
+Video;Video
+Vietnam;Vyetnam
+Vietnamese;Vyetnamca
+View;Görünüş
+View;Göstər
+Viewer;Viewer
+Viewport;Viewport
+Views;Görünüş
+View…;Bax…
+View…;Gör…
+Vincent;Vincent
+Virgin;Virgin
+Visit;Ziyarət et
+Vista;Vistadan
+Visual;Vizual
+Voice;Səs
+Volapük;Volapük
+Volume;Səs
+WARNING;XƏBƏRDARLIQ
+WHOIS;WHOIS
+WS;WS
+Wait;Gözlə
+Waiting;Gözlənilir
+Waiting…;Gözlənilir…
+Wake;Wake
+Wallis;Wallis
+Walloon;Valun
+Want;qurmusunuz
+Warn;bağlamağ
+Warning;Uyarı
+Warning;Xəbərdarlıq
+Warnings;Uyarılar
+Warnings;Xəbərdarlıqlar
+Watch;İzlə
+We;Çə
+WeakMap;WeakMap
+Web Forgery;şübhəsi
+Web;Veb
+WebBased;Əsaslı
+WebGL;WebGL
+WebIDE;WebIDE
+WebIDL;WebIDL
+WebRTC;WebRTC
+WebSockets;WebSoketlər
+Webmaker;Webmaker
+Website;Web sayt
+Wed;Çər
+Wednesday;Çərşəmbə
+Week;Həftə
+Welcome;Xoş Gəldiniz
+Welsh;Uels
+West;İordan
+Western Sahara;Qərbi Sahara
+Western;Qərb Dilləri
+Western;Qərb dilləri
+While;Hazırda
+WiFi;WiFi
+Width;width
+Win;Win
+Window;Pəncərə
+Windowopen;Windowopen
+Windows;Yanlız
+With RSA;RSA
+Wizard;sehirbazına
+Wolof;Volof
+Work;İş
+Workarounds;Həllər
+Workers;Workerlar
+Would;işarələnməyib
+Wrap;Başdan başla
+Writeenable;götürüb
+Writes;Yazılar
+Writing;Yazma
+X;X
+XContentTypeOptions header;XContentTypeOptions başlığından
+XContentTypeOptions;XContentTypeOptions
+XHR;XHR
+XHTML;XHTML
+XML;XML
+XMLHttpRequest;XMLHttpRequest
+XP;XPdə
+XPCOM;XPCOM
+XPConnect;XPConnect
+XPath;XPath
+XSLT;XSLT
+XUL;XUL
+Xhosa;Kosa
+Yahoo;Yandex
+Yemen;Yəmən
+Yes;Bəli
+Yes;Hə
+Yesterday;Dün
+Yesterday;Dünən
+Yi;Yi
+Yiddish;Yidiş
+Yoruba;Yoruba
+You;Mənə
+You;Siz
+YouTube;YouTube
+Your;Məkanınızı
+Z;Zdən
+Zambia;Zambiya
+Zealand;Zellandiya
+Zhuang;Zuanq
+Zimbabwe;Zimbabve
+Zone;Bölgəsi
+Zoom;Böyüt
+Zoom;Yaxınlaşdırma
+Zulu;Zulu
+a powerful;a powerful
+a premium;a premium
+a processor;a processor
+a promise;a promise
+a protocol;a protocol
+a recursion;a recursion
+a reimPacifined;a reimPacifined
+a requestAnimationFrame;a requestAnimationFrame
+a rich;a rich
+a scam;a scam
+a searchable;a searchable
+a second;a second
+a shorter;a shorter
+a single;a single
+a smart;a smart
+a smartcard;a smartcard
+a smiley face;a smiley face
+a smiley;a smiley
+a solution;a solution
+a sound;a sound
+a specific;a specific
+a star;a star
+a stronger;a stronger
+a subgrid;a subgrid
+a suggestion;a suggestion
+a surprised;a surprised
+a surrogate;a surrogate
+a syncBrandfxAccountlabel;a syncBrandfxAccountlabel
+a temporary;a temporary
+a theme;a theme
+a themed look;a themed look
+a tongueout;a tongueout
+a tray;a tray
+a unique;a unique
+a user &apos;a user &apos
+a value;a value
+a violation;a violation
+a virus;a virus
+a waterfall;a waterfall
+a weak ephemeral DiffieHellman;a weak ephemeral DiffieHellman
+a weather;a weather
+a week;a week
+a windowed;a windowed
+a wink;a wink
+a year;a year
+a yelling;a yelling
+a;xətasına
+aChoose;zövqünüzə
+aFrames;aFrames
+aKnow;aKnow
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abhorred;hevan
+abilities;abilities
+able;able
+abort;abort
+aborted;aborted
+about About;about About
+about Networking;about Networking
+about Us;about Us
+about brandShorterName;about brandShorterName
+about;Haqqında
+aboutconfig;aboutconfig
+aboutcredits;aboutcredits
+aboutrights;aboutrights
+aboutwebrtc;aboutwebrtc
+above;tiplərini
+aboveAllow;aboveAllow
+abruptly;abruptly
+absence;absence
+absolute positioning;absolute positioning
+absolute;absolute
+accel;accel
+accelalt;accelalt
+acceleration on;acceleration on
+acceleration;acceleration
+accelshift;accelshift
+accented;accented
+accept;accept
+acceptable;acceptable
+acceptcharsetutf;acceptcharsetutf
+accepted;edilmedi
+accepting site &apos;accepting site &apos
+accepting;çərəzlərin
+access Key;access Key
+access multimedia;access multimedia
+access;işlədilməsinə
+accessed;accessed
+accessibility support;accessibility support
+accessibility tools;accessibility tools
+accessibility;Mümkünlük
+accessible;accessible
+accessing;accessing
+accidental breakage;accidental breakage
+accidental;zədələnməsinin
+accompanying;accompanying
+accomplished;accomplished
+accordance;accordance
+according;according
+account &apos;account &apos
+account Actions;account Actions
+account connected;account connected
+account name;account name
+account;account
+accountManagernewAccountlabel;accountManagernewAccountlabel
+accounts;accounts
+accuracy;vermirik
+accurate;əksiksiz
+acknowledges;acknowledges
+across;across
+act;akt
+action;əmliyyatı
+actions;actions
+activate;activate
+activated;aktivləşdirilib
+active Logins;active Logins
+active;active
+activity Indicator;activity Indicator
+activity Stream;activity Stream
+activity;aktivliyinizi
+actual Size;actual Size
+actual;actual
+actualDate &apos;actualDate &apos
+actualDate;actualDate
+actuarial;akturial
+adaptive;adaptive
+add Exception;add Exception
+add Hosted;add Hosted
+add Microsummary;add Microsummary
+add Option;add Option
+add Packaged;add Packaged
+add Search;add Search
+add permanent;add permanent
+add;add
+addEventListener method;addEventListener method
+addEventListener;addEventListener
+added;added
+adding;bazaya
+additional;additional
+additivesymbols descriptor;additivesymbols descriptor
+additivesymbols;additivesymbols
+addon &apos;addon &apos
+addon;əlavənin
+addons gallery;addons gallery
+addons;əlavələrdə
+addonsmozillaorg;addonsmozillaorg
+address Autocompletion;address Autocompletion
+address Fields;address Fields
+address isn &apos;address isn &apos
+address wasn;address wasn
+address;ünvanda
+addressbook;addressbook
+addressbr;addressbr
+addresses;ünvanlar
+addressing area;addressing area
+addressing;addressing
+adjacent;adjacent
+adjust;adjust
+admin;admin
+administrator;məsləhətləşin
+adult supervision;Yetişkin nəzarəti
+adult;adult
+advance;advance
+advanced JavaScript;advanced JavaScript
+advanced;təkmilləşmiş
+advanced_pref_installation;advanced_pref_installation
+advancelabel;advancelabel
+advertise;advertise
+advertised;advertised
+advertises;ALPN
+affect;affect
+affected;affected
+affecting;affecting
+after Sending;after Sending
+after;after
+again;dene
+age;age
+agent;vəkli
+aggregate;aggregate
+aggregates;aggregates
+aggregating;aggregating
+aggregator;aggregator
+ago;əvvəl
+agree;agree
+agreement;Müqavilədəki
+airplane;airplane
+aka NIST;aka NIST
+aka;NIST
+alatest;ayeni
+alert description;alert description
+alert;xəbərdarlıq
+algorithb;algorithb
+algorithm Parameters;algorithm Parameters
+algorithm;alqoritmi
+algorithmhash value;algorithmhash value
+algorithmhash;algorithmhash
+algorithms;algorithms
+alignment;alignment
+alined;alined
+alive;alive
+all candidate;all candidate
+all current;all current
+all htmlstrongTabs;all htmlstrongTabs
+all occurrences;all occurrences
+all;bütün
+allocate;allocate
+allocated;allocated
+allocation;allocation
+allocations Rate;allocations Rate
+allocations;allocations
+allow dialogs;allow dialogs
+allow immediate;allow immediate
+allow;bilsin
+allowed;verilməmişdir
+allowfullscreen;allowfullscreen
+allowing;allowing
+allows;bilmələri
+allowsameorigin;allowsameorigin
+allowscripts;allowscripts
+almost;almost
+along the Y;along the Y
+along;along
+alphabetical;alphabetical
+already bookmarked;already bookmarked
+already;already
+also gives;also gives
+also skip;also skip
+also;also
+altKeylabel;altKeylabel
+alter;alter
+alteration;alteration
+altered;altered
+alternate;axtara
+alternatives;alternatives
+always Ask;always Ask
+always Block;always Block
+always prefer;always prefer
+always;həmişə
+am &#124;am &#124
+am;am
+amount;amount
+amp Security;amp Security
+amp;ehtimalki
+ampD;ampD
+ampP;ampP
+ampPT;ampPT
+ampT;ampT
+ampU;ampU
+amplecom rather;amplecom rather
+an IndexedDB transaction;an IndexedDB transaction
+an OPML;an OPML
+an XSLT;an XSLT
+an acceptable;an acceptable
+an alert;an alert
+an animatable;an animatable
+an attachment;an attachment
+an attempt;an attempt
+an element;an element
+an email;an email
+an embarrassed;an embarrassed
+an entirely;an entirely
+an executable;an executable
+an experiment;an experiment
+an external;an external
+an innocent;an innocent
+an instance;an instance
+an instant;an instant
+an integrated;an integrated
+an interprocess;an interprocess
+an item;an item
+an opaque;an opaque
+an opaqueredirect;an opaqueredirect
+an opportunity;an opportunity
+an overview;an overview
+an unbalanced;an unbalanced
+an undecided;an undecided
+an unrecognizable;an unrecognizable
+an;komponent
+analysis;analizi
+analyze;analyze
+ancestor elements;ancestor elements
+ancestor;ancestor
+ancestors;ancestors
+anchor &apos;anchor &apos
+anchor;anchor
+anchors;anchors
+and Antarctic;and Antarctic
+and Authentication;and Authentication
+and Barbuda;and Barbuda
+and Bottom;and Bottom
+and Caicos;and Caicos
+and Drop;and Drop
+and Find;and Find
+and Footer;and Footer
+and Futuna;and Futuna
+and Herzegovina;and Herzegovina
+and Indexer;and Indexer
+and Jan;and Jan
+and McDonald;and McDonald
+and Miquelon;and Miquelon
+and Nevis;and Nevis
+and Principe;and Principe
+and Quit;and Quit
+and Spacing;and Spacing
+and Symbols;and Symbols
+and Templates;and Templates
+and Tobago;Tobago
+and Tutorials;and Tutorials
+and can &apos;and can &apos
+and compact;and compact
+and don &apos;and don &apos
+and everything;and everything
+and forced;and forced
+and grew;and grew
+and htmlstrongWindows;and htmlstrongWindows
+and light;and light
+and pages they &apos;and pages they &apos
+and prioritize;and prioritize
+and receiving;and receiving
+and rowand;and rowand
+and technologies;and technologies
+and treating;and treating
+and you shouldn &apos;and you shouldn &apos
+and;vacibdir
+angle;bucağı
+animatable;animatable
+animated;hərəkətli
+animation cycle;animation cycle
+animation;animasiya
+animations;animasiyalar
+annually;annually
+anonymous box;anonymous box
+anonymous;anonim
+another;another
+answers;düymədən
+antivirus software;antivirus software
+antivirus;antivirus
+any applicable;any applicable
+any arguments;any arguments
+any article;any article
+any automation;any automation
+any indirect;any indirect
+any matching;any matching
+any;yetirilmiş
+anymore;anymore
+anyone;anyone
+anypolicy;anypolicy
+anything;anything
+anyway;tut
+anywhere;anywhere
+apart;birindən
+app &apos;app &apos
+app submission;app submission
+app;tətbiqetməni
+appName;appName
+appear;ağacı
+appearance wrong;appearance wrong
+appearance;appearance
+appears;sürüşdürməəlaqələndirilmiş
+append;append
+applicable service;applicable service
+applicable;applicable
+application Basics;application Basics
+application Details;application Details
+application doesn &apos;application doesn &apos
+application;tətbiqetmə
+applications;proqramlardan
+applied;applied
+applies;applies
+apply;apply
+applying update;applying update
+applying;applying
+appoffline;appoffline
+appreciate;appreciate
+approach;approach
+appropriate intermediate;appropriate intermediate
+appropriate;appropriate
+approved;approved
+approx;approx
+approximate line;approximate line
+approximate;təxmini
+approximation;approximation
+apps &apos;apps &apos
+apps;apps
+apr &#124;apr &#124
+apr;apr
+april;april
+arbitrary;arbitrary
+archive;archive
+archived folders;archived folders
+archived;archived
+archives;archives
+archiving;archiving
+are compromised;are compromised
+are correct;are correct
+are doing;are doing
+are estimates;are estimates
+are governed;are governed
+are grouped;are grouped
+are inlined;sətiriçidir
+are labeled;are labeled
+are nonASCII;are nonASCII
+are omitted;are omitted
+are publicly;are publicly
+are ready;are ready
+are trademarks;are trademarks
+are you sure;are you sure
+are;yayımlanmaqdadır
+area shape;area shape
+area;area
+areas in;areas in
+areas;areas
+aren &apos;aren &apos
+aren;aren
+argument;arqumenti
+arguments for;arguments for
+arguments;dəyişənlər
+arising out;arising out
+arising;deyillər
+arjo;arjo
+armscii ISO ISO ISO;armscii ISO ISO ISO
+armscii;armscii
+around;around
+arrive;arrive
+arrived;arrived
+arrives;arrives
+arrow;ox
+arsa;arsa
+article summary;article summary
+article;məqalə
+articles;articles
+artwork;artwork
+as &apos;as &apos
+as Authored;as Authored
+as broken;as broken
+as cURL;as cURL
+as certified;as certified
+as differing;as differing
+as graphics;as graphics
+as phishing;as phishing
+as soon as;as soon as
+as spam;as spam
+as strongww;as strongww
+as;çıxdıqda
+ascending;ascending
+ascii;ascii
+ash;ash
+asis &quot;asis &quot
+asis;olduqları
+ask me;ask me
+ask;soruş
+asked questions tips;asked questions tips
+asked;qoşulmasını
+asking;asking
+asks that;asks that
+asks;asks
+aspect ratio;aspect ratio
+aspect;aspect
+aspects;aspects
+assets;assets
+assist you;assist you
+assist;assist
+assistance;assistance
+associated;associated
+association;association
+assume;assume
+assured;insanlar
+asterisk;asterisk
+async touch;async touch
+async;seçimdən
+asynchronous Pan;asynchronous Pan
+asynchronous entity;asynchronous entity
+asynchronous;asynchronous
+asynchronouslyloaded;asynchronouslyloaded
+at S;at S
+at least;at least
+at span id &apos;at span id &apos
+at;qapata
+atchMore than;atchMore than
+atrule;veya
+attach;attach
+attached;attached
+attaching;attaching
+attachment Reminder Keywords;attachment Reminder Keywords
+attachment Reminder;attachment Reminder
+attachment attachments;attachment attachments
+attachment reminder words;attachment reminder words
+attachment;attachment
+attachmentDo;attachmentDo
+attachments;attachments
+attack An;attack An
+attack pages;attack pages
+attack;hücum
+attacker could;attacker could
+attacker;qorumasızdır
+attackers;attackers
+attacks;attacks
+attempt;attempt
+attempted old;attempted old
+attempted;attempted
+attempting;attempting
+attempts;tanıdmağa
+attend;attend
+attendance;attendance
+attendee;attendee
+attendees;attendees
+attention;verməli
+attribute Type;attribute Type
+attribute;öznitelik
+attributes &apos; textContent attribute
+attributes;attributes
+audio Backend;audio Backend
+audio;səsi
+aug &#124;aug &#124
+aug;aug
+august;august
+authenticate to;authenticate to
+authenticate;işarəyə
+authenticates;səssizcə
+authentication mechanism;authentication mechanism
+authentication;authentication
+authenticity;təsdiqlənəmədi
+author;author
+authorities;səlahiyyətlilərini
+authority is;authority is
+authority;yerləşdirilə
+authorization;authorization
+authorized;authorized
+authors whom;authors whom
+authors;müəllifləri
+auto Increment;auto Increment
+auto Prettify;auto Prettify
+auto Save;auto Save
+auto discover;auto discover
+auto;auto
+autoAddOnsUpdateslabel;autoAddOnsUpdateslabel
+autocomplete;autocomplete
+autocompletion;autocompletion
+autodetection;autodetection
+autofill;avtodoldurma
+automated updates;automated updates
+automated;idxalı
+automatic updates;automatic updates
+automatic;automatic
+automatically Black;automatically Black
+automatically detects;automatically detects
+automatically prefill;automatically prefill
+automatically so it &apos;automatically so it &apos
+automatically;budusa
+automation;automation
+autoplay;oxutmağa
+autoscrolling;avtomatik sürüşdürmədən
+available &quot;available &quot
+available Commands;available Commands
+available;uyğun
+average;average
+avg;avg
+avoid;avoid
+aware;aware
+away;uzaq
+axis;axis
+b;b
+bEven;bEven
+bS;bS
+back facing;back facing
+back;qayıdacaqsınız
+backed up;backed up
+backed;backed
+backfacevisibility hidden;backfacevisibility hidden
+backfacevisibility;backfacevisibility
+background;şifrələnərək
+backlogged;backlogged
+backslashes;backslashes
+backup;qoymalısınız
+backups;backups
+backwards;backwards
+bad parameter;bad parameter
+bad;olmuş
+badge;badge
+baggage object;Baqaj obyekti
+baggage;Baqaj
+ban;ban
+banks stores;banks stores
+banks;banks
+banned;banned
+banner;banner
+bar;sətrində
+barada;barada
+base;baza
+base;zəmin
+based;based
+baseline;baseline
+basic Page;basic Page
+basic;basic
+battery;battery
+be applied;be applied
+be aware;be aware
+be cleared;be cleared
+be deceptive;be deceptive
+be delivered;be delivered
+be experiencing;be experiencing
+be fixed;be fixed
+be highlighted &apos;be highlighted &apos
+be liable;be liable
+be linked;be linked
+be overwritten;be overwritten
+be parsed;be parsed
+be prompted;be prompted
+be safe;be safe
+be seen;be seen
+be shownReplies;be shownReplies
+be synced;be synced
+be unescaped;be unescaped
+be uninstalled;be uninstalled
+be unstable;be unstable
+be useful;be useful
+be validated;be validated
+be very careful;be very careful
+be;qurulmmuş
+bear the;bear the
+bear;bear
+beast;nəhəng
+beasts brought emfire;beasts brought emfire
+beasts;heyvanlar
+beautifier;beautifier
+beautify;beautify
+became full;became full
+became;became
+because;yönlendirməsi
+become;become
+becomes damaged;becomes damaged
+becomes;becomes
+been deactivated;been deactivated
+been navigated;been navigated
+been reestablished;been reestablished
+been replaced;been replaced
+been revoked;been revoked
+been transferred;been transferred
+been translated;been translated
+been;işarətlənib
+beep;beep
+before;etmədən
+began;began
+begin;başlamaq
+beginning;beginning
+begins with;begins with
+begins;begins
+behalf;behalf
+behavior;səyişdirə
+behaviour;behaviour
+behavioural;davranış
+being incompletely transferred;being incompletely transferred
+being redirected;yönləndirilir
+being reparsed;being reparsed
+being;being
+believe;inanmayacağı
+believed;believed
+belongs to;belongs to
+belongs;belongs
+below;seçmədikdə
+benefit;benefit
+benefits;benefits
+beside;beside
+best Match;best Match
+best accomplished;best accomplished
+best;best
+better;yaxşılaşdırır
+between;arasında
+bfor Android;bfor Android
+bgt;bgt
+bidirectional;bidirectional
+big;big
+bigger;bigger
+billing;billing
+binary;binary
+bind DN;bind DN
+bind;bind
+binding shadows;binding shadows
+binding;binding
+bindings tag;bindings tag
+bindings;bindings
+bird;bird
+birdcage …;birdcage …
+birdcage;birdcage
+birth;birth
+bit keys;bit keys
+bit;bit
+bitrate;bit sürəti
+bits;bits
+bitten;yanaqları
+black;black
+blank;boş
+block Lists;block Lists
+block padding;block padding
+block;bloklamaq
+blockAttackSiteslabel &quot;blockAttackSiteslabel &quot
+blockAttackSiteslabel;blockAttackSiteslabel
+blockWebForgerieslabel;blockWebForgerieslabel
+blocked Popups;blocked Popups
+blocked;Kilidlənmiş
+blocking;blocking
+blocks parts;blocks parts
+blocks;Ehtiyyacınız
+blue &quot;blue &quot
+blue;blue
+bm;bm
+bmp;bmp
+board;board
+bodies;bodies
+body;gövdəsində
+book;book
+bookmark updated;bookmark updated
+bookmark;əlfəcini
+bookmarked;bookmarked
+bookmarks;əlfəcinlər
+books;books
+boolean;məntiqi dəyər
+bootloader;bootloader
+border &apos;border &apos
+border radius;border radius
+border;kənar
+borders;borders
+bot;alt
+both;qalacaq
+bottom;alt
+bound;əlaqələnməməlidir
+boundaries;boundaries
+bounds;bounds
+box Model;box Model
+box model region;box model region
+box model;box model
+box;qutu
+boxcom;boxcom
+boxed;boxed
+boxes;qutuları
+boxing;boxing
+br;br
+brace;burğu
+braces;braces
+brackets;brackets
+brand new;brand new
+brand profile;brand profile
+brand;brand
+brandFullName Credits;brandFullName Credits
+brandFullName;brandFullName
+brandShortName &apos;brandShortName &apos
+brandShortName Preferences;brandShortName Preferences
+brandShortName logo;brandShortName logo
+brandShortName;brandShortName
+brandShorterName Tour;brandShorterName Tour
+brandShorterName;brandShorterName
+brandShortname;brandShortname
+break;break
+breakage;breakage
+breaking;breaking
+breakpoint;breakpoint
+breakpoints;nöqtələrini
+breaks;breaks
+brighter;brighter
+bring;bring
+broad;broad
+broken;Sınmış
+brought;qaranlığa
+browse;saxlamadan
+browser &apos;browser &apos
+browser Hangs;browser Hangs
+browser configurations;browser configurations
+browser;qurdu
+browsercachediskenable to;browsercachediskenable to
+browsercachediskenable;browsercachediskenable
+browsers;browsers
+browsing;mane
+brulliIf;brulliIf
+btn;düymə
+buddy list;buddy list
+buddy;buddy
+budget;budget
+buffer capacity;buffer capacity
+buffer;buffer
+bug;bug
+bugs visit;bugs visit
+bugs;bugs
+bugzillamozillaorg;bugzillamozillaorg
+build Configuration;Konfiqurasiya
+build;build
+building summary;building summary
+built;built
+builtin Roots;builtin Roots
+builtin tools;builtin tools
+builtin;Quraşdırılmış
+bulleted list;bulleted list
+bulleted;bulleted
+business;business
+busy;gözləyib
+but we;but we
+but;görməzdən
+button button;button button
+button;düymə
+buttons;düymələri
+by Added;by Added
+by COLNAME;by COLNAME
+by Parental;by Parental
+by YandexTranslate;by YandexTranslate
+by choosing &apos;by choosing &apos
+by comma;by comma
+by completion;by completion
+by design;by design
+by entering;by entering
+by integrating;by integrating
+by navigatormediaDevicesgetUserMedia;by navigatormediaDevicesgetUserMedia
+by price;by price
+by probing;by probing
+by relevance;by relevance
+by remembering;by remembering
+by vendorShortName;by vendorShortName
+by xslmessage;by xslmessage
+by;Yazan
+bynbspdesign;bynbspdesign
+byte;byte
+bytes;bayt
+c;c
+cSrS;cSrS
+cURL;cURL
+cache management;cache management
+cache;cache
+cachecontrol set;cachecontrol set
+cachecontrol;cachecontrol
+cached;cached
+cachemanifest;cachemanifest
+caching of;caching of
+caching;caching
+calendar Weeks;calendar Weeks
+calendar;calendar
+calendaring information;calendaring information
+calendaring;calendaring
+calendars;calendars
+calendartimezonesxpi;calendartimezonesxpi
+call Stack;call Stack
+call calls;call calls
+call;call
+callUrl;callUrl
+callback;callback
+called &apos;called &apos
+called;called
+callees;callees
+caller;caller
+calling detach;calling detach
+calling;calling
+calls;calls
+camera;Kameranızı
+can &apos;t browse
+can analyze;can analyze
+can collect;can collect
+can often;can often
+can ’;can ’
+can;tanınması
+cancel;cancel
+canceled Occurrences;canceled Occurrences
+canceled;vazgeçti
+cancellation;cancellation
+cancelled;cancelled
+cancelledAddon;cancelledAddon
+candidate resources;candidate resources
+candidate;candidate
+cannot Open;cannot Open
+cannot Setup;cannot Setup
+cannot Show;cannot Show
+cannot decrypt;cannot decrypt
+cannot encode;cannot encode
+cannot;lazımi
+canvas Debugger;canvas Debugger
+canvas an;canvas an
+canvas;lövhə
+capabilities;capabilities
+capable;capable
+capacity;capacity
+capitalization;capitalization
+caption;alt yazı
+capture;capture
+captureEvents;captureEvents
+captured log;captured log
+captured;captured
+card;card
+cards copied;cards copied
+cards etc;cards etc
+cards;cards
+care;care
+careful;careful
+carefully;carefully
+caret;caret
+carriage return;carriage return
+carriage;carriage
+carrier;carrier
+case sensitivity;case sensitivity
+case;həssaslıq
+caseinsensitive;caseinsensitive
+cases;cases
+cast;cast
+categories;categories
+categorize and;categorize and
+categorize;categorize
+category;category
+categorySource;categorySource
+cause;cause
+caused;çərəzlərlə
+causes;səbəblər
+causing stability;causing stability
+causing;causing
+caution;caution
+caveats;caveats
+cc;cc
+cd;cd
+cell border;cell border
+cell was;cell was
+cell;xana
+cells;cells
+cellular location;cellular location
+cellular;operator
+census;census
+center footer;center footer
+center header;center header
+center;mərkəz
+centered;centered
+centerxcenteryradius;centerxcenteryradius
+centimeters;centimeters
+cert AIA;cert AIA
+cert Library;cert Library
+cert validation;cert validation
+cert;cert
+certain;vermirlər
+certificSian;certificSian
+certificate Fields;sertifikat Sahələri
+certificate Hierarchy;sertifikat İyerarxiyası
+certificate Hold;sertifikat Gözlətmə
+certificate Policies;sertifikat Politikaları
+certificate;sertifikatında
+certificates;sertifikatları
+certified;sertifikatlı
+ch;ch
+chain;zənciri
+change;Change
+changed;changed
+changes;dəyişəndə
+channel;kanalındasınız
+character;simvol
+characters;simvoldan
+charset;charset
+check Spelling;Orfoqrafiya Yoxlaması
+check;Nəzarət
+checked;yoxlanıb
+child;altı
+chooses;seçən
+choosing;məhsullarını
+cipher;şifrın
+circ;dairə
+circle;dairə
+class;sınıf
+clear;təmizlə
+clicked;kliklənib
+client;Klinet
+clients;Klientlər
+clipboard;clipboard
+close;bağla
+closed;bağlanıb
+closing;qapayıcı
+code;code
+codebreakpadreportURL;nizamlanmayıbcodebreakpadreporturl
+codec;kodekə
+colgroup;colgroup
+collapse;daraltmaq
+collapsed;genişləndirilib
+collect instantaneous;Anlıq
+collect;əngəlləyə
+collected;toplanan
+color;renk
+colors;rəsimlər
+column;sütun
+combination;işlətdi
+combinator;birləşdirici
+combo;kombi
+command;command
+commands;əmrlər
+commas;Etiketləri
+comments;şərhlər
+communicate;Təbiqetmə
+communication;olmağa
+community;cəmiyyətinə
+complementary;əlavə
+complete;çatdırmaq
+completely;təsirsiz
+completing;Gəlindi
+comply;məqsədilə
+component;komponenti
+components;işarəsiz
+comprehensive;hərtərəfli
+compression;işlətdiyi
+compromised;sahibinin
+computation failed;hesaplaması başarısız oldu
+computation;hesaplaması
+computer;edilmək
+computers;kompüterlərinizdəki
+conbv;conbv
+configuration;tənzimləmələrindədir
+configurations;tənzimləmələrində
+configured;edcək
+confirm;təsdiqləyin
+confirmation;sifariş
+connect;connect
+connected;bağlanıldı
+connecting;bağlanılır
+connection;connection
+connects;brandShortNameun
+contact;yaradıb
+contained;deşifrələnə
+container;qutusu
+contains;orqanının
+content;məzmun
+contents;contents
+continued;əvvəlinə
+contributing;üşçn
+contribution;etdirmə
+contributors;dəstəkçilər
+control;Paylaşmanı
+controls;idarələri
+conveniencebr;göstərilirbr
+convert;ədədə
+converted;dəyişdirildilər
+cookie;çərəz
+cookies;çərəzlər
+coords;coords
+copied;köçürüldü
+copy;copy
+correspondent;tərəfə
+corrupted;kəsilmiş
+could;göstərməsindən
+couldn &apos;t
+cpnbv;cpnbv
+cpnbw;cpnbw
+crash;çökmə
+crashed;çökdü
+crashes;çökmələr
+create;açmağınız
+created;created
+creating;yaratma
+credentials;təsdiqləmələr
+credit;kredit
+crossorigin;crossorigin
+css;css
+ctnbr;ctnbr
+ctnbv;ctnbv
+current;İndiki
+curve;əyri
+custom;fərdi
+customization;fərdiləşdirmə
+customizations;özəlləşdirmələrinizi
+customizing;özəlləşdirilməsi
+cycled;dyişdi
+cycles;fırlanır
+d ’ Ivoire;Sahili
+d;d
+damage;sisteminizə
+darkness;qaranlıqdan
+dashed;dashed
+data;data
+database;bazası
+datareporting;datareporting
+date;tarix
+daydays;güngün
+days;gündə
+deactivated;mə
+debugger;verməyəcək
+debugging;sazlama
+deceptive;aldadıcı
+declaration;İfadə
+decodeAudioData;işlənməsində
+decrypt;şifrəsini
+default;Standart
+defaultPrevented;defaultPrevented
+defaultS;seçiliS
+defaults;defaults
+definition;təsvir
+delay;gecikməsi
+delete;sənədlərinizin
+deleted;deleted
+deleting;siyahısından
+den;bölünən
+denominator;bölən
+depends;işarətinizin
+deprecated;köhnəlmişdir
+described;əsasında
+description;Açıqlama
+detach;çağırmağın
+detected;İlki
+developer;tərtibatçı
+developermozillaorg;developermozillaorg
+developers;olunmasında
+device;geolokasiya
+devices;cihazlarınızdakı
+diagnose;etməyimizə
+diagonal;diaqonal
+diagram;diaqram
+dialog;dialoq
+dialogs;onların
+did;kanalı
+didn;qaytarıldı
+different;təchizatçısı
+differentlyconfigured;nizamlanmış
+digest;yığma
+directive;çatışmır
+directly;birbaşa
+directory;yaraad
+disable;söndür
+disabled;söndürülüb
+disabling;funsiyasını
+disallowed;şifrələnib
+discard closed;Bağlanan
+discard;tərk etməniz
+disclaim;ticari
+display;nümayiş
+displayed;displayed
+distribute;verdiyiniz
+distributors will;yayanlar
+distributors;paylayıcılar
+distrust;etməmək
+div;div
+do;əllərindən
+docs;docs
+doctype;doctype
+document;sənəd
+documentation;sənədə
+documentdomain;documentdomain
+documentdomainS;documentdomainS
+documentexecCommand;documentexecCommand
+documentload;documentload
+documentwrite;gələnn
+does;müzakirəsinə
+doesn;etməməsi
+dollars;üzəri
+domain;domain
+don &apos;t Share
+done;üzərədir
+dot;dot
+dotted;dotted
+down;yavaşlada
+download;endirməniz
+downloaded;endirildi
+downloading;yüklənilir
+downloads;endirilənlər
+draws;draws
+driver;Sürücü
+dropped;Buraxılmış
+duplicate;çoxalt
+duplicates;ynidir
+dwndiagstrike;altdiaqstrayk
+e;e
+each;Əlavəsimvol
+easier;həmşəkindən
+easy way;yoldur
+easy;yoldur
+edit;Redaktə
+editing;redaktə
+effect;Silmək
+effects;səbəbilə
+eight;eight
+eightbit;eightbit
+eighteen;eighteen
+eighteenth;eighteenth
+eighth;eighth
+either;either
+elapsed;elapsed
+elea reime;elea reime
+element;obyekt
+elementdataset instead;elementdataset instead
+elementdataset;elementdataset
+elements;vardır
+elementsetAttribute instead;elementsetAttribute instead
+elementsetAttribute;elementsetAttribute
+elementsetAttributeNS instead;elementsetAttributeNS instead
+elementsetAttributeNS;elementsetAttributeNS
+eleven;eleven
+eleventh;eleventh
+eligible;yoxlamasına
+elliptic Curve;elliptic Curve
+elliptic curve conbv;elliptic curve conbv
+elliptic curve cpnbv;elliptic curve cpnbv
+elliptic curve cpnbw;elliptic curve cpnbw
+elliptic curve ctnbv;elliptic curve ctnbv
+elliptic curve primev;elliptic curve primev
+elliptic curve;elliptic curve
+elliptic;oellipsvarı
+else contact;else contact
+else;dərslərini
+em;em
+emMammon;emMammon
+email Recipient;email Recipient
+email Scams;email Scams
+email address;email address
+email addresses;email addresses
+email correspondent;email correspondent
+email;epoçt
+emailI &apos;emailI &apos
+emailI;emailI
+emailed;emailed
+emailexamplecom;emailexamplecom
+emails;emails
+emand;emand
+embarrassed face;embarrassed face
+embarrassed;embarrassed
+embarrassing;embarrassing
+embed;embed
+embedded PDF;embedded PDF
+embedded;embedded
+embeds;embeds
+emcontributor emcontributorSuzy / emcontributor;emcontributor emcontributorSuzy / emcontributor
+emcontributor emcontributorSuzy Solon;emcontributor emcontributorSuzy Solon
+emcontributor;emcontributor
+emcontributorJoe Solon;emcontributorJoe Solon
+emcontributorJoe;emcontributorMozilla
+emcontributorSuzy;Azerbaijan
+emfire;emalov
+emgreat;emgreat
+emnew;emnew
+emother;emfərqli
+emoticons;emoticons
+employer;employer
+empty Trash;empty Trash
+empty slots;empty slots
+empty;empty
+emptying;emptying
+emreborn;emreborn
+emrenewed;emrenewed
+emswiftly;emsürətlə
+emthunder;emthunder
+emtwins;eməkizləri
+emulate a;emulate a
+emulate;emulate
+emulating a;emulating a
+emulating;emulating
+emulation;emulation
+en;en
+enUS en;enUS en
+enUS;az
+enable brandShortName &apos;enable brandShortName &apos
+enable others;enable others
+enable worker;enable worker
+enable;aktivləşdir
+enablePersonalizedlabel;enablePersonalizedlabel
+enablePrivilege;enablePrivilege
+enableSafeBrowsinglabel;enableSafeBrowsinglabel
+enabled Plugins;enabled Plugins
+enabled excluding;enabled excluding
+enabled;aktivdir
+enables;enables
+enbz;enbz
+enclosed;bağlanıb
+enclosed;qapalı
+encode;encode
+encoded;encoded
+encoder;encoder
+encoding;səhvidir
+encodings;olandan
+encountered;encountered
+encrypt this;encrypt this
+encrypt;encrypt
+encrypted you;encrypted you
+encrypted;imzalanmamış
+encryption;şifrləmə
+enctype instead;enctype instead
+enctype;enctype
+enctypeS;enctypeS
+enctypemultipart;enctypemultipart
+end user &apos;end user &apos
+end;bitiş
+ended;ended
+endexpand;endexpand
+ending with;ending with
+ending;ending
+endpoint;endpoint
+ends up;ends up
+ends with;ends with
+ends;up
+enforced;enforced
+engage;engage
+engine;mühərriyinizi
+engines;mühərriklərinizdən
+enhanced;enhanced
+enjoy;enjoy
+enlarging the;enlarging the
+enlarging;enlarging
+enough;enough
+ensure;ensure
+ensures that;ensures that
+ensures;ensures
+enter;enter
+entered;entered
+entering;entering
+enters;enters
+entire;entire
+entirely;entirely
+entities;təmizləmədən
+entity in;entity in
+entity reference;entity reference
+entity;entity
+entries;siyahısındakı
+entry;giriş
+enumerable;enumerable
+enus;enus
+environment Data;environment Data
+environment;environment
+environments;environments
+ephemeral DiffieHellman;ephemeral DiffieHellman
+ephemeral;Dəyişikliyi
+equals sign;equals sign
+equals;equals
+equation;bərabərlik
+equestAnimationFrame;equestAnimationFrame
+era of;era of
+erase;edilməyəcək
+error console;error console
+error creating;error creating
+error refiling;error refiling
+error;error
+errorCode;errorCode
+errorfree;zəmanət
+errors;xəbərların
+erver;erver
+es Salaam;es Salaam
+es;es
+esES;esES
+esc;esc
+escape;escape
+escaped;escaped
+escaping;escaping
+establish;establish
+established;established
+estimates only;estimates only
+estimates;estimates
+etc;etc
+eval;eval
+evaluate selected;evaluate selected
+evaluate;evaluate
+evaluating a;evaluating a
+evaluating an;evaluating an
+evaluating;evaluating
+evaluation;evaluation
+even;hətta
+event Handler;event Handler
+event;tədbirindən
+eventThe;eventThe
+events;events
+ever;ever
+every dayevery;every dayevery
+every weekevery;every weekevery
+every;sıxlığı
+everyone;everyone
+everything inbetween;everything inbetween
+everything;everything
+everywhere;everywhere
+exact;exact
+exactly;exactly
+examf;examf
+examine your app &apos;examine your app &apos
+examine;Examine
+example;iş
+examplecom rather;examplecom rather
+examplecom;com
+examplenet;examplenet
+exceed five;exceed five
+exceed the;exceed the
+exceed;exceed
+exceeded;exceeded
+exceeds;exceeds
+except;except
+exception;exception
+exceptions Cookies;exceptions Cookies
+exceptions;exceptions
+exchange;işlənən
+excluded;excluded
+excluding;excluding
+exclusion;exclusion
+executable;executable
+execute;İşlət
+executed to;executed to
+executed;executed
+executes;executes
+execution;execution
+exemplary;exemplary
+exist can &apos;exist can &apos
+exist;exist
+existing;bitirməli
+exists;exists
+existsWould;existsWould
+exit;çıxılsın
+exited;exited
+exits;exits
+expand panes;expand panes
+expand;genişlətmək
+expanded to;expanded to
+expanded;çöküb
+expanding out;expanding out
+expanding;expanding
+expands to;expands to
+expands;simvoluna
+expandstrict;expandstrict
+expect anonymous;expect anonymous
+expect;expect
+expectations;expectations
+expected charset;expected charset
+expected coordinate;expected coordinate
+expected counter;sayğac
+expected identifier;expected identifier
+expected nonnegative;expected nonnegative
+expected part;expected part
+expected;pseudoelement
+expecting;expecting
+experience;işləməyinizi
+experienced;experienced
+experiences;experiences
+experiencing;experiencing
+experiment;experiment
+experimental;Eksperimental
+experiments;experiments
+expire;expire
+expired;müddəti başa çatmışdır
+expires Seconds;expires Seconds
+expires;expires
+expiry;expiry
+explicit;explicit
+explicitly specify;explicitly specify
+explicitly;explicitly
+exploit;exploit
+explore a;explore a
+explore;explore
+export regulations;export regulations
+export;ixrac
+exported;exported
+expose;expose
+exposedProps;exposedProps
+express;express
+expression;ifadəsinin
+expressions;expressions
+extend;genişlətməsi
+extended;Uzadılmış
+extending the;extending the
+extending;extending
+extends system;extends system
+extends;genişləndirici
+extensible;extensible
+extension extensions;extension extensions
+extension;uzantısı
+extensions;uzantıları
+external Editors;external Editors
+external storage;external storage
+external;xarici
+extra Large;extra Large
+extra requirements;extra requirements
+extra;Ekstra
+extract error;extract error
+extract;extract
+extraction error;extraction error
+extraction;çıxarma
+extreme;extreme
+f;f
+face;face
+facing camera;facing camera
+facing;facing
+factory;factory
+fail;fail
+failed;nəticələndi
+fails treat;fails treat
+fails;fails
+failure;failure
+fallback;çəkilməsi
+false;yanlış
+familiar;familiar
+family addressbr;family addressbr
+family;fontu
+far;far
+fast;fast
+faster;Üçüncü
+faves;faves
+faxed;faxed
+feature;xüsusiyət
+features;özəlliklərinin
+feb &#124;feb &#124
+feb;feb
+february;february
+feed &quot;feed &quot
+feed Subscriptions;feed Subscriptions
+feed;axını
+feedImported;feedImported
+feedback;əksəlaqənizə
+feeds;feeds
+feel;tətbiqlərə
+feels great;feels great
+feels;feels
+fell;fell
+fence;çəpər
+fetch count;fetch count
+fetch;fetch
+fetched from;fetched from
+fetched;fetched
+fetching individuals;fetching individuals
+fetching more;fetching more
+fetching;you
+few;few
+fewer;fewer
+ff &quot;ff &quot
+ff;ff
+field Value;field Value
+field;tutun
+fields;sahələrini
+fifteen;fifteen
+fifteenth;fifteenth
+fifth;fifth
+fig;fiqur
+figure;şəkilləndirmək
+file &quot;file &quot
+file Attach;file Attach
+file Upload;file Upload
+file vcf;file vcf
+file };file }
+file;fayl
+filename;filename
+files;files
+filesystem;filesystem
+filing;filing
+fill out;fill out
+fill;doldur
+fillStyle;fillStyle
+filled;filled
+filling;filling
+filter JSON;filter JSON
+filter Rules;filter Rules
+filter Variables;filter Variables
+filter event;filter event
+filter variables;filter variables
+filter;filtr
+filtered;filtered
+filtering;filtering
+filters;filters
+final;final
+financial;maliyyə
+find In;find In
+find exactly what you &apos;find exactly what you &apos
+find out what &apos;find out what &apos
+find;Tap
+findbar;findbar
+finding;finding
+finetuned;finetuned
+finish;finish
+finished evaluating;finished evaluating
+finished;finished
+finishing;finishing
+fire;fire
+firefox;firefox
+firefoxapps;firefoxapps
+firewall;firewall
+firewalls;firewalls
+first option;first option
+first party;first party
+first;sisteminizi
+fit;ehtiyyaclarına
+five;beş
+fix;fix
+fixed Width;fixed Width
+fixed width font;fixed width font
+fixed;fixed
+fixvideoaudioproblemsfirefoxwindows;fixvideoaudioproblemsfirefoxwindows
+flag;flag
+flagged;flagged
+flame;flame
+flash;flash
+flashing;flashing
+flat equation;flat equation
+flat;flat
+flexibility and security so you &apos;flexibility and security so you &apos
+flexibility;flexibility
+flexiblebr;flexiblebr
+floating &quot;floating &quot
+floating;floating
+floor;floor
+floppy;floppy
+flr;flr
+focus Variables;focus Variables
+focus;focus
+focused;fokuslanıb
+folder &apos;folder &apos
+folder &quot;folder &quot
+folder subscriptions;folder subscriptions
+folder;folder
+folders;folders
+follow;İzlə
+followed by;followed by
+followed;followed
+followers;followers
+following protocols S isn &apos;following protocols S isn &apos
+following;following
+follows;follows
+followup;followup
+font Control;font Control
+font size;font size
+font;font
+fontface rule;fontface qaydasını
+fontface;fontface
+fontfeaturevalues;fontfeaturesvalues
+fonts for;fonts for
+fonts;Şriftlər
+fontvariant property;fontvariant property
+fontvariant;fontvariant
+footer text;footer text
+footer;altlıq
+footinmouth face;footinmouth face
+footinmouth;footinmouth
+for &apos;for &apos
+for &quot;for &quot
+for Clearing;for Clearing
+for DTLS;for DTLS
+for Developers;for Developers
+for Legacy;for Legacy
+for ProductShortName;for ProductShortName
+for compressed stylesheets;for compressed stylesheets
+for compressed;for compressed
+for contributing;Köməkləriniz üşçn
+for decoding;for decoding
+for diagnostic purposes;for diagnostic purposes
+for iOS;for iOS
+for nonfunction;for nonfunction
+for premium;for premium
+for privileged;for privileged
+for quotbm;for quotbm
+for recipients &apos;for recipients &apos
+for signing;for signing
+for writing;for writing
+for;verilsə
+forbidden;forbidden
+force;force
+forced;forced
+forcibly;forcibly
+forcing all;forcing all
+forcing;forcing
+foreign;foreign
+forgeries;forgeries
+forgery;forgery
+forget;forget
+forgetting;forgetting
+forgotten;sıfırlamaq
+form Field;form Field
+form Post;form Post
+form fields;form fields
+form userhost;form userhost
+form;form
+form;forma
+format;əməl
+formatD;formatD
+formatI icon;formatI icon
+formatI;formatI
+formatS formatS;formatS formatS
+formatS;formatS
+formatSNew;formatSNew
+formats;formatlarını
+formatted as;formatted as
+formatted;formatlandırılmamış
+formatting;formatting
+formdata on;formdata on
+formdata;formdata
+formed;formed
+forms are;forms are
+forms;içe
+forth and;forth and
+forth;forth
+forums;forums
+forward slashes;forward slashes
+forward;forward
+forwarded;forwarded
+forwardmsg;forwardmsg
+forwards;forwards
+found;yoxlayaraq
+foundout of;foundout of
+foundout;foundout
+founds;founds
+four;four
+fourteen;fourteen
+fourteenth;fourteenth
+fourth;fourth
+fox jumps over your expectations with;tülkü
+fox jumps;fox jumps
+fox;fox
+fps;fps
+frFR;frFR
+frac;kəsr
+fraction;kəsr
+fragment Shader;fragment Shader
+fragment;hissəsində
+frame &apos;frame &apos
+frame;frame
+framed;framed
+framerate;kadr sürəti
+frames;kadrlar
+frameset;frameset
+framesets;framesets
+framing;çərçivələnmədən
+fraud;nəticələbə
+fraudulent;fraudulent
+free;pulsuz
+frequently;frequently
+fresh;sıfırdan
+friday &#124;friday &#124
+friday;friday
+fridays;fridays
+friend;friend
+friends;friends
+from Garbage;from Garbage
+from edge of paper to Margin;from edge of paper to Margin
+from hangs;from hangs
+from strongThe;strongMozilla
+from the viewer reader &apos;from the viewer reader &apos
+from visited;from visited
+from;nereden
+from;ünvan
+front facing;front facing
+front;front
+frown face;frown face
+frown;frown
+frozen;donmuş
+ftp;ftp
+ftpmyispcom;ftpmyispcom
+full;full
+fullfeatured;fullfeatured
+fullpage;fullpage
+fullscreen;çıxıldı
+fully;fully
+function;funksiyası
+functional;işləməyəcək
+functionality;şəxsiləşdirmək
+functions;sertfikatlar
+further;further
+future scans by;future scans by
+future;future
+fxp Available;fxp Available
+fxp;fxp
+gain;gain
+gallery;gallery
+garbage Collection;garbage Collection
+garbage collection;garbage collection
+garbage;garbage
+garbled text;garbled text
+garbled;garbled
+gateway;gateway
+gathering;gathering
+gazed;gazed
+gb;gb
+gdiplus;gdiplus
+gear icon;gear icon
+gear;gear
+general Notification;general Notification
+general;general
+generally;generally
+generate a;generate a
+generate;generate
+generated;generated
+generation;generation
+generator;yaradıcısında
+generic Photo;generic Photo
+generic;generic
+geoenabled preference;geoenabled preference
+geoenabled;geoenabled
+geolocation;yaxşılaşdırın
+geometric;geometric
+geometry visibility;geometry visibility
+geometry;geometry
+geostd;geostd
+get Involved;get Involved
+get Map;get Map
+get involved;get involved
+get me;get me
+get started;get started
+get;xilas
+getAttribute instead;getAttribute instead
+getAttribute;getAttribute
+getAttributeNS instead;getAttributeNS instead
+getAttributeNS;getAttributeNS
+getAttributeNode;getAttributeNode
+getAttributeNodeNS;getAttributeNodeNS
+getElementById;getElementByIdyə
+getPreventDefault;getPreventDefault
+getReceivers instead;getReceivers instead
+getReceivers;getReceivers
+getRemoteStreams are;getRemoteStreams are
+getRemoteStreams;getRemoteStreams
+getUserData;getUserData
+getting Started;getting Started
+getting;getting
+getwebglorg;getwebglorg
+gif jpg;gif jpg
+gif;gif
+git commit&apos;git commit&apos
+git;git
+give feedback;give feedback
+give;olursunuz
+given;given
+gives you;gives you
+gives;dəyişdirdiyiniz
+giving;sevginizi
+glitches;kəsilmələrinə
+glob;glob
+global Composing;global Composing
+global community;global community
+global;qlobal
+globals;globals
+go Back;go Back
+go;keçsəniz
+goes;goes
+going online;going online
+going;girə
+gone;gone
+good news;good news
+good;good
+goodwill;gəlmişik
+gopher;gopher
+gorithm Identifier;gorithm Identifier
+got it;got it
+got;got
+governed by;governed by
+governed;governed
+grace;işləmində
+grant;grant
+granted;verməmisiniz
+grants you;grants you
+grants;grants
+graphic;qrafika
+graphics;graphics
+great;eşitdiyimizə
+greater than;greater than
+greater;greater
+greeting;greeting
+grew more;grew more
+grew;grew
+grid;grid
+gridcell;tor xanası
+gridcell;torxanası
+grip;tut
+group;qrupunun
+grouped;grouped
+groups;qruplarından
+gt;gt
+gtgt;gtgt
+guarantee that;guarantee that
+guarantee;guarantee
+guaranteed;guaranteed
+guess;guess
+guessed;guessed
+guessing;guessing
+guest is;guest is
+guest;guest
+guide you;guide you
+guide;guide
+guides;guides
+h;h
+hTraduction;hTraduction
+ha;ha
+hacking;hacking
+had its;had its
+had;had
+half an;half an
+half past;half past
+half;half
+hand tool;hand tool
+hand;hand
+handle S;handle S
+handle;handle
+handled;handled
+handler command;handler command
+handler;edicisinin
+handles;handles
+handling;handling
+hands;hands
+handshake;qarşılama
+handshakes;Həmkardan
+hang Report;hang Report
+hang stacks;hang stacks
+hang;hang
+hangs;hangs
+happened;izah
+happens;happens
+hard drive;hard drive
+hard;hard
+hardware H;hardware H
+hardware acceleration;hardware acceleration
+hardware;hardware
+harm;harm
+harmful;harmful
+has Attachments;has Attachments
+has bookmarked;has bookmarked
+has confirmed;has confirmed
+has delegated;has delegated
+has detected;has detected
+has determined;has determined
+has joined;has joined
+has suggested;has suggested
+has visually;has visually
+has;özünüzü
+hash;hash
+hashes in;hashes in
+hashes;hashlərdən
+hashsource;hashsource
+hasn &apos;hasn &apos
+hasn;hasn
+have attempted;have attempted
+have been transferred;have been transferred
+have decided;have decided
+have gone down;have gone down
+have paused;have paused
+have seen;have seen
+have shiny;have shiny
+have;çoxu
+haven &apos;haven &apos
+haven;haven
+haves;haves
+having trouble;having trouble
+having;having
+head;head
+header;başlıq
+headers;başlıq endir
+heading level;heading level
+heading;başlıq
+headings;headings
+health;health
+heap;heap
+hear;bildirilir
+height;height
+held;vəziyyətdə
+hello extension;hello extension
+hello;hello
+help;help
+helper;helper
+helpful;helpful
+helping make;helping make
+helping;məlumatınız
+helps ma;helps ma
+helps;düşməyinizə
+her;her
+here;buradan baxa bilərsiniz
+hidden;gizli
+hide Statistics;hide Statistics
+hide Toolbars;hide Toolbars
+hide;hide
+hiding;hiding
+high Grade;high Grade
+high;high
+higher level;higher level
+higher;higher
+highgrade;səviyyəli
+highlight;highlight
+highlighted;highlighted
+highlightedS nodes;highlightedS nodes
+highlightedS;highlightedS
+highlighter;highlighter
+highlighters;highlighters
+highly recommended;highly recommended
+highly;qətiyyətlə
+hightailcom;hightailcom
+him;him
+hints press;hints press
+hints;hints
+his or her;his or her
+his;his
+history window;history window
+history&apos;history&apos
+history;keçmişini
+hold;hold
+holds;çətindir
+home City;home City
+home Country;home Country
+home Phone;home Phone
+home directory don &apos;home directory don &apos
+home;home
+homepage;homepage
+hop limit;hop limit
+hop;hop
+horizontal lines;horizontal lines
+horizontal;üfüqi
+horror;horror
+host;host
+hosted;saxlanıldığı
+hosting service;hosting service
+hosting;hosting
+hostname;hostname
+hostnameport;hostnameport
+hostnames;hostnames
+hostport;hostport
+hosts;hosts
+hotspots;hotspots
+hour;hour
+hourhours;saatsaat
+hours;saat
+how;how
+however;yararlanır
+href;href
+hrink;hrink
+hrpd;hrpd
+hstrike;üfüqstrayk
+htm;htm
+html &apos;html &apos
+html;html
+htmlstrong;htmlstrong
+htmlstrongCookies;htmlstrongCookies
+htmlstrongHistory;htmlstrongHistory
+htmlstrongTabs;htmlstrongSəhifə
+htmlstrongWindows;htmlstrongPəncərələri
+http Proxy;http Proxy
+http//;http//
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/;http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/extensions/
+http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/;http//LOCALEaddonsmozillacom/LOCALE/APP/VERSION/themes/
+http//addmyyahoocom/rssurls;http//addmyyahoocom/rssurls
+http//boxescom/external/widgetreferffurls;http//boxescom/external/widgetreferffurls
+http//composemailyahoocom/Tos;http//composemailyahoocom/Tos
+http//diggcom/reader/search/s;http//diggcom/reader/search/s
+http//examplecom/app/manifestwebapp;http//examplecom/app/manifestwebapp
+http//fusiongooglecom/addfeedurls;http//fusiongooglecom/addfeedurls
+http//groupsgooglecom/group/providerforgooglecalendar;http//groupsgooglecom/group/providerforgooglecalendar
+http//groupsgooglecom/searchas_umsgidmid;http//groupsgooglecom/searchas_umsgidmid
+http//mapsgooglecom/mapsqAACISTZICO;http//mapsgooglecom/mapsqAACISTZICO
+http//mozillaorg/themes/download/;http//mozillaorg/themes/download/
+http//plugindocmozdevorg/;http//plugindocmozdevorg/
+http//readeraolcom/quickadd/s;http//readeraolcom/quickadd/s
+http//translategooglecom/translateprev/language_toolsu;http//translategooglecom/translateprev/language_toolsu
+http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri;http//validatorworg/checkcharsetdetectautomaticallydoctypeInlineuri
+http//wikimozillaorg/CalendarGDATA_Provider;http//wikimozillaorg/CalendarGDATA_Provider
+http//wwwfeedlycom/homesubscription/feed/s;http//wwwfeedlycom/homesubscription/feed/s
+http//wwwgooglecom/searchhlenlrieUTFoeUTFq;http//wwwgooglecom/searchhlenlrieUTFoeUTFq
+http//wwwgooglecom/searchlrieUTFoeUTFq;http//wwwgooglecom/searchlrieUTFoeUTFq
+http//wwwgooglecom/searchq;http//wwwgooglecom/searchq
+http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI;http//wwwmapquestcom/maps/mapadpcountryCOaddressAAcityCIstateSTzipcodeZI
+http//wwwmozillacom/plugincheck/;http//wwwmozillacom/plugincheck/
+http//wwwmozillaocertificqwxyz;http//wwwmozillaocertificqwxyz
+http//wwwmozillaorg/;http//wwwmozillaorg/
+http//wwwmozillaorg/docs/enduser/internetkeywordshtml;http//wwwmozillaorg/docs/enduser/internetkeywordshtml
+http//wwwmozillaorg/products/firefox/addengineshtml;http//wwwmozillaorg/products/firefox/addengineshtml
+http//wwwmozillaorg/products/firefox/centralhtml;http//wwwmozillaorg/products/firefox/centralhtml
+http//wwwmozillaorg/products/firefox/releases/Shtml;http//wwwmozillaorg/products/firefox/releases/Shtml
+http//wwwmozillaorg/products/firefox/releases/html;http//wwwmozillaorg/products/firefox/releases/html
+http//wwwmozillaorg/products/firefox/releases/whatsnew/;http//wwwmozillaorg/products/firefox/releases/whatsnew/
+http//wwwmozillaorg/products/thunderbird/;http//wwwmozillaorg/products/thunderbird/
+http//wwwmozillaorg/products/thunderbird/globalinboxhtml;http//wwwmozillaorg/products/thunderbird/globalinboxhtml
+http//wwwmozillaorg/products/thunderbird/junkmailhtml;http//wwwmozillaorg/products/thunderbird/junkmailhtml
+http//wwwseamonkeyprojectorg/;http//wwwseamonkeyprojectorg/
+http;http
+https//composemailyahoocom/Tos;https//composemailyahoocom/Tos
+https//developermozillaorg/docs/Tools/CSS_Coverage;https//developermozillaorg/az/docs/Tools/CSS_Coverage
+https//developermozillaorg/docs/Web/Apps/App_permissions;https//developermozillaorg/docs/Web/Apps/App_permissions
+https//mailgooglecom/mail/extsrcmailtourls;https//mailgooglecom/mail/extsrcmailtourls
+https//wwwmibbitcom/urls;https//wwwmibbitcom/urls
+https;https
+hue;ton
+iOS;iOS
+icons;icons
+id;id
+identifier;edicisi
+identifies;saymaq
+identity;şəxsiyyət
+if;Cavablarınıza
+iframe;iframe
+ignored;alınmadı
+image;image
+imagegif;şəkilgif
+imagejpeg;şəkiljpeg
+imagepng;şəkilpng
+images;rənglər
+imgmap;şəkilxəritəsi
+impersonate;təqlid
+implied;sözlü
+important Modified;Dəyişdirilən
+important;vacib
+impossible;çətin
+improper;tapılmış
+improve;xidmətimizi
+improved;gücləndirilmiş
+in;şəraitdə
+inaccessible;Əksik
+inaction;görməyinə
+inches;inç
+incl Western;Qərbi
+includeSubDomains;includeSubDomains
+includes;includes
+including;Əmtəə
+index;indeks
+indicating;qaytardı
+individual;Təcrübəli
+ined;ined
+infinite;sonsuz
+information;fəalliyətiniz
+inherit;inherit
+initial;initial
+initialize;Seçilen
+initiate;qarşılamaya
+inline;sətir üçün
+inline;sətiriçi
+inlineblock;inlineblock
+input;input
+insecure;çərçivədə
+install;qur
+installed;qurulduğuna
+installing;qurmada
+instance;instance
+instead;instead
+instructions;söndürülmə
+integer;rəqəm
+integrated;imkanınını
+interested;təsdiqlənməsini
+interfere;Səyahətinizə
+internal;Hatası
+internet;nucu
+interpreted;windows
+into;into
+invalid;Invalid
+is experimental;eksperimentaldır
+is;ərazilərinin
+isindex;isindex
+isn &apos;t
+isn;actualDate
+issuer;yayımlayıcı
+issues;məlumdur
+it;özü
+item;item
+items;nəticəsində
+its;haqları
+javascript;javascript
+join;özəlliklərlə
+jumped;keçilib
+jurisdictions;yurisdiksiyalar
+kb;kb
+keeping;saxlamırıq
+key;açarla
+keyboard;klaviatura
+keyframes;açılışı
+keys;açarlarınız
+know;çıxdığınızı
+known;known
+label;etiket
+languages;pəncərədən
+last;Sonuncu
+late Writes;Gecikmiş Yazılar
+later;başlada
+launch;faylını
+launched;Tələb
+launching;quraşdırdığınız
+law;vaxtlar
+layout;görünüşünü
+lead;genişlətməsinə
+learn;öyrənin
+left;sol
+lefttoprightbottom;lefttoprightbottom
+legacy;irsi
+length;uzunluq
+let;etməsinə
+level;səviyyəsini
+lft;sol
+li;li
+liCheck;seçimlərinin
+liContact;işlədiyinə
+liIf;liƏvvəllər
+liIt;liFayl
+liMake;liSağa
+liPlease;liZəhmət
+liPress;liOnlayn
+liThis;liBuna
+liTry;liYenidən
+liYou;quraşdırmalısınız
+library;kitabxansı
+light;işıq
+lightness;parlaqlıq
+like;qoruya
+likely;etmirsə
+liliAre;liliDigər
+liliClick;vebsaytdan
+liliDo;liliİstədiyiniz
+liliDoes;liliGöstərilən
+liliIs;liliKompüteriniz
+liliPress;lili
+liliStill;liliBütün
+liliemNOTE;liliemQEYD
+limitation;tutulmasına
+line;line
+link;bağlantı
+links;toxunduğum
+list;siyahı
+listed;siyahıda
+literal;hərfi
+ll;olacağını
+lnk;bağlantı
+loaded;yükləndi
+loading;yüklənir
+local;local
+locale;quraşdırılsın
+localhost;localhost
+locked;bağlıdır
+log;hesabat
+logging active;qeydiyyatı
+logins;ziyarətlər
+logos;alınmış
+long;long
+longdiv;uzundiv
+look;təcrübədən
+looking;həmişəkindən
+looks;Standart
+loop;kadrı
+lost;itirilmiş
+lt;lt
+ltcommandgt;ltəmrinigt
+ltlt Newer;ltlt Yeni
+ltmessagegt;ltmesajgt
+ltnamegt;ltnamegt
+ltnickgt ltmsggt;ltləqəbgt ltmesajgt
+ltnickgtltnickgt;ltləqəbgtltləqəbgt
+ltr;ltr
+ltstatus;ltstatus
+m;m
+madruwb;madruwb
+mages;lləri
+main;ana
+maintenance;təmir
+make;keçirin
+making;əlavəninin
+malformed;xətasını
+manager;təhllükəsizlik
+manifest has;manifest has
+manifest;manifest
+manual;təlimatları
+many dot dot;many dot dot
+map;map
+mark the;mark the
+mark;işarələ
+marked;marked
+marking a;marking a
+marking;marking
+markup;işarələmə
+marquee;diyirlənən sətir
+masking;masking
+master;master
+match;axtarışınıza
+matched by;matched by
+matched;matched
+matcheleatchMore than;matcheleatchMore than
+matches;matches
+matching;matching
+matchutomatically;matchutomatically
+material;material
+math table;math table
+math;riyaziyyat
+matrix;matrix
+max;max
+maxage;age
+maximum Length;maximum Length
+maximum permissible;maximum permissible
+maximum;maximum
+may discontinue;may discontinue
+may update;may update
+may;özünə
+maybe;maybe
+mb of;mb of
+mb;mb
+mbox;mbox
+me out of here;me out of here
+me;məni
+mean slower message;mean slower message
+mean;mean
+means you &apos;means you &apos
+means;açarın
+measure a portion;measure a portion
+measure a;measure a
+measure;measure
+measurements;measurements
+measuring;measuring
+mechanism;mechanism
+mechanisms;mechanisms
+media Sharing;media Sharing
+media;Mediaya
+medium;medium
+meet;meet
+member;member
+members;etdikləri
+membersonly;membersonly
+memory map;memory map
+memory measurements;memory measurements
+memory;Yaddaş
+mentioning;mentioning
+menu Bar;menu Bar
+menu bar;menu bar
+menu;menyusuna
+menuPath;menuPath
+menus;dəyiştirməyinə
+merchantable;sığorta
+merge Warning;Birləşdirmə Xəbərdarlığı
+merge all;merge all
+merge;merge
+mesh;mesh
+message Grouping;message Grouping
+message I &apos;message I &apos
+message Summary;message Summary
+message flag;message flag
+message panel;message panel
+message preview;message preview
+message templates;message templates
+message };message }
+message;İsmarıc
+messageDone;messageDone
+messageIndexing;messageIndexing
+messageS;messageS
+messagebr;messagebr
+messagebrIn;messagebrIn
+messageeml;messageeml
+messagegt;İstəyə
+messageid;messageid
+messages Reopen;messages Reopen
+messages;tarixdən
+messaging;messaging
+meta;meta
+metadata;metadata
+metal posteriors;metal posteriors
+metal;metal
+metaviewport tag;metaviewport tag
+metaviewport;metaviewport
+meter;meter
+method &apos;method &apos
+method;method
+methodGET;enctypeGET
+methodPOST and;methodPOST and
+methodPOST;methodPOST
+methodpost;methodpost
+methods;methods
+microphone;mikrofonunuzu
+microsummary;microsummary
+middle Eastern;middle Eastern
+middle;middle
+might;might
+migrate to;migrate to
+migrate your;migrate your
+migrate;migrate
+migrated;migrated
+millimeters;milimetre
+millisecondPing;millisecondPing
+milliseconds;milliseconds
+mimetype of;mimetype of
+mimetype;mimetype
+min;min
+mind;İdarəçisinə
+minheight;minheight
+minimonth;minimonth
+minimum;minimum
+minjs;minjs
+minor;minor
+mins;mins
+minute minutes;minute minutes
+minute;vaxtınız
+minuteEvery;minuteEvery
+minuteminutes;dəqiqədəqiqə
+minutes ago;minutes ago
+minutes …;minutes …
+minutes;dəqiqə
+minwidth em;minwidth em
+minwidth;minwidth
+misconfiguration;misconfiguration
+misconfigured;Mozillanı
+misencoded;səhvkodlaşdırılmış
+mismatch;mismatch
+mismatched tag;mismatched tag
+mismatched;mismatched
+missed reminders;missed reminders
+missed;bilmədiniz
+missing Custom;missing Custom
+missing closing;missing closing
+missing mandatory;missing mandatory
+missing methodPOST;missing methodPOST
+missing;əksikdir
+misspelled word;misspelled word
+misspelled words;misspelled words
+misspelled;misspelled
+mistake;mistake
+mistakes;baxıb
+mistyped;qaçış
+mix;mix
+mixed;mixed
+mmultiscripts;mmultiscripts
+mobile;Mobil
+mode and can &apos;mode and can &apos
+mode;rejimindədir
+modegt;modegt
+model;model
+modelview;modelview
+moderated;moderated
+moderator;moderator
+modern;modern
+modes;rejimləri
+modified;modified
+modifier;modifier
+modifiers;modifiers
+modify;modify
+module returned;module returned
+module;modulunu
+modules;endirir
+moduli;moduli
+moment;moment
+momentarily;momentarily
+moments;moments
+monday;monday
+mondays;mondays
+moneymouth face;moneymouth face
+moneymouth;moneymouth
+monitor;monitor
+month;ay
+monthS of;monthS of
+monthS;monthS
+monthevery;monthevery
+monthly;monthly
+months;months
+more bookmarks;more bookmarks
+more powerful;irəlilədi
+more savings;more savings
+more;gözləntilərinizin
+moreand;dahavə
+morex;morex
+more…;more…
+most Visited;most Visited
+most accurate;most accurate
+most popular;most popular
+most;most
+mostrecently;mostrecently
+mouse Wheel;mouse Wheel
+mouse;mouse
+move Down;move Down
+move Up;Yuxarıya
+move away;move away
+move emswiftly;move emswiftly
+move;Əhatəni
+moveable;sayəsində
+moved renamed or deleted;moved renamed or deleted
+moved renamed;moved renamed
+moved;moved
+movedS;movedS
+movemail;movemail
+moving;moving
+moz;MOZ
+mozGetAsFile;mozGetAsFile
+mozImageSmoothingEnabled;mozImageSmoothingEnabled
+mozRTCIceCandidate;mozRTCIceCandidate
+mozRTCPeerConnection;mozRTCPeerConnection
+mozRTCSessionDescriptn;mozRTCSessionDescriptn
+mozRTCSessionDesmatched;mozRTCSessionDesmatched
+mozRequestAnimationFrame;mozRequestAnimationFrame
+mozVisibilityState &apos;
+mozVisibilityState;mozVisibilityState
+mozcmd directory;mozcmd directory
+mozcmd files;mozcmd files
+mozcmd;mozcmd
+mozdevorg;mozdevorg
+mozdocument rule;mozdocument rule
+mozdocument;mozdocument
+mozelement;mozelement
+mozilla;mozilla
+mozillaZine;mozillaZine
+mozillacentral;mozillacentral
+mozillacom/plugincheck;mozillacom/plugincheck
+mozillaorg netnz;mozillaorg netnz
+mozillaorg;mozillaorg
+mozillaorg;mozillazorg
+mozinlinebox display;mozinlinebox display
+mozinlinebox;mozinlinebox
+mprescripts;mprescripts
+ms;ms
+msf;msf
+msgFilterRulesdat file;msgFilterRulesdat file
+msgFilterRulesdat;msgFilterRulesdat
+much;much
+multiline;multiline
+multimedia;multimedia
+multiple links &quot;multiple links &quot
+multiple;birdən
+multiplied And;multiplied And
+multiplied by;multiplied by
+multiplied;multiplied
+multiprocess;əməliyyatlı
+multiweek;multiweek
+music;music
+must involve;must involve
+must;formunu
+my &quot;my &quot
+my Cert;Sertifikatım
+my Projects;my Projects
+my Quick;my Quick
+my Task;my Task
+my Yahoo;my Yahoo
+my windows;my windows
+my;my
+mypagehtml &quot;mypagehtml &quot
+mypagehtml;mypagehtml
+myusername&apos;myusername&apos
+n;n
+nWhen your;nWhen your
+nWhen;nWhen
+name &quot;name &quot
+name;ismi
+nameSource;nameSource
+named anchor;named anchor
+named either;named either
+named;named
+names;names
+namespace;namespace
+namespaces;namespaces
+narrowing;narrowing
+native code;native code
+native;native
+natively;natively
+navigate;navigate
+navigated;navigated
+navigating;gəzinmə
+navigation Toolbar;navigation Toolbar
+navigation;gəzinmə
+navigation;naviqasiya
+navigatorbattery;navigatorbattery
+navigatorgetBattery;navigatorgetBattery
+navigatormediaDevicesgetUserMedia;navigatormediaDevicesgetUserMedia
+navigatormozGetUserMedia;navigatormozGetUserMedia
+nbspnbspnbspnbspnbspnbspInternal;nbspnbspnbspnbspnbspnbspInternal
+nd;nd
+near;near
+nearby;nearby
+nearest;nearest
+necessary;necessary
+need;need
+needed;needed
+needing to;needing to
+needing;needing
+needs;needs
+negate;negate
+negated;negated
+negation;tərs
+negative;negative
+negotiate an inadequate;negotiate an inadequate
+negotiate;verməyən
+negotiating a;negotiating a
+negotiating;negotiating
+negotiation;negotiation
+neither;neither
+nested Table;nested Table
+nested;nested
+nesting;nesting
+netnz /;netnz /
+netnz;netnz
+netscape;netscape
+netscapepublicmozillamailnews&apos;netscapepublicmozillamailnews&apos
+network Monitor;network Monitor
+network Timeout;network Timeout
+network drive;network drive
+network section;network section
+network;şəbəkə
+never Show;never Show
+never;never
+new Caledonia;new Caledonia
+new Separator;new Separator
+new Tab;new Tab
+new Zealand;new Zealand
+new home;new home
+new word;new word
+new;açmamışdan
+newer;newer
+news client;news client
+news;news
+newsexamplenet;newsexamplenet
+newsgroup subscriptions;newsgroup subscriptions
+newsgroup;newsgroup
+newsgroups;newsgroups
+newsrc File;newsrc File
+newsrc file;newsrc file
+newsrc;newsrc
+next gt;next gt
+next;növbəti
+nicer;nicer
+nick;ləqəb
+nickname;nickname
+nicknamegt Change;nicknamegt Change
+nicknamegt;nicknamegt
+nicknames;nicknames
+nicks;ləqəblər
+nightly;gecelik
+nikto;nikto
+nine;nine
+nineteen;nineteen
+nineteenth;nineteenth
+ninth;ninth
+nnn;nnn
+nntp;nntp
+no &apos;no &apos
+no Fortezza;no Fortezza
+no OMTC;no OMTC
+no Style;no Style
+no Thanks;no Thanks
+no cipher;no cipher
+no decoders;no decoders
+no globals;no globals
+no label;no label
+no less;no less
+no metaviewport;no metaviewport
+no nodelock;no nodelock
+no printers;no printers
+no slot;no slot
+no thanks;no thanks
+no unconfirmed;no unconfirmed
+no;yox
+noMac;noMac
+noWin;noWin
+nocors&apos;nocors&apos
+nocors;nocors
+node;node
+nodeShow all;nodeShow all
+nodeShow;nodeShow
+nodeValue;nodeValue
+nodelock;kilidi
+nodes;nodes
+nominative;nominative
+non Participant;non Participant
+non;non
+nonASCII;nonASCII
+nonFORTEZZA Certificate;nonFORTEZZA Certificate
+nonFORTEZZA;saf
+nonGregoriancalendar;nonGregoriancalendar
+nonResponse;nonResponse
+nonUTF encoding;nonUTF encoding
+nonUTF;nonUTF
+nonascii character;nonascii character
+nonascii;nonascii
+noncesource;noncesource
+noncharacter;noncharacter
+none;heç biri
+nonempty;nonempty
+nonfunction pseudoclass;nonfunction pseudoclass
+nonfunction;oxunarkən
+nongeneric;subdomen
+nonincremental Cause;nonincremental Cause
+nonincremental;nonincremental
+nonleaf;nonleaf
+nonmultiprocess;nonmultiprocess
+nonnavigation;nonnavigation
+nonnegative;nonnegative
+nonparticipant;nonparticipant
+nonprintable character;nonprintable character
+nonprintable;nonprintable
+nonprofit Mozilla Foundation;nonprofit Mozilla Foundation
+nonprofit;yönəlmiş
+nonspace in;nonspace in
+nonspace;nonspace
+nonstandard;nonstandard
+nontext;nontext
+nonvoid;nonvoid
+noon;noon
+nor;xitmət
+normally;normally
+noscript;noscript
+nosniff;tuturdunuz
+nostore;nostore
+not After;not After
+not Before;not Before
+not Connected;not Connected
+not Critical;not Critical
+not Defined;not Defined
+not Deleted;not Deleted
+not Downloaded;not Downloaded
+not Enabled;not Enabled
+not Installed;not Installed
+not Present;not Present
+not Started;not Started
+not Stored;not Stored
+not Trusted;not Trusted
+not accepted;kabul edilmedi
+not accessible;not accessible
+not be saved;not be saved
+not checked;işarələnmədi
+not disturb;not disturb
+not expecting;not expecting
+not fit;not fit
+not implemented yet;not implemented yet
+not injure;not injure
+not involving;not involving
+not press;not press
+not readable;not readable
+not standalone;not standalone
+not;verməz
+notation be unescaped;notation be unescaped
+notation be;notation be
+notation;notation
+note Slow;note Slow
+note;qeyd
+notes;yükləyəndə
+nothing;nothing
+notice;notice
+noticed;noticed
+notification Permissions;notification Permissions
+notification _;notification _
+notification;notification
+notifications;biləcəklərini
+notified;notified
+notifier or;notifier or
+notifier;çubuğunu
+notify me;notify me
+notify;notify
+noting;bildirən
+nounclass;nounclass
+nov &#124;nov &#124
+nov;nov
+november;november
+now doesn &apos;now doesn &apos
+now;now
+npmmailnews&apos;npmmailnews&apos
+nsICookieManager;nsICookieManager
+nsICookieManagerS;nsICookieManagerS
+nsICookieManagerremove;nsICookieManagerremove
+nsIDOMWindow instead;nsIDOMWindow instead
+nsIDOMWindow;nsIDOMWindow
+nsIDOMWindowInternal;nsIDOMWindowInternal
+nsIDOMWindowUtilsgetOuterWindowWithId;nsIDOMWindowUtilsgetOuterWindowWithId
+nsIJSONdecode;nsIJSONdecode
+nsIJSONencode is;nsIJSONencode
+nsIJSONencode;nsIJSONencode
+nsIProtocolHandleridl;nsIProtocolHandleridl
+nsIWindowMediator;metodundan
+nsIWritablePropertyBag;nsIWritablePropertyBag
+num;bölünən
+number;varp
+numbered;numbered
+numbers negative;numbers negative
+numbers;numbers
+numerator;bölünən
+numeric;ədədi
+nursery Collection;nursery Collection
+nursery Eviction;nursery Eviction
+nursery;nursery
+obj Properties;obj Properties
+obj;obj
+object Stores;object Stores
+object;object
+objects;obyektlərinin
+obscured;obscured
+observed;yükləndiyini
+observers;observers
+obtain;obtain
+occur;occur
+occured;occured
+occurred;yarandığı
+occurrence of;occurrence of
+occurrence;occurrence
+occurrences;Mətndə
+occurs;occurs
+oct &#124;oct &#124
+oct;oct
+october;october
+of DOMException &apos;of DOMException &apos
+of DataContainerEvent;of DataContainerEvent
+of Mammon;dalaşdı
+of Man;of Man
+of Office;of Office
+of Operation;of Operation
+of Sync;of Sync
+of Validity;of Validity
+of XMLHttpRequest &apos;of XMLHttpRequest &apos
+of XPCOM;of XPCOM
+of a user &apos;of a user &apos
+of attributes &apos;of attributes &apos
+of copies;of copies
+of elapsed;cəmi
+of fontfeaturevalues;of fontfeaturevalues
+of getAttributeNode;of getAttributeNode
+of getAttributeNodeNS;of getAttributeNodeNS
+of getPreventDefault;of getPreventDefault
+of getUserData;of getUserData
+of inactivity;of inactivity
+of intermediate;of intermediate
+of keyframes;keyframes
+of law;of law
+of nsIDOMWindowInternal;of nsIDOMWindowInternal
+of nsIDOMWindowUtilsgetOuterWindowWithId;of nsIDOMWindowUtilsgetOuterWindowWithId
+of numbers;of numbers
+of of;of of
+of paper;of paper
+of qstrongwww;of qstrongwww
+of reachable;of reachable
+of recurrence;of recurrence
+of releaseEvents;of releaseEvents
+of removeAttributeNode;of removeAttributeNode
+of service;of service
+of setAttributeNode;of setAttributeNode
+of setAttributeNodeNS;of setAttributeNodeNS
+of setVelocity;of setVelocity
+of signature;of signature
+of strongwww;of strongwww
+of thousands;of thousands
+of timers;of timers
+of type gif jpg;of type gif jpg
+of unresolved;of unresolved
+of windowshowModalDialog;of windowshowModalDialog
+of;  
+ofbr;ofbr
+off paint;off paint
+off;qapalı
+off;sönülü
+offer;offer
+offered;offered
+offering;offering
+offerings;offerings
+offers;offers
+offerxA »;offerxA »
+offline;oflayn
+offline_apps;offline_apps
+offsets;offsets
+often;often
+ok;ok
+old;old
+older than;older than
+older version of Sync;older version of Sync
+older;older
+oldstyle YouTube;oldstyle YouTube
+oldstyle;qaydada
+omitted;duyan
+on Main;on Main
+on Permit;on Permit
+on Top;on Top
+on Twitter;MozTestPilot
+on boxcom;on boxcom
+on shutdown;on shutdown
+on tenured;on tenured
+on;açıq
+once;Endirildikdən
+one Level;one Level
+one moreand;one moreand
+one;Gələcək
+oneoff;oneoff
+ones;ones
+oneshot;oneshot
+oneubuntucom;oneubuntucom
+ongoing;ongoing
+online;onlayn
+only reloads;only reloads
+only supports;only supports
+only transmitted;only transmitted
+only;only
+onlybr;onlybr
+opacity in;opacity in
+opacity;opacity
+opaque Response;opaque Response
+opaque;opaque
+opaqueredirect Response;opaqueredirect Response
+opaqueredirect;opaqueredirect
+opcode;opcode
+open Web;open Web
+open WebIDE;open WebIDE
+open;açıq
+opened;açılıb
+opening fence;opening fence
+opening;açmağını
+opensource;opensource
+operating system;operating system
+operating;operating
+operation command;operation command
+operation failed;operation failed
+operation;yetirə
+operations error;operations error
+operations;operations
+operator expected;operator expected
+operator;Əməliyyatcı
+operators;operators
+opportunity;opportunity
+opposed;opposed
+optimization;optimization
+optimizations;optimizations
+optimized away;optimized away
+optimized;optimized
+optin No;optin No
+optin;istəyinizlə
+option Group;option Group
+option;seçim
+optional defaultS;optional defaultS
+optional;istəyə bağlı
+optional;seçimə bağlı
+optionally;optionally
+options;options
+optionss;optionss
+or BSIGNED;or BSIGNED
+or Columns;or Columns
+or Distrust;or Distrust
+or chat;or chat
+or differing;or differing
+or hashsource specified;or hashsource specified
+or her;or her
+or lost;or lost
+or setTimeout;or setTimeout
+or&apos;or&apos
+or;və ya
+orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV;orPrimaryEmailcVDisplayNamecVFirstNamecVLastNamecV
+orange;orange
+order Received;order Received
+order;Yenisinin
+organization;organization
+organizations;organizations
+organizer;organizer
+origin;sənədlə
+originAttributes;originAttributes
+original;original
+originally;originally
+originals;originals
+originating;originating
+origins;origins
+orithm Identifier;orithm Identifier
+other User &apos;other User &apos
+other Workers;other Workers
+other categories;other categories
+other malicious;other malicious
+other malware;other malware
+other participants;other participants
+other typographical;other typographical
+other;yetirmədi
+others;sərbəst
+otherwise it;otherwise it
+otherwise;otherwise
+our geolocation;our geolocation
+our partners;our partners
+our;təminatçılarımız
+out BrandShortName &apos;out BrandShortName &apos
+out brfrom the crowd;out brfrom the crowd
+out sequentially;out sequentially
+out what &apos;out what &apos
+out;Sisteminizi
+outage;outage
+outdated;Aktuallığını
+outgoing;outgoing
+outline;qaralama
+outlook;outlook
+outofdate;outofdate
+output folder;output folder
+output;Çıxış
+outside;outside
+over other apps &apos;over other apps &apos
+over;üst
+overhead;overhead
+overlay;overlay
+overridden;overridden
+override the viewer &apos;override the viewer &apos
+override;override
+overriding;overriding
+overscript;üst skript
+overview;overview
+overwrite;overwrite
+overwritten;overwritten
+own;own
+owned;owned
+owner of;owner of
+owner;owner
+ownerElement;ownerElement
+owners;owners
+ownership;ownership
+p pIf;p pIf
+p;p
+pA secure;pA secure
+pA;saatınız
+pAdditional information;pAdditional information
+pAdditional;pAdditional
+pAttack pages;pAttack pages
+pAttack;pHücum
+pDeceptive sites;pDeceptive sites
+pDeceptive;pAldadıcı
+pEntering any;pEntering any
+pEntering;pEntering
+pIf;pIf
+pThe browser;pThe browser
+pThe page;pThe page
+pThe requested;pThe requested
+pThe;pİstədiyiniz
+pThese types;pThese types
+pThese;pThese
+pThough;pBaxmayaraq
+pUnwanted;pİstənməyən
+pWeb;pWeb
+pWebsite owners who believe their;pWebsite owners who believe their
+pWebsite;pWebsite
+pYou should not;pYou should not
+pYou should;pYou should
+pYou;pTam
+pYour;pYour
+package;paketinin
+packaged;packaged
+packets;paket
+padding;padding
+page &apos;page &apos
+page Colors;page Colors
+page Footers;page Footers
+page Setup …;page Setup …
+page Title;page Title
+page continued;page continued
+page navigation;page navigation
+page translation;page translation
+page };page }
+page;sayfa
+pageCount;pageCount
+pageload;pageload
+pages &apos;pages &apos
+pages conveniencebr;pages conveniencebr
+pages they &apos;pages they &apos
+pages;açılmırsa
+paint flashing;paint flashing
+paint;paint
+painted area;painted area
+painted;painted
+pair a;pair a
+pair;pair
+pane;panel
+panel;panel
+panes;panes
+panning;panning
+paper Size;paper Size
+paper;Kağızın
+paragraph Marks;paragraph Marks
+paragraph;abzas
+paragraph;paraqraf
+param;çevirə
+parameter entity;parameter entity
+parameter;parameter
+parameters;qarşılıqlı
+paranoid;paranoid
+parent Match;parent Match
+parent Payload;parent Payload
+parent prefix;parent prefix
+parent;parent
+parse XML;parse XML
+parse failure;parse failure
+parse;parse
+parsed;parsed
+parser state;parser state
+parser;analiz
+parsing;parsing
+part of;part of
+part;arqumentinin
+partial Update;partial Update
+partial character;partial character
+partial;partial
+partially;hissəli
+participant;participant
+participants from;participants from
+participants;participants
+participate;participate
+particular purposes;particular purposes
+particular;qarşılamaq
+parties;parties
+partner You;partner You
+partner;partner
+partners We;partners We
+partners work;partners work
+partners;ortaqları
+partnership;partnership
+parts;parts
+party;haqqınız
+partyAre;asanlıqla
+pass;originAttributes
+passed to;passed to
+passed;dekodlaşdırılamayan
+passive ’;passive ’
+passive;preventDefault
+passwdtxt;passwdtxt
+password &apos;password &apos
+password Required;password Required
+password copied;password copied
+password fields;password fields
+password for &quot;password for &quot
+password quality meter;password quality meter
+password&apos;password&apos
+password;şifrəni
+passwordLeave;passwordLeave
+passwordStored;passwordStored
+passwordprotected;passwordprotected
+passwords;şifrələr
+past;past
+pasting;pasting
+patch apply;patch apply
+patch;patch
+path;yol
+paths starting;paths starting
+paths;paths
+pattern &apos;pattern &apos
+pattern;pattern
+pause;pause
+paused —;paused —
+paused;paused
+payload;payload
+payment provider;payment provider
+payment;ödəmə
+pbrandShortName can &apos;pbrandShortName can &apos
+pbrandShortName can;pbrandShortName can
+pbrandShortName prevented;pbrandShortName prevented
+pbrandShortName;pbrandShortName
+peace;Sülh
+peer &apos;peer &apos
+peer;həmkarı
+peers &apos;peers &apos
+peers;peers
+pending dump;pending dump
+pending;gözlənilir
+people &apos;people &apos
+people wouldn &apos;people wouldn &apos
+people;people
+per;per
+percent;percent
+percentage of;percentage of
+percentage;faiz
+percnt Completed;percnt Completed
+percnt;percnt
+perform caseinsensitive;perform caseinsensitive
+perform querySelectorAll;perform querySelectorAll
+perform;perform
+performance;performans
+performed Trying;performed Trying
+performed;performed
+performgt;həyata
+performing;aktivləşdirməlsiniz
+periodically;periodically
+permanent exception;permanent exception
+permanent;Qalıcı
+permanently deleted;permanently deleted
+permanently;permanently
+permissible length;permissible length
+permissible;aşan
+permission denied;permission denied
+permission;tamamən
+permissions;permissions
+permit;əla
+permitted;verildiyinə
+persistent logs;persistent logs
+persistent;persistent
+person &apos;person &apos
+person who holds;person who holds
+person;işlədən
+personal Card;personal Card
+personal;personal
+personalhttp//wwwmozillaok;personalhttp//wwwmozillaok
+personalize;formalarla
+phasang;komp ampl
+phasor;kompleks
+pin;bərkid
+ping;ping
+pixels;piksel
+places;Yerlər
+play Speed;Oxutma Sürəti
+play;oynat
+plugin;Əlavəni
+plugins;qoşmaları
+podcast;podyayımına
+point;nöqtəsinə
+policies;sıralanmalıdır
+poly;poly
+popular;çıxarılacaq
+port;portuna
+portions;hissəsinin
+position;position
+ppSome;ppBəzi
+prefer;irəli
+preferences;preferences
+preferonline;preferonline
+prefix;prefiksi
+pressed;basılıb
+presub;ön alt
+presubscript;ön alt skript
+presup;ön üst
+presuperscript;ön üst skript
+prevent;versiyalarda
+prevents;prevents
+previous;Önceki
+price;Fiyata
+primev;primev
+principal;prinsipi
+print;çap
+prior;əvvəlcə
+privacy;Gizlilik
+private;məxfi
+privileged;səlahiyyətli
+probably;ehtimal
+problem;xətadan
+proceed;eləmək
+processes;əməliyyatlar
+processor;prosessor
+profile;profilinizdəki
+program;tətbiqdəki
+programs;proqramlarınız
+progress;irəliləmə
+prohibited;prohibited
+project;proyekt
+projects;projects
+prolog;təsiri
+promises;gözlətmə
+prompt;prompt
+prompted;olsa
+properties;Xassələri
+property;xüsusiyyətlə
+protect;üçündür
+protection;qorumanı
+protects;qoruduğu
+protocol;protokol
+protocols;yüklənməsinə
+providers;vəziyyətlərin
+proxy;proxy
+pseudoclass;sözdəsinif
+pseudoclasses;larını
+pseudoelement;sözdəelement
+pspan;pspan
+publicly;Yazılan
+pulliCould;pulliServer
+pulliDid;serverlərini
+pulliHave;pulliSaytın
+pulliIs;qurulmamış
+pulliPlease;pulliBu
+purposes;səyahətindən
+push;push
+px;px
+q;q
+qmozillaorg;qmozillaorg
+qstrongwww;qstrongww
+quality;keyfiyyət
+query string;sorğu
+queue;sırası
+quit;Proqramından
+qwxyz;qabcd
+rad;rad
+radical;radikal
+radio;radio
+radius;dəyərinə
+range;xaricdir
+raw;raw
+read;read
+reader;oxuyucusu
+readonly;yalnız oxunan
+real;real
+reason;verməyin
+reasons;URLləri
+received;DiffieHellman
+recommends;önəmlə
+reconnect;qoş
+record;qeydi
+recover;nüsxələyin
+rect;rect
+redirect Loop;Yönlendirmə dövrəsi
+redirecting;yönləndirir
+reference;referansı
+referenced;referenced
+refiling;doldurularkən
+refreshing;buraxaraq
+refused;reddedildi
+regexp function;regexp funksiyasında düzüm
+regexp;regexp
+region;bölgə
+register;Yüklənmə
+registering;etmədə
+rejected;sıxmağı
+related;silinmişdir
+relating;işlənməsindən
+relevant;relevant
+reload;Yüklə
+reloading;yenidən yüklənir
+remain;edəcəkdir
+remaining;qaldı
+remember;xatırlamaq
+remote SDP;Üzaq SDP
+remote;uzaq
+remove;qaldıra
+removeEventListener;removeEventListener
+removed;gələcəkdə
+renamed;köçürülmədiyini
+repaired;protokolunu
+reparsed;edilməsinə
+repeatautofit;Təkraravtosığma
+repeats;təkrar təkrar
+replace;dəyişəcək
+replaced;replaced
+replacement;əvəzləyici
+report;raportunu
+reported;ələ
+reporting;hesabatlama
+reporturi;reporturl
+request;istəyini
+requested;yerin
+requesting;göndərən
+require;protokollarının
+required;lazımlı
+requires;şifrələrin
+resample;çatmır
+resend;Yazdığınız
+reserved;ehtiyatlanmış
+reset;Sıfırla
+resize;ölçüləndir
+resolution;həlli
+resolve;başladaraq
+resource;uyğunsuzluğu
+respondWith;respondWith
+responder;cavabdehlik
+response;cavabına
+restart;başlasın
+restarted;əməliyyatınını
+restrictions;funksionallıqlar
+result;nəticələnə
+results;nəticələri
+retrieves;her
+return;return
+reveal;Hücumçu
+review reviews;araşdırma araşdırma
+review;göndərilməsinə
+rght;sağ
+rich visual;vizual
+right;sağ
+risk;riski
+risky;risqli
+rndbox;dairəvi qutu
+room;otaq
+root;kök
+rounded;dairəvi
+row;sətir
+rowand;sətirvə
+rows;sətir
+rr;rr
+rtl;rtl
+ruby;ruby
+rule;qaydasının
+run;başlatmağa
+s;den
+safe;etdikdən
+same;nizamlamalardan
+samples;samples
+sandbox;sandbox
+saturation;doyğunluq
+save;save
+saved;yaddaşdakı
+saver;saxlayıcısı
+saving;saxlanarkən
+savings;qənaət
+say;Əmrləri
+says;deyir
+scaled;ölçüləndirildi
+scan;skanlamaq
+scope;əhatəsi
+screen;ekranınızı
+screenshot;screenshot
+script;skriptinin
+scripted;skriptləş
+scripted;skriptləşdirilmiş
+scripts;Skriptlərin
+scrollbar;diyirləndirmə
+search;axtarış
+searchable;qovluqdur
+searches;axtarışlar
+sec;sn
+seconds;saniyə
+secondseconds;saniyəsaniyə
+secpk;secpk
+secpr;secpr
+section;bölmə
+sectk;sectk
+sectr;sectr
+security;texnologiya
+see;qurmalısınız
+seeing doctype;seeing doctype
+seeing;öyrəşməmisinizsə
+seek;seek
+seeking;fırladılır
+seem;seem
+seems;başlayıb
+seen but;seen but
+seen;seen
+select &quot;select &quot
+select camera;select camera
+select;yeləşdirərək
+selected line &apos;selected line &apos
+selected;seçilib
+selecting;girin
+selection;selection
+selections above;selections above
+selections;selections
+selectlabel;selectlabel
+selector;seçici
+selectors separated;selectors separated
+selectors;selectors
+selects;selects
+selfsigned;selfsigned
+semicolon;semicolon
+send Feedback;send Feedback
+send For;send For
+send;Göndər
+sender &apos;sender &apos
+sender message;sender message
+sender;sender
+sending;Göndərirkən
+sends;vendorShortNamea
+sensitive;Böuükkiçik
+sensitivity;sensitivity
+sent Cookie;sent Cookie
+sent;sent
+sep &#124;sep &#124
+sep;sep
+separate tags;separate tags
+separate;separate
+separated;separated
+separately;separately
+separating;separating
+separator character;separator character
+separator;ayırıcı
+sept;sept
+september;september
+sequentially as a waterfall;sequentially as a waterfall
+sequentially;sequentially
+serial Number;serial Number
+serial number;serial number
+serial;seriyaya
+series;series
+serif;serif
+server &apos;server &apos
+server Quota;server Quota
+server SMTP&apos;server SMTP&apos
+server incorrectly;server incorrectly
+server maintenance;serverində təmir
+server that can &apos;server that can &apos
+server;açanda
+servers Maybe;servers Maybe
+servers;serverlər
+serves;serves
+service providers;service providers
+service worker;service worker
+service;servisiniz
+services;xidmətə
+serving;serving
+session ID;session ID
+session Id;session Id
+session Statistics;session Statistics
+session cache;session cache
+session;sessiya
+sessions;sessions
+set Priority;set Priority
+set browsercachediskenable;set browsercachediskenable
+set strokeStyle;set strokeStyle
+set;vəya
+setAttribute instead;setAttribute instead
+setAttribute;setAttribute
+setAttributeNS instead;setAttributeNS instead
+setAttributeNS;setAttributeNS
+setAttributeNode;setAttributeNode
+setAttributeNodeNS;setAttributeNodeNS
+setTimeout cycle;setTimeout cycle
+setTimeout;setTimeout
+setUserData;setUserData
+setVelocity;setVelocity
+sets;sets
+setting;Çərəzin
+settings &#124;settings &#124
+settings&apos;settings&apos
+settings;tənzimləməsini
+setup options;setup options
+setup;setup
+seven;seven
+seventeen;seventeen
+seventeenth;seventeenth
+seventh;seventh
+several ways;several ways
+several;several
+shader Editor;shader Editor
+shader compile status;shader compile status
+shader compile;shader compile
+shader;shader
+shadows variable;shadows variable
+shadows;shadows
+shall control;shall control
+shall;shall
+shape &quot;shape &quot
+shape;shape
+share;Paylaş
+shared Workers;shared Workers
+shared;shared
+sharedLongDesc;sharedLongDesc
+shares;səyyahınızla
+sharing;vərəqlə
+sheet;sheet
+sheets;sheets
+shell;shell
+shield;gördüyünüzdə
+shiftKeylabel;shiftKeylabel
+shiftclick;shiftclick
+shiny metal posteriors which;shiny metal posteriors which
+shiny;shiny
+shopping;shopping
+short;short
+shortcut;qısayol
+shortcuts;menyusundan
+shorten this;shorten this
+shorten;shorten
+shorter file;shorter file
+shorter;shorter
+shortly;shortly
+shortname;shortname
+should keep;should keep
+should make;should make
+should;sənədinini
+shouldn &apos;shouldn &apos
+shouldn;shouldn
+show Cookies;show Cookies
+show resultShow;show resultShow
+show through;show through
+show;Show
+showall &apos;showall &apos
+showall;showall
+showing repairing;showing repairing
+showing;showing
+shown;açılmır
+shownReplies;shownReplies
+shows;shows
+shtml;shtml
+shut brandShortName;shut brandShortName
+shut;shut
+shutdown Progress Window;shutdown Progress Window
+shutdown Progress;shutdown Progress
+shutdown;shutdown
+shutting down;shutting down
+shutting;shutting
+sibiling;sibiling
+side;side
+sidebar;göstərilməsinə
+sidebarName;sidebarName
+sidebars;yan panelləri
+sign in;sign in
+sign;imzalamaq
+signal;signal
+signature algorithms;signature algorithms
+signature;imza
+signatureAlgorithm;signatureAlgorithm
+signatures;signatures
+signed;signed
+signer &apos;signer &apos
+signer;bilməmiş
+signers found;signers found
+signers;signers
+significant;significant
+signing certificate;signing certificate
+signing;signing
+signup;signup
+silence;sakitlik
+silently authenticates;silently authenticates
+silently;səsszicə
+similar;similar
+simple Measurements;simple Measurements
+simple XLink;simple XLink
+simple;simple
+simplified;simplified
+simply need;simply need
+simply;simply
+simulation;simulation
+simulator installed;simulator installed
+simulator;simulyatordan
+since;since
+single;tuta
+singlesignon;singlesignon
+site &apos;site &apos
+site doesn &apos;site doesn &apos
+site;saytdır
+sitename &apos;sitename &apos
+sitename;sitename
+sitenat;sitenat
+sites;tamam
+six;six
+sixteen &#124;sixteen &#124
+sixteen;sixteen
+sixteenth;sixteenth
+sixth;sixth
+size;size
+sizes;sizes
+skip Integration;skip Integration
+skip this;skip this
+skip;skip
+skipped;skipped
+skips;skips
+slash operators;slash operators
+slash;slash
+slashes ie;slashes ie
+slashes;slashes
+slice;slice
+slider;diyircək
+slider;sürgü
+slot;slot
+slots;slots
+slow Motion;slow Motion
+slow SQL;slow SQL
+slow down;slow down
+slow ×;slow ×
+slow;slow
+slowing;slowing
+slowly;slowly
+small;small
+smaller;smaller
+smart;smart
+smartcard please;smartcard please
+smartcard;smartcard
+smartlabel;smartlabel
+smartphone;smartphone
+smiley face;smiley face
+smiley;smiley
+smooth scrolling;Axıcı sürüşdürmədən
+smooth;Axıcı
+smtpexamplenet;smtpexamplenet
+snapshot;snapshot
+snapshots;snapshots
+snews;snews
+so it &apos;so it &apos
+so it can &apos;so it can &apos
+so you &apos;so you &apos
+so;səbəbdən
+soap;soap
+socket;socketində
+software makers;software makers
+software;software
+solid Border;solid Border
+solid circle;solid circle
+solid;render
+solution;solution
+solutions;solutions
+solve a;solve a
+solve;yaraya
+some cool;some cool
+some printing;some printing
+some sample;some sample
+some unspecified;some unspecified
+some;hissəsini
+somebody &apos;somebody &apos
+somebody;somebody
+someone isn &apos;someone isn &apos
+someone;someone
+something;etməyiniz
+sometimes;sometimes
+somewhere earlier;somewhere earlier
+somewhere;somewhere
+soon;soon
+sorry BrandShortName can &apos;sorry BrandShortName can &apos
+sorry we &apos;sorry we &apos
+sorry;sorry
+sort;için
+sound file;sound file
+sound;sound
+sounds like;sounds like
+sounds;sounds
+source software;source software
+source;source
+sources;sources
+space Fantasy;Kosmik Fantaziya
+space between;space between
+space;space
+spaces;spaces
+spam;spam
+span class &apos;span class &apos
+span;span
+spanThis;spanThis
+spanbrandShortName;spanbrandShortName
+spandisabled;spandisabled
+spanenabled;spanenabled
+spans;spans
+spanspan;spanspan
+speak now;speak now
+speak;danış
+speaking;speaking
+spec in;spec in
+spec;spec
+special incidental;special incidental
+special kinds;special kinds
+special;special
+specific command;specific command
+specific;specific
+specifically;specifically
+specification;specification
+specified;specified
+specifies;tanınmayan
+specify preferred;specify preferred
+specify;İcaz
+specifying a;specifying a
+specifying acceptcharsetutf;specifying acceptcharsetutf
+specifying;specifying
+speed;sürətdə
+speedOfSound;speedOfSoundun
+spell checking;spell checking
+spell;spell
+spellchecker;spellchecker
+spelling;dəyişmiş
+spend;spend
+spent;spent
+spin button;spin button
+spin;fırlanma
+split;split
+sponsored;partnyorlarımızdan
+spool;spool
+spyware;spyware
+sqrt;kökaltı
+square root;square root
+square;square
+src;src
+srcdir;srcdir
+srcs;srcs
+ssl;ssl
+st;st
+stability issues;stability issues
+stability update;stability update
+stability;stabillik
+stable;stable
+stack trace;stack trace
+stack;stack
+stacks;stacks
+standalone;standalone
+standard time;standard time
+standard toBlob;standard toBlob
+standard;standard
+standards mode;standards mode
+standards;standards
+star rating;star rating
+star;star
+starred;starred
+start Debug;start Debug
+start Simulator;start Simulator
+start;başlangıç
+started finding;started finding
+started;başladıldı
+starting with &apos;starting with &apos
+starting;starting
+startlabel;startlabel
+startmozillaorg;startmozillaorg
+starts;starts
+startup;startup
+state;anındakı
+statement;statement
+statements;statements
+statistics about;statistics about
+statistics;statistics
+stats;statistikalar
+status &apos;status &apos
+status bar;status bar
+status;status
+stay;stay
+steal;başqalarına
+step Over;step Over
+step;step
+stepped through;stepped through
+stepped;stepped
+stepping;stepping
+steps out;steps out
+steps;steps
+still;still
+stolen;stolen
+stop Debug;stop Debug
+stop Mirror;stop Mirror
+stop Wearing;stop Wearing
+stop the;stop the
+stop;hesabla
+stopped;tamamlamasını
+stopping;stopping
+stops;stops
+storage quotas;storage quotas
+storage;storage
+storages;storages
+store;saxlamasına
+stored;stored
+stores information;stores information
+stores;stores
+storing;kompüterimdə
+stream;stream
+strength;strength
+strict protection;strict protection
+strict;qəti
+strike;strayk
+string literal;string literal
+string;yazı
+strings or;strings or
+strings;strings
+strokeStyle;fillStyle
+strong;strong
+strongApps;strongApps
+strongDevice;strongDevice
+strongThe Book of;strongThe Book of
+strongThe Book;strongThe Book
+strongThe;strongThe
+stronger Emphasis;stronger Emphasis
+stronger;stronger
+strongexamplecom;strongexamplecom
+stronghttp;stronghttp
+strongly recommends;strongly recommends
+strongly;strongly
+strongmozillaorg;strongmozillaorg
+strongww;strongww
+strongwww;strongww
+structure is corrupt;structure is corrupt
+structure;structure
+structures;structures
+studies;qoşularaq
+study Findings;study Findings
+study;iptal
+style Editor;style Editor
+style Inspector;style Inspector
+style endexpand;style endexpand
+style sheet;style sheet
+style;stil
+styles;styles
+stylesheet;stylesheet
+stylesheets;stylesheets
+stylesrc;stylesrc
+sub;alt
+subdirectory;subdirectory
+subdocument;subdocument
+subdomain;salmalıdır
+subdomains;subdomains
+subfolder;subfolder
+subfolders;subfolders
+subgrid;subgrid
+subgroups;subgroups
+subject Reminder;subject Reminder
+subject;subject
+submission to;submission to
+submission;submission
+submit Query;submit Query
+submit bugs;submit bugs
+submit information that &apos;submit information that &apos
+submit;etdirmək
+submits;submits
+submitted;yardımçı
+submitting your;submitting your
+submitting;submitting
+subresource;üstqaynaq
+subscribe Calendars;subscribe Calendars
+subscribe;abunə
+subscribed;subscribed
+subscribedImported;subscribedImported
+subscribing;subscribing
+subscript;alt skript
+subscription;subscription
+subscriptions;subscriptions
+subsession data;subsession data
+subsession;subsession
+substituting;yerləşdirdikdən
+subthread;subthread
+subthreads;subthreads
+subtree;subtree
+succeed;succeed
+succeeded;succeeded
+successful;successful
+successfully Transmitted;successfully Transmitted
+successfully;başarıyla
+such;such
+suddenly;suddenly
+sufficient;sufficient
+suggest;suggest
+suggested Contribution;suggested Contribution
+suggested Tags;suggested Tags
+suggested;görülənləri
+suggestion;suggestion
+suggestions;məsləhərləri
+suggests;suggests
+suit;suit
+suitable;suitable
+suite;suite
+suites are;suites are
+suites;suites
+sum;sum
+summary file;summary file
+summary;summary
+summoned;summoned
+sunday;sunday
+sundays;sundays
+sup;üst
+superscript pair;superscript cütü
+superscript;üst skript
+superseded by;superseded by
+superseded;superseded
+supervision;supervision
+supplied;supplied
+supply alternate;supply alternate
+supply identity;supply identity
+supply publishing;supply publishing
+supply;supply
+support Resources;support Resources
+support certificates;support certificates
+support;dəstəkli
+supported;supported
+supporting;supporting
+supportmozillaorg;supportmozillaorg
+supports;supports
+sure;olmadığından
+surface area;surface area
+surface;surface
+surprised face;surprised face
+surprised;surprised
+surrogate;surrogate
+surrounding environment;surrounding environment
+surrounding;surrounding
+survey is;survey is
+survey;sorğusuna
+susceptible;susceptible
+suspected;suspected
+suspicious;suspicious
+sutomatically;sutomatically
+svSE;svSE
+svg;svg
+switch to;switch to
+switch;dəyiş
+switched;qoşulub
+switching;switching
+symbol;symbol
+symbols;symbols
+sync them;sync them
+sync;sinxronizasiyası
+syncBrandfullNamelabel;syncBrandfullNamelabel
+syncBrandfxAccountlabel;syncBrandfxAccountlabel
+syncBrandshortNamelabel;syncBrandshortNamelabel
+syncBrandshortNamelabelquot;syncBrandshortNamelabelquot
+synced;sinxronlaşma
+synchronization;synchronization
+synchronize;synchronize
+synchronous;əməliyyatda
+syncing;syncing
+synctitlepairlabel;synctitlepairlabel
+syntax Highlighting;syntax Highlighting
+syntax;sintaksis
+system Integration;system Integration
+system beep;system beep
+system;sistemdə
+systemDate &apos;systemDate &apos
+systemDate;systemDate
+systems this;systems this
+systems;systems
+t believe;t believe
+t delete;t delete
+t;t
+tab Delimited;tab Delimited
+tab Index;tab Index
+tab audio;tab audio
+tab previews;tab previews
+tab txt;tab txt
+tab;vərəq
+tabSharing;tabSharing
+tabdelimited tab;tabdelimited tab
+tabdelimited;tabdelimited
+table &apos;table &apos
+table Alignment;table Alignment
+table Insert;table Insert
+table Select;table Select
+table borders;table borders
+table layout;table layout
+table rows;table rows
+table;cədvəl
+tablets;məhdudiyyətli
+tabs;tabs
+tabtxt;tabtxt
+tag;tag
+tagged;tagged
+tagname;tagname
+tags;tags
+take up;take up
+take;götür
+taken;taken
+takes;takes
+taking too;taking too
+taking;taking
+talk;talk
+tampering;tampering
+tapping;tapping
+target;target
+targeted document;targeted document
+targeted;targeted
+task;task
+taskThe;taskThe
+taskbar;Vərəqlərə
+tasks;tasks
+tastes;tastes
+tbl;cdv
+technical Details;technical Details
+technical;Teknik
+technique;technique
+techniques;techniques
+technology;technology
+telephone;telefon
+tell websites;tell websites
+tell;tell
+tells;tells
+template;şablondakı
+templates;templates
+temporarily;temporarily
+temporary outage;temporary outage
+temporary;temporary
+ten;ten
+tename &apos;tename &apos
+tentatively;tentatively
+tenth;tenth
+tenured objects;tenured objects
+tenured;tenured
+ter Lock API;ter Lock API
+term &quot;term &quot
+term;müddət
+term;termin
+terminate a;terminate a
+terminate;terminate
+terminated by xslmessage;terminated by xslmessage
+terminated;terminated
+termination;termination
+terms;terms
+test;testi
+testics;testics
+testimonials;testimonials
+text Area;text Area
+text Size;text Size
+text Wrap;text Wrap
+text alignment;text alignment
+text area;text area
+text container;text container
+text field;text field
+text;text
+textContent attribute;textContent attribute
+textContent;textContent
+textonly;textonly
+texture source;texture source
+texture;texture
+th;th
+than minimum;than minimum
+than;fərqlidir
+thank;thank
+thanks for;thanks for
+thanks;thanks
+that &apos;that &apos
+that can &apos;that can &apos
+that is no;that is no
+that isn &apos;that isn &apos
+that resolved;that resolved
+that steal;that steal
+that we can &apos;that we can &apos
+that wouldn &apos;that wouldn &apos
+that you &apos;that you &apos
+that;yarandığını
+the &apos;the &apos
+the &quot;the &quot
+the ALPN;the ALPN
+the AudioBufferSourceNode;AudioBufferSourceNodeun
+the Book;the Book
+the CMS;the CMS
+the Camera;Kameradan
+the Certifying Authority;the Certifying Authority
+the Certifying;the Certifying
+the Components;the Components
+the DELE;the DELE
+the Dock;the Dock
+the FTP;the FTP
+the Fifth;the Fifth
+the Fourth;the Fourth
+the Grenadines;Grenadineler
+the HTMLMediaElement;the HTMLMediaElement
+the Inspector &apos;the Inspector &apos
+the KRL;the KRL
+the Kerberos;the Kerberos
+the LIST;the LIST
+the MediaStream;the MediaStream
+the Mouse;the Mouse
+the Online;the Online
+the Privacy;the Privacy
+the RETR;the RETR
+the Risks;the Risks
+the SETTINGS;the SETTINGS
+the STAT;the STAT
+the Services;the Services
+the Study;the Study
+the SxS;the SxS
+the Symmetric;the Symmetric
+the TCP;the TCP
+the Test;the Test
+the Timezone;the Timezone
+the URL;the URL
+the additivesymbols;the additivesymbols
+the address isn &apos;the address isn &apos
+the address;the address
+the application didn &apos;t leave an
+the application;the application
+the area;the area
+the attached;the attached
+the authenticity;the authenticity
+the baseline;the baseline
+the beast;the beast
+the beasts;the beasts
+the binary;the binary
+the broad;the broad
+the budget;the budget
+the buffer;the buffer
+the builtin;the builtin
+the capture;the capture
+the center;the center
+the client;the client
+the coding;the coding
+the collected;the collected
+the console;the console
+the current folder &apos;the current folder &apos
+the debugger;the debugger
+the desired;the desired
+the development;the development
+the devtoolsdebuggerremoteenabled preference;the devtoolsdebuggerremoteenabled preference
+the devtoolsdebuggerremoteenabled;the devtoolsdebuggerremoteenabled
+the dimensions;the dimensions
+the duration;the duration
+the emtwins;Mammonun eməkizləri
+the exclusion;the exclusion
+the expires;the expires
+the fifth;the fifth
+the flame;the flame
+the fourth;the fourth
+the framed;Çərçivələnən
+the guides;the guides
+the image &apos;the image &apos
+the implementation;the implementation
+the latest;the latest
+the limit;the limit
+the love;the love
+the measuring;the measuring
+the namespaces;the namespaces
+the native;the native
+the needed;the needed
+the organizer;the organizer
+the owner;the owner
+the page &apos;the page &apos
+the page isn &apos;the page isn &apos
+the partial;the partial
+the phrase;the phrase
+the primary;the primary
+the priority;the priority
+the privilege;the privilege
+the profiler;the profiler
+the program &apos;the program &apos
+the proxy;the proxy
+the recipient &apos;the recipient &apos
+the recipients;the recipients
+the relationship;the relationship
+the requested;the requested
+the resources;the resources
+the rest;the rest
+the safety;the safety
+the screen;the screen
+the server &apos;the server &apos
+the shield;the shield
+the signer &apos;the signer &apos
+the signer;the signer
+the spec;the spec
+the standard;the standard
+the styles;the styles
+the subresource;the subresource
+the sum;the sum
+the surrounding;the surrounding
+the toolbox;the toolbox
+the tooltips;the tooltips
+the translation;the translation
+the uninstall;the uninstall
+the uninstaller;the uninstaller
+the upgrade;the upgrade
+the utf;the utf
+the viewer &apos;the viewer &apos
+the viewer reader &apos;the viewer reader &apos
+the viewport;the viewport
+the visualization;the visualization
+the webapp manifest isn &apos;the webapp manifest isn &apos
+the webapp;the webapp
+the wildcard;the wildcard
+the windowconsole;the windowconsole
+the;imkanınız
+theft;oğurluğu
+their defaults;their defaults
+their;gələni
+them;them
+theme;theme
+themed;mövzunu
+themes;söndürür
+then touching;then touching
+then;then
+there &apos;s
+there;meydana
+therefore;therefore
+these organizations;these organizations
+these;these
+they &apos;ve visited
+they expire;they expire
+they require query;they require query
+they;they
+things you;things you
+things;things
+think I &apos;think I &apos
+think;think
+thinkers;thinkers
+thinking;girirsiniz
+thinks;thinks
+third Party;third Party
+third parties;third parties
+third;third
+thirdparty cookies;thirdparty cookies
+thirdparty software;thirdparty software
+thirdparty;thirdparty
+thirteen &#124;thirteen &#124
+thirteen;thirteen
+thirteenth;thirteenth
+thirtieth;thirtieth
+thirty &#124;thirty &#124
+thirty first;thirty first
+thirty one;thirty one
+thirty;thirty
+this &quot;this &quot
+this Computer;this Computer
+this channel &apos;this channel &apos
+this decision;this decision
+this didn &apos;this didn &apos
+this downloadDelete;this downloadDelete
+this exclusion;this exclusion
+this isn &apos;this isn &apos
+this month;this month
+this operation;this operation
+this personal;this personal
+this pseudoelement;this pseudoelement
+this recurring;this recurring
+this server &apos;this server &apos
+this site &apos;this site &apos
+this test;this test
+this tweet &quot;this tweet &quot
+this tweet;this tweet
+this website;this website
+this;saxlanıbBu
+thisIf;thisIf
+thisa;thisa
+those;üzvlər
+though;though
+thought;thought
+thousands;thousands
+thread &quot;thread &quot
+thread Hangs;Əlaqənin donması
+thread killed;thread killed
+thread watched;thread watched
+thread;thread
+threads;threads
+three;three
+threw;threw
+through inaction;through inaction
+through;through
+thunderbird;thunderbird
+thursday &#124;thursday &#124
+thursday;thursday
+thursdays;thursdays
+ticket was;ticket was
+ticket;ticket
+ties;ties
+til &#124;til &#124
+til;til
+tile replacing;tile replacing
+tile;tile
+tiles;genişlədilmiş
+till;till
+time Stamping;time Stamping
+time These;time These
+time Zone;time Zone
+time communication;time communication
+time secondTime;time secondTime
+time sender;time sender
+time };time }
+time;müddət
+timeOccurs;timeOccurs
+timed Out;timed Out
+timed;timed
+timedout;timedout
+timeline;lenti
+timelines;lentləri
+timeout;timeout
+timer Name;timer Name
+timer started;timer started
+timer;vaxtölçən
+timers in;timers in
+timers;timers
+times;times
+timesaving;timesaving
+timestamp;timestamp
+timestamps;timestamps
+timezone &quot;timezone &quot
+timezone;timezone
+timezonepersonalg;timezonepersonalg
+timezoner message doesn &apos;timezoner message doesn &apos
+title;title
+to;dilindən
+to;nereye
+toggle;Bölümü
+token;token
+too;Too
+toolbar;alət paneli
+toolbar;alət sətri
+toolbars;istədyiniz
+tools;alətləri
+tooltip;ipucu
+top;üst
+touch;toxunma
+traces;izləri
+trackers;izləyicilərdən
+transferred;tutdu
+transformation;çevrilməsi
+transit;şifrələnmədən
+translated;fərq
+transmission;tapılan
+transmitted;Internetdən
+traveling;ötürülməsinin
+treated;unavailable
+tree;ağac
+trick;şeylər
+tried;yerləşdirilməsinə
+trouble;yoxlamağınıza
+troubleshooting;üzrə
+true;true
+trust;güvənin
+trusted;qrupla
+try;çalışırlar
+trying;multimedia
+turn;aktivləşdirin
+tweet;tweeti
+two;two
+txtarea;mətnsahəsi
+type;type
+typically;normalda
+u;u
+uQuit;uÇıx
+ul;ul
+unable;elədirsə
+unavailable critical;kritik
+unavailable;istifadə oluna bilməz
+unavailable;məşğul
+unavailable;uyğun deyil
+unbalanced;nizamsız
+uncheck;qaldır
+unchecked;yoxlanmayıb
+unclosed;qapanmamış
+under;altında
+underscript;alt skript
+undone;qaytarmaq
+unexpected;qarşlaşıldı
+uninitialized;başladılmayıb
+uninstall;sil
+uninstallation;Silməni
+unintentional;yaradılmağa
+unknown fontvariant;fontvariant
+unknown;naməlumdur
+unless;gözləmirdinizsə
+unlikely;görünmə
+unlimited;limitsiz
+unlink;Cihazınız
+unprefixed;şəkilçsiz
+unrecognized;unrecognized
+unresolved;problemlər
+unselected;seçilməyib
+unspecified;göstərilməmiş
+unsupported;dəstəklənməyən
+untrusted;Sənədini
+unused;ibarətdi
+unverified;saytının
+unwanted;bildirilib
+update;yenilənsiz
+updated;yenilənib
+updates;yeniləmələr
+updating;yeniləyərkən
+updiagarrow;üstdiaqox
+updiagstrike;üstdiaqstrayk
+upgrade;yüksəlt
+upgrading;yüksəltməsi
+upload;qorunan
+use of attributes &apos; nodeValue attribute
+use;əhatəyə
+used;istəyəcək
+user;istifadəçinin
+username;saytına
+users;görülür
+using;şəbəkəsi
+utf;utf
+utomatically;utomatically
+v;v
+valid;valid
+validation;keçmədi
+validity;etibarlılığını
+value;dəyər
+variable;dəyişən
+variables Generated;Yaradılan
+vendor;Satıcı
+vendorShortName;vendorShortName
+vendorShortName;vendorShortName 
+verified;neçəsi
+verify;təstiqlə
+verifying;yoxlanır
+version;versiya
+versions;xahiş
+vertical;dik
+very;edəcəklər
+video;Videonun
+view;view
+viewing;ünvanların
+violate;məxfiliyinizin
+visited;baxıldı
+visitors;ziyarətçiyə
+visits;baxıldı
+visually;dəyişdirərək
+vstrike;dikstrayk
+vulnerable;hücumlara
+wait;gözləyin
+waitUntil;waitUntil
+warning;kapat
+warnings;xəbərdarlıqlar
+warranties whether express;risklər
+warranties;Bəzı
+warranty;Zəmanəti
+was;was
+way;formada
+ways;təsirlərə
+we &apos;re
+we won &apos;t
+we;məyus
+weather;vasitə
+web;baxacağınız
+webapp;webapp
+website;saytımıza
+week;Həftə
+weight;ağırlıqdan
+welcome;Xoş
+were;were
+what &apos;s new
+wheel;təkər
+when;çatdırmada
+where;Vərəqlərim
+whether;qərarını
+which;which
+while;while
+who;alacaq
+whom;əlavələrini
+will;səbəbə
+willchange;willchange
+win;win
+window;window
+windowcontrollers is;windowcontrollers
+windowed;pəncərəli
+windowopen;windowopen
+windows;şərhləndirilib
+with;stillərlə
+within;stylesrc
+without;nişanları
+wizard;sehirbazı
+won;saxlamayacaq
+words;sözlər
+work;Offlin
+workers;workerlərdən
+working;işlək
+world;qurmaqda
+worry;qalmır
+wrapped;blokda
+wrapper;Wrapper
+wrappers;wrappers
+writable;yazılabilən
+written like stronghttp;stronghttp
+wwwexamplecom;wwwexamplecom
+wwwopenhorg;wwwopenhorg
+xPair;etxi
+xhrspecwhatwgorg;xhrspecwhatwgorg
+xjavascript;xjavascript
+xml;edilməməli
+xuserdefined;istidadə
+xwestern;xunicode
+xyxy;xyxy
+y;y
+yes;bəli
+yesterday;dünən
+you;əlavəniz
+your mouse;your mouse
+your preferred language;your preferred language
+your preferred;your preferred
+your rights …;your rights …
+your rights;your rights
+your warranty;your warranty
+your;sənədinizlə
+yourself;sənədlərinizdən
+yousenditcom;yousenditcom
+zero;sıfıra
+zone policy;zone policy
+zone;zone
+zoom Controls;zoom Controls
+zoom In;zoom In
+zoom Out;zoom Out
+zoom controls;zoom controls
+zoom in;zoom in
+zoom out;zoom out
+zoom;yaxınlaşdırma
+zooming;zooming
