@@ -1,10 +1,57 @@
-<?php //include("header1.php");
+<?php
 require_once 'db.php';
 ?>
 <?php require_once ("authenticate.php"); ?>
 
- <?php include "logout_button.php"; ?>
- <!DOCTYPE html>
+  
+
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+ <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
+ <link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.9.3/css/bootstrap-select.min.css">
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+ <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.9.3/js/bootstrap-select.min.js"></script>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <title></title>
+ <meta name="keywords" content="" />
+ <meta name="description" content="" />
+ <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900|Quicksand:400,700|Questrial" rel="stylesheet" />
+ <link href="default.css" rel="stylesheet" type="text/css" media="all" />
+ <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+</head>
+<body id="create">
+
+<div id="header-wrapper">
+ <div id="header" class="container">
+   <div id="logo">
+     <h1><a href="../index.php">Terminology <span class="logo_colour"> Creation</span></a></h1>
+         <!-- <h4><a href="register.php"><span class="logo_colour"> </span></a></h4> -->
+            <h4><a href="../index.php"><span class="logo_colour"> Logout</span></a></h4>
+   </div>
+   <div id="menu">
+     <ul>
+       <li class="active"><a href="../index.php" accesskey="1" title="">Homepage</a></li>
+       <li><a href="lobby.php" accesskey="2" title="">My account</a></li>
+       <li><a href="about.html" accesskey="3" title="">About Us</a></li>
+        <li><a href="feedback.html" accesskey="3" title="">Feedback</a></li>
+     </ul>
+   </div>
+ </div>
+</div>
+
+<!-- <div id="page"> -->
+  <div class="wrapper">
+
+  	<div id="translate" class="container">
+
+     <p>Welcome,<?= htmlentities($_SESSION['username']); ?>!</p>
+  </div>
+
+
+ <!-- <!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -133,37 +180,34 @@ label[for=color] {
 }
  </style>
 </head>
-<link href="../assets/css/bootstrap.css" rel="stylesheet">
+<link href="../assets/css/bootstrap.css" rel="stylesheet"> -->
 
-<body>
+<!-- <body>
     <FORM METHOD="LINK" ACTION="editPassword.php">
     <INPUT TYPE="submit" VALUE="Edit Pass">
     </Form>
     <FORM METHOD="LINK" ACTION="edit.php">
     <INPUT TYPE="submit" VALUE="Update">
-    </Form><br><br>
+    </Form><br><br>-->
 
-  <div id="page">
-       <p>Welcome to the Terminology Creation,<?= htmlentities($_SESSION['username']); ?>!</p>
-    </div>
 
-    <section id="container" >
+    <!-- <section id="container" >  -->
 
             <!--main content start-->
-            <section id="main-content" style="margin-left: 0px;">
+            <!-- <section id="main-content" style="margin-left: 0px;">
                 <section class="wrapper">
 
                     <div class="row">
-                        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
+                        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3"> -->
                       <!--  <p>Type here in English to begin searching</p>  -->
-                                <form class="form-horizontal" name="search" role="form" method="POST" onkeypress="return event.keyCode != 13;">
+                                <!-- <form class="form-horizontal" name="search" role="form" method="POST" onkeypress="return event.keyCode != 13;">
                                     <div class="input-group col-sm-11">
-                                        <input id="name" name="name" type="text" class="form-control" placeholder="Search by english keywords..." autocomplete="off"/>
+                                        <input id="name" name="name" type="text" class="form-control" placeholder="Search by english keywords..." autocomplete="off"/> -->
                                         <!--<span class="input-group-btn">
                                             <button type="button" class="btn btn-default btnSearch">
                                                 <span class="glyphicon glyphicon-search"> </span>
                                             </button> </span>-->
-                                    </div>
+                                    <!-- </div>
                                 </form>
                         </div>
 
@@ -199,20 +243,23 @@ label[for=color] {
                                                 <th class="small">bn_BD</th>
                                                 <th class="small">bn_IN</th>
 
+ -->
 
 
 
-
-                                            </tr>
+                                            <!-- </tr>
                                         </thead>
 
                                         <tbody></tbody>
                                     </table>
-                                </section>
+                                </section> -->
 
-                            </div><!-- /content-panel -->
-                        </div><!-- /col-lg-4 -->
-                    </div><!-- /row -->
+                            <!-- </div> -->
+                            <!-- /content-panel -->
+                        <!-- </div> -->
+                        <!-- /col-lg-4 -->
+                    <!-- </div> -->
+                    <!-- /row -->
 
 
                     <!--<div class="row mt">
@@ -234,7 +281,7 @@ label[for=color] {
                                             </tr>
                                         </thead>
 
-                                        <tbody><?php //include 'php/top_search.php' ?></tbody>
+
                                     </table>
                                 </section>
 
@@ -249,21 +296,22 @@ label[for=color] {
                     </p>-->
 
 
-                </section>
+                <!-- </section> -->
                 <!--/wrapper -->
-            </section><!-- /MAIN CONTENT -->
+            <!-- </section> -->
+            <!-- /MAIN CONTENT -->
 
             <!--main content end-->
 
-        </section>
+        <!-- </section> -->
 
         <!-- place JS scripts at end of page for faster load times -->
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
         <script src="../assets/js/bootstrap.min.js"></script>
-        <script class="include" type="text/javascript" src="../assets/js/jquery.dcjqaccordion.2.7.js"></script>
+        <script class="include" type="text/javascript" src="../assets/js/jquery.dcjqaccordion.2.7.js"></script> -->
 
         <!--script for this page-->
-        <script type="text/javascript" src="../scripts/triggers1.js"></script>
+        <!-- <script type="text/javascript" src="../scripts/triggers1.js"></script> -->
 
     </body>
 </html>
