@@ -14,16 +14,16 @@ function search() {
 				$("table#resultTable tbody").html(html);
 			}
 		});
-	}return false;    
+	}return false;
 }
 
 $("input#name").live("keyup", function(e) {
 	// Set Timeout
 	clearTimeout($.data(this, 'timer'));
-	
+
 	// Set Search String
 	var search_string = $(this).val();
-	
+
 	// Do Search
 	if (search_string == '') {
 		$(".tablesearch").fadeOut(300);
