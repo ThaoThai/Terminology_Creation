@@ -42,7 +42,7 @@ if (isset($_POST['changepwd'])) {
                     $stmt->bindValue(':pwd', password_hash($pwd, PASSWORD_DEFAULT));
                      $stmt->execute();
 
-                      header('Location: lobby.php');
+                      header('Location: account.php');
                       exit;
 
                }else{
@@ -57,7 +57,7 @@ if (isset($_POST['changepwd'])) {
 
 ?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
@@ -198,7 +198,7 @@ label[for=color] {
   		</div>
   	</div>
   </div>
-
+ -->
 <!-- <h1>Change Password</h1> -->
 <?php
 if (isset($error)) {
@@ -247,7 +247,7 @@ if (isset($error)) {
         <input type="submit" name="cancel" id="cancel" value="Cancel">
     </p>
 </form>
-<div id="footer">
+<!-- <div id="footer">
 	<div class="container">
 		<div class="fbox1">
 			<span>Developers:
@@ -260,4 +260,4 @@ if (isset($error)) {
 	</div>
 </div>
 </body>
-</html>
+</html> -->
