@@ -1,9 +1,9 @@
 <?php
 require_once 'db.php';
 // Output HTML formats
-$html = '<tr>';
-$html .= '<td class="small">eng</td>';
-$html .= '<td class="small">ach</td>';
+// $html = '<tr>';
+// $html .= '<td class="small">eng</td>';
+// $html .= '<td class="small">ach</td>';
 // $html .= '<td class="small">adh</td>';
 // $html .= '<td class="small">cityString</td>';
 // $html .= '<td class="small">agrString</td>';
@@ -23,31 +23,40 @@ $html .= '<td class="small">ach</td>';
 // $html .= '<td class="small">bmString</td>';
 // $html .= '<td class="small">bn_BDString</td>';
 
-$html .= '</tr>';
+// $html .= '</tr>';
 
 // $q = $_GET['q'];
 $search_string = preg_replace("/[^A-Za-z0-9]/", " ", $_GET['q']);
 $search_string = $test_db->real_escape_string($search_string);
+// if (strlen($search_string) >= 1 && $search_string !== ' ') {
+// 	$search_string1 = preg_replace("/[^A-Za-z0-9]/", " ", $_GET['query']);
+//   $search_string1 = $test_db->real_escape_string($search_string);
+// 	if (strlen($search_string1) >= 1 && $search_string1 !== ' ') {
+
 // $query="SELECT * FROM terminology2 WHERE  = '".$q."'";
-// en = [vi, fr, de]
+$en =array('ach','adh','af','agr','ak','hr','ku','sl','sr','ca');
 //select $searching_string,value(e), from terminlogy2;
-$query="SELECT eng,$search_string From terminology2";
+foreach ($en as $chr){
+	if($search_string==$chr){
+		$query="SELECT * From terminology2 LIMIT 20";
+        // echo $query;
+
 // echo $query;
 // echo $query;
-if($search_string=='ach' or $search_string=='adh' $search_string=='af' ){
+// if($search_string=='ach' or $search_string=='adh' $search_string=='af' ){
 
 // Get the Search
-$search_string1 = preg_replace("/[^A-Za-z0-9]/", " ", $_POST['query']);
-$search_string1 = $test_db->real_escape_string($search_string1);
+// $search_string1 = preg_replace("/[^A-Za-z0-9]/", " ", $_POST['query']);
+// $search_string1 = $test_db->real_escape_string($search_string1);
 
 // Check if length is more than 1 character
-if (strlen($search_string1) >= 1 && $search_string1 !== ' ') {
+// if (strlen($search_string1) >= 1 && $search_string1 !== ' ') {
 	//Insert Time Stamp
 	//$time = "UPDATE query_data SET timestamp=now() WHERE name='" .$search_string. "'";
 	//Count how many times a query occurs
 	//$query_count = "UPDATE query_data SET querycount = querycount +1 WHERE name='" .$search_string. "'";
 	// Query
-	$query = "SELECT eng,$search_string FROM terminology2 WHERE eng LIKE "'.$search_string1.'%"";
+	// $query = "SELECT eng,$search_string FROM terminology2 WHERE eng LIKE "'.$search_string1.'%"";
 
 
 	//Timestamp entry of search for later display
@@ -56,16 +65,40 @@ if (strlen($search_string1) >= 1 && $search_string1 !== ' ') {
 	//$query_count = $test_db->query($query_count);
 	// Do the search
 	$result = $test_db->query($query);
+	echo "<table>
+	<tr>
+	<th>eng</th>
+	<th>ach</th>
+	<th>adh</th>
+	<th>af</th>
+
+
+	</tr>";
+
 	while($results = $result->fetch_array()) {
 		$result_array[] = $results;
+		echo "<tr>";
+    echo "<td>" . $results['eng'] . "</td>";
+    echo "<td>" . $results['ach'] . "</td>";
+		echo "<td>" . $results['adh'] . "</td>";
+		echo "<td>" . $results['af'] . "</td>";
+    // echo "<td>" . $results['ak'] . "</td>";
+		// echo "<td>" . $results['ak'] . "</td>";
+		// echo "<td>" . $results['af'] . "</td>";
+    // echo "<td>" . $results['agr'] . "</td>";
+		// echo "<td>" . $results['ak'] . "</td>";
+		// echo "<td>" . $results['ak'] . "</td>";
+    echo "</tr>";
+
 	}
+	echo "</table>";
 
 	// Check for results
-	if (isset($result_array)) {
-		foreach ($result_array as $result) {
+	// if (isset($result_array)) {
+	// 	foreach ($result_array as $result) {
 		// Output strings and highlight the matches
-		 $d_name = preg_replace("/".$search_string."/i", "<b>".$search_string."</b>", $result['eng']);
-		 $d_comp = $result['ach'];
+		//  $d_name = preg_replace("/".$search_string."/i", "<b>".$search_string."</b>", $result['eng']);
+		//  $d_comp = $result['ach'];
 		//  $d_zip = $result['adh'];
 		//  $d_city = $result['af'];
 		//  $d_agr= $result['agr'];
@@ -86,8 +119,8 @@ if (strlen($search_string1) >= 1 && $search_string1 !== ' ') {
 		//  $d_bn_IN = $result['bn_IN'];
 
 		// Replace the items into above HTML
-		$o = str_replace('eng', $d_name, $html);
-		$o = str_replace('ach', $d_comp, $o);
+		// $o = str_replace('eng', $d_name, $html);
+		// $o = str_replace('ach', $d_comp, $o);
 		// $o = str_replace('adh', $d_zip, $o);
 		// $o = str_replace('cityString', $d_city, $o);
 		// $o = str_replace('agrString', $d_agr, $o);
@@ -108,7 +141,7 @@ if (strlen($search_string1) >= 1 && $search_string1 !== ' ') {
 		// $o = str_replace('bn_INString', $d_am, $o);
 
 				// Output it
-		echo($o);
+		// echo($o);
 
 		// }else{
 		// Replace for no results
@@ -135,7 +168,7 @@ if (strlen($search_string1) >= 1 && $search_string1 !== ' ') {
 
 		// Output
 		// echo($o);
-	}
  }
-}
+ }
+// }
 ?>

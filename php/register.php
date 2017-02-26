@@ -8,7 +8,7 @@ if (isset($_POST['cancel'])){
 $errors = [];
 if (isset($_POST['register'])) {
     require_once ("db_connect.php");
-    $expected = ['username', 'pwd', 'confirm','DateOfBirth','fluent','email'];
+    $expected = ['username', 'pwd', 'confirm','fullname','birthday','email','language'];
     // Assign $_POST variables to simple variables and check all fields have values
     foreach ($_POST as $key => $value) {
         if (in_array($key, $expected)) {
@@ -36,18 +36,19 @@ if (isset($_POST['register'])) {
             } else {
                 try {
                     // Generate a random 8-character user key and insert values into the database
-                    $user_key = hash('crc32', microtime(true) . mt_rand() . $username);
+                    $user_key= hash('crc32', microtime(true) . mt_rand() . $username);
 
-                    $sql = 'INSERT INTO users (user_key, username, pwd,DateOfBirth,fluent,email)
-                            VALUES (:key, :username, :pwd,:DateOfBirth,:fluent,:email)';
+                    $sql = 'INSERT INTO users (user_key, username, pwd,fullname,birthday,email,language)
+                            VALUES (:key, :username, :pwd,:fullname,:birthday,:email,:language)';
                     $stmt = $db->prepare($sql);
                     $stmt->bindParam(':key', $user_key);
                     $stmt->bindParam(':username', $username);
                     // Store an encrypted version of the password
                     $stmt->bindValue(':pwd', password_hash($pwd, PASSWORD_DEFAULT));
-                    $stmt->bindParam(':DateOfBirth', $DateOfBirth);
-                    $stmt->bindParam(':fluent', $fluent);
+                    $stmt->bindParam(':fullname', $fullname);
+                    $stmt->bindParam(':birthday', $birthday);
                     $stmt->bindParam(':email', $email);
+                    $stmt->bindParam(':language', $language);
                     $stmt->execute();
                 } catch (\PDOException $e) {
                     if (0 === strpos($e->getCode(), '23')) {
@@ -232,7 +233,9 @@ label[for=color] {
       outline: none;
   }
   input[type=text],
-  input[type=password] {
+  input[type=password],
+  input[type=email],
+  input[type=date] {
       color: #777;
       padding-left: 10px;
       margin: 10px;
@@ -346,6 +349,7 @@ label[for=color] {
 
 
 <form action="<?= $_SERVER['PHP_SELF']; ?>" method="post">
+
     <p>
         <label for="username">Username:</label>
 
@@ -387,33 +391,46 @@ label[for=color] {
     </p>
 
     <p>
-        <label for="DateOfBirth">Date Of Birth:</label>
-        <input type="text" name="DateOfBirth" id="DateOfBirth">
+        <label for="fullname">Full Name:</label>
+        <input type="text" name="fullname" id="fullname">
         <?php
-        if (isset($errors['DateOfBirth'])) {
-            echo $errors['DateOfBirth'];
+        if (isset($errors['fullname'])) {
+            echo $errors['fullname'];
         } elseif (isset($errors['nomatch'])) {
             echo $errors['nomatch'];
         }
         ?>
     </p>
+
     <p>
-        <label for="fluent">Fluent Language:</label>
-        <input type="text" name="fluent" id="fluent">
+        <label for="birthday">Birthday:</label>
+        <input type="date" name="birthday" id="birthday">
         <?php
-        if (isset($errors['fluent'])) {
-            echo $errors['fluent'];
+        if (isset($errors['birthday'])) {
+            echo $errors['birthday'];
         } elseif (isset($errors['nomatch'])) {
             echo $errors['nomatch'];
         }
         ?>
     </p>
+
     <p>
         <label for="email">Email:</label>
-        <input type="text" name="email" id="email">
+        <input type="email" name="email" id="email">
         <?php
         if (isset($errors['email'])) {
             echo $errors['email'];
+        } elseif (isset($errors['nomatch'])) {
+            echo $errors['nomatch'];
+        }
+        ?>
+    </p>
+    <p>
+        <label for="language">Fluent Language:</label>
+        <input type="text" name="language" id="language">
+        <?php
+        if (isset($errors['language'])) {
+            echo $errors['language'];
         } elseif (isset($errors['nomatch'])) {
             echo $errors['nomatch'];
         }

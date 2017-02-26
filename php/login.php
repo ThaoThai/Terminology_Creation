@@ -25,7 +25,7 @@ if (isset($_POST['login'])) {
             $autologin->persistentLogin();
         }
 
-        header('Location: lobby.php');
+        header('Location: account.php');
         exit;
 
     } else {
@@ -244,7 +244,7 @@ body {
          background-image: -webkit-gradient(linear, left top, left bottom, from(#acd6ef), to(#6ec2e8));
          background-image: -moz-linear-gradient(top left 90deg, #acd6ef 0%, #6ec2e8 100%);
          background-image: linear-gradient(top left 90deg, #acd6ef 0%, #6ec2e8 100%);
-         border-radius: 30px;
+         border-radius: 10px;
          border: 1px solid #66add6;
          box-shadow: 0 1px 2px rgba(0, 0, 0, .3), inset 0 1px 0 rgba(255, 255, 255, .5);
          cursor: pointer;
@@ -322,8 +322,8 @@ if (isset($error)) {
         <input type="password" name="pwd" id="pwd">
     </p>
     <p>
-        <input type="submit" name="login" id="login" value="Log In">
-        <input type="submit" name="cancel" id="cancel" value="Cancel">
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="submit" name="login" id="login" value="Log In">
+        &nbsp&nbsp&nbsp<input type="submit" name="cancel" id="cancel" value="Cancel">
     </p>
 </form>
 </body>

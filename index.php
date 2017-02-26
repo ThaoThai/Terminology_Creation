@@ -14,16 +14,16 @@
 <meta name="description" content="" />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900|Quicksand:400,700|Questrial" rel="stylesheet" />
 <script>$('.selectpicker').selectpicker();</script>
-<link href="default_index.css" rel="stylesheet" type="text/css" media="all" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="creation/fonts.css" rel="stylesheet" type="text/css" media="all" />
-<script src="scripts/select.js"></script>  
+<script src="scripts/select.js"></script>
 <script>
     function showBox()
-    { 
+    {
         document.getElementById("search").style.display = "block";
         }
 </script>
-    
+
 <script>
 function showUser(str) {
     if (str == "") {
@@ -48,8 +48,8 @@ function showUser(str) {
 }
 </script>
 
-</head> 
-    
+</head>
+
 <body>
 <div id="header-wrapper">
 	<div id="header" class="container">
@@ -61,7 +61,7 @@ function showUser(str) {
 		<div id="menu">
 			<ul>
 				<li class="active"><a href="index.php" accesskey="1" title="">Homepage</a></li>
-				<li><a href="php/creation/account.html" accesskey="2" title="">My account</a></li>
+				<li><a href="php/account.php" accesskey="2" title="">My account</a></li>
 				<li><a href="php/creation/about.html" accesskey="3" title="">About Us</a></li>
                 <li><a href="php/creation/feedback.html" accesskey="3" title="">Feedback</a></li>
                 <li><a href="php/lobby.php" accesskey="4" title="Lobby"> My Lobby </a></li>
@@ -70,7 +70,7 @@ function showUser(str) {
 	</div>
 </div>
 <div class="wrapper" style="padding-left:20px">
-	<div id="translate" class="container">  
+	<div id="translate" class="container">
                 Select:
              <select name="users" id="users" onchange="showBox();showUser(this.value)">
                 <option value ="en"> Your Language  </option>
@@ -96,14 +96,14 @@ function showUser(str) {
                 <option value="wa">Walon</option>
 
                 </select> <br> <br>
-                <input type="text" id="search" style="display:none" placeholder="Type your word here" onkeyup="filter_table()"> <br><br>   
+                <input type="text" id="search" style="display:none" placeholder="Type your word here" onkeyup="filter_table()"> <br><br>
                 <div id='txtHint'> </div>
 
 			<!--main content end-->
 
 </div>
 </div>
-    
+
 <div id="footer">
 	<div class="container">
 		<div class="fbox1">
@@ -117,7 +117,7 @@ function showUser(str) {
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <!--		<script src="assets/js/bootstrap.min.js"></script>-->
 		<script class="include" type="text/javascript" src="assets/js/jquery.dcjqaccordion.2.7.js"></script>
-            
+
 		<!--script for this page-->
 		<script type="text/javascript" src="scripts/triggers.js"></script>
 
