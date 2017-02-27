@@ -5,10 +5,8 @@ $search_string = preg_replace("/[^A-Za-z0-9]/", " ", $_GET['q']);
 $search_string = $test_db->real_escape_string($search_string);
 
 $lang= array(
-    "john" => array('az'),
-    "kyle" => array('ga'),
-    "thao" => array('ca'),
-    "jay" => array('es'),
+    "pokhrelb" => array('es'),
+    "bpokhrel" => array('ca'),
 
 );
 
@@ -39,7 +37,7 @@ $code = array (
 $temp = 'en';
 foreach($lang[$search_string] as $chr) {
     $temp = $temp.", ".$chr;
-}    
+}
 $query="SELECT $temp from translation";
 
     $result = $test_db->query($query);
@@ -48,7 +46,7 @@ $query="SELECT $temp from translation";
     <thead>
     <tr>
     <th>English</th>";
-foreach($lang[$search_string] as $chr) {  
+foreach($lang[$search_string] as $chr) {
     echo "<th>{$code[$chr]}</th>";
 }
     echo "</tr>";
@@ -65,9 +63,9 @@ foreach($lang[$search_string] as $chr) {
             echo "</tr>";
             echo "</tbody>";
             echo "</table>";
- 
-    
-    
+
+
+
 
 // }
 ?>

@@ -1,5 +1,6 @@
 <?php //include("header1.php");
 require_once 'db.php';
+require_once ("authenticate.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -43,7 +44,7 @@ if (str == "") {
 }
 }
 </script>
-<script> getuserdata('thao'); </script>
+<script> getuserdata('<?= htmlentities($_SESSION['username']); ?>') </script>
 <script>
     $(document).ready(function(){
       $(document).on(
@@ -85,33 +86,33 @@ if (str == "") {
 			</ul>
 		</div>
 	</div>
-</div> <br><br><br>
-<div id ="wrapper">
-    <div id="setting">
-    <!-- <input type="submit" name="logout" value="Log Out"> -->
-    <?php $_SESSION['return_to'] = $_SERVER['PHP_SELF']; ?>
-    <button onclick="commit()"> Commit Change(s) </button>
-<!--    <button onclick="getuserdata('thao')">Show My Language</button>-->
+</div>
+<div class="wrapper">
 
-<!--    <form METHOD="LINK" ACTION="edit.php">-->
+	<div id="translate" class="container">
+    <button onclick="commit()"> Commit Change(s) </button>
     <INPUT TYPE="submit" VALUE="Update"></INPUT>
-    <br><br> </div>
-    <div id="container"  >
-            <h4>Welcome to the Terminology Creation, USER</h4>
-            <!--main content start-->
-                <div class="wrapper5" >
-                    <input type="text" id="search1" placeholder="Type your word here" onkeyup="filter_usertable()"> <br>
-                    <div id="database_user">
+<h4>Welcome to the Terminology Creation,<?= htmlentities($_SESSION['username']); ?>!</h4>
+<!--main content start-->
+               <div class="wrapper5" >
+                   <input type="text" id="search1" placeholder="Type your word here" onkeyup="filter_usertable()"> <br>
+                   <div id="database_user">
 
 </div>
-  </div>
+ </div>
 </div>
 </div>
 <div id="footer">
+	<div class="container">
 		<div class="fbox1">
 			<span>Developers:
 			<br />Mary Hogan, Bikram Pokhrel, Thao Thai</span>
 		</div>
+		<div class="fbox1">
+			<span class="icon icon-envelope"></span>
+			<span>ouremail@slu.edu</span>
+		</div>
+	</div>
 </div>
         <!-- place JS scripts at end of page for faster load times -->
 <!--
