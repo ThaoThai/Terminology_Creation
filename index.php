@@ -14,8 +14,8 @@
 <meta name="description" content="" />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900|Quicksand:400,700|Questrial" rel="stylesheet" />
 <script>$('.selectpicker').selectpicker();</script>
-<link href="default.css" rel="stylesheet" type="text/css" media="all" />
-<link href="creation/fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link href="html/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="html/fonts.css" rel="stylesheet" type="text/css" media="all" />
 <script src="scripts/select.js"></script>
 <script>
     function showBox()
@@ -55,15 +55,16 @@ function showUser(str) {
 	<div id="header" class="container">
 		<div id="logo">
 			<h1><a href="index.php">Terminology <span class="logo_colour"> Creation</span></a></h1>
-                        <h4><a href="php/login.php"><span class="logo_colour"> Login</span></a></h4>
-                        <h4><a href="php/register.php"><span class="logo_colour"> Register</span></a></h4>
+      <h4><a href="php/register.php"><span class="logo_colour"> Register</span></a></h4>
+      <h4><a href="php/login.php"><span class="logo_colour"> Login</span></a></h4>
+
 		</div>
 		<div id="menu">
 			<ul>
 				<li class="active"><a href="index.php" accesskey="1" title="">Homepage</a></li>
 				<li><a href="php/account.php" accesskey="2" title="">My account</a></li>
-				<li><a href="php/creation/about.html" accesskey="3" title="">About Us</a></li>
-                <li><a href="php/creation/feedback.html" accesskey="3" title="">Feedback</a></li>
+				<li><a href="html/about.html" accesskey="3" title="">About Us</a></li>
+                <li><a href="html/feedback.html" accesskey="3" title="">Feedback</a></li>
                 <li><a href="php/lobby.php" accesskey="4" title="Lobby"> My Lobby </a></li>
 			</ul>
 		</div>
