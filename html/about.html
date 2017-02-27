@@ -16,52 +16,38 @@
 <script>$(document).ready(function(e) {
   $('.selectpicker').selectpicker();
     });</script>
-</head> 
-    
+</head>
+
 <body>
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
 			<h1><a href="index.html">Terminology <span class="logo_colour"> Creation</span></a></h1>
-            <h4><a href="login.html"><span class="logo_colour"> Login/Register</span></a></h4>
+      <h4><a href="../php/register.php"><span class="logo_colour"> Register</span></a></h4>
+      <h4><a href="../php/login.php"><span class="logo_colour"> Login</span></a></h4>
+		</div>
+		<div id="menu">
+			<ul>
+				<li><a href="../index.php" accesskey="3" title="">Homepage</a></li>
+				<li><a href="../php/account.php" accesskey="2" title="">My account</a></li>
+				<li class="active"><a href="about.html" accesskey="1" title="">About Us</a></li>
+                <li><a href="feedback.html" accesskey="3" title="">Feedback</a></li>
+                <li><a href="../php/lobby.php" accesskey="4" title="Lobby"> My Lobby </a></li>
+
+			</ul>
 		</div>
 	</div>
 </div>
-    
-<div class="wrapper4">
-    <div id="signin">
-            <h3>Sign In</h3>
-            <form action ="/action_page.php"> Username <br>
-            <input type="account" name="name" value=" "> <br><br>
-            Password <br>
-            <input type="account" name="email" value=" "> <br><br>
-                <input type="submit" value="Log In "><input type="submit" value="Register">
-                </form>
-    </div>
-    
-    <div id="register">
-        <h3> Join us!</h3>
-            <form action ="/action_page.php"> Full Name <br>
-            <input type="account" name="name" value=" "> <br><br>
-            Username <br>
-            <input type="account" name="name" value=" "> <br><br>
-            Password <br>
-            <input type="account" name="name" value=" "> <br><br>
-            Re-type password <br>
-            <input type="account" name="email" value=" "> <br><br>
-                Language <select class ="language"> </select>
-            Language Proficiency <select class ="language"> 
-                <option value="beginner"> Beginner </option>
-                <option value="intermediate"> Intermediate </option>
-                <option value="proficient"> Proficient </option>
-                <option value="fluent"> Fluent </option></select>
-            <br><br>
-                <input type="submit" value="Log In "><input type="submit" value="Register">
-            </form>
-    </div>
-</div>
 
-    
+<div class="wrapper1">
+	<div id="about" class="container">
+        <h3> What makes us different.</h3>
+        <h4>There is a lack of translation for technical terminologies in the World Wide Web. Not all the technical terms in English are being translated to different languages. Some languages do not even have the translation for these technical terms. Therefore, the goal of Terminology Creation is to provide a web interface translator for uncommon technical terminologies. Users will also be able to input their own translation of technical terms in the languages that they are fluent in. In addition, users can provide the back translation of the foreign terms to English. This web service will be interactive for both developers and users.
+        </h4>
+        <h3> Third Parties Technology.</h3>
+        <h4> Moses-Translation Machine</h4>
+	</div>
+</div>
 <div id="footer">
 	<div class="container">
 		<div class="fbox1">
