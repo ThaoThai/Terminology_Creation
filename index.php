@@ -73,7 +73,7 @@ function showUser(str) {
 	<div id="translate" class="container">
                 Select:
              <select name="users" id="users" onchange="showBox();showUser(this.value)">
-                <option value ="en"> Your Language  </option>
+                <option value =""> Your Language  </option>
                 <option value ="az"> Azərbaycan dili</option>
                 <option value="ca"> Català</option>
                 <option value ="es"> Español</option>
