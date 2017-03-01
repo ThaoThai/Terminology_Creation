@@ -1,6 +1,4 @@
 CREATE TABLE IF NOT EXISTS translation(
- `lan_id` int(11) NOT NULL AUTO_INCREMENT,
- `date_created` datetime NOT NULL,
  `en` varchar(255),
  `az` varchar(255),
  `ca` varchar(255),
@@ -21,9 +19,8 @@ CREATE TABLE IF NOT EXISTS translation(
  `tt` varchar(255),
  `uz` varchar(255),
  `vec` varchar(255),
- `wa` varchar(255),
- PRIMARY KEY (`lan_id`)
- )ENGINE=InnoDB DEFAULT CHARSET=latin1;
+ `wa` varchar(255)
+ )ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
  CREATE TABLE IF NOT EXISTS users(
   `user_key` varchar(40) NOT NULL ,
@@ -34,7 +31,15 @@ CREATE TABLE IF NOT EXISTS translation(
   `email` varchar(40) NOT NULL,
   `language` varchar(40) NOT NULL,
   PRIMARY KEY (`user_key`)
-  )ENGINE=InnoDB DEFAULT CHARSET=latin1;
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-  load data infile 'terminology.txt' into table translation
+  CREATE TABLE IF NOT EXISTS sessions(
+   `sid` varchar(40) NOT NULL ,
+   `expiry` int(10) unsigned NOT NULL,
+   `data` text NOT NULL,
+   PRIMARY KEY (`sid`)
+   )ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+  load data infile 'translations.txt' into table translation
   fields terminated by ';';
