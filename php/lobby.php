@@ -74,10 +74,10 @@ if (str == "") {
 		</div>
 		<div id="menu">
 			<ul>
-				<!-- <li ><a href="../index.php" accesskey="4" title="">Homepage</a></li> -->
+				<li ><a href="../index.php" accesskey="4" title="">Homepage</a></li>
 				<li><a href="account.php" accesskey="2" title="">My account</a></li>
-				<!-- <li><a href="../html/about.html" accesskey="3" title="">About Us</a></li> -->
-        <!-- <li><a href="../html/feedback.html" accesskey="3" title="">Feedback</a></li> -->
+				<li><a href="../html/about.html" accesskey="3" title="">About Us</a></li>
+        <li><a href="../html/feedback.html" accesskey="3" title="">Feedback</a></li>
         <li class="active"><a href="lobby.php" accesskey="1" title="Lobby"> My Lobby </a></li>
 			</ul>
 		</div>

@@ -3,12 +3,33 @@ require_once 'db.php';
 
 $search_string = preg_replace("/[^A-Za-z0-9]/", " ", $_GET['q']);
 $search_string = $test_db->real_escape_string($search_string);
+$query = "SELECT * FROM users WHERE username = '".$search_string."'";
+$result = $test_db->query($query);
+$results = $result->fetch_assoc();
+$data_lan= $results['language'];
 
-$lang= array(
-    "pokhrelb" => array('es'),
-    "bpokhrel" => array('ca'),
-
-);
+$lang=array("English" => array("en"),
+      "Azərbaycan dili"=> array("az"),
+      "Català"=> array("ca"),
+      "Español"=> array("es"),
+      "vakaViti"=> array("fj") ,
+      "Français"=> array("fr"),
+      "Gaeilge"=> array("ga"),
+      "Galego"=> array("gl"),
+      "ʻŌlelo Hawaiʻi"=> array("haw"),
+      "Bahasa Indonesia"=> array("id"),
+      "Italiano"=> array("it"),
+      "Bahasa Melayu"=> array("ms"),
+      "Português"=> array("pt"),
+      "Gagana Sāmoa"=> array("sm"),
+      "Basa Sunda"=> array("su"),
+      "Türkmençe"=> array("tk"),
+      "Türkçe"=> array("tr"),
+      "Татарча"=> array("tt"),
+      "Ўзбек"=> array("uz"),
+      "Vèneto"=> array("vec"),
+      "Walon"=> array("wa")
+  );
 
 $code = array (
     "en" => "English",
@@ -33,10 +54,10 @@ $code = array (
     "vec"=>"Vèneto",
     "wa"=>"Walon"
 );
-//select $searching_string,value(e), from terminlogy2;
+
 $temp = 'en';
-foreach($lang[$search_string] as $chr) {
-    $temp = $temp.", ".$chr;
+foreach ($lang[$data_lan] as $chr) {
+$temp=$temp.",".$chr;
 }
 $query="SELECT $temp from translation";
 
@@ -46,9 +67,11 @@ $query="SELECT $temp from translation";
     <thead>
     <tr>
     <th>English</th>";
-foreach($lang[$search_string] as $chr) {
+
+foreach($lang[$data_lan] as $chr) {
     echo "<th>{$code[$chr]}</th>";
 }
+
     echo "</tr>";
     echo "</thead>";
     echo "<tbody>";
@@ -56,16 +79,11 @@ foreach($lang[$search_string] as $chr) {
 		$result_array[] = $results;
            echo "<tr>";
            echo "<td>" . $results['en'] . "</td>";
-        foreach($lang[$search_string] as $chr) {
-            echo "<td>" . $results[$chr] . "</td>";
-                    }
+              foreach($lang[$data_lan] as $chr) {
+                echo "<td>" . $results[$chr] . "</td>";}
     }
             echo "</tr>";
             echo "</tbody>";
             echo "</table>";
 
-
-
-
-// }
 ?>

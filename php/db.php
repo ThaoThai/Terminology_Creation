@@ -1,7 +1,7 @@
 <?php
 // Credentials
 $dbhost = "localhost";
-$dbname = "terminology_creation";
+$dbname = "terminology_creation1";
 $dbuser = "root";
 $dbpass = "poker";
 

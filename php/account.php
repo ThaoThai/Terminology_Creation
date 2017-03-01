@@ -110,10 +110,11 @@ if (!$errors) {
    </div>
    <div id="menu">
      <ul>
+       <li><a href="../index.php" accesskey="1" title="">Homepage</a></li>
        <li class="active"><a href="account.php" accesskey="1" title="">My account</a></li>
-       <li><a href="lobby.php" accesskey="2" title="">My Lobby</a></li>
-       <!-- <li><a href="about.html" accesskey="3" title="">About Us</a></li> -->
-        <!-- <li><a href="feedback.html" accesskey="3" title="">Feedback</a></li> -->
+       <li><a href="about.html" accesskey="3" title="">About Us</a></li>
+        <li><a href="feedback.html" accesskey="3" title="">Feedback</a></li>
+        <li><a href="lobby.php" accesskey="2" title="">My Lobby</a></li>
      </ul>
    </div>
  </div>

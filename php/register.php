@@ -297,7 +297,32 @@ if (isset($_POST['register'])) {
     </p>
     <p>
         <label for="language">Fluent Language:</label>
-        <input type="text" name="language" id="language">
+        <!-- <input type="text" name="language" id="language"> -->
+        <select name="language" id="language" >
+           <option> Your Language  </option>
+           <option> Azərbaycan dili</option>
+           <option> Català</option>
+           <option> Español</option>
+           <option> vakaViti </option>
+           <option>Français</option>
+           <option>Gaeilge</option>
+           <option>Galego</option>
+           <option>ʻŌlelo Hawaiʻi</option>
+           <option>Bahasa Indonesia</option>
+           <option>Italiano</option>
+           <option>Bahasa Melayu</option>
+           <option>Português</option>
+           <option>Gagana Sāmoa</option>
+           <option>Basa Sunda</option>
+           <option>Türkmençe</option>
+           <option >Türkçe</option>
+           <option>Татарча</option>
+           <option>Ўзбек</option>
+           <option>Vèneto</option>
+           <option>Walon</option>
+
+           </select>
+
         <?php
         if (isset($errors['language'])) {
             echo $errors['language'];
