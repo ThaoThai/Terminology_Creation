@@ -1,0 +1,1744 @@
+Kısaltma
+Abort
+sonuçsuz
+Hakkında
+Above
+Mutlak
+Vurgulu
+Kabul et
+Accepted
+Erişimi
+accessed
+Erişilebilirlik
+yumin
+defter
+account name
+Hesap
+Hesaplar
+konumların
+Eylem
+Dugi'iaj sun'
+Etkinleştirildi
+Etkin
+Etkinlik
+Ekle
+Ekleme tarihi
+ekleniyor
+Additional
+Address Book
+Adres
+Adresler
+Adresler
+Bitişik
+Adjust
+Administrator
+Advance
+Gelişmiş
+Africa
+Afrika
+Yaş
+agent
+Aggregate
+Ago
+Agree
+anlaşmasını
+AIM
+Alarm
+Uyarı
+Algoritması
+Takma ad
+Hizala
+Hizalama
+Hepsi
+Ga'nin
+Allowed
+Alpha
+sırasıyla
+alter
+Alternate
+amount
+Analysis
+Analiz et
+Çıpa
+AND
+açısı
+animated
+Animasyon
+işareti
+anonim
+appear
+Görünüm
+append
+Applet
+applicable
+Uygulaması
+Uygulamalar
+applied
+Uygula
+approved
+yaklaşık
+Nisan
+Arapça
+bölgesini
+Arşivle
+Alanı
+argument
+Ok
+makale
+artwork
+Artan
+Ask
+aspect ratio
+boy
+birleştiriliyor
+assist
+başvurun
+Associated
+association
+asterisk
+Asynchronous
+okunmasına
+Ek
+Attached
+Ek
+Attempt
+nesil
+attempting
+Attention
+Öznitelik
+Nanee
+Ağustos
+işarete
+Yetkilendirme
+Yazar
+Makamına
+authorization
+authorized
+Otomatik
+Otomatik tamamla
+Tamamlama
+autodetection
+autofill
+Otomatik
+Automatically
+Otomasyon
+Autosave
+Müsait
+ortalama
+avoid
+Hizmet
+çevrileceği
+BACK
+Arka Plan
+yedekleme
+Backward
+Hua a'na' ma
+Ban
+banned
+banner
+çubuğu
+Base
+Basic
+Pil
+BCC
+beep
+tarayıcını
+Beginning
+begins with
+Behavior
+Below
+Daha Büyük
+ikili
+bağı
+ bit
+Black
+Blank
+Engelle
+ENGELLENDİ
+Blocking
+Blockquote
+blue
+Bluetooth
+board
+Gövde
+Kalın
+Sa arajsun nichrò' doj
+İmlenmiş
+Nej sa arajsun nichrò' doj
+Boolean
+BORDER
+Bot
+Alt
+Box
+Dal
+brand
+Break
+Breakpoint
+Brief
+Bring
+Broken
+Gözat
+Tarayıcı
+arkadaş
+tampon
+bug
+Build ID
+Yapı
+Madde imi
+bulleted list
+Madde İmli
+Meşgul
+Düğme
+byte
+C
+CACHE
+önbellekten
+Takvim
+Ara
+Çağrısı
+Calling
+Camera
+Cancela maa
+Nga dure'
+Cancelled
+Kanvas
+saptadı
+kapasitesi
+taşınıp
+Altyazı
+Capture
+yakalanan
+Kartviziti
+carrier
+Case
+Katalogda
+Kategoriler
+Kategori
+caution
+CD
+Cell Contents
+Hücre
+Hücreler
+CENTER
+centered
+Sertifika
+Değiştir
+Değişikliklerini
+değiştirirseniz
+Channel
+Karakter
+Charset
+Chart
+Chat Room
+Sohbet
+Kontrol et
+Kürsel
+Checked
+Checking
+Child
+choice
+Choose
+tutan
+sistemini
+Chrome
+Cipher
+daire
+circular
+Şehir
+Sınıf
+sınıflandırmasından
+Clean
+Na'nïn'
+temizlenecektir
+CLICK
+Client
+Pano
+clock
+yönünde
+Close Tab
+CLOSE
+Closed
+Closing
+Kod
+Çözücü
+coding
+Daralt
+toplayacak
+Collection
+color picker
+COLOR
+Column header
+Sütun
+combination
+kombo kutu
+Virgül
+Command
+Yorum
+Comments
+Common
+Bizimle
+communicating
+communication
+Sıkıştır
+Company
+Compare
+Compatibility
+Compatible
+derleme
+Tamamlandı
+Tamamlandı
+Component
+Compose
+composed
+Düzenleyici
+Düzenleme
+compressed
+compression
+Computer
+Condensed
+condition
+konferans
+Gizli
+Güvenilirlik
+yapılandırılabilir
+Configuration
+Configure
+Ayarlanan
+Configuring
+Onayla
+Confirmation
+Onaylandı
+Conflict
+Bağlan
+Bağlı
+Bağlanıyor
+connection failure
+Bağlantı
+Konsol
+Constraint
+Kişi
+contain
+Kapsayıcı
+İçerik
+İçerik
+Context
+Devam
+continued
+Contrast
+Contribution
+contributor
+Control Center
+Control
+dizi
+convert
+converted
+Cookie
+Cookies
+koordinatı
+Kopyalar
+Guxun' ni nachrun' a'ngô hiuj u
+Copyright
+corner
+yapılandırmasını
+correspondent
+corrupt
+Corrupted
+maliyeti
+Sayaç
+counter
+Çöküş
+Guiri ro'
+oluşturuldu
+Credential
+Credentials
+kredi
+Destekleyenler
+Criteria
+Kritik
+Ctrl
+Current Locale
+Current
+İşaretçi
+Eğri
+Nagui'iaj mu'ûn'
+customer
+Customization
+Özelleştir
+customized
+Ga'ne'
+Çevrim
+Her gün
+sisteminize
+damaged
+tehlikeli
+dashed
+Datos
+Database
+Tarih
+Gün
+Hata ayıkla
+ayıklayıcısı
+Aralık
+kararı
+Reddet
+decode
+Çözücü
+decompress
+Metin boyutunu küçült
+şifrelenmesinde
+Çözme
+Sa gà' 'na' niñaan
+Defined
+Tanım
+Gecikme
+Delete Message
+Dure'
+Deleted
+Deleting
+Deletion
+delivered
+denied
+Reddet
+Bölüm
+Azalan
+Describe
+Açıklama
+Tasarım
+Masaüstü
+Destination
+Destroy
+Detach
+ayrıntısı
+Detect
+işaretli
+Geliştirici
+Development
+DEVICE
+diagonal
+diyagram
+Dial
+Dialog
+Sözlükler
+Sözlük
+difference
+özeti
+Digital
+digitally
+dimension
+Arama yönü
+Directories
+Directory
+Devre dışı bırak
+Devre dışı
+Disabling
+Discard
+disclaimer
+Bağlantıyı kes
+sıkesildi
+Discontinue
+tartışma
+Disk
+Görmezden gel
+Görünüm
+displayed
+distribute
+Dağıtım
+ayırıcı
+DNS
+Dock
+belge
+belgelere
+Belgeler
+Alan
+Domestic
+Bitir
+dot
+dotted
+Double
+Naduninj
+İndirildi
+İndiriliyor
+Naduni'
+Taslak
+Taslak
+Sürükle
+Draw
+drawing
+sürücü
+Driver
+Drop
+dropped
+Bitiş
+Dump
+Çift
+Süre
+Each
+Earlier
+eskisinden
+easy
+Edge
+Düzen
+düzenlenen
+Düzenleme
+Edition
+Editör
+effect
+Elapsed
+Element
+Email Address
+Eposta
+Gömülü
+Embedded
+Vurgu
+Boş
+Emulate
+emülasyonu
+Dugi'iaj sun' man
+Etkin
+encode
+encoded
+Kodlayıcı
+Karakter Kümesi
+Encrypt
+Şifreleme
+Şifreleme
+Bitiş
+motorumu
+Engineering
+Nánj ra'ñan an
+Enhanced
+tıkladığım
+lugâ
+Enter
+Girildi
+tamamının
+Girdiler
+Giriş
+Ortam
+erase
+HATA
+escape
+Avrupa
+Avrupa
+Değerlendir
+değerlendirme
+Even
+Etkinlik
+Every Time
+exact
+examine
+Örnek
+exceed
+aşıldı
+İstisnayı
+Exchange
+Çalıştırılabilen
+Çalıştır
+exist
+Existing
+Çık
+Genişlet
+Genişletildi
+expect
+Expected
+expecting
+experienced
+dolana
+Süresi dolmuş
+keşfedecek
+Dışa aktar
+Expression
+Çıkart
+extend
+Extended
+extensible
+A'ngô ra'a
+Eklentiler
+External
+Extra
+Extract
+Damlalık
+fail
+yarayabilir
+Failure
+FALLBACK
+False
+Aile
+Fast
+Üçüncü
+Fatal
+Favorite Folder
+Favoriler
+Faks
+Feature
+Şubat
+Beslemeyi
+Geri bildirim
+Fetch
+fetching
+Fewer
+Alanı
+alanları
+şekil
+File System
+Dosya
+Dosya adı
+filesystem
+Filing Cabinet
+Doldur
+filled
+Filtre
+final
+Bul
+finding
+Bitir
+Tamamlandı
+finishing
+Firefox
+firewall
+Ad
+Sığdır
+Fix
+Fixed
+etiketi
+Flagged
+Flash
+flat
+floppy
+Focus
+odakta
+Dizin
+font size
+FONT
+Yazı tipleri
+Footer
+yasak
+Force
+Yabancı
+Form
+Biçem
+formatted
+Biçimlendirme
+Ka an ó pagina
+İletildi
+Found
+kesir
+parçasında
+çerçeveyi
+frameset
+Bedava
+Fransızca
+Frequency
+frequently
+Cuma
+friend
+Front
+FTP
+FUNCTION
+kazandıracak
+gallery
+Gap
+gateway
+Generate
+Generation
+Generator
+Generic
+geometric
+Geometri
+Get
+Global
+yakala
+Geçişi
+Grafik
+grafik
+Grafikler
+GrayScale
+greater than
+Grid
+Grup
+Guard
+Guess
+Guest
+gösterebilir
+half
+hand
+Ngà
+İşleyicisi
+Handshake
+hard drive
+Donanım
+hash
+head
+Başlık
+Heading
+Yükseklik
+Hello World
+Ruguñu'unj
+Helper Application
+On altılık
+Gizli
+Gachri hùi
+hiyerarşisi
+Yüksek
+higher
+En yüksek
+Highlight
+İşaretli
+Daran sa gahuin
+Bekletme
+Ana takvim
+Ana Sayfa
+Yatay
+Alan Adı
+Makine adı
+Hotspot
+Hour
+zamanı
+HTML
+HTTP
+ton
+Simge
+ICQ
+Kimlik
+Tanımlayıcısı
+tanımlamak
+Kimlik
+IDLE
+Görmezden Gel
+illegal
+Image Map
+Resim
+implement
+implemented
+Ganako'
+Önemli
+aktarıldı
+İçe aktarılıyor
+improve
+pasif
+Gelen
+Include
+Gelen
+incompatible
+Incomplete
+Yanlış
+Metin boyutunu büyüt
+Girinti
+Indentation
+Endeksi
+göstergesi
+Birey
+sonsuz
+Bilgi
+Bilgileri
+initial
+initialization
+initialize
+ileti içinde ilet
+İçindeki
+Input Method
+Girdi
+çerçevede
+Ekle
+inserted
+Ga'nìn'
+Installation
+Kuruldu
+Installer
+Kuruluyor
+instance
+instruction
+Insufficient
+Hua chre' ma
+Integrate
+sunduğu
+Bütünlük
+Etkileşim
+interactive
+Interface
+intermediate
+Dahili
+International
+Internet
+interrupt
+Geçersiz
+Invert
+inverted
+Görünmez
+davetiyesi
+Invite
+IP Address
+IP
+IRC
+bildirilsin
+Belge tarihi
+Yayıncı
+Eğik
+Öğesi
+Iteration
+Ocak
+Job
+Join
+Temmuz
+Atla
+Haziran
+Gereksiz
+Sağa Hizala
+KB
+Eklentiyi tut
+Anahtar
+Klavye
+Anahtar Kelime
+knowledge
+Etiket
+Yatay
+Dil
+Daha büyük
+largest
+Soyad
+LaTeX
+Latince
+Launch
+Katman
+Düzen
+Learn
+Ayrıl
+left margin
+Sol
+Nuguan' a'nï'ïn
+Gösterge
+Uzunluk
+Harf
+Level
+Kütüphane
+license agreement
+Lisansı
+Açık
+sınıra
+sınırlıdır
+Satır
+Bağlantı
+linked
+Bağlantılar
+list Item
+LIST
+Listelenme
+Dinleme
+listener
+Yükle
+yüklendi
+Yükleniyor
+Yerel
+Dil
+locate
+Dane' huin
+Lock
+Kilitli
+Kayıt
+Logged
+Kayıt tutma
+Login
+Logo
+look for
+Look
+Ara
+Tekrarla
+Düşük
+Lower
+Küçük
+En düşük
+yazılımının
+Eposta
+Mailbox
+Mailing List
+Main
+Maintain
+Bakım
+Malformed
+malware
+Yönet
+Management
+Manager
+mandatory
+Manipulate
+elle
+Elle
+Üretici
+Haritası
+haritalaması
+Mart
+uzunluğunun
+Margins
+İşaretle
+Marked
+Markup
+Master
+match case
+eşleşme
+Eşleşen
+Matching
+matematik
+Maximize
+aşıyordu
+May
+mean
+measure
+mekanizması
+Medya
+Orta
+member
+Bellek
+Menu Bar
+Menú
+yaptı
+İleti
+Meta
+metadata
+ölçümü
+Yöntem
+Microphone
+Orta
+Migrate
+milisaniye
+Küçült
+Minimum
+Minor
+vaktiniz
+Yansıtmayı
+kayıp
+misspelled
+mistake
+mix
+Cep Telefonu
+Modu
+Model
+Modem
+konuşmalarını
+moderator
+Modification
+Değişme tarihi
+Değiştir
+Modül
+moment
+Pazartesi
+İzleyici
+Ay
+Daha fazla
+Motion
+Fare
+Move Down
+Move Up
+Move
+Moved
+Moving
+MS
+MSN
+multimedia
+garayinat
+music
+NAME
+Named
+adları
+Namespace
+Navigate
+Navigation Toolbar
+Gezinti
+Navigator
+near
+nearest
+negatif
+Netscape
+NETWORK
+Yeni
+Haber
+Haber Grubu
+Ne' ñaan
+Takma Ad
+NO
+Düğüm
+NONE
+Normal
+Not Found
+Not
+biçiminde
+NOTE
+Notice
+panelinden
+Notify
+Kasım
+üzerimizde
+Number
+Numaralı
+numeric
+Nesne
+occur
+oluştuğu
+sefer
+Ekim
+OFF
+Office
+Çevrim Dışı
+Ga'ue
+ON
+Süren
+Çevrim İçi
+saydamlık
+Opaque
+Aç
+açıldı
+OpenGL
+Opening
+Operating system
+Operating
+Operation
+Operatörü
+iyileştir
+optimized
+Seçenek
+Optional
+A'ngo sa ga'ue naguit
+orange
+A
+Kurum
+Düzenleyen
+Yönlendirme
+Köken
+Original
+Out
+Gönderilmemiş
+Outdated
+Outer
+Giden
+şemasını
+Çıktı
+Override
+Overview
+yazılsın
+Sahibi
+Pack
+Paketleri
+Dolgu
+Sayfa
+Çağrı Cihazı
+Paint
+Eşleştir
+Palet
+bölmesi
+temize
+Kâğıt
+Paragraf
+parameter
+Parcel
+Parent
+işle
+Parser
+yorumlanmasına
+Partial
+Participant
+pass
+Contraseña
+Gachrun
+Patch
+Yol
+kutulanır
+Dunikin akuan'
+Duraklatıldı
+PDF
+Peer
+Pending
+Kişiler
+per
+Percent
+yüzde
+Perform
+Performans
+teyidi
+gerçekleştirmeden
+Geçerlilik
+Periyodik
+Sürekli
+Permanently
+Permission
+İzinler
+Permit
+permitted
+Kişisel
+uydurabilirsiniz
+Phishing
+Da'nga aga' a'min'
+Okunuş
+Fotoğraf
+Phrase
+Pick
+picker
+Picture
+Ping
+Pixel
+place
+Düz
+Platform
+Duguchro'
+oynatma
+Oynatılıyor
+xtoo
+Yan uygulama
+point
+Pointer
+Noktaları
+İlkelerinde
+pop up
+popüler
+Bağlantı Noktası
+Taşınabilir
+portion
+Dikey
+Konum
+çözümler
+POST
+Postal Code
+Power
+Preference
+Nagui’iaj
+Preferred
+Prefix
+Önbiçimleme
+Sunum
+Preset
+Bas
+basıldı
+pressure
+Prevent
+Ön izleme
+Sa Gachin
+Fiyat
+primary
+İlke
+print job
+print Preview
+Yazdır
+printable
+Printed
+Yazıcı
+Yazdırılıyor
+Öncelik
+Gizlilik
+Gizli
+privilege
+Problem
+Proceed
+Process
+İşleniyor
+processor
+Prodigy
+Product
+Profil
+Profiller
+Program
+İlerleme
+Proje
+İstem
+Özellikler
+Özellik
+dugumîj
+erişemezsiniz
+izlenme
+Protokol
+bulunamadıysa
+Provider
+Proxy
+PUBLIC
+Yayımla
+pull
+satın
+Gönder
+Nitelikli
+kalite
+karantinaya
+Sorguyu
+kuyruğu
+Beklemede
+Quick
+Gahui'
+Quitting
+Kota
+Quotation
+Alıntıla
+quoted
+Radio Button
+Radyo
+taşımasına
+random
+Range
+Rate
+Beğeni
+Ratio
+Ham
+reachable
+Okuma
+readable
+nü
+Okuma
+Hazır
+real
+Really
+reboot
+Alını
+Receive
+Alınan
+Alınıyor
+En son
+Recently
+Alıcı
+recognize
+recommend
+Tavsiye edilen
+Reconnect
+Record
+recorded
+Recording
+Kurtar
+kurtarma
+rectangle
+rectangular
+Tekrarlamayı
+tekrarlı
+Recursion
+özyinelemeli
+Redirect
+Yazdığınız
+redirecting
+Redisplay
+Yinele
+azaltmayı
+refer
+Reference
+referans
+Naguiaj naká
+atlayarak
+Refused
+refusing
+bölge
+Kayıt
+Kayıtlı
+Registering
+registration
+hakkınız
+Normal
+reinstall
+Reject
+rejected
+Related
+Relation
+relationship
+Release
+relevant
+Carga na kaa
+reloaded
+yeniden yükleniyor
+remain
+Remaining
+Hatırla
+Remind
+Anımsatıcı
+Uzak
+arkadaşlarınızla
+REMOVE
+Removed
+Adını değiştir
+Render
+Rendering
+Reopen
+reorder
+Repair
+repaired
+Tekrarla
+Değiştir
+replaced
+Replacement
+başlandı
+Güncelleştirmesi
+replies
+Yanıtla
+Bildir
+belirtmedi
+Raporları
+İsteği
+isteği yapan
+require
+Required
+Na'nïnj ñû' gan'an
+Reserved
+Nagui'iaj ñun
+boyutlandır
+Resolution
+Kaynak
+respond
+responding
+Yanıt
+Baştan başlat
+başlatılmalı
+Restarting
+Geri getir
+restored
+sınırla
+Kısıtlı
+result
+Devam et
+retrieve
+A'ngo ñun
+RETURN
+vermedi
+saklayabilirsiniz
+teknolojisi
+Reverse
+Geri Al
+Review
+Revision
+Hükümsüzlük
+sar
+Rich Text
+right margin
+Sağ
+Rights
+kökü
+Döndür
+round
+yuvarlatılmış
+routine
+row header
+Satır
+Rule
+Çalıştır
+Running
+Çalışma zamanı
+Güvenli
+sample
+doygunluk
+Cumartesi
+Değişiklikleri kaydet
+Kayıtlı
+Saving
+Ölçek
+sahtekârlığını
+Duguchin ñan du'ua
+Scanner
+Scanning
+scenario
+Scheme
+Kapsam
+Score
+Ekran
+Ekran görüntüsü
+Betik
+scroll bar
+Scroll
+Search Engine
+search results
+Ara
+searchable
+Searches
+Aranıyor
+Second
+Secondary
+secret
+bölüm
+Secure
+SECURITY
+seek
+Seç
+Seçildi
+Selecting
+Seçim
+semicolon
+Gönder
+Gönderen
+Gönderiliyor
+sensitive
+sensitivity
+Giden
+Separate
+Ayraç
+Eylül
+Serial Number
+Serial
+series
+Serif
+Sunucu
+Service
+Hizmetler
+Oturum
+Sessions
+Ayarla
+Setting
+SETTINGS
+Yapısı
+shape
+Duyingo'
+Veriliyor
+Paylaşım
+Sheet
+kabuğunu
+Shift
+Kısa
+Shortcut
+shorter
+SHOW
+pGörüntülemeye
+Shrink
+shut
+Kapat
+Shutting Down
+Shutting
+Kenar çubuğu
+sign in
+Sign
+sinyal
+İmzası
+Signed
+İmzalayıcı
+İmzalama
+Silence
+Basit
+Basitleştirilmiş
+simülasyonü
+örneğini
+single
+Site
+SIZE
+Büyüklük
+Skip
+Skipped
+slash
+Dilimi
+sürgü
+Slot
+Yavaş
+Akıllı
+Yüz İfadesi
+Yumuşak
+SMTP
+Snap
+Snapshot
+Snooze
+Socket
+Yazılım
+İçi
+çözümü
+yarabilecek
+Sırala
+Sesi
+Kaynak
+Boşluk
+Aralık
+spam
+Span
+Special
+Specific
+şartnamesine
+Specified
+Specify
+Hız
+spell checking
+Yazım
+Spellcheck
+Yazım Denetimi
+spin button
+Spin
+Split
+biriktime
+square root
+square
+riñant
+kararlı
+Yığın
+Standart
+Yıldız
+Başlangıç
+Adım
+Başlangıç
+Durum
+Deyim
+İstatistikleri
+Status Bar
+Durum
+Step
+Duniikin
+Stopped
+durdurma
+Depolama
+Store
+Stored
+Stream
+strength
+Genişlet
+Strict
+çizik
+Üstü Çizili
+GÖRMEMENİZ
+Şeridi
+yazılır
+structure
+Biçem
+Stylesheet
+subdirectory
+Subfolder
+Konu
+Submission
+Gönder
+Gönderilme tarihi
+Değişikliklerinizi
+Abone ol
+olunan
+Alt Karakter
+Abonelik
+abonelikleri
+Alt Ağaç
+succeed
+successful
+sorunsuz
+Suffix
+öner
+suggestion
+Suite
+toplam
+Özet
+Pazar
+Üst Karakter
+atamak
+Destek
+Supported
+surface
+surrounding
+suspicious
+Swap
+GİT
+symbol
+Eşitleme
+Eşitle
+Syntax
+System Administrator
+SYSTEM
+TAB
+TABLE
+Etiket
+etiket
+Talk
+Hedef
+Görev
+taskbar
+Görevler
+bulunmayan
+telefon
+Geçici
+Şablonlar
+Temporarily
+Geçici
+on
+Terim
+Bildiriyi
+terminated
+Test
+text Area
+Metin
+doku
+Tema
+Temalar
+Dizi
+Thumbnail
+Perşembe
+Tight
+Döşe
+Tilt
+Zaman
+Timeout
+zamanlayıcı
+Zaman damgası
+Saat Dilimi
+Sa kan li
+TITLE
+Bugün
+Aç/kapat
+Jeton
+Yarın
+makalesine
+Çubuğunu
+Araç Çubukları
+Toolbox
+Toolkit
+Araçlar
+Bilgi Notu
+TOP
+topic
+Toplam
+trace
+Track
+trademark
+traffic
+Transaction
+Transfer
+Aktarılan
+Transferring
+transform
+dönüşümü
+geçişi
+Çevir
+translated
+Çeviriyi
+transmission
+Çöp
+ağaç
+Trigger
+troubleshoot
+Sorun giderme
+true
+Truncate
+Kesildi
+Güven
+Trusted
+Önce
+Salı
+tune
+Tür
+Typeface
+başlar
+Unable
+unacceptable
+görülmesini
+Müsait değil
+Kontrol etme
+uncompressed
+Undefined
+Silmeyi geri al
+Altı çizgili
+GERİ AL
+unencrypted
+Unexpected
+kapandı
+Unicode
+Guxun' ma
+Yayıncı
+Unit
+BİLİNMİYOR
+sınırsız
+Bağlantıyı kes
+Boşalt
+Unlock
+Kiltli Değil
+Eşleşmedi
+isimsiz
+Okunmadı
+Unrecognized
+UNSAFE
+Unsaved
+Unsent
+Unspecified
+Abonelikten çık
+UNSUPPORTED
+Başlıksız
+Güvenilmeyen
+Kullanılmayan
+Unvisited
+Yukarı
+Güncelle
+Updated
+Updating
+Yükselt
+yükseltiliyor
+Yükle
+sunucularımıza
+Uploading
+Upper
+Büyük
+URI
+Adres
+usable
+Kullanım
+USB
+Hepsini
+Used
+Kullanıcı
+Kullanıcı Adı
+Using
+utilities
+GEÇERLİ
+Doğrula
+Doğrulama
+Geçerlilik
+Değer
+Değerler
+Değişken
+Satıcı
+Verification
+Verified
+Verify
+Doğrulanıyor
+VERSION
+Versions
+Dikey
+Sa siki' ni'io'
+Gini'iaj
+viewed
+görüntüleyicisi
+Viewing
+Viewport
+violate
+ihlali
+Sanal
+virus
+görünürlüğünü
+visible
+Ziyaret et
+edilenler
+Görsel
+visualization
+Ses
+Ses
+Bekle
+Bekleniyor
+Wallpaper
+yüklenmişsiniz
+Warn
+UYARI
+sunulmuştur
+İzle
+Watched
+weather
+sarf
+WebMail
+Web sitesi
+Çarşamba
+Hafta
+Weekday
+ağırlıktan
+Bienvenidos
+Western
+Ne zaman
+Whenever
+where
+beyaz
+whitespace
+whole
+Genişlik
+wildcard
+Pencere
+With
+stylesrc
+Without
+Sihirbazına
+Sözcüğü
+Work Offline
+İş
+Kaydır
+yazılabilir
+Oluştur
+Writing
+wrong
+XML
+Evet
+Dün
+sıfır
+Politikası
+Zoom In
+Zoom Out
+Yaklaştır
+zooming
