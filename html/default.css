@@ -2,7 +2,7 @@
 	{
 		height: 100%;
 	}
-	
+
 	body
 	{
 		margin: 0px;
@@ -12,8 +12,8 @@
 		font-size: 12pt;
 		color: rgba(0,0,0,.6);
 	}
-	
-	
+
+
 	h1, h2
 	{
 		margin: 0;
@@ -25,7 +25,7 @@ h3 {
     color: #404040;
         font-size: 24px;
 }
-	
+
 	p, , ul
 	{
 		margin-top: 0;
@@ -35,12 +35,12 @@ h4
     font-size: 15px;
     padding-right: 100px;
 }
-	
+
 	ul
 	{
 		padding: 0;
 		list-style: none;
-	}	
+	}
 	strong
 	{
 	}
@@ -76,7 +76,7 @@ h4
 		font-size: 1em;
 		color: #FFF;
 	}
-	
+
 	.button:before
 	{
 		display: inline-block;
@@ -89,11 +89,11 @@ h4
 		text-align: center;
 		color: #272925;
 	}
-	
+
 	.button-small
 	{
 	}
-		
+
 /*********************************************************************************/
 /* Heading Titles                                                                */
 /*********************************************************************************/
@@ -102,12 +102,12 @@ h4
 	{
 		margin-bottom: 3em;
 	}
-	
+
 	.title h2
 	{
 		font-size: 2.8em;
 	}
-	
+
 	.title .byline
 	{
 		font-size: 1.1em;
@@ -132,13 +132,13 @@ h4
         height: 60px;
         margin-left:auto;
         margin-right:auto;
-    
+
 	}
 
 /*********************************************************************************/
 /* Logo                                                                          */
 /*********************************************************************************/
-	
+
 	#logo h1
 	{
 		display: inline-block;
@@ -146,13 +146,13 @@ h4
 		padding: 0.10em 0.7em;
 		font-size: 2.5em;
 	}
-	#logo h4 
+	#logo h4
     {
         float:right;
         padding: 0px;
     }
-    
-    
+
+
 	#logo h4 .logo_colour
         { color: #FFEC2B;;}
 
@@ -164,7 +164,7 @@ h4
 		text-decoration: none;
 		color: #FFF;
 	}
-	
+
 	#logo span
 	{
 		padding-right: 0.5em;
@@ -177,8 +177,8 @@ h4
 	{
 		color: rgba(255,255,255,0.8);
 	}
-	
-	
+
+
 
 /*********************************************************************************/
 /* Menu                                                                          */
@@ -190,12 +190,12 @@ h4
 		padding: 1em 2em;
 		text-align: top;
 	}
-	
+
 	#menu li
 	{
 		display: inline-block;
 	}
-	
+
 	#menu li a, #menu li span
 	{
 		display: inline-block;
@@ -207,17 +207,17 @@ h4
 		outline: 0;
 		color: #000;
 	}
-	
+
 	#menu li:hover a, #menu li.active a, #menu li.active span
 	{
 		background: #FFEC2B;
 		color: #FFF;
 	}
-	
+
 	#menu .current_page_item a
 	{
 	}
-	
+
 
 /*********************************************************************************/
 /* Login Page                                                                      */
@@ -247,7 +247,7 @@ h4
         padding: 90px 10em 5em 10em;
 		background: #FFF;
         height:550px;
-        
+
 	}
 
 	.wrapper2
@@ -296,19 +296,19 @@ h4
         position: center;
         display: inline;
 	}
-	
+
 	#translate .content
 	{
 		padding: 0em 7em;
 	}
-	
+
 	#translate .title h2
 	{
         text-align: center;
         font-size: 14px;
         position:center;
 	}
-	
+
 
 /*********************************************************************************/
 /* Page                                                                          */
@@ -337,7 +337,7 @@ h4
 /* Input Textbox                                                                     */
 /*********************************************************************************/
 
-input[type="text"] 
+input[type="text"]
 {
     height: 20px;
     width: 300px;
@@ -356,7 +356,7 @@ input[type="question"]
 {
     height: 100px;
     width: 400px;
-    
+
 }
 
 /*********************************************************************************/
@@ -398,7 +398,7 @@ input[type="question"]
 /*********************************************************************************/
 input[type=translate] {
     height: 50px;
-    width: 400px; 
+    width: 400px;
 }
 
 .setting {

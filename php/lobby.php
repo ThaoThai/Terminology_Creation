@@ -17,6 +17,17 @@ require_once ("authenticate.php");
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900|Quicksand:400,700|Questrial" rel="stylesheet" />
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+   <script src="./jquery.tabletoCSV.js" type="text/javascript" charset="utf-8"></script>
+   <script>
+       $(function(){
+           $("#export").click(function(){
+               $("#userTable").tableToCSV();
+           });
+       });
+   </script>
+
     <!--<link href="../assets/css/bootstrap.css" rel="stylesheet">-->
 <link href="../html/default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="../html/fonts.css" rel="stylesheet" type="text/css" media="all" />
@@ -74,11 +85,11 @@ if (str == "") {
 		</div>
 		<div id="menu">
 			<ul>
-				<li ><a href="../index.php" accesskey="4" title="">Homepage</a></li>
+				<li class="active"><a href="lobby.php" accesskey="1" title="">Homepage</a></li>
 				<li><a href="account.php" accesskey="2" title="">My account</a></li>
 				<li><a href="../html/about.html" accesskey="3" title="">About Us</a></li>
-        <li><a href="../html/feedback.html" accesskey="3" title="">Feedback</a></li>
-        <li class="active"><a href="lobby.php" accesskey="1" title="Lobby"> My Lobby </a></li>
+        <li><a href="../html/feedback.html" accesskey="4" title="">Feedback</a></li>
+        <!-- <li class="active"><a href="lobby.php" accesskey="1" title="Lobby"> My Lobby </a></li> -->
 			</ul>
 		</div>
 	</div>
@@ -89,7 +100,8 @@ if (str == "") {
 
 	<!-- <div id="translate" class="container"> -->
     <button onclick="commit()"> Commit Change(s) </button>
-    <INPUT TYPE="submit" VALUE="Update"></INPUT><br><br>
+    <INPUT TYPE="submit" VALUE="Update"></INPUT>
+    <button id="export" data-export="export">Export</button>
   </div>
     <div id="container"  >
 <p><b>Welcome to the Terminology Creation,<?= htmlentities($_SESSION['username']); ?>!</b></p>

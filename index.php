@@ -64,8 +64,8 @@ function showUser(str) {
 				<li class="active"><a href="index.php" accesskey="1" title="">Homepage</a></li>
 				<li><a href="php/account.php" accesskey="2" title="">My account</a></li>
 				<li><a href="html/about.html" accesskey="3" title="">About Us</a></li>
-                <li><a href="html/feedback.html" accesskey="3" title="">Feedback</a></li>
-                <li><a href="php/lobby.php" accesskey="4" title="Lobby"> My Lobby </a></li>
+                <li><a href="html/feedback.html" accesskey="4" title="">Feedback</a></li>
+                <!-- <li><a href="php/lobby.php" accesskey="4" title="Lobby"> My Lobby </a></li> -->
 			</ul>
 		</div>
 	</div>
@@ -77,7 +77,7 @@ function showUser(str) {
                 <option value =""> Your Language  </option>
                 <option value ="az"> Azərbaycan dili</option>
                 <option value="ca"> Català</option>
-                <option value ="es"> Español</option>
+                <!-- <option value ="es"> Español</option> -->
                 <option value="fj"> vakaViti </option>
                 <option value="fr">Français</option>
                 <option value="ga">Gaeilge</option>
