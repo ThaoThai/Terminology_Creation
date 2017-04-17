@@ -9,26 +9,26 @@ $results = $result->fetch_assoc();
 $data_lan= $results['language'];
 
 $lang=array("English" => array("en"),
-      "Azərbaycan dili"=> array("az"),
-      "Català"=> array("ca"),
-      "Español"=> array("es"),
-      "vakaViti"=> array("fj") ,
-      "Français"=> array("fr"),
-      "Gaeilge"=> array("ga"),
-      "Galego"=> array("gl"),
-      "ʻŌlelo Hawaiʻi"=> array("haw"),
-      "Bahasa Indonesia"=> array("id"),
-      "Italiano"=> array("it"),
-      "Bahasa Melayu"=> array("ms"),
-      "Português"=> array("pt"),
-      "Gagana Sāmoa"=> array("sm"),
-      "Basa Sunda"=> array("su"),
-      "Türkmençe"=> array("tk"),
-      "Türkçe"=> array("tr"),
-      "Татарча"=> array("tt"),
-      "Ўзбек"=> array("uz"),
-      "Vèneto"=> array("vec"),
-      "Walon"=> array("wa")
+      "Azərbaycan dili"=>array('az','tk','tr','tt','uz'),
+      "Català"=>  array('ca','gl','pt','fr','wa','vec','it','ga'),
+      "Español"=> array('gl','pt','ca','fr','wa','vec','it','ga'),
+      "vakaViti"=> array('fj','haw','sm','id','ms','su'),
+      "Français"=> array('fr','wa','vec','ca','gl','pt','it','ga'),
+      "Gaeilge"=> array('ga','ca','gl','pt','fr','wa','vec','it'),
+      "Galego"=> array('gl','pt','ca','fr','wa','vec','it','ga'),
+      "ʻŌlelo Hawaiʻi"=> array('haw','sm','fj','id','ms','su'),
+      "Bahasa Indonesia"=> array('id','ms','su','fj','haw','sm'),
+      "Italiano"=> array('it','fr','wa','vec','ca','gl','pt','ga'),
+      "Bahasa Melayu"=> array('ms','id','su','fj','haw','sm'),
+      "Português"=> array('pt','gl','ca','fr','wa','vec','it','ga'),
+      "Gagana Sāmoa"=> array('sm','haw','fj','id','ms','su'),
+      "Basa Sunda"=> array('su','id',' ms','fj','haw','sm'),
+      "Türkmençe"=> array('tk','tr','az','tt','uz'),
+      "Türkçe"=>  array('tr','tk','az','tt','uz'),
+      "Татарча"=> array('tt','uz','az','tk','tr'),
+      "Ўзбек"=> array('uz','tt','az','tk','tr'),
+      "Vèneto"=>  array('vec','fr','wa','ca','gl','pt','it','ga'),
+      "Walon"=> array('wa','fr','vec','ca','gl','pt','it','ga')
   );
 
 $code = array (
@@ -64,6 +64,9 @@ $query="SELECT $temp from translation";
     $result = $test_db->query($query);
     echo "
     <table id ='userTable'>
+    <colgroup>
+    <col span='2' style='background-color:lightblue'>
+  </colgroup>
     <thead>
     <tr>
     <th>English</th>";

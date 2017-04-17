@@ -167,7 +167,7 @@ if (isset($_POST['login'])) {
        <li><a href="account.php" accesskey="2" title="">My account</a></li>
        <li><a href="../html/about.html" accesskey="3" title="">About Us</a></li>
         <li><a href="../html/feedback.html" accesskey="3" title="">Feedback</a></li>
-        <li><a href="lobby.php" accesskey="4" title="Lobby"> My Lobby </a></li>
+        <!-- <li><a href="lobby.php" accesskey="4" title="Lobby"> My Lobby </a></li> -->
      </ul>
    </div>
  </div>
