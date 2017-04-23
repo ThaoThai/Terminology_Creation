@@ -1,0 +1,4684 @@
+3-d
+3d
+a.m./p.m.
+abbreviation
+abort
+aborted
+aborting
+about
+about gnome
+about me
+about mozilla firefox
+about panels
+above
+absolute
+absolute link
+absolute path
+absolute url
+absolute value
+abstract
+accelerator
+accelerator board
+accelerator card
+accelerator key
+accent
+accept
+accept all
+accepted
+access
+access denied
+access permissions
+access privileges
+access rights
+access speed
+access time
+accessed
+accessibility
+accessibility keyboard
+accessibility keyboard plugin
+accessible
+accessing
+accessories
+accessory
+account
+account information
+account name
+account settings
+accounts
+accuracy
+acquire
+acronym
+action
+activatable
+activate
+activated
+activating
+activation
+active
+active cell
+active document
+active link
+active plugins
+active window
+activity
+activity indicator
+actor
+actuator
+acute
+adapt
+adapter
+adaptive
+adaptor
+add
+add bookmark
+add buddy
+add chat
+add files
+add group
+add new
+add or remove
+add sender to address book
+add to panel
+add user
+add-in
+add-on
+add/edit
+add/remove software
+added
+adding
+additional
+address
+address book
+address book properties
+address entry
+addressee
+addresses
+addressing
+adjacent
+adjust
+adjustment
+administration
+administrative
+administrator
+advance
+advanced
+advanced options
+advanced search
+advanced send options
+advanced settings
+advisor
+africa
+african
+age
+agenda
+agent
+aggregate
+aggregate function
+aging
+ago
+agree
+agreement
+aim
+aisleriot
+alarm
+alert
+alert box
+algorithm
+alias
+aliasing
+align
+aligned
+alignment
+all
+all caps
+all day
+all files
+all message headers
+all messages
+allocate (memory)
+allocation (memory)
+allow
+allow pop-ups from this site
+allowed
+alpha
+alpha channel
+alphabet
+alphabetical
+alphanumeric
+already exists
+also used as a synonym to active.
+alt
+alt key
+alter
+alternate
+alternative
+alternative display
+alternative text
+always ask
+always on top
+ambient
+amount
+ampersand
+analog
+analysis
+analyst
+analyze
+anchor
+and
+and/or
+angle
+angle bracket
+angled line
+animate
+animated
+animated image
+animation
+anniversary
+annotation
+announce
+announcement
+annoy
+annoying
+anonymity
+anonymous
+anonymously
+answer
+answer mode
+antenna
+anti virus
+anti-aliasing
+anti-glare screen
+anti-virus program
+antialiasing
+any category
+any field
+any key
+appear
+appearance
+appears in
+append
+appended
+applet
+applet popup menu
+applicable
+application
+application launcher
+applications
+applied
+applix
+apply
+apply filters
+appointment
+approach
+approval
+approve
+approved
+approximate
+approximately
+april
+arabic
+arbitrary
+arc
+archive
+archive file
+archive manager
+area
+area grid
+argument
+arrange
+arrange items
+arrangement
+array
+arrow
+arrow button
+arrow down
+arrow key
+arrow left
+arrow right
+arrow up
+arrowend
+arrowhead
+art
+article
+artificial intelligence / ai
+artist
+artwork
+ascending
+ascending (order)
+ascending order
+ascii
+asian language support
+asian text
+ask
+ask every time
+aspect
+aspect ratio
+assembling
+assign
+assign (value)
+assign task
+assigned
+assignment
+assignment (home work)
+assignment (value)
+assist
+assistance
+assistant
+assistive
+assistive technologies
+assistive technology preferences
+associate
+associated
+association
+assume
+asterisk
+asynchronous
+at
+at the end
+atm
+attach
+attach a file
+attached
+attachment
+attempt
+attempted
+attempting
+attendees
+attention
+attribute
+audio
+audio device
+audio disc
+audio files
+audio output
+audio player
+august
+authenticate
+authenticated
+authentication
+author
+authority
+authorization
+authorize
+authorized
+auto
+auto completion
+auto configuration
+auto detection
+auto filter
+auto fit to
+auto-load
+autoabstract
+autoanswer
+autocheck spelling
+autocomplete
+autocompletion
+autocorrect
+autodetect
+autodetection
+autofill
+autofilter
+autofit
+autoformat
+autoincrement
+autoload
+automail
+automated office
+automatic
+automatic update
+automatically
+automation
+autopilot
+autorun
+autosave
+autoscroll
+autotext
+availability
+available
+available palettes
+average
+avoid
+aware
+axis
+back
+back button
+back door
+back end
+back-end
+backbone
+background
+background application
+background color
+background color name
+background image
+background set
+background task
+backgrounds and emblems
+backlog
+backslash
+backspace
+backup
+backup copy
+backward
+bad
+bad area
+bad disk
+bad sector
+balance
+ban
+bandwidth
+bandwidth (digital device)
+bandwidth (radio)
+banned
+banner
+bar
+bar chart
+bar code
+barcode
+base
+base 10
+base 16
+base 2
+base 8
+base line
+basic
+batch
+batch file
+battery
+battery charge monitor
+baud
+bcc
+bcc (blind carbon copy)
+bcc / blind carbon copy
+beamer
+beep
+begin
+begin of word
+beginning
+begins with
+behavior
+behind
+belonging
+below
+beneath
+best fit
+beta
+bibliography
+bibliography database
+bibliography entry
+bigger
+binary
+binary number
+binary system
+bind
+binding
+binomial distribution
+birthday
+bit
+bitmap
+black
+blank
+blank cd-r disc
+blank cd-rw disc
+blank document
+blank dvd+r disc
+blank dvd+rw disc
+blank dvd-ram disc
+blank dvd-rw disc
+blank page
+blanking
+blend
+blink
+blinking
+blinking cursor
+block
+block (unit)
+block (verb)
+block buffer
+blocked
+blocking
+blockquote
+blog
+blue
+bluetooth
+blur
+blur image
+board
+body
+bold
+book excerpt
+book mark
+bookmark
+bookmark all tabs
+bookmark this page
+bookmarked
+bookmarks
+boolean
+boot
+border
+border and shading
+border color
+bot
+bottom
+bottom pane
+bottom to top
+bounced
+bound
+boundaries
+boundary
+box
+brace
+bracket
+braille
+branch
+brand
+break
+break (program)
+break point
+breakpoint
+bricks
+bridge (noun)
+bridge (verb)
+brief
+bright
+brightness
+bring
+bring forward
+bring to front
+broadband
+broadband network
+broadcast
+brochure
+broken
+brown
+browse
+browse folders
+browse the file system
+browser
+brush
+buddies
+buddy
+buddy pounces
+buffer
+buffer size
+bug
+bug buddy
+bug report
+build
+build id
+built-in
+bullet
+bullet / bullet point
+bulleted
+bulleted list
+bulletin
+bulletin board
+bullets and numbering
+burn
+burning
+burst mode
+bus
+business card
+busy
+button
+by company
+byte
+c
+cable
+cable television
+cache
+cached
+calculate
+calculated
+calculating
+calculation
+calculator
+calendar
+calender
+call
+call back
+call out
+callback
+calling
+callout
+camcorder
+camera
+can't open directory
+can't restore
+can't undo
+cancel
+cancel login
+canceled
+cancelled
+cancelling
+canvas
+capability
+capable
+capacity
+capital
+capital letter
+capitalization
+capitalize
+capplet
+caps lock
+caption
+capture
+captured
+card
+caret mode
+carrier
+cascade
+case
+case (font)
+case sensitive
+case/character (oop)
+cast shadow
+catalog
+catalog / catalogue
+categories
+category
+caution
+cc (carbon copy)
+cc / carbon copy
+cd
+cd / compact disk
+cd player
+cd-r
+cd-r disc
+cd-rom
+cd-rom disc
+cd-rw
+cd-rw disc
+cd/dvd creator
+cde panel
+cedilla
+cell
+cell contents
+cell pointer
+cell reference
+cells
+cellular
+center
+center (centre)
+centered
+centimeter (centimetre)
+centimeter / centimetre
+central european
+central processing unit (cpu)
+centralized network
+centralized processing
+certificate
+certify
+chairperson
+change
+change case
+change case (ms. office)
+change desktop background
+change language
+change password
+change profile
+change session
+changes
+changing
+channel
+channel (hardware)
+channel (television)
+channel (tv)
+chapter
+char cell
+character
+character encoding
+character map
+character palette
+character set
+character spacing
+character style
+charcoal sketch
+charset
+chart
+chart area
+chat
+chat group
+chat room
+check
+check bit
+check box
+check for
+check for junk
+check for updates
+check now
+check spelling
+checkbox
+checked
+checkerboard
+checking
+checking for new mail
+checkmark / check mark
+checksum
+cheese
+child
+child process
+chime
+chinese
+chip
+chipset
+choice
+choose
+choosing
+chosen
+chroma
+chrome
+cipher
+circle
+circular
+circular reference
+city
+class
+classic
+classification
+classify
+clean
+clean up by name
+clean up by names
+clear
+clear highlight
+clear history
+clear private data
+cleared
+click
+click (noun)
+click (verb)
+click and drag
+click in
+click on, click
+click outside
+click to open
+click-and-hold
+client
+client side
+climate
+clip art
+clip board
+clipboard
+clock
+clockwise
+clone
+close
+close all
+close all folders
+close parent folders
+close tab
+close the current file
+close the current window
+close window
+closed
+closing
+code
+code (program)
+code (symbol)
+code segment
+codec
+coding
+coefficient
+collaboration
+collapse
+collapse all threads
+collate
+collect
+collection
+collision
+colon
+color
+color depth
+color palette
+color picker
+color resolution
+color scheme
+color selection
+color selector button
+color tolerance
+color/grayscale
+colored
+column
+column & row headers
+column break
+column header
+column heading
+column span
+columnar
+com port
+combination
+combine
+combo box
+combo box (combination box)
+comma
+command
+command button
+command line
+command line options
+comment
+comments
+common
+common name
+common properties
+commonly used
+communicate
+communicating
+communication
+compact
+compact view
+company
+compare
+compare documents
+compatibility
+compatible
+compilation
+compile
+compiled
+compiler
+complementary close
+complete
+completed
+completed tasks
+complex text layout
+component
+compose
+compose new message
+composed
+composer
+composition
+compound
+compress
+compressed
+compression
+compute
+computer
+computing
+concatenate
+concatenation
+concave
+concordance
+concordant file
+concurrent
+condense
+condensed
+condensed spacing
+condition
+conditional formatting
+conduit
+conference
+conference call
+confidential
+confidentiality
+configurable
+configuration
+configuration editor
+configuration file
+configuration files
+configure
+configure the application
+configured
+configuring
+confirm
+confirmation
+confirmed
+conflict
+connect
+connect to server
+connected
+connecting
+connection
+connection failure
+connection information
+connection pools
+connection refused
+connection timed out
+connector
+consecutive numbering
+consent
+console
+consolidate
+constant
+constrain proportion
+constraint
+consult
+contact
+contact (noun)
+contact (verb)
+contact information
+contain
+contained in
+container
+content
+content type
+contents
+context
+context menu
+continue
+continue search backward
+continue search forward
+continued
+continuous
+continuously
+contour
+contract
+contrast
+contribution
+contributor
+control
+control center
+control key /  ctrl
+control panel
+controller
+convene
+convention
+converge
+conversation
+conversion
+convert
+convert to task
+converted
+converter
+converting
+cookie
+cookies
+cool (smiley)
+cooperative
+coordinate
+copies
+copy
+copy (noun)
+copy (verb)
+copy all contact to
+copy cds and dvds
+copy contact to
+copy folder to...
+copy left
+copy right
+copy the selection
+copy to folder
+copying file
+copying files
+copyright
+copyright year
+corba
+core file
+corner
+corner radius
+corner to frame
+correct
+correction
+correlation
+correspondence
+correspondent
+corrupt
+corrupted
+corrupted file
+cos
+cost
+couldn't save
+count
+countable
+counter
+counter variable
+counterclockwise
+counterfeit
+country
+country code
+covariance
+cover
+cpu
+cpu / central processing unit
+cpu load
+crash
+create
+create a new contact
+create a new launcher
+create a new memo
+create a new task
+create document
+create folder
+create launcher
+create rule
+create search folder from search
+created
+creating image
+creation
+creator
+credential
+credentials
+credit
+credit card
+credits
+criteria
+criteria range
+critical
+critical error
+crop
+crop tool
+cross-platform
+cross-post
+cross-posting
+cross-reference
+crypt
+cryptography
+cryptology
+css / cascading style sheets
+ctrl
+cumulative
+curly bracket
+currency
+current
+current cell
+current color
+current document
+current folder
+current line
+current locale
+current page
+current profile
+current selection
+current view
+current window
+cursor
+cursor position
+curve
+curved
+custom
+custom animation
+custom format
+custom location
+custom size
+custom slide show
+custom window
+customer
+customization
+customize
+customized
+cut
+cut and paste
+cut the selection
+cyberspace
+cycle
+cyrillic
+cyrillic/russian
+czech
+daemon
+daily
+damage
+damaged
+dangerous
+dark
+darken
+dash
+dash line
+dashed
+dasher
+data
+data capture
+data entry
+data source
+data type
+database
+database management
+database to use
+datapilot
+date
+date & time
+date and time
+date format
+date modified
+date stamp
+date/time
+day
+day view
+deactivate
+deal a card
+deal a new card
+debug
+debug window
+debugger
+debugging output
+december
+decimal
+decimal place
+decimal precision
+decimal separator
+decision
+declare (variable)
+decline
+decode
+decoder
+decompress
+decorate
+decrease
+decrypt
+decryption
+dedicated
+default
+default formatting
+default height
+default printer
+default setting
+default system session
+default value
+default width
+defect
+defective
+define
+define range
+define views
+defined
+definition
+defragmentation
+degree
+deinstall
+del / delete key
+delay
+delayed
+delete
+delete cells
+delete contents
+delete files
+delete manual break
+delete message
+delete slide
+delete this panel
+deleted
+deleting
+deleting files
+deletion
+delimit
+delimiter
+deliver
+delivered
+demilitarized zone (dns)
+demo
+demo (demonstration)
+demote
+denied
+denominator
+denote
+deny
+department
+dependence
+dependency
+depth
+derived
+desaturate
+descending
+descending (order)
+descending sort
+describe
+description
+description contains
+descriptor
+deselect
+design
+designation
+designer
+desktop
+desktop background
+desktop computer
+desktop effects
+desktop environment
+desktop icon
+destination
+destination folder
+destroy
+detach
+detach tab
+detail
+details about
+detect
+detect and repair
+detected
+detection
+detective
+devanagari
+develop
+developer
+development
+development cycle
+device
+device manager
+diacritic / diacritical mark
+diacritic, diacritical mark
+diagnostics
+diagonal
+diagonal line
+diagram
+dial
+dial in
+dial out
+dial tone
+dial-up
+dial-up access
+dialect
+dialer
+dialog
+dialog box
+dialog element
+dialog pane
+dialogue / dialog
+dialout device
+dialup
+diameter
+dictation software
+dictionaries
+dictionary
+dictionary server
+dictionary sources
+difference
+digest
+digit
+digital
+digital camera
+digital signature
+digital signatures
+digitally
+digits
+dim
+dimension
+direct access
+direction
+directories
+directory
+directory not empty
+directory server
+disable
+disabled
+disabling
+disc
+discard
+discarded
+disclaim
+disclaimer
+disconnect
+disconnected
+discontinue
+discrete
+discussion
+disk
+disk drive
+disk space
+disk usage analyzer
+diskette
+dismiss
+dispatch
+display
+display line numbers
+displayed
+dissertation
+dissipation
+dissolve
+distance
+distinct
+distort
+distortion
+distribute
+distribute columns evenly
+distribute rows evenly
+distributed
+distribution
+distribution list
+distributor
+dithering
+divide
+divided
+dividend
+division
+division by zero
+division sign
+divisor
+dma
+dns
+do you really want to
+do you want to
+dock
+document
+document begin
+document statistics
+document viewer
+documentation
+documentations
+documents
+does not exist
+dom inspector
+domain
+domain name
+domestic
+done
+dossier
+dot
+dot matrix printer
+dotted
+double
+double click
+double line
+double quote
+double size
+double strikethrough
+double underline
+double-click on
+double-sided
+down
+down arrow
+down time
+downgrade
+download
+downloaded
+downloading
+downloads
+downward
+dpi  / dots per inch
+draft
+drafts
+drag
+drag and drop
+draw
+drawer
+drawing
+drawing area
+drawing toolbar
+drawn
+drive
+driver
+drop
+drop cap
+drop down menu
+drop out
+drop shadow
+drop-down
+drop-down combination box
+drop-down list box
+dropout
+dropped
+dropping
+druid
+dual
+due
+dumb terminal
+dummy
+dump
+duplex
+duplicate
+duplicate slide
+duplicate...
+duration
+dutch
+dvd
+dvd+r
+dvd+r disc
+dvd+rw
+dvd+rw disc
+dvd-r
+dvd-r disc
+dvd-ram
+dvd-ram disc
+dvd-rom
+dvd-rom disc
+dvd-rw
+dvd-rw disc
+dynamic
+e-book (electronic book)
+e-commerce (electronic commerce)
+e-commerce / electronic commerce
+e-mail
+e-mail (email)
+e-mail address
+e-mail client
+e-mail server
+e.g
+e.g.
+each
+earlier
+easier
+east
+easy
+echo
+edge
+edit
+edit as new message
+edit bookmarks
+edit menus
+edit saved search
+edit search folder
+editable
+edited
+editing
+editing mode
+edition
+editor
+editor font
+education
+effect
+effects
+eject
+eject (disk)
+ejected
+elapse
+elapsed
+electronic
+electronic mail
+element
+ellipse
+elliptical
+email
+email address
+embarrassed (smiley)
+embed
+embedded
+emboss
+embossed
+emoticon
+emphasis
+empty
+empty foundation
+empty presentation
+empty trash
+emptying the trash
+emulate
+emulation
+emulator
+enable
+enable animations
+enable debugging code
+enable networking
+enable search
+enabled
+enabling
+encapsulate
+encapsulated postscript
+enclosing character
+enclosure
+encode
+encoded
+encoder
+encoding
+encounter
+encrypt
+encrypted
+encrypted data
+encryption
+end
+end date
+end user
+endless
+endnote
+engine
+engineering
+english
+engraved
+enhance
+enhanced
+enhancement
+enlarge
+enlargement
+enough
+enter
+enter / enter key
+enter password for user
+entered
+entertainment
+entire
+entire column
+entire row
+entity
+entries
+entry
+envelope
+environment
+environment variable
+epiphany web browser
+equal sign
+equalizer
+equation
+erase
+error
+error checking
+error code
+error handling
+error message
+error occured
+error printing
+error report
+escape
+escape key / esc
+estimate
+estimated
+estonian
+ethernet
+euro converter
+europe
+european
+evaluate
+evaluation
+evaluation version
+even
+even number
+even page
+evenly
+event
+every time
+evince
+evolution
+exact
+examine
+example
+exceed
+exceeded
+exception
+exchange
+exchange database
+exclamation mark / exclamation point
+exclude
+exclusive or
+executable
+executable file
+execute
+exist
+existing
+exit
+exiting
+expand
+expand (directory)
+expand all threads
+expand slide
+expanded
+expanded memory
+expanded spacing
+expansion
+expect
+expected
+expected location
+expecting
+experienced
+expiration
+expire
+expired
+explain
+explanation
+explicit state
+explore
+explorer
+explorer (program)
+exponential notation
+export
+export as
+export as pdf
+exposure
+expression
+expunge
+extend
+extended
+extended selection
+extended tips
+extensible
+extension
+extension (file)
+extensions
+external
+external tools
+extra
+extracondensed
+extract
+extraction
+extraexpanded
+extrusion
+eye of gnome
+eyedropper
+facility personnel
+factorial
+factory setting
+fade in
+fade out
+fade out color
+fail
+failed
+failsafe terminal
+failure
+fallback
+false
+family
+family name
+fan
+faq (frequently asked question)
+faq / frequently asked questions
+fast
+fast forward
+faster
+fastest
+fatal
+fault
+favorite
+favorite folder
+fax
+feature
+february
+feed
+feed (newsfeed)
+feedback
+feet
+female
+fetch
+fetching
+fewer
+field
+field names
+field shadings
+fields
+figure
+file
+file already exists
+file as
+file browser
+file chooser
+file does not exist
+file exists
+file extension
+file format
+file input (form html)
+file management
+file manager
+file manager menu
+file name
+file not found
+file pointer
+file size
+file submission
+file system
+file transfer
+file transfers
+file type
+filename
+filesystem
+filetype
+filing cabinet
+fill
+filled
+filter
+final
+final angle
+find
+find & replace
+find again
+find in message
+find in this page
+find next
+find now
+find previous
+finder
+finding
+fine line
+finger
+finish
+finished
+finishing
+finnish
+firefox
+firefox web bowser
+firewall
+firmware
+first
+first name
+fish
+fit
+fit on screen
+fit page width
+fit to frame
+fix
+fixed
+fixed font
+fixed width
+fixed-width font
+flag
+flagged
+flash
+flash drive
+flat
+flip
+float
+float (verb)
+floating frame
+floating point number
+flood
+floor
+floppy
+floppy disk drive
+floppy drive
+flow
+flow analysis
+flow chart
+flow control
+flowchart
+fly out
+flyout menu
+focal
+focus
+focused
+fold mark
+folder
+folder does not exist
+follow symbolic links
+follow-up
+font
+font color
+font effect
+font family set
+font points
+font selector button
+font selector dialog
+font size
+font size set
+font stretch
+font stretch set
+font style
+font style set
+font variant
+font variant set
+font weight
+font weight set
+fonts
+fontwork
+foot
+foot-in-mouth (smiley)
+footer
+footnote
+footnotes
+forbidden
+force
+force quit
+forecast
+foreground
+foreground application
+foreground color
+foreground set
+foreground task
+foreign
+forever
+forget passwords
+fork
+form
+form letter
+format
+format (noun)
+format (verb)
+formatted
+formatting
+formatting bar
+formatting mark
+formula
+formula bar
+forum
+forward
+forward as
+forward contact
+forward slash
+forwarded
+forwarded message
+found
+fourier analysis
+fraction
+fragment
+frame
+frame set
+frameset
+framework
+free
+free news letters
+free software
+free/busy
+free/busy information
+freeware
+freeze
+french
+frequency
+frequently
+friday
+friend
+from template
+front
+front end
+frown (smiley)
+ftp
+ftp / file transfer protocol
+full control
+full duplex transmission
+full name
+full pathname
+full screen
+full screen mode
+full version
+fully qualified form
+function
+function bar
+function list
+functionality
+fuzzy
+gadu-gadu
+gallery
+game
+game over
+gamma
+gap
+gateway
+generate
+generating
+generation
+generator
+generic
+generic error
+genre
+geometric
+geometric shape
+geometry
+get
+get user info
+gigabyte
+given name
+glass
+global
+global menu
+glossary
+glue point
+glue points
+gnome
+gnome display manager
+gnome footprint
+gnome panel
+gnome terminal
+gnu
+go back
+go forward
+go to
+go to line
+goal seek
+google
+gouraud
+gpl
+gps / global positioning system
+grab
+gradient
+grain
+grammar
+grant permission
+graph
+graphic
+graphic design
+graphical
+graphical user interface
+graphics
+gray
+gray-scale
+grayscale
+greater than
+green
+grid
+gridline
+group
+group box
+group by threads
+group name
+gthumb image viewer
+gtk
+gtk+
+guard
+guess
+guest
+gui
+gui / graphical user interface
+guide
+guideline
+guides
+gutter
+hacker
+half
+half duplex transmission
+hand
+hand-held
+handle
+handle (noun)
+handle (of object)
+handle (verb)
+handler
+handout
+handout page
+handshake
+hang up
+hanging indent
+hard disk
+hard drive
+hardware
+hash
+hatch
+hazardous
+head
+header
+headers & footers
+heading
+headline
+headphones
+headset
+headword
+hebrew
+hebrew visual
+height
+height of the window
+hello world
+help
+help contents
+helper application
+hex
+hexadecimal
+hexadecimal number
+hibernate
+hidden
+hidden file
+hidden paragraphs
+hide
+hide button
+hide deleted messages
+hide read messages
+hide selected messages
+hierachy
+hierarchy
+high
+high contrast
+high light
+high priority
+high security
+higher
+highest
+highlight
+highlight color
+highlight current line
+highlight mode
+highlight...
+highlighted
+hint
+hiragana
+his/her
+histogram
+history
+hit
+hold
+hold down
+home
+home directory
+home folder
+home page
+home phone
+homepage
+homogeneous
+homogeneous environment
+hop
+horizontal
+horizontal adjustment
+horizontal alignment
+horizontal line
+horizontal ruler
+horizontal scrollbar
+horizontally
+host
+host name
+hostname
+hot key
+hot list
+hotkey
+hotplug
+hotspot
+hour
+hour format
+housekeeping
+hpa
+html
+http
+hue
+hungarian
+hyperlink
+hypertext
+hyphen
+hyphenate
+hyphenation
+i/o subsystem
+icon
+icon name
+icon selector button
+icon selector dialog
+icon size
+icon view
+icq
+id
+id / identification
+ide
+identifier
+identify
+identity
+identity theft
+idiom
+idle
+idle time
+ignore
+ignore all
+ignoring
+illegal
+illumination
+illustration
+im / instant message / instant messaging
+image
+image data
+image file
+image map
+image size
+image viewer
+image/label border
+imagemap
+implement
+implementation
+implemented
+implicit
+import
+important
+imported
+importing
+improper
+improve
+in progress
+in the future
+in-line
+inactive
+inactive window
+inbox
+inch
+include
+incoming
+incoming server
+incompatible
+incomplete
+inconsistent
+incorrect
+increase
+increment
+incremental update
+incrementally search
+increments
+indent
+indent value
+indentation
+index
+index entry
+index mark
+indexes and tables
+indicator
+indicator size
+indice
+individual
+indonesian
+infect
+infected
+infected file
+infinite
+infinity
+info
+information
+information technology
+infrared
+inhg
+initial
+initialization
+initialize
+initialize (computer)
+initialize (storage medium)
+initialize (variable)
+initials
+initiate
+initiation
+inline
+inline frame
+inner
+inner join
+innocent (smiley)
+inode
+input
+input box
+input field
+input mask
+input method
+input method status
+input methods
+input-output analysis
+input/output
+inquire
+inscription
+insecure
+insensitive version
+insert
+insert data
+insert date and time
+insert spaces
+inserted
+insertion point
+install
+installation
+installed
+installer
+installing
+instance
+instant message
+instantiate
+instruction
+instruction pointer
+insufficient
+insufficient permissions
+integer
+integral
+integrate
+integrated
+integrated circuit
+integrated desktop
+integration
+integrity
+intensity
+interaction
+interactive
+interactive search
+interactivity
+intercept
+interchange file format
+interface
+interlaced
+intermediate
+internal
+internal bug
+internal error
+international
+internet
+internet connection
+internet messenger
+internet time
+interoffice
+interpret
+interrupt
+intersect
+intersection
+interval
+introduction
+intruder
+intuitive
+invalid
+invalid filename
+invalid signature
+invalid uri
+inverse
+invert
+invert selection
+inverted
+invest
+invisible
+invitation
+invite
+invoke
+inward
+ip
+ip / internet protocol
+ip address
+ip telephony, voip and video conferencing
+irc
+irc (internet relay chat)
+irc / internet relay chat
+isp (internet service provider)
+isp / internet service provider
+issue
+issue to
+issued
+issuer
+it / information technology
+italic
+item
+iteration
+jabber
+jack
+jag
+jagged
+jam
+january
+japanese
+javascript console
+jaz drive
+job
+join
+journal
+joy stick
+jpeg
+jpeg / jpg
+july
+jump
+june
+junk
+junk mail
+justification
+justified
+justify
+katakana
+kb
+kb / kilobyte
+kde
+keep
+keep aligned
+keep ratio
+keep running
+keep track
+kern
+kernel
+key
+key (encryption)
+key (searching)
+key (typing)
+key in
+key stroke
+key word
+keyboard
+keyboard handling
+keyboard indicator
+keyboard plugin
+keyboard preferences
+keyboard shortcut
+keyboard shortcuts
+keymap control
+keypad
+keyring manager
+keystroke
+keyword
+kill
+kill app
+kilobyte
+king
+km/h
+knots
+knowledge
+korean
+kpa
+label
+label text
+label widget
+lag
+lambda
+lan (local area network)
+lan / local area network
+landscape
+landscape orientation
+landscape paper
+language
+language pack
+language settings
+language support
+lao
+laptop
+large print
+larger
+largest
+laser
+last
+last modified
+last name
+last session
+last visited
+latex
+lathe object
+latin
+latvian
+laughing (smiley)
+launch
+launch icon
+launcher
+layer
+layout
+layout style
+ldap server
+leap year
+learn
+leave
+leave fullscreen
+leave fullscreen mode
+leaving
+left
+left arrow
+left click
+left join
+left margin
+left mouse button
+left to right
+left-click on
+left-to-right
+legal
+legend
+length
+lens
+letter
+letter-like symbol
+letterhead
+level
+library
+license
+license agreement
+licensed
+light
+light precipitation
+limit
+limited
+limits
+line
+line arguments
+line begin (begin of line)
+line break
+line color
+line joint
+line numbering
+line skew
+line weight
+line wrap
+linear
+linear transfer
+link
+link to external data
+linked
+links
+linux
+lips are sealed (smiley)
+list
+list all
+list box
+list item
+list of available
+list view
+listed
+listen
+listener
+listing
+literal
+lithuanian
+live
+live bookmark
+live mode
+load
+load images
+loaded
+loading
+local
+local address books
+locale
+localization
+locate
+located in
+location
+lock
+lock screen
+lock the screen
+lock to panel
+locked
+locked file
+log
+log file
+log in
+log in / login
+log in anyway
+log off
+log on
+log out
+log out root
+logged
+logged in
+logging
+logging in
+logical
+logical height
+logical number
+logical volume management
+login
+login screen
+login window
+logo
+logout
+long description
+look
+look and feel
+look for
+look in
+look up
+lookup
+loop
+loose
+lost connection
+low
+lower
+lower-case
+lowercase
+lowered position
+lowest
+m.sec. (millisecond)
+m/s
+machine
+machine language
+machine operator
+macro
+macros
+magenta
+magnetic tape
+magnification
+mail
+mail box
+mail client
+mail merge (form letter)
+mail merge wizard
+mail server
+mail to
+mailbox
+mailer
+mailing list
+main
+main board
+main body
+main menu
+main menu button
+main title
+main toolbar
+mainboard
+maintain
+maintainer
+maintenance
+major gridline
+major interval
+major interval mark
+make links
+male
+malformed
+malfunction
+malware
+man pages
+manage
+manage bookmarks
+manage custom sizes
+management
+management information system
+manager
+manager (program)
+mandatory
+manipulate
+manual
+manual break
+manual page
+manually
+manufacturer
+map
+mapped
+mapping
+march
+margin
+marginalia
+margins
+mark
+mark all message as read
+mark as
+marked
+markup
+marquee
+mask
+master
+master document
+master field
+master password
+match
+match case
+matched
+matching
+math
+maximise
+maximize
+maximized
+maximum
+maximum length
+maximum value
+maximum width
+may
+md5
+md5 fingerprint
+mdi
+mean
+meaning
+measure
+measurement
+measurement unit
+mechanism
+media
+media player
+media type
+median
+medium
+meeting
+meeting information
+megabyte
+member
+membership
+memo
+memo list
+memorandum
+memory
+menu
+menu bar
+menu item
+menu layout
+menu panel
+menu title
+menu tree pane
+menubar
+menus & toolbars
+merge
+merge cell
+merge table
+merged
+merging
+message
+message body
+message box
+message contains
+message filters
+message source
+messenger
+meta
+metacity
+metadata
+metafile
+metal
+meter
+method
+metric
+metrics (metric system)
+microphone
+middle
+middle mouse button
+midi
+migrate
+migration
+mile
+milligram
+milligrams
+millimeter
+millisecond
+milliseconds
+mime type
+mini icons
+minimize
+minimum
+minix
+minor
+minor faults
+minor gridline
+minor interval
+minor interval mark
+minus
+minus sign
+minute
+mirror
+miscellaneous
+mismatch
+missing
+misspell
+misspelled
+mist
+mistake
+mix
+mixer
+mixer device
+mmhg
+mobile
+mobile phone
+modal
+modal (value)
+mode
+model
+modem
+moderated
+moderator
+modification
+modified
+modifier
+modify
+module
+moment
+monday
+money-mouth (smiley)
+monitor
+monitor (hardware)
+monitor program
+monitored
+monitoring
+mono
+monochrome
+month
+month view
+more
+more preferences
+morphing
+mosaic
+motion
+mount
+mounted
+mouse
+mouse cursor
+mouse keys
+mouse over
+mouse pointer
+mouse preferences
+move
+move all contact to
+move contact to
+move down
+move folder to...
+move tab to the left
+move tab to the right
+move to folder
+move to new window
+move to trash
+move up
+moved
+movement
+movie
+movie and sound
+moving
+mph
+ms
+msdos
+msn
+mtu
+multi
+multi operation
+multi-select
+multi-touch
+multi-user system
+multimedia
+multimedia system selector
+multimedia systems selector
+multimeter
+multiple
+multiple operations
+multiple recipients
+multiplication sign
+multiply
+multiselection
+multitasking
+munger
+music
+music player
+mute
+mute sounds
+muted
+n/a
+name
+name contains
+named
+names
+namespace
+narrow
+nautilus
+navigate
+navigation
+navigation pane
+navigation toolbar
+navigator
+navigator (program)
+near
+nearest
+negation
+negative
+negative binomial
+neighbor
+nested table
+netiquette
+netmask
+netscape
+netstat
+network
+network administrator
+network connection
+network interface
+network monitor
+network places
+network proxy
+network server
+network servers
+network settings
+network tools
+network topology
+new
+new address book
+new calendar
+new contact
+new contact list
+new folder
+new game
+new instant message
+new meeting
+new memo list
+new message
+new panel
+new profile
+new release
+new tab
+new task list
+new window
+news
+news group
+news server
+news site
+newsfeed
+newsgroup
+newsletter
+next
+next document
+next tab
+nick name
+nickname
+no
+no description
+no effect
+no error
+no error message
+no hint available
+no name
+no results
+no summary
+no-daemon
+node
+noise
+non-breaking hyphen
+non-breaking space
+non-convertible
+non-printing character
+none
+nonprinting characters
+normal
+normal distribution
+normal size
+north
+not
+not a directory
+not a regular file
+not available
+not changed
+not configured
+not connected
+not correct
+not created
+not defined
+not displayed
+not enabled
+not encrypted
+not enough memory
+not enough space
+not found
+not installed
+not loaded
+not logged in
+not ready
+not recognized
+not sent
+not set
+not shown
+not started
+not supported
+not valid
+not visible
+notation
+note
+note indicator
+notebook
+notes page
+notice
+notification
+notification area
+notify
+november
+null
+num lock
+number
+number converter
+number format
+number of
+number of channels
+number of rows
+number pad
+number theory
+numbered
+numbered list
+numbering
+numeral
+numerator
+numeric
+numerical
+object
+object (goal)
+object (subject)
+object (thing)
+object code
+oblique
+obscure
+observations
+obsolete
+occur
+occurence
+occurred
+occurrence
+octal number
+octet
+october
+odd
+odd number
+off
+office
+offline
+offset
+ok
+on
+on screen keyboard
+on this computer
+ongoing
+online
+online help
+online shopping
+opacity
+opaque
+open
+open a file
+open a new window
+open existing presentation
+open file
+open files
+open folder
+open in new window
+open in terminal
+open location
+open parent
+open source
+open tab
+open terminal
+open windows menu
+open with
+opened
+opengl
+opening
+operand
+operate
+operating
+operating system
+operation
+operation (math)
+operation cancelled
+operator
+opposite
+optimal
+optimal wrap
+optimize
+optimized
+option
+optional
+options
+or
+orange
+orca screen reader
+order
+ordinal number
+organization
+organize
+organized
+organizer
+orientation
+origin
+original
+orphan
+orthflow
+out
+out of memory
+out of range
+outbox
+outdated
+outer
+outer join
+outgoing
+outgoing server
+outline
+outline (font effect)
+outline numbering
+output
+outward
+oval
+overflow
+overhang
+overhead sheet
+overlap
+override
+overview
+overwhelming
+overwrite
+owner
+pack
+package
+package manager
+packet
+padding
+page
+page break
+page break preview
+page composer
+page count
+page down
+page info
+page layout
+page number
+page orientation
+page preview
+page setup
+page size
+page source
+page style
+page up
+pager
+pages per sheet
+paginate
+paint
+paint can
+paintbrush
+pair
+palette
+palette entry
+palmos devices
+pane
+panel
+panel menu
+panelize
+paper
+paper size
+paragraph
+paragraph break
+paragraph spacing​
+paragraph style
+parallel
+parameter
+parcel
+parent
+parentheses
+parity
+parse
+parser
+parsing
+partial
+participant
+partition
+pass
+pass count
+passage
+passphrase
+password
+password quality meter
+password required
+paste
+paste special
+paste the clipboard
+patch
+patch (noun)
+patch (verb)
+path
+pathname
+pathnames
+pattern
+pause
+paused
+pdf
+pdf / portable document format
+peak
+peak indicator
+pearson correlation
+peer
+pend
+pending
+pending signals
+people
+per
+percent
+percentage
+perform
+performance
+performed
+performing
+period
+periodic
+peripheral
+perl
+perl script
+permanent
+permanently
+permission
+permissions
+permit
+permitted
+permutation
+personal
+personal address book
+personal file sharing
+personal information
+personal profile
+personal toolbar folder
+personalization
+personalize
+perspective
+phishing
+phone
+phone list
+phonetic
+photo
+photosensitivity
+phrase
+physical
+physical memory
+pick
+pick a color
+picker
+picker button
+picker settings
+picture
+picture box
+pid
+pie
+piece
+pilot device
+ping
+pink
+pipe
+pirate
+pitch
+pix map
+pixbuf
+pixel
+pixels above lines
+pixels below lines
+pixels inside wrap
+pixmap
+place
+placeholder
+placement
+places
+plain
+plain text
+plane
+platform
+play
+play (cd)
+play a sound
+play sound
+playback
+player
+playing
+playlist
+please
+please enter your user name
+please wait
+plot
+plot (verb)
+plotter
+plug and play
+plug in
+plug-in
+plugin
+plus sign
+point
+point to
+pointer
+points
+poisson distribution
+poker
+policy
+polish
+polygon
+polyline
+pool
+pooled variance
+pop art
+pop up
+pop-up
+pop-up menu
+popular
+popup menu
+popup window
+port
+portable
+portal
+portion
+portrait
+portrait orientation
+portrait paper
+position
+position and size
+positioned
+positive
+possible
+post
+post a reply
+post new message to folder
+post office
+post processor
+postal box
+postal code
+poster
+posterize
+posting
+postmaster
+postscript
+posture
+power
+power management
+power manager
+ppp
+preceding
+predefined
+prediction
+prefer
+preference
+preferences
+preferred
+preferred applications
+preferred height
+preferred width
+prefix
+preformat
+preformatted text
+prepare
+prerequisite
+presentation
+presentation wizard
+preset
+presiding
+press
+pressed
+pressed in
+pressure
+prevent
+preview
+previous
+previous document
+previous tab
+price
+primary
+primary colors
+primary key
+principal
+print
+print area
+print document
+print job
+print layout
+print optimized
+print page view
+print preview
+print range
+print ranges
+printable
+printed
+printer
+printer settings
+printer-friendly
+printing
+printout
+priority
+privacy
+private
+private key
+private messages
+priviledge
+privilege
+privileges
+probe
+problem
+procedure
+proceed
+process
+process id
+processing
+processor
+prodigy
+product
+profession
+profile
+profile manager
+profiles
+program
+program manager
+programmer
+programming
+progress
+progress bar
+project
+project management
+projection
+projector
+promote
+prompt
+propagation
+properties
+property
+proportional
+proportional font
+proposal
+proprietary
+protect
+protect cell
+protect document
+protected
+protected workbooks
+protection
+protector
+protocol
+protocol error
+provide
+provider
+provision
+proxy
+proxy configuration
+proxy server
+proxy settings
+public
+public domain software
+public ftp
+public key
+public-key
+publish
+publish calender information
+publisher
+pull
+punctuation
+purchase
+purchasing form
+purge
+purple
+push
+put
+quadratic
+qualified
+quality
+quantity
+quarantine
+quarter
+quartile
+queen
+query
+question
+queue
+queued
+quick
+quick launch bar
+quick launcher
+quick reference
+quit
+quitting
+quota
+quotation
+quotation mark
+quote
+quoted
+quoting
+radar map
+radial
+radio
+radio button
+radix
+raise
+raised position
+random
+range
+rank
+rate
+rating
+ratio
+raw
+raw data
+raw memory
+ray
+reachable
+read
+read mail
+read only
+read-only
+read/write
+readable
+reader
+reading
+readme
+readout
+ready
+ready...
+real
+real memory
+real name
+real path
+real time
+really
+rearrange
+reboot
+recalculate
+recalculate hard
+receipt
+receive
+received
+receiver
+receiving
+recent
+recent documents
+recently
+recently used
+receptivity
+recipient
+recognition
+recognize
+recommend
+recommended
+reconnect
+record
+record (verb)
+recorded
+recorder
+recording
+recover
+recovery
+recreate
+rectangle
+rectangular
+recurrence
+recurring
+recursion
+recursive
+recursive symbolic link
+recycle bin
+red
+redial
+redirect
+redirected
+redirecting
+redisplay
+redo
+reduce
+reduced
+reduction
+redundancy
+redundant
+reestablish
+refer
+reference
+reference point
+referer
+referral
+referred
+referring
+reflexive
+refresh
+refresh range
+refreshed
+refreshing
+refuse
+refused
+refusing
+regenerate
+region
+register
+registered
+registering
+registration
+registry
+regression analysis
+regular
+regular expression
+regulate
+rehearse timing
+rehearse timings
+reinstall
+reject
+rejected
+related
+relation
+relationship
+relative url
+relay
+release
+release note
+release year
+released
+relevant
+relief
+reload
+reloaded
+reloading
+remain
+remaining
+remark
+remember
+remind
+remind me later
+reminder
+remote
+remote access
+remote administration
+remote control
+remote desktop
+remotely
+removable
+removable disk
+removable drives and media
+removable media
+remove
+remove from panel
+removed
+rename
+render
+rendering
+renew
+reopen
+reorder
+reorderable
+repaginate
+repair
+repaired
+repeat
+repeating
+replace
+replace all
+replaced
+replacement
+replacement table
+replicate
+replication
+replies
+reply
+reply to all
+reply to list
+reply to sender
+reply-to
+report
+report broken web site
+reporting
+reports
+reposition
+repository
+request
+requesting
+require
+required
+requirement
+research
+resend
+reserved
+reserved blocks
+reset
+reset and clear
+reset view to defaults
+resident
+resident memory
+residual
+resizable
+resize
+resolution
+resolver
+resource
+resource element
+respond
+responding
+response
+restart
+restart evolution
+restarted
+restarting
+restore
+restore default
+restore icon's original size
+restored
+restrict
+restricted
+restriction
+result
+resultset
+resume
+retain
+retrieve
+retry
+return
+return address
+return key
+return receipt
+returned
+retype
+reuse
+reveal
+reverse
+reverse video
+reversed
+revert
+review
+revision
+revocation
+revoke
+rewind
+rhombus
+rhythmbox music player
+rich text
+rid
+right
+right arrow
+right click
+right join
+right margin
+right mouse button
+right now
+right to left
+right-click on
+right-to-left
+rights
+ring
+ringtone
+rip
+rise
+rise set
+rock
+role
+roll
+roll back
+roll over
+roll up
+rollback
+room list
+root
+root directory
+root menu
+root password
+root window
+rotate
+rotated
+rotating
+rotation angle
+round
+round bracket
+rounded
+rounded polygon
+rounded rectangle
+route
+router
+routine
+routing
+row
+row break
+row header
+row heading
+rpm package
+ruby (phonetic guide)
+rule
+ruler
+run
+run application
+run level
+run-time
+run-time error
+runaway
+running
+runtime
+safe
+safe mode
+safety
+salmon
+salutation
+salvage
+sample
+sampling
+sans
+sans serif
+saturation
+saturday
+save
+save a copy
+save all
+save as
+save file
+save file as
+save frame as
+save image
+save message
+save page as
+save screenshot
+save search
+save the current file
+saved
+saving
+sc/xspread
+scalable
+scalar
+scale
+scaling factor
+scam
+scan
+scanner
+scanner tool
+scanning
+scenario
+scenarios
+scene
+schedule
+schedule manager
+schema
+scheme
+scientific
+scientific notation
+scim input method setup
+scope
+score
+scratch
+screen
+screen resolution
+screen saver
+screen tips
+screensaver
+screenshot
+screenshot.png
+screw
+script
+scroll
+scroll bar
+scroll horizontal
+scroll wheel
+scrollbars
+scsi
+sd/mmc
+search
+search domains
+search engine
+search folders
+search for files
+search for text
+search key
+search results
+search string
+search term
+searchable
+searched
+searches
+searching
+sec. (second)
+second
+secondary
+secondary colors
+secret
+section
+sector
+secure
+secure channel
+secure keyboard
+security
+security level and firewall
+security warning
+seek
+segment
+segmentation
+segmentation fault
+select
+select a disc
+select a file
+select a folder
+select address book
+select all
+select all messages
+select all text
+select an application
+select an image
+select date
+select file
+select folder
+select message thread
+select pattern
+select range
+select sound file
+select text
+select today
+selectable
+selected
+selected text
+selected/unselected
+selecting
+selection
+selection bound
+self-extracting
+selinux context
+selinux troubleshooter
+semantic
+semi
+semibold
+semicircle
+semicolon
+semiexpanded
+semilight
+send
+send an email
+send backward
+send immediately
+send later
+send link
+send message to contact
+send now
+send options
+send to back
+send unsent messages
+send/receive
+sender
+sending
+sending message
+sense
+sensitive
+sensitivity
+sensor
+sent
+sentence
+separate
+separator
+september
+sequence
+sequential
+sequential access
+serial
+serial number
+series
+serif
+serve
+server
+server farm
+server name
+server side
+service
+services
+session
+session management
+sessions
+set
+set as
+set character encoding
+set language
+set title
+set up
+setting
+settings
+setup
+severity
+sha1 fingerprint
+sha256
+shade
+shading
+shadow
+shape
+shaped text
+share
+shared
+shared file
+shared memory
+shareware
+sharing
+sharp
+sharpen
+sharpness
+shear
+sheet
+sheet from file
+shell
+shift
+shift (key)
+shift / shift key
+shift key
+short
+short description
+shortcut
+shortcut command
+shortcut key
+shorter
+show
+show empty groups
+show hidden
+show hidden files
+show hidden messages
+show idle times
+show information
+show menubar
+show offline buddies
+show tabs
+show text
+show toolbar
+show week numbers
+show/hide slide
+shown
+shred
+shrink
+shrink to fit
+shrink to fit page width
+shuffle
+shuffle mode
+shut
+shut down
+shutdown
+shutting
+shutting down
+side bar
+side pane
+sidebar
+sign
+sign in
+sign out
+sign up
+signal
+signature
+signature block
+signed
+signer
+signing
+silence
+similarity search
+simple
+simplified
+simulated
+simulation
+simulator
+simultaneous
+single
+single click
+single quote
+single-sided
+site
+site manager
+size
+size box
+size limit
+sizelimit
+skew
+skewness
+skip
+skip all
+skipped
+skipping
+sky
+skype
+slant
+slash
+slashed cross
+slave
+slave field
+sleep
+sleeping
+slice
+slide
+slide (presentation)
+slide design
+slide layout
+slide pane
+slide show
+slide show settings
+slide sorter
+slide transition
+slider
+slideshow
+slideshow / slide show
+slip
+slogan
+slot
+slovak
+slovenian
+slow
+slow terminals
+slower
+slowest
+small capitals
+smart
+smart card manager
+smart terminal
+smile (smiley)
+smiley
+smooth
+smooth end
+smooth scroll
+smooth start
+smoothing
+sms
+sms (short message)
+smtp
+snap
+snapshot
+snooze
+socket
+socket number
+socks server
+soft
+soft keys
+soften
+software
+software bug
+software foundation
+software update
+software updater
+solarization
+solid
+solid color
+solid lines
+solid model
+solution
+solve
+solving
+song
+sort
+sort buddies
+sort by
+sort criteria
+sort order
+sorted
+sorting
+sound
+sound & video
+sound card
+sound juicer cd extractor
+sound preferences
+sound theme
+soundcard detection
+source
+source code
+south
+space
+space (disk)
+space .
+space bar
+space character
+spacing
+spam
+span
+spanish
+spawn
+speaker
+special
+special character
+specific
+specification
+specified
+specify
+spectral
+spectrum
+specular
+speech
+speed
+speed unit
+spell
+spell checker
+spell checking
+spell-checker
+spell-checking
+spellcheck
+spelling
+spelling and grammar
+sphere
+spin
+spin box
+spin button
+spiral
+splash
+splash page / splash screen
+split
+split cell
+split table
+splitting
+sponsor
+spool
+spool file
+spot
+spouse
+spread
+spread sheet
+spreadsheet
+square
+square bracket
+square root
+ssh
+ssl client certificate
+ssl server certificate
+stability
+stabilize
+stable
+stack
+stage
+stagger even
+stagger odd
+stalk
+stamp
+stand
+stand alone
+stand-alone
+standalone
+standard
+standard deviation
+standby
+star
+start
+start angle
+start date
+start menu
+start time
+start with
+started
+starting page
+startup
+startup files
+startup program
+startup time
+state
+statement
+static
+stationery
+statistic
+statistics
+status
+status bar
+status dock
+status docklet
+statusbar
+step
+step increment
+stereo
+stereotype
+stick
+sticky
+sticky notes
+stock chart
+stock icon
+stock ticker
+stop
+stopped
+stopping
+storage
+storage device
+storage type
+store
+stored
+straight
+strategies
+strategy
+strategy to use
+stream
+streaming
+street
+strength
+stretch
+stretch (wallpaper)
+stretch icon
+strict
+strike
+strikethrough
+strikethrough set
+string
+strip
+stripchart program
+stroke
+strong
+structure
+structure diagram
+stub
+style
+style and formatting
+style scheme
+styles and formatting
+stylesheet
+sub directory
+sub folder
+sub menu
+subdirectory
+subdivision
+subfolder
+subject
+subject line
+sublevel
+submenu
+submenu item
+submission
+submit
+submit bug report
+submitted
+submitting
+subnet
+subpoint
+subroutine
+subscribe
+subscribe to other user's folder
+subscribed
+subscript
+subscription
+subscriptions
+subshell support
+substitute
+substring
+subtitle
+subtotal
+subtotals
+subtract
+subtraction
+subtree
+succeed
+success
+successful
+successfully
+suffix
+suggest
+suggestion
+suite
+sum
+sum (noun)
+sum (verb)
+summarize
+summary
+summary slide
+sunday
+super
+super user
+superordinate
+superscript
+supply
+support
+supported
+suppress
+surface
+surprise (smiley)
+surrounding
+suspend
+suspicious
+swallowed application
+swap
+swap memory
+swap space
+swedish
+switch
+switch level
+switch off
+switch on
+switch user
+switcher
+switcher appearance
+sylk file
+symbol
+symbolic link
+symmetric
+symmetric control
+symmetry
+sync / synchronize
+synchronization
+synchronization options
+synchronize
+synchronized
+synonym
+syntax
+syntax error
+syntax highlighting
+system
+system administrator
+system configuration
+system log
+system monitor
+system requirement
+system settings
+system tools
+system unit
+tab
+tab (key)
+tab / tab key
+tabbed section
+table
+table boundaries
+table cell
+table of contents
+table properties
+tablet
+tag
+tagged
+take screenshot
+talk
+tall
+tamil
+tan
+tar archive
+target
+target file
+target file exists
+task
+task group menu
+task information
+task list
+task menu
+task pane
+taskbar
+tasklist
+tasklist button
+tasks
+tclass
+tcp/ip
+technology
+telecommunication
+telephone
+telephone number
+teletype
+telnet
+temp file
+temperature unit
+template
+templates
+tempo
+temporarily
+temporary
+temporary buffer
+temporary files
+ten
+term
+term variable
+terminal
+terminal server client
+terminate
+terminated
+terminology
+terms of agreement
+test
+test module
+testing
+text
+text area
+text box
+text color
+text column
+text editor
+text file
+text flow
+text limit
+text only
+text size
+textual name
+texture
+the gimp
+theme
+themes
+thesaurus
+thesis
+thick
+thickness
+thin
+thousand
+thousands separator
+thread
+threshold
+thumb nails
+thumbnail
+thumbprint
+thunderbird email
+thursday
+tick
+ticker properties
+tiff
+tight
+tilde
+tile
+tilt
+time
+time and date
+time format
+time limit
+time out
+time remaining
+time servers
+time setting
+time stamp
+time zone
+timed out
+timeout
+timeout / time out
+timer
+timestamp
+timezone
+timing
+tint
+tiny
+tip
+tips
+tips and tricks
+title
+title bar
+title case
+to do
+today
+todo list
+toggle
+toggle button
+token
+tolerance
+tomboy notes
+tomorrow
+tone
+tongue-out
+tool
+tool bar
+tool box
+tool menu
+toolbar
+toolbar button
+toolbar editor
+toolbar style
+toolbars
+toolbox
+toolkit
+tools
+tooltip
+top
+top secret
+top to bottom
+top-level
+topic
+topology
+torus
+total
+totem movie player
+touchpad
+touchscreen
+trace
+track
+trackball
+trademark
+traditional
+traffic
+transaction
+transfer
+transfer statement
+transferable
+transferred
+transferring
+transform
+transformation
+transition
+transitive
+translate
+translated
+translation
+translator
+transmission
+transmission channel
+transmit
+transparency
+transparent
+transpose
+trap
+trash
+trash can
+tree
+treeview
+trial
+trial period
+triangle
+trigger
+trim
+tristate
+trouble shoot
+troubleshoot
+troubleshooter
+troubleshooting
+true
+true color
+truncate
+truncated
+trust
+trusted
+try
+try again
+tty
+tuesday
+tune
+tuner
+turing machine
+turquoise
+tweak
+twip
+type
+type (noun)
+type (verb)
+type bindings
+type face
+type mismatch
+typeface
+typing
+typography
+ultrabold
+ultracondensed
+ultraexpanded
+ultralight
+unable
+unacceptable
+unauthorized
+unavailable
+uncheck
+uncompressed
+undecided (smiley)
+undefined
+undelete
+undelete message
+under line
+underline
+underline set
+underlined
+undo
+undock
+unencrypted
+unexpected
+unexpected end
+unexpected error
+unexpectedly
+unfilled
+unformatted
+ungroup
+unicode
+uniform resource identifier
+uniform resource locator
+uninstall
+uninstall (program)
+uninstalling
+union
+unique
+unit
+unitary
+universal
+universal access
+unix
+unknown
+unknown command
+unknown error
+unknown host
+unknown value
+unknown volume
+unlimited
+unlink
+unload
+unlock
+unlocked
+unmark
+unmatched
+unmount
+unnamed
+unpack
+unprotect
+unreachable
+unread
+unreadable
+unready
+unrecognized
+unsafe
+unsaved
+unsaved document
+unselect
+unsent
+unshade
+unsigned
+unsorted
+unspecified
+unsubscribe
+unsuccessful
+unsupported
+untitled
+untitled document
+untrusted
+unused
+unvisited
+unzip
+up
+up arrow
+up-to-date
+update
+updated
+updating
+upgrade
+upgrading
+upload
+uploaded
+uploading
+upper
+upper case
+uppercase
+upright
+ups
+uptime
+upward
+urgent
+urgent condition
+uri
+url
+usable
+usage
+usb
+usb stick, memory stick
+use
+use markup
+used
+user
+user account
+user defined
+user directory
+user id
+user id / userid
+user interface
+user name
+user profile
+user-friendly
+username
+users and groups
+using
+utilities
+utility
+valid
+valid chars
+valid until
+validate
+validation
+validity
+value
+value highlighting
+values
+variable
+variance
+variation
+vector
+vector graphics
+vectorized image
+vendor
+verbose
+verification
+verified
+verify
+verifying
+version
+versions
+vertical
+vertical adjustment
+vertical alignment
+vertically
+vfs
+vi improved
+video
+video clip
+video conference
+vietnamese
+view
+view as icons
+view as list
+view user log
+viewed
+viewer
+viewing
+viewport
+violate
+violation
+virtual
+virtual desktop
+virtual folder
+virus
+virus definition
+visibility
+visible
+visit
+visited
+visual
+visual aids
+visualization
+visualizer
+voice
+voice chat
+voip
+volatile button
+volume
+volume control
+volume down
+volume up
+wait
+waiting
+wallpaper
+wan (wide area network)
+want
+warn
+warning
+warranty
+watch
+watch file
+watched
+watching
+watermark
+way
+weather
+web
+web blog
+web browser
+web cam
+web layout
+web master
+web page
+web portal
+web search
+web site
+webcam
+webcast
+webcasting
+weblog
+webmail
+webmaster
+website
+webtop
+wednesday
+week
+week view
+weekday
+weight
+welcome
+west
+western
+what's this
+when
+whenever
+where
+white
+whitespace
+whois
+whole
+wi fi
+widget
+widow
+width
+width of the window
+wiki
+wild card
+wildcard
+wildcard character
+window
+window frame
+window frame button
+window group
+window list
+window manager
+window position
+window title
+window type
+windows network
+wink (smiley)
+wipe
+wireless
+with
+with due date
+with status
+within
+without
+wizard
+wizards
+wood
+word
+word art
+word count
+word processing program
+word processor
+work
+work around
+work group
+work offline
+work station
+work week
+work week view
+workbook
+workday
+workgroup
+working directory
+workplace
+worksheet
+workspace
+workspace names
+workspace switcher
+workspaces
+workstation
+world wide web (www)
+worm
+wrap
+wrap mode
+wrap through
+writable
+write
+write protected
+write to disc
+writer
+writing
+writing aids
+wrong
+wvlan
+www / world wide web
+x align
+x server
+xdmcp socket
+xml
+xml filter settings
+xrandr
+yell (smiley)
+yellow
+yellow pages
+yes
+yesterday
+zero
+zigzag
+zigzagline
+zip
+zip disk
+zip drive
+zone
+zoom
+zoom in
+zoom level
+zoom out
+zoom outabort
+zoomed
+zooming
