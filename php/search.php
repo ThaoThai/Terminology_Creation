@@ -57,6 +57,7 @@ foreach($lang[$search_string] as $chr) {
     $temp = $temp.", ".$chr;
 }
 $query="SELECT $temp from translation";
+// $query="SELECT $temp from terminology2";
 
     $result = $test_db->query($query);
     echo "

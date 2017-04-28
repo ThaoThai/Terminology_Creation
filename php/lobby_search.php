@@ -59,20 +59,21 @@ $temp = 'en';
 foreach ($lang[$data_lan] as $chr) {
 $temp=$temp.",".$chr;
 }
-$query="SELECT $temp from translation";
+$query="SELECT $temp from translation WHERE approved=1";
 
     $result = $test_db->query($query);
-    echo "
-    <table id ='userTable'>
+    echo "<div id='status'></div>";
+    echo "<table id ='userTable'>
     <colgroup>
-    <col span='2' style='background-color:lightblue'>
+    <col span='2' style='background-color:yellow'>
   </colgroup>
     <thead>
     <tr>
     <th>English</th>";
 
 foreach($lang[$data_lan] as $chr) {
-    echo "<th>{$code[$chr]}</th>";
+    $head= "<th>{$code[$chr]}</th>";
+    echo $head;
 }
 
     echo "</tr>";
@@ -83,10 +84,16 @@ foreach($lang[$data_lan] as $chr) {
            echo "<tr>";
            echo "<td>" . $results['en'] . "</td>";
               foreach($lang[$data_lan] as $chr) {
-                echo "<td>" . $results[$chr] . "</td>";}
-    }
+
+                  //  echo "<td>" . $results[$chr] . "</td>";
+                  echo "<td id=".$chr.":".$results['en']." contenteditable='true'>".$results[$chr]."</td>";
+              }
+                }
+
             echo "</tr>";
             echo "</tbody>";
             echo "</table>";
+
+
 
 ?>
