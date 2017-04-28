@@ -40,6 +40,14 @@ CREATE TABLE IF NOT EXISTS translation(
    PRIMARY KEY (`sid`)
    )ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+   CREATE TABLE IF NOT EXISTS admin(
+    `id` INT NOT NULL AUTO_INCREMENT,
+    `username` varchar(40) NOT NULL ,
+    `pwd` varchar(255) NOT NULL,
+    PRIMARY KEY (`id`)
+  )ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
 
   load data infile 'translations.txt' into table translation
   fields terminated by ';';
