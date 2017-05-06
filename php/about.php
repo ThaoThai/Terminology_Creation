@@ -11,8 +11,8 @@
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900|Quicksand:400,700|Questrial" rel="stylesheet" />
-<link href="default.css" rel="stylesheet" type="text/css" media="all" />
-<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../html/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../html/fonts.css" rel="stylesheet" type="text/css" media="all" />
 <script>$(document).ready(function(e) {
   $('.selectpicker').selectpicker();
     });</script>
@@ -22,14 +22,16 @@
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1><a href="../index.php">Terminology <span class="logo_colour"> Creation</span></a></h1>
-      <h4><a href="../php/register.php"><span class="logo_colour"> Register</span></a></h4>
-      <h4><a href="../php/login.php"><span class="logo_colour"> Login</span></a></h4>
+			<h1><a href="about.php">Terminology <span class="logo_colour"> Creation</span></a></h1>
+      <!-- <h4><a href="../php/register.php"><span class="logo_colour"> Register</span></a></h4> -->
+      <!-- <h4><a href="../php/login.php"><span class="logo_colour"> Login</span></a></h4> -->
+      <h4><a href="../index.php"> <?php include('logout_button.php');?></a></h4>
+
 		</div>
 		<div id="menu">
 			<ul>
-				<li><a href="../index.php" accesskey="3" title="">Homepage</a></li>
-				<li><a href="../php/account.php" accesskey="2" title="">My account</a></li>
+				<li><a href="lobby.php" accesskey="3" title="">Homepage</a></li>
+				<li><a href="account.php" accesskey="2" title="">My account</a></li>
 				<li class="active"><a href="about.html" accesskey="1" title="">About Us</a></li>
                 <!-- <li><a href="feedback.html" accesskey="3" title="">Feedback</a></li> -->
                 <!-- <li><a href="../php/lobby.php" accesskey="4" title="Lobby"> My Lobby </a></li> -->

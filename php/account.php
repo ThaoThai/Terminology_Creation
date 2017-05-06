@@ -112,8 +112,8 @@ if (!$errors) {
      <ul>
        <li><a href="lobby.php" accesskey="1" title="">Homepage</a></li>
        <li class="active"><a href="account.php" accesskey="1" title="">My account</a></li>
-       <li><a href="../html/about.html" accesskey="3" title="">About Us</a></li>
-        <li><a href="../html/feedback.html" accesskey="3" title="">Feedback</a></li>
+       <li><a href="about.php" accesskey="3" title="">About Us</a></li>
+        <!-- <li><a href="../html/feedback.html" accesskey="3" title="">Feedback</a></li> -->
         <!-- <li><a href="lobby.php" accesskey="2" title="">My Lobby</a></li> -->
      </ul>
    </div>

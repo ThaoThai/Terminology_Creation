@@ -21,7 +21,7 @@
 <script>
 $(function(){
 	//acknowledgement message
-    var message_status = $("#database_user");
+    var message_status = $("#status");
     $("td[contenteditable=true]").blur(function(){
         var field_userid = $(this).attr("id") ;
         var value = $(this).text() ;
@@ -37,8 +37,10 @@ $(function(){
     });
   });
   </script>
+  
   <style>
   #status { padding:10px; background:#88C4FF; color:#000; font-weight:bold; font-size:12px; margin-bottom:10px; display:none; width:90%; }
+
 </style>
 
 </head>
@@ -124,13 +126,14 @@ $(function(){
 
       $query='SELECT * from translation WHERE approved=0';
       $result = $test_db->query($query);
-      echo "<div id ='database_user'></div>";
+      echo "<div id ='status'></div>";
       echo "<table id ='termTable'>
       <tr>";
       foreach($code as $chrs=>$val) {
       echo "<th>".$val."</th>";
       }
       echo "</tr>";
+      echo "<tbody>";
 
       while($results = $result->fetch_array()) {
       $result_array[] = $results;
@@ -143,6 +146,7 @@ $(function(){
                     }
 
               echo "</tr>";
+              echo "</tbody>";
               echo "</table>";
 
 
