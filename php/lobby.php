@@ -69,8 +69,8 @@ require_once ("authenticate.php");
 			<ul>
 				<li class="active"><a href="lobby.php" accesskey="1" title="">Homepage</a></li>
 				<li><a href="account.php" accesskey="2" title="">My account</a></li>
-				<li><a href="../html/about.html" accesskey="3" title="">About Us</a></li>
-        <li><a href="../html/feedback.html" accesskey="4" title="">Feedback</a></li>
+				<li><a href="about.php" accesskey="3" title="">About Us</a></li>
+        <!-- <li><a href="../html/feedback.html" accesskey="4" title="">Feedback</a></li> -->
 			</ul>
 		</div>
 	</div>
@@ -106,7 +106,7 @@ $data_lan= $results['language'];
 
 $lang=array("English" => array("en"),
       "Azərbaycan dili"=>array('az','tk','tr','tt','uz'),
-      "Català"=>  array('ca','gl','pt','fr','wa','vec','it','ga'),
+      "Català"=>  array('gl','pt','fr','wa','vec','it','ga'),
       "Español"=> array('gl','pt','ca','fr','wa','vec','it','ga'),
       "vakaViti"=> array('fj','haw','sm','id','ms','su'),
       "Français"=> array('fr','wa','vec','ca','gl','pt','it','ga'),
@@ -150,6 +150,13 @@ $code = array (
     "vec"=>"Vèneto",
     "wa"=>"Walon"
 );
+$x='';
+
+foreach ($code as $key => $value) {
+  if($value==$data_lan){
+    $x= $key;
+  }
+}
 
 $temp = 'en';
 foreach ($lang[$data_lan] as $chr) {
@@ -172,6 +179,7 @@ foreach($lang[$data_lan] as $chr) {
     echo $head;
 }
 
+
     echo "</tr>";
     echo "</thead>";
     echo "<tbody>";
@@ -179,11 +187,14 @@ foreach($lang[$data_lan] as $chr) {
 		$result_array[] = $results;
            echo "<tr>";
            echo "<td>" . $results['en'] . "</td>";
+           echo "<td id=".$chr.":".$results['en']." contenteditable='true'>" .$results[$x]. "</td>";
+
           //  echo "<td>".$lang[$data_lan]."</td>";
-              foreach($lang[$data_lan] as $chr) {
+              // foreach($lang[$data_lan] as $chr) {
+              foreach(array_slice($lang[$data_lan],1) as $chr){
 
                   //  echo "<td>" . $results[$chr] . "</td>";
-                  echo "<td id=".$chr.":".$results['en']." contenteditable='true'>".$results[$chr]."</td>";
+                  echo "<td>".$results[$chr]."</td>";
               }
                 }
 

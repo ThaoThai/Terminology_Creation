@@ -205,7 +205,7 @@ if (isset($_POST['register'])) {
        <li class="active"><a href="../index.php" accesskey="1" title="">Homepage</a></li>
        <li><a href="lobby.php" accesskey="2" title="">My account</a></li>
        <li><a href="../html/about.html" accesskey="3" title="">About Us</a></li>
-        <li><a href="../html/feedback.html" accesskey="3" title="">Feedback</a></li>
+        <!-- <li><a href="../html/feedback.html" accesskey="3" title="">Feedback</a></li> -->
         <!-- <li><a href="lobby.php" accesskey="4" title="Lobby"> My Lobby </a></li> -->
 
      </ul>
@@ -299,29 +299,108 @@ if (isset($_POST['register'])) {
         <label for="language">Fluent Language:</label>
         <!-- <input type="text" name="language" id="language"> -->
         <select name="language" id="language" >
-           <option> Your Language  </option>
-           <option> Azərbaycan dili</option>
-           <option> Català</option>
-           <!-- <option> Español</option> -->
-           <option> vakaViti </option>
-           <option>Français</option>
-           <option>Gaeilge</option>
-           <option>Galego</option>
-           <option>ʻŌlelo Hawaiʻi</option>
-           <option>Bahasa Indonesia</option>
-           <option>Italiano</option>
-           <option>Bahasa Melayu</option>
-           <option>Português</option>
-           <option>Gagana Sāmoa</option>
-           <option>Basa Sunda</option>
-           <option>Türkmençe</option>
-           <option >Türkçe</option>
-           <option>Татарча</option>
-           <option>Ўзбек</option>
-           <option>Vèneto</option>
-           <option>Walon</option>
-
-           </select>
+          <option value ="ach">Acholi</option>
+          <option value ="af">Afrikaans</option>
+          <option value ="ak">Akan</option>
+          <option value ="am">አማርኛ</option>
+          <option value ="an">aragonés</option>
+          <option value ="ar">العربية</option>
+          <option value ="as">অসমীয়া</option>
+          <option value ="az">Azərbaycan dili</option>
+          <option value ="bg">Български</option>
+          <option value ="bm">Bamanankan</option>
+          <option value ="bn">বাংলা</option>
+          <option value ="br">brezhoneg</option>
+          <option value ="bs">Bosanski</option>
+          <option value ="ca">Català</option>
+          <option value ="cy">Cymraeg</option>
+          <option value ="da">Dansk</option>
+          <option value ="de">Deutsch</option>
+          <option value ="dsb">Dolnoserbski</option>
+          <option value ="es">Español</option>
+          <option value ="eu">Euskara</option>
+          <option value ="fa">فارسی</option>
+          <option value ="ff">Pulaar</option>
+          <option value ="fj">vakaViti</option>
+          <option value ="fo">føroyskt</option>
+          <option value ="fr">Français</option>
+          <option value ="ga">Gaeilge</option>
+          <option value ="gl">Galego</option>
+          <option value ="gnBO">Chawuncu</option>
+          <option value ="gnPY">Avañe'ẽ</option>
+          <option value ="gu">ગુજરાતી</option>
+          <option value ="ha">Hausa</option>
+          <option value ="haw">'Ōlelo Hawaiʻi</option>
+          <option value ="he">עברית</option>
+          <option value ="hi">हिंदी</option>
+          <option value ="hr">Hrvatski</option>
+          <option value ="hsb">Hornjoserbsce</option>
+          <option value ="ht">Kreyòl Ayisyen</option>
+          <option value ="hu">Magyar</option>
+          <option value ="hy">Հայերեն</option>
+          <option value ="id">Bahasa Indonesia</option>
+          <option value ="is">Íslenska</option>
+          <option value ="it">Italiano</option>
+          <option value ="kk">қазақ тілі</option>
+          <option value ="km">ខ្មែរ</option>
+          <option value ="kn">ಕನ್ನಡ</option>
+          <option value ="ko">한국어</option>
+          <option value ="ks">कश्मीरी, كشميري‎</option>
+          <option value ="ku">Kurdî</option>
+          <option value ="lg">Oluganda</option>
+          <option value ="ln">Lingála</option>
+          <option value ="lt">Lietuvių</option>
+          <option value ="lv">Latviešu</option>
+          <option value ="mg">Malagasy</option>
+          <option value ="mk">Македонски</option>
+          <option value ="ml">മലയാളം</option>
+          <option value ="mr">मराठी</option>
+          <option value ="ms">Bahasa Melayu</option>
+          <option value ="my">မြန်မာဘာသာ</option>
+          <option value ="nb">Norsk bokmål</option>
+          <option value ="nd">isiNdebele</option>
+          <option value ="np">नेपाली</option>
+          <option value ="nl">Nederlands</option>
+          <option value ="ny">Chicheŵa</option>
+          <option value ="or">ଓଡ଼ିଆ</option>
+          <option value ="pa">ਪੰਜਾਬੀ</option>
+          <option value ="pl">Polski</option>
+          <option value ="ps">پښﺕﻭ</option>
+          <option value ="pt">Português</option>
+          <option value ="rn">Kirundi</option>
+          <option value ="ro">Română</option>
+          <option value ="rw">Ikinyarwanda</option>
+          <option value ="sd">सिन्धी, سنڌي،</option>
+          <option value ="si">සිංහල</option>
+          <option value ="sk">Slovenčina</option>
+          <option value ="sl">Slovenščina</option>
+          <option value ="sm">Gagana Sāmoa</option>
+          <option value ="sq">Shqip</option>
+          <option value ="sr">Српски (ћирилица)</option>
+          <option value ="ss">siSwati</option>
+          <option value ="su">Basa Sunda</option>
+          <option value ="sv">Svenska</option>
+          <option value ="sw">Kiswahili</option>
+          <option value ="ta">தமிழ்</option>
+          <option value ="te">తెలుగు</option>
+          <option value ="tk">Türkmençe</option>
+          <option value ="tl">Tagalog</option>
+          <option value ="tn">Setswana</option>
+          <option value ="tr">Türkçe</option>
+          <option value ="ts">Xitsonga</option>
+          <option value ="tt">Татарча</option>
+          <option value ="ug">ئۇيغۇرچە</option>
+          <option value ="uk">Українська</option>
+          <option value ="ur">ﺍﺭﺩﻭ</option>
+          <option value ="uz">Ўзбек</option>
+          <option value ="vec">Vèneto</option>
+          <option value ="vi">Tiếng Việt</option>
+          <option value ="wa">Walon</option>
+          <option value ="wo">Wolof</option>
+          <option value ="xh">isiXhosa</option>
+          <option value ="yo">Yorùbá</option>
+          <option value ="zu">isiZul</option>
+                   </select>
 
         <?php
         if (isset($errors['language'])) {

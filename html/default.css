@@ -406,9 +406,15 @@ input[type=translate] {
 }
 
 #database_user {
-    overflow-y: scroll;
+    overflow-x: scroll;
     height: 900px;
     position: relative;
+}
+
+tbody{
+	overflow-y: scroll;
+    overflow-x: hidden;
+    height: 140px;
 }
 
 
