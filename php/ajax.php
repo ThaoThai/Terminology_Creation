@@ -17,7 +17,7 @@ if(!empty($_POST))
 		if(!empty($user_id) && !empty($field_name) && !empty($val))
 		{
 			//update the values
-			$affected_rows=$db->exec("UPDATE translation SET $field_name = '$val',approved=0 WHERE en = '".$user_id."'");
+			$affected_rows=$db->exec("UPDATE translation SET $field_name = 'pending:".$val."'".",approved=0 WHERE en = '".$user_id."'");
 
 			echo "Updated";
 		} else {
