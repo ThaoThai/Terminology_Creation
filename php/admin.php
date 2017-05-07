@@ -2,6 +2,7 @@
 require_once ("init.php");
 
 require_once("AutoLogin.php");
+
 if (isset($_POST['cancel'])){
   header('Location: ../index.php');
      exit;}

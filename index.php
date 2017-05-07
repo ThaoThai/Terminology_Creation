@@ -76,7 +76,7 @@ function showUser(str) {
                 Select:
              <select name="users" id="users" onchange="showBox();showUser(this.value)">
                 <option value =""> Your Language  </option>
-                <option value ="en"> Your Language  </option>
+                <!-- <option value ="en"> Your Language  </option>
                <option value ="az"> Azərbaycan dili</option>
                <option value="ca"> Català</option>
                <option value ="es"> Español</option>
@@ -96,10 +96,10 @@ function showUser(str) {
                <option value="tt">Татарча</option>
                <option value="uz">Ўзбек</option>
                <option value="vec">Vèneto</option>
-               <option value="wa">Walon</option>
+               <option value="wa">Walon</option> -->
 
                 <!-- <option value ="en">English</option> -->
-                <!-- <option value ="ach">Acholi</option>
+                <option value ="ach">Acholi</option>
                 <option value ="af">Afrikaans</option>
                 <option value ="ak">Akan</option>
                 <option value ="am">አማርኛ</option>
@@ -199,7 +199,7 @@ function showUser(str) {
                 <option value ="wo">Wolof</option>
                 <option value ="xh">isiXhosa</option>
                 <option value ="yo">Yorùbá</option>
-                <option value ="zu">isiZul</option> -->
+                <option value ="zu">isiZul</option>
                 </select>
                 <input type="text" id="search" style="display:none" placeholder="Type your word here" onkeyup="filter_table()"> <br><br>
                 <div id='txtHint'> </div>

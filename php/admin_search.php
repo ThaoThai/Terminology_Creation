@@ -1,3 +1,5 @@
+<?php require_once ("authenticate.php");
+?>
  <!DOCTYPE html>
  <html lang="en">
  <head>
@@ -37,7 +39,7 @@ $(function(){
     });
   });
   </script>
-  
+
   <style>
   #status { padding:10px; background:#88C4FF; color:#000; font-weight:bold; font-size:12px; margin-bottom:10px; display:none; width:90%; }
 
@@ -67,15 +69,14 @@ $(function(){
 </div><br>
 <center><h2>Admin</h3></center><br>
 <!-- <div class="wrapper"> -->
-
-
   <div id ="wrapper">
     <div id="setting">
   </div>
     <div id="container"  >
       <?php
       require_once 'db.php';
-
+      // $var_value = $_SESSION['varname'];
+      // echo $var_value;
       $lang= array(
           "az" => array('az','tk','tr','tt','uz'),
           "en" => array('en'),
@@ -124,25 +125,39 @@ $(function(){
           "wa"=>"Walon"
       );
 
+      $x='';
+
       $query='SELECT * from translation WHERE approved=0';
       $result = $test_db->query($query);
-      echo "<div id ='status'></div>";
-      echo "<table id ='termTable'>
-      <tr>";
-      foreach($code as $chrs=>$val) {
-      echo "<th>".$val."</th>";
+      while($results = $result->fetch_array()) {
+      $result_array[] = $results;
+      foreach($results as $ch=>$value){
+        if(substr($value, 0,7)=='pending'){
+          $results1=explode(':', $value);
+          $x= $ch;
+        }
       }
+
+      $pending=$results1[0];
+      $edited=$results1[1];
+
+      echo "<div id ='status'></div>";
+      echo "<table id ='termTable'>";
+      echo "<tr>";
+      // foreach($code as $chr) {
+      echo "<th>".$code['en']."</th>";
+      echo "<th>".$code[$x]."</th>";
+      // }
       echo "</tr>";
       echo "<tbody>";
 
-      while($results = $result->fetch_array()) {
-      $result_array[] = $results;
              echo "<tr>";
-            //  echo "<td>" . $results['en'] . "</td>";
+             echo "<td>" . $results['en'] . "</td>";
+             echo "<td id=".$x.":".$results['en']." contenteditable='true'>" . $edited . "</td>";
           // foreach($results as $chr) {
-          foreach ($code as $chr => $value) {
-              echo "<td id=".$chrs.":".$results['en']." contenteditable='true'>" .$results[$chr] . "</td>";
-                      }
+          // foreach ($code as $chr => $value) {
+              // echo "<td id=".$chrs.":".$results['en']." contenteditable='true'>" .$edited . "</td>";
+                      // }
                     }
 
               echo "</tr>";
