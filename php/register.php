@@ -299,107 +299,107 @@ if (isset($_POST['register'])) {
         <label for="language">Fluent Language:</label>
         <!-- <input type="text" name="language" id="language"> -->
         <select name="language" id="language" >
-          <option value ="ach">Acholi</option>
-          <option value ="af">Afrikaans</option>
-          <option value ="ak">Akan</option>
-          <option value ="am">አማርኛ</option>
-          <option value ="an">aragonés</option>
-          <option value ="ar">العربية</option>
-          <option value ="as">অসমীয়া</option>
-          <option value ="az">Azərbaycan dili</option>
-          <option value ="bg">Български</option>
-          <option value ="bm">Bamanankan</option>
-          <option value ="bn">বাংলা</option>
-          <option value ="br">brezhoneg</option>
-          <option value ="bs">Bosanski</option>
-          <option value ="ca">Català</option>
-          <option value ="cy">Cymraeg</option>
-          <option value ="da">Dansk</option>
-          <option value ="de">Deutsch</option>
-          <option value ="dsb">Dolnoserbski</option>
-          <option value ="es">Español</option>
-          <option value ="eu">Euskara</option>
-          <option value ="fa">فارسی</option>
-          <option value ="ff">Pulaar</option>
-          <option value ="fj">vakaViti</option>
-          <option value ="fo">føroyskt</option>
-          <option value ="fr">Français</option>
-          <option value ="ga">Gaeilge</option>
-          <option value ="gl">Galego</option>
-          <option value ="gnBO">Chawuncu</option>
-          <option value ="gnPY">Avañe'ẽ</option>
-          <option value ="gu">ગુજરાતી</option>
-          <option value ="ha">Hausa</option>
-          <option value ="haw">'Ōlelo Hawaiʻi</option>
-          <option value ="he">עברית</option>
-          <option value ="hi">हिंदी</option>
-          <option value ="hr">Hrvatski</option>
-          <option value ="hsb">Hornjoserbsce</option>
-          <option value ="ht">Kreyòl Ayisyen</option>
-          <option value ="hu">Magyar</option>
-          <option value ="hy">Հայերեն</option>
-          <option value ="id">Bahasa Indonesia</option>
-          <option value ="is">Íslenska</option>
-          <option value ="it">Italiano</option>
-          <option value ="kk">қазақ тілі</option>
-          <option value ="km">ខ្មែរ</option>
-          <option value ="kn">ಕನ್ನಡ</option>
-          <option value ="ko">한국어</option>
-          <option value ="ks">कश्मीरी, كشميري‎</option>
-          <option value ="ku">Kurdî</option>
-          <option value ="lg">Oluganda</option>
-          <option value ="ln">Lingála</option>
-          <option value ="lt">Lietuvių</option>
-          <option value ="lv">Latviešu</option>
-          <option value ="mg">Malagasy</option>
-          <option value ="mk">Македонски</option>
-          <option value ="ml">മലയാളം</option>
-          <option value ="mr">मराठी</option>
-          <option value ="ms">Bahasa Melayu</option>
-          <option value ="my">မြန်မာဘာသာ</option>
-          <option value ="nb">Norsk bokmål</option>
-          <option value ="nd">isiNdebele</option>
-          <option value ="np">नेपाली</option>
-          <option value ="nl">Nederlands</option>
-          <option value ="ny">Chicheŵa</option>
-          <option value ="or">ଓଡ଼ିଆ</option>
-          <option value ="pa">ਪੰਜਾਬੀ</option>
-          <option value ="pl">Polski</option>
-          <option value ="ps">پښﺕﻭ</option>
-          <option value ="pt">Português</option>
-          <option value ="rn">Kirundi</option>
-          <option value ="ro">Română</option>
-          <option value ="rw">Ikinyarwanda</option>
-          <option value ="sd">सिन्धी, سنڌي،</option>
-          <option value ="si">සිංහල</option>
-          <option value ="sk">Slovenčina</option>
-          <option value ="sl">Slovenščina</option>
-          <option value ="sm">Gagana Sāmoa</option>
-          <option value ="sq">Shqip</option>
-          <option value ="sr">Српски (ћирилица)</option>
-          <option value ="ss">siSwati</option>
-          <option value ="su">Basa Sunda</option>
-          <option value ="sv">Svenska</option>
-          <option value ="sw">Kiswahili</option>
-          <option value ="ta">தமிழ்</option>
-          <option value ="te">తెలుగు</option>
-          <option value ="tk">Türkmençe</option>
-          <option value ="tl">Tagalog</option>
-          <option value ="tn">Setswana</option>
-          <option value ="tr">Türkçe</option>
-          <option value ="ts">Xitsonga</option>
-          <option value ="tt">Татарча</option>
-          <option value ="ug">ئۇيغۇرچە</option>
-          <option value ="uk">Українська</option>
-          <option value ="ur">ﺍﺭﺩﻭ</option>
-          <option value ="uz">Ўзбек</option>
-          <option value ="vec">Vèneto</option>
-          <option value ="vi">Tiếng Việt</option>
-          <option value ="wa">Walon</option>
-          <option value ="wo">Wolof</option>
-          <option value ="xh">isiXhosa</option>
-          <option value ="yo">Yorùbá</option>
-          <option value ="zu">isiZul</option>
+          <option>Acholi</option>
+          <option>Afrikaans</option>
+          <option>Akan</option>
+          <option>አማርኛ</option>
+          <option>aragonés</option>
+          <option>العربية</option>
+          <option>অসমীয়া</option>
+          <option>Azərbaycan dili</option>
+          <option>Български</option>
+          <option>Bamanankan</option>
+          <option>বাংলা</option>
+          <option>brezhoneg</option>
+          <option>Bosanski</option>
+          <option>Català</option>
+          <option>Cymraeg</option>
+          <option>Dansk</option>
+          <option>Deutsch</option>
+          <option>Dolnoserbski</option>
+          <option>Español</option>
+          <option>Euskara</option>
+          <option>فارسی</option>
+          <option>Pulaar</option>
+          <option>vakaViti</option>
+          <option>føroyskt</option>
+          <option>Français</option>
+          <option>Gaeilge</option>
+          <option>Galego</option>
+          <option>Chawuncu</option>
+          <option>Avañe'ẽ</option>
+          <option>ગુજરાતી</option>
+          <option>Hausa</option>
+          <option>'Ōlelo Hawaiʻi</option>
+          <option>עברית</option>
+          <option>हिंदी</option>
+          <option>Hrvatski</option>
+          <option>Hornjoserbsce</option>
+          <option>Kreyòl Ayisyen</option>
+          <option>Magyar</option>
+          <option>Հայերեն</option>
+          <option>Bahasa Indonesia</option>
+          <option>Íslenska</option>
+          <option>Italiano</option>
+          <option>қазақ тілі</option>
+          <option>ខ្មែរ</option>
+          <option>ಕನ್ನಡ</option>
+          <option>한국어</option>
+          <option >कश्मीरी, كشميري‎</option>
+          <option>Kurdî</option>
+          <option>Oluganda</option>
+          <option>Lingála</option>
+          <option>Lietuvių</option>
+          <option>Latviešu</option>
+          <option>Malagasy</option>
+          <option>Македонски</option>
+          <option>മലയാളം</option>
+          <option>मराठी</option>
+          <option>Bahasa Melayu</option>
+          <option>မြန်မာဘာသာ</option>
+          <option>Norsk bokmål</option>
+          <option>isiNdebele</option>
+          <option>नेपाली</option>
+          <option>Nederlands</option>
+          <option>Chicheŵa</option>
+          <option>ଓଡ଼ିଆ</option>
+          <option>ਪੰਜਾਬੀ</option>
+          <option>Polski</option>
+          <option>پښﺕﻭ</option>
+          <option>Português</option>
+          <option>Kirundi</option>
+          <option>Română</option>
+          <option>Ikinyarwanda</option>
+          <option>सिन्धी, سنڌي،</option>
+          <option>සිංහල</option>
+          <option>Slovenčina</option>
+          <option>Slovenščina</option>
+          <option>Gagana Sāmoa</option>
+          <option>Shqip</option>
+          <option>Српски (ћирилица)</option>
+          <option>siSwati</option>
+          <option>Basa Sunda</option>
+          <option>Svenska</option>
+          <option>Kiswahili</option>
+          <option>தமிழ்</option>
+          <option>తెలుగు</option>
+          <option>Türkmençe</option>
+          <option>Tagalog</option>
+          <option>Setswana</option>
+          <option>Türkçe</option>
+          <option>Xitsonga</option>
+          <option>Татарча</option>
+          <option>ئۇيغۇرچە</option>
+          <option>Українська</option>
+          <option>ﺍﺭﺩﻭ</option>
+          <option>Ўзбек</option>
+          <option>Vèneto</option>
+          <option>Tiếng Việt</option>
+          <option>Walon</option>
+          <option>Wolof</option>
+          <option>isiXhosa</option>
+          <option>Yorùbá</option>
+          <option>isiZul</option>
                    </select>
 
         <?php

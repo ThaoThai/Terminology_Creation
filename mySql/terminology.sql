@@ -114,6 +114,8 @@ CREATE TABLE IF NOT EXISTS translation(
   PRIMARY KEY (`user_key`)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+ALTER TABLE translation ADD approved INT NOT NULL DEFAULT 1;
+
   CREATE TABLE IF NOT EXISTS sessions(
    `sid` varchar(40) NOT NULL ,
    `expiry` int(10) unsigned NOT NULL,
