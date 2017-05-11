@@ -17,6 +17,7 @@
 <link href="html/default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="html/fonts.css" rel="stylesheet" type="text/css" media="all" />
 <script src="scripts/select.js"></script>
+
 <script>
     function showBox()
     {
@@ -64,9 +65,7 @@ function showUser(str) {
 				<li class="active"><a href="index.php" accesskey="1" title="">Homepage</a></li>
 				<li><a href="php/account.php" accesskey="2" title="">My account</a></li>
 				<li><a href="html/about.html" accesskey="3" title="">About Us</a></li>
-                <!-- <li><a href="html/feedback.html" accesskey="4" title="">Feedback</a></li> -->
-                <li><a href="php/admin.php" accesskey="1" title="">Admin</a></li>
-                <!-- <li><a href="php/lobby.php" accesskey="4" title="Lobby"> My Lobby </a></li> -->
+                <li><a href="php/admin.php" accesskey="1" title="">Admin</a></li>                
 			</ul>
 		</div>
 	</div>
@@ -76,28 +75,6 @@ function showUser(str) {
                 Select:
              <select name="users" id="users" onchange="showBox();showUser(this.value)">
                 <option value =""> Your Language  </option>
-                <!-- <option value ="en"> Your Language  </option>
-               <option value ="az"> Azərbaycan dili</option>
-               <option value="ca"> Català</option>
-               <option value ="es"> Español</option>
-               <option value="fj"> vakaViti </option>
-               <option value="fr">Français</option>
-               <option value="ga">Gaeilge</option>
-               <option value="gl">Galego</option>
-               <option value="haw">ʻŌlelo Hawaiʻi</option>
-               <option value="id">Bahasa Indonesia</option>
-               <option value="it">Italiano</option>
-               <option value="ms">Bahasa Melayu</option>
-               <option value="pt">Português</option>
-               <option value="sm">Gagana Sāmoa</option>
-               <option value="su">Basa Sunda</option>
-               <option value="tk">Türkmençe</option>
-               <option value="tr">Türkçe</option>
-               <option value="tt">Татарча</option>
-               <option value="uz">Ўзбек</option>
-               <option value="vec">Vèneto</option>
-               <option value="wa">Walon</option> -->
-
                 <!-- <option value ="en">English</option> -->
                 <option value ="ach">Acholi</option>
                 <option value ="af">Afrikaans</option>
@@ -105,11 +82,11 @@ function showUser(str) {
                 <option value ="am">አማርኛ</option>
                 <option value ="an">aragonés</option>
                 <option value ="ar">العربية</option>
-                <option value ="as">অসমীয়া</option>
+                <!-- <option value ="as">অসমীয়া</option> -->
                 <option value ="az">Azərbaycan dili</option>
                 <option value ="bg">Български</option>
                 <option value ="bm">Bamanankan</option>
-                <option value ="bn">বাংলা</option>
+                <!-- <option value ="bn">বাংলা</option> -->
                 <option value ="br">brezhoneg</option>
                 <option value ="bs">Bosanski</option>
                 <option value ="ca">Català</option>
@@ -139,7 +116,7 @@ function showUser(str) {
                 <option value ="hu">Magyar</option>
                 <option value ="hy">Հայերեն</option>
                 <option value ="id">Bahasa Indonesia</option>
-                <option value ="is">Íslenska</option>
+                <!-- <option value ="is">Íslenska</option> -->
                 <option value ="it">Italiano</option>
                 <option value ="kk">қазақ тілі</option>
                 <option value ="km">ខ្មែរ</option>
@@ -162,7 +139,7 @@ function showUser(str) {
                 <option value ="np">नेपाली</option>
                 <option value ="nl">Nederlands</option>
                 <option value ="ny">Chicheŵa</option>
-                <option value ="or">ଓଡ଼ିଆ</option>
+                <!-- <option value ="or">ଓଡ଼ିଆ</option> -->
                 <option value ="pa">ਪੰਜਾਬੀ</option>
                 <option value ="pl">Polski</option>
                 <option value ="ps">پښﺕﻭ</option>
@@ -170,7 +147,7 @@ function showUser(str) {
                 <option value ="rn">Kirundi</option>
                 <option value ="ro">Română</option>
                 <option value ="rw">Ikinyarwanda</option>
-                <option value ="sd">सिन्धी, سنڌي،</option>
+                <option value ="sd">सिन्धी,سنڌي</option>
                 <option value ="si">සිංහල</option>
                 <option value ="sk">Slovenčina</option>
                 <option value ="sl">Slovenščina</option>
